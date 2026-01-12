@@ -1,0 +1,771 @@
+/*
+ * ============================================================
+ * Negi AI Lab - Custom Theme
+ * Premium Design System for ai.negi-lab.com
+ * ============================================================
+ * カラーパレット:
+ *   Primary:    #2ecc71 (Emerald Green)
+ *   Secondary:  #27ae60 (Dark Green)
+ *   Accent:     #1abc9c (Teal)
+ *   Background: #ffffff / #f8fdf9
+ *   Text:       #2c3e50 (Dark Slate)
+ * ============================================================
+ */
+
+/* ============================================================
+   CSS Variables Override (Light Theme)
+   ============================================================ */
+:root {
+  /* Primary Colors - Negi Emerald Green */
+  --primary: #2ecc71;
+  --primary-dark: #27ae60;
+  --primary-light: #58d68d;
+  --primary-ultra-light: #d5f5e3;
+  --primary-gradient: linear-gradient(135deg, #2ecc71 0%, #1abc9c 100%);
+  
+  /* Accent & Secondary */
+  --accent: #1abc9c;
+  --accent-dark: #16a085;
+  
+  /* Backgrounds */
+  --theme: #ffffff;
+  --entry: #ffffff;
+  --secondary: #f8fdf9;
+  --tertiary: #eafaf1;
+  --code-bg: #f4fdf7;
+  
+  /* Text Colors */
+  --content: #2c3e50;
+  --primary-text: #1a252f;
+  --secondary-text: #5d6d7e;
+  --muted-text: #7f8c8d;
+  
+  /* Borders */
+  --border: #d5f5e3;
+  --border-hover: #2ecc71;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(46, 204, 113, 0.08);
+  --shadow-md: 0 4px 12px rgba(46, 204, 113, 0.12);
+  --shadow-lg: 0 8px 30px rgba(46, 204, 113, 0.15);
+  --shadow-glow: 0 0 20px rgba(46, 204, 113, 0.25);
+}
+
+/* Dark Theme Override */
+.dark {
+  --primary: #2ecc71;
+  --primary-dark: #58d68d;
+  --primary-light: #82e0aa;
+  --primary-ultra-light: #1e3a2f;
+  
+  --theme: #0d1f17;
+  --entry: #132b21;
+  --secondary: #1a3d2e;
+  --tertiary: #234d3c;
+  --code-bg: #1a3d2e;
+  
+  --content: #e8f8f0;
+  --primary-text: #f0fdf6;
+  --secondary-text: #a8d5c2;
+  --muted-text: #7fb89e;
+  
+  --border: #2a5a46;
+  --border-hover: #2ecc71;
+}
+
+/* ============================================================
+   Global Styles
+   ============================================================ */
+body {
+  font-family: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Noto Sans JP", 
+               "Yu Gothic", "Meiryo", -apple-system, BlinkMacSystemFont, 
+               "Segoe UI", sans-serif;
+  background: var(--theme);
+  color: var(--content);
+  line-height: 1.8;
+  letter-spacing: 0.02em;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Selection highlight */
+::selection {
+  background: var(--primary);
+  color: #ffffff;
+}
+
+::-moz-selection {
+  background: var(--primary);
+  color: #ffffff;
+}
+
+/* ============================================================
+   Header - Premium Gradient Design
+   ============================================================ */
+.header {
+  background: linear-gradient(135deg, #ffffff 0%, #eafaf1 50%, #d5f5e3 100%);
+  border-bottom: 2px solid var(--primary-ultra-light);
+  box-shadow: var(--shadow-sm);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.dark .header {
+  background: linear-gradient(135deg, #0d1f17 0%, #132b21 50%, #1a3d2e 100%);
+  border-bottom-color: var(--border);
+}
+
+/* Logo - Negi Green Typography */
+.header .logo a {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: var(--primary-dark);
+  text-decoration: none;
+  letter-spacing: -0.02em;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+}
+
+.header .logo a:hover {
+  color: var(--primary);
+  text-shadow: var(--shadow-glow);
+  transform: translateY(-1px);
+}
+
+.dark .header .logo a {
+  color: var(--primary);
+}
+
+.dark .header .logo a:hover {
+  color: var(--primary-light);
+}
+
+/* Navigation Menu */
+.header nav {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+#menu a {
+  color: var(--secondary-text);
+  font-weight: 500;
+  font-size: 0.95rem;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  transition: all 0.25s ease;
+  position: relative;
+}
+
+#menu a:hover,
+#menu a.active {
+  color: var(--primary-dark);
+  background: var(--primary-ultra-light);
+}
+
+#menu a::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 2px;
+  background: var(--primary);
+  transition: all 0.3s ease;
+  transform: translateX(-50%);
+}
+
+#menu a:hover::after,
+#menu a.active::after {
+  width: 60%;
+}
+
+/* ============================================================
+   Main Content Area
+   ============================================================ */
+.main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* ============================================================
+   Post Entry Cards - Premium Card Design
+   ============================================================ */
+.post-entry {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  margin-bottom: 1.5rem;
+  overflow: hidden;
+  transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: var(--shadow-sm);
+}
+
+.post-entry:hover {
+  border-color: var(--primary);
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-4px);
+}
+
+.post-entry .entry-header h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: var(--primary-text);
+  margin: 0;
+  transition: color 0.25s ease;
+}
+
+.post-entry:hover .entry-header h2 {
+  color: var(--primary-dark);
+}
+
+.post-entry .entry-content {
+  padding: 1.25rem 1.5rem;
+}
+
+.post-entry .entry-footer {
+  padding: 0 1.5rem 1.25rem;
+  color: var(--muted-text);
+  font-size: 0.85rem;
+}
+
+/* Cover Image Styling */
+.post-entry .entry-cover {
+  border-radius: 16px 16px 0 0;
+  overflow: hidden;
+}
+
+.post-entry .entry-cover img {
+  transition: transform 0.5s ease;
+}
+
+.post-entry:hover .entry-cover img {
+  transform: scale(1.03);
+}
+
+/* ============================================================
+   Single Post Page
+   ============================================================ */
+.post-header {
+  margin-bottom: 2rem;
+}
+
+.post-title {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: var(--primary-text);
+  line-height: 1.4;
+  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+}
+
+.post-meta {
+  color: var(--muted-text);
+  font-size: 0.9rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+}
+
+.post-content {
+  font-size: 1.05rem;
+  line-height: 2;
+  color: var(--content);
+}
+
+.post-content h2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--primary-dark);
+  margin: 2.5rem 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 3px solid var(--primary-ultra-light);
+  position: relative;
+}
+
+.post-content h2::before {
+  content: "";
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 60px;
+  height: 3px;
+  background: var(--primary);
+  border-radius: 2px;
+}
+
+.post-content h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--primary-text);
+  margin: 2rem 0 0.8rem;
+}
+
+.post-content p {
+  margin-bottom: 1.5rem;
+}
+
+.post-content a {
+  color: var(--primary-dark);
+  text-decoration: none;
+  border-bottom: 1px solid var(--primary-light);
+  transition: all 0.25s ease;
+}
+
+.post-content a:hover {
+  color: var(--primary);
+  border-bottom-color: var(--primary);
+  background: var(--primary-ultra-light);
+  padding: 0 0.2em;
+  margin: 0 -0.2em;
+  border-radius: 3px;
+}
+
+/* Blockquote */
+.post-content blockquote {
+  border-left: 4px solid var(--primary);
+  background: var(--tertiary);
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  border-radius: 0 12px 12px 0;
+  font-style: italic;
+  color: var(--secondary-text);
+}
+
+/* Code Blocks */
+.post-content code {
+  background: var(--code-bg);
+  color: var(--primary-dark);
+  padding: 0.2em 0.5em;
+  border-radius: 6px;
+  font-size: 0.9em;
+  font-family: "JetBrains Mono", "Fira Code", "Source Code Pro", monospace;
+}
+
+.post-content pre {
+  background: #1e272e;
+  border-radius: 12px;
+  padding: 1.5rem;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+  box-shadow: var(--shadow-md);
+}
+
+.post-content pre code {
+  background: transparent;
+  color: #e8f8f0;
+  padding: 0;
+}
+
+/* Lists */
+.post-content ul,
+.post-content ol {
+  margin: 1rem 0 1.5rem 1.5rem;
+}
+
+.post-content li {
+  margin-bottom: 0.5rem;
+}
+
+.post-content ul li::marker {
+  color: var(--primary);
+}
+
+.post-content ol li::marker {
+  color: var(--primary-dark);
+  font-weight: 600;
+}
+
+/* ============================================================
+   Buttons & Interactive Elements
+   ============================================================ */
+.pagination a,
+.pagination span {
+  padding: 0.6rem 1rem;
+  border-radius: 10px;
+  font-weight: 500;
+  transition: all 0.25s ease;
+}
+
+.pagination a {
+  background: var(--secondary);
+  color: var(--secondary-text);
+  border: 1px solid var(--border);
+}
+
+.pagination a:hover {
+  background: var(--primary);
+  color: #ffffff;
+  border-color: var(--primary);
+  box-shadow: var(--shadow-md);
+}
+
+.pagination .page-number.active {
+  background: var(--primary);
+  color: #ffffff;
+  border-color: var(--primary);
+}
+
+/* Share Buttons */
+.share-buttons {
+  margin: 2rem 0;
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.share-buttons a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  background: var(--secondary);
+  color: var(--secondary-text);
+  border: 1px solid var(--border);
+  transition: all 0.25s ease;
+}
+
+.share-buttons a:hover {
+  background: var(--primary);
+  color: #ffffff;
+  border-color: var(--primary);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+/* ============================================================
+   Tags & Categories
+   ============================================================ */
+.post-tags a,
+.terms-tags a {
+  display: inline-block;
+  padding: 0.35rem 0.9rem;
+  margin: 0.25rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  background: var(--primary-ultra-light);
+  color: var(--primary-dark);
+  border: 1px solid transparent;
+  transition: all 0.25s ease;
+}
+
+.post-tags a:hover,
+.terms-tags a:hover {
+  background: var(--primary);
+  color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-sm);
+}
+
+/* ============================================================
+   Table of Contents
+   ============================================================ */
+.toc {
+  background: var(--secondary);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.toc-title {
+  font-weight: 700;
+  color: var(--primary-dark);
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.toc ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.toc li {
+  margin: 0.4rem 0;
+}
+
+.toc a {
+  color: var(--secondary-text);
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+  display: inline-block;
+  padding: 0.2rem 0;
+  border-left: 2px solid transparent;
+  padding-left: 0.75rem;
+}
+
+.toc a:hover {
+  color: var(--primary-dark);
+  border-left-color: var(--primary);
+}
+
+/* ============================================================
+   Footer
+   ============================================================ */
+.footer {
+  background: linear-gradient(135deg, #f8fdf9 0%, #eafaf1 100%);
+  border-top: 1px solid var(--border);
+  padding: 2rem 1.5rem;
+  text-align: center;
+  color: var(--muted-text);
+  font-size: 0.9rem;
+}
+
+.dark .footer {
+  background: linear-gradient(135deg, #0d1f17 0%, #132b21 100%);
+}
+
+.footer a {
+  color: var(--primary-dark);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.footer a:hover {
+  color: var(--primary);
+}
+
+/* ============================================================
+   Search Page
+   ============================================================ */
+#searchbox {
+  background: var(--entry);
+  border: 2px solid var(--border);
+  border-radius: 12px;
+  padding: 1rem 1.5rem;
+  font-size: 1.1rem;
+  width: 100%;
+  transition: all 0.25s ease;
+  color: var(--content);
+}
+
+#searchbox:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: var(--shadow-glow);
+}
+
+#searchbox::placeholder {
+  color: var(--muted-text);
+}
+
+/* ============================================================
+   Scroll to Top Button
+   ============================================================ */
+#top-link {
+  background: var(--primary);
+  color: #ffffff;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-md);
+  transition: all 0.3s ease;
+}
+
+#top-link:hover {
+  background: var(--primary-dark);
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+}
+
+/* ============================================================
+   Theme Toggle
+   ============================================================ */
+#theme-toggle {
+  background: var(--secondary);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.5rem;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+#theme-toggle:hover {
+  background: var(--primary-ultra-light);
+  border-color: var(--primary);
+}
+
+#theme-toggle svg {
+  color: var(--primary-dark);
+}
+
+/* ============================================================
+   Home Info Section
+   ============================================================ */
+.first-entry {
+  background: linear-gradient(135deg, var(--primary-ultra-light) 0%, #ffffff 100%);
+  border: 2px solid var(--primary-light);
+  border-radius: 20px;
+  padding: 2.5rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  box-shadow: var(--shadow-md);
+}
+
+.dark .first-entry {
+  background: linear-gradient(135deg, #1a3d2e 0%, #132b21 100%);
+  border-color: var(--primary-dark);
+}
+
+.first-entry .entry-header h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--primary-dark);
+  margin-bottom: 1rem;
+}
+
+.first-entry .entry-content {
+  font-size: 1.1rem;
+  color: var(--secondary-text);
+  line-height: 1.8;
+}
+
+/* Social Icons */
+.social-icons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--secondary);
+  color: var(--secondary-text);
+  border: 1px solid var(--border);
+  margin: 0.25rem;
+  transition: all 0.25s ease;
+}
+
+.social-icons a:hover {
+  background: var(--primary);
+  color: #ffffff;
+  border-color: var(--primary);
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+}
+
+/* ============================================================
+   Breadcrumbs
+   ============================================================ */
+.breadcrumbs {
+  font-size: 0.9rem;
+  color: var(--muted-text);
+  margin-bottom: 1rem;
+}
+
+.breadcrumbs a {
+  color: var(--primary-dark);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.breadcrumbs a:hover {
+  color: var(--primary);
+}
+
+/* ============================================================
+   Responsive Design
+   ============================================================ */
+@media (max-width: 768px) {
+  .header {
+    padding: 0.75rem 1rem;
+  }
+  
+  .header .logo a {
+    font-size: 1.3rem;
+  }
+  
+  #menu a {
+    padding: 0.4rem 0.7rem;
+    font-size: 0.85rem;
+  }
+  
+  .main {
+    padding: 1.5rem 1rem;
+  }
+  
+  .post-title {
+    font-size: 1.6rem;
+  }
+  
+  .post-content h2 {
+    font-size: 1.35rem;
+  }
+  
+  .first-entry {
+    padding: 1.5rem;
+  }
+  
+  .first-entry .entry-header h1 {
+    font-size: 1.5rem;
+  }
+}
+
+/* ============================================================
+   Animations & Micro-interactions
+   ============================================================ */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.post-entry {
+  animation: fadeInUp 0.5s ease forwards;
+}
+
+.post-entry:nth-child(1) { animation-delay: 0.1s; }
+.post-entry:nth-child(2) { animation-delay: 0.2s; }
+.post-entry:nth-child(3) { animation-delay: 0.3s; }
+.post-entry:nth-child(4) { animation-delay: 0.4s; }
+.post-entry:nth-child(5) { animation-delay: 0.5s; }
+
+/* Focus states for accessibility */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+/* Print styles */
+@media print {
+  .header,
+  .footer,
+  .share-buttons,
+  #top-link,
+  .toc {
+    display: none;
+  }
+  
+  .post-content {
+    font-size: 12pt;
+    line-height: 1.6;
+  }
+}

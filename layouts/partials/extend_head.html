@@ -1,0 +1,15 @@
+{{/* Google AdSense - Uncomment and add your client ID when ready */}}
+{{- if and (isset .Site.Params "adsense") .Site.Params.adsense.enabled }}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.adsense.client }}" crossorigin="anonymous"></script>
+{{- end }}
+
+{{/* Additional meta tags for better SEO */}}
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+{{/* Preconnect for performance */}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+{{/* Custom favicon - Add your favicon files to /static/ */}}
+{{/* <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> */}}
+{{/* <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> */}}

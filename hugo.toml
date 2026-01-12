@@ -1,0 +1,161 @@
+########################################
+# Negi AI Lab - Hugo Configuration
+########################################
+
+baseURL = "https://ai.negi-lab.com/"
+languageCode = "ja"
+defaultContentLanguage = "ja"
+title = "Negi AI Lab"
+theme = "PaperMod"
+
+# ビルド設定
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+# 日本語向けサマリー設定
+hasCJKLanguage = true
+summaryLength = 120
+
+# RSS / Sitemap
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+########################################
+# PaperMod テーマ設定
+########################################
+
+[params]
+  # サイト基本情報
+  env = "production"
+  author = "Negi AI Lab"
+  description = "AIの最新トレンドを辛口でお届けするテックブログ"
+  keywords = ["AI", "人工知能", "機械学習", "Gemini", "OpenAI", "ChatGPT"]
+  
+  # デフォルトテーマ (light / dark / auto)
+  defaultTheme = "light"
+  disableThemeToggle = false
+  
+  # 検索機能 (PaperMod built-in)
+  fuseOpts = { isCaseSensitive = false, shouldSort = true, location = 0, distance = 1000, threshold = 0.4, minMatchCharLength = 0, keys = ["title", "permalink", "summary", "content"] }
+  
+  # 記事表示設定
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+  
+  # OGP / Twitter Cards
+  images = ["images/og-default.png"]
+  
+  # Google AdSense (ヘッダーにスクリプト挿入用)
+  # 実際のコードは layouts/partials/extend_head.html でカスタマイズ
+  [params.adsense]
+    client = ""  # ca-pub-XXXXXXXXXX
+    enabled = false
+  
+  # 分析 (Google Analytics 4)
+  [params.analytics]
+    google = { SiteVerificationTag = "" }
+  
+  # ホームページ情報モード
+  [params.homeInfoParams]
+    Title = "Negi AI Lab"
+    Content = "AIの最新トレンドを辛口でお届け。Gemini, OpenAI, 機械学習の検証シミュレーションを毎日更新中。"
+  
+  # SNS リンク
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/negi-lab"
+  
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
+
+# カバー画像設定
+[params.cover]
+  hidden = false
+  hiddenInList = false
+  hiddenInSingle = false
+  responsiveImages = true
+
+# 編集リンク (GitHub 連携する場合)
+[params.editPost]
+  URL = ""
+  Text = ""
+  appendFilePath = false
+
+########################################
+# メニュー設定
+########################################
+
+[[menu.main]]
+  identifier = "home"
+  name = "ホーム"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "posts"
+  name = "記事一覧"
+  url = "/posts/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "categories"
+  name = "カテゴリ"
+  url = "/categories/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "tags"
+  name = "タグ"
+  url = "/tags/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "search"
+  name = "検索"
+  url = "/search/"
+  weight = 50
+
+########################################
+# Markup / シンタックスハイライト
+########################################
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    noClasses = false
+    style = "monokai"
+  
+  [markup.goldmark.renderer]
+    unsafe = true
+
+########################################
+# Minify (本番ビルド最適化)
+########################################
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
