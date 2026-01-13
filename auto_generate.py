@@ -855,17 +855,21 @@ class ImageHandler:
 # ============================================================
 
 class TwitterPoster:
-    """X (Twitter) への自動投稿を行うクラス"""
+    """X (Twitter) への自動投稿を行うクラス（無料プラン対応）"""
 
     def __init__(self) -> None:
         """
         環境変数から認証情報を読み込み、Tweepy Clientを初期化。
-        必要な環境変数:
-          - TWITTER_API_KEY
-          - TWITTER_API_SECRET
+        
+        必要な環境変数 (OAuth 1.0a):
+          - TWITTER_API_KEY (Consumer Key)
+          - TWITTER_API_SECRET (Consumer Secret)
           - TWITTER_ACCESS_TOKEN
           - TWITTER_ACCESS_TOKEN_SECRET
-          - TWITTER_BEARER_TOKEN (v2 API用)
+        
+        オプション (OAuth 2.0 - 将来の拡張用):
+          - TWITTER_CLIENT_ID
+          - TWITTER_CLIENT_SECRET
         """
         if not TWEEPY_AVAILABLE:
             raise RuntimeError("tweepy is not installed. Run: pip install tweepy")
@@ -874,12 +878,11 @@ class TwitterPoster:
         self.api_secret = os.getenv("TWITTER_API_SECRET", "")
         self.access_token = os.getenv("TWITTER_ACCESS_TOKEN", "")
         self.access_token_secret = os.getenv("TWITTER_ACCESS_TOKEN_SECRET", "")
-        self.bearer_token = os.getenv("TWITTER_BEARER_TOKEN", "")
 
         if not all([self.api_key, self.api_secret, self.access_token, self.access_token_secret]):
             raise RuntimeError("Twitter API credentials not configured in environment variables")
 
-        # v1.1 API (for media upload)
+        # v1.1 API (for media upload - requires Basic plan $100/month)
         auth = tweepy.OAuth1UserHandler(
             self.api_key,
             self.api_secret,
@@ -888,9 +891,8 @@ class TwitterPoster:
         )
         self.api_v1 = tweepy.API(auth)
 
-        # v2 API (for tweeting)
+        # v2 API (for tweeting - works with Free plan)
         self.client = tweepy.Client(
-            bearer_token=self.bearer_token,
             consumer_key=self.api_key,
             consumer_secret=self.api_secret,
             access_token=self.access_token,
@@ -911,7 +913,7 @@ class TwitterPoster:
         Args:
             title: 記事タイトル
             url: 記事のURL (デプロイ後のURL)
-            image_data: 画像のバイトデータ（ローカルファイルから読み込み済み）
+            image_data: 画像のバイトデータ（Basic plan以上で使用可能）
             category: 記事カテゴリー
             hashtags: 追加するハッシュタグリスト
 
@@ -936,13 +938,18 @@ class TwitterPoster:
 
             tweet_text = f"📢 {short_title}\n\n{url}\n\n{tag_str} #NegiAILab"
 
-            # 画像をアップロード
-            media_id = self._upload_image_from_bytes(image_data) if image_data else None
+            # 画像アップロードを試みる（Basic plan以上で動作）
+            media_id = None
+            if image_data:
+                media_id = self._upload_image_from_bytes(image_data)
+                if not media_id:
+                    print("  [Twitter] Falling back to text-only tweet (Free plan)")
 
             # ツイート投稿
             if media_id:
                 self.client.create_tweet(text=tweet_text, media_ids=[media_id])
             else:
+                # テキストのみで投稿（無料プランでも可能）
                 self.client.create_tweet(text=tweet_text)
 
             return True
@@ -954,6 +961,7 @@ class TwitterPoster:
     def _upload_image_from_bytes(self, image_data: bytes) -> Optional[str]:
         """
         画像バイトデータをTwitterにアップロード。
+        ※ 無料プランでは使用不可（Basic $100/月以上が必要）
 
         Args:
             image_data: 画像のバイトデータ
@@ -965,12 +973,16 @@ class TwitterPoster:
             # BytesIOでファイルライクオブジェクトとして扱う
             image_file = io.BytesIO(image_data)
 
-            # Twitterにアップロード (v1.1 API)
+            # Twitterにアップロード (v1.1 API - requires paid plan)
             media = self.api_v1.media_upload(filename="thumbnail.png", file=image_file)
             return str(media.media_id)
 
         except Exception as e:
-            print(f"  [Twitter] Image upload failed: {e}")
+            # 無料プランの場合は402/403エラーが発生
+            if "402" in str(e) or "403" in str(e) or "Payment" in str(e):
+                pass  # Expected on Free plan, will fallback to text-only
+            else:
+                print(f"  [Twitter] Image upload failed: {e}")
             return None
 
 
