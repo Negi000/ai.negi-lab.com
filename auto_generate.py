@@ -71,6 +71,10 @@ CATEGORY_RATIOS = {
     "GUIDE": 0.2,
 }
 
+# アフィリエイト設定
+AMAZON_ASSOCIATE_TAG = os.environ.get("AMAZON_ASSOCIATE_TAG", "negi3939-22")
+RAKUTEN_AFFILIATE_ID = os.environ.get("RAKUTEN_AFFILIATE_ID", "5000cbfd.5f52567b.5000cbff.924460a4")
+
 # User-Agent for requests
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
@@ -450,6 +454,19 @@ class NewsCollector:
 
 
 # ============================================================
+# Article Result Data Class
+# ============================================================
+
+@dataclass
+class ArticleResult:
+    """記事生成結果を保持するデータクラス"""
+    title: str
+    body: str
+    shopping_keyword: Optional[str] = None
+    viral_tags: Optional[str] = None  # "#タグ1 #タグ2" 形式
+
+
+# ============================================================
 # Article Generator
 # ============================================================
 
@@ -460,9 +477,9 @@ class ArticleGenerator:
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(model_name)
 
-    def generate_article(self, item: NewsItem) -> Tuple[str, str]:
+    def generate_article(self, item: NewsItem) -> ArticleResult:
         """
-        記事を生成し、(タイトル, 本文) を返す。
+        記事を生成し、ArticleResultを返す。
         """
         prompt = self._build_prompt(item)
 
@@ -492,8 +509,7 @@ class ArticleGenerator:
             lines.pop()
         cleaned = "\n".join(lines).strip()
 
-        title, body = self._extract_title_and_body(cleaned)
-        return title, body
+        return self._extract_title_and_body(cleaned)
 
     def _build_prompt(self, item: NewsItem) -> str:
         """カテゴリーに応じたプロンプトを構築"""
@@ -548,6 +564,24 @@ class ArticleGenerator:
 ## Negi Labの見解
 
 （辛口だが建設的なコメント）
+
+---
+### 【重要】キーワード選定タスク
+記事執筆後、以下の2種類のキーワードセットを選定し、記事の末尾に指定のフォーマットで追記してください。
+
+**1. 商品検索キーワード (Shopping Keyword)**
+読者がAmazonや楽天で検索ボタンを押した際、最も適切な商品一覧が表示されるような「具体的な製品名」や「型番」を選定すること。
+- **禁止:** 「PC」「GPU」のような広すぎる1単語（ノイズ商品が混ざる）
+- **禁止:** 長すぎる正式名称（検索ヒット0になる）
+- **推奨:** **2〜3単語**の組み合わせ（例: "MacBook Air M3", "RTX 4070 Ti", "Python オライリー"）
+- フォーマット: `[SHOPPING: キーワード]`
+
+**2. SNS拡散用ハッシュタグ (Viral Tags)**
+X (Twitter) でインプレッションを稼ぐための、需要があり記事内容に関連するトレンドワード。
+- **日本語で、ハッシュタグ（#）付きで2つだけ**選定
+- 商品名ではなく「興味関心軸」で選ぶ（例: RTX4090の記事なら `#自作PC` `#ゲーミングPC`）
+- フォーマット: `[HASHTAGS: #タグ1 #タグ2]`
+---
 
 【禁止事項】
 - YAML/TOML Front Matterは出力しない
@@ -629,6 +663,24 @@ print(result)
 
 （星評価: ★★★☆☆ のような形式も可）
 
+---
+### 【重要】キーワード選定タスク
+記事執筆後、以下の2種類のキーワードセットを選定し、記事の末尾に指定のフォーマットで追記してください。
+
+**1. 商品検索キーワード (Shopping Keyword)**
+読者がAmazonや楽天で検索ボタンを押した際、最も適切な商品一覧が表示されるような「具体的な製品名」や「型番」を選定すること。
+- **禁止:** 「PC」「GPU」のような広すぎる1単語（ノイズ商品が混ざる）
+- **禁止:** 長すぎる正式名称（検索ヒット0になる）
+- **推奨:** **2〜3単語**の組み合わせ（例: "RTX 4090", "Raspberry Pi 5", "Python 入門書"）
+- フォーマット: `[SHOPPING: キーワード]`
+
+**2. SNS拡散用ハッシュタグ (Viral Tags)**
+X (Twitter) でインプレッションを稼ぐための、需要があり記事内容に関連するトレンドワード。
+- **日本語で、ハッシュタグ（#）付きで2つだけ**選定
+- 商品名ではなく「興味関心軸」で選ぶ（例: 開発ツールの記事なら `#プログラミング` `#エンジニア`）
+- フォーマット: `[HASHTAGS: #タグ1 #タグ2]`
+---
+
 【禁止事項】
 - YAML/TOML Front Matterは出力しない
 - HTMLタグは使わない
@@ -700,12 +752,33 @@ print(result)
 
 （締めの言葉と、次に学ぶべきことへの誘導）
 
+---
+### 【重要】キーワード選定タスク
+記事執筆後、以下の2種類のキーワードセットを選定し、記事の末尾に指定のフォーマットで追記してください。
+
+**1. 商品検索キーワード (Shopping Keyword)**
+読者がAmazonや楽天で検索ボタンを押した際、最も適切な商品一覧が表示されるような「具体的な製品名」や「型番」を選定すること。
+- **禁止:** 「PC」「GPU」のような広すぎる1単語（ノイズ商品が混ざる）
+- **禁止:** 長すぎる正式名称（検索ヒット0になる）
+- **推奨:** **2〜3単語**の組み合わせ（例: "NVIDIA Jetson Nano", "Arduino スターターキット", "機械学習 入門書"）
+- フォーマット: `[SHOPPING: キーワード]`
+
+**2. SNS拡散用ハッシュタグ (Viral Tags)**
+X (Twitter) でインプレッションを稼ぐための、需要があり記事内容に関連するトレンドワード。
+- **日本語で、ハッシュタグ（#）付きで2つだけ**選定
+- 商品名ではなく「興味関心軸」で選ぶ（例: チュートリアル記事なら `#プログラミング初心者` `#独学`）
+- フォーマット: `[HASHTAGS: #タグ1 #タグ2]`
+---
+
 【禁止事項】
 - YAML/TOML Front Matterは出力しない
 - HTMLタグは使わない
 '''
 
-    def _extract_title_and_body(self, text: str) -> Tuple[str, str]:
+    def _extract_title_and_body(self, text: str) -> ArticleResult:
+        """
+        Gemini出力からタイトル、本文、キーワード、ハッシュタグを抽出。
+        """
         lines = [ln.rstrip() for ln in text.splitlines()]
         title = ""
         body_start = 0
@@ -726,7 +799,86 @@ print(result)
         if not body:
             body = "(本文生成に失敗しました)"
 
-        return title, body
+        # ダブルキーワード抽出とアフィリエイトリンク追加
+        body, shopping_keyword, viral_tags = self._extract_keywords_and_add_affiliate(body)
+
+        return ArticleResult(
+            title=title,
+            body=body,
+            shopping_keyword=shopping_keyword,
+            viral_tags=viral_tags,
+        )
+
+    def _extract_keywords_and_add_affiliate(self, body: str) -> Tuple[str, Optional[str], Optional[str]]:
+        """
+        本文から[SHOPPING: xxx]と[HASHTAGS: xxx]を抽出し、アフィリエイトリンクを追加する。
+        
+        Returns:
+            (処理済み本文, shopping_keyword, viral_tags)
+        """
+        # 1. Shopping Keyword 抽出
+        shopping_pattern = r'\[SHOPPING:\s*(.+?)\]'
+        shopping_match = re.search(shopping_pattern, body)
+        shopping_keyword = None
+        if shopping_match:
+            shopping_keyword = shopping_match.group(1).strip()
+            # 行全体を削除（前後の空行も含む）
+            body = re.sub(r'\n*\[SHOPPING:[^\]]+\]\n*', '\n', body)
+        
+        # 2. Viral Tags 抽出
+        hashtags_pattern = r'\[HASHTAGS:\s*(.+?)\]'
+        hashtags_match = re.search(hashtags_pattern, body)
+        viral_tags = None
+        if hashtags_match:
+            viral_tags = hashtags_match.group(1).strip()
+            # 行全体を削除（前後の空行も含む）
+            body = re.sub(r'\n*\[HASHTAGS:[^\]]+\]\n*', '\n', body)
+        
+        # 3. 旧形式の[KEYWORD: xxx]も念のため除去（互換性）
+        body = re.sub(r'\n*\[KEYWORD:[^\]]+\]\n*', '\n', body)
+        
+        # 4. 末尾の「---」以降のキーワード選定タスク指示も除去
+        body = re.sub(r'\n---\n### 【重要】キーワード選定タスク[\s\S]*$', '', body)
+        
+        # 5. クリーンアップ（連続する空行を整理）
+        body = re.sub(r'\n{3,}', '\n\n', body).strip()
+        
+        # 6. アフィリエイトリンクを追加
+        if shopping_keyword:
+            affiliate_section = self._generate_affiliate_links(shopping_keyword)
+            body = body + "\n\n" + affiliate_section
+        
+        return body, shopping_keyword, viral_tags
+
+    def _generate_affiliate_links(self, keyword: str) -> str:
+        """
+        キーワードからAmazon/楽天のアフィリエイトリンクボタンを生成。
+        """
+        encoded_keyword = quote(keyword, safe="")
+        
+        amazon_url = f"https://www.amazon.co.jp/s?k={encoded_keyword}&tag={AMAZON_ASSOCIATE_TAG}"
+        rakuten_url = f"https://search.rakuten.co.jp/search/mall/{encoded_keyword}/?scid={RAKUTEN_AFFILIATE_ID}"
+        
+        # Markdown + インラインCSS でボタン風リンクを生成
+        affiliate_html = f'''
+---
+
+## 関連商品をチェック
+
+<div style="display: flex; gap: 12px; flex-wrap: wrap; margin: 20px 0;">
+  <a href="{amazon_url}" target="_blank" rel="noopener noreferrer sponsored" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 24px; background: linear-gradient(135deg, #ff9900 0%, #ff6600 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 12px rgba(255, 153, 0, 0.3); transition: transform 0.2s;">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+    Amazonで「{keyword}」を検索
+  </a>
+  <a href="{rakuten_url}" target="_blank" rel="noopener noreferrer sponsored" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 24px; background: linear-gradient(135deg, #bf0000 0%, #8b0000 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: bold; box-shadow: 0 4px 12px rgba(191, 0, 0, 0.3); transition: transform 0.2s;">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+    楽天で「{keyword}」を検索
+  </a>
+</div>
+
+<small style="color: #888;">※上記リンクはアフィリエイトリンクです。購入により当サイトに収益が発生する場合があります。</small>
+'''
+        return affiliate_html
 
 
 # ============================================================
@@ -904,7 +1056,7 @@ class TwitterPoster:
         title: str,
         url: str,
         category: Category,
-        hashtags: Optional[List[str]] = None,
+        viral_tags: Optional[str] = None,
     ) -> bool:
         """
         記事をTwitterに投稿する（URLのみ、Twitterカードで画像表示）。
@@ -913,29 +1065,45 @@ class TwitterPoster:
             title: 記事タイトル
             url: 記事のURL (Twitterカードで自動的にOGP画像が表示される)
             category: 記事カテゴリー
-            hashtags: 追加するハッシュタグリスト
+            viral_tags: Geminiが選んだSNS拡散用ハッシュタグ（例: "#自作PC #ゲーミング"）
 
         Returns:
             投稿成功時True
         """
         try:
-            # カテゴリー別のデフォルトハッシュタグ
-            default_tags = {
-                Category.NEWS: ["AI速報", "AIニュース"],
-                Category.TOOL: ["AIツール", "開発者向け"],
-                Category.GUIDE: ["AI入門", "チュートリアル"],
+            # カテゴリー別アイコン
+            category_icons = {
+                Category.NEWS: "📰",
+                Category.TOOL: "🛠️",
+                Category.GUIDE: "📖",
             }
+            icon = category_icons.get(category, "📢")
 
-            tags = hashtags or default_tags.get(category, ["AI"])
-            tag_str = " ".join([f"#{t}" for t in tags[:3]])  # 最大3つ
-
-            # ツイート本文を作成 (280文字制限を考慮)
-            # URLを含めることでTwitterカードが自動表示される
+            # タイトルを短縮（80文字制限）
             max_title_len = 80
             short_title = title[:max_title_len] + "..." if len(title) > max_title_len else title
 
-            # URLを含めるとTwitterカードでOGP画像が自動表示される
-            tweet_text = f"📢 {short_title}\n\n{url}\n\n{tag_str} #NegiAILab"
+            # ハッシュタグ構成
+            # viral_tags が "#タグ1 #タグ2" 形式で来る想定
+            # フォールバック: viral_tags がない場合はカテゴリに応じたデフォルト
+            if viral_tags:
+                # Geminiが選んだタグを使用
+                tag_str = viral_tags
+            else:
+                # フォールバック用デフォルトタグ
+                default_tags = {
+                    Category.NEWS: "#AI速報 #テック",
+                    Category.TOOL: "#開発ツール #エンジニア",
+                    Category.GUIDE: "#プログラミング #学習",
+                }
+                tag_str = default_tags.get(category, "#AI #テック")
+
+            # ツイート本文を構成
+            # {icon} {タイトル}
+            # 詳細はこちら👇
+            # {URL}
+            # {viral_tags} #NegiLab
+            tweet_text = f"{icon} {short_title}\n\n詳細はこちら👇\n{url}\n\n{tag_str} #NegiLab"
 
             # テキストのみで投稿（URLからTwitterカードが生成される）
             self.client.create_tweet(text=tweet_text)
@@ -1004,6 +1172,209 @@ def write_hugo_markdown(
 
 
 # ============================================================
+# Twitter Posting Queue (デプロイ後投稿用)
+# ============================================================
+
+@dataclass
+class TwitterQueueItem:
+    """X投稿キューのアイテム"""
+    article_id: str
+    title: str
+    url: str
+    category: str  # "NEWS", "TOOL", "GUIDE"
+    viral_tags: Optional[str]
+    created_at: str
+
+
+class TwitterPostingQueue:
+    """X投稿キューの管理（JSON永続化）"""
+
+    def __init__(self, path: Path) -> None:
+        self.path = path
+        self._queue: List[Dict] = []
+
+    def load(self) -> List[Dict]:
+        if not self.path.exists():
+            self._queue = []
+            return self._queue
+        try:
+            data = json.loads(self.path.read_text(encoding="utf-8"))
+            self._queue = data if isinstance(data, list) else []
+        except Exception:
+            self._queue = []
+        return self._queue
+
+    def add(self, item: TwitterQueueItem) -> None:
+        if not self._queue:
+            self.load()
+        self._queue.append({
+            "article_id": item.article_id,
+            "title": item.title,
+            "url": item.url,
+            "category": item.category,
+            "viral_tags": item.viral_tags,
+            "created_at": item.created_at,
+            "posted": False,
+        })
+        self._save()
+
+    def get_pending(self) -> List[Dict]:
+        if not self._queue:
+            self.load()
+        return [item for item in self._queue if not item.get("posted", False)]
+
+    def mark_posted(self, article_id: str) -> None:
+        if not self._queue:
+            self.load()
+        for item in self._queue:
+            if item["article_id"] == article_id:
+                item["posted"] = True
+        self._save()
+
+    def get_by_id(self, article_id: str) -> Optional[Dict]:
+        if not self._queue:
+            self.load()
+        for item in self._queue:
+            if item["article_id"] == article_id:
+                return item
+        return None
+
+    def _save(self) -> None:
+        self.path.parent.mkdir(parents=True, exist_ok=True)
+        self.path.write_text(
+            json.dumps(self._queue, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+
+
+def post_single_article_to_twitter(article_id: str) -> int:
+    """
+    指定した記事IDをXに投稿する（デプロイ完了後に使用）。
+    
+    Usage: python auto_generate.py --post-twitter 2026-01-14-abc12345
+    """
+    print("=" * 60)
+    print("Negi AI Lab - Post to X (Twitter)")
+    print("=" * 60)
+    print(f"Article ID: {article_id}")
+    print()
+
+    # キューから記事情報を取得
+    repo_root = Path(__file__).resolve().parent
+    queue = TwitterPostingQueue(repo_root / "twitter_queue.json")
+    queue.load()
+
+    item = queue.get_by_id(article_id)
+    if not item:
+        print(f"[ERROR] Article ID '{article_id}' not found in queue.")
+        print("  Run article generation first, or check twitter_queue.json")
+        return 1
+
+    if item.get("posted", False):
+        print(f"[WARN] Article already posted to X.")
+        return 0
+
+    # Twitter認証チェック
+    if not is_twitter_configured():
+        print("[ERROR] Twitter API credentials not configured.")
+        return 2
+
+    if not TWEEPY_AVAILABLE:
+        print("[ERROR] tweepy is not installed.")
+        return 2
+
+    try:
+        poster = TwitterPoster()
+        
+        # カテゴリー文字列をEnumに変換
+        category_map = {
+            "NEWS": Category.NEWS,
+            "TOOL": Category.TOOL,
+            "GUIDE": Category.GUIDE,
+        }
+        category = category_map.get(item["category"], Category.NEWS)
+
+        success = poster.post_article(
+            title=item["title"],
+            url=item["url"],
+            category=category,
+            viral_tags=item.get("viral_tags"),
+        )
+
+        if success:
+            queue.mark_posted(article_id)
+            print(f"✓ Successfully posted to X!")
+            print(f"  Title: {item['title'][:50]}...")
+            print(f"  URL: {item['url']}")
+            return 0
+        else:
+            print("✗ Failed to post to X.")
+            return 1
+
+    except Exception as e:
+        print(f"[ERROR] {e}")
+        return 1
+
+
+def post_all_pending_to_twitter() -> int:
+    """
+    キュー内の未投稿記事をすべてXに投稿する。
+    
+    Usage: python auto_generate.py --post-all-twitter
+    """
+    print("=" * 60)
+    print("Negi AI Lab - Post All Pending to X")
+    print("=" * 60)
+
+    repo_root = Path(__file__).resolve().parent
+    queue = TwitterPostingQueue(repo_root / "twitter_queue.json")
+    pending = queue.get_pending()
+
+    if not pending:
+        print("No pending articles to post.")
+        return 0
+
+    print(f"Found {len(pending)} pending articles.")
+    print()
+
+    if not is_twitter_configured() or not TWEEPY_AVAILABLE:
+        print("[ERROR] Twitter not configured or tweepy not installed.")
+        return 2
+
+    poster = TwitterPoster()
+    success_count = 0
+
+    for item in pending:
+        print(f"Posting: {item['title'][:40]}...")
+        
+        category_map = {
+            "NEWS": Category.NEWS,
+            "TOOL": Category.TOOL,
+            "GUIDE": Category.GUIDE,
+        }
+        category = category_map.get(item["category"], Category.NEWS)
+
+        if poster.post_article(
+            title=item["title"],
+            url=item["url"],
+            category=category,
+            viral_tags=item.get("viral_tags"),
+        ):
+            queue.mark_posted(item["article_id"])
+            print(f"  ✓ Posted!")
+            success_count += 1
+        else:
+            print(f"  ✗ Failed")
+        
+        # レート制限対策
+        time.sleep(5)
+
+    print()
+    print(f"Posted {success_count}/{len(pending)} articles.")
+    return 0 if success_count == len(pending) else 1
+
+
+# ============================================================
 # Fallback Logic Calculator
 # ============================================================
 
@@ -1069,11 +1440,37 @@ def main() -> int:
         action="store_true",
         help="最初の1件だけ実際に生成して品質確認",
     )
+    parser.add_argument(
+        "--skip-twitter",
+        action="store_true",
+        help="X (Twitter) への投稿をスキップ（GitHub Actions用）",
+    )
+    parser.add_argument(
+        "--post-twitter",
+        type=str,
+        metavar="ARTICLE_ID",
+        help="指定した記事IDをXに投稿（デプロイ完了後に使用）",
+    )
+    parser.add_argument(
+        "--post-all-twitter",
+        action="store_true",
+        help="キュー内の未投稿記事をすべてXに投稿",
+    )
 
     args = parser.parse_args()
+    
+    # --post-twitter モードの場合は専用処理
+    if args.post_twitter:
+        return post_single_article_to_twitter(args.post_twitter)
+    
+    # --post-all-twitter モードの場合は専用処理
+    if args.post_all_twitter:
+        return post_all_pending_to_twitter()
+    
     total = args.total
     dry_run = args.dry_run
     test_one = args.test_one
+    skip_twitter = args.skip_twitter
 
     print("=" * 60)
     print("Negi AI Lab - Auto Article Generator")
@@ -1197,8 +1594,8 @@ def main() -> int:
         print(f"[{idx}/{len(final_items)}] Generating: {item.title[:40]}...")
 
         try:
-            # Generate article
-            title, body = generator.generate_article(item)
+            # Generate article (returns ArticleResult)
+            result = generator.generate_article(item)
 
             # Prepare output
             now_jst = datetime.now(JST)
@@ -1212,14 +1609,14 @@ def main() -> int:
             # Generate and save image locally
             print(f"  Generating image...")
             image_path = image_handler.generate_and_save_image(
-                title=title,
-                body=body,
+                title=result.title,
+                body=result.body,
                 category=item.category,
                 article_id=article_id,
                 output_dir=images_dir,
             )
 
-            # Determine tags
+            # Determine tags for Hugo front matter
             tags = ["GenAI"]
             if item.category == Category.NEWS:
                 tags.extend(["速報", "AIニュース"])
@@ -1231,34 +1628,54 @@ def main() -> int:
             # Write file
             write_hugo_markdown(
                 out_path=out_path,
-                title=title,
+                title=result.title,
                 date_jst=date_midnight,
                 image_url=image_path,
                 category=item.category,
                 tags=tags,
-                body=body,
+                body=result.body,
             )
 
             # Mark as processed
             processed_store.add(item.url)
             processed_store.save()
 
+            # ログ出力
             print(f"  ✓ Saved: {filename}")
+            if result.shopping_keyword:
+                print(f"    Shopping keyword: {result.shopping_keyword}")
+            if result.viral_tags:
+                print(f"    Viral tags: {result.viral_tags}")
             success_count += 1
 
-            # Twitter投稿（URLのみ、Twitterカードで画像表示）
-            if twitter_poster:
-                article_url = f"{base_url}/posts/{article_id}/"
+            # X投稿用のキューに追加（デプロイ後投稿用）
+            article_url = f"{base_url}/posts/{article_id}/"
+            twitter_queue = TwitterPostingQueue(repo_root / "twitter_queue.json")
+            twitter_queue.add(TwitterQueueItem(
+                article_id=article_id,
+                title=result.title,
+                url=article_url,
+                category=item.category.value,
+                viral_tags=result.viral_tags,
+                created_at=now_jst.isoformat(),
+            ))
+            print(f"    Queued for X posting: {article_id}")
+
+            # Twitter投稿（--skip-twitter でなければ即時投稿）
+            if twitter_poster and not skip_twitter:
                 if twitter_poster.post_article(
-                    title=title,
+                    title=result.title,
                     url=article_url,
                     category=item.category,
-                    hashtags=tags,
+                    viral_tags=result.viral_tags,
                 ):
+                    twitter_queue.mark_posted(article_id)
                     print(f"  ✓ Posted to X (Twitter Card)")
                     twitter_success += 1
                 else:
-                    print(f"  ✗ X post failed")
+                    print(f"  ✗ X post failed (queued for later)")
+            elif skip_twitter:
+                print(f"    [--skip-twitter] X posting skipped (use --post-twitter {article_id} later)")
 
             # Rate limit
             if idx < len(final_items):
@@ -1272,8 +1689,10 @@ def main() -> int:
     print()
     print("=" * 60)
     print(f"Done. Generated {success_count}/{len(final_items)} articles.")
-    if twitter_poster:
+    if twitter_poster and not skip_twitter:
         print(f"      Posted to X: {twitter_success}/{success_count}")
+    elif skip_twitter:
+        print(f"      X posting skipped. Run with --post-all-twitter after deploy.")
     print("=" * 60)
 
     return 0 if success_count > 0 else 1

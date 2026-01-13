@@ -241,17 +241,46 @@ html {
 }
 
 /* Cover Image Styling */
+.entry-cover {
+  max-height: 400px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.entry-cover img {
+  width: 100%;
+  height: auto;
+  max-height: 400px;
+  object-fit: cover;
+  object-position: center;
+}
+
 .post-entry .entry-cover {
   border-radius: 16px 16px 0 0;
-  overflow: hidden;
+  max-height: 280px;
 }
 
 .post-entry .entry-cover img {
+  max-height: 280px;
   transition: transform 0.5s ease;
 }
 
 .post-entry:hover .entry-cover img {
   transform: scale(1.03);
+}
+
+/* 記事詳細ページのカバー画像 */
+.post-single .entry-cover {
+  max-height: 450px;
+  border-radius: var(--radius);
+  margin-bottom: 1.5rem;
+}
+
+.post-single .entry-cover img {
+  max-height: 450px;
+  border-radius: var(--radius);
 }
 
 /* ============================================================
@@ -767,5 +796,38 @@ input:focus-visible {
   .post-content {
     font-size: 12pt;
     line-height: 1.6;
+  }
+}
+
+/* ============================================================
+   Affiliate Link Buttons
+   ============================================================ */
+.post-content div[style*="display: flex"] a[href*="amazon"] {
+  background: linear-gradient(135deg, #ff9900 0%, #ff6600 100%) !important;
+}
+
+.post-content div[style*="display: flex"] a[href*="rakuten"] {
+  background: linear-gradient(135deg, #bf0000 0%, #8b0000 100%) !important;
+}
+
+.post-content div[style*="display: flex"] a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25) !important;
+}
+
+/* ダークモードでのアフィリエイトボタン調整 */
+.dark .post-content div[style*="display: flex"] a {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+/* モバイルでのアフィリエイトボタン */
+@media (max-width: 640px) {
+  .post-content div[style*="display: flex"] {
+    flex-direction: column !important;
+  }
+  
+  .post-content div[style*="display: flex"] a {
+    width: 100%;
+    justify-content: center;
   }
 }

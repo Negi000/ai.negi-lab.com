@@ -65,11 +65,10 @@ summaryLength = 120
   [params.twitter]
     card = "summary_large_image"
   
-  # Google AdSense (ヘッダーにスクリプト挿入用)
-  # 実際のコードは layouts/partials/extend_head.html でカスタマイズ
+  # Google AdSense
   [params.adsense]
-    client = ""  # ca-pub-XXXXXXXXXX
-    enabled = false
+    client = "ca-pub-1835873052239386"
+    enabled = true
   
   # 分析 (Google Analytics 4)
   [params.analytics]
