@@ -32,8 +32,9 @@ summaryLength = 120
   # サイト基本情報
   env = "production"
   author = "Negi AI Lab"
-  description = "AIの最新トレンドを辛口でお届けするテックブログ"
-  keywords = ["AI", "人工知能", "機械学習", "Gemini", "OpenAI", "ChatGPT"]
+  description = "AIの最新トレンドを辛口でお届けするテックブログ。Gemini、OpenAI、ChatGPT、機械学習の最新ニュース・ツールレビュー・解説を毎日更新。"
+  keywords = ["AI", "人工知能", "機械学習", "Gemini", "OpenAI", "ChatGPT", "AI ニュース", "AI ツール", "生成AI", "LLM"]
+  images = ["https://ai.negi-lab.com/images/og-default.png"]
   
   # デフォルトテーマ (light / dark / auto)
   defaultTheme = "light"

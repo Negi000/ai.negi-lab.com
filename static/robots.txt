@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# サイトマップ
+Sitemap: https://ai.negi-lab.com/sitemap.xml
+
+# クロール頻度が高いページ
+# ホーム、記事一覧、カテゴリー
+
+# クロール不要なリソース
+Disallow: /images/
+Disallow: /js/
+Disallow: /css/
+
+# 検索エンジンボット向け
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
