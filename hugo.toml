@@ -61,6 +61,10 @@ summaryLength = 120
   # OGP / Twitter Cards
   images = ["images/og-default.png"]
   
+  # Twitter Card設定
+  [params.twitter]
+    card = "summary_large_image"
+  
   # Google AdSense (ヘッダーにスクリプト挿入用)
   # 実際のコードは layouts/partials/extend_head.html でカスタマイズ
   [params.adsense]

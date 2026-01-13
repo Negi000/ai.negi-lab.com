@@ -903,17 +903,15 @@ class TwitterPoster:
         self,
         title: str,
         url: str,
-        image_data: Optional[bytes],
         category: Category,
         hashtags: Optional[List[str]] = None,
     ) -> bool:
         """
-        記事をTwitterに投稿する。
+        記事をTwitterに投稿する（URLのみ、Twitterカードで画像表示）。
 
         Args:
             title: 記事タイトル
-            url: 記事のURL (デプロイ後のURL)
-            image_data: 画像のバイトデータ（Basic plan以上で使用可能）
+            url: 記事のURL (Twitterカードで自動的にOGP画像が表示される)
             category: 記事カテゴリー
             hashtags: 追加するハッシュタグリスト
 
@@ -932,58 +930,21 @@ class TwitterPoster:
             tag_str = " ".join([f"#{t}" for t in tags[:3]])  # 最大3つ
 
             # ツイート本文を作成 (280文字制限を考慮)
-            # タイトルを短縮
-            max_title_len = 100
+            # URLを含めることでTwitterカードが自動表示される
+            max_title_len = 80
             short_title = title[:max_title_len] + "..." if len(title) > max_title_len else title
 
+            # URLを含めるとTwitterカードでOGP画像が自動表示される
             tweet_text = f"📢 {short_title}\n\n{url}\n\n{tag_str} #NegiAILab"
 
-            # 画像アップロードを試みる（Basic plan以上で動作）
-            media_id = None
-            if image_data:
-                media_id = self._upload_image_from_bytes(image_data)
-                if not media_id:
-                    print("  [Twitter] Falling back to text-only tweet (Free plan)")
-
-            # ツイート投稿
-            if media_id:
-                self.client.create_tweet(text=tweet_text, media_ids=[media_id])
-            else:
-                # テキストのみで投稿（無料プランでも可能）
-                self.client.create_tweet(text=tweet_text)
+            # テキストのみで投稿（URLからTwitterカードが生成される）
+            self.client.create_tweet(text=tweet_text)
 
             return True
 
         except Exception as e:
             print(f"  [Twitter] Error: {e}")
             return False
-
-    def _upload_image_from_bytes(self, image_data: bytes) -> Optional[str]:
-        """
-        画像バイトデータをTwitterにアップロード。
-        ※ 無料プランでは使用不可（Basic $100/月以上が必要）
-
-        Args:
-            image_data: 画像のバイトデータ
-
-        Returns:
-            media_id (成功時) または None
-        """
-        try:
-            # BytesIOでファイルライクオブジェクトとして扱う
-            image_file = io.BytesIO(image_data)
-
-            # Twitterにアップロード (v1.1 API - requires paid plan)
-            media = self.api_v1.media_upload(filename="thumbnail.png", file=image_file)
-            return str(media.media_id)
-
-        except Exception as e:
-            # 無料プランの場合は402/403エラーが発生
-            if "402" in str(e) or "403" in str(e) or "Payment" in str(e):
-                pass  # Expected on Free plan, will fallback to text-only
-            else:
-                print(f"  [Twitter] Image upload failed: {e}")
-            return None
 
 
 def is_twitter_configured() -> bool:
@@ -1285,19 +1246,16 @@ def main() -> int:
             print(f"  ✓ Saved: {filename}")
             success_count += 1
 
-            # Twitter投稿
+            # Twitter投稿（URLのみ、Twitterカードで画像表示）
             if twitter_poster:
-                # ローカル画像をバイトデータとして読み込み
-                image_data = image_handler.download_image_to_bytes(image_path, static_dir)
                 article_url = f"{base_url}/posts/{article_id}/"
                 if twitter_poster.post_article(
                     title=title,
                     url=article_url,
-                    image_data=image_data,
                     category=item.category,
                     hashtags=tags,
                 ):
-                    print(f"  ✓ Posted to X")
+                    print(f"  ✓ Posted to X (Twitter Card)")
                     twitter_success += 1
                 else:
                     print(f"  ✗ X post failed")
