@@ -30,7 +30,7 @@ permissions:
 
 concurrency:
   group: "auto-generate"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 env:
   HUGO_VERSION: 0.154.5
@@ -153,6 +153,8 @@ jobs:
         if: steps.commit.outputs.has_changes == 'true'
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          timeout: 600000
 
       # ==============================
       # Post to X (Twitter)
