@@ -734,23 +734,93 @@ print(result)
 # ============================================================
 
 class ImageHandler:
-    """Pollinations.ai を使用した画像URL生成"""
+    """Pollinations.ai を使用した画像生成・ローカル保存"""
 
     def __init__(self, api_key: str, model_name: str = "gemini-3-flash-preview") -> None:
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(model_name)
 
-    def generate_image_url(self, title: str, body: str, category: Category) -> str:
-        """記事内容に基づいた画像URLを生成"""
+    def generate_and_save_image(
+        self,
+        title: str,
+        body: str,
+        category: Category,
+        article_id: str,
+        output_dir: Path,
+    ) -> str:
+        """
+        記事内容に基づいた画像を生成しローカルに保存。
+        
+        Args:
+            title: 記事タイトル
+            body: 記事本文
+            category: カテゴリー
+            article_id: 記事ID（ファイル名用）
+            output_dir: 画像保存先ディレクトリ (static/images/posts/)
+        
+        Returns:
+            Hugo用の相対パス (例: /images/posts/2026-01-13-abc123.png)
+        """
+        # プロンプト生成
         prompt_en = self._generate_image_prompt(title, body, category)
+        
+        # Pollinations.aiから画像をダウンロード
         encoded = quote(prompt_en, safe="")
-        return f"https://image.pollinations.ai/prompt/{encoded}"
+        image_url = f"https://image.pollinations.ai/prompt/{encoded}?width=1200&height=630&nologo=true"
+        
+        try:
+            response = requests.get(image_url, timeout=60)
+            response.raise_for_status()
+            
+            # 保存先ディレクトリ作成
+            output_dir.mkdir(parents=True, exist_ok=True)
+            
+            # ファイル保存
+            filename = f"{article_id}.png"
+            file_path = output_dir / filename
+            file_path.write_bytes(response.content)
+            
+            # Hugo用相対パス
+            return f"/images/posts/{filename}"
+            
+        except Exception as e:
+            print(f"  [Image] Download failed: {e}")
+            # フォールバック: URLを返す（レート制限時用）
+            return image_url
+
+    def download_image_to_bytes(self, image_path_or_url: str, static_dir: Path) -> Optional[bytes]:
+        """
+        画像をバイトデータとして取得（Twitter投稿用）。
+        
+        Args:
+            image_path_or_url: ローカルパス（/images/posts/xxx.png）またはURL
+            static_dir: staticディレクトリのパス
+        
+        Returns:
+            画像のバイトデータ
+        """
+        try:
+            if image_path_or_url.startswith("http"):
+                # URLの場合はダウンロード
+                response = requests.get(image_path_or_url, timeout=30)
+                response.raise_for_status()
+                return response.content
+            else:
+                # ローカルパスの場合はファイル読み込み
+                # /images/posts/xxx.png -> static/images/posts/xxx.png
+                local_path = static_dir / image_path_or_url.lstrip("/")
+                if local_path.exists():
+                    return local_path.read_bytes()
+                return None
+        except Exception as e:
+            print(f"  [Image] Failed to load: {e}")
+            return None
 
     def _generate_image_prompt(self, title: str, body: str, category: Category) -> str:
         style_hint = {
-            Category.NEWS: "news broadcast, breaking news style, professional",
-            Category.TOOL: "software interface, tech product, modern UI",
-            Category.GUIDE: "tutorial, step by step, educational diagram",
+            Category.NEWS: "news broadcast, breaking news style, professional, no text",
+            Category.TOOL: "software interface, tech product, modern UI, no text",
+            Category.GUIDE: "tutorial, educational diagram, clean design, no text",
         }.get(category, "technology")
 
         prompt = (
@@ -758,11 +828,12 @@ class ImageHandler:
             "Rules:\n"
             "- Output ONE line only, no quotes\n"
             "- English only\n"
-            "- No text overlays, logos, or watermarks\n"
+            "- MUST NOT include any text, logos, watermarks, QR codes, or UI elements\n"
+            "- Focus on abstract visuals, technology imagery, or symbolic representations\n"
             f"- Style hint: {style_hint}\n"
             "- Make it modern, clean, professional\n\n"
             f"Blog title: {title}\n"
-            f"Content preview: {body[:1000]}\n"
+            f"Content preview: {body[:500]}\n"
         )
 
         try:
@@ -776,7 +847,7 @@ class ImageHandler:
             pass
 
         # Fallback
-        return f"Futuristic AI technology, {style_hint}, minimalist, high quality, 4k"
+        return f"Abstract futuristic technology visualization, {style_hint}, minimalist, high quality, 4k, no text"
 
 
 # ============================================================
@@ -830,7 +901,7 @@ class TwitterPoster:
         self,
         title: str,
         url: str,
-        image_url: str,
+        image_data: Optional[bytes],
         category: Category,
         hashtags: Optional[List[str]] = None,
     ) -> bool:
@@ -840,7 +911,7 @@ class TwitterPoster:
         Args:
             title: 記事タイトル
             url: 記事のURL (デプロイ後のURL)
-            image_url: Pollinations.aiの画像URL
+            image_data: 画像のバイトデータ（ローカルファイルから読み込み済み）
             category: 記事カテゴリー
             hashtags: 追加するハッシュタグリスト
 
@@ -865,8 +936,8 @@ class TwitterPoster:
 
             tweet_text = f"📢 {short_title}\n\n{url}\n\n{tag_str} #NegiAILab"
 
-            # 画像をダウンロード
-            media_id = self._upload_image(image_url)
+            # 画像をアップロード
+            media_id = self._upload_image_from_bytes(image_data) if image_data else None
 
             # ツイート投稿
             if media_id:
@@ -880,26 +951,22 @@ class TwitterPoster:
             print(f"  [Twitter] Error: {e}")
             return False
 
-    def _upload_image(self, image_url: str) -> Optional[str]:
+    def _upload_image_from_bytes(self, image_data: bytes) -> Optional[str]:
         """
-        Pollinations.ai画像をダウンロードしてTwitterにアップロード。
+        画像バイトデータをTwitterにアップロード。
 
         Args:
-            image_url: 画像のURL
+            image_data: 画像のバイトデータ
 
         Returns:
             media_id (成功時) または None
         """
         try:
-            # 画像をダウンロード
-            response = requests.get(image_url, timeout=30)
-            response.raise_for_status()
-
             # BytesIOでファイルライクオブジェクトとして扱う
-            image_data = io.BytesIO(response.content)
+            image_file = io.BytesIO(image_data)
 
             # Twitterにアップロード (v1.1 API)
-            media = self.api_v1.media_upload(filename="thumbnail.png", file=image_data)
+            media = self.api_v1.media_upload(filename="thumbnail.png", file=image_file)
             return str(media.media_id)
 
         except Exception as e:
@@ -1120,6 +1187,8 @@ def main() -> int:
     generator = ArticleGenerator(api_key=api_key, model_name="gemini-3-flash-preview")
     image_handler = ImageHandler(api_key=api_key, model_name="gemini-3-flash-preview")
     out_dir = repo_root / "content" / "posts"
+    static_dir = repo_root / "static"
+    images_dir = static_dir / "images" / "posts"
 
     # Twitter Poster (optional)
     twitter_poster: Optional[TwitterPoster] = None
@@ -1158,17 +1227,24 @@ def main() -> int:
             # Generate article
             title, body = generator.generate_article(item)
 
-            # Generate image URL
-            image_url = image_handler.generate_image_url(title, body, item.category)
-
             # Prepare output
             now_jst = datetime.now(JST)
             date_midnight = now_jst.replace(hour=0, minute=0, second=0, microsecond=0)
             ymd = date_midnight.strftime("%Y-%m-%d")
 
-            article_id = uuid.uuid4().hex[:8]
-            filename = f"{ymd}-{article_id}.md"
+            article_id = f"{ymd}-{uuid.uuid4().hex[:8]}"
+            filename = f"{article_id}.md"
             out_path = out_dir / filename
+
+            # Generate and save image locally
+            print(f"  Generating image...")
+            image_path = image_handler.generate_and_save_image(
+                title=title,
+                body=body,
+                category=item.category,
+                article_id=article_id,
+                output_dir=images_dir,
+            )
 
             # Determine tags
             tags = ["GenAI"]
@@ -1184,7 +1260,7 @@ def main() -> int:
                 out_path=out_path,
                 title=title,
                 date_jst=date_midnight,
-                image_url=image_url,
+                image_url=image_path,
                 category=item.category,
                 tags=tags,
                 body=body,
@@ -1199,11 +1275,13 @@ def main() -> int:
 
             # Twitter投稿
             if twitter_poster:
-                article_url = f"{base_url}/posts/{ymd}-{article_id}/"
+                # ローカル画像をバイトデータとして読み込み
+                image_data = image_handler.download_image_to_bytes(image_path, static_dir)
+                article_url = f"{base_url}/posts/{article_id}/"
                 if twitter_poster.post_article(
                     title=title,
                     url=article_url,
-                    image_url=image_url,
+                    image_data=image_data,
                     category=item.category,
                     hashtags=tags,
                 ):
