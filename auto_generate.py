@@ -62,13 +62,13 @@ except Exception:
 
 JST = timezone(timedelta(hours=9))
 SLEEP_SECONDS_PER_ARTICLE = 30
-DEFAULT_TOTAL_ARTICLES = 10
+DEFAULT_TOTAL_ARTICLES = 2  # 1回の実行で2記事生成
 
-# カテゴリー目標比率
+# カテゴリー目標比率 (1日12記事: NEWS 5, TOOL 5, GUIDE 2)
 CATEGORY_RATIOS = {
-    "NEWS": 0.4,
-    "TOOL": 0.4,
-    "GUIDE": 0.2,
+    "NEWS": 0.42,   # 5/12 ≈ 0.42
+    "TOOL": 0.42,   # 5/12 ≈ 0.42
+    "GUIDE": 0.16,  # 2/12 ≈ 0.16
 }
 
 # アフィリエイト設定

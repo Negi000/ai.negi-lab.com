@@ -1,0 +1,191 @@
+name: Auto Generate AI News Articles
+
+on:
+  # スケジュール実行 (日本時間 02:00, 08:00, 12:00, 15:00, 18:00, 21:00)
+  # UTC換算: 17:00(-1), 23:00(-1), 03:00, 06:00, 09:00, 12:00
+  schedule:
+    - cron: '0 17 * * *'   # JST 02:00
+    - cron: '0 23 * * *'   # JST 08:00
+    - cron: '0 3 * * *'    # JST 12:00
+    - cron: '0 6 * * *'    # JST 15:00
+    - cron: '0 9 * * *'    # JST 18:00
+    - cron: '0 12 * * *'   # JST 21:00
+  # 手動実行も可能
+  workflow_dispatch:
+    inputs:
+      article_count:
+        description: '生成する記事数'
+        required: false
+        default: '2'
+      skip_twitter:
+        description: 'Xへの投稿をスキップ'
+        required: false
+        default: 'false'
+        type: boolean
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "auto-generate"
+  cancel-in-progress: false
+
+env:
+  HUGO_VERSION: 0.154.5
+  PYTHON_VERSION: '3.12'
+  TZ: Asia/Tokyo
+
+jobs:
+  generate-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # ==============================
+      # セットアップ
+      # ==============================
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: |
+          pip install --upgrade pip
+          pip install google-generativeai feedparser requests beautifulsoup4 python-dotenv tweepy Pillow
+
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+
+      # ==============================
+      # Hugo Cache (高速化)
+      # ==============================
+      - name: Cache Hugo resources
+        uses: actions/cache@v4
+        with:
+          path: |
+            ${{ runner.temp }}/hugo_cache
+            resources/_gen
+          key: hugo-${{ runner.os }}-${{ hashFiles('hugo.toml') }}-${{ github.run_id }}
+          restore-keys: |
+            hugo-${{ runner.os }}-${{ hashFiles('hugo.toml') }}-
+            hugo-${{ runner.os }}-
+
+      # ==============================
+      # 記事生成
+      # ==============================
+      - name: Generate AI news articles
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          AMAZON_ASSOCIATE_TAG: ${{ secrets.AMAZON_ASSOCIATE_TAG }}
+          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+        run: |
+          ARTICLE_COUNT="${{ github.event.inputs.article_count || '2' }}"
+          echo "📰 Generating ${ARTICLE_COUNT} articles..."
+          python auto_generate.py --total ${ARTICLE_COUNT} --skip-twitter
+
+      # ==============================
+      # Git Commit & Push
+      # ==============================
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push changes
+        id: commit
+        run: |
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            TIMESTAMP=$(TZ=Asia/Tokyo date +"%Y-%m-%d %H:%M JST")
+            ARTICLE_COUNT=$(git diff --staged --name-only | grep -c "content/posts/" || echo "0")
+            git commit -m "🤖 Auto-generate ${ARTICLE_COUNT} AI news articles [${TIMESTAMP}]"
+            git push
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "article_count=${ARTICLE_COUNT}" >> $GITHUB_OUTPUT
+          fi
+
+      # ==============================
+      # Hugo Build
+      # ==============================
+      - name: Setup Pages
+        if: steps.commit.outputs.has_changes == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: Build with Hugo
+        if: steps.commit.outputs.has_changes == 'true'
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
+          HUGO_ENVIRONMENT: production
+        run: |
+          hugo \
+            --gc \
+            --minify \
+            --enableGitInfo
+
+      - name: Upload artifact
+        if: steps.commit.outputs.has_changes == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+      # ==============================
+      # Deploy to GitHub Pages
+      # ==============================
+      - name: Deploy to GitHub Pages
+        if: steps.commit.outputs.has_changes == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      # ==============================
+      # Post to X (Twitter)
+      # ==============================
+      - name: Post to X (Twitter)
+        if: steps.commit.outputs.has_changes == 'true' && github.event.inputs.skip_twitter != 'true'
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        run: |
+          echo "⏳ Waiting 60 seconds for deployment to propagate..."
+          sleep 60
+          echo "🐦 Posting articles to X..."
+          python auto_generate.py --post-all-twitter
+
+      # ==============================
+      # Summary
+      # ==============================
+      - name: Job Summary
+        if: always()
+        run: |
+          echo "## 🤖 Auto Generate Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.commit.outputs.has_changes }}" == "true" ]; then
+            echo "✅ **Articles Generated:** ${{ steps.commit.outputs.article_count }}" >> $GITHUB_STEP_SUMMARY
+            echo "✅ **Deployed to:** https://ai.negi-lab.com/" >> $GITHUB_STEP_SUMMARY
+            if [ "${{ github.event.inputs.skip_twitter }}" != "true" ]; then
+              echo "✅ **Posted to X**" >> $GITHUB_STEP_SUMMARY
+            fi
+          else
+            echo "ℹ️ No new articles generated" >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Triggered at:** $(TZ=Asia/Tokyo date +'%Y-%m-%d %H:%M JST')" >> $GITHUB_STEP_SUMMARY
