@@ -2093,6 +2093,190 @@ def post_all_pending_to_twitter() -> int:
 
 
 # ============================================================
+# Weekly Digest Generator
+# ============================================================
+
+def generate_weekly_digest() -> int:
+    """
+    過去1週間の記事から週間ダイジェストを自動生成。
+    
+    毎週日曜日に実行して「今週のAIニュース TOP10」を生成。
+    """
+    print("=" * 60)
+    print("Negi AI Lab - Weekly Digest Generator")
+    print("=" * 60)
+
+    repo_root = Path(__file__).resolve().parent
+    posts_dir = repo_root / "content" / "posts"
+    
+    # API Key check
+    api_key = os.environ.get("GEMINI_API_KEY", "")
+    if not api_key:
+        print("[ERROR] GEMINI_API_KEY is not set.")
+        return 2
+
+    # 過去7日間の記事を収集
+    now = datetime.now(JST)
+    week_ago = now - timedelta(days=7)
+    
+    weekly_articles = []
+    
+    for md_file in posts_dir.glob("*.md"):
+        try:
+            content = md_file.read_text(encoding="utf-8")
+            
+            # Front Matter から情報抽出
+            if content.startswith("---"):
+                parts = content.split("---", 2)
+                if len(parts) >= 3:
+                    front_matter = parts[1]
+                    body = parts[2]
+                    
+                    # 日付抽出
+                    date_match = re.search(r'date:\s*["\']?(\d{4}-\d{2}-\d{2})', front_matter)
+                    if not date_match:
+                        continue
+                    
+                    article_date = datetime.strptime(date_match.group(1), "%Y-%m-%d")
+                    article_date = article_date.replace(tzinfo=JST)
+                    
+                    # 1週間以内の記事のみ
+                    if article_date < week_ago:
+                        continue
+                    
+                    # ダイジェスト記事自体は除外
+                    if "週間ダイジェスト" in content or "weekly-digest" in md_file.name:
+                        continue
+                    
+                    # タイトル抽出
+                    title_match = re.search(r'title:\s*["\'](.+?)["\']', front_matter)
+                    title = title_match.group(1) if title_match else md_file.stem
+                    
+                    # カテゴリー抽出
+                    cat_match = re.search(r'categories:\s*\n\s*-\s*(\w+)', front_matter)
+                    category = cat_match.group(1) if cat_match else "NEWS"
+                    
+                    # 概要（最初の200文字）
+                    summary = body.strip()[:200].replace("\n", " ")
+                    
+                    weekly_articles.append({
+                        "title": title,
+                        "date": article_date,
+                        "category": category,
+                        "summary": summary,
+                        "filename": md_file.name,
+                    })
+        except Exception as e:
+            print(f"  [!] Error reading {md_file.name}: {e}")
+            continue
+    
+    if len(weekly_articles) < 3:
+        print(f"Not enough articles for digest ({len(weekly_articles)} found, need at least 3)")
+        return 1
+    
+    # 日付降順でソート
+    weekly_articles.sort(key=lambda x: x["date"], reverse=True)
+    top_articles = weekly_articles[:10]
+    
+    print(f"Found {len(weekly_articles)} articles from past week")
+    print(f"Creating digest with top {len(top_articles)} articles")
+    
+    # Gemini APIでダイジェスト記事を生成
+    genai.configure(api_key=api_key)
+    model = genai.GenerativeModel("gemini-3-flash-preview")
+    
+    # 記事リスト作成
+    article_list = ""
+    for i, art in enumerate(top_articles, 1):
+        article_list += f"{i}. 【{art['category']}】{art['title']}\n   概要: {art['summary'][:100]}...\n\n"
+    
+    week_start = week_ago.strftime("%m/%d")
+    week_end = now.strftime("%m/%d")
+    
+    prompt = f'''あなたはAI専門メディア「Negi AI Lab」の編集者です。
+今週({week_start}〜{week_end})の記事から週間ダイジェストを作成してください。
+
+## 今週の記事一覧：
+{article_list}
+
+## 作成ルール：
+1. タイトルは「【週間ダイジェスト】{week_end}週：今週のAI注目ニュースTOP{len(top_articles)}」
+2. 導入文で今週のAIトレンドを総括（200文字程度）
+3. 各記事を「ニュース」「ツール」「ガイド」のセクションに分類
+4. 各記事について2-3行の解説を追加
+5. 最後に「来週の注目トピック」予測を追加
+6. 読者が内部リンクから詳細を読みたくなるように誘導
+
+## 出力形式：
+Markdown形式で本文のみ出力してください。
+Front Matterは不要です。
+
+[SHOPPING: AI 人工知能 週刊まとめ]
+[HASHTAGS: #AI #人工知能 #週間まとめ #AIニュース]
+'''
+
+    try:
+        response = model.generate_content(prompt)
+        digest_body = response.text.strip()
+    except Exception as e:
+        print(f"[ERROR] Gemini API error: {e}")
+        return 1
+    
+    # Front Matter作成
+    article_id = f"weekly-digest-{now.strftime('%Y-%m-%d')}"
+    
+    front_matter = f'''---
+title: "【週間ダイジェスト】{week_end}週：今週のAI注目ニュースTOP{len(top_articles)}"
+date: {now.strftime('%Y-%m-%dT%H:%M:%S+09:00')}
+draft: false
+categories:
+  - GUIDE
+tags:
+  - 週間ダイジェスト
+  - まとめ
+  - AIニュース
+description: "{week_start}〜{week_end}のAI関連ニュース・ツール・ガイドをまとめてお届け"
+cover:
+  image: "/images/posts/{article_id}.png"
+  alt: "週間ダイジェスト {week_end}"
+  relative: false
+---
+
+'''
+    
+    # 記事保存
+    output_path = posts_dir / f"{now.strftime('%Y-%m-%d')}-{article_id}.md"
+    output_path.write_text(front_matter + digest_body, encoding="utf-8")
+    
+    print(f"✓ Digest saved: {output_path.name}")
+    
+    # 画像生成
+    try:
+        image_prompt = f"Weekly AI news digest infographic, modern tech style, blue and green gradient, {week_end}"
+        encoded = quote(image_prompt, safe="")
+        image_url = f"https://image.pollinations.ai/prompt/{encoded}?width=1200&height=630&nologo=true"
+        
+        response = requests.get(image_url, timeout=60)
+        response.raise_for_status()
+        
+        images_dir = repo_root / "static" / "images" / "posts"
+        images_dir.mkdir(parents=True, exist_ok=True)
+        image_path = images_dir / f"{article_id}.png"
+        image_path.write_bytes(response.content)
+        
+        print(f"✓ Image saved: {image_path.name}")
+    except Exception as e:
+        print(f"  [!] Image generation failed: {e}")
+    
+    print()
+    print("=" * 60)
+    print("Weekly digest generated successfully!")
+    print("=" * 60)
+    
+    return 0
+
+
+# ============================================================
 # Fallback Logic Calculator
 # ============================================================
 
@@ -2218,8 +2402,17 @@ def main() -> int:
         action="store_true",
         help="キュー内の未投稿記事をすべてXに投稿",
     )
+    parser.add_argument(
+        "--weekly-digest",
+        action="store_true",
+        help="過去1週間の記事から週間ダイジェストを生成",
+    )
 
     args = parser.parse_args()
+    
+    # --weekly-digest モードの場合は専用処理
+    if args.weekly_digest:
+        return generate_weekly_digest()
     
     # --post-twitter モードの場合は専用処理
     if args.post_twitter:

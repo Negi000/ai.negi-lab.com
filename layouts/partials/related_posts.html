@@ -1,0 +1,64 @@
+{{/* 関連記事レコメンド - 同じカテゴリー・タグの記事を表示 */}}
+{{- $currentPage := . -}}
+{{- $related := slice -}}
+
+{{/* 1. 同じカテゴリーの記事を取得 */}}
+{{- $categories := .GetTerms "categories" -}}
+{{- range $categories -}}
+  {{- $categoryPages := .Pages -}}
+  {{- range $categoryPages -}}
+    {{- if ne .Permalink $currentPage.Permalink -}}
+      {{- $related = $related | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* 2. 同じタグの記事も追加 */}}
+{{- $tags := .GetTerms "tags" -}}
+{{- range $tags -}}
+  {{- $tagPages := .Pages -}}
+  {{- range $tagPages -}}
+    {{- if and (ne .Permalink $currentPage.Permalink) (not (in $related .)) -}}
+      {{- $related = $related | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* 3. 重複を除去して日付順にソート、最大6件 */}}
+{{- $related = $related | uniq -}}
+{{- $related = sort $related ".Date" "desc" -}}
+{{- $related = first 6 $related -}}
+
+{{/* 4. 関連記事がなければ最新記事を表示 */}}
+{{- if eq (len $related) 0 -}}
+  {{- $related = where site.RegularPages "Section" "posts" -}}
+  {{- $related = where $related ".Permalink" "!=" $currentPage.Permalink -}}
+  {{- $related = first 6 $related -}}
+{{- end -}}
+
+{{- if gt (len $related) 0 -}}
+<div class="related-posts">
+  <h2>📚 関連記事</h2>
+  <div class="related-posts-grid">
+    {{- range $related -}}
+    <article class="related-post-card">
+      <a href="{{ .Permalink }}" class="related-post-link">
+        {{- $cover := .Params.cover -}}
+        {{- if $cover.image -}}
+        <div class="related-post-image">
+          <img src="{{ $cover.image }}" alt="{{ .Title }}" loading="lazy">
+        </div>
+        {{- end -}}
+        <div class="related-post-content">
+          {{- with .GetTerms "categories" -}}
+          <span class="related-post-category">{{ (index . 0).LinkTitle }}</span>
+          {{- end -}}
+          <h3 class="related-post-title">{{ .Title | truncate 50 }}</h3>
+          <time class="related-post-date">{{ .Date.Format "2006.01.02" }}</time>
+        </div>
+      </a>
+    </article>
+    {{- end -}}
+  </div>
+</div>
+{{- end -}}

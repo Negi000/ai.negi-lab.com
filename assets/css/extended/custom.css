@@ -831,3 +831,154 @@ input:focus-visible {
     justify-content: center;
   }
 }
+
+/* ============================================================
+   Related Posts - 関連記事レコメンド
+   ============================================================ */
+.related-posts {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+.related-posts h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: var(--primary-text);
+}
+
+.related-posts-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+}
+
+.related-post-card {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.related-post-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--primary);
+}
+
+.related-post-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.related-post-image {
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: var(--tertiary);
+}
+
+.related-post-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.related-post-card:hover .related-post-image img {
+  transform: scale(1.05);
+}
+
+.related-post-content {
+  padding: 1rem;
+}
+
+.related-post-category {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--primary);
+  background: var(--primary-ultra-light);
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+.related-post-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin: 0.5rem 0;
+  color: var(--primary-text);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.related-post-date {
+  font-size: 0.75rem;
+  color: var(--muted-text);
+}
+
+/* 2カラムレイアウト（タブレット） */
+@media (max-width: 900px) {
+  .related-posts-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* 1カラムレイアウト（モバイル） */
+@media (max-width: 600px) {
+  .related-posts-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  
+  .related-post-card {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .related-post-image {
+    width: 120px;
+    min-width: 120px;
+    aspect-ratio: 1 / 1;
+  }
+  
+  .related-post-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0.75rem;
+  }
+  
+  .related-post-title {
+    font-size: 0.85rem;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+  }
+}
+
+/* ダークモード対応 */
+.dark .related-posts {
+  border-top-color: var(--border);
+}
+
+.dark .related-post-card {
+  background: var(--entry);
+  border-color: var(--border);
+}
+
+.dark .related-post-card:hover {
+  border-color: var(--primary);
+}
+
+.dark .related-post-category {
+  background: rgba(46, 204, 113, 0.15);
+}
