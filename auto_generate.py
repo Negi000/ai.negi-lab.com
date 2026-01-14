@@ -98,6 +98,104 @@ POOL_RETENTION_DAYS = 7
 AMAZON_ASSOCIATE_TAG = os.environ.get("AMAZON_ASSOCIATE_TAG", "negi3939-22")
 RAKUTEN_AFFILIATE_ID = os.environ.get("RAKUTEN_AFFILIATE_ID", "5000cbfd.5f52567b.5000cbff.924460a4")
 
+# ============================================================
+# アフィリエイト商品マッピングDB
+# キーワード検出 → おすすめ商品カテゴリーへマッピング
+# ============================================================
+
+PRODUCT_MAPPINGS = {
+    # GPU関連
+    "gpu": {
+        "keywords": ["gpu", "グラフィックボード", "vram", "cuda", "nvidia", "rtx", "geforce"],
+        "products": [
+            {"name": "NVIDIA RTX 4070 SUPER", "search": "RTX 4070 SUPER グラフィックボード", "desc": "ローカルLLMに最適な12GB VRAM"},
+            {"name": "NVIDIA RTX 4090", "search": "RTX 4090 グラフィックボード", "desc": "最高性能24GB VRAM、大規模モデル向け"},
+        ],
+        "category": "ハードウェア"
+    },
+    # ローカルLLM関連
+    "local_llm": {
+        "keywords": ["ollama", "llama", "ローカルllm", "local llm", "llama.cpp", "gguf", "量子化"],
+        "products": [
+            {"name": "大規模言語モデル入門", "search": "大規模言語モデル入門 書籍", "desc": "LLMの基礎から実装まで"},
+            {"name": "ゲーミングPC", "search": "ゲーミングPC RTX4070 メモリ32GB", "desc": "ローカルLLM実行に最適なスペック"},
+        ],
+        "category": "ローカルAI環境"
+    },
+    # Python/プログラミング
+    "python": {
+        "keywords": ["python", "パイソン", "pytorch", "tensorflow", "jupyter", "notebook"],
+        "products": [
+            {"name": "Python機械学習プログラミング", "search": "Python 機械学習 書籍", "desc": "ML/DLの定番入門書"},
+            {"name": "PyTorch実践入門", "search": "PyTorch 実践 書籍", "desc": "ディープラーニング実装の決定版"},
+        ],
+        "category": "プログラミング書籍"
+    },
+    # ChatGPT/API関連
+    "chatgpt": {
+        "keywords": ["chatgpt", "gpt-4", "gpt-5", "openai", "api", "プロンプト"],
+        "products": [
+            {"name": "ChatGPT/LLM超活用術", "search": "ChatGPT 活用 書籍", "desc": "プロンプトエンジニアリングの極意"},
+            {"name": "OpenAI API実践ガイド", "search": "OpenAI API プログラミング", "desc": "API連携アプリ開発"},
+        ],
+        "category": "AI活用書籍"
+    },
+    # 画像生成AI
+    "image_ai": {
+        "keywords": ["stable diffusion", "midjourney", "dall-e", "画像生成", "comfyui", "automatic1111"],
+        "products": [
+            {"name": "Stable Diffusion AI画像生成", "search": "Stable Diffusion 画像生成 書籍", "desc": "画像生成AIの決定版ガイド"},
+            {"name": "高性能グラボ", "search": "RTX 4070 Ti SUPER グラフィックボード", "desc": "画像生成に必要な16GB VRAM"},
+        ],
+        "category": "画像生成AI"
+    },
+    # 音声AI
+    "voice_ai": {
+        "keywords": ["whisper", "音声認識", "tts", "音声合成", "voicevox", "elevenlabs"],
+        "products": [
+            {"name": "高品質マイク", "search": "コンデンサーマイク USB 配信", "desc": "音声入力の品質向上に"},
+            {"name": "ヘッドセット", "search": "ゲーミングヘッドセット ノイズキャンセリング", "desc": "クリアな音声確認用"},
+        ],
+        "category": "音声機材"
+    },
+    # RAG/ベクトルDB
+    "rag": {
+        "keywords": ["rag", "ベクトル", "embedding", "pinecone", "chromadb", "langchain"],
+        "products": [
+            {"name": "LangChain完全入門", "search": "LangChain 入門 書籍", "desc": "RAGアプリ構築の必読書"},
+            {"name": "検索システム設計", "search": "検索エンジン 設計 書籍", "desc": "情報検索の基礎理論"},
+        ],
+        "category": "RAG/検索技術"
+    },
+    # エージェント/自動化
+    "agent": {
+        "keywords": ["agent", "エージェント", "autogpt", "crew", "自動化", "ワークフロー"],
+        "products": [
+            {"name": "AIエージェント開発入門", "search": "AI エージェント 開発 書籍", "desc": "自律型AIの設計と実装"},
+            {"name": "業務自動化ツール", "search": "RPA 業務自動化 入門", "desc": "AIと組み合わせる自動化"},
+        ],
+        "category": "AI自動化"
+    },
+    # クラウド/インフラ
+    "cloud": {
+        "keywords": ["aws", "azure", "gcp", "クラウド", "サーバー", "デプロイ", "docker", "kubernetes"],
+        "products": [
+            {"name": "AWS入門", "search": "AWS 入門 書籍 2024", "desc": "クラウドAI環境構築"},
+            {"name": "Docker実践ガイド", "search": "Docker Kubernetes 実践", "desc": "コンテナでAI環境構築"},
+        ],
+        "category": "クラウド/インフラ"
+    },
+    # デフォルト（AI全般）
+    "default": {
+        "keywords": [],
+        "products": [
+            {"name": "AI関連書籍", "search": "人工知能 AI 入門 書籍", "desc": "AIの基礎を学ぶ"},
+            {"name": "プログラミング入門", "search": "プログラミング 入門 Python", "desc": "AI開発の第一歩"},
+        ],
+        "category": "AI入門"
+    },
+}
+
 # User-Agent for requests
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
@@ -884,7 +982,8 @@ class ArticleGenerator:
             lines.pop()
         cleaned = "\n".join(lines).strip()
 
-        return self._extract_title_and_body(cleaned)
+        # カテゴリーを渡してアフィリエイト最適化
+        return self._extract_title_and_body(cleaned, item.category)
 
     def _build_prompt(self, item: NewsItem) -> str:
         """カテゴリーに応じたプロンプトを構築"""
@@ -1150,7 +1249,7 @@ X (Twitter) でインプレッションを稼ぐための、需要があり記�
 - HTMLタグは使わない
 '''
 
-    def _extract_title_and_body(self, text: str) -> ArticleResult:
+    def _extract_title_and_body(self, text: str, category: Category = Category.NEWS) -> ArticleResult:
         """
         Gemini出力からタイトル、本文、キーワード、ハッシュタグを抽出。
         """
@@ -1174,8 +1273,8 @@ X (Twitter) でインプレッションを稼ぐための、需要があり記�
         if not body:
             body = "(本文生成に失敗しました)"
 
-        # ダブルキーワード抽出とアフィリエイトリンク追加
-        body, shopping_keyword, viral_tags = self._extract_keywords_and_add_affiliate(body)
+        # カテゴリーに応じたアフィリエイト最適化
+        body, shopping_keyword, viral_tags = self._extract_keywords_and_add_affiliate(body, category)
 
         return ArticleResult(
             title=title,
@@ -1184,9 +1283,13 @@ X (Twitter) でインプレッションを稼ぐための、需要があり記�
             viral_tags=viral_tags,
         )
 
-    def _extract_keywords_and_add_affiliate(self, body: str) -> Tuple[str, Optional[str], Optional[str]]:
+    def _extract_keywords_and_add_affiliate(self, body: str, category: Category = Category.NEWS) -> Tuple[str, Optional[str], Optional[str]]:
         """
-        本文から[SHOPPING: xxx]と[HASHTAGS: xxx]を抽出し、アフィリエイトリンクを追加する。
+        本文から[SHOPPING: xxx]と[HASHTAGS: xxx]を抽出し、カテゴリーに応じたアフィリエイトリンクを追加。
+        
+        Args:
+            body: 記事本文
+            category: 記事カテゴリー（NEWS/TOOL/GUIDE）
         
         Returns:
             (処理済み本文, shopping_keyword, viral_tags)
@@ -1206,7 +1309,6 @@ X (Twitter) でインプレッションを稼ぐための、需要があり記�
         viral_tags = None
         if hashtags_match:
             viral_tags = hashtags_match.group(1).strip()
-            # 行全体を削除（前後の空行も含む）
             body = re.sub(r'\n*\[HASHTAGS:[^\]]+\]\n*', '\n', body)
         
         # 3. 旧形式の[KEYWORD: xxx]も念のため除去（互換性）
@@ -1218,12 +1320,225 @@ X (Twitter) でインプレッションを稼ぐための、需要があり記�
         # 5. クリーンアップ（連続する空行を整理）
         body = re.sub(r'\n{3,}', '\n\n', body).strip()
         
-        # 6. アフィリエイトリンクを追加
-        if shopping_keyword:
-            affiliate_section = self._generate_affiliate_links(shopping_keyword)
-            body = body + "\n\n" + affiliate_section
+        # 6. カテゴリーに応じたアフィリエイト挿入
+        body = self._insert_smart_affiliate(body, category, shopping_keyword)
         
         return body, shopping_keyword, viral_tags
+
+    def _detect_content_topics(self, text: str) -> List[str]:
+        """本文からトピックを検出し、マッチする商品カテゴリーを返す"""
+        text_lower = text.lower()
+        matched_topics = []
+        
+        for topic_id, topic_data in PRODUCT_MAPPINGS.items():
+            if topic_id == "default":
+                continue
+            for keyword in topic_data["keywords"]:
+                if keyword.lower() in text_lower:
+                    matched_topics.append(topic_id)
+                    break
+        
+        # マッチがなければdefault
+        if not matched_topics:
+            matched_topics = ["default"]
+        
+        return matched_topics[:3]  # 最大3トピック
+
+    def _insert_smart_affiliate(self, body: str, category: Category, shopping_keyword: Optional[str]) -> str:
+        """
+        カテゴリーと本文内容に応じてスマートにアフィリエイトを挿入。
+        
+        - NEWS: 末尾に控えめに1つ
+        - TOOL: 導入部後 + 末尾に詳細
+        - GUIDE: 各セクション末尾 + 末尾まとめ
+        """
+        # トピック検出
+        topics = self._detect_content_topics(body)
+        
+        if category == Category.NEWS:
+            # NEWS: 末尾に簡潔なリンクのみ
+            footer = self._generate_minimal_affiliate(topics[0], shopping_keyword)
+            body = body + "\n\n" + footer
+            
+        elif category == Category.TOOL:
+            # TOOL: 導入部後にインライン + 末尾に詳細
+            body = self._insert_inline_affiliate_after_intro(body, topics)
+            footer = self._generate_detailed_affiliate(topics, shopping_keyword)
+            body = body + "\n\n" + footer
+            
+        elif category == Category.GUIDE:
+            # GUIDE: 末尾に学習リソースまとめ
+            footer = self._generate_learning_resources(topics, shopping_keyword)
+            body = body + "\n\n" + footer
+        
+        return body
+
+    def _insert_inline_affiliate_after_intro(self, body: str, topics: List[str]) -> str:
+        """導入部（最初の見出し）の後にインラインアフィリエイトを挿入"""
+        # 最初の ## 見出しを探す
+        lines = body.split('\n')
+        h2_count = 0
+        insert_index = -1
+        
+        for i, line in enumerate(lines):
+            if line.startswith('## '):
+                h2_count += 1
+                if h2_count == 2:  # 2つ目の見出しの前
+                    insert_index = i
+                    break
+        
+        if insert_index > 0 and topics:
+            topic = topics[0]
+            topic_data = PRODUCT_MAPPINGS.get(topic, PRODUCT_MAPPINGS["default"])
+            if topic_data["products"]:
+                product = topic_data["products"][0]
+                
+                inline_box = f'''
+> 💡 **{topic_data["category"]}のおすすめ**
+> 
+> **[{product["name"]}]({self._make_amazon_url(product["search"])})** - {product["desc"]}
+
+'''
+                lines.insert(insert_index, inline_box)
+                body = '\n'.join(lines)
+        
+        return body
+
+    def _generate_minimal_affiliate(self, topic: str, shopping_keyword: Optional[str]) -> str:
+        """NEWS向け: 控えめな末尾アフィリエイト"""
+        keyword = shopping_keyword or "AI 人工知能"
+        amazon_url = self._make_amazon_url(keyword)
+        rakuten_url = self._make_rakuten_url(keyword)
+        
+        return f'''---
+
+📚 **関連情報をもっと知りたい方へ**
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 15px 0;">
+<a href="{amazon_url}" target="_blank" rel="noopener sponsored" style="padding: 8px 16px; background: #ff9900; color: white; text-decoration: none; border-radius: 6px; font-size: 14px;">📖 Amazonで関連書籍を探す</a>
+<a href="{rakuten_url}" target="_blank" rel="noopener sponsored" style="padding: 8px 16px; background: #bf0000; color: white; text-decoration: none; border-radius: 6px; font-size: 14px;">🛒 楽天で探す</a>
+</div>'''
+
+    def _generate_detailed_affiliate(self, topics: List[str], shopping_keyword: Optional[str]) -> str:
+        """TOOL向け: 詳細なおすすめ商品セクション（DBマッチ + 汎用検索フォールバック）"""
+        sections = []
+        has_db_products = False  # DBから商品が見つかったか
+        
+        for topic in topics[:2]:
+            topic_data = PRODUCT_MAPPINGS.get(topic, {})
+            
+            # default以外でproductsがある場合のみ表示
+            if topic != "default" and topic_data.get("products"):
+                has_db_products = True
+                product_cards = []
+                for product in topic_data["products"]:
+                    amazon_url = self._make_amazon_url(product["search"])
+                    rakuten_url = self._make_rakuten_url(product["search"])
+                    
+                    card = f'''<div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 16px; margin: 8px 0; background: #fafafa;">
+  <strong style="font-size: 16px;">🛍️ {product["name"]}</strong>
+  <p style="color: #666; margin: 8px 0; font-size: 14px;">{product["desc"]}</p>
+  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+    <a href="{amazon_url}" target="_blank" rel="noopener sponsored" style="padding: 6px 12px; background: #ff9900; color: white; text-decoration: none; border-radius: 4px; font-size: 13px;">Amazonで見る</a>
+    <a href="{rakuten_url}" target="_blank" rel="noopener sponsored" style="padding: 6px 12px; background: #bf0000; color: white; text-decoration: none; border-radius: 4px; font-size: 13px;">楽天で見る</a>
+  </div>
+</div>'''
+                    product_cards.append(card)
+                
+                if product_cards:
+                    sections.append(f'''
+### 📦 {topic_data["category"]}のおすすめ
+
+{''.join(product_cards)}''')
+        
+        # 汎用検索リンクは必ず追加（フォールバック兼用）
+        search_keyword = shopping_keyword or "AI 人工知能 入門"
+        search_section = self._generate_search_buttons(search_keyword)
+        sections.append(search_section)
+        
+        # セクションがなければ（DBマッチなし）、従来の汎用リンクをメインで表示
+        if not has_db_products and shopping_keyword:
+            return self._generate_affiliate_links(shopping_keyword)
+        
+        return f'''---
+
+## 🛒 この記事で紹介した関連商品
+
+{''.join(sections)}
+
+<small style="color: #888;">※上記リンクはアフィリエイトリンクです。購入により当サイトに収益が発生する場合があります。</small>'''
+
+    def _generate_learning_resources(self, topics: List[str], shopping_keyword: Optional[str]) -> str:
+        """GUIDE向け: 学習リソースまとめ（DBマッチ + 汎用検索フォールバック）"""
+        resources = []
+        has_db_products = False
+        
+        for topic in topics[:2]:
+            # default以外のトピックのみDBから取得
+            if topic != "default":
+                topic_data = PRODUCT_MAPPINGS.get(topic, {})
+                if topic_data.get("products"):
+                    has_db_products = True
+                    for product in topic_data["products"]:
+                        amazon_url = self._make_amazon_url(product["search"])
+                        resources.append(f'- **[{product["name"]}]({amazon_url})** - {product["desc"]}')
+        
+        # DBマッチがなければ、汎用的な学習リソースを提案
+        if not resources:
+            search_keyword = shopping_keyword or "AI 人工知能 入門"
+            amazon_url = self._make_amazon_url(search_keyword)
+            resources = [
+                f'- **[「{search_keyword}」の関連書籍を探す]({amazon_url})** - Amazonで最新の書籍をチェック',
+            ]
+        
+        # 汎用検索ボタンは必ず表示（フォールバック兼用）
+        search_keyword = shopping_keyword or "AI 機械学習 入門書"
+        amazon_url = self._make_amazon_url(search_keyword)
+        rakuten_url = self._make_rakuten_url(search_keyword)
+        search_buttons = f'''
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 15px 0;">
+<a href="{amazon_url}" target="_blank" rel="noopener sponsored" style="padding: 10px 20px; background: linear-gradient(135deg, #ff9900, #ff6600); color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">🔍 Amazonで「{search_keyword}」を検索</a>
+<a href="{rakuten_url}" target="_blank" rel="noopener sponsored" style="padding: 10px 20px; background: linear-gradient(135deg, #bf0000, #8b0000); color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">🔍 楽天で検索</a>
+</div>'''
+
+        # DBマッチがなくshopping_keywordがある場合は従来メソッドをメインに
+        if not has_db_products and shopping_keyword:
+            return self._generate_affiliate_links(shopping_keyword)
+
+        return f'''---
+
+## 📚 さらに学習を深めるためのリソース
+
+この記事の内容をより深く理解するために、以下の書籍・教材がおすすめです：
+
+{chr(10).join(resources)}
+
+{search_buttons}
+
+<small style="color: #888;">※上記リンクはアフィリエイトリンクです。</small>'''
+
+    def _generate_search_buttons(self, keyword: str) -> str:
+        """汎用検索ボタンを生成"""
+        amazon_url = self._make_amazon_url(keyword)
+        rakuten_url = self._make_rakuten_url(keyword)
+        
+        return f'''
+### 🔎 もっと探す
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 15px 0;">
+<a href="{amazon_url}" target="_blank" rel="noopener sponsored" style="padding: 10px 20px; background: linear-gradient(135deg, #ff9900, #ff6600); color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">Amazonで「{keyword}」を検索</a>
+<a href="{rakuten_url}" target="_blank" rel="noopener sponsored" style="padding: 10px 20px; background: linear-gradient(135deg, #bf0000, #8b0000); color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">楽天で検索</a>
+</div>'''
+
+    def _make_amazon_url(self, keyword: str) -> str:
+        """Amazonアフィリエイトリンクを生成"""
+        encoded = quote(keyword, safe="")
+        return f"https://www.amazon.co.jp/s?k={encoded}&tag={AMAZON_ASSOCIATE_TAG}"
+
+    def _make_rakuten_url(self, keyword: str) -> str:
+        """楽天アフィリエイトリンクを生成"""
+        encoded = quote(keyword, safe="")
+        return f"https://search.rakuten.co.jp/search/mall/{encoded}/?scid={RAKUTEN_AFFILIATE_ID}"
 
     def _generate_affiliate_links(self, keyword: str) -> str:
         """
