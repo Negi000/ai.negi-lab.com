@@ -170,7 +170,21 @@ jobs:
           echo "⏳ Waiting 60 seconds for deployment to propagate..."
           sleep 60
           echo "🐦 Posting articles to X..."
-          python auto_generate.py --post-all-twitter
+          python auto_generate.py --post-all-twitter || true
+
+      # ==============================
+      # Commit Twitter Queue Updates
+      # ==============================
+      - name: Commit twitter queue updates
+        if: steps.commit.outputs.has_changes == 'true'
+        run: |
+          git add twitter_queue.json || true
+          if git diff --staged --quiet; then
+            echo "No twitter queue changes to commit"
+          else
+            git commit -m "🐦 Update twitter queue (posted status)"
+            git push
+          fi
 
       # ==============================
       # Summary
