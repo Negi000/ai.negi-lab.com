@@ -64,12 +64,35 @@ JST = timezone(timedelta(hours=9))
 SLEEP_SECONDS_PER_ARTICLE = 30
 DEFAULT_TOTAL_ARTICLES = 2  # 1回の実行で2記事生成
 
-# カテゴリー目標比率 (1日12記事: NEWS 5, TOOL 5, GUIDE 2)
-CATEGORY_RATIOS = {
-    "NEWS": 0.42,   # 5/12 ≈ 0.42
-    "TOOL": 0.42,   # 5/12 ≈ 0.42
-    "GUIDE": 0.16,  # 2/12 ≈ 0.16
+# 日次リセット時刻（JST 02:00 = 海外速報をキャッチしやすい時間）
+DAILY_RESET_HOUR = 2
+
+# 1日の目標記事数（カテゴリー別）
+# 6回実行 × 2記事 = 12記事/日
+DAILY_TARGETS = {
+    "NEWS": 5,   # 速報ニュース（鮮度重視）
+    "TOOL": 5,   # ツール紹介
+    "GUIDE": 2,  # 解説記事（タイムレス）
 }
+
+# 時間帯別優先度（JST時刻 → 優先カテゴリーリスト）
+# 深夜2時: 海外速報キャッチでNEWS最優先
+# 朝8時: 通勤時間、NEWS + TOOL
+# 昼12時: 昼休み、TOOL中心
+# 午後15時: TOOL + NEWS
+# 夕方18時: 帰宅時間、NEWS + TOOL
+# 夜21時: じっくり読むGUIDE
+TIME_SLOT_PRIORITIES = {
+    2:  ["NEWS", "TOOL", "GUIDE"],   # 海外速報優先
+    8:  ["NEWS", "TOOL", "GUIDE"],   # 朝はNEWS
+    12: ["TOOL", "NEWS", "GUIDE"],   # 昼はTOOL
+    15: ["TOOL", "NEWS", "GUIDE"],   # 午後はTOOL
+    18: ["NEWS", "TOOL", "GUIDE"],   # 夕方はNEWS
+    21: ["GUIDE", "TOOL", "NEWS"],   # 夜はGUIDE
+}
+
+# ネタプールの保持期間（日数）
+POOL_RETENTION_DAYS = 7
 
 # アフィリエイト設定
 AMAZON_ASSOCIATE_TAG = os.environ.get("AMAZON_ASSOCIATE_TAG", "negi3939-22")
@@ -85,6 +108,29 @@ class Category(Enum):
     GUIDE = "GUIDE"
 
 
+def get_daily_date() -> str:
+    """日次リセット境界（02:00 JST）を考慮した"今日"の日付を返す"""
+    now = datetime.now(JST)
+    # 02:00より前なら前日扱い
+    if now.hour < DAILY_RESET_HOUR:
+        now = now - timedelta(days=1)
+    return now.strftime("%Y-%m-%d")
+
+
+def get_current_priority() -> List[Category]:
+    """現在時刻に基づいたカテゴリー優先度を返す"""
+    hour = datetime.now(JST).hour
+    # 最も近い時間帯を探す
+    slots = sorted(TIME_SLOT_PRIORITIES.keys())
+    for i, slot in enumerate(slots):
+        next_slot = slots[(i + 1) % len(slots)]
+        if slot <= hour < next_slot or (next_slot < slot and (hour >= slot or hour < next_slot)):
+            priority_strs = TIME_SLOT_PRIORITIES[slot]
+            return [Category(s) for s in priority_strs]
+    priority_strs = TIME_SLOT_PRIORITIES[slots[0]]
+    return [Category(s) for s in priority_strs]
+
+
 @dataclass
 class NewsItem:
     """収集したニュースアイテム"""
@@ -95,6 +141,9 @@ class NewsItem:
     published: str = ""
     summary: str = ""
     extra: Dict = field(default_factory=dict)
+    # プール用の追加フィールド
+    collected_at: str = ""  # 収集日時
+    possible_categories: List[str] = field(default_factory=list)  # 適用可能なカテゴリー
 
 
 # ============================================================
@@ -142,15 +191,236 @@ class ProcessedURLStore:
             self._dirty = False
 
 
+class DailyStatsStore:
+    """1日のカテゴリー別生成数を追跡するストア（02:00 JSTでリセット）"""
+
+    def __init__(self, path: Path) -> None:
+        self.path = path
+        self._data: Dict = {}
+        self._dirty = False
+
+    def load(self) -> Dict:
+        if not self.path.exists():
+            self._data = self._new_day_data()
+            return self._data
+        try:
+            self._data = json.loads(self.path.read_text(encoding="utf-8"))
+            # 日次リセット境界（02:00 JST）を考慮した日付比較
+            today = get_daily_date()
+            if self._data.get("date") != today:
+                print(f"  [INFO] New day detected (reset at 02:00 JST), resetting daily stats")
+                self._data = self._new_day_data()
+                self._dirty = True
+        except Exception:
+            self._data = self._new_day_data()
+        return self._data
+
+    def _new_day_data(self) -> Dict:
+        return {
+            "date": get_daily_date(),
+            "generated": {"NEWS": 0, "TOOL": 0, "GUIDE": 0},
+            "targets": DAILY_TARGETS.copy(),
+        }
+
+    def get_remaining(self) -> Dict[str, int]:
+        """各カテゴリーの残り枠を取得"""
+        if not self._data:
+            self.load()
+        remaining = {}
+        for cat in ["NEWS", "TOOL", "GUIDE"]:
+            target = self._data["targets"].get(cat, 0)
+            generated = self._data["generated"].get(cat, 0)
+            remaining[cat] = max(0, target - generated)
+        return remaining
+
+    def increment(self, category: str) -> None:
+        """カテゴリーの生成数を+1"""
+        if not self._data:
+            self.load()
+        if category in self._data["generated"]:
+            self._data["generated"][category] += 1
+            self._dirty = True
+
+    def save(self) -> None:
+        if self._dirty:
+            self.path.parent.mkdir(parents=True, exist_ok=True)
+            self.path.write_text(
+                json.dumps(self._data, ensure_ascii=False, indent=2) + "\n",
+                encoding="utf-8",
+            )
+            self._dirty = False
+
+    def get_stats_summary(self) -> str:
+        """現在の状況をサマリー文字列で返す"""
+        if not self._data:
+            self.load()
+        gen = self._data["generated"]
+        tgt = self._data["targets"]
+        return f"NEWS {gen['NEWS']}/{tgt['NEWS']}, TOOL {gen['TOOL']}/{tgt['TOOL']}, GUIDE {gen['GUIDE']}/{tgt['GUIDE']}"
+
+
+# ============================================================
+# News Pool (ネタストック機構)
+# ============================================================
+
+class NewsPool:
+    """
+    収集した記事をプールして、ネタ切れを防止する。
+    
+    - 各ソースから収集した記事をプールに保存
+    - 記事は複数カテゴリーに適用可能（柔軟な振り分け）
+    - 古い記事は自動的に期限切れ
+    - 使用済みURLは別途 processed_urls.json で管理
+    """
+
+    def __init__(self, path: Path, processed_store: 'ProcessedURLStore') -> None:
+        self.path = path
+        self.processed_store = processed_store
+        self._items: List[Dict] = []
+        self._dirty = False
+
+    def load(self) -> None:
+        if not self.path.exists():
+            self._items = []
+            return
+        try:
+            data = json.loads(self.path.read_text(encoding="utf-8"))
+            self._items = data.get("items", [])
+            # 期限切れと使用済みを除去
+            self._cleanup()
+        except Exception:
+            self._items = []
+
+    def _cleanup(self) -> None:
+        """期限切れ・使用済みアイテムを削除"""
+        cutoff = datetime.now(JST) - timedelta(days=POOL_RETENTION_DAYS)
+        cutoff_str = cutoff.strftime("%Y-%m-%dT%H:%M:%S")
+        
+        original_count = len(self._items)
+        self._items = [
+            item for item in self._items
+            if item.get("collected_at", "") >= cutoff_str
+            and not self.processed_store.contains(item.get("url", ""))
+        ]
+        
+        if len(self._items) < original_count:
+            self._dirty = True
+
+    def save(self) -> None:
+        if self._dirty:
+            self.path.parent.mkdir(parents=True, exist_ok=True)
+            data = {"items": self._items, "updated_at": datetime.now(JST).isoformat()}
+            self.path.write_text(
+                json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+                encoding="utf-8",
+            )
+            self._dirty = False
+
+    def add(self, item: 'NewsItem') -> None:
+        """新しいアイテムをプールに追加"""
+        # 既にプールにあるか、使用済みならスキップ
+        if self.processed_store.contains(item.url):
+            return
+        if any(x.get("url") == item.url for x in self._items):
+            return
+        
+        self._items.append({
+            "source": item.source,
+            "title": item.title,
+            "url": item.url,
+            "primary_category": item.category.value,
+            "possible_categories": item.possible_categories or [item.category.value],
+            "published": item.published,
+            "summary": item.summary,
+            "extra": item.extra,
+            "collected_at": datetime.now(JST).strftime("%Y-%m-%dT%H:%M:%S"),
+        })
+        self._dirty = True
+
+    def get_items_for_category(
+        self, 
+        category: Category, 
+        max_items: int = 10,
+        fresh_first: bool = True
+    ) -> List['NewsItem']:
+        """
+        指定カテゴリーに適用可能なアイテムを取得
+        
+        Args:
+            category: 取得したいカテゴリー
+            max_items: 最大取得数
+            fresh_first: True=新しい順、False=古い順（在庫消化）
+        """
+        # カテゴリーに適用可能なアイテムをフィルタ
+        candidates = [
+            item for item in self._items
+            if category.value in item.get("possible_categories", [])
+            and not self.processed_store.contains(item.get("url", ""))
+        ]
+        
+        # ソート（fresh_first=True: 新しい順、False: 古い順）
+        candidates.sort(
+            key=lambda x: x.get("collected_at", ""),
+            reverse=fresh_first
+        )
+        
+        # NewsItem に変換
+        results = []
+        for item in candidates[:max_items]:
+            results.append(NewsItem(
+                source=item.get("source", "Pool"),
+                title=item.get("title", ""),
+                url=item.get("url", ""),
+                category=category,  # 指定されたカテゴリーで使用
+                published=item.get("published", ""),
+                summary=item.get("summary", ""),
+                extra=item.get("extra", {}),
+                collected_at=item.get("collected_at", ""),
+                possible_categories=item.get("possible_categories", []),
+            ))
+        
+        return results
+
+    def get_pool_stats(self) -> Dict[str, int]:
+        """プール内の各カテゴリーのアイテム数を返す"""
+        stats = {"NEWS": 0, "TOOL": 0, "GUIDE": 0, "total": len(self._items)}
+        for item in self._items:
+            for cat in item.get("possible_categories", []):
+                if cat in stats:
+                    stats[cat] += 1
+        return stats
+
+
 # ============================================================
 # News Collector
 # ============================================================
 
 class NewsCollector:
-    """各ソースからニュースを収集するクラス"""
+    """各ソースからニュースを収集するクラス（クロスカテゴリー対応）"""
 
-    def __init__(self, processed_store: ProcessedURLStore) -> None:
+    # カテゴリー判定用キーワード
+    NEWS_KEYWORDS = [
+        "発表", "リリース", "launch", "announce", "release", "update",
+        "速報", "breaking", "ニュース", "news", "報道", "disclosed",
+        "買収", "acquisition", "提携", "partnership", "funding", "調達",
+        "規制", "regulation", "policy", "訴訟", "lawsuit",
+    ]
+    TOOL_KEYWORDS = [
+        "ツール", "tool", "app", "アプリ", "サービス", "service",
+        "プラットフォーム", "platform", "ソフトウェア", "software",
+        "api", "sdk", "library", "framework", "plugin", "extension",
+        "github", "repository", "open source", "オープンソース",
+    ]
+    GUIDE_KEYWORDS = [
+        "使い方", "how to", "tutorial", "チュートリアル", "guide",
+        "入門", "beginner", "解説", "explanation", "tips", "コツ",
+        "比較", "comparison", "レビュー", "review", "まとめ",
+        "ベストプラクティス", "best practice", "活用", "utilize",
+    ]
+
+    def __init__(self, processed_store: ProcessedURLStore, pool: Optional[NewsPool] = None) -> None:
         self.processed_store = processed_store
+        self.pool = pool  # ネタプールへの参照
         self.session = requests.Session()
         self.session.headers.update({"User-Agent": USER_AGENT})
         # タイムアウトを長めに設定（GitHub Actions環境対応）
@@ -175,6 +445,47 @@ class NewsCollector:
 
     def _normalize_text(self, text: str) -> str:
         return re.sub(r"\s+", " ", text).strip()
+
+    def _detect_possible_categories(self, title: str, summary: str, source: str) -> List[str]:
+        """
+        タイトルと概要から適用可能なカテゴリーを判定。
+        1つの記事が複数カテゴリーに適用可能な場合がある。
+        """
+        text = (title + " " + summary).lower()
+        categories = []
+        
+        # ソースによるデフォルトカテゴリー
+        source_defaults = {
+            "Google News": "NEWS",
+            "Product Hunt": "TOOL",
+            "GitHub Trending": "TOOL",
+            "Reddit": "GUIDE",
+        }
+        
+        # キーワードマッチでカテゴリー判定
+        news_score = sum(1 for kw in self.NEWS_KEYWORDS if kw.lower() in text)
+        tool_score = sum(1 for kw in self.TOOL_KEYWORDS if kw.lower() in text)
+        guide_score = sum(1 for kw in self.GUIDE_KEYWORDS if kw.lower() in text)
+        
+        # スコアが1以上ならカテゴリーに追加
+        if news_score >= 1:
+            categories.append("NEWS")
+        if tool_score >= 1:
+            categories.append("TOOL")
+        if guide_score >= 1:
+            categories.append("GUIDE")
+        
+        # どのカテゴリーにもマッチしなければソースデフォルト
+        if not categories:
+            default = source_defaults.get(source, "NEWS")
+            categories.append(default)
+        
+        return categories
+
+    def _add_to_pool(self, item: NewsItem) -> None:
+        """プールにアイテムを追加"""
+        if self.pool:
+            self.pool.add(item)
 
     # -------------------------
     # NEWS Sources
@@ -219,14 +530,20 @@ class NewsCollector:
                 skipped_processed += 1
                 continue
 
-            results.append(NewsItem(
+            # クロスカテゴリー判定
+            possible_cats = self._detect_possible_categories(title, summary, "Google News")
+
+            item = NewsItem(
                 source="Google News",
                 title=title,
                 url=url,
                 category=Category.NEWS,
                 published=published,
                 summary=summary[:500],
-            ))
+                possible_categories=possible_cats,
+            )
+            results.append(item)
+            self._add_to_pool(item)  # プールに追加
 
             if len(results) >= max_items:
                 break
@@ -297,13 +614,19 @@ class NewsCollector:
                 skipped_processed += 1
                 continue
 
-            results.append(NewsItem(
+            # クロスカテゴリー判定
+            possible_cats = self._detect_possible_categories(title, summary, "Product Hunt")
+
+            item = NewsItem(
                 source="Product Hunt",
                 title=title,
                 url=url,
                 category=Category.TOOL,
                 summary=summary[:500],
-            ))
+                possible_categories=possible_cats,
+            )
+            results.append(item)
+            self._add_to_pool(item)  # プールに追加
 
             if len(results) >= max_items:
                 break
@@ -353,14 +676,20 @@ class NewsCollector:
                     skipped_processed += 1
                     continue
 
-                results.append(NewsItem(
+                # クロスカテゴリー判定
+                possible_cats = self._detect_possible_categories(repo_name, description, "GitHub Trending")
+
+                item = NewsItem(
                     source="GitHub Trending",
                     title=repo_name,
                     url=repo_url,
                     category=Category.TOOL,
                     summary=description[:500],
                     extra={"stars_today": stars_today},
-                ))
+                    possible_categories=possible_cats,
+                )
+                results.append(item)
+                self._add_to_pool(item)  # プールに追加
 
                 if len(results) >= max_items:
                     break
@@ -437,14 +766,20 @@ class NewsCollector:
                 if score < 50:
                     continue
 
-                results.append(NewsItem(
+                # クロスカテゴリー判定
+                possible_cats = self._detect_possible_categories(title, selftext, "Reddit")
+
+                item = NewsItem(
                     source=f"Reddit r/{subreddit}",
                     title=title,
                     url=post_url,
                     category=Category.GUIDE,
                     summary=selftext,
                     extra={"score": score},
-                ))
+                    possible_categories=possible_cats,
+                )
+                results.append(item)
+                self._add_to_pool(item)  # プールに追加
 
                 if len(results) >= max_items:
                     break
@@ -1449,43 +1784,80 @@ def post_all_pending_to_twitter() -> int:
 def calculate_targets_with_fallback(
     total: int,
     available: Dict[Category, int],
+    daily_remaining: Optional[Dict[str, int]] = None,
+    pool: Optional[NewsPool] = None,
 ) -> Dict[Category, int]:
     """
-    フォールバックロジック付きの目標数計算。
+    1日の残り枠、時間帯優先度、プールを考慮した目標数計算。
+
+    戦略:
+    - 時間帯に応じた優先順位でカテゴリーを選択
+    - 1回の実行では各カテゴリー最大1記事ずつ（バランス重視）
+    - フィードにネタがなければプールから補充
+    - 枠が埋まっているカテゴリーはスキップ
 
     Args:
-        total: 合計目標記事数
-        available: 各カテゴリーで利用可能な記事数
+        total: 今回生成する記事数
+        available: 各カテゴリーで利用可能な記事数（フィードから取得できた数）
+        daily_remaining: 1日の残り枠（None の場合は制限なし）
+        pool: ネタプール（フィードにネタがない場合のフォールバック）
 
     Returns:
         各カテゴリーで実際に生成する記事数
     """
-    # 初期目標（小数点以下を切り上げて少なくとも1つずつ確保）
-    if total <= 3:
-        # 少数記事の場合はラウンドロビン
-        targets = {
-            Category.NEWS: 1 if total >= 1 else 0,
-            Category.TOOL: 1 if total >= 2 else 0,
-            Category.GUIDE: max(0, total - 2),
-        }
+    # 1日の残り枠（指定がなければ無制限）
+    if daily_remaining is None:
+        remaining = {cat: 999 for cat in ["NEWS", "TOOL", "GUIDE"]}
     else:
-        targets = {
-            Category.NEWS: max(1, int(total * CATEGORY_RATIOS["NEWS"])),
-            Category.TOOL: max(1, int(total * CATEGORY_RATIOS["TOOL"])),
-            Category.GUIDE: total,  # GUIDEは残り全部を受け持つ
+        remaining = daily_remaining.copy()
+
+    print(f"  [DEBUG] Daily remaining: NEWS={remaining.get('NEWS', 0)}, TOOL={remaining.get('TOOL', 0)}, GUIDE={remaining.get('GUIDE', 0)}")
+
+    # プールからの補充可能数を加算
+    pool_available = {cat: 0 for cat in Category}
+    if pool:
+        pool_stats = pool.get_pool_stats()
+        pool_available = {
+            Category.NEWS: pool_stats.get("NEWS", 0),
+            Category.TOOL: pool_stats.get("TOOL", 0),
+            Category.GUIDE: pool_stats.get("GUIDE", 0),
         }
-        # 端数調整（NEWSとTOOLの合計がtotalを超えないように）
-        targets[Category.GUIDE] = total - targets[Category.NEWS] - targets[Category.TOOL]
+        print(f"  [DEBUG] Pool available: NEWS={pool_available[Category.NEWS]}, TOOL={pool_available[Category.TOOL]}, GUIDE={pool_available[Category.GUIDE]}")
 
-    final = {}
-    carryover = 0
+    # 各カテゴリーの実際の上限 = min(残り枠, フィード+プール)
+    effective_available = {
+        Category.NEWS: min(remaining.get("NEWS", 0), available.get(Category.NEWS, 0) + pool_available[Category.NEWS]),
+        Category.TOOL: min(remaining.get("TOOL", 0), available.get(Category.TOOL, 0) + pool_available[Category.TOOL]),
+        Category.GUIDE: min(remaining.get("GUIDE", 0), available.get(Category.GUIDE, 0) + pool_available[Category.GUIDE]),
+    }
 
-    # 優先順: NEWS → TOOL → GUIDE
-    for cat in [Category.NEWS, Category.TOOL, Category.GUIDE]:
-        target_with_carry = targets[cat] + carryover
-        actual = min(target_with_carry, available.get(cat, 0))
-        final[cat] = actual
-        carryover = target_with_carry - actual
+    # 時間帯に応じた優先順位を取得
+    priority_order = get_current_priority()
+    current_hour = datetime.now(JST).hour
+    print(f"  [DEBUG] Current hour: {current_hour}:00 JST, Priority: {[c.value for c in priority_order]}")
+
+    # ラウンドロビン方式：優先順位順に各カテゴリーから1つずつ取る
+    final = {Category.NEWS: 0, Category.TOOL: 0, Category.GUIDE: 0}
+    slots_left = total
+    round_num = 0
+    
+    while slots_left > 0:
+        made_progress = False
+        for cat in priority_order:
+            if slots_left <= 0:
+                break
+            if final[cat] < effective_available[cat]:
+                final[cat] += 1
+                slots_left -= 1
+                made_progress = True
+        
+        # どのカテゴリーも追加できなければ終了
+        if not made_progress:
+            break
+        
+        round_num += 1
+        if round_num > 10:  # 安全装置
+            break
 
     return final
 
@@ -1557,6 +1929,17 @@ def main() -> int:
     repo_root = Path(__file__).resolve().parent
     processed_store = ProcessedURLStore(repo_root / "processed_urls.json")
     processed_store.load()
+    
+    # 1日の生成状況を追跡
+    daily_stats = DailyStatsStore(repo_root / "daily_stats.json")
+    daily_stats.load()
+    print(f"[INFO] Today's progress: {daily_stats.get_stats_summary()}")
+    
+    # ネタプール初期化
+    news_pool = NewsPool(repo_root / "news_pool.json", processed_store)
+    news_pool.load()
+    pool_stats = news_pool.get_pool_stats()
+    print(f"[INFO] News pool: {pool_stats['total']} items (NEWS:{pool_stats['NEWS']}, TOOL:{pool_stats['TOOL']}, GUIDE:{pool_stats['GUIDE']})")
 
     # API Key check (dry-run以外で必須)
     api_key = os.environ.get("GEMINI_API_KEY", "")
@@ -1565,14 +1948,17 @@ def main() -> int:
         return 2
 
     # -------------------------
-    # Step 1: Collect items
+    # Step 1: Collect items from feeds (& add to pool)
     # -------------------------
     print("[Step 1] Collecting news items...")
-    collector = NewsCollector(processed_store)
+    collector = NewsCollector(processed_store, pool=news_pool)
 
-    news_items = collector.collect_news(max_items=total)
-    tool_items = collector.collect_tools(max_items=total)
-    guide_items = collector.collect_guides(max_items=total)
+    news_items = collector.collect_news(max_items=total * 3)  # プール蓄積のため多めに
+    tool_items = collector.collect_tools(max_items=total * 3)
+    guide_items = collector.collect_guides(max_items=total * 3)
+    
+    # プールを保存（新しいアイテムを蓄積）
+    news_pool.save()
 
     available = {
         Category.NEWS: len(news_items),
@@ -1586,24 +1972,50 @@ def main() -> int:
     print()
 
     # -------------------------
-    # Step 2: Calculate with fallback
+    # Step 2: Calculate with fallback (1日の残り枠 + 時間帯優先度 + プール)
     # -------------------------
-    print("[Step 2] Calculating targets with fallback...")
-    targets = calculate_targets_with_fallback(total, available)
+    print("[Step 2] Calculating targets with daily quota...")
+    daily_remaining = daily_stats.get_remaining()
+    targets = calculate_targets_with_fallback(total, available, daily_remaining, pool=news_pool)
 
-    print(f"  NEWS:  {targets[Category.NEWS]} (target: {int(total * 0.4)})")
-    print(f"  TOOL:  {targets[Category.TOOL]} (target: {int(total * 0.4)})")
-    print(f"  GUIDE: {targets[Category.GUIDE]} (target: {total - int(total * 0.4) * 2})")
+    print(f"  NEWS:  {targets[Category.NEWS]} (daily remaining: {daily_remaining['NEWS']})")
+    print(f"  TOOL:  {targets[Category.TOOL]} (daily remaining: {daily_remaining['TOOL']})")
+    print(f"  GUIDE: {targets[Category.GUIDE]} (daily remaining: {daily_remaining['GUIDE']})")
     print(f"  Total: {sum(targets.values())}")
     print()
 
     # -------------------------
-    # Build final item list
+    # Build final item list (フィードから優先、足りなければプールから)
     # -------------------------
     final_items: List[NewsItem] = []
-    final_items.extend(news_items[:targets[Category.NEWS]])
-    final_items.extend(tool_items[:targets[Category.TOOL]])
-    final_items.extend(guide_items[:targets[Category.GUIDE]])
+    
+    # NEWS
+    news_needed = targets[Category.NEWS]
+    final_items.extend(news_items[:news_needed])
+    if len(news_items) < news_needed:
+        # プールから補充
+        pool_news = news_pool.get_items_for_category(Category.NEWS, news_needed - len(news_items), fresh_first=True)
+        final_items.extend(pool_news)
+        if pool_news:
+            print(f"  [INFO] NEWS: {len(pool_news)} items from pool")
+    
+    # TOOL
+    tool_needed = targets[Category.TOOL]
+    final_items.extend(tool_items[:tool_needed])
+    if len(tool_items) < tool_needed:
+        pool_tools = news_pool.get_items_for_category(Category.TOOL, tool_needed - len(tool_items), fresh_first=True)
+        final_items.extend(pool_tools)
+        if pool_tools:
+            print(f"  [INFO] TOOL: {len(pool_tools)} items from pool")
+    
+    # GUIDE
+    guide_needed = targets[Category.GUIDE]
+    final_items.extend(guide_items[:guide_needed])
+    if len(guide_items) < guide_needed:
+        pool_guides = news_pool.get_items_for_category(Category.GUIDE, guide_needed - len(guide_items), fresh_first=False)  # GUIDEは古いのから消化
+        final_items.extend(pool_guides)
+        if pool_guides:
+            print(f"  [INFO] GUIDE: {len(pool_guides)} items from pool")
 
     # -------------------------
     # Dry-run: Show simulation and exit
@@ -1714,6 +2126,10 @@ def main() -> int:
             # Mark as processed
             processed_store.add(item.url)
             processed_store.save()
+            
+            # 1日の生成数を更新
+            daily_stats.increment(item.category.value)
+            daily_stats.save()
 
             # ログ出力
             print(f"  ✓ Saved: {filename}")
@@ -1768,6 +2184,20 @@ def main() -> int:
         print(f"      Posted to X: {twitter_success}/{success_count}")
     elif skip_twitter:
         print(f"      X posting skipped. Run with --post-all-twitter after deploy.")
+    
+    # 1日の進捗状況を表示
+    daily_stats.load()  # 最新の状態を再読み込み
+    stats_data = daily_stats._data
+    print()
+    print("📊 Daily Progress:")
+    for cat, target in stats_data["targets"].items():
+        current = stats_data["generated"].get(cat, 0)
+        remaining = max(0, target - current)
+        bar = "█" * current + "░" * remaining
+        print(f"   {cat:5s}: [{bar}] {current}/{target}")
+    total_generated = sum(stats_data["generated"].values())
+    total_target = sum(stats_data["targets"].values())
+    print(f"   TOTAL: {total_generated}/{total_target} articles today")
     print("=" * 60)
 
     return 0 if success_count > 0 else 1

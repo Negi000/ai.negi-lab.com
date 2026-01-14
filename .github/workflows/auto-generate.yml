@@ -175,14 +175,14 @@ jobs:
       # ==============================
       # Commit Twitter Queue Updates
       # ==============================
-      - name: Commit twitter queue updates
+      - name: Commit queue, stats, and pool updates
         if: steps.commit.outputs.has_changes == 'true'
         run: |
-          git add twitter_queue.json || true
+          git add twitter_queue.json daily_stats.json news_pool.json || true
           if git diff --staged --quiet; then
-            echo "No twitter queue changes to commit"
+            echo "No queue/stats/pool changes to commit"
           else
-            git commit -m "🐦 Update twitter queue (posted status)"
+            git commit -m "📊 Update queue, daily stats, and news pool"
             git push
           fi
 
