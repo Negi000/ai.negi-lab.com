@@ -2,14 +2,16 @@ name: Weekly Digest Generator
 
 on:
   schedule:
-    # 毎週日曜日 21:00 JST (UTC 12:00)
-    - cron: '0 12 * * 0'
+    # 毎週日曜日 21:03 JST (UTC 12:03)
+    # ※0分は競争率が高いため3分に設定
+    - cron: '3 12 * * 0'
   workflow_dispatch:
     inputs:
       force:
         description: '強制実行（テスト用）'
         required: false
-        default: 'false'
+        default: false
+        type: boolean
 
 jobs:
   generate-digest:

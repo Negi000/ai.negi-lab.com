@@ -1,15 +1,16 @@
 name: Auto Generate AI News Articles
 
 on:
-  # スケジュール実行 (日本時間 02:00, 08:00, 12:00, 15:00, 18:00, 21:00)
-  # UTC換算: 17:00(-1), 23:00(-1), 03:00, 06:00, 09:00, 12:00
+  # スケジュール実行 (日本時間 02:03, 08:03, 12:03, 15:03, 18:03, 21:03)
+  # UTC換算: 17:03(-1), 23:03(-1), 03:03, 06:03, 09:03, 12:03
+  # ※0分は競争率が高いため3分に設定
   schedule:
-    - cron: '0 17 * * *'   # JST 02:00
-    - cron: '0 23 * * *'   # JST 08:00
-    - cron: '0 3 * * *'    # JST 12:00
-    - cron: '0 6 * * *'    # JST 15:00
-    - cron: '0 9 * * *'    # JST 18:00
-    - cron: '0 12 * * *'   # JST 21:00
+    - cron: '3 17 * * *'   # JST 02:03
+    - cron: '3 23 * * *'   # JST 08:03
+    - cron: '3 3 * * *'    # JST 12:03
+    - cron: '3 6 * * *'    # JST 15:03
+    - cron: '3 9 * * *'    # JST 18:03
+    - cron: '3 12 * * *'   # JST 21:03
   # 手動実行も可能
   workflow_dispatch:
     inputs:
@@ -17,10 +18,11 @@ on:
         description: '生成する記事数'
         required: false
         default: '2'
+        type: string
       skip_twitter:
         description: 'Xへの投稿をスキップ'
         required: false
-        default: 'false'
+        default: false
         type: boolean
 
 permissions:
