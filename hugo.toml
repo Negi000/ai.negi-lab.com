@@ -32,7 +32,7 @@ summaryLength = 120
   # サイト基本情報
   env = "production"
   author = "Negi AI Lab"
-  description = "AIの最新トレンドを辛口でお届けするテックブログ。Gemini、OpenAI、ChatGPT、機械学習の最新ニュース・ツールレビュー・解説を毎日更新。"
+  description = "情報の洪水を、知恵に変える。最新の技術トレンドをエンジニア目線でわかりやすく紐解くテックブログ。AI、機械学習、Gemini、OpenAIの最新ニュースを毎日更新。"
   keywords = ["AI", "人工知能", "機械学習", "Gemini", "OpenAI", "ChatGPT", "AI ニュース", "AI ツール", "生成AI", "LLM"]
   images = ["https://ai.negi-lab.com/images/og-default.png"]
   
@@ -75,7 +75,7 @@ summaryLength = 120
   # ホームページ情報モード
   [params.homeInfoParams]
     Title = "Negi AI Lab"
-    Content = "AIの最新トレンドを辛口でお届け。Gemini, OpenAI, 機械学習の検証シミュレーションを毎日更新中。"
+    Content = "<span class='tagline'>情報の洪水を、知恵に変える。</span><br><br>制作者の技術知識をベースに最新の技術トレンドを、エンジニア目線でわかりやすく紐解きます。"
   
   # SNS リンク
   [[params.socialIcons]]

@@ -671,6 +671,39 @@ html {
   line-height: 1.8;
 }
 
+/* Tagline - キャッチコピーのスタイリング */
+.first-entry .entry-content .tagline {
+  display: inline-block;
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  background: linear-gradient(90deg, #2ecc71, #1abc9c, #3498db, #2ecc71);
+  background-size: 300% 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: gradient-flow 4s ease infinite;
+  position: relative;
+  padding: 0.2em 0;
+}
+
+/* グラデーションアニメーション */
+@keyframes gradient-flow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* ダークモード対応 */
+.dark .first-entry .entry-content .tagline {
+  background: linear-gradient(90deg, #58d68d, #1abc9c, #5dade2, #58d68d);
+  background-size: 300% 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: gradient-flow 4s ease infinite;
+}
+
 /* Social Icons */
 .social-icons a {
   display: inline-flex;
