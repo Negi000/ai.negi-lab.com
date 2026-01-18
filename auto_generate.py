@@ -2636,6 +2636,13 @@ def generate_weekly_digest() -> int:
     repo_root = Path(__file__).resolve().parent
     posts_dir = repo_root / "content" / "posts"
     
+    print(f"[DEBUG] Looking for posts in: {posts_dir}")
+    print(f"[DEBUG] Posts directory exists: {posts_dir.exists()}")
+    
+    if posts_dir.exists():
+        all_md_files = list(posts_dir.glob("*.md"))
+        print(f"[DEBUG] Total .md files found: {len(all_md_files)}")
+    
     # API Key check
     api_key = os.environ.get("GEMINI_API_KEY", "")
     if not api_key:
@@ -2645,6 +2652,7 @@ def generate_weekly_digest() -> int:
     # 過去7日間の記事を収集
     now = datetime.now(JST)
     week_ago = now - timedelta(days=7)
+    print(f"[DEBUG] Collecting articles from {week_ago.strftime('%Y-%m-%d')} to {now.strftime('%Y-%m-%d')}")
     
     weekly_articles = []
     

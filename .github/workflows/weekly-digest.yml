@@ -37,13 +37,16 @@ jobs:
           pip install -r requirements.txt
 
       - name: Generate Weekly Digest
+        id: generate_digest
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python auto_generate.py --weekly-digest
+          echo "digest_generated=true" >> $GITHUB_OUTPUT
 
       - name: Check for changes
         id: check_changes
+        if: steps.generate_digest.outcome == 'success'
         run: |
           if git diff --quiet; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
