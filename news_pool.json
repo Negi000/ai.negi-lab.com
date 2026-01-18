@@ -1058,19 +1058,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Movens",
-      "url": "https://www.producthunt.com/products/movens",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your travel organizer, live on the Lock Screen </p> <p> <a href=\"https://www.producthunt.com/products/movens?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1062436?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-18T18:20:56"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Purifai",
       "url": "https://www.producthunt.com/products/purifai-smart-paste-for-mac",
       "primary_category": "TOOL",
@@ -1242,19 +1229,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
-      "url": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 18 Jan 2026 15:30:00 +0000",
-      "summary": "Confer is designed to look and feel like ChatGPT or Claude, but your conversations can't be used for training or advertising.",
-      "extra": {},
-      "collected_at": "2026-01-19T01:09:00"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
       "url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
       "primary_category": "NEWS",
@@ -1398,7 +1372,59 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qgdb7f/4x_amd_r9700_128gb_vram_threadripper_9955wx_build/\"> <img alt=\"4x AMD R9700 (128GB VRAM) + Threadripper 9955WX Build\" src=\"https://b.thumbs.redditmedia.com/bQ4SRK8dHDz2IGShLwX64vLIVj0fWUigDqG_dO43P-U.jpg\" title=\"4x AMD R9700 (128GB VRAM) + Threadripper 9955WX Build\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Disclaimer: I am from Germany and my English is not perfect, so I used an LLM to help me structure and",
       "extra": {},
       "collected_at": "2026-01-19T02:18:43"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
+      "url": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 16 Jan 2026 23:21:24 +0000",
+      "summary": "The flood of AI-generated sexual imagery has spurred concern from state and congressional officials alike.",
+      "extra": {},
+      "collected_at": "2026-01-19T08:23:48"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Are most major agents really just markdown todo list processors?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qgj2n9/are_most_major_agents_really_just_markdown_todo/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-01-18T20:15:25+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have been poking around different code bases and scrutixzing logs from the majors LLM providers, and it seems like every agent just decomposes task to a todo list and process them one by one.</p> <p>Has anyone found a different approach?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheDigitalRhino\"> /u/TheDigitalRhino </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qgj2n9/are_most_major_agents_",
+      "extra": {},
+      "collected_at": "2026-01-19T08:23:53"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Roast my build",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qgksrm/roast_my_build/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-01-18T21:28:13+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qgksrm/roast_my_build/\"> <img alt=\"Roast my build\" src=\"https://b.thumbs.redditmedia.com/b9pW-_QRs8a6Yq5-9Nf1d_lQSgXCDYpLuPpj2b0jIXM.jpg\" title=\"Roast my build\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This started as an Optiplex 990 with a 2nd gen i5 as a home server. Someone gave me a 3060, I started running Ollama with Gemma 7B to help manage my Home Assistant, and it became addicting.</p> <p>The upgrades outgr",
+      "extra": {},
+      "collected_at": "2026-01-19T08:23:53"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Running language models where they don't belong",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qgbkcd/running_language_models_where_they_dont_belong/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-01-18T15:33:03+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We have seen a cool counter-trend recently to the typical scaleup narrative (see Smol/Phi and ZIT most notably). I've been on a mission to push this to the limit (mainly for fun), moving LMs into environments where they have no business existing.</p> <p>My thesis is that even the most primitive environments can host generative capabilities if you bake them in correctly.</p> <p>So here goes:</p> <p><strong>1. The NES LM (inference on 1983 hardware)</strong></p> <",
+      "extra": {},
+      "collected_at": "2026-01-19T08:23:53"
     }
   ],
-  "updated_at": "2026-01-19T02:18:43.174849+09:00"
+  "updated_at": "2026-01-19T08:23:53.468651+09:00"
 }
