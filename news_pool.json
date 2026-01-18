@@ -1384,7 +1384,21 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>We spent the last year building systems to turn email into structured context for AI agents. Processed over a million emails to figure out what actually works.</p> <p>Some things that weren't obvious going in:</p> <p>Thread reconstruction is way harder than I thought. You've got replies, forwards, people joining mid-conversation, decisions getting revised three emails later. Most systems just concatenate text in chronological order and hope the LLM figures it ou",
       "extra": {},
       "collected_at": "2026-01-19T01:09:09"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "4x AMD R9700 (128GB VRAM) + Threadripper 9955WX Build",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qgdb7f/4x_amd_r9700_128gb_vram_threadripper_9955wx_build/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-01-18T16:39:42+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qgdb7f/4x_amd_r9700_128gb_vram_threadripper_9955wx_build/\"> <img alt=\"4x AMD R9700 (128GB VRAM) + Threadripper 9955WX Build\" src=\"https://b.thumbs.redditmedia.com/bQ4SRK8dHDz2IGShLwX64vLIVj0fWUigDqG_dO43P-U.jpg\" title=\"4x AMD R9700 (128GB VRAM) + Threadripper 9955WX Build\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Disclaimer: I am from Germany and my English is not perfect, so I used an LLM to help me structure and",
+      "extra": {},
+      "collected_at": "2026-01-19T02:18:43"
     }
   ],
-  "updated_at": "2026-01-19T01:09:09.125239+09:00"
+  "updated_at": "2026-01-19T02:18:43.174849+09:00"
 }
