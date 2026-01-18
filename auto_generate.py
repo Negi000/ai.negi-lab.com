@@ -75,6 +75,110 @@ DAILY_TARGETS = {
     "GUIDE": 2,  # 解説記事（タイムレス）
 }
 
+# ============================================================
+# Persona Configuration（ペルソナ設定）
+# ============================================================
+
+PERSONA = {
+    "name": "ねぎ",
+    "role": "AI専門ブロガー",
+    "tone": "カジュアルだが技術に詳しい。絵文字を適度に使う。一人称は「私」。",
+    "background": """
+        元SIerエンジニア（5年）→ フリーランス → AI専門ブロガー。
+        毎日大量のAI関連情報をウォッチし、本当に使えるものだけを厳選して紹介。
+        技術的な正確性と実用性を重視しつつ、初心者にもわかりやすく解説する。
+    """,
+    "writing_style": """
+        - 「〜ですね」「〜だと思います」など柔らかい語尾
+        - 自分の感想や意見を適度に入れる（「個人的には〜」「正直これは〜」）
+        - 読者に語りかける口調（「みなさんも〜」「ぜひ試してみてください」）
+        - 技術的な説明は正確に、でも難しすぎない言葉で
+    """,
+    "twitter_style": """
+        - 感情を込めた一言から始める
+        - 絵文字を2-3個使う
+        - 「〜かも」「〜だった」など体験談風に
+        - フォロワーに問いかける（「みなさんはどう思います？」）
+    """,
+}
+
+# ニッチなハッシュタグ（ターゲット層が見るタグ）
+# ※Categoryクラス定義前なので文字列キーで定義
+NICHE_HASHTAGS_STR = {
+    "NEWS": [
+        "#プログラミング初心者",
+        "#駆け出しエンジニアと繋がりたい",
+        "#個人開発",
+        "#エンジニア",
+        "#テック速報",
+        "#AI活用",
+    ],
+    "TOOL": [
+        "#個人開発",
+        "#エンジニア",
+        "#業務効率化",
+        "#Python学習中",
+        "#開発ツール",
+        "#プログラミング",
+    ],
+    "GUIDE": [
+        "#プログラミング初心者",
+        "#Python学習中",
+        "#駆け出しエンジニアと繋がりたい",
+        "#個人開発",
+        "#プログラミング学習",
+        "#エンジニア転職",
+    ],
+}
+
+# 固定タグ（全投稿に付与）
+FIXED_HASHTAGS = ["#個人開発", "#エンジニア"]
+
+# ============================================================
+# 一次情報源 RSS フィード（ホットな話題を取得）
+# ============================================================
+
+# AI/Tech 一次情報源（英語・高品質）
+PRIMARY_NEWS_FEEDS = [
+    # 大手テックメディア（速報性・信頼性高い）
+    {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "name": "TechCrunch AI", "priority": 1},
+    {"url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "name": "The Verge AI", "priority": 1},
+    {"url": "https://venturebeat.com/category/ai/feed/", "name": "VentureBeat AI", "priority": 1},
+    {"url": "https://www.wired.com/feed/tag/ai/latest/rss", "name": "Wired AI", "priority": 2},
+    {"url": "https://arstechnica.com/tag/artificial-intelligence/feed/", "name": "Ars Technica AI", "priority": 2},
+    
+    # 公式ブログ（一次情報）
+    {"url": "https://openai.com/blog/rss/", "name": "OpenAI Blog", "priority": 1},
+    {"url": "https://www.anthropic.com/feed.xml", "name": "Anthropic Blog", "priority": 1},
+    {"url": "https://blog.google/technology/ai/rss/", "name": "Google AI Blog", "priority": 1},
+    {"url": "https://ai.meta.com/blog/rss/", "name": "Meta AI Blog", "priority": 1},
+    
+    # 技術系（深掘り記事）
+    {"url": "https://www.technologyreview.com/feed/", "name": "MIT Tech Review", "priority": 2},
+]
+
+# Hacker News（話題性・コミュニティ反応）
+HACKER_NEWS_FEEDS = [
+    {"url": "https://hnrss.org/newest?q=GPT+OR+LLM+OR+Claude+OR+Gemini&points=50", "name": "HN AI Hot", "min_points": 50},
+    {"url": "https://hnrss.org/newest?q=OpenAI+OR+Anthropic+OR+AI+agent&points=30", "name": "HN AI Companies", "min_points": 30},
+]
+
+# Reddit（トレンド・コミュニティ）
+REDDIT_FEEDS = [
+    {"url": "https://www.reddit.com/r/MachineLearning/hot/.rss", "name": "r/MachineLearning", "category": "NEWS"},
+    {"url": "https://www.reddit.com/r/artificial/hot/.rss", "name": "r/artificial", "category": "NEWS"},
+    {"url": "https://www.reddit.com/r/LocalLLaMA/hot/.rss", "name": "r/LocalLLaMA", "category": "GUIDE"},
+    {"url": "https://www.reddit.com/r/ChatGPT/hot/.rss", "name": "r/ChatGPT", "category": "NEWS"},
+    {"url": "https://www.reddit.com/r/singularity/hot/.rss", "name": "r/singularity", "category": "NEWS"},
+]
+
+# プレスリリース系を除外するキーワード
+PRESS_RELEASE_KEYWORDS = [
+    "プレスリリース", "press release", "PR TIMES", "PRNewswire",
+    "発表しました", "を開始", "を発売", "を提供開始",
+    "ニフティニュース", "VOI.id", "excite.co.jp",
+]
+
 # 時間帯別優先度（JST時刻 → 優先カテゴリーリスト）
 # 深夜2時: 海外速報キャッチでNEWS最優先
 # 朝8時: 通勤時間、NEWS + TOOL
@@ -422,12 +526,19 @@ class NewsPool:
         if any(x.get("url") == item.url for x in self._items):
             return
         
+        # possible_categories を文字列リストに変換
+        possible_cats = item.possible_categories or [item.category]
+        possible_cats_str = [
+            c.value if isinstance(c, Category) else str(c) 
+            for c in possible_cats
+        ]
+        
         self._items.append({
             "source": item.source,
             "title": item.title,
             "url": item.url,
             "primary_category": item.category.value,
-            "possible_categories": item.possible_categories or [item.category.value],
+            "possible_categories": possible_cats_str,
             "published": item.published,
             "summary": item.summary,
             "extra": item.extra,
@@ -590,13 +701,209 @@ class NewsCollector:
     # -------------------------
 
     def collect_news(self, max_items: int = 20) -> List[NewsItem]:
-        """NEWS カテゴリー: Google News RSS から収集"""
+        """NEWS カテゴリー: 複数の一次情報源から収集"""
         items: List[NewsItem] = []
-        items.extend(self._collect_google_news(max_items))
-        print(f"  [INFO] NEWS collected: {len(items)} items from Google News")
+        
+        # 1. 一次情報源RSSフィード（優先度高い）
+        primary_items = self._collect_primary_feeds(max_items // 2)
+        items.extend(primary_items)
+        print(f"  [INFO] Primary feeds: {len(primary_items)} items")
+        
+        # 2. Hacker News（話題性の指標）
+        hn_items = self._collect_hacker_news(max_items // 4)
+        items.extend(hn_items)
+        print(f"  [INFO] Hacker News: {len(hn_items)} items")
+        
+        # 3. Reddit AI関連（トレンド）
+        reddit_items = self._collect_reddit_news(max_items // 4)
+        items.extend(reddit_items)
+        print(f"  [INFO] Reddit AI: {len(reddit_items)} items")
+        
+        # 4. Google News（補完、プレスリリース除外）
+        if len(items) < max_items:
+            google_items = self._collect_google_news_filtered(max_items - len(items))
+            items.extend(google_items)
+            print(f"  [INFO] Google News (filtered): {len(google_items)} items")
+        
+        print(f"  [INFO] NEWS total: {len(items)} items")
         return items
 
-    def _collect_google_news(self, max_items: int) -> List[NewsItem]:
+    def _is_press_release(self, title: str, summary: str = "") -> bool:
+        """プレスリリース系の低品質記事かどうか判定"""
+        text = (title + " " + summary).lower()
+        for keyword in PRESS_RELEASE_KEYWORDS:
+            if keyword.lower() in text:
+                return True
+        return False
+
+    def _collect_primary_feeds(self, max_items: int) -> List[NewsItem]:
+        """一次情報源（TechCrunch, The Verge等）からRSS収集"""
+        results: List[NewsItem] = []
+        
+        # 優先度順にソート
+        sorted_feeds = sorted(PRIMARY_NEWS_FEEDS, key=lambda x: x.get("priority", 99))
+        
+        for feed_info in sorted_feeds:
+            if len(results) >= max_items:
+                break
+                
+            url = feed_info["url"]
+            name = feed_info["name"]
+            
+            try:
+                resp = self._fetch_with_retry(url)
+                if not resp:
+                    continue
+                
+                feed = feedparser.parse(resp.content)
+                entries = getattr(feed, "entries", []) or []
+                
+                for entry in entries[:5]:  # 各フィードから最大5件
+                    if len(results) >= max_items:
+                        break
+                    
+                    entry_url = (getattr(entry, "link", "") or "").strip()
+                    title = (getattr(entry, "title", "") or "").strip()
+                    published = (getattr(entry, "published", "") or "").strip()
+                    summary = self._normalize_text(getattr(entry, "summary", "") or "")
+                    
+                    if not entry_url or not title:
+                        continue
+                    if not self._is_fresh(entry_url):
+                        continue
+                    if self._is_press_release(title, summary):
+                        continue
+                    
+                    possible_cats = self._detect_possible_categories(title, summary, name)
+                    
+                    item = NewsItem(
+                        source=name,
+                        title=title,
+                        url=entry_url,
+                        category=Category.NEWS,
+                        published=published,
+                        summary=summary[:500],
+                        possible_categories=possible_cats,
+                    )
+                    results.append(item)
+                    self._add_to_pool(item)
+                    
+            except Exception as e:
+                print(f"  [!] {name} fetch failed: {e}")
+                continue
+        
+        return results
+
+    def _collect_hacker_news(self, max_items: int) -> List[NewsItem]:
+        """Hacker Newsから話題の記事を収集（points付きで品質フィルタ）"""
+        results: List[NewsItem] = []
+        
+        for feed_info in HACKER_NEWS_FEEDS:
+            if len(results) >= max_items:
+                break
+            
+            url = feed_info["url"]
+            name = feed_info["name"]
+            
+            try:
+                resp = self._fetch_with_retry(url)
+                if not resp:
+                    continue
+                
+                feed = feedparser.parse(resp.content)
+                entries = getattr(feed, "entries", []) or []
+                
+                for entry in entries[:10]:
+                    if len(results) >= max_items:
+                        break
+                    
+                    entry_url = (getattr(entry, "link", "") or "").strip()
+                    title = (getattr(entry, "title", "") or "").strip()
+                    published = (getattr(entry, "published", "") or "").strip()
+                    
+                    # HN RSSはコメントへのリンクを含むので、元記事URLを取得
+                    # comments属性がある場合はそちらがHNリンク
+                    if hasattr(entry, 'comments'):
+                        entry_url = (getattr(entry, "link", "") or "").strip()
+                    
+                    if not entry_url or not title:
+                        continue
+                    if not self._is_fresh(entry_url):
+                        continue
+                    
+                    item = NewsItem(
+                        source=name,
+                        title=title,
+                        url=entry_url,
+                        category=Category.NEWS,
+                        published=published,
+                        summary="",
+                        possible_categories=[Category.NEWS],
+                    )
+                    results.append(item)
+                    self._add_to_pool(item)
+                    
+            except Exception as e:
+                print(f"  [!] {name} fetch failed: {e}")
+                continue
+        
+        return results
+
+    def _collect_reddit_news(self, max_items: int) -> List[NewsItem]:
+        """Reddit AI関連サブレディットからホットな投稿を収集"""
+        results: List[NewsItem] = []
+        
+        for feed_info in REDDIT_FEEDS:
+            if feed_info.get("category") != "NEWS":
+                continue
+            if len(results) >= max_items:
+                break
+            
+            url = feed_info["url"]
+            name = feed_info["name"]
+            
+            try:
+                resp = self._fetch_with_retry(url)
+                if not resp:
+                    continue
+                
+                feed = feedparser.parse(resp.content)
+                entries = getattr(feed, "entries", []) or []
+                
+                for entry in entries[:5]:
+                    if len(results) >= max_items:
+                        break
+                    
+                    entry_url = (getattr(entry, "link", "") or "").strip()
+                    title = (getattr(entry, "title", "") or "").strip()
+                    published = (getattr(entry, "published", "") or "").strip()
+                    summary = self._normalize_text(getattr(entry, "summary", "") or "")
+                    
+                    if not entry_url or not title:
+                        continue
+                    if not self._is_fresh(entry_url):
+                        continue
+                    
+                    item = NewsItem(
+                        source=name,
+                        title=title,
+                        url=entry_url,
+                        category=Category.NEWS,
+                        published=published,
+                        summary=summary[:500],
+                        possible_categories=[Category.NEWS],
+                    )
+                    results.append(item)
+                    self._add_to_pool(item)
+                    
+            except Exception as e:
+                print(f"  [!] {name} fetch failed: {e}")
+                continue
+        
+        return results
+
+    def _collect_google_news_filtered(self, max_items: int) -> List[NewsItem]:
+        """Google Newsから収集（プレスリリース除外）"""
         query = "Artificial Intelligence OR Gemini OR OpenAI OR Claude"
         rss_url = (
             "https://news.google.com/rss/search?"
@@ -605,18 +912,16 @@ class NewsCollector:
 
         resp = self._fetch_with_retry(rss_url)
         if not resp:
-            print(f"  [!] Google News RSS fetch failed after retries")
             return []
-        
-        print(f"  [DEBUG] Google News RSS: status={resp.status_code}, size={len(resp.content)} bytes")
 
         feed = feedparser.parse(resp.content)
         entries = getattr(feed, "entries", []) or []
-        print(f"  [DEBUG] Google News entries found: {len(entries)}")
 
         results: List[NewsItem] = []
-        skipped_processed = 0
-        for entry in entries[:max_items * 2]:  # 重複考慮して多めに取得
+        for entry in entries[:max_items * 3]:
+            if len(results) >= max_items:
+                break
+                
             url = (getattr(entry, "link", "") or "").strip()
             title = (getattr(entry, "title", "") or "").strip()
             published = (getattr(entry, "published", "") or "").strip()
@@ -625,10 +930,11 @@ class NewsCollector:
             if not url or not title:
                 continue
             if not self._is_fresh(url):
-                skipped_processed += 1
+                continue
+            # プレスリリース系を除外
+            if self._is_press_release(title, summary):
                 continue
 
-            # クロスカテゴリー判定
             possible_cats = self._detect_possible_categories(title, summary, "Google News")
 
             item = NewsItem(
@@ -641,35 +947,94 @@ class NewsCollector:
                 possible_categories=possible_cats,
             )
             results.append(item)
-            self._add_to_pool(item)  # プールに追加
+            self._add_to_pool(item)
 
-            if len(results) >= max_items:
-                break
-
-        print(f"  [DEBUG] Google News: fresh={len(results)}, skipped_processed={skipped_processed}")
         return results
+
+    # 旧メソッド（互換性のため残す）
+    def _collect_google_news(self, max_items: int) -> List[NewsItem]:
+        """Google News RSS から収集（レガシー）"""
+        return self._collect_google_news_filtered(max_items)
 
     # -------------------------
     # TOOL Sources
     # -------------------------
 
     def collect_tools(self, max_items: int = 20) -> List[NewsItem]:
-        """TOOL カテゴリー: Product Hunt + GitHub Trending から収集"""
+        """TOOL カテゴリー: Product Hunt + GitHub Trending + Reddit から収集"""
         items: List[NewsItem] = []
 
-        # Product Hunt (半分)
-        ph_items = self._collect_product_hunt(max_items // 2 + 2)
+        # Product Hunt (1/3)
+        ph_items = self._collect_product_hunt(max_items // 3 + 2)
         items.extend(ph_items)
         print(f"  [INFO] TOOL from Product Hunt: {len(ph_items)} items")
 
-        # GitHub Trending (残り)
-        remaining = max_items - len(items) + 5
-        gh_items = self._collect_github_trending(remaining)
+        # GitHub Trending (1/3)
+        gh_items = self._collect_github_trending(max_items // 3 + 2)
         items.extend(gh_items)
         print(f"  [INFO] TOOL from GitHub Trending: {len(gh_items)} items")
+
+        # Reddit ToolsとProjects (1/3)
+        reddit_items = self._collect_reddit_tools(max_items // 3 + 2)
+        items.extend(reddit_items)
+        print(f"  [INFO] TOOL from Reddit: {len(reddit_items)} items")
+        
         print(f"  [INFO] TOOL total: {len(items)} items")
 
         return items[:max_items]
+
+    def _collect_reddit_tools(self, max_items: int) -> List[NewsItem]:
+        """Reddit AI関連サブレディットからツール情報を収集"""
+        results: List[NewsItem] = []
+        
+        for feed_info in REDDIT_FEEDS:
+            if feed_info.get("category") != "TOOL":
+                continue
+            if len(results) >= max_items:
+                break
+            
+            url = feed_info["url"]
+            name = feed_info["name"]
+            
+            try:
+                resp = self._fetch_with_retry(url)
+                if not resp:
+                    continue
+                
+                feed = feedparser.parse(resp.content)
+                entries = getattr(feed, "entries", []) or []
+                
+                for entry in entries[:5]:
+                    if len(results) >= max_items:
+                        break
+                    
+                    entry_url = (getattr(entry, "link", "") or "").strip()
+                    title = (getattr(entry, "title", "") or "").strip()
+                    published = (getattr(entry, "published", "") or "").strip()
+                    summary = self._normalize_text(getattr(entry, "summary", "") or "")
+                    
+                    if not entry_url or not title:
+                        continue
+                    if not self._is_fresh(entry_url):
+                        continue
+                    
+                    item = NewsItem(
+                        source=name,
+                        title=title,
+                        url=entry_url,
+                        category=Category.TOOL,
+                        published=published,
+                        summary=summary[:500],
+                        possible_categories=[Category.TOOL],
+                    )
+                    results.append(item)
+                    self._add_to_pool(item)
+                    
+            except Exception as e:
+                print(f"  [!] {name} fetch failed: {e}")
+                continue
+        
+        return results
 
     def _collect_product_hunt(self, max_items: int) -> List[NewsItem]:
         """Product Hunt RSS から AI関連ツールを収集"""
@@ -806,8 +1171,8 @@ class NewsCollector:
         """GUIDE カテゴリー: Reddit + 定番トピックから収集"""
         items: List[NewsItem] = []
 
-        # Reddit
-        reddit_items = self._collect_reddit(max_items)
+        # Reddit (RSSフィード使用)
+        reddit_items = self._collect_reddit_guides(max_items)
         items.extend(reddit_items)
         print(f"  [INFO] GUIDE from Reddit: {len(reddit_items)} items")
 
@@ -821,8 +1186,63 @@ class NewsCollector:
         print(f"  [INFO] GUIDE total: {len(items)} items")
         return items[:max_items]
 
+    def _collect_reddit_guides(self, max_items: int) -> List[NewsItem]:
+        """Reddit AI関連サブレディットからガイド・チュートリアル系を収集"""
+        results: List[NewsItem] = []
+        
+        for feed_info in REDDIT_FEEDS:
+            if feed_info.get("category") != "GUIDE":
+                continue
+            if len(results) >= max_items:
+                break
+            
+            url = feed_info["url"]
+            name = feed_info["name"]
+            
+            try:
+                resp = self._fetch_with_retry(url)
+                if not resp:
+                    continue
+                
+                feed = feedparser.parse(resp.content)
+                entries = getattr(feed, "entries", []) or []
+                
+                for entry in entries[:8]:
+                    if len(results) >= max_items:
+                        break
+                    
+                    entry_url = (getattr(entry, "link", "") or "").strip()
+                    title = (getattr(entry, "title", "") or "").strip()
+                    published = (getattr(entry, "published", "") or "").strip()
+                    summary = self._normalize_text(getattr(entry, "summary", "") or "")
+                    
+                    if not entry_url or not title:
+                        continue
+                    if not self._is_fresh(entry_url):
+                        continue
+                    
+                    possible_cats = self._detect_possible_categories(title, summary, name)
+                    
+                    item = NewsItem(
+                        source=name,
+                        title=title,
+                        url=entry_url,
+                        category=Category.GUIDE,
+                        published=published,
+                        summary=summary[:500],
+                        possible_categories=possible_cats,
+                    )
+                    results.append(item)
+                    self._add_to_pool(item)
+                    
+            except Exception as e:
+                print(f"  [!] {name} fetch failed: {e}")
+                continue
+        
+        return results
+
     def _collect_reddit(self, max_items: int) -> List[NewsItem]:
-        """Reddit (r/LocalLLaMA, r/OpenAI) の Top posts を収集"""
+        """Reddit (r/LocalLLaMA, r/OpenAI) の Top posts を収集（レガシー - JSON API版）"""
         subreddits = ["LocalLLaMA", "OpenAI", "MachineLearning", "artificial"]
         results: List[NewsItem] = []
 
@@ -935,6 +1355,8 @@ class ArticleResult:
     """記事生成結果を保持するデータクラス"""
     title: str
     body: str
+    description: Optional[str] = None  # 3行要約から抽出したdescription
+    hook_text: Optional[str] = None  # X投稿用のフック文（40文字以内）
     shopping_keyword: Optional[str] = None
     viral_tags: Optional[str] = None  # "#タグ1 #タグ2" 形式
 
@@ -996,8 +1418,13 @@ class ArticleGenerator:
             return self._build_guide_prompt(item)
 
     def _build_news_prompt(self, item: NewsItem) -> str:
-        return f'''あなたは「Negi Lab」所属の辛口だが技術に詳しいAI研究員です。
-読者はエンジニアやビジネスマン。実用性と技術的視点を重視して執筆してください。
+        return f'''あなたは「ねぎ」という名前のAI専門ブロガーです。
+
+【あなたのペルソナ】
+{PERSONA["background"]}
+
+【文章スタイル】
+{PERSONA["writing_style"]}
 
 【元ニュース情報】
 - タイトル: {item.title}
@@ -1010,6 +1437,7 @@ class ArticleGenerator:
 - 何が発表されたか
 - 競合（ChatGPT, Claude等）との違いは何か
 - 業界への影響を論理的に解説
+- 一人称は「私」を使い、読者に語りかける口調で
 
 【出力形式】必ず以下のMarkdown構造で出力すること。
 
@@ -1035,38 +1463,45 @@ class ArticleGenerator:
 
 （論理的な分析）
 
-## Negi Labの見解
+## 私の見解
 
-（辛口だが建設的なコメント）
+（「ねぎ」としての率直な感想。「正直なところ〜」「個人的には〜」などの表現を使う）
 
 ---
-### 【重要】キーワード選定タスク
-記事執筆後、以下の2種類のキーワードセットを選定し、記事の末尾に指定のフォーマットで追記してください。
+### 【重要】メタデータ出力
+記事執筆後、以下を記事の末尾に追記してください。
 
-**1. 商品検索キーワード (Shopping Keyword)**
-読者がAmazonや楽天で検索ボタンを押した際、最も適切な商品一覧が表示されるような「具体的な製品名」や「型番」を選定すること。
-- **禁止:** 「PC」「GPU」のような広すぎる1単語（ノイズ商品が混ざる）
-- **禁止:** 長すぎる正式名称（検索ヒット0になる）
-- **推奨:** **2〜3単語**の組み合わせ（例: "MacBook Air M3", "RTX 4070 Ti", "Python オライリー"）
+**1. X投稿用フック文 (HOOK)**
+読者の興味を惹く40文字以内の一言。感情を込めて、体験談風に。
+- 例: 「これは開発者泣かせかも...🤔」「待ってた機能がついに来た！」
+- フォーマット: `[HOOK: フック文]`
+
+**2. 商品検索キーワード (SHOPPING)**
+2〜3単語の組み合わせ（例: "MacBook Air M3"）
 - フォーマット: `[SHOPPING: キーワード]`
 
-**2. SNS拡散用ハッシュタグ (Viral Tags)**
-X (Twitter) でインプレッションを稼ぐための、需要があり記事内容に関連するトレンドワード。
-- **日本語で、ハッシュタグ（#）付きで2つだけ**選定
-- 商品名ではなく「興味関心軸」で選ぶ（例: RTX4090の記事なら `#自作PC` `#ゲーミングPC`）
+**3. SNS拡散用ハッシュタグ (HASHTAGS)**
+ニッチなタグを2つ（#AI, #生成AI のようなビッグワードは禁止）
+- 良い例: #プログラミング初心者 #個人開発 #業務効率化 #Python学習中
 - フォーマット: `[HASHTAGS: #タグ1 #タグ2]`
 ---
 
 【禁止事項】
 - YAML/TOML Front Matterは出力しない
 - HTMLタグは使わない
+- ⚠️や💡などの絵文字を見出しや本文に使わない（メタデータ部分のみ可）
 '''
 
     def _build_tool_prompt(self, item: NewsItem) -> str:
         stars_info = f"- 今日のスター数: {item.extra['stars_today']}" if item.extra.get("stars_today") else ""
 
-        return f'''あなたは「Negi Lab」所属の辛口だが技術に詳しいAI研究員です。
-読者はエンジニアやビジネスマン。実用性と技術的視点を重視して執筆してください。
+        return f'''あなたは「ねぎ」という名前のAI専門ブロガーです。
+
+【あなたのペルソナ】
+{PERSONA["background"]}
+
+【文章スタイル】
+{PERSONA["writing_style"]}
 
 【対象ツール情報】
 - 名前: {item.title}
@@ -1076,19 +1511,18 @@ X (Twitter) でインプレッションを稼ぐための、需要があり記�
 {stars_info}
 
 【指示】
-「**検証シミュレーション**」を含むツールレビュー記事を書いてください。
+「検証シミュレーション」を含むツールレビュー記事を書いてください。
 実際にそのツールをインストールして動かしたと仮定し、以下を含めること：
 - 具体的なPythonコード例（動作する風のコード）
 - 実行結果の例（架空でOK）
 - プロンプト例（該当する場合）
-
-※記事冒頭に「これはシミュレーションであり実測ではありません」と明記すること。
+- 一人称は「私」を使い、実際に試した体験談風に書く
 
 【出力形式】必ず以下のMarkdown構造で出力すること。
 
 1行目: タイトル（装飾なし、キャッチーに）
 
-> ⚠️ 本記事の検証パートはシミュレーションであり、実際の測定結果ではありません。
+**注意:** 本記事の検証パートはシミュレーションです。実際の測定結果ではありません。
 
 ## 3行要約
 
@@ -1133,31 +1567,33 @@ print(result)
 ### デメリット
 - ...
 
-## 結論：Negi Labの評価
+## 私の評価
 
-（星評価: ★★★☆☆ のような形式も可）
+（「ねぎ」としての率直な評価。星評価: ★★★☆☆ のような形式も可。「正直なところ〜」「個人的には〜」などの表現を使う）
 
 ---
-### 【重要】キーワード選定タスク
-記事執筆後、以下の2種類のキーワードセットを選定し、記事の末尾に指定のフォーマットで追記してください。
+### 【重要】メタデータ出力
+記事執筆後、以下を記事の末尾に追記してください。
 
-**1. 商品検索キーワード (Shopping Keyword)**
-読者がAmazonや楽天で検索ボタンを押した際、最も適切な商品一覧が表示されるような「具体的な製品名」や「型番」を選定すること。
-- **禁止:** 「PC」「GPU」のような広すぎる1単語（ノイズ商品が混ざる）
-- **禁止:** 長すぎる正式名称（検索ヒット0になる）
-- **推奨:** **2〜3単語**の組み合わせ（例: "RTX 4090", "Raspberry Pi 5", "Python 入門書"）
+**1. X投稿用フック文 (HOOK)**
+読者の興味を惹く40文字以内の一言。感情を込めて、体験談風に。
+- 例: 「このツール、予想以上に使えるかも...！」「待ってたやつ来た！」
+- フォーマット: `[HOOK: フック文]`
+
+**2. 商品検索キーワード (SHOPPING)**
+2〜3単語の組み合わせ（例: "RTX 4090", "Raspberry Pi 5"）
 - フォーマット: `[SHOPPING: キーワード]`
 
-**2. SNS拡散用ハッシュタグ (Viral Tags)**
-X (Twitter) でインプレッションを稼ぐための、需要があり記事内容に関連するトレンドワード。
-- **日本語で、ハッシュタグ（#）付きで2つだけ**選定
-- 商品名ではなく「興味関心軸」で選ぶ（例: 開発ツールの記事なら `#プログラミング` `#エンジニア`）
+**3. SNS拡散用ハッシュタグ (HASHTAGS)**
+ニッチなタグを2つ（#AI, #生成AI のようなビッグワードは禁止）
+- 良い例: #個人開発 #エンジニア #業務効率化 #開発ツール
 - フォーマット: `[HASHTAGS: #タグ1 #タグ2]`
 ---
 
 【禁止事項】
 - YAML/TOML Front Matterは出力しない
 - HTMLタグは使わない
+- ⚠️や💡などの絵文字を見出しや本文に使わない（メタデータ部分のみ可）
 '''
 
     def _build_guide_prompt(self, item: NewsItem) -> str:
@@ -1167,8 +1603,13 @@ X (Twitter) でインプレッションを稼ぐための、需要があり記�
 - 出典: {item.source}
 {f"- 内容: {item.summary}" if item.summary else ""}'''
 
-        return f'''あなたは「Negi Lab」所属の辛口だが技術に詳しいAI研究員です。
-読者はエンジニアやビジネスマン。実用性と技術的視点を重視して執筆してください。
+        return f'''あなたは「ねぎ」という名前のAI専門ブロガーです。
+
+【あなたのペルソナ】
+{PERSONA["background"]}
+
+【文章スタイル】
+{PERSONA["writing_style"]}
 
 【トピック情報】
 {topic_info}
@@ -1180,6 +1621,8 @@ X (Twitter) でインプレッションを稼ぐための、需要があり記�
 - コード例
 - 設定ファイルの例
 を必ず含めること。
+- 一人称は「私」を使い、読者に寄り添う口調で
+- 「みなさんも経験ありませんか？」など読者への問いかけを入れる
 
 【出力形式】必ず以下のMarkdown構造で出力すること。
 
@@ -1222,31 +1665,33 @@ X (Twitter) でインプレッションを稼ぐための、需要があり記�
 
 **解決策:** ...
 
-## まとめと次のステップ
+## まとめ
 
-（締めの言葉と、次に学ぶべきことへの誘導）
+（「ねぎ」としての締めの言葉。「いかがでしたか？」「ぜひ試してみてくださいね」など）
 
 ---
-### 【重要】キーワード選定タスク
-記事執筆後、以下の2種類のキーワードセットを選定し、記事の末尾に指定のフォーマットで追記してください。
+### 【重要】メタデータ出力
+記事執筆後、以下を記事の末尾に追記してください。
 
-**1. 商品検索キーワード (Shopping Keyword)**
-読者がAmazonや楽天で検索ボタンを押した際、最も適切な商品一覧が表示されるような「具体的な製品名」や「型番」を選定すること。
-- **禁止:** 「PC」「GPU」のような広すぎる1単語（ノイズ商品が混ざる）
-- **禁止:** 長すぎる正式名称（検索ヒット0になる）
-- **推奨:** **2〜3単語**の組み合わせ（例: "NVIDIA Jetson Nano", "Arduino スターターキット", "機械学習 入門書"）
+**1. X投稿用フック文 (HOOK)**
+読者の興味を惹く40文字以内の一言。感情を込めて、体験談風に。
+- 例: 「このエラー、私も何度もハマった...」「初心者がつまずきやすいポイントまとめました」
+- フォーマット: `[HOOK: フック文]`
+
+**2. 商品検索キーワード (SHOPPING)**
+2〜3単語の組み合わせ（例: "機械学習 入門書"）
 - フォーマット: `[SHOPPING: キーワード]`
 
-**2. SNS拡散用ハッシュタグ (Viral Tags)**
-X (Twitter) でインプレッションを稼ぐための、需要があり記事内容に関連するトレンドワード。
-- **日本語で、ハッシュタグ（#）付きで2つだけ**選定
-- 商品名ではなく「興味関心軸」で選ぶ（例: チュートリアル記事なら `#プログラミング初心者` `#独学`）
+**3. SNS拡散用ハッシュタグ (HASHTAGS)**
+ニッチなタグを2つ（#AI, #生成AI のようなビッグワードは禁止）
+- 良い例: #プログラミング初心者 #Python学習中 #駆け出しエンジニアと繋がりたい
 - フォーマット: `[HASHTAGS: #タグ1 #タグ2]`
 ---
 
 【禁止事項】
 - YAML/TOML Front Matterは出力しない
 - HTMLタグは使わない
+- ⚠️や💡などの絵文字を見出しや本文に使わない（メタデータ部分のみ可）
 '''
 
     def _extract_title_and_body(self, text: str, category: Category = Category.NEWS) -> ArticleResult:
@@ -1273,27 +1718,75 @@ X (Twitter) でインプレッションを稼ぐための、需要があり記�
         if not body:
             body = "(本文生成に失敗しました)"
 
-        # カテゴリーに応じたアフィリエイト最適化
-        body, shopping_keyword, viral_tags = self._extract_keywords_and_add_affiliate(body, category)
+        # カテゴリーに応じたアフィリエイト最適化とメタデータ抽出
+        body, shopping_keyword, viral_tags, hook_text = self._extract_keywords_and_add_affiliate(body, category)
+        
+        # 3行要約からdescriptionを抽出
+        description = self._extract_description(body)
 
         return ArticleResult(
             title=title,
             body=body,
+            description=description,
+            hook_text=hook_text,
             shopping_keyword=shopping_keyword,
             viral_tags=viral_tags,
         )
-
-    def _extract_keywords_and_add_affiliate(self, body: str, category: Category = Category.NEWS) -> Tuple[str, Optional[str], Optional[str]]:
+    
+    def _extract_description(self, body: str) -> Optional[str]:
         """
-        本文から[SHOPPING: xxx]と[HASHTAGS: xxx]を抽出し、カテゴリーに応じたアフィリエイトリンクを追加。
+        3行要約セクションからdescriptionを抽出。
+        ⚠️💡や引用形式の文は除外する。
+        """
+        # 「## 3行要約」または「## この記事で学べること」セクションを探す
+        patterns = [
+            r'##\s*3行要約\s*\n+((?:- .+\n?)+)',
+            r'##\s*この記事で学べること\s*\n+((?:- .+\n?)+)',
+        ]
+        
+        for pattern in patterns:
+            match = re.search(pattern, body)
+            if match:
+                bullet_points = match.group(1).strip()
+                # 箇条書きを結合してdescriptionを生成
+                points = []
+                for line in bullet_points.split('\n'):
+                    line = line.strip()
+                    if line.startswith('- '):
+                        point = line[2:].strip()
+                        # ⚠️💡を含む行は除外
+                        if not any(emoji in point for emoji in ['⚠️', '💡', '>']):
+                            points.append(point)
+                
+                if points:
+                    # 最初の2つを結合（80文字以内に収める）
+                    desc = '。'.join(points[:2])
+                    if len(desc) > 80:
+                        desc = desc[:77] + '...'
+                    return desc
+        
+        return None
+
+    def _extract_keywords_and_add_affiliate(self, body: str, category: Category = Category.NEWS) -> Tuple[str, Optional[str], Optional[str], Optional[str]]:
+        """
+        本文から[SHOPPING: xxx]、[HASHTAGS: xxx]、[HOOK: xxx]を抽出し、
+        カテゴリーに応じたアフィリエイトリンクを追加。
         
         Args:
             body: 記事本文
             category: 記事カテゴリー（NEWS/TOOL/GUIDE）
         
         Returns:
-            (処理済み本文, shopping_keyword, viral_tags)
+            (処理済み本文, shopping_keyword, viral_tags, hook_text)
         """
+        # 0. Hook Text 抽出（X投稿用フック文）
+        hook_pattern = r'\[HOOK:\s*(.+?)\]'
+        hook_match = re.search(hook_pattern, body)
+        hook_text = None
+        if hook_match:
+            hook_text = hook_match.group(1).strip()
+            body = re.sub(r'\n*\[HOOK:[^\]]+\]\n*', '\n', body)
+        
         # 1. Shopping Keyword 抽出
         shopping_pattern = r'\[SHOPPING:\s*(.+?)\]'
         shopping_match = re.search(shopping_pattern, body)
@@ -1314,8 +1807,9 @@ X (Twitter) でインプレッションを稼ぐための、需要があり記�
         # 3. 旧形式の[KEYWORD: xxx]も念のため除去（互換性）
         body = re.sub(r'\n*\[KEYWORD:[^\]]+\]\n*', '\n', body)
         
-        # 4. 末尾の「---」以降のキーワード選定タスク指示も除去
+        # 4. 末尾の「---」以降のメタデータ出力指示も除去
         body = re.sub(r'\n---\n### 【重要】キーワード選定タスク[\s\S]*$', '', body)
+        body = re.sub(r'\n---\n### 【重要】メタデータ出力[\s\S]*$', '', body)
         
         # 5. クリーンアップ（連続する空行を整理）
         body = re.sub(r'\n{3,}', '\n\n', body).strip()
@@ -1323,7 +1817,7 @@ X (Twitter) でインプレッションを稼ぐための、需要があり記�
         # 6. カテゴリーに応じたアフィリエイト挿入
         body = self._insert_smart_affiliate(body, category, shopping_keyword)
         
-        return body, shopping_keyword, viral_tags
+        return body, shopping_keyword, viral_tags, hook_text
 
     def _detect_content_topics(self, text: str) -> List[str]:
         """本文からトピックを検出し、マッチする商品カテゴリーを返す"""
@@ -1747,6 +2241,7 @@ class TwitterPoster:
         url: str,
         category: Category,
         viral_tags: Optional[str] = None,
+        hook_text: Optional[str] = None,
     ) -> bool:
         """
         記事をTwitterに投稿する（URLのみ、Twitterカードで画像表示）。
@@ -1756,44 +2251,60 @@ class TwitterPoster:
             url: 記事のURL (Twitterカードで自動的にOGP画像が表示される)
             category: 記事カテゴリー
             viral_tags: Geminiが選んだSNS拡散用ハッシュタグ（例: "#自作PC #ゲーミング"）
+            hook_text: 冒頭のフック文（感情を込めた一言）
 
         Returns:
             投稿成功時True
         """
         try:
-            # カテゴリー別アイコン
-            category_icons = {
-                Category.NEWS: "📰",
-                Category.TOOL: "🛠️",
-                Category.GUIDE: "📖",
-            }
-            icon = category_icons.get(category, "📢")
-
-            # タイトルを短縮（80文字制限）
-            max_title_len = 80
+            # タイトルを短縮（60文字制限 - フック文があるため短めに）
+            max_title_len = 60
             short_title = title[:max_title_len] + "..." if len(title) > max_title_len else title
 
             # ハッシュタグ構成
-            # viral_tags が "#タグ1 #タグ2" 形式で来る想定
-            # フォールバック: viral_tags がない場合はカテゴリに応じたデフォルト
+            # 1. Geminiが選んだニッチタグ（#AI, #生成AI などビッグワードは除外）
+            # 2. 固定タグ（#個人開発, #エンジニア）を追加
+            tags_list = []
+            
             if viral_tags:
-                # Geminiが選んだタグを使用
-                tag_str = viral_tags
-            else:
-                # フォールバック用デフォルトタグ
-                default_tags = {
-                    Category.NEWS: "#AI速報 #テック",
-                    Category.TOOL: "#開発ツール #エンジニア",
-                    Category.GUIDE: "#プログラミング #学習",
-                }
-                tag_str = default_tags.get(category, "#AI #テック")
+                # ビッグワードをフィルタリング
+                big_words = ['#AI', '#生成AI', '#LLM', '#人工知能', '#ChatGPT', '#技術', '#ニュース']
+                for tag in viral_tags.split():
+                    if tag.startswith('#') and tag not in big_words:
+                        tags_list.append(tag)
+            
+            # ニッチタグが足りなければカテゴリー別デフォルトから追加
+            if len(tags_list) < 2:
+                import random
+                niche_options = NICHE_HASHTAGS_STR.get(category.value, NICHE_HASHTAGS_STR["NEWS"])
+                for tag in random.sample(niche_options, min(2, len(niche_options))):
+                    if tag not in tags_list:
+                        tags_list.append(tag)
+                        if len(tags_list) >= 2:
+                            break
+            
+            # 固定タグを追加（最大4タグ）
+            for fixed_tag in FIXED_HASHTAGS:
+                if fixed_tag not in tags_list and len(tags_list) < 4:
+                    tags_list.append(fixed_tag)
+            
+            tag_str = ' '.join(tags_list[:4])  # 最大4タグ
 
             # ツイート本文を構成
-            # {icon} {タイトル}
-            # 詳細はこちら👇
-            # {URL}
-            # {viral_tags} #NegiLab
-            tweet_text = f"{icon} {short_title}\n\n詳細はこちら👇\n{url}\n\n{tag_str} #NegiLab"
+            # フック文があれば冒頭に、なければカテゴリー別のデフォルトフック
+            if hook_text:
+                hook = hook_text
+            else:
+                # カテゴリー別デフォルトフック
+                default_hooks = {
+                    Category.NEWS: "これ、チェックしておいた方がいいかも👀",
+                    Category.TOOL: "このツール、使ってみたらなかなか良かった！",
+                    Category.GUIDE: "初心者がつまずきやすいポイント、まとめました📝",
+                }
+                hook = default_hooks.get(category, "要チェックです！")
+            
+            # 投稿フォーマット（人間らしさを重視）
+            tweet_text = f"{hook}\n\n{short_title}\n\n{url}\n\n{tag_str}"
 
             # テキストのみで投稿（URLからTwitterカードが生成される）
             self.client.create_tweet(text=tweet_text)
@@ -1828,6 +2339,7 @@ def write_hugo_markdown(
     category: Category,
     tags: List[str],
     body: str,
+    description: Optional[str] = None,
 ) -> None:
     """Hugo形式のMarkdownファイルを出力（PaperModテーマ対応）"""
     out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -1840,11 +2352,23 @@ def write_hugo_markdown(
     }
     category_name = category_map.get(category, "AI News")
 
+    # descriptionをサニタイズ（ダブルクォート、改行を除去）
+    safe_description = ""
+    if description:
+        safe_description = description.replace('"', "'").replace('\n', ' ').strip()
+    
     # PaperModテーマはcover.imageを使用
     fm_lines = [
         "---",
         f'title: "{title.replace(chr(34), "")}"',
         f"date: {date_jst.isoformat()}",
+    ]
+    
+    # descriptionがあれば追加（⚠️💡が含まれていないことを確認）
+    if safe_description and not any(emoji in safe_description for emoji in ['⚠️', '💡', '>']):
+        fm_lines.append(f'description: "{safe_description}"')
+    
+    fm_lines.extend([
         "cover:",
         f'  image: "{image_url}"',
         "  alt: \"AI generated thumbnail\"",
@@ -1855,7 +2379,7 @@ def write_hugo_markdown(
         *[f'  - "{t}"' for t in tags],
         "---",
         "",
-    ]
+    ])
 
     content = "\n".join(fm_lines) + body.strip() + "\n"
     out_path.write_text(content, encoding="utf-8")
@@ -1873,6 +2397,7 @@ class TwitterQueueItem:
     url: str
     category: str  # "NEWS", "TOOL", "GUIDE"
     viral_tags: Optional[str]
+    hook_text: Optional[str]  # X投稿用フック文
     created_at: str
 
 
@@ -1903,6 +2428,7 @@ class TwitterPostingQueue:
             "url": item.url,
             "category": item.category,
             "viral_tags": item.viral_tags,
+            "hook_text": item.hook_text,
             "created_at": item.created_at,
             "posted": False,
         })
@@ -2074,6 +2600,7 @@ def post_all_pending_to_twitter() -> int:
             url=item["url"],
             category=category,
             viral_tags=item.get("viral_tags"),
+            hook_text=item.get("hook_text"),
         ):
             queue.mark_posted(item["article_id"])
             print(f"  ✓ Posted!")
@@ -2629,6 +3156,7 @@ def main() -> int:
                 category=item.category,
                 tags=tags,
                 body=result.body,
+                description=result.description,
             )
 
             # Mark as processed
@@ -2641,6 +3169,10 @@ def main() -> int:
 
             # ログ出力
             print(f"  ✓ Saved: {filename}")
+            if result.description:
+                print(f"    Description: {result.description[:50]}...")
+            if result.hook_text:
+                print(f"    Hook text: {result.hook_text}")
             if result.shopping_keyword:
                 print(f"    Shopping keyword: {result.shopping_keyword}")
             if result.viral_tags:
@@ -2656,6 +3188,7 @@ def main() -> int:
                 url=article_url,
                 category=item.category.value,
                 viral_tags=result.viral_tags,
+                hook_text=result.hook_text,
                 created_at=now_jst.isoformat(),
             ))
             print(f"    Queued for X posting: {article_id}")
@@ -2667,6 +3200,7 @@ def main() -> int:
                     url=article_url,
                     category=item.category,
                     viral_tags=result.viral_tags,
+                    hook_text=result.hook_text,
                 ):
                     twitter_queue.mark_posted(article_id)
                     print(f"  ✓ Posted to X (Twitter Card)")
