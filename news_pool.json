@@ -2159,19 +2159,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Anthropic’s CEO stuns Davos with Nvidia criticism",
-      "url": "https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 21 Jan 2026 01:39:58 +0000",
-      "summary": "Anthropic CEO Dario Amodei unloaded on both the administration and U.S. chip companies over plans to sell to China. The criticism was particularly notable because one of those chipmakers, Nvidia, is a major partner and investor in Anthropic.",
-      "extra": {},
-      "collected_at": "2026-01-21T13:11:55"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "In an effort to protect young users, ChatGPT will now predict how old you are",
       "url": "https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/",
       "primary_category": "NEWS",
@@ -2275,7 +2262,87 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qim0e9/vllm_v0140_released/\"> <img alt=\"vLLM v0.14.0 released\" src=\"https://external-preview.redd.it/09XZY9bYFkjK1xfZ16UA__JE3yDYBU7C83HKWilthGw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dba3ac860fe3ee793564a3f2e4d6cf66f32e888a\" title=\"vLLM v0.14.0 released\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jinnyjuice\"> /u/jinnyjuice </a> <br /> <span><a href=\"https://github.com/vllm-proj",
       "extra": {},
       "collected_at": "2026-01-21T13:12:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Blink Agent Builder",
+      "url": "https://www.producthunt.com/products/blink-21",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> You can now vibe code agentic AI apps </p> <p> <a href=\"https://www.producthunt.com/products/blink-21?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1063137?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-21T18:32:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "RelateDB",
+      "url": "https://www.producthunt.com/products/relatedb",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Offline-first database schema designer in your browser </p> <p> <a href=\"https://www.producthunt.com/products/relatedb?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1065430?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-21T18:32:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Portalwith",
+      "url": "https://www.producthunt.com/products/portalwith",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create a secure site client portal with notion database </p> <p> <a href=\"https://www.producthunt.com/products/portalwith?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1063150?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-21T18:32:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "FiloMail for Android",
+      "url": "https://www.producthunt.com/products/filo-mail",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI Gmail client that turns emails into clear tasks </p> <p> <a href=\"https://www.producthunt.com/products/filo-mail?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1058077?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-21T18:32:29"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Here is how to get GLM 4.7 working on llama.cpp with flash attention and correct outputs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qir5eq/here_is_how_to_get_glm_47_working_on_llamacpp/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-21T07:07:52+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Tested GPU: RTX 6000 Blackwell<br /> Tested GGUF: <a href=\"https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF\">https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF</a></p> <ol> <li>Use this git branch to enable flash attention on CUDA <a href=\"https://github.com/am17an/llama.cpp/tree/glm_4.7_headsize\">https://github.com/am17an/llama.cpp/tree/glm_4.7_headsize</a></li> <li>Add this to your options <code>--override-kv deepseek2.expert\\_gating\\_func=int:2</code></li> </",
+      "extra": {},
+      "collected_at": "2026-01-21T18:32:31"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Update - Day #6 of building an LM from scratch",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qiq26v/update_day_6_of_building_an_lm_from_scratch/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-01-21T06:06:32+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So I finally got everything stable. Loss was steadily dropping until eventually it plateaued at around 4-5 at the end. </p> <p>I switched to just DataParallel because DDP was impossible in Windows as I found out during Day 4. However in my findings, DataParallel was actually bottlenecking my system. It was training faster on one GPU instead of two (I blame Windows again for this). Though ideally I’d switch to Linux, I want to get this working on Windows as most ",
+      "extra": {},
+      "collected_at": "2026-01-21T18:32:31"
     }
   ],
-  "updated_at": "2026-01-21T15:41:54.689490+09:00"
+  "updated_at": "2026-01-21T18:32:31.551166+09:00"
 }
