@@ -2,33 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "BlocPad - Project & Team Workspace",
-      "url": "https://www.producthunt.com/products/blocpad",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Kanban and wiki that update instantly for your projects </p> <p> <a href=\"https://www.producthunt.com/products/blocpad?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1059514?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-15T15:38:54"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Redlight Greenlight for Claude Code",
-      "url": "https://www.producthunt.com/products/redlight-greenlight-for-claude-code",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Accept or reject Claude Code permission from anywhere on Mac </p> <p> <a href=\"https://www.producthunt.com/products/redlight-greenlight-for-claude-code?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1062664?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-15T15:38:54"
-    },
-    {
-      "source": "Product Hunt",
       "title": "StackPatch",
       "url": "https://www.producthunt.com/products/stackpatch",
       "primary_category": "TOOL",
@@ -1787,19 +1760,6 @@
       "collected_at": "2026-01-21T18:32:29"
     },
     {
-      "source": "Product Hunt",
-      "title": "Portalwith",
-      "url": "https://www.producthunt.com/products/portalwith",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Create a secure site client portal with notion database </p> <p> <a href=\"https://www.producthunt.com/products/portalwith?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1063150?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-21T18:32:29"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Here is how to get GLM 4.7 working on llama.cpp with flash attention and correct outputs",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qir5eq/here_is_how_to_get_glm_47_working_on_llamacpp/",
@@ -2140,20 +2100,6 @@
       "collected_at": "2026-01-22T08:30:05"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable",
-      "url": "https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Thu, 22 Jan 2026 00:20:18 +0000",
-      "summary": "Should this wearable materialize, it could be released as early as 2027, according to a report on the device.",
-      "extra": {},
-      "collected_at": "2026-01-22T13:14:57"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Three types of LLM workloads and how to serve them",
       "url": "https://modal.com/llm-almanac/workloads",
@@ -2220,7 +2166,48 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qjjrmq/fei_fei_li_dropped_a_nonjepa_world_model_and_the/\"> <img alt=\"Fei Fei Li dropped a non-JEPA world model, and the spatial intelligence is insane\" src=\"https://external-preview.redd.it/dHl1a3MydnZsdGVnMeL77RZtngf3FeBaBzx1OTOSVuPnAYqXhpVZKKbs_rnV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce79108f93f379daa30c29208725387fb2320ee4\" title=\"Fei Fei Li dropped a non-JEPA world model, and the spatial intelligence is insa",
       "extra": {},
       "collected_at": "2026-01-22T13:15:01"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple plans to make Siri an AI chatbot, report says",
+      "url": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Wed, 21 Jan 2026 22:12:50 +0000",
+      "summary": "Siri could look more like ChatGPT than its current state as an integrated feature across Apple products.",
+      "extra": {},
+      "collected_at": "2026-01-22T15:40:06"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Wrote a guide for running Claude Code with GLM-4.7 Flash locally with llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qjf6ys/wrote_a_guide_for_running_claude_code_with_glm47/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-22T00:17:31+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Many of ollama features are now support llama.cpp server but aren't well documented. The ollama convenience features can be replicated in llama.cpp now, the main ones I wanted were model swapping, and freeing gpu memory on idle because I run llama.cpp as a docker service exposed to internet with cloudflare tunnels.</p> <p>The GLM-4.7 flash release and the recent support for Anthropic API in llama.cpp server gave me the motivation to finally make this happen. I b",
+      "extra": {},
+      "collected_at": "2026-01-22T15:40:13"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Michigan is pushing a Anti Chatbot bill to protect the heckin kiddos",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qjc8a2/michigan_is_pushing_a_anti_chatbot_bill_to/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-01-21T22:19:31+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Senate Democrats Call for Improved Safety Measures to Better Protect Michigan Kids from Digital Dangers - Senator Kevin Hertel <a href=\"https://share.google/ZwmPjEOVP5AcgZnhT\">https://share.google/ZwmPjEOVP5AcgZnhT</a></p> <p>not much information about this yet but they've talked about making sure kids have a harder time to access chat bots. the bill is vague so far and to my knowledge no real text has been released yet. My question is how can they assess what i",
+      "extra": {},
+      "collected_at": "2026-01-22T15:40:13"
     }
   ],
-  "updated_at": "2026-01-22T13:15:01.659929+09:00"
+  "updated_at": "2026-01-22T15:40:13.927239+09:00"
 }
