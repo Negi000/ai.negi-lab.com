@@ -2123,19 +2123,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "So THAT'S why generations take so long sometimes",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qjp29u/so_thats_why_generations_take_so_long_sometimes/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-01-22T08:23:01+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qjp29u/so_thats_why_generations_take_so_long_sometimes/\"> <img alt=\"So THAT'S why generations take so long sometimes\" src=\"https://external-preview.redd.it/NDExcmt3bHcxdmVnMbqlCOGHRc5n3_cDftfsgD3DArw7u7f4exLoWTuSZ93a.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=02862344fe7ac8a58e90fba9b10a59c1d8140d34\" title=\"So THAT'S why generations take so long sometimes\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www",
-      "extra": {},
-      "collected_at": "2026-01-22T18:32:43"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Thoughts on LLMs (closed- and open-source) in software development after one year of professional use.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qjnbh8/thoughts_on_llms_closed_and_opensource_in/",
       "primary_category": "GUIDE",
@@ -2185,19 +2172,6 @@
       "summary": "Big tech companies and upcoming startups want to use generative AI to build software and hardware for kids. A lot of those experiences are limited to text or voice, and kids might not find that captivating. Three former Google employees want to get over that hurdle with their generative AI-powered interactive app, Sparkli. Sparkli was [&#8230;]",
       "extra": {},
       "collected_at": "2026-01-22T22:01:21"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AbleMouse Beyond Switch Edition",
-      "url": "https://www.producthunt.com/products/ablemouse-control-with-tongue-or-touch",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Full PC control for the paralyzed via one micro-movement. </p> <p> <a href=\"https://www.producthunt.com/products/ablemouse-control-with-tongue-or-touch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1065997?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-22T22:01:25"
     },
     {
       "source": "Product Hunt",
@@ -2254,7 +2228,99 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hugging Face trending is on fire this week with fresh drops in text generation, image, audio, and more.</p> <p>Check 'em out and drop your thoughts—which one's getting deployed first?</p> <h1>Text Generation</h1> <ul> <li><a href=\"https://huggingface.co/zai-org/GLM-4.7-Flash\"><strong>zai-org/GLM-4.7-Flash</strong></a>: 31B param model for fast, efficient text gen—updated 2 days ago with 124k downloads and 932 likes. Ideal for real-time apps and agents.</li> <li>",
       "extra": {},
       "collected_at": "2026-01-22T22:01:28"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses",
+      "url": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 22 Jan 2026 16:00:00 +0000",
+      "summary": "The company notes that AI Mode doesn’t train directly on your Gmail inbox or Google Photos library. Instead, it trains on specific prompts and the model’s responses.",
+      "extra": {},
+      "collected_at": "2026-01-23T02:29:26"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google reportedly snags team behind AI voice startup Hume AI",
+      "url": "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 22 Jan 2026 15:12:51 +0000",
+      "summary": "Google has hired the CEO and top engineer behind voice AI startup Hume AI, signaling that voice is increasingly becoming the preferred interface over screens.",
+      "extra": {},
+      "collected_at": "2026-01-23T02:29:26"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "From invisibility cloaks to AI chips: Neurophos raises $110M to build tiny optical processors for inferencing",
+      "url": "https://techcrunch.com/2026/01/22/from-invisibility-cloaks-to-ai-chips-neurophos-raises-110m-to-build-tiny-optical-processors-for-inferencing/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 22 Jan 2026 15:00:52 +0000",
+      "summary": "Neurophos is taking a crack at solving the AI industry's power efficiency problem with an optical chip that uses a composite material to do the math required in AI inferencing tasks.",
+      "extra": {},
+      "collected_at": "2026-01-23T02:29:26"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Web search API by Crustdata",
+      "url": "https://www.producthunt.com/products/crustdata-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Accurate and the fastest web search API for AI Agents </p> <p> <a href=\"https://www.producthunt.com/products/crustdata-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1065806?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-23T02:29:29"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen dev on Twitter!!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qjtyw8/qwen_dev_on_twitter/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-01-22T13:03:26+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qjtyw8/qwen_dev_on_twitter/\"> <img alt=\"Qwen dev on Twitter!!\" src=\"https://preview.redd.it/avu4mhyvfweg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60312577cba6dc65c74da0313ab4d31252bd6be2\" title=\"Qwen dev on Twitter!!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Difficult-Cap-7527\"> /u/Difficult-Cap-7527 </a> <br /> <span><a href=\"https://i.redd.it/avu4mhyvfweg1.jpeg\">[link]</a></",
+      "extra": {},
+      "collected_at": "2026-01-23T02:29:31"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen have open-sourced the full family of Qwen3-TTS: VoiceDesign, CustomVoice, and Base, 5 models (0.6B & 1.8B), Support for 10 languages",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qjul5t/qwen_have_opensourced_the_full_family_of_qwen3tts/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-22T13:31:16+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qjul5t/qwen_have_opensourced_the_full_family_of_qwen3tts/\"> <img alt=\"Qwen have open-sourced the full family of Qwen3-TTS: VoiceDesign, CustomVoice, and Base, 5 models (0.6B &amp; 1.8B), Support for 10 languages\" src=\"https://preview.redd.it/wo9tqflvkweg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=75bf194547e68a1bb648f530175a2ec826899fd0\" title=\"Qwen have open-sourced the full family of Qwen3-TTS: VoiceDesign, CustomV",
+      "extra": {},
+      "collected_at": "2026-01-23T02:29:31"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3 TTS just dropped 🗣️🔈",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qjul2g/qwen3_tts_just_dropped/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-01-22T13:31:10+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/QwenLM/Qwen3-TTS\">https://github.com/QwenLM/Qwen3-TTS</a><br /> <a href=\"https://huggingface.co/collections/Qwen/qwen3-tts\">https://huggingface.co/collections/Qwen/qwen3-tts</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Reasonable-Fun-7078\"> /u/Reasonable-Fun-7078 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qjul2g/qwen3_tts_just_dropped/\">[link]</a></span> &#32;",
+      "extra": {},
+      "collected_at": "2026-01-23T02:29:31"
     }
   ],
-  "updated_at": "2026-01-22T22:01:28.535925+09:00"
+  "updated_at": "2026-01-23T02:29:31.864160+09:00"
 }
