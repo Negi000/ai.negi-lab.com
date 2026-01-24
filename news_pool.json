@@ -2,19 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "TranslateGemma",
-      "url": "https://www.producthunt.com/products/translategemma",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open translation on Google models, supporting 55 languages </p> <p> <a href=\"https://www.producthunt.com/products/translategemma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1063458?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-17T13:00:11"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Clodo",
       "url": "https://www.producthunt.com/products/clodo",
       "primary_category": "TOOL",
@@ -2479,19 +2466,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "How did Davos turn into a tech conference?",
-      "url": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 23 Jan 2026 20:00:00 +0000",
-      "summary": "The World Economic Forum&#8217;s annual meeting in Davos&#160;felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade.&#160;AI dominated the conversation in a way that overshadowed traditional topics like climate change and global poverty, and the CEOs&#160;weren&#8217;t&#160;holding back. There was public criticism of trade policy, warnings about AI [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-01-24T08:25:55"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Meta pauses teen access to AI characters ahead of new version",
       "url": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/",
       "primary_category": "NEWS",
@@ -2582,7 +2556,75 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Must Read!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/buntyshah2020\"> /u/buntyshah2020 </a> <br /> <span><a href=\"https://openai.com/index/scaling-postgresql/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qks7ua/scaling_postgresql_to_power_800_million_chatgpt/\">[comments]</a></span>",
       "extra": {},
       "collected_at": "2026-01-24T08:26:00"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup",
+      "url": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 24 Jan 2026 00:04:45 +0000",
+      "summary": "Yann LeCun's new venture, AMI Labs, has drawn intense attention since the AI scientist left Meta to found it.",
+      "extra": {},
+      "collected_at": "2026-01-24T13:03:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "1Setter",
+      "url": "https://www.producthunt.com/products/1setter",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> One-click system settings for macOS </p> <p> <a href=\"https://www.producthunt.com/products/1setter?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1066683?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-24T13:03:12"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Built a 100% client-side AI that plays Pokemon Red - Qwen 2.5 1.5B via WebLLM + neural network policy . Fork/check it out! BYOR",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ql6cz7/built_a_100_clientside_ai_that_plays_pokemon_red/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-23T23:20:23+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ql6cz7/built_a_100_clientside_ai_that_plays_pokemon_red/\"> <img alt=\"Built a 100% client-side AI that plays Pokemon Red - Qwen 2.5 1.5B via WebLLM + neural network policy . Fork/check it out! BYOR\" src=\"https://preview.redd.it/hlrhml65m6fg1.gif?width=640&amp;crop=smart&amp;s=05c26e9e3a4c3182ca841254a0d81f18d6a5901f\" title=\"Built a 100% client-side AI that plays Pokemon Red - Qwen 2.5 1.5B via WebLLM + neural network policy .",
+      "extra": {},
+      "collected_at": "2026-01-24T13:03:14"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "LuxTTS: A lightweight high quality voice cloning TTS model",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ql7mav/luxtts_a_lightweight_high_quality_voice_cloning/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-01-24T00:12:35+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just released LuxTTS, a tiny 120m param diffusion based text-to-speech model. It can generate 150 seconds of audio in just 1 second on a modern gpu and has high quality voice cloning.</p> <p>Main features:</p> <ol> <li><p>High quality voice cloning, on par with models 10x larger.</p></li> <li><p>Very efficient, fits within 1gb vram.</p></li> <li><p>Really fast, several times faster than realtime even on CPU.</p></li> </ol> <p>It can definitely be even faster s",
+      "extra": {},
+      "collected_at": "2026-01-24T13:03:14"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM-4.7-Flash-REAP on RTX 5060 Ti 16 GB - 200k context window!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qlanzn/glm47flashreap_on_rtx_5060_ti_16_gb_200k_context/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-01-24T02:26:28+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>TL;DR: Here's my latest local coding setup, the params are mostly based on <a href=\"https://unsloth.ai/docs/models/glm-4.7-flash#tool-calling-with-glm-4.7-flash\">Unsloth's recommendation for tool calling</a></p> <ul> <li>Model: <a href=\"https://huggingface.co/unsloth/GLM-4.7-Flash-REAP-23B-A3B-GGUF\">unsloth/GLM-4.7-Flash-REAP-23B-A3B-UD-Q3_K_XL</a></li> <li>Repeat penalty: disabled</li> <li>Temperature: 0.7</li> <li>Top P: 1</li> <li>Min P: 0.01</li> <li>Standar",
+      "extra": {},
+      "collected_at": "2026-01-24T13:03:14"
     }
   ],
-  "updated_at": "2026-01-24T08:26:00.263777+09:00"
+  "updated_at": "2026-01-24T13:03:14.821667+09:00"
 }
