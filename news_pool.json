@@ -1,32 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Colloqio",
-      "url": "https://www.producthunt.com/products/colloqio-offline-ai-chat-app",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> On-device AI - private, fast, always available </p> <p> <a href=\"https://www.producthunt.com/products/colloqio-offline-ai-chat-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1061794?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-18T02:18:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "LinkNotch",
-      "url": "https://www.producthunt.com/products/linknotch-link-drawer-for-your-macbook",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn your MacBook Notch into a fast access bookmark bar. </p> <p> <a href=\"https://www.producthunt.com/products/linknotch-link-drawer-for-your-macbook?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1061731?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-18T08:23:24"
-    },
-    {
       "source": "Google News",
       "title": "MVRDVがドイツに手がけるAIのグローバル拠点〈イノベーション・パーク・AI〉が着工 - TECTURE MAG",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSSnlDWVlWUEczNy1QSFZJelkxall5V0pjUEpLdXBsSi13NkNMUHpXZUFORWhaZnVDaHZtN1AtMnFDblFoT1Ywd25FV0ZSdGpKVTd3N2dTQWs?oc=5",
@@ -2445,19 +2419,6 @@
       "collected_at": "2026-01-24T13:03:14"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "GLM-4.7-Flash-REAP on RTX 5060 Ti 16 GB - 200k context window!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qlanzn/glm47flashreap_on_rtx_5060_ti_16_gb_200k_context/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-01-24T02:26:28+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>TL;DR: Here's my latest local coding setup, the params are mostly based on <a href=\"https://unsloth.ai/docs/models/glm-4.7-flash#tool-calling-with-glm-4.7-flash\">Unsloth's recommendation for tool calling</a></p> <ul> <li>Model: <a href=\"https://huggingface.co/unsloth/GLM-4.7-Flash-REAP-23B-A3B-GGUF\">unsloth/GLM-4.7-Flash-REAP-23B-A3B-UD-Q3_K_XL</a></li> <li>Repeat penalty: disabled</li> <li>Temperature: 0.7</li> <li>Top P: 1</li> <li>Min P: 0.01</li> <li>Standar",
-      "extra": {},
-      "collected_at": "2026-01-24T13:03:14"
-    },
-    {
       "source": "The Verge AI",
       "title": "Meta is stopping teens from chatting with its AI characters",
       "url": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version",
@@ -2602,19 +2563,6 @@
       "collected_at": "2026-01-24T21:51:31"
     },
     {
-      "source": "Product Hunt",
-      "title": "Sometimes: A Poem Arrives",
-      "url": "https://www.producthunt.com/products/sometimes-a-poem-arrives",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Poetry at Unexpected Moments </p> <p> <a href=\"https://www.producthunt.com/products/sometimes-a-poem-arrives?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1064627?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-24T21:51:33"
-    },
-    {
       "source": "GitHub Trending",
       "title": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
@@ -2702,7 +2650,143 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>The core principle of running Mixture-of-Experts (MoE) models on CPU/RAM is that the CPU doesn't need to extract or calculate all weights from memory simultaneously. Only a fraction of the parameters are &quot;active&quot; for any given token, and since calculations are approximate, memory throughput becomes our primary bottleneck.</p> <h1>The Math: Model Size vs. Memory Bandwidth</h1> <p>Let's look at two popular models: <strong>GLM-4.7-Flash</strong> (3B activ",
       "extra": {},
       "collected_at": "2026-01-24T21:51:36"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Tech CEOs boast and bicker about AI at Davos",
+      "url": "https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 24 Jan 2026 20:00:46 +0000",
+      "summary": "There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.",
+      "extra": {},
+      "collected_at": "2026-01-25T08:23:47"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Former Googlers seek to captivate kids with an AI-powered learning app",
+      "url": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sat, 24 Jan 2026 18:21:21 +0000",
+      "summary": "Sparkli said that education systems often fall behind in teaching modern concepts. The company wants to teach kids about topics like skills design, financial literacy, and entrepreneurship by creating an AI-powered learning \"expedition.\"",
+      "extra": {},
+      "collected_at": "2026-01-25T08:23:47"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "A new test for AI labs: Are you even trying to make money?",
+      "url": "https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 24 Jan 2026 17:00:00 +0000",
+      "summary": "It’s getting hard to tell which AI labs. are actually trying to make money. We created a rating system to help sort it out.",
+      "extra": {},
+      "collected_at": "2026-01-25T08:23:47"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Code's new hidden feature: Swarms",
+      "url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 24 Jan 2026 14:35:47 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-01-25T08:23:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "[Release] Qwen3-TTS: Ultra-Low Latency (97ms), Voice Cloning & OpenAI-Compatible API",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qlzbhh/release_qwen3tts_ultralow_latency_97ms_voice/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-24T21:21:50+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qlzbhh/release_qwen3tts_ultralow_latency_97ms_voice/\"> <img alt=\"[Release] Qwen3-TTS: Ultra-Low Latency (97ms), Voice Cloning &amp; OpenAI-Compatible API\" src=\"https://b.thumbs.redditmedia.com/tY-PA8qRCq6_itenx-ibWJJ7urdsbE45bXySDC1FH4s.jpg\" title=\"[Release] Qwen3-TTS: Ultra-Low Latency (97ms), Voice Cloning &amp; OpenAI-Compatible API\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>The Qwen team jus",
+      "extra": {},
+      "collected_at": "2026-01-25T08:23:52"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Artificial Analysis: South Korea 🇰🇷 is now the clear #3 nation in AI — powered by the Korean National Sovereign AI Initiative there are now multiple Korean AI labs with near frontier intelligence.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qltwza/artificial_analysis_south_korea_is_now_the_clear/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-24T18:00:50+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qltwza/artificial_analysis_south_korea_is_now_the_clear/\"> <img alt=\"Artificial Analysis: South Korea 🇰🇷 is now the clear #3 nation in AI — powered by the Korean National Sovereign AI Initiative there are now multiple Korean AI labs with near frontier intelligence.\" src=\"https://preview.redd.it/66fd18ro6cfg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f579cce389f709dbf297867095118be2027f04ea\" title=\"Artificial Analysis",
+      "extra": {},
+      "collected_at": "2026-01-25T08:23:52"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Personal experience with GLM 4.7 Flash Q6 (unsloth) + Roo Code + RTX 5090",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qlnruw/personal_experience_with_glm_47_flash_q6_unsloth/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-01-24T14:02:56+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am much more interested in how folks experience quantized versions of new models than just looking at bar graphs, so here is my humble contribution. </p> <p>I have been using GLM 4.7 Flash to perform a few refactoring tasks in some personal web projects and have been quite impressed by how well the model handles Roo Code without breaking apart. For this agentic tool specifically, it has been much more reliable and precise than GPT-OSS 120b, GLM 4.5 Air, or Dev",
+      "extra": {},
+      "collected_at": "2026-01-25T08:23:52"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I built an open-source audiobook converter using Qwen3 TTS - converts PDFs/EPUBs to high-quality audiobooks with voice cloning support",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qlr3wj/i_built_an_opensource_audiobook_converter_using/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-01-24T16:16:15+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Turn any book into an audiobook with AI voice synthesis!</strong> I just released an open-source tool that converts PDFs, EPUBs, DOCX, and TXT files into high-quality audiobooks using <strong>Qwen3 TTS</strong> - the amazing open-source voice model that just went public.</p> <h2>What it does:</h2> <p><strong>Converts any document format</strong> (PDF, EPUB, DOCX, DOC, TXT) into audiobooks <strong>Two voice modes</strong>: Pre-built speakers (Ryan, Serena",
+      "extra": {},
+      "collected_at": "2026-01-25T08:23:52"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM 4.7 Flash uncensored - Balanced & Aggressive variants (GGUF)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qlt3pw/glm_47_flash_uncensored_balanced_aggressive/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-01-24T17:30:56+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I made uncensored versions of the new GLM 4.7 Flash from Z.ai.</p> <p>For those who don't know the model, it's 30B-A3B MoE, so only ~3B active params (will have fast inference!) and 200K context. Runs surprisingly well for what it is.</p> <p>Two variants:</p> <p>- Balanced - excellent for agentic coding stuff where you still want (uncensored) reliability</p> <p>- Aggressive - great for every other uncensored topic</p> <p>Quants available: FP16, Q8_",
+      "extra": {},
+      "collected_at": "2026-01-25T08:23:52"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "What is the best general-purpose model to run locally on 24GB of VRAM in 2026?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qlwibf/what_is_the_best_generalpurpose_model_to_run/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-01-24T19:35:11+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been running Gemma 3 27b since its release nine months ago, which is an eternity in the AI field. Has anything better been released since then that can run well on a single 3090ti?</p> <p>I'm not looking to code, to create agents, or to roleplay; I just want a good model to chat with and get reasonably smart answers to questions. If it can view images, that's even better.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user",
+      "extra": {},
+      "collected_at": "2026-01-25T08:23:52"
     }
   ],
-  "updated_at": "2026-01-24T21:51:36.200646+09:00"
+  "updated_at": "2026-01-25T08:23:52.476496+09:00"
 }
