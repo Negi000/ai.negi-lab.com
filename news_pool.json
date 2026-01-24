@@ -1,81 +1,6 @@
 {
   "items": [
     {
-      "source": "GitHub Trending",
-      "title": "paperless-ngx/paperless-ngx",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "extra": {
-        "stars_today": "33 stars today"
-      },
-      "collected_at": "2026-01-17T21:50:26"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "meshery/meshery",
-      "url": "https://github.com/meshery/meshery",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Meshery, the cloud native manager",
-      "extra": {
-        "stars_today": "17 stars today"
-      },
-      "collected_at": "2026-01-17T21:50:26"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "tursodatabase/libsql",
-      "url": "https://github.com/tursodatabase/libsql",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
-      "extra": {
-        "stars_today": "39 stars today"
-      },
-      "collected_at": "2026-01-17T21:50:26"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "tracel-ai/burn",
-      "url": "https://github.com/tracel-ai/burn",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
-      "extra": {
-        "stars_today": "59 stars today"
-      },
-      "collected_at": "2026-01-17T21:50:26"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "FreeRTOS/FreeRTOS-Kernel",
-      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
-      "extra": {
-        "stars_today": "2 stars today"
-      },
-      "collected_at": "2026-01-17T21:50:26"
-    },
-    {
       "source": "Product Hunt",
       "title": "Colloqio",
       "url": "https://www.producthunt.com/products/colloqio-offline-ai-chat-app",
@@ -2399,20 +2324,6 @@
       "collected_at": "2026-01-24T02:26:27"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Meta pauses teen access to AI characters ahead of new version",
-      "url": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Fri, 23 Jan 2026 17:00:00 +0000",
-      "summary": "Meta today said that it is pausing teens' access to its AI characters globally across all its apps. The company mentioned that it is not abandoning its efforts but wants to develop an updated version of AI characters for teens.",
-      "extra": {},
-      "collected_at": "2026-01-24T08:25:55"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Auto-compact not triggering on Claude.ai despite being marked as fixed",
       "url": "https://github.com/anthropics/claude-code/issues/18866",
@@ -2676,7 +2587,122 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Man, i just tried GLM 4.7 Flash in LMstudio on a 5090 and while the 150 tokens/sec at Q6 is nice on the first prompt, things rapidly go south speedwise after 10k, unlike any other model i've tried.</p> <p>I am using all the recommended settings and my unsloth quant, llama.cpp runtime, and lmstudio are all up to date.</p> <p>I see that ik_llama.cpp has a recent patch that reduces this slowdown:<br /> <a href=\"https://github.com/ikawrakow/ik_llama.cpp/pull/1182\">h",
       "extra": {},
       "collected_at": "2026-01-24T18:20:27"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The end of the Sony era in TVs",
+      "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-01-23T10:20:10-05:00",
+      "summary": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news just a little sad. Sony's new joint venture with TCL isn't the [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-01-24T21:51:31"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Sometimes: A Poem Arrives",
+      "url": "https://www.producthunt.com/products/sometimes-a-poem-arrives",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Poetry at Unexpected Moments </p> <p> <a href=\"https://www.producthunt.com/products/sometimes-a-poem-arrives?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1064627?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-24T21:51:33"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Master programming by recreating your favorite technologies from scratch.",
+      "extra": {
+        "stars_today": "529 stars today"
+      },
+      "collected_at": "2026-01-24T21:51:35"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "vadimdemedes/ink",
+      "url": "https://github.com/vadimdemedes/ink",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "🌈 React for interactive command-line apps",
+      "extra": {
+        "stars_today": "51 stars today"
+      },
+      "collected_at": "2026-01-24T21:51:35"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "extra": {
+        "stars_today": "26 stars today"
+      },
+      "collected_at": "2026-01-24T21:51:35"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "extra": {
+        "stars_today": "16 stars today"
+      },
+      "collected_at": "2026-01-24T21:51:35"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "AI & ML Weekly — Hugging Face Highlights",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qljf7o/ai_ml_weekly_hugging_face_highlights/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-01-24T10:15:01+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Here are the most notable <strong>AI models released or updated this week on Hugging Face</strong>, categorized for easy scanning 👇</p> <h1>Text &amp; Reasoning Models</h1> <ul> <li><strong>GLM-4.7 (358B)</strong> — Large-scale multilingual reasoning model <a href=\"https://huggingface.co/zai-org/GLM-4.7\">https://huggingface.co/zai-org/GLM-4.7</a></li> <li><strong>GLM-4.7-Flash (31B)</strong> — Faster, optimized variant for text generation <a href=\"https://huggin",
+      "extra": {},
+      "collected_at": "2026-01-24T21:51:36"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Running MoE Models on CPU/RAM: A Guide to Optimizing Bandwidth for GLM-4 and GPT-OSS",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qlie1t/running_moe_models_on_cpuram_a_guide_to/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-24T09:12:49+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The core principle of running Mixture-of-Experts (MoE) models on CPU/RAM is that the CPU doesn't need to extract or calculate all weights from memory simultaneously. Only a fraction of the parameters are &quot;active&quot; for any given token, and since calculations are approximate, memory throughput becomes our primary bottleneck.</p> <h1>The Math: Model Size vs. Memory Bandwidth</h1> <p>Let's look at two popular models: <strong>GLM-4.7-Flash</strong> (3B activ",
+      "extra": {},
+      "collected_at": "2026-01-24T21:51:36"
     }
   ],
-  "updated_at": "2026-01-24T18:20:27.493319+09:00"
+  "updated_at": "2026-01-24T21:51:36.200646+09:00"
 }
