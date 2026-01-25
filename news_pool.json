@@ -2653,19 +2653,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Tech CEOs boast and bicker about AI at Davos",
-      "url": "https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 24 Jan 2026 20:00:46 +0000",
-      "summary": "There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.",
-      "extra": {},
-      "collected_at": "2026-01-25T08:23:47"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Former Googlers seek to captivate kids with an AI-powered learning app",
       "url": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
       "primary_category": "NEWS",
@@ -2786,7 +2773,46 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been running Gemma 3 27b since its release nine months ago, which is an eternity in the AI field. Has anything better been released since then that can run well on a single 3090ti?</p> <p>I'm not looking to code, to create agents, or to roleplay; I just want a good model to chat with and get reasonably smart answers to questions. If it can view images, that's even better.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user",
       "extra": {},
       "collected_at": "2026-01-25T08:23:52"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Get ready for the AI ad-pocalypse",
+      "url": "https://www.theverge.com/report/866775/ai-generated-ads-slop-human-creativity",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-01-24T10:00:00-05:00",
+      "summary": "I'll confess, with no shame whatsoever, that I really love ads. Artsy ones, funny ones, weird ones, emotional ones - TV commercials were my childhood TikTok before any of us were using terms like \"short-form video.\" But like most creative things in my life, AI is sucking the joy out of it. And it's only [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-01-25T13:19:33"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "JSON-render: LLM-based JSON-to-UI tool",
+      "url": "https://json-render.dev/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 24 Jan 2026 19:12:56 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-01-25T13:19:33"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I built a tool that learns your codebase's unwritten rules and conventions- no AI, just AST parsing",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qm0l2q/i_built_a_tool_that_learns_your_codebases/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-01-24T22:11:05+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I spent the last six months teaching myself to orchestrate engineering codebases using AI agents. What I found is that the biggest bottleneck isn’t intelligence it’s the context window. Why have we not given agents the proper tooling to defeat this limitation? Agents constantly forget how I handle error structures or which specific components I use for the frontend. This forces mass auditing and refactoring, causing me to spend about 75% of my token budget on au",
+      "extra": {},
+      "collected_at": "2026-01-25T13:19:38"
     }
   ],
-  "updated_at": "2026-01-25T08:23:52.476496+09:00"
+  "updated_at": "2026-01-25T13:19:38.099427+09:00"
 }
