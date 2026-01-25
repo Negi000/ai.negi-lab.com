@@ -2653,19 +2653,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Former Googlers seek to captivate kids with an AI-powered learning app",
-      "url": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sat, 24 Jan 2026 18:21:21 +0000",
-      "summary": "Sparkli said that education systems often fall behind in teaching modern concepts. The company wants to teach kids about topics like skills design, financial literacy, and entrepreneurship by creating an AI-powered learning \"expedition.\"",
-      "extra": {},
-      "collected_at": "2026-01-25T08:23:47"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "A new test for AI labs: Are you even trying to make money?",
       "url": "https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/",
       "primary_category": "NEWS",
@@ -2812,7 +2799,34 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I spent the last six months teaching myself to orchestrate engineering codebases using AI agents. What I found is that the biggest bottleneck isn’t intelligence it’s the context window. Why have we not given agents the proper tooling to defeat this limitation? Agents constantly forget how I handle error structures or which specific components I use for the frontend. This forces mass auditing and refactoring, causing me to spend about 75% of my token budget on au",
       "extra": {},
       "collected_at": "2026-01-25T13:19:38"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Gemini with Personal Intelligence is awfully familiar",
+      "url": "https://www.theverge.com/tech/866931/gemini-personal-intelligence-ai",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-01-24T08:00:00-05:00",
+      "summary": "By lots of metrics, Gemini is winning. It has raced ahead of OpenAI, become scarily good at creating convincing imagery, and even won Apple's business. So last week's news that it was enabling something called Personal Intelligence felt like a victory lap. Personal Intelligence allows Gemini to reference past conversations and access your data in [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-01-25T15:36:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Stable-DiffCoder, a strong code diffusion LLM built on Seed-Coder",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qm6iho/stablediffcoder_a_strong_code_diffusion_llm_built/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-01-25T02:22:05+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rektide\"> /u/rektide </a> <br /> <span><a href=\"https://bytedance-seed.github.io/Stable-DiffCoder/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qm6iho/stablediffcoder_a_strong_code_diffusion_llm_built/\">[comments]</a></span>",
+      "extra": {},
+      "collected_at": "2026-01-25T15:37:03"
     }
   ],
-  "updated_at": "2026-01-25T13:19:38.099427+09:00"
+  "updated_at": "2026-01-25T15:37:03.535055+09:00"
 }
