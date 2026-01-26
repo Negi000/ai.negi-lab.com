@@ -1,260 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "Google brings its AI videomaker to Workspace users",
-      "url": "https://www.theverge.com/news/863570/google-flow-ai-video-generator-workspace",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-01-16T14:37:52-05:00",
-      "summary": "Google is expanding access to its AI videomaking tool. Launched last May, Flow was initially only available to Google AI Pro and AI Ultra subscribers, but now, those with Business, Enterprise, and Education Workspace plans can access it, too. Flow uses Google's AI video generation model Veo 3.1 to generate eight-second clips based on a [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-01-19T22:00:54"
-    },
-    {
-      "source": "Google News",
-      "title": "Engineering, AI & Data - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOTJHby1xa0lrU3VJcHFwZ1Raa3p0d3JKODdtMTNORVdhckJ6aGV5WXd1RW5UWHRjOEx4NWxjdklSYndFLWo0WFMyanhETTdJemljWkNTcTRZcUxlR1pfVzNrZVllVU0wTHc3MHJBY0VoNGF0UTViTkVsZGwtS19JZ1YxV2x3UQ?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 19 Jan 2026 08:20:14 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOOTJHby1xa0lrU3VJcHFwZ1Raa3p0d3JKODdtMTNORVdhckJ6aGV5WXd1RW5UWHRjOEx4NWxjdklSYndFLWo0WFMyanhETTdJemljWkNTcTRZcUxlR1pfVzNrZVllVU0wTHc3MHJBY0VoNGF0UTViTkVsZGwtS19JZ1YxV2x3UQ?oc=5\" target=\"_blank\">Engineering, AI & Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>",
-      "extra": {},
-      "collected_at": "2026-01-19T22:00:57"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "NotchDrop",
-      "url": "https://www.producthunt.com/products/notchdrop",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Access todo list, files, clipboard + more on the Notch </p> <p> <a href=\"https://www.producthunt.com/products/notchdrop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1064578?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-19T22:00:57"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "itzg/docker-minecraft-server",
-      "url": "https://github.com/itzg/docker-minecraft-server",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup",
-      "extra": {
-        "stars_today": "11 stars today"
-      },
-      "collected_at": "2026-01-19T22:00:59"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I made a Top-K implementation that's up to 20x faster than PyTorch CPU (open source)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qh0yq8/i_made_a_topk_implementation_thats_up_to_20x/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-01-19T10:45:28+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Spent way too long optimizing Top-K selection for LLM sampling and finally hit some stupid numbers.</p> <p><strong>TL;DR:</strong> AVX2-optimized batched Top-K that beats PyTorch CPU by 4-20x depending on vocab size. Sometimes competitive with CUDA for small batches.</p> <p><strong>Benchmarks (K=50):</strong></p> <ul> <li>Vocab=32K: 0.043ms vs PyTorch's 0.173ms (4x faster)</li> <li>Vocab=128K: 0.057ms vs PyTorch's 0.777ms (13x faster)</li> <li>Vocab=256K: 0.079m",
-      "extra": {},
-      "collected_at": "2026-01-19T22:00:59"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM-4.7-Flash soon?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qh319c/glm47flash_soon/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-19T12:36:55+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qh319c/glm47flash_soon/\"> <img alt=\"GLM-4.7-Flash soon?\" src=\"https://b.thumbs.redditmedia.com/uV_KniGElAnpI9E29Y7varSedhishWOcoeYvIPppP0o.jpg\" title=\"GLM-4.7-Flash soon?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I noticed a GLM-4.7 collection update which includes a hidden item and started digging a little. Looks like Zai is preparing for a GLM-4.7-Flash release:</p> <p><a href=\"https://github.com/zRzRzRzRzRzRzR/",
-      "extra": {},
-      "collected_at": "2026-01-19T22:00:59"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Gamers love AI in game dev — they just don&#8217;t know it yet, says Razer&#8217;s CEO",
-      "url": "https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-19T10:00:00-05:00",
-      "summary": "We’re back to start the year off with a very special live interview with Razer CEO Min-Liang Tan, which we taped in front of a terrific audience at Brooklyn Bowl in Las Vegas during CES.&#160; Razer is obviously best known for making mice, keyboards, and gaming PCs in its signature black and bright green, with [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-01-20T02:24:08"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "OS Ninja",
-      "url": "https://www.producthunt.com/products/os-ninja",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Explore and learn open source using AI </p> <p> <a href=\"https://www.producthunt.com/products/os-ninja?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1058762?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-20T02:24:11"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "zai-org/GLM-4.7-Flash · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qh5wdq/zaiorgglm47flash_hugging_face/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-01-19T14:40:27+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qh5wdq/zaiorgglm47flash_hugging_face/\"> <img alt=\"zai-org/GLM-4.7-Flash · Hugging Face\" src=\"https://external-preview.redd.it/Qs0t4y5eLm-uwORWdP6T0dcwW2T6VJyQFBUSY70CTF8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8700f4a43fe16a1031ccda94b517fd709573a5c3\" title=\"zai-org/GLM-4.7-Flash · Hugging Face\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Dark_Fire_12\"> /u/Dark_Fire_12 </a> <br />",
-      "extra": {},
-      "collected_at": "2026-01-20T02:24:14"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM 4.7 Flash released",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qh6vjj/glm_47_flash_released/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-19T15:17:22+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Anyone confirm the massive benchmark gains over Qwen 30b?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Miserable-Dare5090\"> /u/Miserable-Dare5090 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qh6vjj/glm_47_flash_released/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qh6vjj/glm_47_flash_released/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-01-20T02:24:14"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM-4.7-Flash is kind of insane for a 30B model in BrowseComp. Qwen has some catching up to do.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qh7p9h/glm47flash_is_kind_of_insane_for_a_30b_model_in/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-01-19T15:47:29+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qh7p9h/glm47flash_is_kind_of_insane_for_a_30b_model_in/\"> <img alt=\"GLM-4.7-Flash is kind of insane for a 30B model in BrowseComp. Qwen has some catching up to do.\" src=\"https://preview.redd.it/xkarysixtbeg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ba20796e272e81ad18a8ddd71fc0acf9abdf4df\" title=\"GLM-4.7-Flash is kind of insane for a 30B model in BrowseComp. Qwen has some catching up to do.\" /> </a> </td><td> <!-- S",
-      "extra": {},
-      "collected_at": "2026-01-20T02:24:14"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Models that run in 72GB VRAM with context loaded in GPU (3x3090 benchmark test)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qh442y/models_that_run_in_72gb_vram_with_context_loaded/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-01-19T13:27:32+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qh442y/models_that_run_in_72gb_vram_with_context_loaded/\"> <img alt=\"Models that run in 72GB VRAM with context loaded in GPU (3x3090 benchmark test)\" src=\"https://preview.redd.it/85cs39k6daeg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=72f0ad403efa3ee18868a0b8bf289eb713cca04a\" title=\"Models that run in 72GB VRAM with context loaded in GPU (3x3090 benchmark test)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I re",
-      "extra": {},
-      "collected_at": "2026-01-20T02:24:14"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "The Z-AI (GLM) Devs Woke Up And Chose Violence",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qh97tl/the_zai_glm_devs_woke_up_and_chose_violence/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-19T16:41:13+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qh97tl/the_zai_glm_devs_woke_up_and_chose_violence/\"> <img alt=\"The Z-AI (GLM) Devs Woke Up And Chose Violence\" src=\"https://b.thumbs.redditmedia.com/Q4p_33KazWG1ZPI8J6GxhGSeEYqtMHGmlpuz3VaoVgc.jpg\" title=\"The Z-AI (GLM) Devs Woke Up And Chose Violence\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Why'd they have to do the Qwen devs dirty like that</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www",
-      "extra": {},
-      "collected_at": "2026-01-20T02:24:14"
-    },
-    {
-      "source": "Google News",
-      "title": "Engineering, AI & Data - Deloitte",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWFVCWEhRYkc2WmJ1Q2NaMTA4OUpDRFg5UnlQZ0Jwd3ZOR0RrN0ZGWjJRc2I2a3JreWk0eEVFa05PcVg4RWhGcjBRTUxrX3RUdmF4TUd1c2VLWl85TmxxMnBDTE9ULTBwZTZEUWZaUzVEdFV2M0tDbERGeS1lV2JyMjdkMFNmWHVtRmNmdA?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 19 Jan 2026 18:00:13 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQWFVCWEhRYkc2WmJ1Q2NaMTA4OUpDRFg5UnlQZ0Jwd3ZOR0RrN0ZGWjJRc2I2a3JreWk0eEVFa05PcVg4RWhGcjBRTUxrX3RUdmF4TUd1c2VLWl85TmxxMnBDTE9ULTBwZTZEUWZaUzVEdFV2M0tDbERGeS1lV2JyMjdkMFNmWHVtRmNmdA?oc=5\" target=\"_blank\">Engineering, AI & Data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>",
-      "extra": {},
-      "collected_at": "2026-01-20T08:25:26"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "21st Fund",
-      "url": "https://www.producthunt.com/products/21st-fund",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Agentic Grant Discovery for Founders </p> <p> <a href=\"https://www.producthunt.com/products/21st-fund?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1064786?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-20T08:25:26"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM 4.7 Flash official support merged in llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qhitrj/glm_47_flash_official_support_merged_in_llamacpp/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-19T22:24:24+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qhitrj/glm_47_flash_official_support_merged_in_llamacpp/\"> <img alt=\"GLM 4.7 Flash official support merged in llama.cpp\" src=\"https://external-preview.redd.it/AVP8Isc32PMjAyVGtAipaav3x8aU8JY8Lx1bZ_yPak0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=43081fb39d8cfd3c8faeeb3516b7513654ed8fce\" title=\"GLM 4.7 Flash official support merged in llama.cpp\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/",
-      "extra": {},
-      "collected_at": "2026-01-20T08:25:28"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "New in llama.cpp: Anthropic Messages API",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qhaq21/new_in_llamacpp_anthropic_messages_api/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-19T17:33:24+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qhaq21/new_in_llamacpp_anthropic_messages_api/\"> <img alt=\"New in llama.cpp: Anthropic Messages API\" src=\"https://external-preview.redd.it/zqasF6xdAR1yVfMl-Ppz2b8-S-Dv35pa4J_UeKummLg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=56eabcfaa752210d59dc7af42f1b2087636a579d\" title=\"New in llama.cpp: Anthropic Messages API\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/paf1138\"> /u/paf1138 </a>",
-      "extra": {},
-      "collected_at": "2026-01-20T08:25:28"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "My gpu poor comrades, GLM 4.7 Flash is your local agent",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qhii5v/my_gpu_poor_comrades_glm_47_flash_is_your_local/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-01-19T22:12:06+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I tried many MoE models at 30B or under and all of them failed sooner or later in an agentic framework. If z.ai is not redirecting my requests to another model, then GLM 4.7 Flash is finally the reliable (soon local) agent that I desperately wanted.</p> <p>I am running it since more than half an hour on opencode and it produced hundreds of thousands tokens in one session (with context compacting obviously) without any tool calling errors. It clones github repos,",
-      "extra": {},
-      "collected_at": "2026-01-20T08:25:28"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM-4.7-FLASH-NVFP4 on huggingface (20.5 GB)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qhg6rm/glm47flashnvfp4_on_huggingface_205_gb/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-01-19T20:45:46+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I published a mixed precision NVFP4 quantized version the new GLM-4.7-FLASH on HF, can any of you can test it and let me know how it goes, I would really appreciate it. </p> <p><a href=\"https://huggingface.co/GadflyII/GLM-4.7-Flash-NVFP4\">https://huggingface.co/GadflyII/GLM-4.7-Flash-NVFP4</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DataGOGO\"> /u/DataGOGO </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaM",
-      "extra": {},
-      "collected_at": "2026-01-20T08:25:28"
-    },
-    {
       "source": "HN AI Hot",
       "title": "I was a top 0.01% Cursor user, then switched to Claude Code 2.0",
       "url": "https://blog.silennai.com/claude-code",
@@ -2643,20 +2389,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "I just won an Nvidia DGX Spark GB10 at an Nvidia hackathon. What do I do with it?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qn3xig/i_just_won_an_nvidia_dgx_spark_gb10_at_an_nvidia/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-26T02:51:42+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qn3xig/i_just_won_an_nvidia_dgx_spark_gb10_at_an_nvidia/\"> <img alt=\"I just won an Nvidia DGX Spark GB10 at an Nvidia hackathon. What do I do with it?\" src=\"https://preview.redd.it/wky8vuufylfg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce8114a0cbc29adcc5dff5d6dd9ef4259bf40636\" title=\"I just won an Nvidia DGX Spark GB10 at an Nvidia hackathon. What do I do with it?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p",
-      "extra": {},
-      "collected_at": "2026-01-26T13:22:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "I reverse-engineered Microsoft AutoGen’s reasoning loop and cut agent latency by 85% (13.4s → 1.6s). Here is the architecture.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qn2n4p/i_reverseengineered_microsoft_autogens_reasoning/",
       "primary_category": "GUIDE",
@@ -2834,7 +2566,195 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qn9jg3/reflow_studio_v05_a_fully_local_portable_neural/\"> <img alt=\"Reflow Studio v0.5: A fully local, portable Neural Dubbing Workstation (RVC + Wav2Lip + GFPGAN). No Python install required.\" src=\"https://external-preview.redd.it/ajZpMWRzZGRjbmZnMd4x9B9VcVNKweplxa8BtHpj-my1OgtVfslok1CAkfL6.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=918eeb6d7bdf677a3dd2d221ac8a00a14d7aa3b3\" title=\"Reflow Studio v0.5: A fully local, po",
       "extra": {},
       "collected_at": "2026-01-26T21:59:30"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
+      "url": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 26 Jan 2026 21:43:14 +0000",
+      "summary": "The YouTubers claim Snap, like others, used AI datasets meant for research and academic use to train its AI models.",
+      "extra": {},
+      "collected_at": "2026-01-27T08:27:44"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
+      "url": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 26 Jan 2026 19:10:03 +0000",
+      "summary": "Now, founders Richard Zhang and Tyler Ruggles are tasked with a bigger challenge: showing customers and investors how this AI-powered software layer translates to real savings on an industrial scale.",
+      "extra": {},
+      "collected_at": "2026-01-27T08:27:44"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
+      "url": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Mon, 26 Jan 2026 18:00:00 +0000",
+      "summary": "Claude users will now be able to call up interactive apps inside the chatbot interface, with Cowork integration coming soon.",
+      "extra": {},
+      "collected_at": "2026-01-27T08:27:44"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
+      "url": "https://tetrisbench.com/tetrisbench/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 26 Jan 2026 18:42:40 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-01-27T08:27:44"
+    },
+    {
+      "source": "Google News",
+      "title": "絶好調のNVIDIA、だが本当にGPUは生成AIと相性がよいのか - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IYldpVUVOOG1tWFVTSVpoVk9xWnFYZEtMQVRfaU1hTU16ZVRnZUFKd2lnbnhTWWhIOGkyeUtjaWR0SlZYOEN6MUF2TGRRSklGQlRnMFJSbElqWmVQeWdFMEJmekRZMVM0cy04SQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 26 Jan 2026 20:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9IYldpVUVOOG1tWFVTSVpoVk9xWnFYZEtMQVRfaU1hTU16ZVRnZUFKd2lnbnhTWWhIOGkyeUtjaWR0SlZYOEN6MUF2TGRRSklGQlRnMFJSbElqWmVQeWdFMEJmekRZMVM0cy04SQ?oc=5\" target=\"_blank\">絶好調のNVIDIA、だが本当にGPUは生成AIと相性がよいのか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+      "extra": {},
+      "collected_at": "2026-01-27T08:27:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "APX Terminal",
+      "url": "https://www.producthunt.com/products/apx-terminal-the-terminal-perfected",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Encrypted terminal and SSH client with built‑in AI assistant </p> <p> <a href=\"https://www.producthunt.com/products/apx-terminal-the-terminal-perfected?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1067782?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-27T08:27:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "HeyTraders",
+      "url": "https://www.producthunt.com/products/heytraders",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Personal AI quant research & backtest with natural language </p> <p> <a href=\"https://www.producthunt.com/products/heytraders?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1067602?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-27T08:27:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "PingPolls v1.0",
+      "url": "https://www.producthunt.com/products/pingpolls",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI Forms that feel natural, not just conversational. </p> <p> <a href=\"https://www.producthunt.com/products/pingpolls?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1064985?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-27T08:27:46"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "transformers v5 final is out 🔥",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qnk7fq/transformers_v5_final_is_out/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-26T16:07:40+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey folks, it's Merve from Hugging Face 👋🏻</p> <p>We've finally released the first stable release of transformers v5 in general audience, it comes with many goodies:</p> <p>- Performance especially for Mixture-of-Experts (6x-11x speedups)</p> <p>- No more slow/fast tokenizers: way simpler API, explicit backends, better performance</p> <p>- dynamic weight loading: way faster, MoE now working with quants, tp, PEFT..</p> <p>We have a migration guide on the main bra",
+      "extra": {},
+      "collected_at": "2026-01-27T08:27:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I built a \"hive mind\" for Claude Code - 7 agents sharing memory and talking to each other",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qnjota/i_built_a_hive_mind_for_claude_code_7_agents/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-26T15:49:13+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Been tinkering with multi-agent orchestration and wanted to share what came out of it.</p> <p>**The idea**: Instead of one LLM doing everything, what if specialized agents (coder, tester, reviewer, architect, etc.) could coordinate on tasks, share persistent memory, and pass context between each other?</p> <p>**What it does**:</p> <p>- 7 agent types with different system prompts and capabilities</p> <p>- SQLite + FTS5 for persistent memory (agents remember stuff",
+      "extra": {},
+      "collected_at": "2026-01-27T08:27:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "216GB VRAM on the bench. Time to see which combination is best for Local LLM",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qni356/216gb_vram_on_the_bench_time_to_see_which/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-01-26T14:51:22+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qni356/216gb_vram_on_the_bench_time_to_see_which/\"> <img alt=\"216GB VRAM on the bench. Time to see which combination is best for Local LLM\" src=\"https://preview.redd.it/5ilrgdymhpfg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50d4aa5a9a1c01733913ceebe961389be4974b73\" title=\"216GB VRAM on the bench. Time to see which combination is best for Local LLM\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Sencondhand Tesl",
+      "extra": {},
+      "collected_at": "2026-01-27T08:27:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I tracked GPU prices across 25 cloud providers and the price differences are insane (V100: $0.05/hr vs $3.06/hr)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qnjsvz/i_tracked_gpu_prices_across_25_cloud_providers/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-26T15:53:22+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been renting cloud GPUs for fine-tuning and got frustrated tab-hopping between providers trying to find the best deal. So I built a tool that scrapes real-time pricing from 25 cloud providers and puts it all in one place.</p> <p>Some findings from the live data right now (Jan 2026):</p> <p><strong>H100 SXM5 80GB:</strong> - Cheapest: $0.80/hr (VERDA) - Most expensive: $11.10/hr (LeaderGPU) - That's a <strong>13.8x price difference</strong> for the exact sam",
+      "extra": {},
+      "collected_at": "2026-01-27T08:27:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Minimax Is Teasing M2.2",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qnfegx/minimax_is_teasing_m22/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-26T13:01:21+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qnfegx/minimax_is_teasing_m22/\"> <img alt=\"Minimax Is Teasing M2.2\" src=\"https://preview.redd.it/lpxibm1qyofg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d183271eeec7290655f768c6aae0b1051c595842\" title=\"Minimax Is Teasing M2.2\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>It seems like February is going to be a busy month for Chinese Labs. </p> <p>We have Deepseek v4, Kimi K3 and now MiniMax M2.2 apparently drop",
+      "extra": {},
+      "collected_at": "2026-01-27T08:27:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM 4.7 Flash: Huge performance improvement with -kvu",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qnwa33/glm_47_flash_huge_performance_improvement_with_kvu/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-01-26T23:07:49+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>TLDR; Try passing -kvu to llama.cpp when running GLM 4.7 Flash. </p> <p>On RTX 6000, my tokens per second on a 8K token output rose from 17.7t/s to 100t/s</p> <p>Also, check out the one shot zelda game it made, pretty good for a 30B:<br /> <a href=\"https://talented-fox-j27z.pagedrop.io\">https://talented-fox-j27z.pagedrop.io</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TokenRingAI\"> /u/TokenRingAI </a> <br /> <span><a",
+      "extra": {},
+      "collected_at": "2026-01-27T08:27:49"
     }
   ],
-  "updated_at": "2026-01-26T21:59:30.826880+09:00"
+  "updated_at": "2026-01-27T08:27:49.308972+09:00"
 }
