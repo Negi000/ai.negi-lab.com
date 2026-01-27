@@ -1,101 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "Meta buys startup Manus in latest move to advance its artificial intelligence efforts - The Japan Times Alpha Online",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFJwdzFjakpINGZkREdBWXZMdUlibzc5NEstWXNzQ3lRc2lFQ2lFcnZfM2RtYXZNOS1zVFNpbElpcEpKWFpYekJ2b0xhRlo1NVF3amJYeUp1dnBlY0hndVRxY1loemRibkFmS3d6SGxJUDZIODBHMA?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 20 Jan 2026 08:24:35 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE14bFJwdzFjakpINGZkREdBWXZMdUlibzc5NEstWXNzQ3lRc2lFQ2lFcnZfM2RtYXZNOS1zVFNpbElpcEpKWFpYekJ2b0xhRlo1NVF3amJYeUp1dnBlY0hndVRxY1loemRibkFmS3d6SGxJUDZIODBHMA?oc=5\" target=\"_blank\">Meta buys startup Manus in latest move to advance its artificial intelligence efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan Times Alpha Online</font>",
-      "extra": {},
-      "collected_at": "2026-01-20T22:01:29"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AskUCP",
-      "url": "https://www.producthunt.com/products/askucp",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Search all of Shopify in one place. Powered by Google's UCP. </p> <p> <a href=\"https://www.producthunt.com/products/askucp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1065045?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-20T22:01:30"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "daily.dev Recruiter",
-      "url": "https://www.producthunt.com/products/daily-dev",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Hire from the world's largest developer community </p> <p> <a href=\"https://www.producthunt.com/products/daily-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1056836?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-20T22:01:30"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "AlexxIT/go2rtc",
-      "url": "https://github.com/AlexxIT/go2rtc",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
-      "extra": {
-        "stars_today": "25 stars today"
-      },
-      "collected_at": "2026-01-20T22:01:31"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "lukasz-madon/awesome-remote-job",
-      "url": "https://github.com/lukasz-madon/awesome-remote-job",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
-      "extra": {
-        "stars_today": "244 stars today"
-      },
-      "collected_at": "2026-01-20T22:01:31"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "glm-4.7-flash has the best thinking process with clear steps, I love it",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qhxlgy/glm47flash_has_the_best_thinking_process_with/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-01-20T10:28:16+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><ul> <li>I tested several personal prompts like <code>imagine you are in a farm, what is your favorite barn color?</code></li> <li>although the prompt is short, glm can analyze the prompt and give clear thinking process</li> <li>without my instruction in the prompt, glm mostly thinks in these steps: <ol> <li>request analysis</li> <li>brainstorm</li> <li>draft response</li> <li>refine response: gives option1, option2, option3...</li> <li>revise response/plan</li> <l",
-      "extra": {},
-      "collected_at": "2026-01-20T22:01:32"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "How to run and fine-tune GLM-4.7-Flash locally",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qhwfe0/how_to_run_and_finetune_glm47flash_locally/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-01-20T09:19:00+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qhwfe0/how_to_run_and_finetune_glm47flash_locally/\"> <img alt=\"How to run and fine-tune GLM-4.7-Flash locally\" src=\"https://preview.redd.it/g5y2icqg1heg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=97e9539a968badc4795c9185a6384ef02c6b8c01\" title=\"How to run and fine-tune GLM-4.7-Flash locally\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><ul> <li>GLM-4.7-Flash is Z.ai’s new 30B MoE reasoning model built for local d",
-      "extra": {},
-      "collected_at": "2026-01-20T22:01:32"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Indian vibe-coding startup Emergent triples valuation to $300M with $70M fundraise",
       "url": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/",
@@ -2438,20 +2343,6 @@
       "collected_at": "2026-01-26T21:59:30"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
-      "url": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Mon, 26 Jan 2026 18:00:00 +0000",
-      "summary": "Claude users will now be able to call up interactive apps inside the chatbot interface, with Cowork integration coming soon.",
-      "extra": {},
-      "collected_at": "2026-01-27T08:27:44"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
       "url": "https://tetrisbench.com/tetrisbench/",
@@ -2746,19 +2637,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Jotform AI Chatbot for Canva",
-      "url": "https://www.producthunt.com/products/jotform",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Bring Canva designs to life with an embedded AI chatbot </p> <p> <a href=\"https://www.producthunt.com/products/jotform?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068282?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-27T18:33:06"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Zush",
       "url": "https://www.producthunt.com/products/zush",
       "primary_category": "TOOL",
@@ -2809,7 +2687,172 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qo7wur/openai_could_reportedly_run_out_of_cash_by/\"> <img alt=\"OpenAI could reportedly run out of cash by mid-2027 — analyst paints grim picture after examining the company's finances\" src=\"https://external-preview.redd.it/v44P77PnYI5tRIZpnmaNJbBahgYNI024hkyMrYI6J24.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=147c3b3cde07c4eba8b8831f89c4a1dbc6ec6942\" title=\"OpenAI could reportedly run out of cash by mid-2027 — analyst ",
       "extra": {},
       "collected_at": "2026-01-27T18:33:09"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures",
+      "url": "https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 27 Jan 2026 10:00:00 +0000",
+      "summary": "“We assess a lot of AI chatbots at Common Sense Media, and they all have risks, but Grok is among the worst we’ve seen,” Robbie Torney of Common Sense Media said.",
+      "extra": {},
+      "collected_at": "2026-01-27T22:01:46"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google Photos now lets you describe how to transform images into video",
+      "url": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-27T07:44:01-05:00",
+      "summary": "Google is giving Photos users more control over the app's generative AI photo-to-video feature. Google Photos now supports text prompts for video generation, according to the update announcement on Monday, allowing users to describe the specific movement, style, or effect they want to see when bringing still images to life. Text prompts join the existing [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-01-27T22:01:46"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "All rise for JudgeGPT",
+      "url": "https://www.theverge.com/policy/868151/ai-judges-arbitration",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-01-27T06:30:00-05:00",
+      "summary": "Bridget McCormack is used to correcting judges' work. As the former chief justice on the Michigan Supreme Court, it was her job to review complaints about how judges at the lower courts failed to consider key evidence or rule on certain aspects of a case. In her current job, McCormack is working on a new [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-01-27T22:01:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "CapslockMute",
+      "url": "https://www.producthunt.com/products/capslockmute",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The fastest way to mute yourself on video calls </p> <p> <a href=\"https://www.producthunt.com/products/capslockmute?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068472?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-27T22:01:59"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Clawdbot",
+      "url": "https://www.producthunt.com/products/clawdbot-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AI that actually does things </p> <p> <a href=\"https://www.producthunt.com/products/clawdbot-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068372?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-27T22:01:59"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Timeless",
+      "url": "https://www.producthunt.com/products/timeos",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The first action-taker, NOT a note-taker </p> <p> <a href=\"https://www.producthunt.com/products/timeos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068218?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-27T22:01:59"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "The Password App",
+      "url": "https://www.producthunt.com/products/the-password-app",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Local agent that rotates reused passwords </p> <p> <a href=\"https://www.producthunt.com/products/the-password-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1067416?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-27T22:01:59"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "ranaroussi/yfinance",
+      "url": "https://github.com/ranaroussi/yfinance",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Download market data from Yahoo! Finance's API",
+      "extra": {
+        "stars_today": "76 stars today"
+      },
+      "collected_at": "2026-01-27T22:02:00"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Z4nzu/hackingtool",
+      "url": "https://github.com/Z4nzu/hackingtool",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "ALL IN ONE Hacking Tool For Hackers",
+      "extra": {
+        "stars_today": "20 stars today"
+      },
+      "collected_at": "2026-01-27T22:02:00"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Mbed-TLS/mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "extra": {
+        "stars_today": "4 stars today"
+      },
+      "collected_at": "2026-01-27T22:02:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The Qwen Devs Are Teasing Something",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qoa8rp/the_qwen_devs_are_teasing_something/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-01-27T10:28:56+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qoa8rp/the_qwen_devs_are_teasing_something/\"> <img alt=\"The Qwen Devs Are Teasing Something\" src=\"https://preview.redd.it/umvks92vcvfg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=297a92382cbb71a347dd9192a2d8ae1054cf9fb2\" title=\"The Qwen Devs Are Teasing Something\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I'm going to assume a new VL model</p> <p>Edit: It's likely to be Z-Image</p> </div><!-- SC_ON --> &#32; ",
+      "extra": {},
+      "collected_at": "2026-01-27T22:02:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Honest question: what do you all do for a living to afford these beasts?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qob8de/honest_question_what_do_you_all_do_for_a_living/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-01-27T11:23:48+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Basically I am from India, a medium high end job here pays Rs. 1 lakh($ 1100) per month and there are deductions on top of it.</p> <p>An RTX Pro 6000 starts from 8 lakh and goes upto 10 lakh($ 10989), 5090 costs 3.5 lakhs($ 3800), threadripper costs 7-8 lakhs($ 8800), ram prices have soared and corsair vengeance costs 52,000 ($ 571) for 32GB, motherboard, cabinet, and other accessories makes it look like a dream to own in a lifetime. And people here are using mu",
+      "extra": {},
+      "collected_at": "2026-01-27T22:02:01"
     }
   ],
-  "updated_at": "2026-01-27T18:33:09.517242+09:00"
+  "updated_at": "2026-01-27T22:02:01.178277+09:00"
 }
