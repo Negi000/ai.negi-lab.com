@@ -2688,20 +2688,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "AMA Announcement: Moonshot AI, The Opensource Frontier Lab Behind Kimi K2.5 SoTA Model (Wednesday, 8AM-11AM PST)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qp46za/ama_announcement_moonshot_ai_the_opensource/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-01-28T06:54:28+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qp46za/ama_announcement_moonshot_ai_the_opensource/\"> <img alt=\"AMA Announcement: Moonshot AI, The Opensource Frontier Lab Behind Kimi K2.5 SoTA Model (Wednesday, 8AM-11AM PST)\" src=\"https://preview.redd.it/y2qj7ancf1gg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7bb1df11c9d46ca94be0db3438449dc28e2dd48e\" title=\"AMA Announcement: Moonshot AI, The Opensource Frontier Lab Behind Kimi K2.5 SoTA Model (Wednesday, 8AM-11AM P",
-      "extra": {},
-      "collected_at": "2026-01-28T18:34:36"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "I made a Coding Eval, and ran it against 49 different coding agent/model combinations, including Kimi K2.5.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qp4ftj/i_made_a_coding_eval_and_ran_it_against_49/",
       "primary_category": "GUIDE",
@@ -2753,19 +2739,6 @@
       "summary": "Across six top large language models, xAI's Grok performed the worst at identifying and countering antisemitic content, according to a study published Wednesday by the Anti-Defamation League. On the other end of the spectrum, Anthropic's Claude performed the best according to the report's metrics, but the ADL said all models had gaps that required improvement. [&#8230;]",
       "extra": {},
       "collected_at": "2026-01-28T22:01:42"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "PopStack",
-      "url": "https://www.producthunt.com/products/popstack",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Dock-style folder popovers for your macOS Desktop </p> <p> <a href=\"https://www.producthunt.com/products/popstack?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1069261?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-28T22:01:44"
     },
     {
       "source": "Product Hunt",
@@ -2877,7 +2850,112 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>K2.5 just dropped at roughly 10% of Opus pricing with competitive benchmarks. Deepseek is practically free. Gemini has a massive free tier. Every month the API cost floor drops another 50%.</p> <p>Meanwhile running a 70B locally still means either a k+ GPU or dealing with quantization tradeoffs and 15 tok/s on consumer hardware.</p> <p>I've been running local for about a year now and I'm genuinely starting to question the math. The three arguments I keep hearing",
       "extra": {},
       "collected_at": "2026-01-28T22:01:46"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama",
+      "url": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Wed, 28 Jan 2026 17:30:00 +0000",
+      "summary": "30-person startup Arcee AI has released a 400B model called Trinity, which it says is one of the biggest open source foundation models from a US company.",
+      "extra": {},
+      "collected_at": "2026-01-29T02:32:49"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it",
+      "url": "https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Wed, 28 Jan 2026 17:04:50 +0000",
+      "summary": "Apple’s Creator Studio Pro leverages AI to help creators with tedious tasks—like finding clips or building slides—without trying to do the work for them",
+      "extra": {},
+      "collected_at": "2026-01-29T02:32:49"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "TechCrunch Disrupt 2026: Plus-one passes are almost gone and only 3 days remain",
+      "url": "https://techcrunch.com/2026/01/28/techcrunch-disrupt-2026-plus-one-passes-are-almost-gone-and-only-3-days-remain/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 28 Jan 2026 15:30:00 +0000",
+      "summary": "The TechCrunch Disrupt 2026 plus-one passes at 50% off are almost sold out, and this deal ends in 3 days. Register here before this deal ends on Friday, January 30 at 11:59 p.m. PT.",
+      "extra": {},
+      "collected_at": "2026-01-29T02:32:49"
+    },
+    {
+      "source": "Google News",
+      "title": "プラダがAI広告を展開するとブランドを毀損？ ある学術研究の結論 - 日経クロストレンド",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6bHlaNmdNWklkVUdUQVJvd0V4d3JkMG1kbVBPMDVXWERzdVg2QWE2UkFHbF9EMFJaSXQ1cjVHT3J4bEdkSzhQR3BTRVJfOGR5Z3NRajNtQjdKT3lETkExNHZlSmZ4UQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 28 Jan 2026 15:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6bHlaNmdNWklkVUdUQVJvd0V4d3JkMG1kbVBPMDVXWERzdVg2QWE2UkFHbF9EMFJaSXQ1cjVHT3J4bEdkSzhQR3BTRVJfOGR5Z3NRajNtQjdKT3lETkExNHZlSmZ4UQ?oc=5\" target=\"_blank\">プラダがAI広告を展開するとブランドを毀損？ ある学術研究の結論</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロストレンド</font>",
+      "extra": {},
+      "collected_at": "2026-01-29T02:32:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "TalkMirror",
+      "url": "https://www.producthunt.com/products/talkmirror-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Instant voice mirror & speech pacing. Privacy-first. </p> <p> <a href=\"https://www.producthunt.com/products/talkmirror-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068908?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-29T02:32:54"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "AMA With Kimi, The Open-source Frontier Lab Behind Kimi K2.5 Model",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qpewj7/ama_with_kimi_the_opensource_frontier_lab_behind/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-01-28T15:46:40+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qpewj7/ama_with_kimi_the_opensource_frontier_lab_behind/\"> <img alt=\"AMA With Kimi, The Open-source Frontier Lab Behind Kimi K2.5 Model\" src=\"https://b.thumbs.redditmedia.com/Tdp5mXDQmwe_e0sKIEY1hjWX6FrN679odChZp8YL2Rk.jpg\" title=\"AMA With Kimi, The Open-source Frontier Lab Behind Kimi K2.5 Model\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"https://www.reddit.com/r/LocalLLaMA/\">r/LocalLLaMA</a></p> <p>Tod",
+      "extra": {},
+      "collected_at": "2026-01-29T02:32:56"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Run Kimi K2.5 Locally",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qpfse6/run_kimi_k25_locally/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-01-28T16:17:45+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qpfse6/run_kimi_k25_locally/\"> <img alt=\"Run Kimi K2.5 Locally\" src=\"https://preview.redd.it/rxqfj5os74gg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2606f30079a77f14bb28c31413be651c092abaa9\" title=\"Run Kimi K2.5 Locally\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Kimi-K2.5 achieves SOTA performance in vision, coding, agentic and chat tasks. </p> <p>The 1T parameter hybrid reasoning model requires 600GB of di",
+      "extra": {},
+      "collected_at": "2026-01-29T02:32:56"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Backup those models, because of calls for regulations",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qpde5g/backup_those_models_because_of_calls_for/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-01-28T14:50:06+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.euronews.com/next/2026/01/28/humanity-needs-to-wake-up-to-ai-threats-anthropic-ceo-says\">‘Humanity needs to wake up’ to AI threats, Anthropic CEO says</a></p> <p>&gt; Dario Amodei, the CEO of Anthropic, says that humanity needs to regulate the use of AI,…</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ProfessionalSpend589\"> /u/ProfessionalSpend589 </a> <br /> <span><a href=\"https://www.reddit.com/r/Loc",
+      "extra": {},
+      "collected_at": "2026-01-29T02:32:56"
     }
   ],
-  "updated_at": "2026-01-28T22:01:46.924949+09:00"
+  "updated_at": "2026-01-29T02:32:56.980105+09:00"
 }
