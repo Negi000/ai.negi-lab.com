@@ -1,181 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI aims to ship its first device in 2026, and it could be earbuds",
-      "url": "https://techcrunch.com/2026/01/21/openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 21 Jan 2026 15:20:23 +0000",
-      "summary": "The AI startup is on track to announce its first hardware device in the second half of this year, OpenAI Chief Global Affairs Officer Chris Lehane said during an interview at Davos.",
-      "extra": {},
-      "collected_at": "2026-01-22T02:54:58"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Disrupt 2026 tickets now on sale: Lowest rates all year",
-      "url": "https://techcrunch.com/2026/01/21/techcrunch-disrupt-2026-tickets-now-on-sale-lowest-rates-all-year/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 21 Jan 2026 15:00:00 +0000",
-      "summary": "TechCrunch Disrupt 2026 tickets are officially on sale. Save up to $680 on your ticket and be among the first 500 registrants to score a plus-one pass at 50% off. Don't miss 10,000 tech leaders, founders, and VCs in San Francisco from October 13-15. Register before these one-time deals vanish.",
-      "extra": {},
-      "collected_at": "2026-01-22T02:54:58"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Fimo",
-      "url": "https://www.producthunt.com/products/fimo-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Where your website lives, collaborates, and evolves with AI. </p> <p> <a href=\"https://www.producthunt.com/products/fimo-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1050891?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-22T02:55:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Fix for GLM 4.7 Flash has been merged into llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qiwm3c/fix_for_glm_47_flash_has_been_merged_into_llamacpp/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-21T12:29:19+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qiwm3c/fix_for_glm_47_flash_has_been_merged_into_llamacpp/\"> <img alt=\"Fix for GLM 4.7 Flash has been merged into llama.cpp\" src=\"https://external-preview.redd.it/P0aZfAO5cQnwgz36bD9sAcDcttCXWcTbQBhIkzY76fc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ac930f1f077b513ae17d07167d50119d0ac69d0\" title=\"Fix for GLM 4.7 Flash has been merged into llama.cpp\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The world is save",
-      "extra": {},
-      "collected_at": "2026-01-22T02:55:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "A new model from http://Z.ai, \"GLM-OCR\" has been spotted on Github",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qj2dnd/a_new_model_from_httpzai_glmocr_has_been_spotted/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-21T16:21:49+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qj2dnd/a_new_model_from_httpzai_glmocr_has_been_spotted/\"> <img alt=\"A new model from http://Z.ai, &quot;GLM-OCR&quot; has been spotted on Github\" src=\"https://preview.redd.it/tduio97daqeg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd5b258b6d658644e83ddec8f6c475cc131ee93a\" title=\"A new model from http://Z.ai, &quot;GLM-OCR&quot; has been spotted on Github\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://w",
-      "extra": {},
-      "collected_at": "2026-01-22T02:55:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM-4.7-Flash-GGUF bug fix - redownload for better outputs",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qiy0ha/glm47flashgguf_bug_fix_redownload_for_better/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-01-21T13:34:00+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Jan 21 update: llama.cpp fixed a bug that caused looping and poor outputs. We updated the GGUFs - please re-download the model for much better outputs.</p> <p>You can now use Z.ai's recommended parameters and get great results:</p> <ul> <li>For general use-case: <code>--temp 1.0 --top-p 0.95</code></li> <li>For tool-calling: <code>--temp 0.7 --top-p 1.0</code></li> <li>If using llama.cpp, set <code>--min-p 0.01</code> as llama.cpp's default is 0.1</li> </ul> <p>",
-      "extra": {},
-      "collected_at": "2026-01-22T02:55:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "One-shot single page web development: pacman clone - GLM 4.7 vs GLM 4.7 Flash vs GLM 4.5 Air vs Gemini 3 Pro vs Gemini 3 Flash - Results available for online testing - Prompt and instructions provided for testing with other models",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qj13uh/oneshot_single_page_web_development_pacman_clone/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-21T15:36:18+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am a big fan of testing coding models by asking them to do one, or few shots, simple development. I have just ran a test asking them to one-shot a pacman clone as a single webpage. The results did not actually match my expectations: I thought Gemini 3 Pro would be the clear winner, followed by Gemini 3 Flash, and then GLM 4.7. This is how I actually rank the results:</p> <ol> <li><strong>GLM 4.7</strong> (by far the clear winner)</li> <li><strong>Gemini 3 Flas",
-      "extra": {},
-      "collected_at": "2026-01-22T02:55:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Local file search engine that understands your documents (OCR + Semantic Search) - Open Source.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qiuxko/local_file_search_engine_that_understands_your/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-21T10:59:51+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qiuxko/local_file_search_engine_that_understands_your/\"> <img alt=\"Local file search engine that understands your documents (OCR + Semantic Search) - Open Source.\" src=\"https://preview.redd.it/j5duc1vhgoeg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b93de6d4c9a467d7be36c4a64410fe7f1b43b2f\" title=\"Local file search engine that understands your documents (OCR + Semantic Search) - Open Source.\" /> </a> </td><td> <!-- SC_",
-      "extra": {},
-      "collected_at": "2026-01-22T02:55:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "VibeVoice-ASR released!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qj40er/vibevoiceasr_released/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-21T17:20:29+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/microsoft/VibeVoice-ASR\">https://huggingface.co/microsoft/VibeVoice-ASR</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/k_means_clusterfuck\"> /u/k_means_clusterfuck </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qj40er/vibevoiceasr_released/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qj40er/vibevoiceasr_released/\">[comme",
-      "extra": {},
-      "collected_at": "2026-01-22T02:55:03"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Claude's new constitution",
-      "url": "https://www.anthropic.com/news/claude-new-constitution",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 21 Jan 2026 16:04:49 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-01-22T08:30:00"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Citable",
-      "url": "https://www.producthunt.com/products/citable",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Get mentioned by AI agents </p> <p> <a href=\"https://www.producthunt.com/products/citable?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1061075?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-22T08:30:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Alive",
-      "url": "https://www.producthunt.com/products/alive-solo-living-safety-demumu",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Silent safety check-ins—making solo living feel seen </p> <p> <a href=\"https://www.producthunt.com/products/alive-solo-living-safety-demumu?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1064780?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-22T08:30:02"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "8x AMD MI50 32GB at 26 t/s (tg) with MiniMax-M2.1 and 15 t/s (tg) with GLM 4.7 (vllm-gfx906)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qjaxfy/8x_amd_mi50_32gb_at_26_ts_tg_with_minimaxm21_and/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-21T21:30:54+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qjaxfy/8x_amd_mi50_32gb_at_26_ts_tg_with_minimaxm21_and/\"> <img alt=\"8x AMD MI50 32GB at 26 t/s (tg) with MiniMax-M2.1 and 15 t/s (tg) with GLM 4.7 (vllm-gfx906)\" src=\"https://preview.redd.it/16ndtph7treg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=df00bad2dcdf2390a12afaf191c07f1264ae2752\" title=\"8x AMD MI50 32GB at 26 t/s (tg) with MiniMax-M2.1 and 15 t/s (tg) with GLM 4.7 (vllm-gfx906)\" /> </a> </td><td> <!-- SC_OFF ",
-      "extra": {},
-      "collected_at": "2026-01-22T08:30:05"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Three types of LLM workloads and how to serve them",
       "url": "https://modal.com/llm-almanac/workloads",
@@ -2648,19 +2473,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Cloakly",
-      "url": "https://www.producthunt.com/products/cloakly",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Hide apps during screen shares – keep your desktop private </p> <p> <a href=\"https://www.producthunt.com/products/cloakly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068793?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-28T18:34:33"
-    },
-    {
-      "source": "Product Hunt",
       "title": "NetNewsWire 7",
       "url": "https://www.producthunt.com/products/netnewswire-7",
       "primary_category": "TOOL",
@@ -2853,20 +2665,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama",
-      "url": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Wed, 28 Jan 2026 17:30:00 +0000",
-      "summary": "30-person startup Arcee AI has released a 400B model called Trinity, which it says is one of the biggest open source foundation models from a US company.",
-      "extra": {},
-      "collected_at": "2026-01-29T02:32:49"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it",
       "url": "https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/",
       "primary_category": "NEWS",
@@ -2955,7 +2753,125 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.euronews.com/next/2026/01/28/humanity-needs-to-wake-up-to-ai-threats-anthropic-ceo-says\">‘Humanity needs to wake up’ to AI threats, Anthropic CEO says</a></p> <p>&gt; Dario Amodei, the CEO of Anthropic, says that humanity needs to regulate the use of AI,…</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ProfessionalSpend589\"> /u/ProfessionalSpend589 </a> <br /> <span><a href=\"https://www.reddit.com/r/Loc",
       "extra": {},
       "collected_at": "2026-01-29T02:32:56"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
+      "url": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Wed, 28 Jan 2026 23:16:02 +0000",
+      "summary": "Mark Zuckerberg says 2026 will be \"a big year for delivering personal super intelligence.\"",
+      "extra": {},
+      "collected_at": "2026-01-29T08:30:28"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Mark Zuckerberg says a future without smart glasses is ‘hard to imagine’",
+      "url": "https://techcrunch.com/2026/01/28/mark-zuckerberg-future-smart-glasses/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 28 Jan 2026 22:31:20 +0000",
+      "summary": "Take Zuckerberg's outlook with a grain of salt. After all, he thought we'd all be hanging out in the metaverse by now.",
+      "extra": {},
+      "collected_at": "2026-01-29T08:30:28"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Tesla invested $2B in Elon Musk’s xAI",
+      "url": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 28 Jan 2026 21:52:21 +0000",
+      "summary": "Elon Musk's AI company xAI disclosed earlier this month it had raised $20 billion.",
+      "extra": {},
+      "collected_at": "2026-01-29T08:30:28"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Jellyfin LLM/\"AI\" Development Policy",
+      "url": "https://jellyfin.org/docs/general/contributing/llm-policies/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 28 Jan 2026 21:42:03 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-01-29T08:30:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "kuku",
+      "url": "https://www.producthunt.com/products/kuku",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Obsidian — but a lot has changed </p> <p> <a href=\"https://www.producthunt.com/products/kuku?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1069280?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-29T08:30:31"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Kimi K2.5",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Native multimodal model with self-directed agent swarms </p> <p> <a href=\"https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1068762?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-29T08:30:31"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Invofox",
+      "url": "https://www.producthunt.com/products/invofox",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The Document Parsing API for developers </p> <p> <a href=\"https://www.producthunt.com/products/invofox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1069164?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-29T08:30:31"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I just got my Dell DGX Spark GB10 that I won from the hackathon!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qpmay0/i_just_got_my_dell_dgx_spark_gb10_that_i_won_from/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-28T20:03:20+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qpmay0/i_just_got_my_dell_dgx_spark_gb10_that_i_won_from/\"> <img alt=\"I just got my Dell DGX Spark GB10 that I won from the hackathon!\" src=\"https://preview.redd.it/af2u39y6a5gg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d772153c2ea4d039aff7359c493d9106f7a82aae\" title=\"I just got my Dell DGX Spark GB10 that I won from the hackathon!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Please don't mind the breadcrumb",
+      "extra": {},
+      "collected_at": "2026-01-29T08:30:33"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "meituan-longcat/LongCat-Flash-Lite",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qpi8d4/meituanlongcatlongcatflashlite/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-01-28T17:42:14+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qpi8d4/meituanlongcatlongcatflashlite/\"> <img alt=\"meituan-longcat/LongCat-Flash-Lite\" src=\"https://external-preview.redd.it/SP0mBN3iaWZga0fzz80Atyk8zYq_GP0yB1tyV6wtLlw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bfbc45df0f4f6a1d3dd5267993dbfc464f761f81\" title=\"meituan-longcat/LongCat-Flash-Lite\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/windows_error23\"> /u/windows_error23 </a> <br",
+      "extra": {},
+      "collected_at": "2026-01-29T08:30:33"
     }
   ],
-  "updated_at": "2026-01-29T02:32:56.980105+09:00"
+  "updated_at": "2026-01-29T08:30:33.554473+09:00"
 }
