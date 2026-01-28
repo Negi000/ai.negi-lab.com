@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Blink Agent Builder",
-      "url": "https://www.producthunt.com/products/blink-21",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> You can now vibe code agentic AI apps </p> <p> <a href=\"https://www.producthunt.com/products/blink-21?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1063137?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-21T18:32:29"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "RelateDB",
-      "url": "https://www.producthunt.com/products/relatedb",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Offline-first database schema designer in your browser </p> <p> <a href=\"https://www.producthunt.com/products/relatedb?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1065430?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-21T18:32:29"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Here is how to get GLM 4.7 working on llama.cpp with flash attention and correct outputs",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qir5eq/here_is_how_to_get_glm_47_working_on_llamacpp/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-21T07:07:52+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Tested GPU: RTX 6000 Blackwell<br /> Tested GGUF: <a href=\"https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF\">https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF</a></p> <ol> <li>Use this git branch to enable flash attention on CUDA <a href=\"https://github.com/am17an/llama.cpp/tree/glm_4.7_headsize\">https://github.com/am17an/llama.cpp/tree/glm_4.7_headsize</a></li> <li>Add this to your options <code>--override-kv deepseek2.expert\\_gating\\_func=int:2</code></li> </",
-      "extra": {},
-      "collected_at": "2026-01-21T18:32:31"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Update - Day #6 of building an LM from scratch",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qiq26v/update_day_6_of_building_an_lm_from_scratch/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-01-21T06:06:32+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So I finally got everything stable. Loss was steadily dropping until eventually it plateaued at around 4-5 at the end. </p> <p>I switched to just DataParallel because DDP was impossible in Windows as I found out during Day 4. However in my findings, DataParallel was actually bottlenecking my system. It was training faster on one GPU instead of two (I blame Windows again for this). Though ideally I’d switch to Linux, I want to get this working on Windows as most ",
-      "extra": {},
-      "collected_at": "2026-01-21T18:32:31"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Zanskar thinks 1 TW of geothermal power is being overlooked",
       "url": "https://techcrunch.com/2026/01/21/zanskar-thinks-1-tw-of-geothermal-power-is-being-overlooked/",
@@ -2626,19 +2572,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Anthropic reportedly upped its latest raise to $20B",
-      "url": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 27 Jan 2026 21:16:10 +0000",
-      "summary": "Anthropic looks to raise $20 billion at more than $300 billion valuation, according to reports.",
-      "extra": {},
-      "collected_at": "2026-01-28T08:27:16"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
       "url": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
       "primary_category": "NEWS",
@@ -2822,7 +2755,102 @@
       "summary": "Gemini 3 Pro and other AI tools are now available globally through the Google AI Plus plan, which is $7.99 per month in the United States.",
       "extra": {},
       "collected_at": "2026-01-28T15:41:15"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta is spending millions to convince people that data centers are cool and you like them",
+      "url": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-01-27T18:53:53-05:00",
+      "summary": "Over the last few months of 2025, Meta spent $6.4 million on an ad campaign running in cities across the country, from Sacramento to Washington, with a clear mission: win over viewers on the construction of new data centers. As the New York Times reports, the ad campaign is anchored by short, folksy video spotlights [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-01-28T18:34:31"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Free unlimited eSign for founders",
+      "url": "https://www.producthunt.com/products/gitlaw",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> No trials. No caps. Just sign. </p> <p> <a href=\"https://www.producthunt.com/products/gitlaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068910?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-28T18:34:33"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cloakly",
+      "url": "https://www.producthunt.com/products/cloakly",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Hide apps during screen shares – keep your desktop private </p> <p> <a href=\"https://www.producthunt.com/products/cloakly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068793?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-28T18:34:33"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "NetNewsWire 7",
+      "url": "https://www.producthunt.com/products/netnewswire-7",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Free and open source RSS reader for Mac, iPhone, and iPad </p> <p> <a href=\"https://www.producthunt.com/products/netnewswire-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1069277?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-28T18:34:33"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Polyglotta",
+      "url": "https://www.producthunt.com/products/polyglotta",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Translate and learn many languages at once </p> <p> <a href=\"https://www.producthunt.com/products/polyglotta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1066629?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-28T18:34:33"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "AMA Announcement: Moonshot AI, The Opensource Frontier Lab Behind Kimi K2.5 SoTA Model (Wednesday, 8AM-11AM PST)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qp46za/ama_announcement_moonshot_ai_the_opensource/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-01-28T06:54:28+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qp46za/ama_announcement_moonshot_ai_the_opensource/\"> <img alt=\"AMA Announcement: Moonshot AI, The Opensource Frontier Lab Behind Kimi K2.5 SoTA Model (Wednesday, 8AM-11AM PST)\" src=\"https://preview.redd.it/y2qj7ancf1gg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7bb1df11c9d46ca94be0db3438449dc28e2dd48e\" title=\"AMA Announcement: Moonshot AI, The Opensource Frontier Lab Behind Kimi K2.5 SoTA Model (Wednesday, 8AM-11AM P",
+      "extra": {},
+      "collected_at": "2026-01-28T18:34:36"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I made a Coding Eval, and ran it against 49 different coding agent/model combinations, including Kimi K2.5.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qp4ftj/i_made_a_coding_eval_and_ran_it_against_49/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-28T07:08:34+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>You may remember me from my <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1o77ag4/a_guide_to_the_best_agentic_tools_and_the_best/\">A guide to the best agentic tools and the best way to use them on the cheap, locally or free</a> post from 3 months ago. Where I submitted a big wall of text at 4 am in stream of consciousness format. For some reason, I still get random replies on it, about not putting enough effort in to format it. Well I'm back, and this ti",
+      "extra": {},
+      "collected_at": "2026-01-28T18:34:36"
     }
   ],
-  "updated_at": "2026-01-28T15:41:20.057148+09:00"
+  "updated_at": "2026-01-28T18:34:36.145091+09:00"
 }
