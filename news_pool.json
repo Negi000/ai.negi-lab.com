@@ -1,99 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Inference startup Inferact lands $150M to commercialize vLLM",
-      "url": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 22 Jan 2026 22:42:00 +0000",
-      "summary": "The seed round values the newly formed startup at $800 million.",
-      "extra": {},
-      "collected_at": "2026-01-23T08:26:04"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Are AI agents ready for the workplace? A new benchmark raises doubts",
-      "url": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 22 Jan 2026 21:42:18 +0000",
-      "summary": "New research looks at how leading AI models hold up doing actual white-collar work tasks, drawn from consulting, investment banking, and law. Most models failed.",
-      "extra": {},
-      "collected_at": "2026-01-23T08:26:04"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "I was banned from Claude for scaffolding a Claude.md file?",
-      "url": "https://hugodaniel.com/posts/claude-code-banned-me/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 22 Jan 2026 18:38:27 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-01-23T08:26:05"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Doclific",
-      "url": "https://www.producthunt.com/products/doclific",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Documentation that lives with your code </p> <p> <a href=\"https://www.producthunt.com/products/doclific?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1066392?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-23T08:26:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "RenameClick",
-      "url": "https://www.producthunt.com/products/renameclick-offline-ai-file-renamer",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Rename and auto-sort files with offline AI </p> <p> <a href=\"https://www.producthunt.com/products/renameclick-offline-ai-file-renamer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1052806?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-23T08:26:07"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Am I the only one who feels that, with all the AI boom, everyone is basically doing the same thing?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qk8zj1/am_i_the_only_one_who_feels_that_with_all_the_ai/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-01-22T22:31:28+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Lately I go on Reddit and I keep seeing the same idea repeated over and over again. Another chat app, another assistant, another “AI tool” that, in reality, already exists — or worse, already exists in a better and more polished form.</p> <p>Many of these are applications that could be solved perfectly with an extension, a plugin, or a simple feature inside an app we already use. I’m not saying AI is bad — quite the opposite, it’s incredible. But there are peopl",
-      "extra": {},
-      "collected_at": "2026-01-23T08:26:09"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "vLLM raising $150M confirms it: We have moved from the \"Throughput Era\" to the \"Latency(Cold Starts).\"",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qk68n8/vllm_raising_150m_confirms_it_we_have_moved_from/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-22T20:45:42+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The news today that the team behind vLLM (Inferact) raised a $150M Seed Round at an $800M valuation is a massive signal for everyone in this space.</p> <p>For the last two years, all the capital flowed into <strong>Training</strong> (Foundation Models, massive clusters). This raise signals that the bottleneck has officially shifted to <strong>Serving</strong> (Efficiency, Latency, Throughput).</p> <p>It validates a few things we've been seeing in the open-source",
-      "extra": {},
-      "collected_at": "2026-01-23T08:26:09"
-    },
-    {
       "source": "Product Hunt",
       "title": "Netlify Capsules",
       "url": "https://www.producthunt.com/products/netlify",
@@ -2690,19 +2597,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "I built marshmallow castles in Google’s new AI world generator",
-      "url": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 29 Jan 2026 17:29:11 +0000",
-      "summary": "Starting Thursday, Google AI Ultra subscribers in the U.S. can play around with Project Genie, which is powered by a combination of Google’s latest world model Genie 3, its image generation model Nano Banana Pro, and Gemini.",
-      "extra": {},
-      "collected_at": "2026-01-30T02:38:23"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "OpenAI’s Sora app is struggling after its stellar launch",
       "url": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
       "primary_category": "NEWS",
@@ -2740,20 +2634,6 @@
       "summary": "",
       "extra": {},
       "collected_at": "2026-01-30T02:38:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Meteroid",
-      "url": "https://www.producthunt.com/products/meteroid-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Billing platform to launch, test, + scale business models </p> <p> <a href=\"https://www.producthunt.com/products/meteroid-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1066020?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-30T02:38:25"
     },
     {
       "source": "Product Hunt",
@@ -2883,7 +2763,179 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qqadna/my_humble_glm_47_flash_appreciation_post/\"> <img alt=\"My humble GLM 4.7 Flash appreciation post\" src=\"https://preview.redd.it/jh83y5tqqagg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=84c7118a2d6ca354bab71459f8fd90766a909deb\" title=\"My humble GLM 4.7 Flash appreciation post\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I was impressed by GLM 4.7 Flash performance, but not surprised, because I knew they cou",
       "extra": {},
       "collected_at": "2026-01-30T02:38:28"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
+      "url": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 29 Jan 2026 22:47:42 +0000",
+      "summary": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
+      "extra": {},
+      "collected_at": "2026-01-30T08:30:39"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
+      "url": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 29 Jan 2026 22:11:09 +0000",
+      "summary": "If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy.",
+      "extra": {},
+      "collected_at": "2026-01-30T08:30:39"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+      "url": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 29 Jan 2026 20:06:56 +0000",
+      "summary": "With Microsoft spending many billions on data centers, and rumors that no one is using its AI, CEO Satya Nadella shared some usage numbers.",
+      "extra": {},
+      "collected_at": "2026-01-30T08:30:39"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 29 Jan 2026 21:02:31 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-01-30T08:30:39"
+    },
+    {
+      "source": "Google News",
+      "title": "Google、月額1,200円のAI有料プラン「Google AI Plus」日本展開 Geminiなどの利用枠を拡張 - Ledge.ai",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xVVBMTDJGOWV0enJLWVBjQ1M2NHpLclFpOW5IUHpXejhqUXIwVjBhX3VqczA5bEtjTFVJV2hoZERuTzRycWZ3VW43UmJIdXFHTWhjdFIxdGJWTHFxQWpWeGVNeGVkZ05qY1kzRjh3?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 28 Jan 2026 08:07:06 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE8xVVBMTDJGOWV0enJLWVBjQ1M2NHpLclFpOW5IUHpXejhqUXIwVjBhX3VqczA5bEtjTFVJV2hoZERuTzRycWZ3VW43UmJIdXFHTWhjdFIxdGJWTHFxQWpWeGVNeGVkZ05qY1kzRjh3?oc=5\" target=\"_blank\">Google、月額1,200円のAI有料プラン「Google AI Plus」日本展開 Geminiなどの利用枠を拡張</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ledge.ai</font>",
+      "extra": {},
+      "collected_at": "2026-01-30T08:30:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "HighlightGPT",
+      "url": "https://www.producthunt.com/products/highlightgpt",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Highlight in ChatGPT, ask GPT in a side panel </p> <p> <a href=\"https://www.producthunt.com/products/highlightgpt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068316?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-30T08:30:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Silkwave",
+      "url": "https://www.producthunt.com/products/silkwave",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Chat, record & transcribe on-device in a single workspace </p> <p> <a href=\"https://www.producthunt.com/products/silkwave?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1069412?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-30T08:30:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Kipps AI WhatsApp Agent",
+      "url": "https://www.producthunt.com/products/kipps-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn WhatsApp chats into revenue on autopilot </p> <p> <a href=\"https://www.producthunt.com/products/kipps-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1057211?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-30T08:30:41"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Mistral CEO Arthur Mensch: “If you treat intelligence as electricity, then you just want to make sure that your access to intelligence cannot be throttled.”",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qqhhtx/mistral_ceo_arthur_mensch_if_you_treat/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-01-29T18:56:08+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qqhhtx/mistral_ceo_arthur_mensch_if_you_treat/\"> <img alt=\"Mistral CEO Arthur Mensch: “If you treat intelligence as electricity, then you just want to make sure that your access to intelligence cannot be throttled.”\" src=\"https://external-preview.redd.it/NW03ZGMyazI1Y2dnMWh2gxSpyeR6q2IEmV4jHAJM791DDo_e5MvHim0gQe4g.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=43d352ce0d8764709982770e551c498fa8279ecc\" title=\"Mistral CEO Ar",
+      "extra": {},
+      "collected_at": "2026-01-30T08:30:44"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "LingBot-World outperforms Genie 3 in dynamic simulation and is fully Open Source",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qqj51h/lingbotworld_outperforms_genie_3_in_dynamic/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-29T19:54:56+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qqj51h/lingbotworld_outperforms_genie_3_in_dynamic/\"> <img alt=\"LingBot-World outperforms Genie 3 in dynamic simulation and is fully Open Source\" src=\"https://external-preview.redd.it/NWM3YmNxOGtlY2dnMazYtBKu82jdVCrAUapl0f29ZcySaNJ_OhsJC51jAkVT.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec16c92dbc441bee1bbd5f8a0850b37011370867\" title=\"LingBot-World outperforms Genie 3 in dynamic simulation and is fully Open Source\" /> ",
+      "extra": {},
+      "collected_at": "2026-01-30T08:30:44"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Kimi AI team sent me this appreciation mail",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qqfe1k/kimi_ai_team_sent_me_this_appreciation_mail/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-29T17:42:26+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qqfe1k/kimi_ai_team_sent_me_this_appreciation_mail/\"> <img alt=\"Kimi AI team sent me this appreciation mail\" src=\"https://preview.redd.it/0ztj2mk3sbgg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0cb8fb8a83de79c13b7ca310a250afa85f95fe79\" title=\"Kimi AI team sent me this appreciation mail\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>So I covered Kimi K2.5 on my YT channel and the team sent me this mail with a pr",
+      "extra": {},
+      "collected_at": "2026-01-30T08:30:44"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Why are small models (32b) scoring close to frontier models?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qqidxp/why_are_small_models_32b_scoring_close_to/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-01-29T19:27:44+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I keep seeing benchmark results where models like Qwen-32B or GLM-4.x Flash score surprisingly good as per their size than larger models like DeepSeek V3, Kimi K2.5 (1T), or GPT-5.x.</p> <p>Given the huge gap in model size and training compute, I’d expect a bigger difference.</p> <p>So what’s going on?</p> <p>Are benchmarks basically saturated?</p> <p>Is this distillation / contamination / inference-time tricks?</p> <p>Do small models break down on long-horizon ",
+      "extra": {},
+      "collected_at": "2026-01-30T08:30:44"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "192GB vram mini cluster",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qqmjr1/192gb_vram_mini_cluster/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-01-29T22:02:10+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qqmjr1/192gb_vram_mini_cluster/\"> <img alt=\"192GB vram mini cluster\" src=\"https://preview.redd.it/hwqxc3sf2dgg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=43d5d7342d2463c269d7d4090d386cc03aaeda50\" title=\"192GB vram mini cluster\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hello. I just want to show my current rig setup. I started with one P620 with 2x3090, than the 2nd P620 and a 10Gbit network. Now I got to 4",
+      "extra": {},
+      "collected_at": "2026-01-30T08:30:44"
     }
   ],
-  "updated_at": "2026-01-30T02:38:28.771383+09:00"
+  "updated_at": "2026-01-30T08:30:44.338965+09:00"
 }
