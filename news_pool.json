@@ -2486,19 +2486,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Pandada AI",
-      "url": "https://www.producthunt.com/products/pandada-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Build data wealth: Turns files into McKinsey-level insights </p> <p> <a href=\"https://www.producthunt.com/products/pandada-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1062703?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-29T22:08:27"
-    },
-    {
-      "source": "Product Hunt",
       "title": "The Prompting Company",
       "url": "https://www.producthunt.com/products/the-prompting-company",
       "primary_category": "TOOL",
@@ -2882,20 +2869,6 @@
       "collected_at": "2026-01-30T08:30:44"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Guys, I don’t think Tim Cook knows how to monetize AI",
-      "url": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "Thu, 29 Jan 2026 23:51:17 +0000",
-      "summary": "One intrepid Morgan Stanley analyst dared to ask how Apple will make money on its AI investments. The answer will not shock you.",
-      "extra": {},
-      "collected_at": "2026-01-30T13:48:35"
-    },
-    {
       "source": "Product Hunt",
       "title": "Willow on Windows",
       "url": "https://www.producthunt.com/products/willow-voice",
@@ -2920,7 +2893,33 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qqpon2/opencode_llamacpp_glm47_flash_claude_code_at_home/\"> <img alt=\"OpenCode + llama.cpp + GLM-4.7 Flash: Claude Code at home\" src=\"https://b.thumbs.redditmedia.com/7H9fabOO-Ob3KECLa7f5HGWJVRXrjNM3C7iqKkauNZU.jpg\" title=\"OpenCode + llama.cpp + GLM-4.7 Flash: Claude Code at home\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I use Claude Code every day, so I tried the same approach with a local setup, and to my surpri",
       "extra": {},
       "collected_at": "2026-01-30T13:48:40"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
+      "url": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 29 Jan 2026 18:58:07 +0000",
+      "summary": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.",
+      "extra": {},
+      "collected_at": "2026-01-30T15:54:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM 4.7 Flash 30B PRISM + Web Search: Very solid.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qqw3ov/glm_47_flash_30b_prism_web_search_very_solid/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-01-30T04:56:57+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just got this set up yesterday. I have been messing around with it and I am extremely impressed. I find that it is very efficient in reasoning compared to Qwen models. The model is quite uncensored so I'm able to research any topics, it is quite thorough. </p> <p>The knowledge is definitely less than 120B Derestricted, but once Web Search RAG is involved, I'm finding the 30B model generally superior with far less soft refusals. Since the model has web access, I ",
+      "extra": {},
+      "collected_at": "2026-01-30T15:54:56"
     }
   ],
-  "updated_at": "2026-01-30T13:48:40.460943+09:00"
+  "updated_at": "2026-01-30T15:54:56.084939+09:00"
 }
