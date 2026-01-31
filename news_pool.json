@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "1Setter",
-      "url": "https://www.producthunt.com/products/1setter",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> One-click system settings for macOS </p> <p> <a href=\"https://www.producthunt.com/products/1setter?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1066683?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-24T13:03:12"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Built a 100% client-side AI that plays Pokemon Red - Qwen 2.5 1.5B via WebLLM + neural network policy . Fork/check it out! BYOR",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ql6cz7/built_a_100_clientside_ai_that_plays_pokemon_red/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-23T23:20:23+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ql6cz7/built_a_100_clientside_ai_that_plays_pokemon_red/\"> <img alt=\"Built a 100% client-side AI that plays Pokemon Red - Qwen 2.5 1.5B via WebLLM + neural network policy . Fork/check it out! BYOR\" src=\"https://preview.redd.it/hlrhml65m6fg1.gif?width=640&amp;crop=smart&amp;s=05c26e9e3a4c3182ca841254a0d81f18d6a5901f\" title=\"Built a 100% client-side AI that plays Pokemon Red - Qwen 2.5 1.5B via WebLLM + neural network policy .",
-      "extra": {},
-      "collected_at": "2026-01-24T13:03:14"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "LuxTTS: A lightweight high quality voice cloning TTS model",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ql7mav/luxtts_a_lightweight_high_quality_voice_cloning/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-01-24T00:12:35+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just released LuxTTS, a tiny 120m param diffusion based text-to-speech model. It can generate 150 seconds of audio in just 1 second on a modern gpu and has high quality voice cloning.</p> <p>Main features:</p> <ol> <li><p>High quality voice cloning, on par with models 10x larger.</p></li> <li><p>Very efficient, fits within 1gb vram.</p></li> <li><p>Really fast, several times faster than realtime even on CPU.</p></li> </ol> <p>It can definitely be even faster s",
-      "extra": {},
-      "collected_at": "2026-01-24T13:03:14"
-    },
-    {
       "source": "The Verge AI",
       "title": "Meta is stopping teens from chatting with its AI characters",
       "url": "https://www.theverge.com/news/866906/meta-teens-ai-characters-stop-block-new-version",
@@ -2706,20 +2664,6 @@
       "collected_at": "2026-01-31T02:34:22"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic brings agentic plug-ins to Cowork",
-      "url": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "Fri, 30 Jan 2026 18:00:00 +0000",
-      "summary": "The company says you can use plug-ins to \"tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets more consistent outcomes.\"",
-      "extra": {},
-      "collected_at": "2026-01-31T08:29:58"
-    },
-    {
       "source": "The Verge AI",
       "title": "Video game company stock prices dip after Google introduces an AI world-generation tool",
       "url": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity",
@@ -2761,19 +2705,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Sheetsbase",
-      "url": "https://www.producthunt.com/products/sheetsbase-stop-googling-formulas",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI formulas generator and shortcuts for Google Sheets </p> <p> <a href=\"https://www.producthunt.com/products/sheetsbase-stop-googling-formulas?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1064348?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-31T08:30:00"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Webhound Reports",
       "url": "https://www.producthunt.com/products/webhound",
       "primary_category": "TOOL",
@@ -2811,7 +2742,48 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been messing around with a lot of local LLMs (120b and under) recently, and while some of them excel at specific things, none of them feel quite as good as GPT-OSS 120b all-around.</p> <p>The model is 64GB at full precision, is BLAZING fast, and is pretty good at everything. It's consistent, it calls tools properly, etc.</p> <p>But it's sort of old... it's been so long since GPT-OSS came out and we haven't really had a decent all-around open-weights/source ",
       "extra": {},
       "collected_at": "2026-01-31T08:30:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Physical Intelligence, Stripe veteran Lachy Groom’s latest bet, is building Silicon Valley’s buzziest robot brains",
+      "url": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 31 Jan 2026 00:09:54 +0000",
+      "summary": "If co-founder Lachy Groom has any doubts, he doesn’t show it. He’s working with people who've been working on this problem for decades and who believe the timing is finally right, which is all he needs to know.",
+      "extra": {},
+      "collected_at": "2026-01-31T13:41:46"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenClaw’s AI assistants are now building their own social network",
+      "url": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 30 Jan 2026 23:36:34 +0000",
+      "summary": "The viral personal AI assistant formerly known as Clawdbot has a new shell — again. After briefly rebranding as Moltbot, it has now picked OpenClaw as its new name.",
+      "extra": {},
+      "collected_at": "2026-01-31T13:41:46"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "NVIDIA Releases Massive Collection of Open Models, Data and Tools to Accelerate AI Development",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qrfbo8/nvidia_releases_massive_collection_of_open_models/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-30T19:26:46+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qrfbo8/nvidia_releases_massive_collection_of_open_models/\"> <img alt=\"NVIDIA Releases Massive Collection of Open Models, Data and Tools to Accelerate AI Development\" src=\"https://b.thumbs.redditmedia.com/vc1UXvPAXbGKJMGRgO3vaYujfIckG9Mk-wfTZzXzgEY.jpg\" title=\"NVIDIA Releases Massive Collection of Open Models, Data and Tools to Accelerate AI Development\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://pre",
+      "extra": {},
+      "collected_at": "2026-01-31T13:41:51"
     }
   ],
-  "updated_at": "2026-01-31T08:30:03.277138+09:00"
+  "updated_at": "2026-01-31T13:41:51.386908+09:00"
 }
