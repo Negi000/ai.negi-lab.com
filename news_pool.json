@@ -2,88 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Claude Code's new hidden feature: Swarms",
-      "url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 24 Jan 2026 14:35:47 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-01-25T08:23:47"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Artificial Analysis: South Korea 🇰🇷 is now the clear #3 nation in AI — powered by the Korean National Sovereign AI Initiative there are now multiple Korean AI labs with near frontier intelligence.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qltwza/artificial_analysis_south_korea_is_now_the_clear/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-24T18:00:50+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qltwza/artificial_analysis_south_korea_is_now_the_clear/\"> <img alt=\"Artificial Analysis: South Korea 🇰🇷 is now the clear #3 nation in AI — powered by the Korean National Sovereign AI Initiative there are now multiple Korean AI labs with near frontier intelligence.\" src=\"https://preview.redd.it/66fd18ro6cfg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f579cce389f709dbf297867095118be2027f04ea\" title=\"Artificial Analysis",
-      "extra": {},
-      "collected_at": "2026-01-25T08:23:52"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Personal experience with GLM 4.7 Flash Q6 (unsloth) + Roo Code + RTX 5090",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qlnruw/personal_experience_with_glm_47_flash_q6_unsloth/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-01-24T14:02:56+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am much more interested in how folks experience quantized versions of new models than just looking at bar graphs, so here is my humble contribution. </p> <p>I have been using GLM 4.7 Flash to perform a few refactoring tasks in some personal web projects and have been quite impressed by how well the model handles Roo Code without breaking apart. For this agentic tool specifically, it has been much more reliable and precise than GPT-OSS 120b, GLM 4.5 Air, or Dev",
-      "extra": {},
-      "collected_at": "2026-01-25T08:23:52"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I built an open-source audiobook converter using Qwen3 TTS - converts PDFs/EPUBs to high-quality audiobooks with voice cloning support",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qlr3wj/i_built_an_opensource_audiobook_converter_using/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-01-24T16:16:15+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Turn any book into an audiobook with AI voice synthesis!</strong> I just released an open-source tool that converts PDFs, EPUBs, DOCX, and TXT files into high-quality audiobooks using <strong>Qwen3 TTS</strong> - the amazing open-source voice model that just went public.</p> <h2>What it does:</h2> <p><strong>Converts any document format</strong> (PDF, EPUB, DOCX, DOC, TXT) into audiobooks <strong>Two voice modes</strong>: Pre-built speakers (Ryan, Serena",
-      "extra": {},
-      "collected_at": "2026-01-25T08:23:52"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM 4.7 Flash uncensored - Balanced & Aggressive variants (GGUF)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qlt3pw/glm_47_flash_uncensored_balanced_aggressive/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-01-24T17:30:56+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I made uncensored versions of the new GLM 4.7 Flash from Z.ai.</p> <p>For those who don't know the model, it's 30B-A3B MoE, so only ~3B active params (will have fast inference!) and 200K context. Runs surprisingly well for what it is.</p> <p>Two variants:</p> <p>- Balanced - excellent for agentic coding stuff where you still want (uncensored) reliability</p> <p>- Aggressive - great for every other uncensored topic</p> <p>Quants available: FP16, Q8_",
-      "extra": {},
-      "collected_at": "2026-01-25T08:23:52"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "What is the best general-purpose model to run locally on 24GB of VRAM in 2026?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qlwibf/what_is_the_best_generalpurpose_model_to_run/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-24T19:35:11+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been running Gemma 3 27b since its release nine months ago, which is an eternity in the AI field. Has anything better been released since then that can run well on a single 3090ti?</p> <p>I'm not looking to code, to create agents, or to roleplay; I just want a good model to chat with and get reasonably smart answers to questions. If it can view images, that's even better.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user",
-      "extra": {},
-      "collected_at": "2026-01-25T08:23:52"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "JSON-render: LLM-based JSON-to-UI tool",
       "url": "https://json-render.dev/",
       "primary_category": "NEWS",
@@ -2513,19 +2431,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "DestMate: Travel Alarm",
-      "url": "https://www.producthunt.com/products/destmate-travel-alarm",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Alarm with location wake-up and earphone-only sound </p> <p> <a href=\"https://www.producthunt.com/products/destmate-travel-alarm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068273?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-31T18:28:13"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Herodot AI",
       "url": "https://www.producthunt.com/products/herodot-ai",
       "primary_category": "TOOL",
@@ -2619,19 +2524,6 @@
       "collected_at": "2026-01-31T21:58:47"
     },
     {
-      "source": "The Verge AI",
-      "title": "ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia",
-      "url": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-01-31T08:00:00-05:00",
-      "summary": "ChatGPT is using Grokipedia as a source, and it's not the only AI tool to do so. Citations to Elon Musk's AI-generated encyclopedia are starting to appear in answers from Google's AI Overviews, AI Mode, and Gemini, too. Data suggests that's on the rise, heightening concerns about accuracy and misinformation as Musk seeks to reshape [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-02-01T02:24:04"
-    },
-    {
       "source": "GitHub Trending",
       "title": "microsoft/PowerToys",
       "url": "https://github.com/microsoft/PowerToys",
@@ -2701,7 +2593,73 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qs27hf/ghoot_in_the_machine/\"> <img alt=\"g-HOOT in the Machine\" src=\"https://preview.redd.it/z78lvao9rogg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae89cf23b154560e4ea34ce2fff5ea8a457a781b\" title=\"g-HOOT in the Machine\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Paper: <a href=\"https://arxiv.org/abs/2507.14805\">https://arxiv.org/abs/2507.14805</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"ht",
       "extra": {},
       "collected_at": "2026-02-01T02:24:09"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
+      "url": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 31 Jan 2026 17:54:12 +0000",
+      "summary": "Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”",
+      "extra": {},
+      "collected_at": "2026-02-01T08:27:25"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "SpaceX wants to put 1 million solar-powered data centers into orbit",
+      "url": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-01-31T14:38:36-05:00",
+      "summary": "SpaceX filed a request with the FCC on Friday seeking approval to put a constellation of 1 million data center satellites into orbit. While the FCC is unlikely to approve a network that expansive, SpaceX's strategy has been to request approval for unrealistically large numbers of satellites as a starting point for negotiations. The filing [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-01T08:27:25"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Geekflare API",
+      "url": "https://www.producthunt.com/products/geekflare-api",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Scrape, Screenshot, and extract LLM-ready data </p> <p> <a href=\"https://www.producthunt.com/products/geekflare-api?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070109?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-01T08:27:28"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Don’t buy b60 for LLMs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsenpy/dont_buy_b60_for_llms/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-01-31T21:21:10+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I kinda regret buying b60. I thought that 24gb for 700 eur is a great deal, but the reality is completely different.</p> <p>For starters, I live with a custom compiled kernel with the patch from an Intel dev to solve ffmpeg crashes.</p> <p>Then I had to install the card into a windows machine in order to get GPU firmware updated (under Linux one need v2.0.19 of fwupd which is not available in Ubuntu yet) to solve the crazy fan speed on the b60 even when the temp",
+      "extra": {},
+      "collected_at": "2026-02-01T08:27:30"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "LLMs are great until you point them at actual company data",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qs9zaw/llms_are_great_until_you_point_them_at_actual/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-01-31T18:24:21+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>You know the drill - connect to your CRM, ERP, whatever legacy system management swears is &quot;mission critical.&quot; That part? Done in an afternoon.</p> <p>Then you actually look at the data. Fields named things like custom_attribute_2847. Tables that reference other tables that reference other tables. Documentation that was last updated when flip phones were cool.</p> <p>And when you try to feed this into an LLM for anything useful? It just generates confi",
+      "extra": {},
+      "collected_at": "2026-02-01T08:27:30"
     }
   ],
-  "updated_at": "2026-02-01T02:24:09.402152+09:00"
+  "updated_at": "2026-02-01T08:27:30.963436+09:00"
 }
