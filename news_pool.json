@@ -1,108 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "The end of the Sony era in TVs",
-      "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-23T10:20:10-05:00",
-      "summary": "There aren't many tech companies that can claim Sony's level of influence in how we live our lives. From the Walkman to the PlayStation to the Trinitron, Sony has been making excellent gadgets in multiple categories for decades, which makes this week's news just a little sad. Sony's new joint venture with TCL isn't the [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-01-24T21:51:31"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "codecrafters-io/build-your-own-x",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Master programming by recreating your favorite technologies from scratch.",
-      "extra": {
-        "stars_today": "529 stars today"
-      },
-      "collected_at": "2026-01-24T21:51:35"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "vadimdemedes/ink",
-      "url": "https://github.com/vadimdemedes/ink",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "🌈 React for interactive command-line apps",
-      "extra": {
-        "stars_today": "51 stars today"
-      },
-      "collected_at": "2026-01-24T21:51:35"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "servo/servo",
-      "url": "https://github.com/servo/servo",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
-      "extra": {
-        "stars_today": "26 stars today"
-      },
-      "collected_at": "2026-01-24T21:51:35"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "microsoft/onnxruntime",
-      "url": "https://github.com/microsoft/onnxruntime",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-      "extra": {
-        "stars_today": "16 stars today"
-      },
-      "collected_at": "2026-01-24T21:51:35"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "AI & ML Weekly — Hugging Face Highlights",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qljf7o/ai_ml_weekly_hugging_face_highlights/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-01-24T10:15:01+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Here are the most notable <strong>AI models released or updated this week on Hugging Face</strong>, categorized for easy scanning 👇</p> <h1>Text &amp; Reasoning Models</h1> <ul> <li><strong>GLM-4.7 (358B)</strong> — Large-scale multilingual reasoning model <a href=\"https://huggingface.co/zai-org/GLM-4.7\">https://huggingface.co/zai-org/GLM-4.7</a></li> <li><strong>GLM-4.7-Flash (31B)</strong> — Faster, optimized variant for text generation <a href=\"https://huggin",
-      "extra": {},
-      "collected_at": "2026-01-24T21:51:36"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Running MoE Models on CPU/RAM: A Guide to Optimizing Bandwidth for GLM-4 and GPT-OSS",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qlie1t/running_moe_models_on_cpuram_a_guide_to/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-24T09:12:49+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The core principle of running Mixture-of-Experts (MoE) models on CPU/RAM is that the CPU doesn't need to extract or calculate all weights from memory simultaneously. Only a fraction of the parameters are &quot;active&quot; for any given token, and since calculations are approximate, memory throughput becomes our primary bottleneck.</p> <h1>The Math: Model Size vs. Memory Bandwidth</h1> <p>Let's look at two popular models: <strong>GLM-4.7-Flash</strong> (3B activ",
-      "extra": {},
-      "collected_at": "2026-01-24T21:51:36"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude Code's new hidden feature: Swarms",
       "url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
@@ -2534,20 +2432,6 @@
     },
     {
       "source": "The Verge AI",
-      "title": "Video game company stock prices dip after Google introduces an AI world-generation tool",
-      "url": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-01-30T17:45:16-05:00",
-      "summary": "The stock prices of some major video game companies, including Take-Two Interactive, Roblox, and Unity, had notable declines on Friday, just a day after Google announced its Project Genie tool that lets users prompt AI to generate interactive experiences, Reuters reports. Take-Two's stock price closed at $220.30 (down 7.93 percent from yesterday), Roblox's closed at [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-01-31T08:29:58"
-    },
-    {
-      "source": "The Verge AI",
       "title": "There’s a social network for AI agents, and it’s getting weird",
       "url": "https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw",
       "primary_category": "NEWS",
@@ -2642,19 +2526,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "RUSTWA",
-      "url": "https://www.producthunt.com/products/rustwa",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A Unofficial WhatsApp Web API built in Rust </p> <p> <a href=\"https://www.producthunt.com/products/rustwa?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070664?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-31T18:28:13"
-    },
-    {
-      "source": "Product Hunt",
       "title": "DestMate: Travel Alarm",
       "url": "https://www.producthunt.com/products/destmate-travel-alarm",
       "primary_category": "TOOL",
@@ -2705,7 +2576,74 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qrmu2v/what_shoddy_development_looks_like/\"> <img alt=\"What shoddy development looks like\" src=\"https://preview.redd.it/9l7wwnsu6kgg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a3c02e836b0951ddacdc25d64410b0f33a6b6e4\" title=\"What shoddy development looks like\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rm-rf-rm\"> /u/rm-rf-rm </a> <br /> <span><a href=\"https://i.redd.it/9l7wwnsu6kgg",
       "extra": {},
       "collected_at": "2026-01-31T18:28:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ClaudeUsageBar",
+      "url": "https://www.producthunt.com/products/claudeusagebar",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Know exactly how much Claude you have left at a glance </p> <p> <a href=\"https://www.producthunt.com/products/claudeusagebar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1067826?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-31T21:58:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "skills.sh",
+      "url": "https://www.producthunt.com/products/vercel",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The Agent Skills Directory </p> <p> <a href=\"https://www.producthunt.com/products/vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070427?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-31T21:58:44"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Here it goes",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qrwo9v/here_it_goes/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-01-31T08:12:32+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qrwo9v/here_it_goes/\"> <img alt=\"Here it goes\" src=\"https://preview.redd.it/pchjv5z88ngg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=46ff31a155e1a7011f67f91d666503ef5cbcdf51\" title=\"Here it goes\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>My friend sold me his mining unit that he never got to use. He had it at his mom’s house and his mom moved out of town so he let me keep it. Was gonna part it out but I thin",
+      "extra": {},
+      "collected_at": "2026-01-31T21:58:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "This overhyped nonsense is getting tiring (moltbook)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qryqvo/this_overhyped_nonsense_is_getting_tiring_moltbook/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-01-31T10:17:29+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This morning I check my YouTube feed again to get flooded by multiple videos all talking about this <strong>&quot;</strong>incredible<strong>&quot;</strong> moltbook thing. </p> <p>I thought it was nonsense to begin with but then I decided 'Hey let's give it a look' so I went to go checkout and moltbook myself and the website literally doesn't work. </p> <p>I tried navigated to the 'Browse Submolts' page and clicked over a dozen threads and literally none of the",
+      "extra": {},
+      "collected_at": "2026-01-31T21:58:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I found that MXFP4 has lower perplexity than Q4_K_M and Q4_K_XL.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qrzyaz/i_found_that_mxfp4_has_lower_perplexity_than_q4_k/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-01-31T11:27:30+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This post was originally written in Korean and then translated into English using ChatGPT.<br /> Hello, I am currently serving LLM models using a Tesla P40 and llama.cpp. When running models in the 30–32B range, I usually rely on 4-bit quantization. Until now, I primarily used Q4_K_XL, and if Q4_K_XL was not available, I used Q4_K_M instead. I initially avoided MXFP4 quantization because, compared to other 4-bit quantization methods, it has a smaller size, so I ",
+      "extra": {},
+      "collected_at": "2026-01-31T21:58:47"
     }
   ],
-  "updated_at": "2026-01-31T18:28:16.342522+09:00"
+  "updated_at": "2026-01-31T21:58:47.168616+09:00"
 }
