@@ -2512,19 +2512,6 @@
       "collected_at": "2026-01-31T13:41:51"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "How close are open-weight models to \"SOTA\"? My honest take as of today, benchmarks be damned.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qrsy4q/how_close_are_openweight_models_to_sota_my_honest/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-01-31T04:49:42+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qrsy4q/how_close_are_openweight_models_to_sota_my_honest/\"> <img alt=\"How close are open-weight models to &quot;SOTA&quot;? My honest take as of today, benchmarks be damned.\" src=\"https://preview.redd.it/k38sg20q7mgg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1d06005e56d7a9be9a1c820f7096aa2805c52dc\" title=\"How close are open-weight models to &quot;SOTA&quot;? My honest take as of today, benchmarks be damned.\" /> </a>",
-      "extra": {},
-      "collected_at": "2026-01-31T15:44:48"
-    },
-    {
       "source": "Product Hunt",
       "title": "DestMate: Travel Alarm",
       "url": "https://www.producthunt.com/products/destmate-travel-alarm",
@@ -2579,19 +2566,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "ClaudeUsageBar",
-      "url": "https://www.producthunt.com/products/claudeusagebar",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Know exactly how much Claude you have left at a glance </p> <p> <a href=\"https://www.producthunt.com/products/claudeusagebar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1067826?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-31T21:58:44"
-    },
-    {
-      "source": "Product Hunt",
       "title": "skills.sh",
       "url": "https://www.producthunt.com/products/vercel",
       "primary_category": "TOOL",
@@ -2643,7 +2617,91 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>This post was originally written in Korean and then translated into English using ChatGPT.<br /> Hello, I am currently serving LLM models using a Tesla P40 and llama.cpp. When running models in the 30–32B range, I usually rely on 4-bit quantization. Until now, I primarily used Q4_K_XL, and if Q4_K_XL was not available, I used Q4_K_M instead. I initially avoided MXFP4 quantization because, compared to other 4-bit quantization methods, it has a smaller size, so I ",
       "extra": {},
       "collected_at": "2026-01-31T21:58:47"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia",
+      "url": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-01-31T08:00:00-05:00",
+      "summary": "ChatGPT is using Grokipedia as a source, and it's not the only AI tool to do so. Citations to Elon Musk's AI-generated encyclopedia are starting to appear in answers from Google's AI Overviews, AI Mode, and Gemini, too. Data suggests that's on the rise, heightening concerns about accuracy and misinformation as Musk seeks to reshape [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-01T02:24:04"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+      "extra": {
+        "stars_today": "61 stars today"
+      },
+      "collected_at": "2026-02-01T02:24:08"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "jj-vcs/jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A Git-compatible VCS that is both simple and powerful",
+      "extra": {
+        "stars_today": "49 stars today"
+      },
+      "collected_at": "2026-02-01T02:24:08"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "extra": {
+        "stars_today": "68 stars today"
+      },
+      "collected_at": "2026-02-01T02:24:08"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "When yet another Chinese no-name lab pops up",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qs4bca/when_yet_another_chinese_noname_lab_pops_up/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-01-31T14:51:03+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qs4bca/when_yet_another_chinese_noname_lab_pops_up/\"> <img alt=\"When yet another Chinese no-name lab pops up\" src=\"https://preview.redd.it/sm9s63r47pgg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=86d012132cd063867837c1c965189e1511a03783\" title=\"When yet another Chinese no-name lab pops up\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/k_means_clusterfuck\"> /u/k_means_clusterfuck </a> <",
+      "extra": {},
+      "collected_at": "2026-02-01T02:24:09"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "g-HOOT in the Machine",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qs27hf/ghoot_in_the_machine/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-01-31T13:21:43+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qs27hf/ghoot_in_the_machine/\"> <img alt=\"g-HOOT in the Machine\" src=\"https://preview.redd.it/z78lvao9rogg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae89cf23b154560e4ea34ce2fff5ea8a457a781b\" title=\"g-HOOT in the Machine\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Paper: <a href=\"https://arxiv.org/abs/2507.14805\">https://arxiv.org/abs/2507.14805</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"ht",
+      "extra": {},
+      "collected_at": "2026-02-01T02:24:09"
     }
   ],
-  "updated_at": "2026-01-31T21:58:47.168616+09:00"
+  "updated_at": "2026-02-01T02:24:09.402152+09:00"
 }
