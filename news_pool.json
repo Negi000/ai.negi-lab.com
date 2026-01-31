@@ -2,85 +2,6 @@
   "items": [
     {
       "source": "The Verge AI",
-      "title": "Giving your healthcare info to a chatbot is, unsurprisingly, a terrible idea",
-      "url": "https://www.theverge.com/report/866683/chatgpt-health-sharing-data",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-23T11:07:24-05:00",
-      "summary": "Every week, more than 230 million people ask ChatGPT for health and wellness advice, according to OpenAI. The company says that many see the chatbot as an \"ally\" to help navigate the maze of insurance, file paperwork, and become better self-advocates. In exchange, it hopes you will trust its chatbot with details about your diagnoses, [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-01-24T18:20:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Humans in the Loop",
-      "url": "https://www.producthunt.com/products/humans-in-the-loop",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A free community to talk all-things-agentic-coding-AI </p> <p> <a href=\"https://www.producthunt.com/products/humans-in-the-loop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1064953?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-24T18:20:25"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "GetThis",
-      "url": "https://www.producthunt.com/products/getthis",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Generate tasks from voice, text, or screenshots. </p> <p> <a href=\"https://www.producthunt.com/products/getthis?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1067106?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-24T18:20:25"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "BrainLoom",
-      "url": "https://www.producthunt.com/products/brainloom",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn PDFs into Flashcards. The local-first Learning OS. </p> <p> <a href=\"https://www.producthunt.com/products/brainloom?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1065398?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-24T18:20:25"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Youtube Custom Playback",
-      "url": "https://www.producthunt.com/products/youtube-custom-playback",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Unlock up to 16x speed with native-style controls </p> <p> <a href=\"https://www.producthunt.com/products/youtube-custom-playback?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1064954?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-24T18:20:25"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "engine for GLM 4.7 Flash that doesn't massively slow down as the context grows?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qlfu2b/engine_for_glm_47_flash_that_doesnt_massively/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-24T06:42:56+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Man, i just tried GLM 4.7 Flash in LMstudio on a 5090 and while the 150 tokens/sec at Q6 is nice on the first prompt, things rapidly go south speedwise after 10k, unlike any other model i've tried.</p> <p>I am using all the recommended settings and my unsloth quant, llama.cpp runtime, and lmstudio are all up to date.</p> <p>I see that ik_llama.cpp has a recent patch that reduces this slowdown:<br /> <a href=\"https://github.com/ikawrakow/ik_llama.cpp/pull/1182\">h",
-      "extra": {},
-      "collected_at": "2026-01-24T18:20:27"
-    },
-    {
-      "source": "The Verge AI",
       "title": "The end of the Sony era in TVs",
       "url": "https://www.theverge.com/podcast/866619/sony-tcl-tvs-chatgpt-ads-vergecast",
       "primary_category": "NEWS",
@@ -2692,19 +2613,6 @@
       "collected_at": "2026-01-31T08:30:03"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenClaw’s AI assistants are now building their own social network",
-      "url": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 30 Jan 2026 23:36:34 +0000",
-      "summary": "The viral personal AI assistant formerly known as Clawdbot has a new shell — again. After briefly rebranding as Moltbot, it has now picked OpenClaw as its new name.",
-      "extra": {},
-      "collected_at": "2026-01-31T13:41:46"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "NVIDIA Releases Massive Collection of Open Models, Data and Tools to Accelerate AI Development",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qrfbo8/nvidia_releases_massive_collection_of_open_models/",
@@ -2731,7 +2639,73 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qrsy4q/how_close_are_openweight_models_to_sota_my_honest/\"> <img alt=\"How close are open-weight models to &quot;SOTA&quot;? My honest take as of today, benchmarks be damned.\" src=\"https://preview.redd.it/k38sg20q7mgg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1d06005e56d7a9be9a1c820f7096aa2805c52dc\" title=\"How close are open-weight models to &quot;SOTA&quot;? My honest take as of today, benchmarks be damned.\" /> </a>",
       "extra": {},
       "collected_at": "2026-01-31T15:44:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "RUSTWA",
+      "url": "https://www.producthunt.com/products/rustwa",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A Unofficial WhatsApp Web API built in Rust </p> <p> <a href=\"https://www.producthunt.com/products/rustwa?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070664?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-31T18:28:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "DestMate: Travel Alarm",
+      "url": "https://www.producthunt.com/products/destmate-travel-alarm",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Alarm with location wake-up and earphone-only sound </p> <p> <a href=\"https://www.producthunt.com/products/destmate-travel-alarm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068273?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-31T18:28:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Herodot AI",
+      "url": "https://www.producthunt.com/products/herodot-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Travel at any place like with a personal local guide </p> <p> <a href=\"https://www.producthunt.com/products/herodot-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1062925?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-31T18:28:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Pretty Prompt 1.0 Extension + Web App",
+      "url": "https://www.producthunt.com/products/pretty-prompt",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Grammarly for prompting. Turn any text into perfect prompts. </p> <p> <a href=\"https://www.producthunt.com/products/pretty-prompt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1066254?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-01-31T18:28:13"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "What shoddy development looks like",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qrmu2v/what_shoddy_development_looks_like/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-01-31T00:12:53+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qrmu2v/what_shoddy_development_looks_like/\"> <img alt=\"What shoddy development looks like\" src=\"https://preview.redd.it/9l7wwnsu6kgg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a3c02e836b0951ddacdc25d64410b0f33a6b6e4\" title=\"What shoddy development looks like\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rm-rf-rm\"> /u/rm-rf-rm </a> <br /> <span><a href=\"https://i.redd.it/9l7wwnsu6kgg",
+      "extra": {},
+      "collected_at": "2026-01-31T18:28:16"
     }
   ],
-  "updated_at": "2026-01-31T15:44:48.791033+09:00"
+  "updated_at": "2026-01-31T18:28:16.342522+09:00"
 }
