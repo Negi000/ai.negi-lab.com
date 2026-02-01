@@ -1,32 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "JSON-render: LLM-based JSON-to-UI tool",
-      "url": "https://json-render.dev/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 24 Jan 2026 19:12:56 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-01-25T13:19:33"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I built a tool that learns your codebase's unwritten rules and conventions- no AI, just AST parsing",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qm0l2q/i_built_a_tool_that_learns_your_codebases/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-01-24T22:11:05+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I spent the last six months teaching myself to orchestrate engineering codebases using AI agents. What I found is that the biggest bottleneck isn’t intelligence it’s the context window. Why have we not given agents the proper tooling to defeat this limitation? Agents constantly forget how I handle error structures or which specific components I use for the frontend. This forces mass auditing and refactoring, causing me to spend about 75% of my token budget on au",
-      "extra": {},
-      "collected_at": "2026-01-25T13:19:38"
-    },
-    {
       "source": "The Verge AI",
       "title": "Gemini with Personal Intelligence is awfully familiar",
       "url": "https://www.theverge.com/tech/866931/gemini-personal-intelligence-ai",
@@ -2431,20 +2405,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Herodot AI",
-      "url": "https://www.producthunt.com/products/herodot-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> Travel at any place like with a personal local guide </p> <p> <a href=\"https://www.producthunt.com/products/herodot-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1062925?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-31T18:28:13"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Pretty Prompt 1.0 Extension + Web App",
       "url": "https://www.producthunt.com/products/pretty-prompt",
       "primary_category": "TOOL",
@@ -2595,19 +2555,6 @@
       "collected_at": "2026-02-01T02:24:09"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
-      "url": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 31 Jan 2026 17:54:12 +0000",
-      "summary": "Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”",
-      "extra": {},
-      "collected_at": "2026-02-01T08:27:25"
-    },
-    {
       "source": "The Verge AI",
       "title": "SpaceX wants to put 1 million solar-powered data centers into orbit",
       "url": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit",
@@ -2659,7 +2606,75 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>You know the drill - connect to your CRM, ERP, whatever legacy system management swears is &quot;mission critical.&quot; That part? Done in an afternoon.</p> <p>Then you actually look at the data. Fields named things like custom_attribute_2847. Tables that reference other tables that reference other tables. Documentation that was last updated when flip phones were cool.</p> <p>And when you try to feed this into an LLM for anything useful? It just generates confi",
       "extra": {},
       "collected_at": "2026-02-01T08:27:30"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Nvidia CEO denies he’s ‘unhappy’ with OpenAI",
+      "url": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-01-31T18:37:56-05:00",
+      "summary": "Nvidia's CEO Jensen Huang denied reports that he was unhappy with OpenAI and said his company still planned to make a \"huge\" investment in the ChatGPT firm. NVIDIA announced in September that it would invest up to $100 billion in OpenAI, but recently, there have been suggestions that the deal might not happen. While Huang [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-01T14:07:50"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Exposed Moltbook Database Let Anyone Take Control of Any AI Agent on the Site",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsn78m/exposed_moltbook_database_let_anyone_take_control/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-01T03:25:12+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qsn78m/exposed_moltbook_database_let_anyone_take_control/\"> <img alt=\"Exposed Moltbook Database Let Anyone Take Control of Any AI Agent on the Site\" src=\"https://external-preview.redd.it/bfjA2IIU81Nyg02gojI5OSsrZO__DkXhWMj0JjL44MA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b3c6a4dfe6f5b662bd4fcb95ee7ed9af6ee839f\" title=\"Exposed Moltbook Database Let Anyone Take Control of Any AI Agent on the Site\" /> </a> </td><td> &#",
+      "extra": {},
+      "collected_at": "2026-02-01T14:08:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Analyzed 5,357 ICLR 2026 accepted papers - here's what the research community is actually working on",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsh7dz/analyzed_5357_iclr_2026_accepted_papers_heres/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-01-31T23:03:24+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Went through the accepted papers at ICLR 2026 and counted what the research community is actually focusing on. Some findings that seem relevant for people doing local training and fine-tuning:</p> <p><strong>Alignment methods</strong></p> <ul> <li>GRPO appears in 157 papers, DPO in only 55</li> <li>The academic community seems to have largely moved past DPO toward Group Relative Policy Optimization</li> <li>If you're still using DPO for post-training, might be w",
+      "extra": {},
+      "collected_at": "2026-02-01T14:08:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Are small models actually getting more efficient?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsjqdl/are_small_models_actually_getting_more_efficient/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-01T00:49:26+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>’m trying to understand whether small models (say, sub-1 GB or around that range) are genuinely getting <em>smarter</em>, or if hard size limits mean they’ll always hit a ceiling.</p> <p>My long-term hope is that we eventually see a small local model reach something close to <strong>Gemini 2.5–level reasoning</strong>, at least for constrained tasks. The use case I care about is games: I’d love to run an LLM locally inside a game to handle logic, dialogue, and s",
+      "extra": {},
+      "collected_at": "2026-02-01T14:08:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Beating GPT-2 for <<$100: the nanochat journey · karpathy nanochat · Discussion #481",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsj8x4/beating_gpt2_for_100_the_nanochat_journey/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-01T00:28:32+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qsj8x4/beating_gpt2_for_100_the_nanochat_journey/\"> <img alt=\"Beating GPT-2 for &lt;&lt;$100: the nanochat journey · karpathy nanochat · Discussion #481\" src=\"https://external-preview.redd.it/tRLTF88fq1bbkxeX1rd0tIqyBPPusWm9EVZ_4pC6axI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a46384d561fdba570fc99a8b65c323f9f2075d5\" title=\"Beating GPT-2 for &lt;&lt;$100: the nanochat journey · karpathy nanochat · Discussion #481\" />",
+      "extra": {},
+      "collected_at": "2026-02-01T14:08:02"
     }
   ],
-  "updated_at": "2026-02-01T08:27:30.963436+09:00"
+  "updated_at": "2026-02-01T14:08:02.840043+09:00"
 }
