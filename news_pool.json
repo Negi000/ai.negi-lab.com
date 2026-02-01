@@ -1,33 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "Gemini with Personal Intelligence is awfully familiar",
-      "url": "https://www.theverge.com/tech/866931/gemini-personal-intelligence-ai",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-01-24T08:00:00-05:00",
-      "summary": "By lots of metrics, Gemini is winning. It has raced ahead of OpenAI, become scarily good at creating convincing imagery, and even won Apple's business. So last week's news that it was enabling something called Personal Intelligence felt like a victory lap. Personal Intelligence allows Gemini to reference past conversations and access your data in [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-01-25T15:36:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Stable-DiffCoder, a strong code diffusion LLM built on Seed-Coder",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qm6iho/stablediffcoder_a_strong_code_diffusion_llm_built/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-01-25T02:22:05+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rektide\"> /u/rektide </a> <br /> <span><a href=\"https://bytedance-seed.github.io/Stable-DiffCoder/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qm6iho/stablediffcoder_a_strong_code_diffusion_llm_built/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-01-25T15:37:03"
-    },
-    {
       "source": "HN AI Hot",
       "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
       "url": "https://arxiv.org/abs/2601.05047",
@@ -2608,20 +2581,6 @@
       "collected_at": "2026-02-01T08:27:30"
     },
     {
-      "source": "The Verge AI",
-      "title": "Nvidia CEO denies he’s ‘unhappy’ with OpenAI",
-      "url": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-01-31T18:37:56-05:00",
-      "summary": "Nvidia's CEO Jensen Huang denied reports that he was unhappy with OpenAI and said his company still planned to make a \"huge\" investment in the ChatGPT firm. NVIDIA announced in September that it would invest up to $100 billion in OpenAI, but recently, there have been suggestions that the deal might not happen. While Huang [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-02-01T14:07:50"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Exposed Moltbook Database Let Anyone Take Control of Any AI Agent on the Site",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsn78m/exposed_moltbook_database_let_anyone_take_control/",
@@ -2674,7 +2633,21 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qsj8x4/beating_gpt2_for_100_the_nanochat_journey/\"> <img alt=\"Beating GPT-2 for &lt;&lt;$100: the nanochat journey · karpathy nanochat · Discussion #481\" src=\"https://external-preview.redd.it/tRLTF88fq1bbkxeX1rd0tIqyBPPusWm9EVZ_4pC6axI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a46384d561fdba570fc99a8b65c323f9f2075d5\" title=\"Beating GPT-2 for &lt;&lt;$100: the nanochat journey · karpathy nanochat · Discussion #481\" />",
       "extra": {},
       "collected_at": "2026-02-01T14:08:02"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Thu, 22 Jan 2026 14:00:00 GMT",
+      "summary": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>",
+      "extra": {},
+      "collected_at": "2026-02-01T15:54:32"
     }
   ],
-  "updated_at": "2026-02-01T14:08:02.840043+09:00"
+  "updated_at": "2026-02-01T15:54:37.427029+09:00"
 }
