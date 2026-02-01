@@ -1,93 +1,6 @@
 {
   "items": [
     {
-      "source": "GitHub Trending",
-      "title": "hyprwm/Hyprland",
-      "url": "https://github.com/hyprwm/Hyprland",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "extra": {
-        "stars_today": "32 stars today"
-      },
-      "collected_at": "2026-01-25T21:53:06"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "Vendicated/Vencord",
-      "url": "https://github.com/Vendicated/Vencord",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "The cutest Discord modification",
-      "extra": {
-        "stars_today": "14 stars today"
-      },
-      "collected_at": "2026-01-25T21:53:06"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "colinhacks/zod",
-      "url": "https://github.com/colinhacks/zod",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "TypeScript-first schema validation with static type inference",
-      "extra": {
-        "stars_today": "16 stars today"
-      },
-      "collected_at": "2026-01-25T21:53:06"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "tracel-ai/burn",
-      "url": "https://github.com/tracel-ai/burn",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.",
-      "extra": {
-        "stars_today": "9 stars today"
-      },
-      "collected_at": "2026-01-25T21:53:06"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "What happened to moondream3?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qmh3si/what_happened_to_moondream3/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-25T11:49:01+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So last year the moondream 3 preview came out. It was a nice performing visual model that could do some cool stuff other VL models couldn't. One month ago a MLX version appeared <a href=\"https://huggingface.co/moondream/md3p-int4\">https://huggingface.co/moondream/md3p-int4</a> but until now there is no llama.cpp implementation and no public activity I could find.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/StableDiffer\"",
-      "extra": {},
-      "collected_at": "2026-01-25T21:53:07"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Blazing fast JSON extraction with very small LLMs-3B: LSTM to LLM",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qmevh7/blazing_fast_json_extraction_with_very_small/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-25T09:40:42+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I've learned a lot from this sub, so I wanted to give back by sharing my experience on a recent project.</p> <p>My goal was to migrate a text extraction pipeline from LSTM to an LLM. The task involves extracting specific data into JSON format from small text inputs (≈1024 tokens). I used in-house data to fine-tune it.</p> <p><strong>Constraints &amp; Achievements (running on an L4 GPU):</strong></p> <ul> <li><strong>Very low end2end latency:",
-      "extra": {},
-      "collected_at": "2026-01-25T21:53:07"
-    },
-    {
       "source": "r/MachineLearning",
       "title": "[D] Self-Promotion Thread",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1q1nko4/d_selfpromotion_thread/",
@@ -2241,19 +2154,6 @@
       "collected_at": "2026-01-31T02:34:22"
     },
     {
-      "source": "The Verge AI",
-      "title": "There’s a social network for AI agents, and it’s getting weird",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-30T14:11:35-05:00",
-      "summary": "Yes, you read that right. \"Moltbook\" is a social network of sorts for AI agents, particularly ones offered by OpenClaw (a viral AI assistant project that was formerly known as Moltbot, and before that, known as Clawdbot - until a legal dispute with Anthropic). Moltbook, which is set up similarly to Reddit and was built [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-01-31T08:29:58"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Malicious skills targeting Claude Code and Moltbot users",
       "url": "https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto",
@@ -2597,19 +2497,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Compressor",
-      "url": "https://www.producthunt.com/products/compressor-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The fastest video compressor for Android. </p> <p> <a href=\"https://www.producthunt.com/products/compressor-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071023?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-01T18:30:29"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Hyta",
       "url": "https://www.producthunt.com/products/hyta",
       "primary_category": "TOOL",
@@ -2673,7 +2560,119 @@
       "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Synor\"> /u/Synor </a> <br /> <span><a href=\"https://arxiv.org/abs/2601.19139v1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qssxhx/research_vllmmlx_on_apple_silicon_achieves_21_to/\">[comments]</a></span>",
       "extra": {},
       "collected_at": "2026-02-01T18:30:31"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Fri, 16 Jan 2026 14:01:00 GMT",
+      "summary": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-olson\">$100 million offers</a> seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a <a href=\"https://billboardinsider.com/ai-startup/\">billboard in San Francisco</a> displayi",
+      "extra": {},
+      "collected_at": "2026-02-01T22:01:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Good Assistant",
+      "url": "https://www.producthunt.com/products/good-assistant",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your partner for goals that matter </p> <p> <a href=\"https://www.producthunt.com/products/good-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070589?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-01T22:01:11"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Yomio",
+      "url": "https://www.producthunt.com/products/yomio",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turns expenses into the spending truth your bank won’t show. </p> <p> <a href=\"https://www.producthunt.com/products/yomio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1043298?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-01T22:01:11"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "AykutSarac/jsoncrack.com",
+      "url": "https://github.com/AykutSarac/jsoncrack.com",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+      "extra": {
+        "stars_today": "38 stars today"
+      },
+      "collected_at": "2026-02-01T22:01:13"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "extra": {
+        "stars_today": "36 stars today"
+      },
+      "collected_at": "2026-02-01T22:01:13"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A feature-rich command-line audio/video downloader",
+      "extra": {
+        "stars_today": "176 stars today"
+      },
+      "collected_at": "2026-02-01T22:01:13"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Falcon-H1-Tiny (90M) is out - specialized micro-models that actually work",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsx51z/falconh1tiny_90m_is_out_specialized_micromodels/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-02-01T12:25:04+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>TII just dropped Falcon-H1-Tiny - a series of sub-100M models that quietly challenge the scaling dogma. We've all suspected that narrow, specialized smal models tend to hallucinate less than giant generalists. After all, a 90M parameter model has far less internal &quot;room&quot; to drift off-topic or invent facts outside its training scope. But this release <em>proves</em> it with numbers - and flips the script on how we think about capability at tiny scales.<",
+      "extra": {},
+      "collected_at": "2026-02-01T22:01:15"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "some uncensored models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsvgsh/some_uncensored_models/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-01T10:53:41+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Since there haven’t been any (major) new local model releases lately, let’s check what uncensored models are available on Hugging Face. There are different abliteration methods, so varioud models can behave quite differently. Unfortunately, I can’t find any Nemotron-3 Nano variants.</p> <p>Which one do you use?</p> <p>GLM 4.7 Flash</p> <p><a href=\"https://huggingface.co/DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF\">https://huggingface.co/Da",
+      "extra": {},
+      "collected_at": "2026-02-01T22:01:15"
     }
   ],
-  "updated_at": "2026-02-01T18:30:31.993774+09:00"
+  "updated_at": "2026-02-01T22:01:15.051929+09:00"
 }
