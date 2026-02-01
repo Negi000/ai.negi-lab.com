@@ -1357,6 +1357,8 @@ class ArticleResult:
     body: str
     description: Optional[str] = None  # 3行要約から抽出したdescription
     hook_text: Optional[str] = None  # X投稿用のフック文（40文字以内）
+    summary_text: Optional[str] = None  # X投稿用の3行要約（60文字以内）
+    question_text: Optional[str] = None  # X投稿用の質問文（25文字以内）
     shopping_keyword: Optional[str] = None
     viral_tags: Optional[str] = None  # "#タグ1 #タグ2" 形式
 
@@ -1433,9 +1435,10 @@ class ArticleGenerator:
 {f"- 要約: {item.summary}" if item.summary else ""}
 
 【指示】
-速報ニュース記事を書いてください。
-- 何が発表されたか
+速報ニュース記事を書いてください。**本文は3000〜4000文字程度**で詳しく解説すること。
+- 何が発表されたか（詳細に）
 - 競合（ChatGPT, Claude等）との違いは何か
+- 技術的な仕組みや背景
 - 業界への影響を論理的に解説
 - 一人称は「私」を使い、読者に語りかける口調で
 
@@ -1451,7 +1454,11 @@ class ArticleGenerator:
 
 ## 何が発表されたのか
 
-（詳細な解説）
+（詳細な解説。背景や経緯も含めて500文字以上）
+
+## 技術的なポイント
+
+（技術的な仕組みや特徴を詳しく解説。500文字以上）
 
 ## 競合との比較
 
@@ -1459,28 +1466,40 @@ class ArticleGenerator:
 |------|-----------|---------|--------|
 | ... | ... | ... | ... |
 
+（表の後に各項目の詳細解説を追加。300文字以上）
+
 ## 業界への影響
 
-（論理的な分析）
+（短期的・長期的な影響を論理的に分析。500文字以上）
 
 ## 私の見解
 
-（「ねぎ」としての率直な感想。「正直なところ〜」「個人的には〜」などの表現を使う）
+（「ねぎ」としての率直な感想。「正直なところ〜」「個人的には〜」などの表現を使い、300文字以上で深掘り）
 
 ---
 ### 【重要】メタデータ出力
 記事執筆後、以下を記事の末尾に追記してください。
 
 **1. X投稿用フック文 (HOOK)**
-読者の興味を惹く40文字以内の一言。感情を込めて、体験談風に。
+「続きを読みたくなる」ような40文字以内の一言。感情を込めて、体験談風に。
 - 例: 「これは開発者泣かせかも...🤔」「待ってた機能がついに来た！」
 - フォーマット: `[HOOK: フック文]`
 
-**2. 商品検索キーワード (SHOPPING)**
+**2. X投稿用3行要約 (SUMMARY)**
+記事の要点を3つの箇条書きで60文字以内にまとめる。
+- 例: 「・精度92%達成\n・処理速度3倍\n・料金据置」
+- フォーマット: `[SUMMARY: ・要点1\n・要点2\n・要点3]`
+
+**3. X投稿用質問文 (QUESTION)**
+読者にリプライを促す質問。25文字以内。
+- 例: 「みんなはどう思う？🤔」「使ってみた人いる？」
+- フォーマット: `[QUESTION: 質問文]`
+
+**4. 商品検索キーワード (SHOPPING)**
 2〜3単語の組み合わせ（例: "MacBook Air M3"）
 - フォーマット: `[SHOPPING: キーワード]`
 
-**3. SNS拡散用ハッシュタグ (HASHTAGS)**
+**5. SNS拡散用ハッシュタグ (HASHTAGS)**
 ニッチなタグを2つ（#AI, #生成AI のようなビッグワードは禁止）
 - 良い例: #プログラミング初心者 #個人開発 #業務効率化 #Python学習中
 - フォーマット: `[HASHTAGS: #タグ1 #タグ2]`
@@ -1511,7 +1530,7 @@ class ArticleGenerator:
 {stars_info}
 
 【指示】
-「検証シミュレーション」を含むツールレビュー記事を書いてください。
+「検証シミュレーション」を含むツールレビュー記事を書いてください。**本文は3000〜5000文字程度**で詳しく解説すること。
 実際にそのツールをインストールして動かしたと仮定し、以下を含めること：
 - 具体的なPythonコード例（動作する風のコード）
 - 実行結果の例（架空でOK）
@@ -1532,7 +1551,11 @@ class ArticleGenerator:
 
 ## このツールは何か
 
-（概要説明）
+（概要説明。開発背景や特徴を含めて400文字以上）
+
+## なぜ注目されているのか
+
+（技術的な特徴や競合との違い。300文字以上）
 
 ## 検証シミュレーション：実際に使ってみた
 
@@ -1559,32 +1582,53 @@ print(result)
 （架空の出力例）
 ```
 
+### 応用例
+
+（より実践的な使い方の例を追加）
+
 ## メリット・デメリット
 
 ### メリット
 - ...
+- ...
+- ...
 
 ### デメリット
 - ...
+- ...
+
+## どんな人におすすめか
+
+（ターゲットユーザーとユースケースを具体的に）
 
 ## 私の評価
 
-（「ねぎ」としての率直な評価。星評価: ★★★☆☆ のような形式も可。「正直なところ〜」「個人的には〜」などの表現を使う）
+（「ねぎ」としての率直な評価。星評価: ★★★☆☆ のような形式も可。「正直なところ〜」「個人的には〜」などの表現を使い、300文字以上で深堀り）
 
 ---
 ### 【重要】メタデータ出力
 記事執筆後、以下を記事の末尾に追記してください。
 
 **1. X投稿用フック文 (HOOK)**
-読者の興味を惹く40文字以内の一言。感情を込めて、体験談風に。
+「続きを読みたくなる」ような40文字以内の一言。感情を込めて、体験談風に。
 - 例: 「このツール、予想以上に使えるかも...！」「待ってたやつ来た！」
 - フォーマット: `[HOOK: フック文]`
 
-**2. 商品検索キーワード (SHOPPING)**
+**2. X投稿用3行要約 (SUMMARY)**
+記事の要点を3つの箇条書きで60文字以内にまとめる。
+- 例: 「・インストール簡単\n・無料で使える\n・日本語対応」
+- フォーマット: `[SUMMARY: ・要点1\n・要点2\n・要点3]`
+
+**3. X投稿用質問文 (QUESTION)**
+読者にリプライを促す質問。25文字以内。
+- 例: 「使ってみた人いる？」「どう思う？🤔」
+- フォーマット: `[QUESTION: 質問文]`
+
+**4. 商品検索キーワード (SHOPPING)**
 2〜3単語の組み合わせ（例: "RTX 4090", "Raspberry Pi 5"）
 - フォーマット: `[SHOPPING: キーワード]`
 
-**3. SNS拡散用ハッシュタグ (HASHTAGS)**
+**5. SNS拡散用ハッシュタグ (HASHTAGS)**
 ニッチなタグを2つ（#AI, #生成AI のようなビッグワードは禁止）
 - 良い例: #個人開発 #エンジニア #業務効率化 #開発ツール
 - フォーマット: `[HASHTAGS: #タグ1 #タグ2]`
@@ -1615,7 +1659,7 @@ print(result)
 {topic_info}
 
 【指示】
-チュートリアル形式のガイド記事を書いてください。
+チュートリアル形式のガイド記事を書いてください。**本文は3000〜5000文字程度**で詳しく解説すること。
 「〜する方法」「エラー回避手順」など、読者が手元で試せるステップバイステップの手順書として書くこと。
 - 具体的なコマンド例
 - コード例
@@ -1639,11 +1683,17 @@ print(result)
 - 必要なもの1
 - 必要なもの2
 
+## なぜこの知識が重要なのか
+
+（背景説明や実務での活用シーン。300文字以上）
+
 ## Step 1: 環境準備
 
 ```bash
 # コマンド例
 ```
+
+（各コマンドの詳細な説明）
 
 ## Step 2: 基本設定
 
@@ -1651,9 +1701,15 @@ print(result)
 # 設定コード例
 ```
 
+（設定の意味や注意点を詳しく解説）
+
 ## Step 3: 実行と確認
 
-（手順の説明）
+（手順の説明と期待される結果）
+
+## Step 4: 応用テクニック
+
+（発展的な使い方やカスタマイズ方法）
 
 ## よくあるエラーと対処法
 
@@ -1663,26 +1719,45 @@ print(result)
 エラーメッセージ例
 ```
 
+**原因:** ...
 **解決策:** ...
+
+### エラー2: yyy
+
+（複数のエラーパターンを網羅）
+
+## ベストプラクティス
+
+（実務で役立つTipsやおすすめの設定）
 
 ## まとめ
 
-（「ねぎ」としての締めの言葉。「いかがでしたか？」「ぜひ試してみてくださいね」など）
+（「ねぎ」としての締めの言葉。「いかがでしたか？」「ぜひ試してみてくださいね」など。300文字以上）
 
 ---
 ### 【重要】メタデータ出力
 記事執筆後、以下を記事の末尾に追記してください。
 
 **1. X投稿用フック文 (HOOK)**
-読者の興味を惹く40文字以内の一言。感情を込めて、体験談風に。
+「続きを読みたくなる」ような40文字以内の一言。感情を込めて、体験談風に。
 - 例: 「このエラー、私も何度もハマった...」「初心者がつまずきやすいポイントまとめました」
 - フォーマット: `[HOOK: フック文]`
 
-**2. 商品検索キーワード (SHOPPING)**
+**2. X投稿用3行要約 (SUMMARY)**
+記事の要点を3つの箇条書きで60文字以内にまとめる。
+- 例: 「・環境構築が簡単に\n・エラー対処法も紹介\n・コピペで動く」
+- フォーマット: `[SUMMARY: ・要点1\n・要点2\n・要点3]`
+
+**3. X投稿用質問文 (QUESTION)**
+読者にリプライを促す質問。25文字以内。
+- 例: 「同じエラーで困った人いる？」「他にも知りたいこと教えて」
+- フォーマット: `[QUESTION: 質問文]`
+
+**4. 商品検索キーワード (SHOPPING)**
 2〜3単語の組み合わせ（例: "機械学習 入門書"）
 - フォーマット: `[SHOPPING: キーワード]`
 
-**3. SNS拡散用ハッシュタグ (HASHTAGS)**
+**5. SNS拡散用ハッシュタグ (HASHTAGS)**
 ニッチなタグを2つ（#AI, #生成AI のようなビッグワードは禁止）
 - 良い例: #プログラミング初心者 #Python学習中 #駆け出しエンジニアと繋がりたい
 - フォーマット: `[HASHTAGS: #タグ1 #タグ2]`
@@ -1719,7 +1794,7 @@ print(result)
             body = "(本文生成に失敗しました)"
 
         # カテゴリーに応じたアフィリエイト最適化とメタデータ抽出
-        body, shopping_keyword, viral_tags, hook_text = self._extract_keywords_and_add_affiliate(body, category)
+        body, shopping_keyword, viral_tags, hook_text, summary_text, question_text = self._extract_keywords_and_add_affiliate(body, category)
         
         # 3行要約からdescriptionを抽出
         description = self._extract_description(body)
@@ -1729,6 +1804,8 @@ print(result)
             body=body,
             description=description,
             hook_text=hook_text,
+            summary_text=summary_text,
+            question_text=question_text,
             shopping_keyword=shopping_keyword,
             viral_tags=viral_tags,
         )
@@ -1767,9 +1844,9 @@ print(result)
         
         return None
 
-    def _extract_keywords_and_add_affiliate(self, body: str, category: Category = Category.NEWS) -> Tuple[str, Optional[str], Optional[str], Optional[str]]:
+    def _extract_keywords_and_add_affiliate(self, body: str, category: Category = Category.NEWS) -> Tuple[str, Optional[str], Optional[str], Optional[str], Optional[str], Optional[str]]:
         """
-        本文から[SHOPPING: xxx]、[HASHTAGS: xxx]、[HOOK: xxx]を抽出し、
+        本文から[SHOPPING: xxx]、[HASHTAGS: xxx]、[HOOK: xxx]、[SUMMARY: xxx]、[QUESTION: xxx]を抽出し、
         カテゴリーに応じたアフィリエイトリンクを追加。
         
         Args:
@@ -1777,7 +1854,7 @@ print(result)
             category: 記事カテゴリー（NEWS/TOOL/GUIDE）
         
         Returns:
-            (処理済み本文, shopping_keyword, viral_tags, hook_text)
+            (処理済み本文, shopping_keyword, viral_tags, hook_text, summary_text, question_text)
         """
         # 0. Hook Text 抽出（X投稿用フック文）
         hook_pattern = r'\[HOOK:\s*(.+?)\]'
@@ -1786,6 +1863,22 @@ print(result)
         if hook_match:
             hook_text = hook_match.group(1).strip()
             body = re.sub(r'\n*\[HOOK:[^\]]+\]\n*', '\n', body)
+        
+        # 0.5. Summary Text 抽出（X投稿用3行要約）
+        summary_pattern = r'\[SUMMARY:\s*(.+?)\]'
+        summary_match = re.search(summary_pattern, body, re.DOTALL)
+        summary_text = None
+        if summary_match:
+            summary_text = summary_match.group(1).strip()
+            body = re.sub(r'\n*\[SUMMARY:[^\]]+\]\n*', '\n', body)
+        
+        # 0.6. Question Text 抽出（X投稿用質問文）
+        question_pattern = r'\[QUESTION:\s*(.+?)\]'
+        question_match = re.search(question_pattern, body)
+        question_text = None
+        if question_match:
+            question_text = question_match.group(1).strip()
+            body = re.sub(r'\n*\[QUESTION:[^\]]+\]\n*', '\n', body)
         
         # 1. Shopping Keyword 抽出
         shopping_pattern = r'\[SHOPPING:\s*(.+?)\]'
@@ -1817,7 +1910,7 @@ print(result)
         # 6. カテゴリーに応じたアフィリエイト挿入
         body = self._insert_smart_affiliate(body, category, shopping_keyword)
         
-        return body, shopping_keyword, viral_tags, hook_text
+        return body, shopping_keyword, viral_tags, hook_text, summary_text, question_text
 
     def _detect_content_topics(self, text: str) -> List[str]:
         """本文からトピックを検出し、マッチする商品カテゴリーを返す"""
@@ -2030,9 +2123,13 @@ print(result)
         return f"https://www.amazon.co.jp/s?k={encoded}&tag={AMAZON_ASSOCIATE_TAG}"
 
     def _make_rakuten_url(self, keyword: str) -> str:
-        """楽天アフィリエイトリンクを生成"""
-        encoded = quote(keyword, safe="")
-        return f"https://search.rakuten.co.jp/search/mall/{encoded}/?scid={RAKUTEN_AFFILIATE_ID}"
+        """楽天アフィリエイトリンクを生成（hb.afl.rakuten.co.jp経由）"""
+        # 楽天市場の検索ページURL
+        search_url = f"https://search.rakuten.co.jp/search/mall/{quote(keyword, safe='')}/"
+        # アフィリエイトリンク変換（hb.afl.rakuten.co.jp経由）
+        # pc: PCサイトURL, m: モバイルサイトURL (同じURLを使用)
+        encoded_url = quote(search_url, safe='')
+        return f"https://hb.afl.rakuten.co.jp/hgc/{RAKUTEN_AFFILIATE_ID}/?pc={encoded_url}&m={encoded_url}"
 
     def _generate_affiliate_links(self, keyword: str) -> str:
         """
@@ -2041,7 +2138,10 @@ print(result)
         encoded_keyword = quote(keyword, safe="")
         
         amazon_url = f"https://www.amazon.co.jp/s?k={encoded_keyword}&tag={AMAZON_ASSOCIATE_TAG}"
-        rakuten_url = f"https://search.rakuten.co.jp/search/mall/{encoded_keyword}/?scid={RAKUTEN_AFFILIATE_ID}"
+        # 楽天アフィリエイトリンク（hb.afl.rakuten.co.jp経由）
+        rakuten_search_url = f"https://search.rakuten.co.jp/search/mall/{encoded_keyword}/"
+        rakuten_encoded = quote(rakuten_search_url, safe='')
+        rakuten_url = f"https://hb.afl.rakuten.co.jp/hgc/{RAKUTEN_AFFILIATE_ID}/?pc={rakuten_encoded}&m={rakuten_encoded}"
         
         # Markdown + インラインCSS でボタン風リンクを生成
         affiliate_html = f'''
@@ -2242,28 +2342,30 @@ class TwitterPoster:
         category: Category,
         viral_tags: Optional[str] = None,
         hook_text: Optional[str] = None,
+        summary_text: Optional[str] = None,
+        question_text: Optional[str] = None,
     ) -> bool:
         """
-        記事をTwitterに投稿する（URLのみ、Twitterカードで画像表示）。
+        記事をTwitterにスレッド形式で投稿する（メイン + リプライ）。
+        
+        滞在時間を増やすため、2ツイートで構成：
+        - メイン: フック + 要点 + ハッシュタグ + 「↓」
+        - リプライ: 感想 + URL + 質問（リプライ誘発）
 
         Args:
             title: 記事タイトル
             url: 記事のURL (Twitterカードで自動的にOGP画像が表示される)
             category: 記事カテゴリー
             viral_tags: Geminiが選んだSNS拡散用ハッシュタグ（例: "#自作PC #ゲーミング"）
-            hook_text: 冒頭のフック文（感情を込めた一言）
+            hook_text: 冒頭のフック文（続きを読みたくなる一言）
+            summary_text: 3行要点（箇条書き、各行20文字以内）
+            question_text: リプライ誘発の質問文
 
         Returns:
             投稿成功時True
         """
         try:
-            # タイトルを短縮（60文字制限 - フック文があるため短めに）
-            max_title_len = 60
-            short_title = title[:max_title_len] + "..." if len(title) > max_title_len else title
-
-            # ハッシュタグ構成
-            # 1. Geminiが選んだニッチタグ（#AI, #生成AI などビッグワードは除外）
-            # 2. 固定タグ（#個人開発, #エンジニア）を追加
+            # ===== ハッシュタグ構成 =====
             tags_list = []
             
             if viral_tags:
@@ -2283,31 +2385,78 @@ class TwitterPoster:
                         if len(tags_list) >= 2:
                             break
             
-            # 固定タグを追加（最大4タグ）
+            # 固定タグを追加（最大3タグに制限 - スレッド形式で文字数節約）
             for fixed_tag in FIXED_HASHTAGS:
-                if fixed_tag not in tags_list and len(tags_list) < 4:
+                if fixed_tag not in tags_list and len(tags_list) < 3:
                     tags_list.append(fixed_tag)
             
-            tag_str = ' '.join(tags_list[:4])  # 最大4タグ
+            tag_str = ' '.join(tags_list[:3])
 
-            # ツイート本文を構成
-            # フック文があれば冒頭に、なければカテゴリー別のデフォルトフック
+            # ===== フック文 =====
             if hook_text:
                 hook = hook_text
             else:
-                # カテゴリー別デフォルトフック
                 default_hooks = {
                     Category.NEWS: "これ、チェックしておいた方がいいかも👀",
                     Category.TOOL: "このツール、使ってみたらなかなか良かった！",
                     Category.GUIDE: "初心者がつまずきやすいポイント、まとめました📝",
                 }
                 hook = default_hooks.get(category, "要チェックです！")
-            
-            # 投稿フォーマット（人間らしさを重視）
-            tweet_text = f"{hook}\n\n{short_title}\n\n{url}\n\n{tag_str}"
 
-            # テキストのみで投稿（URLからTwitterカードが生成される）
-            self.client.create_tweet(text=tweet_text)
+            # ===== 要点サマリー =====
+            if summary_text:
+                # 「・」で始まる箇条書きを改行で結合
+                summary = summary_text.strip()
+            else:
+                # フォールバック: タイトルを要約として使用
+                max_title_len = 50
+                summary = title[:max_title_len] + "..." if len(title) > max_title_len else title
+
+            # ===== メインツイート構成（140文字以内目標） =====
+            # フォーマット: フック + 要点 + ハッシュタグ + ↓
+            main_tweet = f"{hook}\n\n{summary}\n\n{tag_str}\n↓"
+            
+            # 文字数チェック（280文字制限だが、日本語は140文字目安）
+            if len(main_tweet) > 270:
+                # 要点を短縮
+                summary_lines = summary.split('\n')
+                if len(summary_lines) > 2:
+                    summary = '\n'.join(summary_lines[:2])
+                main_tweet = f"{hook}\n\n{summary}\n\n{tag_str}\n↓"
+
+            # ===== リプライツイート構成 =====
+            # カテゴリー別の感想フレーズ
+            category_comments = {
+                Category.NEWS: "実際に触ってみた感想も書いてます。",
+                Category.TOOL: "使い方のコツも紹介してるので参考にどうぞ！",
+                Category.GUIDE: "初心者でも分かるように解説してます。",
+            }
+            comment = category_comments.get(category, "詳しくはブログで！")
+            
+            # 質問文（リプライ誘発）
+            if question_text:
+                question = question_text.strip()
+            else:
+                default_questions = {
+                    Category.NEWS: "みんなはどう思う？",
+                    Category.TOOL: "使ったことある人いる？",
+                    Category.GUIDE: "他に知りたいことある？",
+                }
+                question = default_questions.get(category, "感想聞かせて！")
+
+            # リプライフォーマット: 感想 + URL + 質問
+            reply_tweet = f"{comment}\n\n{url}\n\n{question}"
+
+            # ===== ツイート投稿（スレッド形式） =====
+            # 1. メインツイートを投稿
+            main_response = self.client.create_tweet(text=main_tweet)
+            main_tweet_id = main_response.data['id']
+            
+            # 2. リプライツイートを投稿（メインに返信）
+            self.client.create_tweet(
+                text=reply_tweet,
+                in_reply_to_tweet_id=main_tweet_id
+            )
 
             return True
 
@@ -2398,6 +2547,8 @@ class TwitterQueueItem:
     category: str  # "NEWS", "TOOL", "GUIDE"
     viral_tags: Optional[str]
     hook_text: Optional[str]  # X投稿用フック文
+    summary_text: Optional[str]  # X投稿用要点サマリー
+    question_text: Optional[str]  # X投稿用リプライ誘発質問
     created_at: str
 
 
@@ -2429,6 +2580,8 @@ class TwitterPostingQueue:
             "category": item.category,
             "viral_tags": item.viral_tags,
             "hook_text": item.hook_text,
+            "summary_text": item.summary_text,
+            "question_text": item.question_text,
             "created_at": item.created_at,
             "posted": False,
         })
@@ -2515,6 +2668,9 @@ def post_single_article_to_twitter(article_id: str) -> int:
             url=item["url"],
             category=category,
             viral_tags=item.get("viral_tags"),
+            hook_text=item.get("hook_text"),
+            summary_text=item.get("summary_text"),
+            question_text=item.get("question_text"),
         )
 
         if success:
@@ -2601,6 +2757,8 @@ def post_all_pending_to_twitter() -> int:
             category=category,
             viral_tags=item.get("viral_tags"),
             hook_text=item.get("hook_text"),
+            summary_text=item.get("summary_text"),
+            question_text=item.get("question_text"),
         ):
             queue.mark_posted(item["article_id"])
             print(f"  ✓ Posted!")
@@ -3197,6 +3355,8 @@ def main() -> int:
                 category=item.category.value,
                 viral_tags=result.viral_tags,
                 hook_text=result.hook_text,
+                summary_text=result.summary_text,
+                question_text=result.question_text,
                 created_at=now_jst.isoformat(),
             ))
             print(f"    Queued for X posting: {article_id}")
@@ -3209,9 +3369,11 @@ def main() -> int:
                     category=item.category,
                     viral_tags=result.viral_tags,
                     hook_text=result.hook_text,
+                    summary_text=result.summary_text,
+                    question_text=result.question_text,
                 ):
                     twitter_queue.mark_posted(article_id)
-                    print(f"  ✓ Posted to X (Twitter Card)")
+                    print(f"  ✓ Posted to X (Thread style)")
                     twitter_success += 1
                 else:
                     print(f"  ✗ X post failed (queued for later)")
