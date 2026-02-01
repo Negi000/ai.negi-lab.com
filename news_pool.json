@@ -1,61 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
-      "url": "https://arxiv.org/abs/2601.05047",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 25 Jan 2026 02:48:36 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-01-25T18:21:48"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Forums",
-      "url": "https://www.producthunt.com/products/basehub",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI-powered Q&amp;A for GitHub repositories. </p> <p> <a href=\"https://www.producthunt.com/products/basehub?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/999623?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-25T18:21:50"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Distilling Gemini 3 Flash visual reasoning into Qwen 3 VL 32B for synthetic captioning. Is SFT enough?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qmbevn/distilling_gemini_3_flash_visual_reasoning_into/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-25T06:22:22+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qmbevn/distilling_gemini_3_flash_visual_reasoning_into/\"> <img alt=\"Distilling Gemini 3 Flash visual reasoning into Qwen 3 VL 32B for synthetic captioning. Is SFT enough?\" src=\"https://preview.redd.it/r0ec0m21vffg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=275f52d7dfb944441f74dea25d60f8c3e620a766\" title=\"Distilling Gemini 3 Flash visual reasoning into Qwen 3 VL 32B for synthetic captioning. Is SFT enough?\" /> </a> </",
-      "extra": {},
-      "collected_at": "2026-01-25T18:21:52"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Has anyone got GLM 4.7 flash to not be shit?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qmdf2a/has_anyone_got_glm_47_flash_to_not_be_shit/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-25T08:14:08+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Real talk. I feel like everyday I'm downloading a new quant and trying it out and not once have I got it to consistently work without looping.</p> <p>I've tried with and without the suggested settings from unsloth, <a href=\"http://z.ai\">z.ai</a>, and others, to no avail.</p> <p>Additionally, this has to be the slowest inference I've ever seen from a 30B A3B model. In all fairness, my only point of reference is Qwen3 Coder, but compared to that at least, the toke",
-      "extra": {},
-      "collected_at": "2026-01-25T18:21:52"
-    },
-    {
       "source": "GitHub Trending",
       "title": "hyprwm/Hyprland",
       "url": "https://github.com/hyprwm/Hyprland",
@@ -2528,19 +2473,6 @@
       "collected_at": "2026-02-01T02:24:09"
     },
     {
-      "source": "The Verge AI",
-      "title": "SpaceX wants to put 1 million solar-powered data centers into orbit",
-      "url": "https://www.theverge.com/tech/871641/spacex-fcc-1-million-solar-powered-data-centers-satellites-orbit",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-01-31T14:38:36-05:00",
-      "summary": "SpaceX filed a request with the FCC on Friday seeking approval to put a constellation of 1 million data center satellites into orbit. While the FCC is unlikely to approve a network that expansive, SpaceX's strategy has been to request approval for unrealistically large numbers of satellites as a starting point for negotiations. The filing [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-02-01T08:27:25"
-    },
-    {
       "source": "Product Hunt",
       "title": "Geekflare API",
       "url": "https://www.producthunt.com/products/geekflare-api",
@@ -2647,7 +2579,101 @@
       "summary": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>",
       "extra": {},
       "collected_at": "2026-02-01T15:54:32"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "Mon, 19 Jan 2026 14:00:00 GMT",
+      "summary": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its <a href=\"https://claude.com/pricing\">pricing</a> — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims",
+      "extra": {},
+      "collected_at": "2026-02-01T18:30:27"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Compressor",
+      "url": "https://www.producthunt.com/products/compressor-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The fastest video compressor for Android. </p> <p> <a href=\"https://www.producthunt.com/products/compressor-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071023?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-01T18:30:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Hyta",
+      "url": "https://www.producthunt.com/products/hyta",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The home of the AI training force </p> <p> <a href=\"https://www.producthunt.com/products/hyta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070186?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-01T18:30:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Dottie",
+      "url": "https://www.producthunt.com/products/dottie",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Private AI Journal </p> <p> <a href=\"https://www.producthunt.com/products/dottie?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070344?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-01T18:30:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Reavion",
+      "url": "https://www.producthunt.com/products/reavion",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Autonomous browser agents for outbound and GTM execution </p> <p> <a href=\"https://www.producthunt.com/products/reavion?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1056377?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-01T18:30:29"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Can 4chan data REALLY improve a model? TURNS OUT IT CAN!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsrscu/can_4chan_data_really_improve_a_model_turns_out/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-02-01T07:20:46+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qsrscu/can_4chan_data_really_improve_a_model_turns_out/\"> <img alt=\"Can 4chan data REALLY improve a model? TURNS OUT IT CAN!\" src=\"https://a.thumbs.redditmedia.com/kH2rOREckIffGxPYl8Dxt7JwePnVvjX39wCJzfAooO0.jpg\" title=\"Can 4chan data REALLY improve a model? TURNS OUT IT CAN!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hear me out, no one (really) knows how these things work.</p> <p>A few days ago, I released <a hre",
+      "extra": {},
+      "collected_at": "2026-02-01T18:30:31"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Research: vllm-mlx on Apple Silicon achieves 21% to 87% higher throughput than llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qssxhx/research_vllmmlx_on_apple_silicon_achieves_21_to/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-01T08:26:21+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Synor\"> /u/Synor </a> <br /> <span><a href=\"https://arxiv.org/abs/2601.19139v1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qssxhx/research_vllmmlx_on_apple_silicon_achieves_21_to/\">[comments]</a></span>",
+      "extra": {},
+      "collected_at": "2026-02-01T18:30:31"
     }
   ],
-  "updated_at": "2026-02-01T15:54:37.427029+09:00"
+  "updated_at": "2026-02-01T18:30:31.993774+09:00"
 }
