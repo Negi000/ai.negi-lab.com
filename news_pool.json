@@ -1,154 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
-      "url": "https://tetrisbench.com/tetrisbench/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 26 Jan 2026 18:42:40 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-01-27T08:27:44"
-    },
-    {
-      "source": "Google News",
-      "title": "絶好調のNVIDIA、だが本当にGPUは生成AIと相性がよいのか - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IYldpVUVOOG1tWFVTSVpoVk9xWnFYZEtMQVRfaU1hTU16ZVRnZUFKd2lnbnhTWWhIOGkyeUtjaWR0SlZYOEN6MUF2TGRRSklGQlRnMFJSbElqWmVQeWdFMEJmekRZMVM0cy04SQ?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 26 Jan 2026 20:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9IYldpVUVOOG1tWFVTSVpoVk9xWnFYZEtMQVRfaU1hTU16ZVRnZUFKd2lnbnhTWWhIOGkyeUtjaWR0SlZYOEN6MUF2TGRRSklGQlRnMFJSbElqWmVQeWdFMEJmekRZMVM0cy04SQ?oc=5\" target=\"_blank\">絶好調のNVIDIA、だが本当にGPUは生成AIと相性がよいのか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
-      "extra": {},
-      "collected_at": "2026-01-27T08:27:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "APX Terminal",
-      "url": "https://www.producthunt.com/products/apx-terminal-the-terminal-perfected",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Encrypted terminal and SSH client with built‑in AI assistant </p> <p> <a href=\"https://www.producthunt.com/products/apx-terminal-the-terminal-perfected?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1067782?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-27T08:27:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "HeyTraders",
-      "url": "https://www.producthunt.com/products/heytraders",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Personal AI quant research & backtest with natural language </p> <p> <a href=\"https://www.producthunt.com/products/heytraders?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1067602?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-27T08:27:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "PingPolls v1.0",
-      "url": "https://www.producthunt.com/products/pingpolls",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI Forms that feel natural, not just conversational. </p> <p> <a href=\"https://www.producthunt.com/products/pingpolls?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1064985?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-27T08:27:46"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "transformers v5 final is out 🔥",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qnk7fq/transformers_v5_final_is_out/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-26T16:07:40+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey folks, it's Merve from Hugging Face 👋🏻</p> <p>We've finally released the first stable release of transformers v5 in general audience, it comes with many goodies:</p> <p>- Performance especially for Mixture-of-Experts (6x-11x speedups)</p> <p>- No more slow/fast tokenizers: way simpler API, explicit backends, better performance</p> <p>- dynamic weight loading: way faster, MoE now working with quants, tp, PEFT..</p> <p>We have a migration guide on the main bra",
-      "extra": {},
-      "collected_at": "2026-01-27T08:27:49"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I built a \"hive mind\" for Claude Code - 7 agents sharing memory and talking to each other",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qnjota/i_built_a_hive_mind_for_claude_code_7_agents/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-26T15:49:13+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Been tinkering with multi-agent orchestration and wanted to share what came out of it.</p> <p>**The idea**: Instead of one LLM doing everything, what if specialized agents (coder, tester, reviewer, architect, etc.) could coordinate on tasks, share persistent memory, and pass context between each other?</p> <p>**What it does**:</p> <p>- 7 agent types with different system prompts and capabilities</p> <p>- SQLite + FTS5 for persistent memory (agents remember stuff",
-      "extra": {},
-      "collected_at": "2026-01-27T08:27:49"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "216GB VRAM on the bench. Time to see which combination is best for Local LLM",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qni356/216gb_vram_on_the_bench_time_to_see_which/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-01-26T14:51:22+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qni356/216gb_vram_on_the_bench_time_to_see_which/\"> <img alt=\"216GB VRAM on the bench. Time to see which combination is best for Local LLM\" src=\"https://preview.redd.it/5ilrgdymhpfg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50d4aa5a9a1c01733913ceebe961389be4974b73\" title=\"216GB VRAM on the bench. Time to see which combination is best for Local LLM\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Sencondhand Tesl",
-      "extra": {},
-      "collected_at": "2026-01-27T08:27:49"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I tracked GPU prices across 25 cloud providers and the price differences are insane (V100: $0.05/hr vs $3.06/hr)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qnjsvz/i_tracked_gpu_prices_across_25_cloud_providers/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-26T15:53:22+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been renting cloud GPUs for fine-tuning and got frustrated tab-hopping between providers trying to find the best deal. So I built a tool that scrapes real-time pricing from 25 cloud providers and puts it all in one place.</p> <p>Some findings from the live data right now (Jan 2026):</p> <p><strong>H100 SXM5 80GB:</strong> - Cheapest: $0.80/hr (VERDA) - Most expensive: $11.10/hr (LeaderGPU) - That's a <strong>13.8x price difference</strong> for the exact sam",
-      "extra": {},
-      "collected_at": "2026-01-27T08:27:49"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Minimax Is Teasing M2.2",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qnfegx/minimax_is_teasing_m22/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-26T13:01:21+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qnfegx/minimax_is_teasing_m22/\"> <img alt=\"Minimax Is Teasing M2.2\" src=\"https://preview.redd.it/lpxibm1qyofg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d183271eeec7290655f768c6aae0b1051c595842\" title=\"Minimax Is Teasing M2.2\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>It seems like February is going to be a busy month for Chinese Labs. </p> <p>We have Deepseek v4, Kimi K3 and now MiniMax M2.2 apparently drop",
-      "extra": {},
-      "collected_at": "2026-01-27T08:27:49"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM 4.7 Flash: Huge performance improvement with -kvu",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qnwa33/glm_47_flash_huge_performance_improvement_with_kvu/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-26T23:07:49+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>TLDR; Try passing -kvu to llama.cpp when running GLM 4.7 Flash. </p> <p>On RTX 6000, my tokens per second on a 8K token output rose from 17.7t/s to 100t/s</p> <p>Also, check out the one shot zelda game it made, pretty good for a 30B:<br /> <a href=\"https://talented-fox-j27z.pagedrop.io\">https://talented-fox-j27z.pagedrop.io</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TokenRingAI\"> /u/TokenRingAI </a> <br /> <span><a",
-      "extra": {},
-      "collected_at": "2026-01-27T08:27:49"
-    },
-    {
       "source": "Product Hunt",
       "title": "Reactive Resume v5",
       "url": "https://www.producthunt.com/products/reactive-resume",
@@ -2660,19 +2512,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners",
-      "url": "https://techcrunch.com/2026/02/02/ring-brings-its-search-party-feature-for-finding-lost-dogs-to-non-ring-camera-owners/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 02 Feb 2026 15:33:45 +0000",
-      "summary": "Ring's Search Party feature for finding lost dogs is now available across the U.S. — even if you don't own a Ring camera.",
-      "extra": {},
-      "collected_at": "2026-02-03T02:38:33"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Coalition demands federal Grok ban over nonconsensual sexual content",
       "url": "https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/",
       "primary_category": "NEWS",
@@ -2709,19 +2548,6 @@
       "summary": "",
       "extra": {},
       "collected_at": "2026-02-03T02:38:34"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "moltbook",
-      "url": "https://www.producthunt.com/products/moltbook",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A Social Network for AI Agents </p> <p> <a href=\"https://www.producthunt.com/products/moltbook?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070625?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-03T02:38:36"
     },
     {
       "source": "Product Hunt",
@@ -2775,7 +2601,111 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Here's the HF Repo: <a href=\"http://huggingface.co/stepfun-ai/Step-3.5-Flash-Int4\">http://huggingface.co/stepfun-ai/Step-3.5-Flash-Int4</a> (this is a GGUF repo)</p> <p>I've been running this LLM for about an hour and it has handled all coding tests I've thrown at it in chat mode. IMO this is as good if not better than GLM 4.7, Minimax 2.1 while being much more efficient. Later I will try some agentic coding to see how it performs, but I already have high hopes ",
       "extra": {},
       "collected_at": "2026-02-03T02:38:38"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
+      "url": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 02 Feb 2026 22:21:57 +0000",
+      "summary": "The merger creates the world's most valuable private company, and paves the way for Musk to try and prove out the usefulness of space-based data centers.",
+      "extra": {},
+      "collected_at": "2026-02-03T08:33:07"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "What Snowflake’s deal with OpenAI tells us about the enterprise AI race",
+      "url": "https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 02 Feb 2026 19:09:44 +0000",
+      "summary": "Snowflake is the latest enterprise to sign multi-year deals with multiple AI companies in what could be a sign to come of a future trend.",
+      "extra": {},
+      "collected_at": "2026-02-03T08:33:07"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Firefox will soon let you block all of its generative AI features",
+      "url": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 02 Feb 2026 18:34:45 +0000",
+      "summary": "Starting with Firefox 148 arriving later this month, users will find a new AI controls section within the desktop browser settings.",
+      "extra": {},
+      "collected_at": "2026-02-03T08:33:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Remem AI",
+      "url": "https://www.producthunt.com/products/remem-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI that remembers what matters for you </p> <p> <a href=\"https://www.producthunt.com/products/remem-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071222?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-03T08:33:09"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ask Ellie",
+      "url": "https://www.producthunt.com/products/ask-ellie",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn Slack messages into GitHub, Jira, or Linear tickets </p> <p> <a href=\"https://www.producthunt.com/products/ask-ellie?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1062208?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-03T08:33:09"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM releases OCR model",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qu7jqi/glm_releases_ocr_model/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-02T21:01:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/zai-org/GLM-OCR\">https://huggingface.co/zai-org/GLM-OCR</a></p> <p>Enjoy my friends, looks like a banger! GLM cooking hard! Seems like a 1.4B-ish model (0.9B vision, 0.5B language). Must be super fast.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Mr_Moonsilver\"> /u/Mr_Moonsilver </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qu7jqi/glm_releases_ocr_model/\">[link]<",
+      "extra": {},
+      "collected_at": "2026-02-03T08:33:11"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM-OCR",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qu2z21/glmocr/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-02T18:20:07+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qu2z21/glmocr/\"> <img alt=\"GLM-OCR\" src=\"https://external-preview.redd.it/ln9l9VYiqmiIpjy0J_jvzMtD5AaeFLSsBaVe9XdCQEk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4dc223422c5611f0b16cc93726757f1c90444b4\" title=\"GLM-OCR\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>GLM-OCR is a multimodal OCR model for complex document understanding, built on the GLM-V encoder–decoder architecture. It introduces Multi-Token Predic",
+      "extra": {},
+      "collected_at": "2026-02-03T08:33:11"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Kimi K2.5 Thinking is now the top open-weights model on the Extended NYT Connections benchmark",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qu337m/kimi_k25_thinking_is_now_the_top_openweights/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-02T18:24:12+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qu337m/kimi_k25_thinking_is_now_the_top_openweights/\"> <img alt=\"Kimi K2.5 Thinking is now the top open-weights model on the Extended NYT Connections benchmark\" src=\"https://b.thumbs.redditmedia.com/lXiHCHVYnN-1i7rZTgAmV5ZD6P72uG9N9KolYMvPk0I.jpg\" title=\"Kimi K2.5 Thinking is now the top open-weights model on the Extended NYT Connections benchmark\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>More info: <a href=\"https",
+      "extra": {},
+      "collected_at": "2026-02-03T08:33:11"
     }
   ],
-  "updated_at": "2026-02-03T02:38:38.751346+09:00"
+  "updated_at": "2026-02-03T08:33:11.942304+09:00"
 }
