@@ -2462,19 +2462,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "India offers zero taxes through 2047 to lure global AI workloads",
-      "url": "https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 01 Feb 2026 16:30:00 +0000",
-      "summary": "New Delhi's latest move comes as Amazon, Google, and Microsoft expand data center investments in India.",
-      "extra": {},
-      "collected_at": "2026-02-02T02:25:16"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Bye-bye corporate conglomerates. Hello personal conglomerates.",
       "url": "https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/",
       "primary_category": "NEWS",
@@ -2645,7 +2632,86 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Bonus points if its complex and purely vibe coded</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jazir555\"> /u/jazir555 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qtj87p/whats_the_most_complicated_project_youve_built/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qtj87p/whats_the_most_complicated_project_youve_built/\">[comments]</a></span>",
       "extra": {},
       "collected_at": "2026-02-02T16:06:21"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "These AI notetaking devices can help you record and transcribe your meetings",
+      "url": "https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 02 Feb 2026 08:00:00 +0000",
+      "summary": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
+      "extra": {},
+      "collected_at": "2026-02-02T18:50:22"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ChaChing",
+      "url": "https://www.producthunt.com/products/chaching",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Cut Stripe’s billing fees in half & keep Stripe for payments </p> <p> <a href=\"https://www.producthunt.com/products/chaching?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1067330?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-02T18:50:25"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Menta",
+      "url": "https://www.producthunt.com/products/menta-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Software that runs clinic’s admin, records, + billing w/ AI </p> <p> <a href=\"https://www.producthunt.com/products/menta-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070956?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-02T18:50:25"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Polyvia",
+      "url": "https://www.producthunt.com/products/polyvia",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Queryable visual knowledge index for agents </p> <p> <a href=\"https://www.producthunt.com/products/polyvia?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071269?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-02T18:50:25"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "EasyClaw",
+      "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Easy installer for OpenClaw agents across all your chat apps </p> <p> <a href=\"https://www.producthunt.com/products/dereference-the-100x-ide?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071238?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-02T18:50:25"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Why is RVC still the king of STS after 2 years of silence? Is there a technical plateau?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qtlxnz/why_is_rvc_still_the_king_of_sts_after_2_years_of/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-02-02T05:04:32+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I have been thinking about where Speech to Speech (STS) is heading for music use. RVC has not seen a major update in ages and I find it strange that we are still stuck with it. Even with the best forks like Applio or Mangio, those annoying artifacts and other issues are still present in almost every render.</p> <p>Is it because the research has shifted towards Text to Speech (TTS) or Zero-shot models because they are more commercially viable",
+      "extra": {},
+      "collected_at": "2026-02-02T18:50:28"
     }
   ],
-  "updated_at": "2026-02-02T16:06:21.825940+09:00"
+  "updated_at": "2026-02-02T18:50:28.014747+09:00"
 }
