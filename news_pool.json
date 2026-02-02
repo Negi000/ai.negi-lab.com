@@ -2,46 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Science fiction writers, Comic-Con say goodbye to AI",
-      "url": "https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 25 Jan 2026 21:53:42 +0000",
-      "summary": "Some of the major players in science fiction and pop culture are taking firmer stances against generative AI.",
-      "extra": {},
-      "collected_at": "2026-01-26T13:21:56"
-    },
-    {
-      "source": "Google News",
-      "title": "MIT、AIで3Dモデルをカスタマイズしながら強度を保つ「MechStyle」発表 - FabScene",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcEJrN2w2WFk3QTV2NndsOTNTYTVCbVAyMllaTjV5cXpfU05DTm1QdVZmZjlyU184bDFLNTdwSDlfYmZJYjRUN0NpM3dNQThteUtkektPRFdrd3U5M294bmxJNlpXVlp4QzlGSkZuSmNPSUsyYjV4eW1DQ0U0RWdVUmpvVkVRRk8yOXZ1OXBhZ0NtNlVYUGtlMmJZb21jTXF1RV9MV3NxT0dLdmE3SVMxUndXYk5nbVYwSTltd2M1WVVJeWk4S1l2SXlzaGpfdlYyQ2J5UlpPRl9nOW95b2NyVmdTaU44OXQ5Rk5OVThiY3dDWWtCUkVfek5Ma0I0SThaVWhLcVRQTUfSAY4CQVVfeXFMUEswNlR4VXh4UVF2dXJsUTdGbWtkVDRiblcyM0ljTGJqMlhTWXM3NkpRZkk1QUJqZXdXWUVYdmpJVmxiQS1FMGJDZGFiMVVacTZpbG9LMXVSLXZHRjB1b01peVpRMXJpNWxyRHMtM0hkSzBGeTZ6bVZyTElZMlNMcl9ncElpbjJxY2x6dWhUYXlyR1dFUTE1VmlDRWtVZ1psaUFmNURzQzBDbDBYYkNmVElFRkVjRlhFYWN1QV9DaV9XTElxYWtuaVR6TzVMNlBRSzh0UDlOQUpWazMzS1RVdUppY3BSVXpJamtXdTdqMGUwQ3ZVTk1RUFZxXzh3NWJpakgzMVhOeUJyRER5RHRR?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 26 Jan 2026 04:03:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcEJrN2w2WFk3QTV2NndsOTNTYTVCbVAyMllaTjV5cXpfU05DTm1QdVZmZjlyU184bDFLNTdwSDlfYmZJYjRUN0NpM3dNQThteUtkektPRFdrd3U5M294bmxJNlpXVlp4QzlGSkZuSmNPSUsyYjV4eW1DQ0U0RWdVUmpvVkVRRk8yOXZ1OXBhZ0NtNlVYUGtlMmJZb21jTXF1RV9MV3NxT0dLdmE3SVMxUndXYk5nbVYwSTltd2M1WVVJeWk4S1l2SXlzaGpfdlYyQ2J5UlpPRl9nOW95b2NyVmdTaU44OXQ5Rk5OVThiY3dDWWtCUkVfek5Ma0I0SThaVWhLcVRQTUfSAY4CQVVfeXFMUEswNlR4VXh4UVF2dXJsUTdGbWtkVDRiblcyM0ljTGJqMlhTWXM3NkpRZkk1QUJqZXdXWUVYdmpJVmxiQS",
-      "extra": {},
-      "collected_at": "2026-01-26T13:21:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I reverse-engineered Microsoft AutoGen’s reasoning loop and cut agent latency by 85% (13.4s → 1.6s). Here is the architecture.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qn2n4p/i_reverseengineered_microsoft_autogens_reasoning/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-01-26T01:54:35+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I’ve been building voice agents using AutoGen, and the &quot;awkward silence&quot; during the Chain-of-Thought (CoT) phase was killing the UX. The standard sequential loop (Think → Wait → Execute Tool → Wait → Speak) just doesn't work for real-time interaction.</p> <p>Instead of waiting for a v2 update, I dug into the ConversableAgent class and implemented a module for Speculative Reasoning Execution (SRE).</p> <p><strong>The Core Idea:</stro",
-      "extra": {},
-      "collected_at": "2026-01-26T13:22:01"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Synthesia hits $4B valuation, lets employees cash out",
       "url": "https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/",
       "primary_category": "NEWS",
@@ -2429,19 +2389,6 @@
       "collected_at": "2026-02-01T22:01:11"
     },
     {
-      "source": "Product Hunt",
-      "title": "Yomio",
-      "url": "https://www.producthunt.com/products/yomio",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turns expenses into the spending truth your bank won’t show. </p> <p> <a href=\"https://www.producthunt.com/products/yomio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1043298?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-01T22:01:11"
-    },
-    {
       "source": "GitHub Trending",
       "title": "AykutSarac/jsoncrack.com",
       "url": "https://github.com/AykutSarac/jsoncrack.com",
@@ -2581,19 +2528,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "AI layoffs or ‘AI-washing’?",
-      "url": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 01 Feb 2026 22:15:53 +0000",
-      "summary": "How many of the companies with recent layoffs are just using AI as an excuse?",
-      "extra": {},
-      "collected_at": "2026-02-02T08:29:51"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Why Tether’s CEO is everywhere right now",
       "url": "https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/",
       "primary_category": "NEWS",
@@ -2632,7 +2566,73 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qt9gyf/i_built_a_pentesting_platform_that_lets_ai/\"> <img alt=\"I built a pentesting platform that lets AI control 400+ hacking tools\" src=\"https://external-preview.redd.it/MmhocXdobTl5eGdnMS7Ny9qzMAmuinIQRg---a-6I7vN05-3-TDw6Gj1XVF3.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e0dd22cb6593dff42a1b197f8e3eb8049aa617e\" title=\"I built a pentesting platform that lets AI control 400+ hacking tools\" /> </a> </td><td> <!-- SC_",
       "extra": {},
       "collected_at": "2026-02-02T08:29:57"
+    },
+    {
+      "source": "r/MachineLearning",
+      "title": "[D] Self-Promotion Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1qtjnbc/d_selfpromotion_thread/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-02T03:15:21+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your personal projects, startups, product placements, collaboration needs, blogs etc.</p> <p>Please mention the payment and pricing requirements for products and services.</p> <p>Please do not post link shorteners, link aggregator websites , or auto-subscribe links.</p> <p>--</p> <p>Any abuse of trust will lead to bans.</p> <p>Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so kee",
+      "extra": {},
+      "collected_at": "2026-02-02T14:06:10"
+    },
+    {
+      "source": "Google News",
+      "title": "税務・監査・CPAチーム向けの最先端AIプラットフォームのAccordance、税務AI基盤を拡張 - AT PARTNERS",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUTBNVUg2ZGRUY0RScEE3QXkwdW4yblVvZkRtUlhXZlVVSWE3U2xZQmxBYVVLNlFhT2I0d0IwZnNWSGpmOWJIM0huUm9URHBXQ01QV3hZam53RlhldGgwOVplRFNQSWVPcEhlTjFuSnhQS05DUDJzQ3pnY3E0THpjSnJRbUowb0t0aFpzNG5vZDlNdk9BX3hxTll1a29ZSldGTXBvM0d3S0hoNVNqVENxRWRDQ3o2MU4yTnptLWhBUXBmeUhid1l4dTRPdnM2NDVGajY4UkZtNVctTVNEZUdF?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Mon, 02 Feb 2026 03:11:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUTBNVUg2ZGRUY0RScEE3QXkwdW4yblVvZkRtUlhXZlVVSWE3U2xZQmxBYVVLNlFhT2I0d0IwZnNWSGpmOWJIM0huUm9URHBXQ01QV3hZam53RlhldGgwOVplRFNQSWVPcEhlTjFuSnhQS05DUDJzQ3pnY3E0THpjSnJRbUowb0t0aFpzNG5vZDlNdk9BX3hxTll1a29ZSldGTXBvM0d3S0hoNVNqVENxRWRDQ3o2MU4yTnptLWhBUXBmeUhid1l4dTRPdnM2NDVGajY4UkZtNVctTVNEZUdF?oc=5\" target=\"_blank\">税務・監査・CPAチーム向けの最先端AIプラットフォームのAccordance、税務AI基盤を拡張</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AT PARTNERS</font>",
+      "extra": {},
+      "collected_at": "2026-02-02T14:06:11"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Step-3.5-Flash (196b/A11b) outperforms GLM-4.7 and DeepSeek v3.2",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qtjhc8/step35flash_196ba11b_outperforms_glm47_and/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-02T03:07:42+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qtjhc8/step35flash_196ba11b_outperforms_glm47_and/\"> <img alt=\"Step-3.5-Flash (196b/A11b) outperforms GLM-4.7 and DeepSeek v3.2\" src=\"https://b.thumbs.redditmedia.com/sBia_JVk3vzY7mBVsXJhMax7j8mOpxC8QNyJrUyazbc.jpg\" title=\"Step-3.5-Flash (196b/A11b) outperforms GLM-4.7 and DeepSeek v3.2\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The newly released Stepfun model Step-3.5-Flash outperforms DeepSeek v3.2 on multiple c",
+      "extra": {},
+      "collected_at": "2026-02-02T14:06:13"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Chill bro it ain't that deep 😭",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qtjx9n/chill_bro_it_aint_that_deep/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-02T03:27:56+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qtjx9n/chill_bro_it_aint_that_deep/\"> <img alt=\"Chill bro it ain't that deep 😭\" src=\"https://preview.redd.it/yyomlbc630hg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=00abefb797a70f9edaf0ed775bc78eb35b01cbee\" title=\"Chill bro it ain't that deep 😭\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>For context, this was the first message and with no system prompt. Lol.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <",
+      "extra": {},
+      "collected_at": "2026-02-02T14:06:13"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Step 3.5 Flash 200B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qtisy5/step_35_flash_200b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-02T02:37:59+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Huggingface: <a href=\"https://huggingface.co/stepfun-ai/Step-3.5-Flash\">https://huggingface.co/stepfun-ai/Step-3.5-Flash</a><br /> News: <a href=\"https://static.stepfun.com/blog/step-3.5-flash/\">https://static.stepfun.com/blog/step-3.5-flash/</a></p> <p>Edit: 196B A11B</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/limoce\"> /u/limoce </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qtisy5/step_35_fl",
+      "extra": {},
+      "collected_at": "2026-02-02T14:06:13"
     }
   ],
-  "updated_at": "2026-02-02T08:29:57.164128+09:00"
+  "updated_at": "2026-02-02T14:06:13.987496+09:00"
 }
