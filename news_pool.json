@@ -2,99 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "A few random notes from Claude coding quite a bit last few weeks",
-      "url": "https://twitter.com/karpathy/status/2015883857489522876",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 26 Jan 2026 21:09:19 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-01-28T08:27:17"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Outtalent",
-      "url": "https://www.producthunt.com/products/outtalent",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Get more interviews. Get better offers. </p> <p> <a href=\"https://www.producthunt.com/products/outtalent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1067748?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-28T08:27:19"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "RedUp.pro",
-      "url": "https://www.producthunt.com/products/redup-pro-pay-as-you-go-reddit-tools",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The Reddit Growth and AI-Infused Market Discovery Platform </p> <p> <a href=\"https://www.producthunt.com/products/redup-pro-pay-as-you-go-reddit-tools?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1067807?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-28T08:27:19"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "[LEAKED] Kimi K2.5’s full system prompt + tools (released <24h ago)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qoml1n/leaked_kimi_k25s_full_system_prompt_tools/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-01-27T18:44:50+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>My first post on LLAMA…</p> <p>Was messing around with Moonshot's new Kimi K2.5 and I think I pulled the whole system prompt + tools lol. (~5k tk)</p> <p>Got hyped I grabbed this so fast cause usually someone posts this stuff way before I get to it</p> <p>Repo: <a href=\"https://github.com/dnnyngyen/kimi-k2.5-prompts-tools\">https://github.com/dnnyngyen/kimi-k2.5-prompts-tools</a></p> <p>Contents:</p> <p>- full system prompt<br /> - all tool schemas + instructions",
-      "extra": {},
-      "collected_at": "2026-01-28T08:27:21"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Kimi K2 Artificial Analysis Score",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qos25i/kimi_k2_artificial_analysis_score/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-01-27T21:58:50+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qos25i/kimi_k2_artificial_analysis_score/\"> <img alt=\"Kimi K2 Artificial Analysis Score\" src=\"https://preview.redd.it/0xqbgnt0syfg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e64564291959092586bed5a52ce15a55c2fad64c\" title=\"Kimi K2 Artificial Analysis Score\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://x.com/i/status/2016250137115557953\">https://x.com/i/status/2016250137115557953</a></p> </div>",
-      "extra": {},
-      "collected_at": "2026-01-28T08:27:21"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Dual RTX PRO 6000 Workstation with 1.15TB RAM. Finally multi-users and long contexts benchmarks. GPU only vs. CPU & GPU inference. Surprising results.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qorbdk/dual_rtx_pro_6000_workstation_with_115tb_ram/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-01-27T21:31:27+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qorbdk/dual_rtx_pro_6000_workstation_with_115tb_ram/\"> <img alt=\"Dual RTX PRO 6000 Workstation with 1.15TB RAM. Finally multi-users and long contexts benchmarks. GPU only vs. CPU &amp; GPU inference. Surprising results.\" src=\"https://b.thumbs.redditmedia.com/eWRvxwIb2VPDDptePsLNamF8MJiBRPWZaLITl4Q7jPs.jpg\" title=\"Dual RTX PRO 6000 Workstation with 1.15TB RAM. Finally multi-users and long contexts benchmarks. GPU only vs. CPU",
-      "extra": {},
-      "collected_at": "2026-01-28T08:27:21"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Benchmark of Qwen3-32B reveals 12x capacity gain at INT4 with only 1.9% accuracy drop",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qonyhc/benchmark_of_qwen332b_reveals_12x_capacity_gain/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-27T19:32:13+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We ran 12,000+ MMLU-Pro questions and 2,000 inference runs to settle the quantization debate. INT4 serves 12x more users than BF16 while keeping 98% accuracy.</p> <p>Benchmarked Qwen3-32B across BF16/FP8/INT8/INT4 on a single H100. The memory savings translate directly to concurrent user capacity. Went from 4 users (BF16) to 47 users (INT4) at 4k context. Full methodology and raw numbers here: <a href=\"https://research.aimultiple.com/llm-quantization/\">https://r",
-      "extra": {},
-      "collected_at": "2026-01-28T08:27:21"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Show HN: I wrapped the Zorks with an LLM",
       "url": "https://infocom.tambo.co/",
       "primary_category": "NEWS",
@@ -2511,19 +2418,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
-      "url": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 03 Feb 2026 17:14:27 +0000",
-      "summary": "This AI doctor is licensed in all 50 states, the startup says. The deal was led by CRV and Kleiner Perkins.",
-      "extra": {},
-      "collected_at": "2026-02-04T02:53:13"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Fitbit founders launch AI platform to help families monitor their health",
       "url": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
       "primary_category": "NEWS",
@@ -2561,19 +2455,6 @@
       "summary": "",
       "extra": {},
       "collected_at": "2026-02-04T02:53:13"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Lightfern for Email",
-      "url": "https://www.producthunt.com/products/lightfern",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The telepathic AI writing tool </p> <p> <a href=\"https://www.producthunt.com/products/lightfern?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068942?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-04T02:53:15"
     },
     {
       "source": "Product Hunt",
@@ -2626,7 +2507,116 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1quxtkj/the_opensource_version_of_suno_is_finally_here/\"> <img alt=\"The open-source version of Suno is finally here: ACE-Step 1.5\" src=\"https://b.thumbs.redditmedia.com/Wc9W0Y1pM9FgVsLGL_nSRSARq7eVx7wAjk_hkOIqGfE.jpg\" title=\"The open-source version of Suno is finally here: ACE-Step 1.5\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>ACE-Step 1.5 is an open-source music model that can generate a full song in about 2 secon",
       "extra": {},
       "collected_at": "2026-02-04T02:53:17"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Intel will start making GPUs, a market dominated by Nvidia",
+      "url": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 03 Feb 2026 21:01:34 +0000",
+      "summary": "Intel has been bulking up a team to focus on this effort and will develop its GPU strategy around customer needs.",
+      "extra": {},
+      "collected_at": "2026-02-04T08:32:19"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
+      "url": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 03 Feb 2026 18:00:00 +0000",
+      "summary": "Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex.",
+      "extra": {},
+      "collected_at": "2026-02-04T08:32:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "SUN",
+      "url": "https://www.producthunt.com/products/sun-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create audio courses and audiobook summaries instantly </p> <p> <a href=\"https://www.producthunt.com/products/sun-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/942860?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-04T08:32:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Grok Imagine 1.0",
+      "url": "https://www.producthunt.com/products/grok-com-beta",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> It’s never been easier to bring your ideas to life. </p> <p> <a href=\"https://www.producthunt.com/products/grok-com-beta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071855?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-04T08:32:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Yavy",
+      "url": "https://www.producthunt.com/products/yavy",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn any website into an MCP server for AI </p> <p> <a href=\"https://www.producthunt.com/products/yavy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1069666?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-04T08:32:21"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "ACE-Step-1.5 has just been released. It’s an MIT-licensed open source audio generative model with performance close to commercial platforms like Suno",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1quzwjf/acestep15_has_just_been_released_its_an/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-03T18:26:58+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1quzwjf/acestep15_has_just_been_released_its_an/\"> <img alt=\"ACE-Step-1.5 has just been released. It’s an MIT-licensed open source audio generative model with performance close to commercial platforms like Suno\" src=\"https://external-preview.redd.it/ZDNiNm9lcXduYmhnMXNUFTz1lD2uwrlR8i5n8_uV8Hgq6zjqVqa04fhxxOUs.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b143554ca8c67bc465c8e39d15ee68486eaeef36\" title=\"ACE-Step-1.5 has jus",
+      "extra": {},
+      "collected_at": "2026-02-04T08:32:23"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Got Qwen-Coder-Next running on ROCm on my Strix Halo!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qv65ed/got_qwencodernext_running_on_rocm_on_my_strix_halo/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-03T22:17:18+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qv65ed/got_qwencodernext_running_on_rocm_on_my_strix_halo/\"> <img alt=\"Got Qwen-Coder-Next running on ROCm on my Strix Halo!\" src=\"https://external-preview.redd.it/dzdscnFjbDZ0Y2hnMarG5pOoEfpz9JksRMChe8rZdrijqwmTF4wbigP7RjX-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8e501a14c67b4224883973e411e9b24a9f6bcf8\" title=\"Got Qwen-Coder-Next running on ROCm on my Strix Halo!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><",
+      "extra": {},
+      "collected_at": "2026-02-04T08:32:23"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3-Coder Tech Report: tool call generalization, reward hacking, general knowledge",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qv5d1k/qwen3coder_tech_report_tool_call_generalization/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-03T21:47:26+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qv5d1k/qwen3coder_tech_report_tool_call_generalization/\"> <img alt=\"Qwen3-Coder Tech Report: tool call generalization, reward hacking, general knowledge\" src=\"https://external-preview.redd.it/3bIaBnDXu08CXhELxk4__N-qsOVuqLC1ZUdzCxFB0Fo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=00daa4c0505c069dbac679c0b3ae6151aa6f7543\" title=\"Qwen3-Coder Tech Report: tool call generalization, reward hacking, general knowledge\" /> </a> ",
+      "extra": {},
+      "collected_at": "2026-02-04T08:32:23"
     }
   ],
-  "updated_at": "2026-02-04T02:53:17.708035+09:00"
+  "updated_at": "2026-02-04T08:32:23.541837+09:00"
 }
