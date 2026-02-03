@@ -1,111 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Risotto raises $10M seed to use AI to make ticketing systems easier to use",
-      "url": "https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 27 Jan 2026 15:25:22 +0000",
-      "summary": "Designed to autonomously resolve help desk tickets, Risotto has raised $10 million in seed funding in a round led by Bonfire Ventures.",
-      "extra": {},
-      "collected_at": "2026-01-28T02:28:14"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Airtable gets into the AI agent game with Superagent",
-      "url": "https://techcrunch.com/2026/01/27/airtables-valuation-fell-by-7-million-its-founder-thinks-that-was-just-the-warm-up/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 27 Jan 2026 15:00:00 +0000",
-      "summary": "SuperAgent is Airtable's first standalone product in its 13-year history, and signals both the company's ambitions and the reality of the current AI moment: every serious software player is racing to prove they can deliver on agents.",
-      "extra": {},
-      "collected_at": "2026-01-28T02:28:14"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "pay3",
-      "url": "https://www.producthunt.com/products/pay3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn your wallet address into a single link and username </p> <p> <a href=\"https://www.producthunt.com/products/pay3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068319?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-28T02:28:16"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Kilo Code Reviewer",
-      "url": "https://www.producthunt.com/products/kilocode",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> Automatic AI-powered code reviews the moment you open a PR </p> <p> <a href=\"https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1067132?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-28T02:28:16"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ShapedQL",
-      "url": "https://www.producthunt.com/products/shaped",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The SQL engine for search, feeds, and AI agents </p> <p> <a href=\"https://www.producthunt.com/products/shaped?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1063928?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-28T02:28:16"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "built an AI agent with shell access. found out the hard way why that's a bad idea.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qocvd4/built_an_ai_agent_with_shell_access_found_out_the/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-01-27T12:46:00+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>was building a tool to let claude/gpt4 navigate my codebase. gave it bash access, seemed fine.</p> <p>then i tried asking it to &quot;check imports and make ascii art from my env file&quot;</p> <p>it did both. printed my api keys as art.</p> <p>went down a rabbit hole reading about this. turns out prompt injection is way worse than i thought:</p> <p>anthropic has a whole page on it but it's pretty surface level</p> <p>found this practical writeup from some YC st",
-      "extra": {},
-      "collected_at": "2026-01-28T02:28:18"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "The z-image base is here!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qoiep6/the_zimage_base_is_here/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-27T16:21:29+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/Tongyi-MAI/Z-Image\">https://huggingface.co/Tongyi-MAI/Z-Image</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bobeeeeeeeee8964\"> /u/bobeeeeeeeee8964 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qoiep6/the_zimage_base_is_here/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qoiep6/the_zimage_base_is_here/\">[comments]</a></sp",
-      "extra": {},
-      "collected_at": "2026-01-28T02:28:18"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Drummer's Rocinante X 12B v1 - It's back and it's stronger than ever! A funtastic creative Claude-like RP model at home!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qoikji/drummers_rocinante_x_12b_v1_its_back_and_its/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-01-27T16:27:12+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qoikji/drummers_rocinante_x_12b_v1_its_back_and_its/\"> <img alt=\"Drummer's Rocinante X 12B v1 - It's back and it's stronger than ever! A funtastic creative Claude-like RP model at home!\" src=\"https://external-preview.redd.it/vMt_thwlfOcsDVODCeD_E13hrou5XcQcrAzk35oTLtU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ad8c88d8902c9e03aa9ee1c38b6f2620bca2b91\" title=\"Drummer's Rocinante X 12B v1 - It's back and it's stronger th",
-      "extra": {},
-      "collected_at": "2026-01-28T02:28:18"
-    },
-    {
       "source": "HN AI Hot",
       "title": "A few random notes from Claude coding quite a bit last few weeks",
       "url": "https://twitter.com/karpathy/status/2015883857489522876",
@@ -2491,21 +2386,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Found a wallet-drain prompt-injection payload on Moltbook (screenshots) — builders: treat feeds as untrusted",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qulipj/found_a_walletdrain_promptinjection_payload_on/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-03T07:24:08+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qulipj/found_a_walletdrain_promptinjection_payload_on/\"> <img alt=\"Found a wallet-drain prompt-injection payload on Moltbook (screenshots) — builders: treat feeds as untrusted\" src=\"https://b.thumbs.redditmedia.com/PgrRDNf-d-VjET3Iu4ffosrkEzbMKjGEdNTZeGA66HU.jpg\" title=\"Found a wallet-drain prompt-injection payload on Moltbook (screenshots) — builders: treat feeds as untrusted\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md",
-      "extra": {},
-      "collected_at": "2026-02-03T18:40:42"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "OSS 120b v GLM 4.7 flash. Is the latter better for anything?",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1quknpy/oss_120b_v_glm_47_flash_is_the_latter_better_for/",
       "primary_category": "GUIDE",
@@ -2530,19 +2410,6 @@
       "summary": "An open-source AI agent called OpenClaw (formerly known as both Clawdbot and Moltbot) that runs on your own computer and &#8220;actually does things&#8221; is taking off inside tech circles. Users interact with OpenClaw via messaging apps like WhatsApp, Telegram, Signal, Discord, and iMessage, giving it the keys to operate independently, managing reminders, writing emails, or [&#8230;]",
       "extra": {},
       "collected_at": "2026-02-03T22:12:37"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Heuris",
-      "url": "https://www.producthunt.com/products/heuris",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Claude meets Wikipedia, for curious people </p> <p> <a href=\"https://www.producthunt.com/products/heuris?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070466?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-03T22:12:40"
     },
     {
       "source": "Product Hunt",
@@ -2641,7 +2508,125 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1quo398/intel_xeon_600_workstation_cpus_launched_up_to_86/\"> <img alt=\"Intel Xeon 600 Workstation CPUs Launched: Up To 86 Cores, 8000 MT/s Memory, 128 Gen5 Lanes, 350W TDP With OC Support, &amp; More Cores/$ Than Threadripper 9000\" src=\"https://external-preview.redd.it/qRGFi5W1MKKifxdKWjq-Z9EvJoJICK6GlGjx6E2rLX8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=edf818262e4a121198fd637c574afc8cfd4e984d\" title=\"Intel Xeon 600 W",
       "extra": {},
       "collected_at": "2026-02-03T22:12:43"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
+      "url": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 03 Feb 2026 17:14:27 +0000",
+      "summary": "This AI doctor is licensed in all 50 states, the startup says. The deal was led by CRV and Kleiner Perkins.",
+      "extra": {},
+      "collected_at": "2026-02-04T02:53:13"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Fitbit founders launch AI platform to help families monitor their health",
+      "url": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Tue, 03 Feb 2026 15:53:36 +0000",
+      "summary": "Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns, and flag notable changes so families can stay aligned and address potential well-being issues.",
+      "extra": {},
+      "collected_at": "2026-02-04T02:53:13"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
+      "url": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 03 Feb 2026 14:14:33 +0000",
+      "summary": "Peak XV is transitioning board roles and opening a U.S. office while continuing to view India as its largest market.",
+      "extra": {},
+      "collected_at": "2026-02-04T02:53:13"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.",
+      "url": "https://github.com/KrystianJonca/lnai",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 03 Feb 2026 08:45:57 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-02-04T02:53:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Lightfern for Email",
+      "url": "https://www.producthunt.com/products/lightfern",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The telepathic AI writing tool </p> <p> <a href=\"https://www.producthunt.com/products/lightfern?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068942?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-04T02:53:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Relay.app Agents",
+      "url": "https://www.producthunt.com/products/relay-app",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build an AI team that works for you </p> <p> <a href=\"https://www.producthunt.com/products/relay-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068457?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-04T02:53:15"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen/Qwen3-Coder-Next · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1quvqs9/qwenqwen3codernext_hugging_face/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-03T15:58:52+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1quvqs9/qwenqwen3codernext_hugging_face/\"> <img alt=\"Qwen/Qwen3-Coder-Next · Hugging Face\" src=\"https://external-preview.redd.it/Mexo_PE5lQQ6UgBLTSrZljbCfScpUvytIcHjhp81XG4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae35460e62424e898f9d6136fab1921d2029ad86\" title=\"Qwen/Qwen3-Coder-Next · Hugging Face\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/coder543\"> /u/coder543 </a> <br /> <span",
+      "extra": {},
+      "collected_at": "2026-02-04T02:53:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3-Coder-Next",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1quvvtv/qwen3codernext/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-03T16:03:56+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1quvvtv/qwen3codernext/\"> <img alt=\"Qwen3-Coder-Next\" src=\"https://external-preview.redd.it/Mexo_PE5lQQ6UgBLTSrZljbCfScpUvytIcHjhp81XG4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae35460e62424e898f9d6136fab1921d2029ad86\" title=\"Qwen3-Coder-Next\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Qwen3-Coder-Next is out!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/danielhanchen",
+      "extra": {},
+      "collected_at": "2026-02-04T02:53:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The open-source version of Suno is finally here: ACE-Step 1.5",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1quxtkj/the_opensource_version_of_suno_is_finally_here/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-03T17:13:53+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1quxtkj/the_opensource_version_of_suno_is_finally_here/\"> <img alt=\"The open-source version of Suno is finally here: ACE-Step 1.5\" src=\"https://b.thumbs.redditmedia.com/Wc9W0Y1pM9FgVsLGL_nSRSARq7eVx7wAjk_hkOIqGfE.jpg\" title=\"The open-source version of Suno is finally here: ACE-Step 1.5\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>ACE-Step 1.5 is an open-source music model that can generate a full song in about 2 secon",
+      "extra": {},
+      "collected_at": "2026-02-04T02:53:17"
     }
   ],
-  "updated_at": "2026-02-03T22:12:43.171885+09:00"
+  "updated_at": "2026-02-04T02:53:17.708035+09:00"
 }
