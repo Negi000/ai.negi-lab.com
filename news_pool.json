@@ -1,74 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "ServiceNow inks another AI partnership, this time with Anthropic",
-      "url": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Wed, 28 Jan 2026 21:13:00 +0000",
-      "summary": "ServiceNow partners with Anthropic just a week after announcing a partnership with OpenAI as the company takes a multi-model approach.",
-      "extra": {},
-      "collected_at": "2026-01-29T18:42:40"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "doXmind",
-      "url": "https://www.producthunt.com/products/doxmind",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> An AI editor that reasons with you </p> <p> <a href=\"https://www.producthunt.com/products/doxmind?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1069724?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-29T18:42:43"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I built an open-source, multi-agent alternative to OpenAI Prism for research workflows (Verification Agent + LaTeX + PDF)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qq0qut/i_built_an_opensource_multiagent_alternative_to/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-29T06:14:18+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I’ve been working on an open-source project called <strong>Prismer</strong> to tackle the mess that is the current academic workflow.</p> <p>Like many of you, I found that using generic LLMs for research often leads to hallucinations, especially with citations. And relying on closed ecosystems like OpenAI’s Prism wasn’t ideal for privacy or customization.</p> <p>So I built <strong>Prismer</strong>, an all-in-one platform that integrates: </p",
-      "extra": {},
-      "collected_at": "2026-01-29T18:42:45"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Using a LLM to procedurally generate spells for a VR prototype. Oh and Stick based sound track (listen to the lyrics). Full tech details in description.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qq29ab/using_a_llm_to_procedurally_generate_spells_for_a/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-29T07:40:59+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qq29ab/using_a_llm_to_procedurally_generate_spells_for_a/\"> <img alt=\"Using a LLM to procedurally generate spells for a VR prototype. Oh and Stick based sound track (listen to the lyrics). Full tech details in description.\" src=\"https://external-preview.redd.it/NGZpZjMyeWJwOGdnMSyVzMY88rGIMLP8wkCsphE6OdlDVcwcn9ECGq-UAL8f.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3fc37bfffb290e2fd1af99cd3cb5f3e90281514f\" title=\"Using a",
-      "extra": {},
-      "collected_at": "2026-01-29T18:42:45"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Reasoning Devstral 2",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qpyxfk/reasoning_devstral_2/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-29T04:42:29+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Fun fact! You can actually make devstral 2 123B &amp; Devstral 24B reason! Accidently had a reasoning forcing jinja template on for another model when I started testing the mlx version of this thing with a couple of reasoning effot = extra high statements in my system prompt because I really wanted more reasoning out of the last model I was using and havving forgotten about that tried devstral 2 and got 2 minutes of reasoning before it answered my test question.",
-      "extra": {},
-      "collected_at": "2026-01-29T18:42:45"
-    },
-    {
       "source": "The Verge AI",
       "title": "Mark Zuckerberg is all in on AI as the new social media",
       "url": "https://www.theverge.com/news/869882/mark-zuckerberg-meta-earnings-q4-2025",
@@ -2427,19 +2359,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Google’s Gemini app has surpassed 750M monthly active users",
-      "url": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Wed, 04 Feb 2026 22:53:46 +0000",
-      "summary": "Google revealed a significant milestone for its Gemini app, announcing over 750 million monthly active users as it competes with ChatGPT and Meta AI.",
-      "extra": {},
-      "collected_at": "2026-02-05T08:32:37"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Meet Gizmo: A TikTok for interactive, vibe-coded mini apps",
       "url": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
       "primary_category": "NEWS",
@@ -2671,7 +2590,86 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>About 2 weeks ago, I posted about running GLM-4.7-Flash on 16 GB of VRAM here <a href=\"http://www.reddit.com/r/LocalLLaMA/comments/1qlanzn/glm47flashreap_on_rtx_5060_ti_16_gb_200k_context/\">www.reddit.com/r/LocalLLaMA/comments/1qlanzn/glm47flashreap_on_rtx_5060_ti_16_gb_200k_context/</a>. And here we go, today, let's squeeze an even bigger model into the poor rig.</p> <p>Hardware: - AMD Ryzen 7 7700X - RAM 32 GB DDR5-6000 - RTX 5060 Ti 16 GB</p> <p>Model: <a hre",
       "extra": {},
       "collected_at": "2026-02-05T16:03:33"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google&#8217;s annual revenue tops $400 billion for the first time",
+      "url": "https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-04T17:41:03-05:00",
+      "summary": "Google's parent company, Alphabet, has earned more than $400 billion in annual revenue for the first time. The company announced the milestone as part of its Q4 2025 earnings report released on Wednesday, which highlights the 15 percent year-over-year increase as its cloud business and YouTube continue to grow. As noted in the earnings report, [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-05T18:43:39"
+    },
+    {
+      "source": "Google News",
+      "title": "アウディ、生産における人工知能（AI）の展開を拡大 - Digital PR Platform",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA2ZDVaa21fVm9nZi13Uzl2ZVNlWVoxaVFURHJrZ0FaR25yb2owZ3lrczhXdHMwdmpXcHVIZUlLY09HaXM?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Thu, 05 Feb 2026 07:09:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA2ZDVaa21fVm9nZi13Uzl2ZVNlWVoxaVFURHJrZ0FaR25yb2owZ3lrczhXdHMwdmpXcHVIZUlLY09HaXM?oc=5\" target=\"_blank\">アウディ、生産における人工知能（AI）の展開を拡大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital PR Platform</font>",
+      "extra": {},
+      "collected_at": "2026-02-05T18:43:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Webflow AI site builder",
+      "url": "https://www.producthunt.com/products/webflow",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn a prompt into a production-ready site with Webflow </p> <p> <a href=\"https://www.producthunt.com/products/webflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1067260?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-05T18:43:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Voxtral Transcribe 2 by Mistral",
+      "url": "https://www.producthunt.com/products/mistral-7b",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Real-time speech-to-text with speaker diarization </p> <p> <a href=\"https://www.producthunt.com/products/mistral-7b?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1072952?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-05T18:43:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "UI Critic by Usercall",
+      "url": "https://www.producthunt.com/products/ai-user-testing-by-usercall",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Instantly surface the assumptions behind a UI screenshot </p> <p> <a href=\"https://www.producthunt.com/products/ai-user-testing-by-usercall?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1073153?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-05T18:43:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AutoBandStudio",
+      "url": "https://www.producthunt.com/products/autobandstudio",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI that turns your melody into a full arrangement </p> <p> <a href=\"https://www.producthunt.com/products/autobandstudio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1072828?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-05T18:43:41"
     }
   ],
-  "updated_at": "2026-02-05T16:03:33.751891+09:00"
+  "updated_at": "2026-02-05T18:43:44.228089+09:00"
 }
