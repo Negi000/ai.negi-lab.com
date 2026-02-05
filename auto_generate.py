@@ -102,37 +102,44 @@ PERSONA = {
     """,
 }
 
-# ニッチなハッシュタグ（ターゲット層が見るタグ）
+# ニッチなハッシュタグ（ターゲット層が見る＆バズりやすいタグ）
 # ※Categoryクラス定義前なので文字列キーで定義
+# 選定基準：フォロワー多いアカウントが使う + 検索されやすい + ニッチすぎない
 NICHE_HASHTAGS_STR = {
     "NEWS": [
-        "#プログラミング初心者",
+        "#今日の積み上げ",
+        "#朝活",
+        "#プログラミング",
         "#駆け出しエンジニアと繋がりたい",
-        "#個人開発",
-        "#エンジニア",
-        "#テック速報",
-        "#AI活用",
+        "#Web3",
+        "#スタートアップ",
+        "#DX推進",
+        "#機械学習",
     ],
     "TOOL": [
-        "#個人開発",
-        "#エンジニア",
-        "#業務効率化",
-        "#Python学習中",
-        "#開発ツール",
+        "#今日の積み上げ",
         "#プログラミング",
+        "#業務効率化",
+        "#副業",
+        "#フリーランス",
+        "#リモートワーク",
+        "#Notion",
+        "#便利ツール",
     ],
     "GUIDE": [
+        "#今日の積み上げ",
         "#プログラミング初心者",
-        "#Python学習中",
         "#駆け出しエンジニアと繋がりたい",
-        "#個人開発",
-        "#プログラミング学習",
-        "#エンジニア転職",
+        "#未経験からエンジニア",
+        "#独学",
+        "#転職活動",
+        "#Python",
+        "#学習記録",
     ],
 }
 
-# 固定タグ（全投稿に付与）
-FIXED_HASHTAGS = ["#個人開発", "#エンジニア"]
+# 固定タグ（全投稿に付与）- よりバズりやすいタグに
+FIXED_HASHTAGS = ["#エンジニア", "#AI"]
 
 # ============================================================
 # 一次情報源 RSS フィード（ホットな話題を取得）
@@ -205,98 +212,121 @@ RAKUTEN_AFFILIATE_ID = os.environ.get("RAKUTEN_AFFILIATE_ID", "5000cbfd.5f52567b
 # ============================================================
 # アフィリエイト商品マッピングDB
 # キーワード検出 → おすすめ商品カテゴリーへマッピング
+# 
+# ★改善方針★
+# - 書籍よりガジェット・ハードウェアを優先（単価高い＆購入率高い）
+# - 具体的な商品名（ブランド＋型番）で検索されやすく
+# - 「すぐ使いたい」欲求に応える実用品
 # ============================================================
 
 PRODUCT_MAPPINGS = {
-    # GPU関連
+    # GPU関連 - 高単価で需要あり
     "gpu": {
-        "keywords": ["gpu", "グラフィックボード", "vram", "cuda", "nvidia", "rtx", "geforce"],
+        "keywords": ["gpu", "グラフィックボード", "vram", "cuda", "nvidia", "rtx", "geforce", "グラボ"],
         "products": [
-            {"name": "NVIDIA RTX 4070 SUPER", "search": "RTX 4070 SUPER グラフィックボード", "desc": "ローカルLLMに最適な12GB VRAM"},
-            {"name": "NVIDIA RTX 4090", "search": "RTX 4090 グラフィックボード", "desc": "最高性能24GB VRAM、大規模モデル向け"},
+            {"name": "MSI RTX 4070 SUPER", "search": "MSI RTX 4070 SUPER GAMING X SLIM", "desc": "12GB VRAM・静音設計で人気No.1"},
+            {"name": "玄人志向 RTX 4060 Ti", "search": "玄人志向 RTX 4060 Ti 8GB", "desc": "コスパ最強・入門に最適"},
         ],
-        "category": "ハードウェア"
+        "category": "グラフィックボード"
     },
-    # ローカルLLM関連
+    # ローカルLLM関連 - ミニPC需要高い
     "local_llm": {
         "keywords": ["ollama", "llama", "ローカルllm", "local llm", "llama.cpp", "gguf", "量子化"],
         "products": [
-            {"name": "大規模言語モデル入門", "search": "大規模言語モデル入門 書籍", "desc": "LLMの基礎から実装まで"},
-            {"name": "ゲーミングPC", "search": "ゲーミングPC RTX4070 メモリ32GB", "desc": "ローカルLLM実行に最適なスペック"},
+            {"name": "MINISFORUM UM780 XTX", "search": "MINISFORUM UM780 XTX", "desc": "Ryzen7・32GB RAM・ローカルLLM最適"},
+            {"name": "Intel NUC 13 Pro", "search": "Intel NUC 13 Pro ミニPC", "desc": "コンパクト＆高性能"},
         ],
-        "category": "ローカルAI環境"
+        "category": "ミニPC"
     },
-    # Python/プログラミング
+    # Python/プログラミング - 周辺機器が売れる
     "python": {
-        "keywords": ["python", "パイソン", "pytorch", "tensorflow", "jupyter", "notebook"],
+        "keywords": ["python", "パイソン", "pytorch", "tensorflow", "jupyter", "notebook", "コード"],
         "products": [
-            {"name": "Python機械学習プログラミング", "search": "Python 機械学習 書籍", "desc": "ML/DLの定番入門書"},
-            {"name": "PyTorch実践入門", "search": "PyTorch 実践 書籍", "desc": "ディープラーニング実装の決定版"},
+            {"name": "HHKB Professional", "search": "HHKB Professional HYBRID", "desc": "プログラマー御用達の最高峰キーボード"},
+            {"name": "Logicool MX Keys", "search": "Logicool MX Keys S", "desc": "静音・マルチデバイス対応"},
         ],
-        "category": "プログラミング書籍"
+        "category": "キーボード"
     },
-    # ChatGPT/API関連
+    # ChatGPT/API関連 - 効率化ガジェット
     "chatgpt": {
-        "keywords": ["chatgpt", "gpt-4", "gpt-5", "openai", "api", "プロンプト"],
+        "keywords": ["chatgpt", "gpt-4", "gpt-5", "openai", "api", "プロンプト", "claude"],
         "products": [
-            {"name": "ChatGPT/LLM超活用術", "search": "ChatGPT 活用 書籍", "desc": "プロンプトエンジニアリングの極意"},
-            {"name": "OpenAI API実践ガイド", "search": "OpenAI API プログラミング", "desc": "API連携アプリ開発"},
+            {"name": "Stream Deck MK.2", "search": "Elgato Stream Deck MK.2", "desc": "プロンプト呼び出しをワンボタン化"},
+            {"name": "Dell 4Kモニター", "search": "Dell U2723QE 27インチ 4K", "desc": "長文作業に最適・USB-C給電"},
         ],
-        "category": "AI活用書籍"
+        "category": "効率化ガジェット"
     },
-    # 画像生成AI
+    # 画像生成AI - GPU需要
     "image_ai": {
         "keywords": ["stable diffusion", "midjourney", "dall-e", "画像生成", "comfyui", "automatic1111"],
         "products": [
-            {"name": "Stable Diffusion AI画像生成", "search": "Stable Diffusion 画像生成 書籍", "desc": "画像生成AIの決定版ガイド"},
-            {"name": "高性能グラボ", "search": "RTX 4070 Ti SUPER グラフィックボード", "desc": "画像生成に必要な16GB VRAM"},
+            {"name": "ASUS RTX 4070 Ti SUPER", "search": "ASUS TUF RTX 4070 Ti SUPER", "desc": "16GB VRAM・SDXL余裕"},
+            {"name": "ペンタブレット", "search": "Wacom Intuos Pro Medium", "desc": "AI絵の修正・仕上げに"},
         ],
-        "category": "画像生成AI"
+        "category": "クリエイター向け"
     },
-    # 音声AI
+    # 音声AI - マイク需要
     "voice_ai": {
-        "keywords": ["whisper", "音声認識", "tts", "音声合成", "voicevox", "elevenlabs"],
+        "keywords": ["whisper", "音声認識", "tts", "音声合成", "voicevox", "elevenlabs", "文字起こし"],
         "products": [
-            {"name": "高品質マイク", "search": "コンデンサーマイク USB 配信", "desc": "音声入力の品質向上に"},
-            {"name": "ヘッドセット", "search": "ゲーミングヘッドセット ノイズキャンセリング", "desc": "クリアな音声確認用"},
+            {"name": "SHURE MV7+", "search": "SHURE MV7+ USB マイク", "desc": "プロ音質・ノイキャン内蔵"},
+            {"name": "Sony WH-1000XM5", "search": "Sony WH-1000XM5", "desc": "最強ノイキャン・長時間作業向け"},
         ],
         "category": "音声機材"
     },
-    # RAG/ベクトルDB
+    # RAG/ベクトルDB - 開発PC
     "rag": {
         "keywords": ["rag", "ベクトル", "embedding", "pinecone", "chromadb", "langchain"],
         "products": [
-            {"name": "LangChain完全入門", "search": "LangChain 入門 書籍", "desc": "RAGアプリ構築の必読書"},
-            {"name": "検索システム設計", "search": "検索エンジン 設計 書籍", "desc": "情報検索の基礎理論"},
+            {"name": "MacBook Air M3", "search": "MacBook Air M3 16GB", "desc": "RAG開発にはメモリ16GB必須"},
+            {"name": "外付けSSD", "search": "Samsung T7 Shield 2TB", "desc": "ベクトルDB保存に高速SSD"},
         ],
-        "category": "RAG/検索技術"
+        "category": "開発PC"
     },
-    # エージェント/自動化
+    # エージェント/自動化 - 作業効率化
     "agent": {
-        "keywords": ["agent", "エージェント", "autogpt", "crew", "自動化", "ワークフロー"],
+        "keywords": ["agent", "エージェント", "autogpt", "crew", "自動化", "ワークフロー", "mcp"],
         "products": [
-            {"name": "AIエージェント開発入門", "search": "AI エージェント 開発 書籍", "desc": "自律型AIの設計と実装"},
-            {"name": "業務自動化ツール", "search": "RPA 業務自動化 入門", "desc": "AIと組み合わせる自動化"},
+            {"name": "Logicool MX Master 3S", "search": "Logicool MX Master 3S", "desc": "ジェスチャー＋静音・作業効率UP"},
+            {"name": "ウルトラワイドモニター", "search": "LG 34WQ75C-B 34インチ", "desc": "マルチウィンドウ作業が捗る"},
         ],
-        "category": "AI自動化"
+        "category": "効率化ガジェット"
     },
-    # クラウド/インフラ
+    # クラウド/インフラ - サーバー機材
     "cloud": {
         "keywords": ["aws", "azure", "gcp", "クラウド", "サーバー", "デプロイ", "docker", "kubernetes"],
         "products": [
-            {"name": "AWS入門", "search": "AWS 入門 書籍 2024", "desc": "クラウドAI環境構築"},
-            {"name": "Docker実践ガイド", "search": "Docker Kubernetes 実践", "desc": "コンテナでAI環境構築"},
+            {"name": "Raspberry Pi 5", "search": "Raspberry Pi 5 8GB スターターキット", "desc": "自宅サーバー入門に最適"},
+            {"name": "Synology NAS", "search": "Synology DS224+ NAS", "desc": "Docker対応・自宅クラウド構築"},
         ],
-        "category": "クラウド/インフラ"
+        "category": "サーバー機材"
     },
-    # デフォルト（AI全般）
+    # 開発環境/IDE - 周辺機器
+    "dev_env": {
+        "keywords": ["vscode", "cursor", "ide", "エディタ", "開発環境", "github", "copilot"],
+        "products": [
+            {"name": "BenQ ScreenBar", "search": "BenQ ScreenBar Halo", "desc": "目の疲れ軽減・デスクライト"},
+            {"name": "エルゴノミクスチェア", "search": "エルゴヒューマン プロ", "desc": "長時間コーディングに"},
+        ],
+        "category": "デスク環境"
+    },
+    # スマホ/アプリ - モバイル
+    "mobile": {
+        "keywords": ["iphone", "android", "アプリ", "スマホ", "モバイル", "ios"],
+        "products": [
+            {"name": "iPhone 15 Pro", "search": "iPhone 15 Pro 256GB", "desc": "AI機能フル搭載・開発テスト用に"},
+            {"name": "Ankerモバイルバッテリー", "search": "Anker 737 Power Bank", "desc": "24000mAh・MacBook充電可"},
+        ],
+        "category": "モバイル"
+    },
+    # デフォルト（AI全般）- 人気ガジェット
     "default": {
         "keywords": [],
         "products": [
-            {"name": "AI関連書籍", "search": "人工知能 AI 入門 書籍", "desc": "AIの基礎を学ぶ"},
-            {"name": "プログラミング入門", "search": "プログラミング 入門 Python", "desc": "AI開発の第一歩"},
+            {"name": "Logicool MX Master 3S", "search": "Logicool MX Master 3S", "desc": "エンジニア人気No.1マウス"},
+            {"name": "HHKB Professional", "search": "HHKB Professional HYBRID Type-S", "desc": "最高の打鍵感・一生モノ"},
         ],
-        "category": "AI入門"
+        "category": "人気ガジェット"
     },
 }
 
@@ -1481,27 +1511,32 @@ class ArticleGenerator:
 記事執筆後、以下を記事の末尾に追記してください。
 
 **1. X投稿用フック文 (HOOK)**
-「続きを読みたくなる」ような40文字以内の一言。感情を込めて、体験談風に。
-- 例: 「これは開発者泣かせかも...🤔」「待ってた機能がついに来た！」
+「続きを読みたくなる」煽り系の35文字以内。感情むき出し＋数字orパワーワード必須。
+- 良い例: 「これ知らずに3年損した...」「マジで10倍速くなった🔥」「無料でこれはヤバすぎる」
+- ダメ例: 「これ、チェックしておいた方がいいかも」（弱すぎ）
 - フォーマット: `[HOOK: フック文]`
 
 **2. X投稿用3行要約 (SUMMARY)**
-記事の要点を3つの箇条書きで60文字以内にまとめる。
-- 例: 「・精度92%達成\n・処理速度3倍\n・料金据置」
+記事の要点を3つの箇条書きで75文字以内。数字を入れる。
+- 例: 「・処理速度が10倍\n・月額0円で使い放題\n・日本語完全対応」
 - フォーマット: `[SUMMARY: ・要点1\n・要点2\n・要点3]`
 
 **3. X投稿用質問文 (QUESTION)**
-読者にリプライを促す質問。25文字以内。
-- 例: 「みんなはどう思う？🤔」「使ってみた人いる？」
+具体的で答えやすい質問。20文字以内。
+- 良い例: 「もう使ってる人いる？」「乗り換えた人いる？」
+- ダメ例: 「みんなはどう思う？」（抽象的すぎ）
 - フォーマット: `[QUESTION: 質問文]`
 
 **4. 商品検索キーワード (SHOPPING)**
-2〜3単語の組み合わせ（例: "MacBook Air M3"）
+記事に関連する**ガジェット・ハードウェア**のキーワード。具体的なブランド名＋型番推奨。
+- 良い例: "MSI RTX 4070 SUPER", "HHKB Professional HYBRID", "Logicool MX Master 3S"
+- ダメ例: "Python 機械学習 書籍"（書籍は売れない）
 - フォーマット: `[SHOPPING: キーワード]`
 
 **5. SNS拡散用ハッシュタグ (HASHTAGS)**
-ニッチなタグを2つ（#AI, #生成AI のようなビッグワードは禁止）
-- 良い例: #プログラミング初心者 #個人開発 #業務効率化 #Python学習中
+エンゲージメント狙いのタグを2つ（ビッグワード＋ニッチの組み合わせ）
+- 良い例: #今日の積み上げ #駆け出しエンジニアと繋がりたい #プログラミング #副業
+- ダメ例: #AI #生成AI #LLM（ビッグワードだけは禁止）
 - フォーマット: `[HASHTAGS: #タグ1 #タグ2]`
 ---
 
@@ -1610,27 +1645,32 @@ print(result)
 記事執筆後、以下を記事の末尾に追記してください。
 
 **1. X投稿用フック文 (HOOK)**
-「続きを読みたくなる」ような40文字以内の一言。感情を込めて、体験談風に。
-- 例: 「このツール、予想以上に使えるかも...！」「待ってたやつ来た！」
+「続きを読みたくなる」煽り系の35文字以内。感情むき出し＋数字orパワーワード必須。
+- 良い例: 「1週間使い倒した結論がこれ🔥」「無料でここまでできるの反則」
+- ダメ例: 「このツール、予想以上に使えるかも」（弱すぎ）
 - フォーマット: `[HOOK: フック文]`
 
 **2. X投稿用3行要約 (SUMMARY)**
-記事の要点を3つの箇条書きで60文字以内にまとめる。
-- 例: 「・インストール簡単\n・無料で使える\n・日本語対応」
+記事の要点を3つの箇条書きで75文字以内。数字を入れる。
+- 例: 「・セットアップ5分\n・完全無料\n・日本語100%対応」
 - フォーマット: `[SUMMARY: ・要点1\n・要点2\n・要点3]`
 
 **3. X投稿用質問文 (QUESTION)**
-読者にリプライを促す質問。25文字以内。
-- 例: 「使ってみた人いる？」「どう思う？🤔」
+具体的で答えやすい質問。20文字以内。
+- 良い例: 「どのツール使ってる？」「これの代替ある？」
+- ダメ例: 「どう思う？」（抽象的すぎ）
 - フォーマット: `[QUESTION: 質問文]`
 
 **4. 商品検索キーワード (SHOPPING)**
-2〜3単語の組み合わせ（例: "RTX 4090", "Raspberry Pi 5"）
+記事に関連する**ガジェット・ハードウェア**のキーワード。具体的なブランド名＋型番推奨。
+- 良い例: "Raspberry Pi 5 スターターキット", "Stream Deck MK.2", "Dell 4Kモニター"
+- ダメ例: "開発ツール 書籍"（書籍は売れない）
 - フォーマット: `[SHOPPING: キーワード]`
 
 **5. SNS拡散用ハッシュタグ (HASHTAGS)**
-ニッチなタグを2つ（#AI, #生成AI のようなビッグワードは禁止）
-- 良い例: #個人開発 #エンジニア #業務効率化 #開発ツール
+エンゲージメント狙いのタグを2つ（ビッグワード＋ニッチの組み合わせ）
+- 良い例: #今日の積み上げ #便利ツール #業務効率化 #フリーランス
+- ダメ例: #AI #生成AI（ビッグワードだけは禁止）
 - フォーマット: `[HASHTAGS: #タグ1 #タグ2]`
 ---
 
@@ -1739,27 +1779,32 @@ print(result)
 記事執筆後、以下を記事の末尾に追記してください。
 
 **1. X投稿用フック文 (HOOK)**
-「続きを読みたくなる」ような40文字以内の一言。感情を込めて、体験談風に。
-- 例: 「このエラー、私も何度もハマった...」「初心者がつまずきやすいポイントまとめました」
+「続きを読みたくなる」煽り系の35文字以内。感情むき出し＋数字orパワーワード必須。
+- 良い例: 「このエラーで1日溶かした過去の自分に教えたい」「初心者が絶対ハマる罠5選」
+- ダメ例: 「このエラー、私も何度もハマった」（弱すぎ）
 - フォーマット: `[HOOK: フック文]`
 
 **2. X投稿用3行要約 (SUMMARY)**
-記事の要点を3つの箇条書きで60文字以内にまとめる。
-- 例: 「・環境構築が簡単に\n・エラー対処法も紹介\n・コピペで動く」
+記事の要点を3つの箇条書きで75文字以内。数字を入れる。
+- 例: 「・環境構築3分で完了\n・よくあるエラー5つ解決\n・コピペで100%動く」
 - フォーマット: `[SUMMARY: ・要点1\n・要点2\n・要点3]`
 
 **3. X投稿用質問文 (QUESTION)**
-読者にリプライを促す質問。25文字以内。
-- 例: 「同じエラーで困った人いる？」「他にも知りたいこと教えて」
+具体的で答えやすい質問。20文字以内。
+- 良い例: 「同じエラー出た人いる？」「他に詰まった箇所ある？」
+- ダメ例: 「他にも知りたいこと教えて」（漠然としすぎ）
 - フォーマット: `[QUESTION: 質問文]`
 
 **4. 商品検索キーワード (SHOPPING)**
-2〜3単語の組み合わせ（例: "機械学習 入門書"）
+記事に関連する**ガジェット・ハードウェア**のキーワード。具体的なブランド名＋型番推奨。
+- 良い例: "MacBook Air M3 16GB", "BenQ ScreenBar Halo", "MINISFORUM ミニPC"
+- ダメ例: "機械学習 入門書"（書籍は売れない）
 - フォーマット: `[SHOPPING: キーワード]`
 
 **5. SNS拡散用ハッシュタグ (HASHTAGS)**
-ニッチなタグを2つ（#AI, #生成AI のようなビッグワードは禁止）
-- 良い例: #プログラミング初心者 #Python学習中 #駆け出しエンジニアと繋がりたい
+エンゲージメント狙いのタグを2つ（ビッグワード＋ニッチの組み合わせ）
+- 良い例: #今日の積み上げ #プログラミング初心者 #独学 #未経験からエンジニア
+- ダメ例: #AI #生成AI（ビッグワードだけは禁止）
 - フォーマット: `[HASHTAGS: #タグ1 #タグ2]`
 ---
 
@@ -2376,32 +2421,53 @@ class TwitterPoster:
                         tags_list.append(tag)
             
             # ニッチタグが足りなければカテゴリー別デフォルトから追加
-            if len(tags_list) < 2:
-                import random
+            import random
+            if len(tags_list) < 3:
                 niche_options = NICHE_HASHTAGS_STR.get(category.value, NICHE_HASHTAGS_STR["NEWS"])
-                for tag in random.sample(niche_options, min(2, len(niche_options))):
+                shuffled = random.sample(niche_options, len(niche_options))
+                for tag in shuffled:
                     if tag not in tags_list:
                         tags_list.append(tag)
-                        if len(tags_list) >= 2:
+                        if len(tags_list) >= 3:
                             break
             
-            # 固定タグを追加（最大3タグに制限 - スレッド形式で文字数節約）
+            # 固定タグを追加（最大4タグに - インプレッション増加のため）
             for fixed_tag in FIXED_HASHTAGS:
-                if fixed_tag not in tags_list and len(tags_list) < 3:
+                if fixed_tag not in tags_list and len(tags_list) < 4:
                     tags_list.append(fixed_tag)
             
-            tag_str = ' '.join(tags_list[:3])
+            tag_str = ' '.join(tags_list[:4])
 
             # ===== フック文 =====
             if hook_text:
                 hook = hook_text
             else:
-                default_hooks = {
-                    Category.NEWS: "これ、チェックしておいた方がいいかも👀",
-                    Category.TOOL: "このツール、使ってみたらなかなか良かった！",
-                    Category.GUIDE: "初心者がつまずきやすいポイント、まとめました📝",
+                # バズりやすいフック文パターン（感情+具体性）
+                default_hooks_list = {
+                    Category.NEWS: [
+                        "これマジで革命的かも...🔥",
+                        "え、これ無料でいいの...？",
+                        "知らないと損するやつ来た👀",
+                        "これはヤバい。マジでヤバい。",
+                        "開発者全員見て。これ神。",
+                    ],
+                    Category.TOOL: [
+                        "3日間使い倒した結果...🔥",
+                        "これ知らずに損してた...",
+                        "作業時間が半分になった神ツール",
+                        "無料でここまでできるの反則では",
+                        "もっと早く知りたかった...",
+                    ],
+                    Category.GUIDE: [
+                        "これで詰まってた人、解決します",
+                        "1時間悩んだエラー、これで一発解決",
+                        "初心者の頃の自分に教えたい",
+                        "知らないと一生ハマるやつ",
+                        "これ、教科書には載ってない",
+                    ],
                 }
-                hook = default_hooks.get(category, "要チェックです！")
+                hooks = default_hooks_list.get(category, default_hooks_list[Category.NEWS])
+                hook = random.choice(hooks)
 
             # ===== 要点サマリー =====
             if summary_text:
@@ -2425,24 +2491,53 @@ class TwitterPoster:
                 main_tweet = f"{hook}\n\n{summary}\n\n{tag_str}\n↓"
 
             # ===== リプライツイート構成 =====
-            # カテゴリー別の感想フレーズ
-            category_comments = {
-                Category.NEWS: "実際に触ってみた感想も書いてます。",
-                Category.TOOL: "使い方のコツも紹介してるので参考にどうぞ！",
-                Category.GUIDE: "初心者でも分かるように解説してます。",
+            # カテゴリー別の感想フレーズ（より具体的に）
+            category_comments_list = {
+                Category.NEWS: [
+                    "正直、最初は半信半疑だったけど触ってみたら印象変わった",
+                    "個人的にはかなりアリだと思う。理由は記事で詳しく書いた",
+                    "実際どうなの？って思う人向けに検証してみた",
+                ],
+                Category.TOOL: [
+                    "実際に1週間使ってみた正直な感想を書いた",
+                    "他のツールと比較してみたら意外な結果に",
+                    "導入コストと効果、具体的に計算してみた",
+                ],
+                Category.GUIDE: [
+                    "自分が詰まったポイント全部まとめた",
+                    "公式ドキュメントに載ってないコツも書いた",
+                    "コピペで動くサンプルコード付き",
+                ],
             }
-            comment = category_comments.get(category, "詳しくはブログで！")
+            comments = category_comments_list.get(category, category_comments_list[Category.NEWS])
+            comment = random.choice(comments)
             
-            # 質問文（リプライ誘発）
+            # 質問文（リプライ誘発）- より具体的で答えやすい質問に
             if question_text:
                 question = question_text.strip()
             else:
-                default_questions = {
-                    Category.NEWS: "みんなはどう思う？",
-                    Category.TOOL: "使ったことある人いる？",
-                    Category.GUIDE: "他に知りたいことある？",
+                default_questions_list = {
+                    Category.NEWS: [
+                        "これ使う予定ある？🤔",
+                        "正直どう思う？賛否ありそう",
+                        "みんなの現場ではどう？",
+                        "これ流行ると思う？",
+                    ],
+                    Category.TOOL: [
+                        "使ってる人いたら感想教えて！",
+                        "他にオススメあったら教えて🙏",
+                        "導入してる会社ある？",
+                        "これの代替ツール知ってる人いる？",
+                    ],
+                    Category.GUIDE: [
+                        "ここ分からん！ってとこあったら言って",
+                        "他にこれ系で困ってることある？",
+                        "リクエストあれば書くよ📝",
+                        "これで解決した人いたら教えて！",
+                    ],
                 }
-                question = default_questions.get(category, "感想聞かせて！")
+                questions = default_questions_list.get(category, default_questions_list[Category.NEWS])
+                question = random.choice(questions)
 
             # リプライフォーマット: 感想 + URL + 質問
             reply_tweet = f"{comment}\n\n{url}\n\n{question}"
