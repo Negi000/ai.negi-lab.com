@@ -2297,5 +2297,29 @@
     "question_text": null,
     "created_at": "2026-02-06T18:44:06.480773+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-06-ead87291",
+    "title": "Apple TVで広告ゼロ？Magic Lasso Adblockの実力をシミュレーション検証してみた",
+    "url": "https://ai.negi-lab.com/posts/2026-02-06-ead87291/",
+    "category": "TOOL",
+    "viral_tags": "#AppleTV #ライフハック",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-06T22:12:00.782139+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-06-a7a126cc",
+    "title": "2018年の型落ちPCで16BのAIをサクサク動かす方法：高価なGPUなしでローカルLLMを楽しむための完全ガイド",
+    "url": "https://ai.negi-lab.com/posts/2026-02-06-a7a126cc/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #低スペックPC",
+    "hook_text": "6年前の「ボロPC」が、最新AI端末に化ける！？GPUなしで16Bモデルを動かす方法。",
+    "summary_text": "・型落ちCPUでもMoEモデルなら爆速\n・llama.cppのビルド設定が鍵\n・16GBメモリで16Bモデルが動く",
+    "question_text": "押し入れに眠ってる古いPC、ありませんか？",
+    "created_at": "2026-02-06T22:13:32.435578+09:00",
+    "posted": false
   }
 ]
