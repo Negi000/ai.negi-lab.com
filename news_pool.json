@@ -1,32 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
-      "url": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Thu, 29 Jan 2026 18:58:07 +0000",
-      "summary": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.",
-      "extra": {},
-      "collected_at": "2026-01-30T15:54:49"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM 4.7 Flash 30B PRISM + Web Search: Very solid.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qqw3ov/glm_47_flash_30b_prism_web_search_very_solid/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-30T04:56:57+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just got this set up yesterday. I have been messing around with it and I am extremely impressed. I find that it is very efficient in reasoning compared to Qwen models. The model is quite uncensored so I'm able to research any topics, it is quite thorough. </p> <p>The knowledge is definitely less than 120B Derestricted, but once Web Search RAG is involved, I'm finding the 30B model generally superior with far less soft refusals. Since the model has web access, I ",
-      "extra": {},
-      "collected_at": "2026-01-30T15:54:56"
-    },
-    {
       "source": "The Verge AI",
       "title": "It’s a new heyday for gas thanks to data centers",
       "url": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge",
@@ -2599,19 +2573,6 @@
       "collected_at": "2026-02-06T08:28:16"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Sapiom raises $15M to help AI agents buy their own tech tools",
-      "url": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Thu, 05 Feb 2026 23:53:42 +0000",
-      "summary": "The startup -- with backing from Accel -- is building a financial layer that handles the authentication and micro-payments required for AI agents.",
-      "extra": {},
-      "collected_at": "2026-02-06T13:55:21"
-    },
-    {
       "source": "Google News",
       "title": "アンソロピック、改良版ＡＩモデルを発表 ソフト株再び下落 - ロイター",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXdoWmRsbS1DNjRxdjNCV0RfbWVDUEQ5M2RUckJyVENxSkZrV05nOGQyZUk1RmltQUV6UGhndUNDQ0ZnalROUm53cjVqQkdUclpLeE9oY2ZxNDR0MkJWREl4Y0p6ajZsSEU4dGZQMjJFeE5RcEtUMW1oZk8yVThWWUg2OWZsUjZZSXhnOA?oc=5",
@@ -2715,7 +2676,47 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qx2teh/26_toksec_with_unsloth_qwen3codernextq4_k_s_on/\"> <img alt=\"~26 tok/sec with Unsloth Qwen3-Coder-Next-Q4_K_S on RTX 5090 (Windows/llama.cpp)\" src=\"https://b.thumbs.redditmedia.com/HZiUyd9n-ZrICOCtj5qj7gJrQgYD4FauYK8iUuHW7_s.jpg\" title=\"~26 tok/sec with Unsloth Qwen3-Coder-Next-Q4_K_S on RTX 5090 (Windows/llama.cpp)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/9gfytpz5srhg1.png?",
       "extra": {},
       "collected_at": "2026-02-06T13:55:26"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+      "url": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Thu, 05 Feb 2026 20:01:39 +0000",
+      "summary": "The new model is built to accelerate the capabilities of Codex, the agentic coding tool OpenAI launched earlier this week.",
+      "extra": {},
+      "collected_at": "2026-02-06T15:59:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Kling 3.0",
+      "url": "https://www.producthunt.com/products/kling-ai-4",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Native 4K output with extended video time with just a prompt </p> <p> <a href=\"https://www.producthunt.com/products/kling-ai-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1073802?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-06T15:59:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Deep what do you think?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qx95kh/deep_what_do_you_think/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-06T05:33:40+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qx95kh/deep_what_do_you_think/\"> <img alt=\"Deep what do you think?\" src=\"https://preview.redd.it/xn34gdcd9thg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=26b7c44cef48d1ee6d337de27cabf4346beab450\" title=\"Deep what do you think?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/fais-1669\"> /u/fais-1669 </a> <br /> <span><a href=\"https://i.redd.it/xn34gdcd9thg1.png\">[link]</a></span> &#32; <",
+      "extra": {},
+      "collected_at": "2026-02-06T15:59:52"
     }
   ],
-  "updated_at": "2026-02-06T13:55:26.523666+09:00"
+  "updated_at": "2026-02-06T15:59:52.353645+09:00"
 }
