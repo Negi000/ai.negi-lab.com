@@ -2840,19 +2840,6 @@
       "collected_at": "2026-02-07T08:30:34"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-      "url": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 06 Feb 2026 22:43:22 +0000",
-      "summary": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
-      "extra": {},
-      "collected_at": "2026-02-07T13:45:39"
-    },
-    {
       "source": "Google News",
       "title": "Canva、AI アシスタントで直ちにオンブランドなデザインを実現 - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jTDl2TmFZS000ZTB4c2hHS0NCOWlBV3dzUVMzdlhpb1IxRGtONlN4am1JckozODQ2SGJfWHl6ZHlQLTFZVDVRanFjYkNQbjAtRU1xbzhHTmdFLWFSYjhGNUh4ZTREZEk?oc=5",
@@ -2916,7 +2903,33 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Been playing around with llama.cpp and some 30-80B parameter models with CPU offloading. Currently have one 3090 and 32 GB of RAM. Im very impressed by Nemo 30B. 1M+ Token Context cache, runs on one 3090, CPU offloading for experts. Does 35 t/s which is faster than I can read at least. Usually slow as fuck at this large a context window. Feed it a whole book or research paper and its done summarizing in like a few mins. This really makes long context windows on ",
       "extra": {},
       "collected_at": "2026-02-07T13:45:43"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Benchmark raises $225M in special funds to double down on Cerebras",
+      "url": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sat, 07 Feb 2026 05:23:04 +0000",
+      "summary": "Benchmark Capital has been an investor in the Nvidia rival since 2016.",
+      "extra": {},
+      "collected_at": "2026-02-07T15:48:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Overlead",
+      "url": "https://www.producthunt.com/products/overlead",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Find customers who are literally asking for your product </p> <p> <a href=\"https://www.producthunt.com/products/overlead?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1073886?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-07T15:48:23"
     }
   ],
-  "updated_at": "2026-02-07T13:45:43.944765+09:00"
+  "updated_at": "2026-02-07T15:48:27.318473+09:00"
 }
