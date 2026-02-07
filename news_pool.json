@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Geekflare API",
-      "url": "https://www.producthunt.com/products/geekflare-api",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Scrape, Screenshot, and extract LLM-ready data </p> <p> <a href=\"https://www.producthunt.com/products/geekflare-api?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070109?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-01T08:27:28"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Don’t buy b60 for LLMs",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsenpy/dont_buy_b60_for_llms/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-01-31T21:21:10+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I kinda regret buying b60. I thought that 24gb for 700 eur is a great deal, but the reality is completely different.</p> <p>For starters, I live with a custom compiled kernel with the patch from an Intel dev to solve ffmpeg crashes.</p> <p>Then I had to install the card into a windows machine in order to get GPU firmware updated (under Linux one need v2.0.19 of fwupd which is not available in Ubuntu yet) to solve the crazy fan speed on the b60 even when the temp",
-      "extra": {},
-      "collected_at": "2026-02-01T08:27:30"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "LLMs are great until you point them at actual company data",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qs9zaw/llms_are_great_until_you_point_them_at_actual/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-01-31T18:24:21+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>You know the drill - connect to your CRM, ERP, whatever legacy system management swears is &quot;mission critical.&quot; That part? Done in an afternoon.</p> <p>Then you actually look at the data. Fields named things like custom_attribute_2847. Tables that reference other tables that reference other tables. Documentation that was last updated when flip phones were cool.</p> <p>And when you try to feed this into an LLM for anything useful? It just generates confi",
-      "extra": {},
-      "collected_at": "2026-02-01T08:27:30"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Analyzed 5,357 ICLR 2026 accepted papers - here's what the research community is actually working on",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsh7dz/analyzed_5357_iclr_2026_accepted_papers_heres/",
@@ -2556,19 +2516,6 @@
       "collected_at": "2026-02-07T02:42:06"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "How Elon Musk is rewriting the rules on founder power",
-      "url": "https://techcrunch.com/video/how-elon-musk-is-rewriting-the-rules-on-founder-power/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 06 Feb 2026 18:46:51 +0000",
-      "summary": "Elon Musk&#160;has&#160;merged&#160;SpaceX and xAI,&#160;creating&#160;what might be the blueprint for a new Silicon Valley power structure. With his&#160;$800 billion&#160;net worth already rivaling historic conglomerate GE&#8217;s peak market cap,&#160;and Musk being vocal about his view that &#8220;tech victory is decided by velocity of innovation,&#8221; the question&#160;isn&#8217;t&#160;whether a&#160;personal conglomerate&#160;can be built, but rather how far Musk himself is [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-02-07T08:30:25"
-    },
-    {
       "source": "Product Hunt",
       "title": "Field Theory",
       "url": "https://www.producthunt.com/products/field-theory",
@@ -2944,19 +2891,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "GitBoard",
-      "url": "https://www.producthunt.com/products/gitboard",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Menubar mac app for Github Projects </p> <p> <a href=\"https://www.producthunt.com/products/gitboard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074100?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-08T02:26:15"
-    },
-    {
-      "source": "Product Hunt",
       "title": "stagecaptions.io",
       "url": "https://www.producthunt.com/products/stagecaptions-io",
       "primary_category": "TOOL",
@@ -3033,7 +2967,88 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Wanted to share a quick win. I’ve been experimenting with Agentic RAG to handle a massive local dataset (10,000+ PDFs).</p> <p>Most standard RAG setups were failing or hallucinating at this scale, so I moved to an <strong>Autonomous Agent</strong> workflow using AnythingLLM and Llama 3.2. The agent now performs recursive searches and cross-references data points before giving me a final report.</p> <p>Running it on 32GB RAM was the sweet spot for handling the co",
       "extra": {},
       "collected_at": "2026-02-08T02:26:17"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "New York lawmakers propose a three-year pause on new data centers",
+      "url": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 07 Feb 2026 18:23:04 +0000",
+      "summary": "Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers.",
+      "extra": {},
+      "collected_at": "2026-02-08T08:34:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Nativeline",
+      "url": "https://www.producthunt.com/products/nativeline",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build native Swift iPhone, iPad, and Mac apps with AI </p> <p> <a href=\"https://www.producthunt.com/products/nativeline?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074948?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-08T08:34:38"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I trained a 1.8M params model from scratch on a total of ~40M tokens.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qym566/i_trained_a_18m_params_model_from_scratch_on_a/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-07T18:57:42+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qym566/i_trained_a_18m_params_model_from_scratch_on_a/\"> <img alt=\"I trained a 1.8M params model from scratch on a total of ~40M tokens.\" src=\"https://preview.redd.it/hv5xc4g794ig1.png?width=140&amp;height=72&amp;auto=webp&amp;s=cef557529cd85b5ecdfb430034c5db51f4d966d7\" title=\"I trained a 1.8M params model from scratch on a total of ~40M tokens.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Ok so I've been working &am",
+      "extra": {},
+      "collected_at": "2026-02-08T08:34:40"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Prompt injection is killing our self-hosted LLM deployment",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qyljr0/prompt_injection_is_killing_our_selfhosted_llm/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-07T18:34:55+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We moved to self-hosted models specifically to avoid sending customer data to external APIs. Everything was working fine until last week when someone from QA tried injecting prompts during testing and our entire system prompt got dumped in the response.</p> <p>Now I'm realizing we have zero protection against this. Traditional web application firewalls don't understand LLM-specific attacks. The model just treats malicious prompts like normal user input and happi",
+      "extra": {},
+      "collected_at": "2026-02-08T08:34:40"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemini System Prompt - Google decided to remove \"PRO\" option for paid subscribers mostly in EU due to their A/B testing, so I extracted their system prompt and cancelled the subscription.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qyl6rd/gemini_system_prompt_google_decided_to_remove_pro/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-07T18:21:34+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qyl6rd/gemini_system_prompt_google_decided_to_remove_pro/\"> <img alt=\"Gemini System Prompt - Google decided to remove &quot;PRO&quot; option for paid subscribers mostly in EU due to their A/B testing, so I extracted their system prompt and cancelled the subscription.\" src=\"https://b.thumbs.redditmedia.com/GQChSaPbMeljTuOrlvLzH1SfN18Sj71SBClWPpwoU_M.jpg\" title=\"Gemini System Prompt - Google decided to remove &quot;PRO&quot; o",
+      "extra": {},
+      "collected_at": "2026-02-08T08:34:40"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Full Claude Opus 4.6 System Prompt for your pleasure",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qynxuw/full_claude_opus_46_system_prompt_for_your/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-07T20:07:42+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qynxuw/full_claude_opus_46_system_prompt_for_your/\"> <img alt=\"Full Claude Opus 4.6 System Prompt for your pleasure\" src=\"https://external-preview.redd.it/otAtlKXoVGIzRX_D-XS8ef102ismRuSmY-rYGjCWHEI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=345f8e8a9693f1ecf3f281e2c9b37a5656e8634f\" title=\"Full Claude Opus 4.6 System Prompt for your pleasure\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/u",
+      "extra": {},
+      "collected_at": "2026-02-08T08:34:40"
     }
   ],
-  "updated_at": "2026-02-08T02:26:17.759787+09:00"
+  "updated_at": "2026-02-08T08:34:40.240317+09:00"
 }
