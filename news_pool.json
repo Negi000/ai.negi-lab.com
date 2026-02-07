@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "skills.sh",
-      "url": "https://www.producthunt.com/products/vercel",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The Agent Skills Directory </p> <p> <a href=\"https://www.producthunt.com/products/vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070427?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-01-31T21:58:44"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Here it goes",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qrwo9v/here_it_goes/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-01-31T08:12:32+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qrwo9v/here_it_goes/\"> <img alt=\"Here it goes\" src=\"https://preview.redd.it/pchjv5z88ngg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=46ff31a155e1a7011f67f91d666503ef5cbcdf51\" title=\"Here it goes\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>My friend sold me his mining unit that he never got to use. He had it at his mom’s house and his mom moved out of town so he let me keep it. Was gonna part it out but I thin",
-      "extra": {},
-      "collected_at": "2026-01-31T21:58:47"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "This overhyped nonsense is getting tiring (moltbook)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qryqvo/this_overhyped_nonsense_is_getting_tiring_moltbook/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-01-31T10:17:29+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This morning I check my YouTube feed again to get flooded by multiple videos all talking about this <strong>&quot;</strong>incredible<strong>&quot;</strong> moltbook thing. </p> <p>I thought it was nonsense to begin with but then I decided 'Hey let's give it a look' so I went to go checkout and moltbook myself and the website literally doesn't work. </p> <p>I tried navigated to the 'Browse Submolts' page and clicked over a dozen threads and literally none of the",
-      "extra": {},
-      "collected_at": "2026-01-31T21:58:47"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I found that MXFP4 has lower perplexity than Q4_K_M and Q4_K_XL.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qrzyaz/i_found_that_mxfp4_has_lower_perplexity_than_q4_k/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-01-31T11:27:30+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This post was originally written in Korean and then translated into English using ChatGPT.<br /> Hello, I am currently serving LLM models using a Tesla P40 and llama.cpp. When running models in the 30–32B range, I usually rely on 4-bit quantization. Until now, I primarily used Q4_K_XL, and if Q4_K_XL was not available, I used Q4_K_M instead. I initially avoided MXFP4 quantization because, compared to other 4-bit quantization methods, it has a smaller size, so I ",
-      "extra": {},
-      "collected_at": "2026-01-31T21:58:47"
-    },
-    {
       "source": "GitHub Trending",
       "title": "microsoft/PowerToys",
       "url": "https://github.com/microsoft/PowerToys",
@@ -2682,19 +2628,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Maybe AI agents can be lawyers after all",
-      "url": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 06 Feb 2026 20:26:23 +0000",
-      "summary": "This week's release of Opus 4.6 shook up the agentic AI leaderboards.",
-      "extra": {},
-      "collected_at": "2026-02-07T08:30:25"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "How Elon Musk is rewriting the rules on founder power",
       "url": "https://techcrunch.com/video/how-elon-musk-is-rewriting-the-rules-on-founder-power/",
       "primary_category": "NEWS",
@@ -2906,19 +2839,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "NeuroBlock",
-      "url": "https://www.producthunt.com/products/neuroblock",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> No-code AI Lab: Train models, access datasets, run inference </p> <p> <a href=\"https://www.producthunt.com/products/neuroblock?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068356?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-07T18:30:35"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Developer Docs Audit",
       "url": "https://www.producthunt.com/products/nakora",
       "primary_category": "TOOL",
@@ -2982,7 +2902,144 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><pre><code>GAE (Geodesic Attention Engine) - AGPL-3.0 Results: - 1M tokens: 1.09 GB (standard needs 4.4 TB) - 65K tokens: 99.6% memory reduction - Bit-exact (not approximate, not sparse) - 75%+ energy savings at 8K+ context How: Fused kernel reduces HBM round-trips from 12 to 2. Everything stays in registers. https://github.com/RegularJoe-CEO/Geodesic-Attention-Engine-GAE- DOI: 10.5281/zenodo.18512336 </code></pre> </div><!-- SC_ON --> &#32; submitted by &#32; <a h",
       "extra": {},
       "collected_at": "2026-02-07T18:30:37"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "What happens when Waymo runs into a tornado? Or an elephant?",
+      "url": "https://www.theverge.com/transportation/874771/waymo-world-model-simulation-google-deepmind-genie-3",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-06T11:00:00-05:00",
+      "summary": "An autonomous vehicle drives down a lonely stretch of highway. Suddenly, a massive tornado appears in the distance. What does the driverless vehicle do next? This is just one of the scenarios that Waymo can simulate in the \"hyper realistic\" virtual world that it has just created with help from Google's DeepMind. Waymo's World Model [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-07T22:00:26"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "LIAM",
+      "url": "https://www.producthunt.com/products/liam-email-calendar-assistant",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Email drafts in your voice + inbox organising + scheduling </p> <p> <a href=\"https://www.producthunt.com/products/liam-email-calendar-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074959?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-07T22:00:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Quash",
+      "url": "https://www.producthunt.com/products/quash-intent-driven-mobile-testing",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A mobile QA agent that runs tests without scripts </p> <p> <a href=\"https://www.producthunt.com/products/quash-intent-driven-mobile-testing?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1075021?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-07T22:00:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Fix Ugly PowerPoint by CubeOne",
+      "url": "https://www.producthunt.com/products/cubeone",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Who designed this? </p> <p> <a href=\"https://www.producthunt.com/products/cubeone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071410?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-07T22:00:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Skillkit",
+      "url": "https://www.producthunt.com/products/skillkit-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The package manager for AI agent skills </p> <p> <a href=\"https://www.producthunt.com/products/skillkit-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071813?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-07T22:00:29"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "marticliment/UniGetUI",
+      "url": "https://github.com/marticliment/UniGetUI",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
+      "extra": {
+        "stars_today": "140 stars today"
+      },
+      "collected_at": "2026-02-07T22:00:30"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "bitwarden/server",
+      "url": "https://github.com/bitwarden/server",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
+      "extra": {
+        "stars_today": "18 stars today"
+      },
+      "collected_at": "2026-02-07T22:00:30"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "project-chip/connectedhomeip",
+      "url": "https://github.com/project-chip/connectedhomeip",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+      "extra": {
+        "stars_today": "4 stars today"
+      },
+      "collected_at": "2026-02-07T22:00:30"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Did Google just kill cost-effective LLM with Gemini?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qyb6a4/did_google_just_kill_costeffective_llm_with_gemini/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-02-07T11:11:24+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Feels like Google is <strong>reducing quality while increasing pricing</strong> with Gemini Flash.</p> <p>I used Gemini 2.0 Flash for OCR / data extraction / summarization (no thinking). It was cheap and accurate. Now with Gemini 2.5/3, output pricing jumped ~6×, the cheaper non-thinking option disappeared, <strong>and accuracy didn’t improve,</strong> in our fine-tuned tests it actually got <strong>worse</strong>.</p> <p>So we’re paying more for <em>less</em> a",
+      "extra": {},
+      "collected_at": "2026-02-07T22:00:31"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "An ode to Minimax m2.1",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qy3tr8/an_ode_to_minimax_m21/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-07T04:11:39+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just wanted to share my experience with Minimax m2.1 Specifically the Minimax m2.1 4-bit DWQ MLX quant. </p> <p>I do alot of research, analysis, and synthesis of various papers and architectural components. To date, no other model has been able to touch this model and quant on my hardware (running on an M2 Ultra Mac Studio).</p> <p>From depth of knowledge, directness, lack of sycophancy, intelligence, tone, and speed this model and quant is a godsend for my wo",
+      "extra": {},
+      "collected_at": "2026-02-07T22:00:31"
     }
   ],
-  "updated_at": "2026-02-07T18:30:37.188114+09:00"
+  "updated_at": "2026-02-07T22:00:31.597716+09:00"
 }
