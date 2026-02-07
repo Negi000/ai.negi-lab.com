@@ -1,77 +1,6 @@
 {
   "items": [
     {
-      "source": "GitHub Trending",
-      "title": "microsoft/PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
-      "extra": {
-        "stars_today": "61 stars today"
-      },
-      "collected_at": "2026-02-01T02:24:08"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "jj-vcs/jj",
-      "url": "https://github.com/jj-vcs/jj",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A Git-compatible VCS that is both simple and powerful",
-      "extra": {
-        "stars_today": "49 stars today"
-      },
-      "collected_at": "2026-02-01T02:24:08"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "makeplane/plane",
-      "url": "https://github.com/makeplane/plane",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "extra": {
-        "stars_today": "68 stars today"
-      },
-      "collected_at": "2026-02-01T02:24:08"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "When yet another Chinese no-name lab pops up",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qs4bca/when_yet_another_chinese_noname_lab_pops_up/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-01-31T14:51:03+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qs4bca/when_yet_another_chinese_noname_lab_pops_up/\"> <img alt=\"When yet another Chinese no-name lab pops up\" src=\"https://preview.redd.it/sm9s63r47pgg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=86d012132cd063867837c1c965189e1511a03783\" title=\"When yet another Chinese no-name lab pops up\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/k_means_clusterfuck\"> /u/k_means_clusterfuck </a> <",
-      "extra": {},
-      "collected_at": "2026-02-01T02:24:09"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "g-HOOT in the Machine",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qs27hf/ghoot_in_the_machine/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-01-31T13:21:43+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qs27hf/ghoot_in_the_machine/\"> <img alt=\"g-HOOT in the Machine\" src=\"https://preview.redd.it/z78lvao9rogg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae89cf23b154560e4ea34ce2fff5ea8a457a781b\" title=\"g-HOOT in the Machine\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Paper: <a href=\"https://arxiv.org/abs/2507.14805\">https://arxiv.org/abs/2507.14805</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"ht",
-      "extra": {},
-      "collected_at": "2026-02-01T02:24:09"
-    },
-    {
       "source": "Product Hunt",
       "title": "Geekflare API",
       "url": "https://www.producthunt.com/products/geekflare-api",
@@ -2918,19 +2847,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "LIAM",
-      "url": "https://www.producthunt.com/products/liam-email-calendar-assistant",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Email drafts in your voice + inbox organising + scheduling </p> <p> <a href=\"https://www.producthunt.com/products/liam-email-calendar-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074959?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-07T22:00:29"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Quash",
       "url": "https://www.producthunt.com/products/quash-intent-driven-mobile-testing",
       "primary_category": "TOOL",
@@ -3015,20 +2931,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Did Google just kill cost-effective LLM with Gemini?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qyb6a4/did_google_just_kill_costeffective_llm_with_gemini/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-07T11:11:24+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Feels like Google is <strong>reducing quality while increasing pricing</strong> with Gemini Flash.</p> <p>I used Gemini 2.0 Flash for OCR / data extraction / summarization (no thinking). It was cheap and accurate. Now with Gemini 2.5/3, output pricing jumped ~6×, the cheaper non-thinking option disappeared, <strong>and accuracy didn’t improve,</strong> in our fine-tuned tests it actually got <strong>worse</strong>.</p> <p>So we’re paying more for <em>less</em> a",
-      "extra": {},
-      "collected_at": "2026-02-07T22:00:31"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "An ode to Minimax m2.1",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qy3tr8/an_ode_to_minimax_m21/",
       "primary_category": "GUIDE",
@@ -3039,7 +2941,99 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just wanted to share my experience with Minimax m2.1 Specifically the Minimax m2.1 4-bit DWQ MLX quant. </p> <p>I do alot of research, analysis, and synthesis of various papers and architectural components. To date, no other model has been able to touch this model and quant on my hardware (running on an M2 Ultra Mac Studio).</p> <p>From depth of knowledge, directness, lack of sycophancy, intelligence, tone, and speed this model and quant is a godsend for my wo",
       "extra": {},
       "collected_at": "2026-02-07T22:00:31"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GitBoard",
+      "url": "https://www.producthunt.com/products/gitboard",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Menubar mac app for Github Projects </p> <p> <a href=\"https://www.producthunt.com/products/gitboard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074100?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-08T02:26:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "stagecaptions.io",
+      "url": "https://www.producthunt.com/products/stagecaptions-io",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Real-time captioning software for live events </p> <p> <a href=\"https://www.producthunt.com/products/stagecaptions-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1069661?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-08T02:26:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Felsius",
+      "url": "https://www.producthunt.com/products/felsius",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Never google “what’s 68°F in °C?” again </p> <p> <a href=\"https://www.producthunt.com/products/felsius?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1075373?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-08T02:26:15"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Potential new Qwen and ByteDance Seed models are being tested on the Arena. The “Karp-001” and “Karp-002” models claim to be Qwen-3.5 models. The “Pisces-llm-0206a” and “Pisces-llm-0206b” models claim to be ByteDance models.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qydlwi/potential_new_qwen_and_bytedance_seed_models_are/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-07T13:19:21+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qydlwi/potential_new_qwen_and_bytedance_seed_models_are/\"> <img alt=\"Potential new Qwen and ByteDance Seed models are being tested on the Arena. The “Karp-001” and “Karp-002” models claim to be Qwen-3.5 models. The “Pisces-llm-0206a” and “Pisces-llm-0206b” models claim to be ByteDance models.\" src=\"https://preview.redd.it/rtrygqo1p2ig1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9704e4c75927f5669c01b711e9c25a0d47ce44bb",
+      "extra": {},
+      "collected_at": "2026-02-08T02:26:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I tested 11 small LLMs on tool-calling judgment — on CPU, no GPU.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qyg10z/i_tested_11_small_llms_on_toolcalling_judgment_on/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-07T15:03:14+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Friday night experiment that got out of hand. I wanted to know: how small can a model be and still reliably do tool-calling on a laptop CPU?</p> <p>So I benchmarked 11 models (0.5B to 3.8B) across 12 prompts. No GPU, no cloud API. Just Ollama and bitnet.cpp.</p> <p><strong>The models:</strong> Qwen 2.5 (0.5B, 1.5B, 3B), LLaMA 3.2:3B, SmolLM2:1.7B, Ministral-3:3B, DeepSeek-R1:1.5B, Gemma3:1B, Phi4-mini:3.8B, BitNet 3B (base), BitNet 2B-4T (instruction-tuned)</p> ",
+      "extra": {},
+      "collected_at": "2026-02-08T02:26:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "DeepSeek-V2-Lite vs GPT-OSS-20B on my 2018 potato i3-8145U + UHD 620, OpenVINO Comparison.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qycn5s/deepseekv2lite_vs_gptoss20b_on_my_2018_potato/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-07T12:32:28+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qycn5s/deepseekv2lite_vs_gptoss20b_on_my_2018_potato/\"> <img alt=\"DeepSeek-V2-Lite vs GPT-OSS-20B on my 2018 potato i3-8145U + UHD 620, OpenVINO Comparison.\" src=\"https://b.thumbs.redditmedia.com/HDuzkmv1h50aT7P7iyAduUT2TYW4g84iH4RYq4kv6Hg.jpg\" title=\"DeepSeek-V2-Lite vs GPT-OSS-20B on my 2018 potato i3-8145U + UHD 620, OpenVINO Comparison.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Same potato, new test. If you sa",
+      "extra": {},
+      "collected_at": "2026-02-08T02:26:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Successfully built an Autonomous Research Agent to handle 10k PDFs locally (32GB RAM / AnythingLLM)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qydx7z/successfully_built_an_autonomous_research_agent/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-07T13:33:36+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Wanted to share a quick win. I’ve been experimenting with Agentic RAG to handle a massive local dataset (10,000+ PDFs).</p> <p>Most standard RAG setups were failing or hallucinating at this scale, so I moved to an <strong>Autonomous Agent</strong> workflow using AnythingLLM and Llama 3.2. The agent now performs recursive searches and cross-references data points before giving me a final report.</p> <p>Running it on 32GB RAM was the sweet spot for handling the co",
+      "extra": {},
+      "collected_at": "2026-02-08T02:26:17"
     }
   ],
-  "updated_at": "2026-02-07T22:00:31.597716+09:00"
+  "updated_at": "2026-02-08T02:26:17.759787+09:00"
 }
