@@ -1,47 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "Analyzed 5,357 ICLR 2026 accepted papers - here's what the research community is actually working on",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsh7dz/analyzed_5357_iclr_2026_accepted_papers_heres/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-01-31T23:03:24+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Went through the accepted papers at ICLR 2026 and counted what the research community is actually focusing on. Some findings that seem relevant for people doing local training and fine-tuning:</p> <p><strong>Alignment methods</strong></p> <ul> <li>GRPO appears in 157 papers, DPO in only 55</li> <li>The academic community seems to have largely moved past DPO toward Group Relative Policy Optimization</li> <li>If you're still using DPO for post-training, might be w",
-      "extra": {},
-      "collected_at": "2026-02-01T14:08:02"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Are small models actually getting more efficient?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsjqdl/are_small_models_actually_getting_more_efficient/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-01T00:49:26+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>’m trying to understand whether small models (say, sub-1 GB or around that range) are genuinely getting <em>smarter</em>, or if hard size limits mean they’ll always hit a ceiling.</p> <p>My long-term hope is that we eventually see a small local model reach something close to <strong>Gemini 2.5–level reasoning</strong>, at least for constrained tasks. The use case I care about is games: I’d love to run an LLM locally inside a game to handle logic, dialogue, and s",
-      "extra": {},
-      "collected_at": "2026-02-01T14:08:02"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Beating GPT-2 for <<$100: the nanochat journey · karpathy nanochat · Discussion #481",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsj8x4/beating_gpt2_for_100_the_nanochat_journey/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-01T00:28:32+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qsj8x4/beating_gpt2_for_100_the_nanochat_journey/\"> <img alt=\"Beating GPT-2 for &lt;&lt;$100: the nanochat journey · karpathy nanochat · Discussion #481\" src=\"https://external-preview.redd.it/tRLTF88fq1bbkxeX1rd0tIqyBPPusWm9EVZ_4pC6axI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a46384d561fdba570fc99a8b65c323f9f2075d5\" title=\"Beating GPT-2 for &lt;&lt;$100: the nanochat journey · karpathy nanochat · Discussion #481\" />",
-      "extra": {},
-      "collected_at": "2026-02-01T14:08:02"
-    },
-    {
       "source": "VentureBeat AI",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
@@ -2969,32 +2928,6 @@
       "collected_at": "2026-02-08T02:26:17"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "New York lawmakers propose a three-year pause on new data centers",
-      "url": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 07 Feb 2026 18:23:04 +0000",
-      "summary": "Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers.",
-      "extra": {},
-      "collected_at": "2026-02-08T08:34:35"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Nativeline",
-      "url": "https://www.producthunt.com/products/nativeline",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Build native Swift iPhone, iPad, and Mac apps with AI </p> <p> <a href=\"https://www.producthunt.com/products/nativeline?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074948?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-08T08:34:38"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "I trained a 1.8M params model from scratch on a total of ~40M tokens.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qym566/i_trained_a_18m_params_model_from_scratch_on_a/",
@@ -3048,7 +2981,59 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qynxuw/full_claude_opus_46_system_prompt_for_your/\"> <img alt=\"Full Claude Opus 4.6 System Prompt for your pleasure\" src=\"https://external-preview.redd.it/otAtlKXoVGIzRX_D-XS8ef102ismRuSmY-rYGjCWHEI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=345f8e8a9693f1ecf3f281e2c9b37a5656e8634f\" title=\"Full Claude Opus 4.6 System Prompt for your pleasure\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/u",
       "extra": {},
       "collected_at": "2026-02-08T08:34:40"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Gravity DMG",
+      "url": "https://www.producthunt.com/products/gravity-dmg",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Sign, notarize, & design DMG packages for your macOS apps </p> <p> <a href=\"https://www.producthunt.com/products/gravity-dmg?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1075045?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-08T14:09:26"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "VVTerm",
+      "url": "https://www.producthunt.com/products/vvterm",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ghostty-powered SSH client for iOS, iPad, MacOS. </p> <p> <a href=\"https://www.producthunt.com/products/vvterm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1064959?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-08T14:09:26"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "AIME 2026 Results are out and both closed and open models score above 90%. DeepSeek V3.2 only costs $0.09 to run the entire test.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qyns06/aime_2026_results_are_out_and_both_closed_and/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-07T20:01:22+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qyns06/aime_2026_results_are_out_and_both_closed_and/\"> <img alt=\"AIME 2026 Results are out and both closed and open models score above 90%. DeepSeek V3.2 only costs $0.09 to run the entire test.\" src=\"https://preview.redd.it/7euavxiwo4ig1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=31891ab1e02bef6fcc1b33374b8b479e2fec1051\" title=\"AIME 2026 Results are out and both closed and open models score above 90%. DeepSeek V3.2 o",
+      "extra": {},
+      "collected_at": "2026-02-08T14:09:29"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Llama.cpp's \"--fit\" can give major speedups over \"--ot\" for Qwen3-Coder-Next (2x3090 - graphs/chart included)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qyynyw/llamacpps_fit_can_give_major_speedups_over_ot_for/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-08T03:54:02+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qyynyw/llamacpps_fit_can_give_major_speedups_over_ot_for/\"> <img alt=\"Llama.cpp's &quot;--fit&quot; can give major speedups over &quot;--ot&quot; for Qwen3-Coder-Next (2x3090 - graphs/chart included)\" src=\"https://b.thumbs.redditmedia.com/V82hsSMlAmBr4rUSKI2WUKnD9q38N3Rvi5wreJX85kg.jpg\" title=\"Llama.cpp's &quot;--fit&quot; can give major speedups over &quot;--ot&quot; for Qwen3-Coder-Next (2x3090 - graphs/chart included)\" />",
+      "extra": {},
+      "collected_at": "2026-02-08T14:09:29"
     }
   ],
-  "updated_at": "2026-02-08T08:34:40.240317+09:00"
+  "updated_at": "2026-02-08T14:09:29.109748+09:00"
 }
