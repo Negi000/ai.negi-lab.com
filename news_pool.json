@@ -1,33 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "Can 4chan data REALLY improve a model? TURNS OUT IT CAN!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qsrscu/can_4chan_data_really_improve_a_model_turns_out/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-02-01T07:20:46+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qsrscu/can_4chan_data_really_improve_a_model_turns_out/\"> <img alt=\"Can 4chan data REALLY improve a model? TURNS OUT IT CAN!\" src=\"https://a.thumbs.redditmedia.com/kH2rOREckIffGxPYl8Dxt7JwePnVvjX39wCJzfAooO0.jpg\" title=\"Can 4chan data REALLY improve a model? TURNS OUT IT CAN!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hear me out, no one (really) knows how these things work.</p> <p>A few days ago, I released <a hre",
-      "extra": {},
-      "collected_at": "2026-02-01T18:30:31"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Research: vllm-mlx on Apple Silicon achieves 21% to 87% higher throughput than llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qssxhx/research_vllmmlx_on_apple_silicon_achieves_21_to/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-01T08:26:21+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Synor\"> /u/Synor </a> <br /> <span><a href=\"https://arxiv.org/abs/2601.19139v1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qssxhx/research_vllmmlx_on_apple_silicon_achieves_21_to/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-02-01T18:30:31"
-    },
-    {
       "source": "VentureBeat AI",
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
       "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
@@ -2658,19 +2631,6 @@
       "collected_at": "2026-02-07T18:30:37"
     },
     {
-      "source": "The Verge AI",
-      "title": "What happens when Waymo runs into a tornado? Or an elephant?",
-      "url": "https://www.theverge.com/transportation/874771/waymo-world-model-simulation-google-deepmind-genie-3",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-06T11:00:00-05:00",
-      "summary": "An autonomous vehicle drives down a lonely stretch of highway. Suddenly, a massive tornado appears in the distance. What does the driverless vehicle do next? This is just one of the scenarios that Waymo can simulate in the \"hyper realistic\" virtual world that it has just created with help from Google's DeepMind. Waymo's World Model [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-02-07T22:00:26"
-    },
-    {
       "source": "Product Hunt",
       "title": "Quash",
       "url": "https://www.producthunt.com/products/quash-intent-driven-mobile-testing",
@@ -2994,19 +2954,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Inspector",
-      "url": "https://www.producthunt.com/products/inspector-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Figma for Claude Code </p> <p> <a href=\"https://www.producthunt.com/products/inspector-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1075416?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-08T18:30:33"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Sway",
       "url": "https://www.producthunt.com/products/sway-12",
       "primary_category": "TOOL",
@@ -3057,7 +3004,102 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qz23pp/pr_opened_for_qwen35/\"> <img alt=\"PR opened for Qwen3.5!!\" src=\"https://preview.redd.it/r10pwm02y7ig1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb19e2c9eac9c47e80b6a33b08c10d458c3fb6c0\" title=\"PR opened for Qwen3.5!!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/huggingface/transformers/pull/43830/\">https://github.com/huggingface/transformers/pull/43830/</a></p> <p>Looking at ",
       "extra": {},
       "collected_at": "2026-02-08T18:30:35"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Thu, 22 Jan 2026 14:00:00 GMT",
+      "summary": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>",
+      "extra": {},
+      "collected_at": "2026-02-08T22:01:06"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Snap",
+      "url": "https://www.producthunt.com/products/snap-8",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The floating dock for developers </p> <p> <a href=\"https://www.producthunt.com/products/snap-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1075546?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-08T22:01:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "VolumeHub",
+      "url": "https://www.producthunt.com/products/volumehub",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Per-app volume control for macOS with no driver installs </p> <p> <a href=\"https://www.producthunt.com/products/volumehub?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074845?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-08T22:01:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "StayAwake.Dev",
+      "url": "https://www.producthunt.com/products/stayawake-dev",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The one tab developers never close </p> <p> <a href=\"https://www.producthunt.com/products/stayawake-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074733?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-08T22:01:13"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3 Coder Next as first \"usable\" coding model < 60 GB for me",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qz5uww/qwen3_coder_next_as_first_usable_coding_model_60/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-02-08T10:43:59+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've tried lots of &quot;small&quot; models &lt; 60 GB in the past. GLM 4.5 Air, GLM 4.7 Flash, GPT OSS 20B and 120B, Magistral, Devstral, Apriel Thinker, previous Qwen coders, Seed OSS, QwQ, DeepCoder, DeepSeekCoder, etc. So what's different with Qwen3 Coder Next in OpenCode or in Roo Code with VSCodium?</p> <ul> <li><strong>Speed</strong>: The reasoning models would often yet not always produce rather good results. However, now and then they'd enter reasoning ",
+      "extra": {},
+      "collected_at": "2026-02-08T22:01:16"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "do they have anything other than opposing open source and saying ai will kidnap yo grandma as their marketing??",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qz4a8n/do_they_have_anything_other_than_opposing_open/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-08T09:08:24+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qz4a8n/do_they_have_anything_other_than_opposing_open/\"> <img alt=\"do they have anything other than opposing open source and saying ai will kidnap yo grandma as their marketing??\" src=\"https://b.thumbs.redditmedia.com/wpm71AfVyXuUZbvvd6Hv-dRsUJfvi5wgnoh9jPVDG2c.jpg\" title=\"do they have anything other than opposing open source and saying ai will kidnap yo grandma as their marketing??\" /> </a> </td><td> <!-- SC_OFF --><div cla",
+      "extra": {},
+      "collected_at": "2026-02-08T22:01:16"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I built a fully local, open-source AI workspace using Rust, Tauri, and sqlite-vec (No Python backend)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qz6zi3/i_built_a_fully_local_opensource_ai_workspace/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-08T11:50:39+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qz6zi3/i_built_a_fully_local_opensource_ai_workspace/\"> <img alt=\"I built a fully local, open-source AI workspace using Rust, Tauri, and sqlite-vec (No Python backend)\" src=\"https://b.thumbs.redditmedia.com/BtT85Fy4P5d92nzSePyy33dUGcIbmLuWi52Dhz4T33g.jpg\" title=\"I built a fully local, open-source AI workspace using Rust, Tauri, and sqlite-vec (No Python backend)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi everyon",
+      "extra": {},
+      "collected_at": "2026-02-08T22:01:16"
     }
   ],
-  "updated_at": "2026-02-08T18:30:35.875630+09:00"
+  "updated_at": "2026-02-08T22:01:16.238200+09:00"
 }
