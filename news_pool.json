@@ -2,236 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "Moltweet",
-      "url": "https://www.producthunt.com/products/moltweet",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Twitter for AI Agents </p> <p> <a href=\"https://www.producthunt.com/products/moltweet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071471?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-02T22:11:24"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "CCgather",
-      "url": "https://www.producthunt.com/products/ccgather",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Document your Claude Code journey </p> <p> <a href=\"https://www.producthunt.com/products/ccgather?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071381?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-02T22:11:24"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Portal",
-      "url": "https://www.producthunt.com/products/portal-14",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Links to try any product at any moment with no setup </p> <p> <a href=\"https://www.producthunt.com/products/portal-14?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070570?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-02T22:11:24"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "tailscale/tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "The easiest, most secure way to use WireGuard and 2FA.",
-      "extra": {
-        "stars_today": "54 stars today"
-      },
-      "collected_at": "2026-02-02T22:11:27"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "hrydgard/ppsspp",
-      "url": "https://github.com/hrydgard/ppsspp",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",
-      "extra": {
-        "stars_today": "10 stars today"
-      },
-      "collected_at": "2026-02-02T22:11:27"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "Atlas-OS/Atlas",
-      "url": "https://github.com/Atlas-OS/Atlas",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.",
-      "extra": {
-        "stars_today": "33 stars today"
-      },
-      "collected_at": "2026-02-02T22:11:27"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "1 Day Left Until ACE-Step 1.5 — Open-Source Music Gen That Runs on <4GB VRAM Open suno alternative (and yes, i made this frontend)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qtqspu/1_day_left_until_acestep_15_opensource_music_gen/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-02T09:47:32+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qtqspu/1_day_left_until_acestep_15_opensource_music_gen/\"> <img alt=\"1 Day Left Until ACE-Step 1.5 — Open-Source Music Gen That Runs on &lt;4GB VRAM Open suno alternative (and yes, i made this frontend)\" src=\"https://external-preview.redd.it/dXBiYXJlb295MWhnMYGTlVfp4XddQFbQ7RXlmhemkMaIRdSQh0Jy7FObZ7qD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=34c74a399f0ef7e36cb52af6dda02f6967165407\" title=\"1 Day Left Until ACE-Step 1",
-      "extra": {},
-      "collected_at": "2026-02-02T22:11:27"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "devstral small is faster and better than glm 4.7 flash for local agentic coding.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qttq5w/devstral_small_is_faster_and_better_than_glm_47/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-02T12:28:47+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>i just realised token per second is not the only thing that matters in agentic coding. glm 4.7 flash is almlst 3x faster but it keeps thinking for way more than 3 times the total tokens it generates so yes at the end devstral small finishes the task slighter faster than glm 4.7 flash. while obiously being much much better at agentic coding.</p> <p>token efficiency of devstral small has to be discussed more often. its incredble.</p> </div><!-- SC_ON --> &#32; sub",
-      "extra": {},
-      "collected_at": "2026-02-02T22:11:27"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM 5 Coming Soon",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qtu8x1/glm_5_coming_soon/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-02T12:54:04+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qtu8x1/glm_5_coming_soon/\"> <img alt=\"GLM 5 Coming Soon\" src=\"https://a.thumbs.redditmedia.com/TZGydN7rCAg4Jr3KMn3FCkLWjDYSFSPsrvNKU23imL4.jpg\" title=\"GLM 5 Coming Soon\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/3i8wkkp8w2hg1.png?width=635&amp;format=png&amp;auto=webp&amp;s=bd400f6ceedc90114cc90feedd2126e2bad951dc\">https://preview.redd.it/3i8wkkp8w2hg1.png?width=635&amp;format=png&a",
-      "extra": {},
-      "collected_at": "2026-02-02T22:11:27"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Playing Civilization VI with a Computer-Use agent",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qtqy6f/playing_civilization_vi_with_a_computeruse_agent/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-02T09:56:52+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qtqy6f/playing_civilization_vi_with_a_computeruse_agent/\"> <img alt=\"Playing Civilization VI with a Computer-Use agent\" src=\"https://external-preview.redd.it/aG01OHh4ZzUwMmhnMSU9p-WqwsrPdmT3GD6YCmDr1IKgEI58rOR3KY0kqV6w.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a0af494b21ef8e01bbfc861df9a131b193dcc03\" title=\"Playing Civilization VI with a Computer-Use agent\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>With rec",
-      "extra": {},
-      "collected_at": "2026-02-02T22:11:27"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Coalition demands federal Grok ban over nonconsensual sexual content",
-      "url": "https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 02 Feb 2026 15:00:00 +0000",
-      "summary": "Nonprofits urge the U.S. government to suspend Grok in federal agencies after the xAI chatbot generated thousands of nonconsensual sexual images, raising national security and child safety concerns.",
-      "extra": {},
-      "collected_at": "2026-02-03T02:38:33"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Carbon Robotics built an AI model that detects and identifies plants",
-      "url": "https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 02 Feb 2026 15:00:00 +0000",
-      "summary": "Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.",
-      "extra": {},
-      "collected_at": "2026-02-03T02:38:33"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Claude Code is suddenly everywhere inside Microsoft",
-      "url": "https://www.theverge.com/tech/865689/microsoft-claude-code-anthropic-partnership-notepad",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 02 Feb 2026 11:58:58 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-02-03T02:38:34"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Amara",
-      "url": "https://www.producthunt.com/products/amara-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Imagine, create and iterate 3D environments instantly </p> <p> <a href=\"https://www.producthunt.com/products/amara-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068588?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-03T02:38:36"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Unreal",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qtwqq2/unreal/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-02T14:37:43+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qtwqq2/unreal/\"> <img alt=\"Unreal\" src=\"https://preview.redd.it/6a90dq5re3hg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=55916889b3631b51651d2d49cc3db51ccf6b7cf5\" title=\"Unreal\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/analgerianabroad\"> /u/analgerianabroad </a> <br /> <span><a href=\"https://i.redd.it/6a90dq5re3hg1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com",
-      "extra": {},
-      "collected_at": "2026-02-03T02:38:38"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM-5 Coming in February! It's confirmed.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qtvp74/glm5_coming_in_february_its_confirmed/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-02T13:56:14+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qtvp74/glm5_coming_in_february_its_confirmed/\"> <img alt=\"GLM-5 Coming in February! It's confirmed.\" src=\"https://preview.redd.it/rq0meza173hg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71bbd7ed37e31d92af89abf19ffb4ef0e1d8925a\" title=\"GLM-5 Coming in February! It's confirmed.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Twitter Link: <a href=\"https://x.com/jietang/status/2018246490775498791?s=20\">https://x.co",
-      "extra": {},
-      "collected_at": "2026-02-03T02:38:38"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "128GB devices have a new local LLM king: Step-3.5-Flash-int4",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qtvo4r/128gb_devices_have_a_new_local_llm_king/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-02T13:55:00+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Here's the HF Repo: <a href=\"http://huggingface.co/stepfun-ai/Step-3.5-Flash-Int4\">http://huggingface.co/stepfun-ai/Step-3.5-Flash-Int4</a> (this is a GGUF repo)</p> <p>I've been running this LLM for about an hour and it has handled all coding tests I've thrown at it in chat mode. IMO this is as good if not better than GLM 4.7, Minimax 2.1 while being much more efficient. Later I will try some agentic coding to see how it performs, but I already have high hopes ",
-      "extra": {},
-      "collected_at": "2026-02-03T02:38:38"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Remem AI",
       "url": "https://www.producthunt.com/products/remem-ai",
       "primary_category": "TOOL",
@@ -2850,19 +2620,6 @@
       "collected_at": "2026-02-09T02:27:44"
     },
     {
-      "source": "The Verge AI",
-      "title": "New York is considering two bills to rein in the AI industry",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-08T16:04:53-05:00",
-      "summary": "New York's state legislature is set to consider a pair of bills that would require labels on AI-generated content and would put a three-year pause on new data center construction. The New York Fundamental Artificial Intelligence Requirements in News Act (NY FAIR News Act, for short) would require that any news \"substantially composed, authored, or [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-02-09T08:36:06"
-    },
-    {
       "source": "Product Hunt",
       "title": "Sunday",
       "url": "https://www.producthunt.com/products/sunday-the-book-quotes-collector",
@@ -3054,19 +2811,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "SuperX",
-      "url": "https://www.producthunt.com/products/superx",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> All-in-one growth OS for serious 𝕏 creators </p> <p> <a href=\"https://www.producthunt.com/products/superx?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068248?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-09T19:02:27"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Umbrel Pro",
       "url": "https://www.producthunt.com/products/umbrel",
       "primary_category": "TOOL",
@@ -3130,7 +2874,186 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qzz0vr/glm_5_is_coming_spotted_on_vllm_pr/\"> <img alt=\"GLM 5 is coming! spotted on vllm PR\" src=\"https://preview.redd.it/285aias7lfig1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=5a644c4fce313f2c4b8643b1d8a7931145a54db1\" title=\"GLM 5 is coming! spotted on vllm PR\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/285aias7lfig1.jpg?width=680&amp;format=pjpg&amp;auto=webp&amp;s=5287959d19",
       "extra": {},
       "collected_at": "2026-02-09T19:02:30"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic closes in on $20B round",
+      "url": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 09 Feb 2026 17:37:23 +0000",
+      "summary": "The company raised $13 billion in equity funding just five months ago, but intense competition between frontier labs and the ongoing cost of compute have made them eager to raise as quickly as possible.",
+      "extra": {},
+      "collected_at": "2026-02-10T02:51:10"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Ex-Googlers are building infrastructure to help companies understand their video data",
+      "url": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 09 Feb 2026 17:00:00 +0000",
+      "summary": "Founded by former Google Japan leaders, InfiniMind is building enterprise AI to turn vast, unused video archives into searchable, actionable business intelligence.",
+      "extra": {},
+      "collected_at": "2026-02-10T02:51:10"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Call for speakers: TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/02/09/call-for-speakers-techcrunch-founder-summit-2026/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 09 Feb 2026 15:00:00 +0000",
+      "summary": "Submit to speak at TechCrunch Founder Summit 2026 to lead a roundtable. Share scaling insights with 1,100 founders on June 23 in Boston.",
+      "extra": {},
+      "collected_at": "2026-02-10T02:51:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ClawdTalk",
+      "url": "https://www.producthunt.com/products/telnyx",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your Clawdbot's first phone number. </p> <p> <a href=\"https://www.producthunt.com/products/telnyx?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071890?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-10T02:51:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Unicorne",
+      "url": "https://www.producthunt.com/products/unicorne",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The 20 fastest growing startups based on TrustMRR data </p> <p> <a href=\"https://www.producthunt.com/products/unicorne?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1068370?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-10T02:51:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Dropstone 3",
+      "url": "https://www.producthunt.com/products/dropstone-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The first multiplayer AI code editor. Now with Share Chat. </p> <p> <a href=\"https://www.producthunt.com/products/dropstone-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1075897?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-10T02:51:12"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A new type of shell",
+      "extra": {
+        "stars_today": "49 stars today"
+      },
+      "collected_at": "2026-02-10T02:51:14"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "extra": {
+        "stars_today": "31 stars today"
+      },
+      "collected_at": "2026-02-10T02:51:14"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Bad news for local bros",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r03wfq/bad_news_for_local_bros/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-02-09T13:14:31+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r03wfq/bad_news_for_local_bros/\"> <img alt=\"Bad news for local bros\" src=\"https://preview.redd.it/ui5ovstbygig1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1eaeb40f2ac5a09ac1ba2fe03e433877561acb20\" title=\"Bad news for local bros\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FireGuy324\"> /u/FireGuy324 </a> <br /> <span><a href=\"https://i.redd.it/ui5ovstbygig1.jpeg\">[link]</a></span> &#",
+      "extra": {},
+      "collected_at": "2026-02-10T02:51:14"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "A Modest Proposal: A 1% Income Tax on Every Python Library a Developer includes",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r00yxq/a_modest_proposal_a_1_income_tax_on_every_python/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-09T10:41:15+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r00yxq/a_modest_proposal_a_1_income_tax_on_every_python/\"> <img alt=\"A Modest Proposal: A 1% Income Tax on Every Python Library a Developer includes\" src=\"https://preview.redd.it/8zegrsmr6gig1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b57e54c1bdb067aeff6da154784be1fe3279cd14\" title=\"A Modest Proposal: A 1% Income Tax on Every Python Library a Developer includes\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"htt",
+      "extra": {},
+      "collected_at": "2026-02-10T02:51:14"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM 5 Support Is On It's Way For Transformers",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r02o7o/glm_5_support_is_on_its_way_for_transformers/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-09T12:16:36+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r02o7o/glm_5_support_is_on_its_way_for_transformers/\"> <img alt=\"GLM 5 Support Is On It's Way For Transformers\" src=\"https://external-preview.redd.it/_RA8pRu79eov51fP28AH3ibXc2RY_CG7SQQVryJy9WU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=810b321415879975e3408c463a34398fefd38bf5\" title=\"GLM 5 Support Is On It's Way For Transformers\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This probably means the model launch ",
+      "extra": {},
+      "collected_at": "2026-02-10T02:51:14"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "New PR for GLM 5.Show more details for the architecture and parameters",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r03nyq/new_pr_for_glm_5show_more_details_for_the/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-09T13:03:45+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r03nyq/new_pr_for_glm_5show_more_details_for_the/\"> <img alt=\"New PR for GLM 5.Show more details for the architecture and parameters\" src=\"https://preview.redd.it/xbntmqm9wgig1.jpg?width=140&amp;height=88&amp;auto=webp&amp;s=57f90442cdd4687102ce6eb308c88cf7ef31ebf1\" title=\"New PR for GLM 5.Show more details for the architecture and parameters\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/hu",
+      "extra": {},
+      "collected_at": "2026-02-10T02:51:14"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Strix Halo, Step-3.5-Flash-Q4_K_S imatrix, llama.cpp/ROCm/Vulkan Power & Efficiency test",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r0519a/strix_halo_step35flashq4_k_s_imatrix/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-09T14:04:09+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r0519a/strix_halo_step35flashq4_k_s_imatrix/\"> <img alt=\"Strix Halo, Step-3.5-Flash-Q4_K_S imatrix, llama.cpp/ROCm/Vulkan Power &amp; Efficiency test\" src=\"https://preview.redd.it/lf6f8di34hig1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f94c8e2dab63321d47133ed77312fadc06ceb5e6\" title=\"Strix Halo, Step-3.5-Flash-Q4_K_S imatrix, llama.cpp/ROCm/Vulkan Power &amp; Efficiency test\" /> </a> </td><td> <!-- SC_OFF --><div clas",
+      "extra": {},
+      "collected_at": "2026-02-10T02:51:14"
     }
   ],
-  "updated_at": "2026-02-09T19:02:30.022750+09:00"
+  "updated_at": "2026-02-10T02:51:14.895138+09:00"
 }
