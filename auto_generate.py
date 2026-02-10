@@ -2459,36 +2459,39 @@ class TwitterPoster:
             
             tag_str = ' '.join(tags_list[:4])
 
-            # ===== フック文 =====
-            if hook_text:
-                hook = hook_text
-            else:
-                # バズりやすいフック文パターン（感情+具体性）
-                default_hooks_list = {
-                    Category.NEWS: [
-                        "これマジで革命的かも...🔥",
-                        "え、これ無料でいいの...？",
-                        "知らないと損するやつ来た👀",
-                        "これはヤバい。マジでヤバい。",
-                        "開発者全員見て。これ神。",
-                    ],
-                    Category.TOOL: [
-                        "3日間使い倒した結果...🔥",
-                        "これ知らずに損してた...",
-                        "作業時間が半分になった神ツール",
-                        "無料でここまでできるの反則では",
-                        "もっと早く知りたかった...",
-                    ],
-                    Category.GUIDE: [
-                        "これで詰まってた人、解決します",
-                        "1時間悩んだエラー、これで一発解決",
-                        "初心者の頃の自分に教えたい",
-                        "知らないと一生ハマるやつ",
-                        "これ、教科書には載ってない",
-                    ],
-                }
-                hooks = default_hooks_list.get(category, default_hooks_list[Category.NEWS])
-                hook = random.choice(hooks)
+            # ===== フック文（Gemini生成を無視し、常にバズるテンプレートを使用） =====
+            # 理由: Geminiは「胸アツ展開ですね」等の弱いフックを生成しがち
+            hooks_list = {
+                Category.NEWS: [
+                    "これマジで革命的かも...🔥",
+                    "え、これ無料でいいの...？",
+                    "知らないと損するやつ来た👀",
+                    "これはヤバい。マジでヤバい。",
+                    "開発者全員見て。これ神。",
+                    "これ知らなかったら損してた...",
+                    "まって、これガチでヤバくない？",
+                ],
+                Category.TOOL: [
+                    "3日間使い倒した結果...🔥",
+                    "これ知らずに損してた...",
+                    "作業時間が半分になった神ツール",
+                    "無料でここまでできるの反則では",
+                    "もっと早く知りたかった...",
+                    "ガチで生産性爆上がりした",
+                    "これ導入してから世界変わった",
+                ],
+                Category.GUIDE: [
+                    "これで詰まってた人、解決します",
+                    "1時間悩んだエラー、これで一発解決",
+                    "初心者の頃の自分に教えたい",
+                    "知らないと一生ハマるやつ",
+                    "これ、教科書には載ってない",
+                    "何度もググった人向け、完全解説",
+                    "公式ドキュメントで迷子になった人へ",
+                ],
+            }
+            hooks = hooks_list.get(category, hooks_list[Category.NEWS])
+            hook = random.choice(hooks)
 
             # ===== 要点サマリー =====
             if summary_text:
@@ -2556,32 +2559,30 @@ class TwitterPoster:
             comments = category_comments_list.get(category, category_comments_list[Category.NEWS])
             comment = random.choice(comments)
             
-            # 質問文（リプライ誘発）- 具体的で答えやすく（25〜35文字）
-            if question_text:
-                question = question_text.strip()
-            else:
-                default_questions_list = {
-                    Category.NEWS: [
-                        "これ使う予定ある？気になるポイントあったら教えて🤔",
-                        "ぶっちゃけどう思う？賛否分かれそうだけど意見聞きたい",
-                        "みんなの現場だとどう？導入検討してる人いる？",
-                        "流行ると思う？それとも一過性？予想聞かせて",
-                    ],
-                    Category.TOOL: [
-                        "使ってる人いたら感想聞きたい！他にオススメあれば教えて🙏",
-                        "これの代替ツール知ってる人いる？比較したい",
-                        "導入してる会社ある？実際の運用どんな感じ？",
-                        "無料プランで足りる？有料にした人いたら違い教えて",
-                    ],
-                    Category.GUIDE: [
-                        "ここ分からん！ってとこあったらリプで教えて。追記する📝",
-                        "同じエラーで詰まった人いる？他の解決法あれば共有して",
-                        "これ系で他に困ってることある？リクエストあれば書く",
-                        "解決できた人いたら教えて！記事の改善に活かしたい",
+            # 質問文（Gemini生成を無視し、常にエンゲージメント高い質問を使用）
+            # 理由: Geminiは「どっち派ですか？」等の短い質問を生成しがち
+            questions_list = {
+                Category.NEWS: [
+                    "これ使う予定ある？気になるポイントあったら教えて🤔",
+                    "ぶっちゃけどう思う？賛否分かれそうだけど意見聞きたい",
+                    "みんなの現場だとどう？導入検討してる人いる？",
+                    "流行ると思う？それとも一過性？予想聞かせて",
+                ],
+                Category.TOOL: [
+                    "使ってる人いたら感想聞きたい！他にオススメあれば教えて🙏",
+                    "これの代替ツール知ってる人いる？比較したい",
+                    "導入してる会社ある？実際の運用どんな感じ？",
+                    "無料プランで足りる？有料にした人いたら違い教えて",
+                ],
+                Category.GUIDE: [
+                    "ここ分からん！ってとこあったらリプで教えて。追記する📝",
+                    "同じエラーで詰まった人いる？他の解決法あれば共有して",
+                    "これ系で他に困ってることある？リクエストあれば書く",
+                    "解決できた人いたら教えて！記事の改善に活かしたい",
                     ],
                 }
-                questions = default_questions_list.get(category, default_questions_list[Category.NEWS])
-                question = random.choice(questions)
+            questions = questions_list.get(category, questions_list[Category.NEWS])
+            question = random.choice(questions)
 
             # リプライフォーマット: 感想 + URL + 質問
             # 目標構成: 感想(50) + 改行(2) + URL(45) + 改行(2) + 質問(35) = 約134文字
