@@ -2765,5 +2765,29 @@
     "question_text": null,
     "created_at": "2026-02-10T19:04:10.185986+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-10-53a44d8b",
+    "title": "テキストの壁を越える。AIエージェントが「UI」を自作して回答するAgent Builder by Thesysの衝撃",
+    "url": "https://ai.negi-lab.com/posts/2026-02-10-53a44d8b/",
+    "category": "TOOL",
+    "viral_tags": "#GenerativeUI #ノーコード",
+    "hook_text": "AIが「画面」をその場で作って回答する。これ、チャットの完成形じゃないですか？",
+    "summary_text": "・AIがテキストではなくUIで回答\n・グラフやボタンを動的に生成\n・既存アプリへの組み込みも容易",
+    "question_text": "AIの回答はテキストとUI、どっちが使いやすいと思う？🤔",
+    "created_at": "2026-02-10T22:26:51.283202+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-10-cd5ae923",
+    "title": "Hugging FaceでAnthropic Claudeを使いこなす：最新連携ガイドと環境構築入門",
+    "url": "https://ai.negi-lab.com/posts/2026-02-10-cd5ae923/",
+    "category": "GUIDE",
+    "viral_tags": "#Claude3 #HuggingFace初心者",
+    "hook_text": "ついにHugging FaceとClaudeが...胸アツ展開ですね。",
+    "summary_text": "・HFとAnthropicの連携が加速\n・API連携の具体的コードを解説\n・Spacesでのデプロイ手順も網羅",
+    "question_text": "ClaudeとLlama、どっち派ですか？",
+    "created_at": "2026-02-10T22:28:32.756542+09:00",
+    "posted": false
   }
 ]
