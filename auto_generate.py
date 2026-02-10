@@ -40,6 +40,8 @@ import requests
 from bs4 import BeautifulSoup
 
 import google.generativeai as genai
+from google import genai as genai_new
+from google.genai import types as genai_types
 
 # Twitter投稿用 (オプション)
 try:
@@ -2215,11 +2217,13 @@ print(result)
 # ============================================================
 
 class ImageHandler:
-    """Pollinations.ai を使用した画像生成・ローカル保存"""
+    """Gemini ネイティブ画像生成を使用した画像生成・ローカル保存"""
 
     def __init__(self, api_key: str, model_name: str = "gemini-3-flash-preview") -> None:
         genai.configure(api_key=api_key)
         self.model = genai.GenerativeModel(model_name)
+        # Gemini 画像生成用クライアント（新SDK）
+        self.image_client = genai_new.Client(api_key=api_key)
 
     def generate_and_save_image(
         self,
@@ -2230,8 +2234,7 @@ class ImageHandler:
         output_dir: Path,
     ) -> str:
         """
-        記事内容に基づいた画像を生成しローカルに保存。
-        (Pollinations.ai v2 API対応: model=flux, seed指定)
+        記事内容に基づいた画像をGemini APIで生成しローカルに保存。
         
         Args:
             title: 記事タイトル
@@ -2243,25 +2246,32 @@ class ImageHandler:
         Returns:
             Hugo用の相対パス (例: /images/posts/2026-01-13-abc123.png)
         """
-        # プロンプト生成
+        # テキストモデルで画像生成用プロンプトを作成
         prompt_en = self._generate_image_prompt(title, body, category)
         
-        # Pollinations.aiから画像をダウンロード
-        # URLエンコード
-        encoded = quote(prompt_en, safe="")
-        
-        # ランダムシードを生成 (キャッシュ回避とバリエーション確保のため必須)
-        seed = random.randint(0, 1000000)
-        
-        # 新しいエンドポイント形式: https://pollinations.ai/p/{prompt}?parameters
-        # model=flux : 高品質なFluxモデルを指定
-        # nologo=true : 効かない場合もあるが念のため残す
-        image_url = f"https://pollinations.ai/p/{encoded}?width=1200&height=630&seed={seed}&model=flux&nologo=true"
-        
         try:
-            # タイムアウトを少し長めに設定 (Fluxモデルは生成に時間がかかる場合があるため)
-            response = requests.get(image_url, timeout=60)
-            response.raise_for_status()
+            # Gemini 画像生成モデルで画像を生成
+            response = self.image_client.models.generate_content(
+                model="gemini-2.5-flash-image",
+                contents=[prompt_en],
+                config=genai_types.GenerateContentConfig(
+                    response_modalities=['Image'],
+                    image_config=genai_types.ImageConfig(
+                        aspect_ratio="16:9",
+                    ),
+                ),
+            )
+            
+            # レスポンスから画像データを抽出
+            image_data = None
+            if response.candidates and response.candidates[0].content:
+                for part in response.candidates[0].content.parts:
+                    if part.inline_data is not None:
+                        image_data = part.inline_data.data
+                        break
+            
+            if image_data is None:
+                raise ValueError("No image data in Gemini response")
             
             # 保存先ディレクトリ作成
             output_dir.mkdir(parents=True, exist_ok=True)
@@ -2269,15 +2279,15 @@ class ImageHandler:
             # ファイル保存
             filename = f"{article_id}.png"
             file_path = output_dir / filename
-            file_path.write_bytes(response.content)
+            file_path.write_bytes(image_data)
             
             # Hugo用相対パス
             return f"/images/posts/{filename}"
             
         except Exception as e:
-            print(f"  [Image] Download failed: {e}")
-            # フォールバック: URLを返す
-            return image_url
+            print(f"  [Image] Gemini image generation failed: {e}")
+            # フォールバック: デフォルトのプレースホルダーパスを返す
+            return "/images/default-thumbnail.png"
 
     def download_image_to_bytes(self, image_path_or_url: str, static_dir: Path) -> Optional[bytes]:
         """
@@ -3089,23 +3099,42 @@ cover:
     
     print(f"✓ Digest saved: {output_path.name}")
     
-    # 画像生成
+    # 画像生成 (Gemini ネイティブ画像生成)
     try:
-        image_prompt = f"Weekly AI news digest infographic, modern tech style, blue and green gradient, {week_end}"
-        encoded = quote(image_prompt, safe="")
+        image_prompt = f"Weekly AI news digest infographic, modern tech style, blue and green gradient, abstract visualization, no text, no logos, professional, {week_end}"
         
-        # ▼ ランダムシードを追加
-        seed = random.randint(0, 1000000)
-        # ▼ 新しいURL形式、Fluxモデル、Seed指定に変更
-        image_url = f"https://pollinations.ai/p/{encoded}?width=1200&height=630&seed={seed}&model=flux&nologo=true"
+        gemini_api_key = os.getenv("GEMINI_API_KEY", "")
+        if not gemini_api_key:
+            # main()と同じ環境変数名を試す
+            gemini_api_key = os.getenv("GOOGLE_API_KEY", "")
         
-        response = requests.get(image_url, timeout=60)
-        response.raise_for_status()
+        image_client = genai_new.Client(api_key=gemini_api_key)
+        img_response = image_client.models.generate_content(
+            model="gemini-2.5-flash-image",
+            contents=[image_prompt],
+            config=genai_types.GenerateContentConfig(
+                response_modalities=['Image'],
+                image_config=genai_types.ImageConfig(
+                    aspect_ratio="16:9",
+                ),
+            ),
+        )
+        
+        # 画像データ抽出
+        image_data = None
+        if img_response.candidates and img_response.candidates[0].content:
+            for part in img_response.candidates[0].content.parts:
+                if part.inline_data is not None:
+                    image_data = part.inline_data.data
+                    break
+        
+        if image_data is None:
+            raise ValueError("No image data in Gemini response")
         
         images_dir = repo_root / "static" / "images" / "posts"
         images_dir.mkdir(parents=True, exist_ok=True)
         image_path = images_dir / f"{article_id}.png"
-        image_path.write_bytes(response.content)
+        image_path.write_bytes(image_data)
         
         print(f"✓ Image saved: {image_path.name}")
     except Exception as e:

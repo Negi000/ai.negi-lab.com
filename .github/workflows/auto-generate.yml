@@ -62,7 +62,7 @@ jobs:
       - name: Install Python dependencies
         run: |
           pip install --upgrade pip
-          pip install google-generativeai feedparser requests beautifulsoup4 python-dotenv tweepy Pillow
+          pip install google-generativeai google-genai feedparser requests beautifulsoup4 python-dotenv tweepy Pillow
 
       - name: Install Hugo CLI
         run: |
