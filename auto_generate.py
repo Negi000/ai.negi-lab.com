@@ -2957,7 +2957,11 @@ cover:
     try:
         image_prompt = f"Weekly AI news digest infographic, modern tech style, blue and green gradient, {week_end}"
         encoded = quote(image_prompt, safe="")
-        image_url = f"https://image.pollinations.ai/prompt/{encoded}?width=1200&height=630&nologo=true"
+        
+        # ▼ ランダムシードを追加
+        seed = random.randint(0, 1000000)
+        # ▼ 新しいURL形式、Fluxモデル、Seed指定に変更
+        image_url = f"https://pollinations.ai/p/{encoded}?width=1200&height=630&seed={seed}&model=flux&nologo=true"
         
         response = requests.get(image_url, timeout=60)
         response.raise_for_status()
