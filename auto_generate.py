@@ -2231,6 +2231,7 @@ class ImageHandler:
     ) -> str:
         """
         記事内容に基づいた画像を生成しローカルに保存。
+        (Pollinations.ai v2 API対応: model=flux, seed指定)
         
         Args:
             title: 記事タイトル
@@ -2246,10 +2247,19 @@ class ImageHandler:
         prompt_en = self._generate_image_prompt(title, body, category)
         
         # Pollinations.aiから画像をダウンロード
+        # URLエンコード
         encoded = quote(prompt_en, safe="")
-        image_url = f"https://image.pollinations.ai/prompt/{encoded}?width=1200&height=630&nologo=true"
+        
+        # ランダムシードを生成 (キャッシュ回避とバリエーション確保のため必須)
+        seed = random.randint(0, 1000000)
+        
+        # 新しいエンドポイント形式: https://pollinations.ai/p/{prompt}?parameters
+        # model=flux : 高品質なFluxモデルを指定
+        # nologo=true : 効かない場合もあるが念のため残す
+        image_url = f"https://pollinations.ai/p/{encoded}?width=1200&height=630&seed={seed}&model=flux&nologo=true"
         
         try:
+            # タイムアウトを少し長めに設定 (Fluxモデルは生成に時間がかかる場合があるため)
             response = requests.get(image_url, timeout=60)
             response.raise_for_status()
             
@@ -2266,7 +2276,7 @@ class ImageHandler:
             
         except Exception as e:
             print(f"  [Image] Download failed: {e}")
-            # フォールバック: URLを返す（レート制限時用）
+            # フォールバック: URLを返す
             return image_url
 
     def download_image_to_bytes(self, image_path_or_url: str, static_dir: Path) -> Optional[bytes]:
@@ -3083,7 +3093,11 @@ cover:
     try:
         image_prompt = f"Weekly AI news digest infographic, modern tech style, blue and green gradient, {week_end}"
         encoded = quote(image_prompt, safe="")
-        image_url = f"https://image.pollinations.ai/prompt/{encoded}?width=1200&height=630&nologo=true"
+        
+        # ▼ ランダムシードを追加
+        seed = random.randint(0, 1000000)
+        # ▼ 新しいURL形式、Fluxモデル、Seed指定に変更
+        image_url = f"https://pollinations.ai/p/{encoded}?width=1200&height=630&seed={seed}&model=flux&nologo=true"
         
         response = requests.get(image_url, timeout=60)
         response.raise_for_status()
