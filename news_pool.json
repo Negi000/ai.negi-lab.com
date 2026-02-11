@@ -1,152 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
-      "url": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 04 Feb 2026 15:33:58 +0000",
-      "summary": "ElevenLabs' valuation has raised more than three times in the last 12 months.",
-      "extra": {},
-      "collected_at": "2026-02-05T02:45:43"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Alexa+, Amazon’s AI assistant, is now available to everyone in the U.S.",
-      "url": "https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 04 Feb 2026 14:00:00 +0000",
-      "summary": "Amazon opens Alexa+ to everyone in the U.S. The AI feature is free for Prime members across devices, and free for everyone on mobile and web.",
-      "extra": {},
-      "collected_at": "2026-02-05T02:45:43"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Claude Is a Space to Think",
-      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 04 Feb 2026 12:08:49 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-02-05T02:45:49"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "CatchBack Cards",
-      "url": "https://www.producthunt.com/products/catchback-cards",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Create custom mystery packs of Pokemon and Sports cards </p> <p> <a href=\"https://www.producthunt.com/products/catchback-cards?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070241?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-05T02:45:52"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Miniloop",
-      "url": "https://www.producthunt.com/products/miniloop",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn natural language into AI agents and automations </p> <p> <a href=\"https://www.producthunt.com/products/miniloop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1065135?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-05T02:45:52"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Bashing Ollama isn’t just a pleasure, it’s a duty",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qvq0xe/bashing_ollama_isnt_just_a_pleasure_its_a_duty/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-04T14:29:48+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qvq0xe/bashing_ollama_isnt_just_a_pleasure_its_a_duty/\"> <img alt=\"Bashing Ollama isn’t just a pleasure, it’s a duty\" src=\"https://preview.redd.it/ad5zhvq0nhhg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b9fa62de0e64a6887124b87e66b3b99b2942107\" title=\"Bashing Ollama isn’t just a pleasure, it’s a duty\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jacek2023\"> /u/jacek2023 </a> <br /> <",
-      "extra": {},
-      "collected_at": "2026-02-05T02:45:55"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Some hard lessons learned building a private H100 cluster (Why PCIe servers failed us for training)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qvrc59/some_hard_lessons_learned_building_a_private_h100/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-04T15:20:42+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><sup>Just wanted to dump some notes here after spending the last few months architecting a private training stack (70B+ param models. We initially tried to save budget by looking at standard PCIe servers instead of the HGX/SXM form factors, and honestly, the &quot;paper math&quot; vs. reality was a brutal wake-up call.</sup>)</p> <p><sup>Thought this might save someone else the headache if you're trying to move from inference to actual training runs on-prem.</su",
-      "extra": {},
-      "collected_at": "2026-02-05T02:45:55"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "mistralai/Voxtral-Mini-4B-Realtime-2602 · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qvrib9/mistralaivoxtralmini4brealtime2602_hugging_face/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-04T15:27:12+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qvrib9/mistralaivoxtralmini4brealtime2602_hugging_face/\"> <img alt=\"mistralai/Voxtral-Mini-4B-Realtime-2602 · Hugging Face\" src=\"https://external-preview.redd.it/RirqAaXL1g9xgccy6jCj8FpDgCmNmT4kPmfCbcwIIl8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4fa31e09623598564a99beea3a398a9c824d4f9\" title=\"mistralai/Voxtral-Mini-4B-Realtime-2602 · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Voxtral Mini 4B ",
-      "extra": {},
-      "collected_at": "2026-02-05T02:45:55"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Intern-S1-Pro (1T/A22B)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qvox18/interns1pro_1ta22b/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-04T13:43:51+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qvox18/interns1pro_1ta22b/\"> <img alt=\"Intern-S1-Pro (1T/A22B)\" src=\"https://preview.redd.it/kobet850fhhg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f3ca84ca0879baf4bbb204fc239f5b6087ee3a57\" title=\"Intern-S1-Pro (1T/A22B)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>🚀Introducing Intern-S1-Pro, an advanced 1T MoE open-source multimodal scientific reasoning model.</p> <p>- SOTA scientific reasoning, competitive",
-      "extra": {},
-      "collected_at": "2026-02-05T02:45:55"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "internlm/Intern-S1-Pro · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qvp2hg/internlminterns1pro_hugging_face/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-04T13:50:20+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qvp2hg/internlminterns1pro_hugging_face/\"> <img alt=\"internlm/Intern-S1-Pro · Hugging Face\" src=\"https://external-preview.redd.it/YxAPCHfyx1X69aAa5eRKFFzDTrzC_SvUlWSg_aGoYn8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b1a22c338f7ffdcfdd1ac0da2068e064b078cc48\" title=\"internlm/Intern-S1-Pro · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>from internlm:</p> <h1>Introduction</h1> <p>We introduce Intern-S",
-      "extra": {},
-      "collected_at": "2026-02-05T02:45:55"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "model: (qwen3next) correct vectorized key_gdiff calculation by ngxson · Pull Request #19324 · ggml-org/llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qvp0hm/model_qwen3next_correct_vectorized_key_gdiff/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-04T13:47:55+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qvp0hm/model_qwen3next_correct_vectorized_key_gdiff/\"> <img alt=\"model: (qwen3next) correct vectorized key_gdiff calculation by ngxson · Pull Request #19324 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/Dqgg7ZvrLWPUlWr_lQFMlLvrUGKt4Wjs_hNwPvpf-8k.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cecc3e5f53db33a22bb927dfd55b97e94627ad38\" title=\"model: (qwen3next) correct vectorized key_gdiff calculation by ngxson",
-      "extra": {},
-      "collected_at": "2026-02-05T02:45:55"
-    },
-    {
       "source": "Product Hunt",
       "title": "Postproxy",
       "url": "https://www.producthunt.com/products/postproxy",
@@ -3058,19 +2912,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Hermes Markdown",
-      "url": "https://www.producthunt.com/products/hermesmd",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A notebook for drafting AI prompts with a clarity score </p> <p> <a href=\"https://www.producthunt.com/products/hermesmd?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077277?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-11T22:21:43"
-    },
-    {
-      "source": "Product Hunt",
       "title": "happycapy",
       "url": "https://www.producthunt.com/products/happycapy",
       "primary_category": "TOOL",
@@ -3170,20 +3011,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "GLM 5 Released",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r1wl6x/glm_5_released/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-02-11T12:53:30+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r1wl6x/glm_5_released/\"> <img alt=\"GLM 5 Released\" src=\"https://preview.redd.it/mvdnn18e4vig1.png?width=140&amp;height=42&amp;auto=webp&amp;s=5b006a25f178b73764138eabdb11ae38eb368d7f\" title=\"GLM 5 Released\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://chat.z.ai/\">https://chat.z.ai/</a></p> <p><a href=\"https://preview.redd.it/mvdnn18e4vig1.png?width=799&amp;format=png&amp;auto=webp&amp;s=6324969f9d24fa",
-      "extra": {},
-      "collected_at": "2026-02-11T22:21:46"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Just finished building this bad boy",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r1tuh1/just_finished_building_this_bad_boy/",
       "primary_category": "GUIDE",
@@ -3223,7 +3050,115 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r1wnj9/minimax_m25_released/\"> <img alt=\"MiniMax M2.5 Released\" src=\"https://preview.redd.it/uou9tmkx4vig1.png?width=140&amp;height=80&amp;auto=webp&amp;s=3113e726ff999e0cdee3a5021d7abd5f90521d6e\" title=\"MiniMax M2.5 Released\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/uou9tmkx4vig1.png?width=1380&amp;format=png&amp;auto=webp&amp;s=01ab95d308d2f7ab77567a92ec882f3ac2d71755\">https://pr",
       "extra": {},
       "collected_at": "2026-02-11T22:21:46"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "How AI changes the math for startups, according to a Microsoft VP",
+      "url": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Wed, 11 Feb 2026 17:51:37 +0000",
+      "summary": "Amanda Silver is a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises.",
+      "extra": {},
+      "collected_at": "2026-02-12T02:56:26"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Senior engineers, including co-founders, exit xAI amid controversy",
+      "url": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 11 Feb 2026 16:39:49 +0000",
+      "summary": "At least nine engineers, including two cofounders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
+      "extra": {},
+      "collected_at": "2026-02-12T02:56:26"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce",
+      "url": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 11 Feb 2026 16:00:00 +0000",
+      "summary": "The startup, Monaco, has come out of stealth as an AI-native all-in-one CRM plus more system backed by names like the Collison brothers and Garry Tan.",
+      "extra": {},
+      "collected_at": "2026-02-12T02:56:26"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Drift",
+      "url": "https://www.producthunt.com/products/drift-7",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Scroll on a isolated window while waiting for AI responses </p> <p> <a href=\"https://www.producthunt.com/products/drift-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076164?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-12T02:56:28"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM-5 Officially Released",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r22hlq/glm5_officially_released/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-11T16:47:29+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r22hlq/glm5_officially_released/\"> <img alt=\"GLM-5 Officially Released\" src=\"https://preview.redd.it/h2bmmfa5awig1.jpg?width=140&amp;height=95&amp;auto=webp&amp;s=48723badc371c5206ca5e6292829eb25b9ec00d5\" title=\"GLM-5 Officially Released\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>We are launching GLM-5, targeting complex systems engineering and long-horizon agentic tasks. Scaling is still one of the most important ",
+      "extra": {},
+      "collected_at": "2026-02-12T02:56:30"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM 5.0 & MiniMax 2.5 Just Dropped, Are We Entering China's Agent War Era?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r1x0qi/glm_50_minimax_25_just_dropped_are_we_entering/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-11T13:12:51+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r1x0qi/glm_50_minimax_25_just_dropped_are_we_entering/\"> <img alt=\"GLM 5.0 &amp; MiniMax 2.5 Just Dropped, Are We Entering China's Agent War Era?\" src=\"https://preview.redd.it/k4rtczs47vig1.png?width=140&amp;height=56&amp;auto=webp&amp;s=46cd0e4543f951137b6e945d501812280005a7d3\" title=\"GLM 5.0 &amp; MiniMax 2.5 Just Dropped, Are We Entering China's Agent War Era?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>GLM 5.0 (",
+      "extra": {},
+      "collected_at": "2026-02-12T02:56:30"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r22co6/glm5_from_vibe_coding_to_agentic_engineering/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-11T16:42:30+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ShreckAndDonkey123\"> /u/ShreckAndDonkey123 </a> <br /> <span><a href=\"https://z.ai/blog/glm-5\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r22co6/glm5_from_vibe_coding_to_agentic_engineering/\">[comments]</a></span>",
+      "extra": {},
+      "collected_at": "2026-02-12T02:56:30"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Add Kimi-K2.5 support",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r20wki/add_kimik25_support/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-11T15:48:39+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r20wki/add_kimik25_support/\"> <img alt=\"Add Kimi-K2.5 support\" src=\"https://external-preview.redd.it/5gup_oD4lytsLI1wID-Zo3RkPiRxiRbU2Hm7r-fkB2I.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=58c51ab74c9a734ec60838d3f67b78c6df26076b\" title=\"Add Kimi-K2.5 support\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jacek2023\"> /u/jacek2023 </a> <br /> <span><a href=\"https://github.com/ggml-org/ll",
+      "extra": {},
+      "collected_at": "2026-02-12T02:56:30"
     }
   ],
-  "updated_at": "2026-02-11T22:21:46.062083+09:00"
+  "updated_at": "2026-02-12T02:56:30.591380+09:00"
 }
