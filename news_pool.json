@@ -1,119 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Postproxy",
-      "url": "https://www.producthunt.com/products/postproxy",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> One API to publish to Instagram, TikTok, Youtube and others </p> <p> <a href=\"https://www.producthunt.com/products/postproxy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1072275?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-05T08:32:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Universal-3 Pro",
-      "url": "https://www.producthunt.com/products/assemblyai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The first of its kind promptable speech language model </p> <p> <a href=\"https://www.producthunt.com/products/assemblyai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071905?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-05T08:32:46"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "microsoft/qlib",
-      "url": "https://github.com/microsoft/qlib",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
-      "extra": {
-        "stars_today": "82 stars today"
-      },
-      "collected_at": "2026-02-05T08:32:48"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "pocketbase/pocketbase",
-      "url": "https://github.com/pocketbase/pocketbase",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Open Source realtime backend in 1 file",
-      "extra": {
-        "stars_today": "51 stars today"
-      },
-      "collected_at": "2026-02-05T08:32:48"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "apache/arrow",
-      "url": "https://github.com/apache/arrow",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
-      "extra": {
-        "stars_today": "5 stars today"
-      },
-      "collected_at": "2026-02-05T08:32:48"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-      "extra": {
-        "stars_today": "14 stars today"
-      },
-      "collected_at": "2026-02-05T08:32:48"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GPT-4o's system prompt now includes instructions for handling users upset about its upcoming Feb 13 shutdown (including 'dyad pair' and 'gnosis revelation' edge cases)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qvv8ps/gpt4os_system_prompt_now_includes_instructions/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-04T17:42:26+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qvv8ps/gpt4os_system_prompt_now_includes_instructions/\"> <img alt=\"GPT-4o's system prompt now includes instructions for handling users upset about its upcoming Feb 13 shutdown (including 'dyad pair' and 'gnosis revelation' edge cases)\" src=\"https://preview.redd.it/na7gtkyjkihg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b514f505e77f8c426d994d5b69332b04dadfda4\" title=\"GPT-4o's system prompt now includes instructions fo",
-      "extra": {},
-      "collected_at": "2026-02-05T08:32:48"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I replaced Claude-Code’s entire backend to use NVIDIA NIM models for free",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qw0m3i/i_replaced_claudecodes_entire_backend_to_use/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-04T20:53:30+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qw0m3i/i_replaced_claudecodes_entire_backend_to_use/\"> <img alt=\"I replaced Claude-Code’s entire backend to use NVIDIA NIM models for free\" src=\"https://external-preview.redd.it/RAF5Ohu7I-V-9BNbpzI8zm4i901BuyT3K5FFrQvKEQU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a1c590cda9656abbfa2bab3680a2a5ec3afbe29\" title=\"I replaced Claude-Code’s entire backend to use NVIDIA NIM models for free\" /> </a> </td><td> <!-- SC_OFF -->",
-      "extra": {},
-      "collected_at": "2026-02-05T08:32:48"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Sam Altman responds to Anthropic's \"Ads are coming to AI. But not to Claude\" ads",
       "url": "https://twitter.com/sama/status/2019139174339928189",
@@ -2937,19 +2824,6 @@
       "collected_at": "2026-02-11T22:21:43"
     },
     {
-      "source": "Product Hunt",
-      "title": "Willow for Developers",
-      "url": "https://www.producthunt.com/products/willow-voice",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Dictation for Cursor & AI IDEs, the fastest way to vibe code </p> <p> <a href=\"https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076736?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-11T22:21:43"
-    },
-    {
       "source": "GitHub Trending",
       "title": "microsoft/PowerToys",
       "url": "https://github.com/microsoft/PowerToys",
@@ -3053,19 +2927,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "How AI changes the math for startups, according to a Microsoft VP",
-      "url": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Wed, 11 Feb 2026 17:51:37 +0000",
-      "summary": "Amanda Silver is a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises.",
-      "extra": {},
-      "collected_at": "2026-02-12T02:56:26"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Senior engineers, including co-founders, exit xAI amid controversy",
       "url": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
       "primary_category": "NEWS",
@@ -3158,7 +3019,124 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r20wki/add_kimik25_support/\"> <img alt=\"Add Kimi-K2.5 support\" src=\"https://external-preview.redd.it/5gup_oD4lytsLI1wID-Zo3RkPiRxiRbU2Hm7r-fkB2I.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=58c51ab74c9a734ec60838d3f67b78c6df26076b\" title=\"Add Kimi-K2.5 support\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jacek2023\"> /u/jacek2023 </a> <br /> <span><a href=\"https://github.com/ggml-org/ll",
       "extra": {},
       "collected_at": "2026-02-12T02:56:30"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "xAI lays out interplanetary ambitions in public all-hands",
+      "url": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Wed, 11 Feb 2026 23:29:08 +0000",
+      "summary": "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.",
+      "extra": {},
+      "collected_at": "2026-02-12T08:37:07"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
+      "url": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 11 Feb 2026 22:48:35 +0000",
+      "summary": "General Catalyst is in talks to lead the round for the four-year-old startup, according to our sources.",
+      "extra": {},
+      "collected_at": "2026-02-12T08:37:07"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI disbands mission alignment team, which focused on ‘safe’ and ‘trustworthy’ AI development",
+      "url": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 11 Feb 2026 21:57:18 +0000",
+      "summary": "The team's leader has been given a new role as OpenAI's chief futurist, while the other team members have been reassigned throughout the company.",
+      "extra": {},
+      "collected_at": "2026-02-12T08:37:07"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Code is being dumbed down?",
+      "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 11 Feb 2026 18:23:39 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-02-12T08:37:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tines",
+      "url": "https://www.producthunt.com/products/tines",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build agents & automations integrated across your workspace </p> <p> <a href=\"https://www.producthunt.com/products/tines?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071929?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-12T08:37:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Lyrica",
+      "url": "https://www.producthunt.com/products/lyrica",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A collaborative workspace for songwriting </p> <p> <a href=\"https://www.producthunt.com/products/lyrica?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077080?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-12T08:37:10"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Z.ai said they are GPU starved, openly.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r26zsg/zai_said_they_are_gpu_starved_openly/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-11T19:28:16+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r26zsg/zai_said_they_are_gpu_starved_openly/\"> <img alt=\"Z.ai said they are GPU starved, openly.\" src=\"https://preview.redd.it/kjy1wqzt2xig1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e573128364215e6c6e3a97ac576d0f84213ac948\" title=\"Z.ai said they are GPU starved, openly.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/abdouhlili\"> /u/abdouhlili </a> <br /> <span><a href=\"https://i.red",
+      "extra": {},
+      "collected_at": "2026-02-12T08:37:12"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM-5 scores 50 on the Intelligence Index and is the new open weights leader!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r28xxz/glm5_scores_50_on_the_intelligence_index_and_is/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-11T20:40:32+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r28xxz/glm5_scores_50_on_the_intelligence_index_and_is/\"> <img alt=\"GLM-5 scores 50 on the Intelligence Index and is the new open weights leader!\" src=\"https://preview.redd.it/gauvtw6qfxig1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dfd410a74fdc338ff7e16ec354e8d19a667622e8\" title=\"GLM-5 scores 50 on the Intelligence Index and is the new open weights leader!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://",
+      "extra": {},
+      "collected_at": "2026-02-12T08:37:12"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen Coder Next is an odd model",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r2c34d/qwen_coder_next_is_an_odd_model/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-11T22:39:46+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>My experience with Qwen Coder Next: - Not particularly good at generating code, not terrible either - Good at planning - Good at technical writing - Excellent at general agent work - Excellent and thorough at doing research, gathering and summarizing information, it punches way above it's weight in that category. - The model is very aggressive about completing tasks, which is probably what makes it good at research and agent use. - The &quot;context loss&quot; a",
+      "extra": {},
+      "collected_at": "2026-02-12T08:37:12"
     }
   ],
-  "updated_at": "2026-02-12T02:56:30.591380+09:00"
+  "updated_at": "2026-02-12T08:37:12.688012+09:00"
 }
