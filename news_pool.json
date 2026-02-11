@@ -1,84 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says",
-      "url": "https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-03T16:01:03-05:00",
-      "summary": "On Monday, Elon Musk announced that he was merging two of his companies, SpaceX and xAI, in a deal said to be worth $1.25 trillion. The reason, Musk said in an announcement, was that in order for AI to grow, it needed to go to space. AI relies on \"large terrestrial data centers\" that run [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-02-04T18:43:07"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "GPT-5.2 and GPT-5.2-Codex are now 40% faster",
-      "url": "https://twitter.com/OpenAIDevs/status/2018838297221726482",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 04 Feb 2026 00:07:00 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-02-04T18:43:08"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Camzy",
-      "url": "https://www.producthunt.com/products/camzy",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Export Tesla dashcam video with driving data overlaid </p> <p> <a href=\"https://www.producthunt.com/products/camzy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1072035?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-04T18:43:10"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "SERA",
-      "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Fast, accessible coding agents that adapt to any repo </p> <p> <a href=\"https://www.producthunt.com/products/allen-institute-of-artificial-intelligence?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1072594?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-04T18:43:10"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Context rot is killing my agent - how are you handling long conversations?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qvgbhs/context_rot_is_killing_my_agent_how_are_you/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-04T05:45:40+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Building a support agent that needs to maintain context across a full customer session (sometimes 20+ turns). Model starts contradicting itself or forgetting key details around turn 15.</p> <p>Using GPT-4o with a sliding window but that throws away potentially important early context. Tried summarization but it loses nuance.</p> <p>Anyone found a practical solution?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/i_m_dead_\"",
-      "extra": {},
-      "collected_at": "2026-02-04T18:43:13"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3-Coder-Next-NVFP4 quantization is up, 45GB",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qvax2n/qwen3codernextnvfp4_quantization_is_up_45gb/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-04T01:33:48+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/GadflyII/Qwen3-Coder-Next-NVFP4\">GadflyII/Qwen3-Coder-Next-NVFP4</a></p> <p>All experts were calibrated with ultrachat_200k dataset, 1.63% accuracy loss in MMLU Pro+, 149GB to 45GB</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DataGOGO\"> /u/DataGOGO </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qvax2n/qwen3codernextnvfp4_quantization_is_up_45gb/\">[link]</a></span>",
-      "extra": {},
-      "collected_at": "2026-02-04T18:43:13"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences",
       "url": "https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/",
@@ -3117,19 +3039,6 @@
       "collected_at": "2026-02-11T14:10:02"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
-      "url": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 11 Feb 2026 05:23:26 +0000",
-      "summary": "According to The New York Times, which reports that it heard the meeting, Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.",
-      "extra": {},
-      "collected_at": "2026-02-11T16:05:47"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "EpsteinFiles-RAG: Building a RAG Pipeline on 2M+ Pages",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r1oan9/epsteinfilesrag_building_a_rag_pipeline_on_2m/",
@@ -3142,7 +3051,101 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I love playing around with RAG and AI, optimizing every layer to squeeze out better performance. Last night I thought: why not tackle something massive?</p> <p>Took the Epstein Files dataset from Hugging Face (teyler/epstein-files-20k) – 2 million+ pages of trending news and documents. The cleaning, chunking, and optimization challenges are exactly what excites me.</p> <p>What I built:</p> <p>- Full RAG pipeline with optimized data processing</p> <p>- Processed ",
       "extra": {},
       "collected_at": "2026-02-11T16:05:55"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-10T18:02:32-05:00",
+      "summary": "OpenAI is updating ChatGPT's deep research tool with a full-screen viewer that you can use to scroll through and navigate to specific areas of its AI-generated reports. As shown in a video shared by OpenAI, the built-in viewer allows you to open ChatGPT's reports in a window separate from your chat, while showing a table [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-11T18:53:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Antal.Ai",
+      "url": "https://www.producthunt.com/products/antal-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Detects and obscures people in realtime video streams </p> <p> <a href=\"https://www.producthunt.com/products/antal-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076540?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-11T18:53:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Atyla",
+      "url": "https://www.producthunt.com/products/atyla",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The SEO tool for ChatGPT, Gemini and AI search engines </p> <p> <a href=\"https://www.producthunt.com/products/atyla?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076509?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-11T18:53:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AI Community Manager",
+      "url": "https://www.producthunt.com/products/ai-community-manager",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A humanlike agent that knows who, what and when to respond </p> <p> <a href=\"https://www.producthunt.com/products/ai-community-manager?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077616?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-11T18:53:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Migma AI",
+      "url": "https://www.producthunt.com/products/migma-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Make emails sexy again </p> <p> <a href=\"https://www.producthunt.com/products/migma-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076182?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-11T18:53:15"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r1r3nk/nanbeige413b_a_small_general_model_that_reasons/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-11T07:38:59+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r1r3nk/nanbeige413b_a_small_general_model_that_reasons/\"> <img alt=\"Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts\" src=\"https://preview.redd.it/82hjsn98ktig1.png?width=140&amp;height=95&amp;auto=webp&amp;s=f06a27761905099dec3c58ed9398dbb2a40f6816\" title=\"Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi everyone 👋</p> <p>We’re e",
+      "extra": {},
+      "collected_at": "2026-02-11T18:53:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "My NAS runs an 80B LLM at 18 tok/s on its iGPU. No discrete GPU. Still optimizing.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r1lkfw/my_nas_runs_an_80b_llm_at_18_toks_on_its_igpu_no/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-11T02:52:10+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I didn't want to buy two systems. That was the whole thing.</p> <p>I needed a NAS. I also wanted to mess around with local LLMs. And I really didn't want to explain to my wife why I needed a second box just to talk to a chatbot that sometimes hallucinates, I have my father-in-law for that. So when I was specing out my NAS build, I went a little heavier than most people would and crossed my fingers that the system could pull double duty down the road.</p> <p>Hone",
+      "extra": {},
+      "collected_at": "2026-02-11T18:53:17"
     }
   ],
-  "updated_at": "2026-02-11T16:05:55.645093+09:00"
+  "updated_at": "2026-02-11T18:53:17.776291+09:00"
 }
