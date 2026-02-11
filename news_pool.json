@@ -3036,19 +3036,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
-      "url": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 11 Feb 2026 02:15:27 +0000",
-      "summary": "The executive has denied the allegation that she engaged in discrimination.",
-      "extra": {},
-      "collected_at": "2026-02-11T14:09:56"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Okay, now exactly half of xAI’s founding team has left the company",
       "url": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
       "primary_category": "NEWS",
@@ -3128,7 +3115,34 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>TLDR; if using llama-server with —spec-type ngram-mod, and pasting/uploading/sending text files, make sure the files use LF instead of CRLF.</p> <p>When I would copy a file from vscode and paste into the native llama-server webui with ngram speculative decoding enabled, there was no speed boost for file editing responses. I would only get a speed boost on the models second response (if I asked it to make a minor change to its first response file). Even if I aske",
       "extra": {},
       "collected_at": "2026-02-11T14:10:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
+      "url": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 11 Feb 2026 05:23:26 +0000",
+      "summary": "According to The New York Times, which reports that it heard the meeting, Musk told employees that xAI needs a lunar manufacturing facility, a factory on the moon that will build AI satellites and fling them into space via a giant catapult.",
+      "extra": {},
+      "collected_at": "2026-02-11T16:05:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "EpsteinFiles-RAG: Building a RAG Pipeline on 2M+ Pages",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r1oan9/epsteinfilesrag_building_a_rag_pipeline_on_2m/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-02-11T05:02:36+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I love playing around with RAG and AI, optimizing every layer to squeeze out better performance. Last night I thought: why not tackle something massive?</p> <p>Took the Epstein Files dataset from Hugging Face (teyler/epstein-files-20k) – 2 million+ pages of trending news and documents. The cleaning, chunking, and optimization challenges are exactly what excites me.</p> <p>What I built:</p> <p>- Full RAG pipeline with optimized data processing</p> <p>- Processed ",
+      "extra": {},
+      "collected_at": "2026-02-11T16:05:55"
     }
   ],
-  "updated_at": "2026-02-11T14:10:02.232802+09:00"
+  "updated_at": "2026-02-11T16:05:55.645093+09:00"
 }
