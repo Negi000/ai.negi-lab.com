@@ -1,99 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Claude Opus 4.6 extra usage promo",
-      "url": "https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 05 Feb 2026 20:15:48 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-02-06T08:28:11"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "PopAir",
-      "url": "https://www.producthunt.com/products/popair-the-native-ai-copilot-for-macos",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your All-in-one AI Copilot for MacOS </p> <p> <a href=\"https://www.producthunt.com/products/popair-the-native-ai-copilot-for-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1072961?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-06T08:28:13"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Agent Sandbox",
-      "url": "https://www.producthunt.com/products/agent-sandbox",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your agent's personal remote computer and drive </p> <p> <a href=\"https://www.producthunt.com/products/agent-sandbox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1073362?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-06T08:28:13"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "BalatroBench - Benchmark LLMs' strategic performance in Balatro",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qwxtf8/balatrobench_benchmark_llms_strategic_performance/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-05T21:12:37+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qwxtf8/balatrobench_benchmark_llms_strategic_performance/\"> <img alt=\"BalatroBench - Benchmark LLMs' strategic performance in Balatro\" src=\"https://preview.redd.it/we7y7tzvrqhg1.png?width=140&amp;height=111&amp;auto=webp&amp;s=388833c8320341635311505c2b2e13565a687f71\" title=\"BalatroBench - Benchmark LLMs' strategic performance in Balatro\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>If you own a copy of Balatro, you c",
-      "extra": {},
-      "collected_at": "2026-02-06T08:28:16"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "really impressed with these new ocr models (lightonocr-2 and glm-ocr). much better than what i saw come out in nov-dec 2025",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qwrpom/really_impressed_with_these_new_ocr_models/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-05T17:33:54+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qwrpom/really_impressed_with_these_new_ocr_models/\"> <img alt=\"really impressed with these new ocr models (lightonocr-2 and glm-ocr). much better than what i saw come out in nov-dec 2025\" src=\"https://b.thumbs.redditmedia.com/lemBjuywLXHSh55oKPeQldeNetPiKExhrecGB4VPRXY.jpg\" title=\"really impressed with these new ocr models (lightonocr-2 and glm-ocr). much better than what i saw come out in nov-dec 2025\" /> </a> </td><td> <!-",
-      "extra": {},
-      "collected_at": "2026-02-06T08:28:16"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "SoproTTS v1.5: A 135M zero-shot voice cloning TTS model trained for ~$100 on 1 GPU, running ~20× real-time on a base MacBook M3 CPU",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qwue2w/soprotts_v15_a_135m_zeroshot_voice_cloning_tts/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-05T19:08:29+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>First of all, thank you for the support on my first release. </p> <p>Today, I'm releasing a new version of my side project: SoproTTS </p> <p>A 135M parameter TTS model trained for ~$100 on 1 GPU, running ~20× real-time on a base MacBook M3 CPU. </p> <p>v1.5 highlights (on CPU): </p> <p>• 250 ms TTFA streaming latency<br /> • 0.05 RTF (~20× real-time)<br /> • Zero-shot voice cloning<br /> • Smaller, faster, more stable </p> <p>Still not perfect (OOD voices can be",
-      "extra": {},
-      "collected_at": "2026-02-06T08:28:16"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Vibe-coding client now in Llama.cpp! (maybe)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qwt8av/vibecoding_client_now_in_llamacpp_maybe/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-05T18:27:21+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've created a small proof-of-concept MCP client on top llama.cpp's `llama-cli`.</p> <p>Now you can add MCP servers (I've added a config with Serena, a great MCP coding server that can instantly turn your CLI into a full-fledged terminal coder) and use them directly in `llama-cli`.</p> <p>Features an `--mcp-yolo` mode for all you hardcore `rm -rf --no-preserve-root /` fans!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/il",
-      "extra": {},
-      "collected_at": "2026-02-06T08:28:16"
-    },
-    {
       "source": "Google News",
       "title": "アンソロピック、改良版ＡＩモデルを発表 ソフト株再び下落 - ロイター",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXdoWmRsbS1DNjRxdjNCV0RfbWVDUEQ5M2RUckJyVENxSkZrV05nOGQyZUk1RmltQUV6UGhndUNDQ0ZnalROUm53cjVqQkdUclpLeE9oY2ZxNDR0MkJWREl4Y0p6ajZsSEU4dGZQMjJFeE5RcEtUMW1oZk8yVThWWUg2OWZsUjZZSXhnOA?oc=5",
@@ -2719,19 +2626,6 @@
       "collected_at": "2026-02-12T14:06:26"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Uber Eats launches AI assistant to help with grocery cart creation",
-      "url": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 11 Feb 2026 21:07:37 +0000",
-      "summary": "Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts.",
-      "extra": {},
-      "collected_at": "2026-02-12T16:05:33"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Warcraft III Peon Voice Notifications for Claude Code",
       "url": "https://github.com/tonyyont/peon-ping",
@@ -3012,19 +2906,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Lindy Assistant",
-      "url": "https://www.producthunt.com/products/lindy",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Proactive assistant that does tasks without being prompted </p> <p> <a href=\"https://www.producthunt.com/products/lindy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1073326?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-13T02:57:12"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Make AI Agents",
       "url": "https://www.producthunt.com/products/make-4",
       "primary_category": "TOOL",
@@ -3120,7 +3001,152 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r2wcbr/neutts_nano_multilingual_collection_120m_params/\"> <img alt=\"NeuTTS Nano Multilingual Collection: 120M Params on-device TTS in German, French, and Spanish\" src=\"https://external-preview.redd.it/b2JtcjE2dGUwM2pnMeVwwjyNKdPH51Be4sQFZ3EXv8ZdpH_FAux6dp67XSVh.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=71cc49b609d4edb7b1971eb68c5f04b379e1333b\" title=\"NeuTTS Nano Multilingual Collection: 120M Params on-device TTS in Ge",
       "extra": {},
       "collected_at": "2026-02-13T02:57:14"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
+      "url": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 12 Feb 2026 23:26:56 +0000",
+      "summary": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
+      "extra": {},
+      "collected_at": "2026-02-13T08:34:12"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "IBM will hire your entry-level talent in the age of AI",
+      "url": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 12 Feb 2026 23:23:17 +0000",
+      "summary": "IBM plans to triple its entry-level hiring in the U.S. in 2026 but these jobs will have different tasks than in previous years.",
+      "extra": {},
+      "collected_at": "2026-02-13T08:34:12"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
+      "url": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 12 Feb 2026 22:10:55 +0000",
+      "summary": "\"I really want to see a mass driver on the moon that is shooting AI satellites into deep space.\"",
+      "extra": {},
+      "collected_at": "2026-02-13T08:34:12"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "GPT‑5.3‑Codex‑Spark",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 12 Feb 2026 18:06:09 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-02-13T08:34:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Matchable",
+      "url": "https://www.producthunt.com/products/matchable",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Sport marketplace and software all in one place </p> <p> <a href=\"https://www.producthunt.com/products/matchable?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077818?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-13T08:34:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Itsyhome",
+      "url": "https://www.producthunt.com/products/itsyhome",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Control HomeKit from macOS menu bar </p> <p> <a href=\"https://www.producthunt.com/products/itsyhome?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077917?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-13T08:34:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Edgee",
+      "url": "https://www.producthunt.com/products/edgee",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AI Gateway that TL;DR tokens </p> <p> <a href=\"https://www.producthunt.com/products/edgee?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1056100?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-13T08:34:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ChartStud",
+      "url": "https://www.producthunt.com/products/chartstud-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn messy data into clear decisions in minutes </p> <p> <a href=\"https://www.producthunt.com/products/chartstud-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078130?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-13T08:34:14"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "MiniMaxAI MiniMax-M2.5 has 230b parameters and 10b active parameters",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r35d2x/minimaxai_minimaxm25_has_230b_parameters_and_10b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-12T21:02:15+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r35d2x/minimaxai_minimaxm25_has_230b_parameters_and_10b/\"> <img alt=\"MiniMaxAI MiniMax-M2.5 has 230b parameters and 10b active parameters\" src=\"https://external-preview.redd.it/_kcNQarR05LXfQqSjI9sCiHSj5IycOpRZaI00SHW4k8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=96ababa53bad9198147827e5856fa3e99fbda827\" title=\"MiniMaxAI MiniMax-M2.5 has 230b parameters and 10b active parameters\" /> </a> </td><td> <!-- SC_OFF --><div c",
+      "extra": {},
+      "collected_at": "2026-02-13T08:34:16"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Ming-flash-omni-2.0: 100B MoE (6B active) omni-modal model - unified speech/SFX/music generation",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r30bgz/mingflashomni20_100b_moe_6b_active_omnimodal/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-12T17:54:35+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r30bgz/mingflashomni20_100b_moe_6b_active_omnimodal/\"> <img alt=\"Ming-flash-omni-2.0: 100B MoE (6B active) omni-modal model - unified speech/SFX/music generation\" src=\"https://external-preview.redd.it/_l8FEwEfj_HhNLZzTpSlQTuaBTUdY25FimxgyYeDN_Y.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=59d3dea77c3801617c49eea3f48b88a3ec1ddde3\" title=\"Ming-flash-omni-2.0: 100B MoE (6B active) omni-modal model - unified speech/SFX/music",
+      "extra": {},
+      "collected_at": "2026-02-13T08:34:16"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I'm playing telephone pictionary with LLMs, VLMs, SDs, and Kokoro on my Strix Halo",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r35326/im_playing_telephone_pictionary_with_llms_vlms/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-12T20:51:36+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r35326/im_playing_telephone_pictionary_with_llms_vlms/\"> <img alt=\"I'm playing telephone pictionary with LLMs, VLMs, SDs, and Kokoro on my Strix Halo\" src=\"https://external-preview.redd.it/YmJmc3hpcWVtNGpnMZDShp7-xGpOcgsVOxorkEUrrQwTSNVbCBVhROxXE8sP.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=6045e2eeee4aab8952d17984a247e68ed71ffb61\" title=\"I'm playing telephone pictionary with LLMs, VLMs, SDs, and Kokoro on my Strix Ha",
+      "extra": {},
+      "collected_at": "2026-02-13T08:34:16"
     }
   ],
-  "updated_at": "2026-02-13T02:57:14.740966+09:00"
+  "updated_at": "2026-02-13T08:34:16.567621+09:00"
 }
