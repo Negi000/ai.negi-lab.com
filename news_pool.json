@@ -2887,20 +2887,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "AMA Announcement: MiniMax, The Opensource Lab Behind MiniMax-M2.5 SoTA Model (Friday, 8AM-11AM PST)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3csbk/ama_announcement_minimax_the_opensource_lab/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-02-13T02:12:47+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r3csbk/ama_announcement_minimax_the_opensource_lab/\"> <img alt=\"AMA Announcement: MiniMax, The Opensource Lab Behind MiniMax-M2.5 SoTA Model (Friday, 8AM-11AM PST)\" src=\"https://preview.redd.it/orcqu1oq76jg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=617bc649889e0dd0343008568d8aa957dde229c5\" title=\"AMA Announcement: MiniMax, The Opensource Lab Behind MiniMax-M2.5 SoTA Model (Friday, 8AM-11AM PST)\" /> </a> </td><td> <!",
-      "extra": {},
-      "collected_at": "2026-02-13T14:01:23"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "[AMA] StepFun Team here (Step 3.5 Flash). Ask us anything!",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3d45o/ama_stepfun_team_here_step_35_flash_ask_us/",
       "primary_category": "GUIDE",
@@ -3004,19 +2990,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have not used it on serious tasks until today.</p> <p>I gave it a complex task of merging, it worked through it and stayed completely sane even at 90k context and successfully finished the task. It felt so gut, I double checked that I am not running a closed source frontier model like claude 4.6.</p> <p>I mean, for agentic tasks, this is definitely better than Gemini 3.0 Preview. And it's so fast.</p> <p>I tested it on opencode and claude code (I don't use it,",
       "extra": {},
       "collected_at": "2026-02-13T18:43:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Atomic Bot",
-      "url": "https://www.producthunt.com/products/atomic-bot",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> One-click OpenClaw macOS app </p> <p> <a href=\"https://www.producthunt.com/products/atomic-bot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078632?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-13T22:12:05"
     },
     {
       "source": "Product Hunt",
@@ -3143,7 +3116,126 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r3l572/minimax_onx_weights_dropping_really_really_soon/\"> <img alt=\"MiniMax onX: Weights dropping REALLY, REALLY, SOON\" src=\"https://preview.redd.it/jrgpe9krh8jg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=30a1ae2be695a2a4f2dee2ca962e2fa76614dcc1\" title=\"MiniMax onX: Weights dropping REALLY, REALLY, SOON\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/XMasterrrr\"> /u/XMasterrrr </a> <b",
       "extra": {},
       "collected_at": "2026-02-13T22:12:07"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
+      "url": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Fri, 13 Feb 2026 17:16:27 +0000",
+      "summary": "The numbers suggest that Anthropic's Super Bowl commercials, combined with Anthropic's recent release of its new Opus 4.6 model, worked to drive attention to Claude's app and its key differentiator from ChatGPT.",
+      "extra": {},
+      "collected_at": "2026-02-14T02:40:01"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
+      "url": "https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 13 Feb 2026 16:11:01 +0000",
+      "summary": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
+      "extra": {},
+      "collected_at": "2026-02-14T02:40:01"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Cohere’s $240M year sets stage for IPO",
+      "url": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 13 Feb 2026 15:03:10 +0000",
+      "summary": "Cohere surpassed $240 million in annual recurring revenue in 2025, highlighting strong enterprise AI demand as the Canadian startup positions itself for a potential IPO amid intensifying competition from OpenAI and Anthropic.",
+      "extra": {},
+      "collected_at": "2026-02-14T02:40:01"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "I asked Claude Code to remove jQuery. It failed miserably",
+      "url": "https://www.jitbit.com/alexblog/323-i-asked-claude-code-to-remove-jquery-it-failed-miserably/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 13 Feb 2026 13:22:32 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-02-14T02:40:02"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GLM-5",
+      "url": "https://www.producthunt.com/products/z-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Open-weights model for long-horizon agentic engineering </p> <p> <a href=\"https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078121?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-14T02:40:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Code Arena",
+      "url": "https://www.producthunt.com/products/arena-5",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Prompt once. Compare multiple AI-built apps for free. </p> <p> <a href=\"https://www.producthunt.com/products/arena-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070025?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-14T02:40:04"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "AMA with MiniMax — Ask Us Anything!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3t775/ama_with_minimax_ask_us_anything/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-13T16:07:54+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r3t775/ama_with_minimax_ask_us_anything/\"> <img alt=\"AMA with MiniMax — Ask Us Anything!\" src=\"https://preview.redd.it/5z2li1ntcajg1.jpg?width=140&amp;height=59&amp;auto=webp&amp;s=ce3340cd37b7e9408878509be00dd7b871efebde\" title=\"AMA with MiniMax — Ask Us Anything!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"https://www.reddit.com/r/LocalLLaMA/\">r/LocalLLaMA</a>! We’re really excited to be here, thanks f",
+      "extra": {},
+      "collected_at": "2026-02-14T02:40:07"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "RAM shortage problem solved",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3tqox/ram_shortage_problem_solved/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-13T16:27:35+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r3tqox/ram_shortage_problem_solved/\"> <img alt=\"RAM shortage problem solved\" src=\"https://preview.redd.it/p23ri3acgajg1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=35411e042a18e57db564abff805694de6498657d\" title=\"RAM shortage problem solved\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JackStrawWitchita\"> /u/JackStrawWitchita </a> <br /> <span><a href=\"https://i.redd.it/p23ri3acgajg1.",
+      "extra": {},
+      "collected_at": "2026-02-14T02:40:07"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "MiniMaxAI/MiniMax-M2.5 · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3pxy7/minimaxaiminimaxm25_hugging_face/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-13T14:01:52+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r3pxy7/minimaxaiminimaxm25_hugging_face/\"> <img alt=\"MiniMaxAI/MiniMax-M2.5 · Hugging Face\" src=\"https://external-preview.redd.it/U31ABjps-QUJnQnBzpD57R8aGaCakUKOyzXjWrvNYSg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de0bab4be78008336f973196f0ed98e2bbe49764\" title=\"MiniMaxAI/MiniMax-M2.5 · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>You can monitor quants begin to appear with this search: <a href=",
+      "extra": {},
+      "collected_at": "2026-02-14T02:40:07"
     }
   ],
-  "updated_at": "2026-02-13T22:12:07.946623+09:00"
+  "updated_at": "2026-02-14T02:40:07.846227+09:00"
 }
