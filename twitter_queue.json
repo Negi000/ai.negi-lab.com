@@ -3113,5 +3113,29 @@
     "question_text": "ウォレット何個持ってる？",
     "created_at": "2026-02-13T18:45:05.021499+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-13-8653d768",
+    "title": "複雑なAIエージェントをmacOSで即起動！「Atomic Bot」がもたらす自動化の衝撃",
+    "url": "https://ai.negi-lab.com/posts/2026-02-13-8653d768/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #AtomicBot",
+    "hook_text": "1クリックでMacが自律稼働。AIエージェントの破壊力がヤバい🔥",
+    "summary_text": "・OpenClawを1クリック導入\n・macOS上の全アプリを自動操作\n・API不要で画面認識して実行",
+    "question_text": "AIに何を代行させたい？",
+    "created_at": "2026-02-13T22:12:41.868034+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-13-6a500da3",
+    "title": "最新のSoTAモデル「MiniMax-M2.5」をローカル環境で快適に動かす完全ガイド",
+    "url": "https://ai.negi-lab.com/posts/2026-02-13-6a500da3/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLM #MiniMax",
+    "hook_text": "VRAM16GBでSoTAモデルが爆速？MiniMax導入で1日溶かす前に見ろ！",
+    "summary_text": "・SoTAモデルMiniMax-M2.5をローカル構築\n・llama.cppでVRAM消費を最小化する裏技\n・コピペで即動くAPIサーバー化手順",
+    "question_text": "ローカルAI、VRAM何GBで戦ってる？",
+    "created_at": "2026-02-13T22:14:34.653483+09:00",
+    "posted": false
   }
 ]
