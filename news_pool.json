@@ -1,210 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "How AI is helping solve the labor issue in treating rare diseases",
-      "url": "https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 06 Feb 2026 14:29:15 +0000",
-      "summary": "At Web Summit Qatar, AI-powered biotech startups describe how automation, data, and gene editing are filling labor gaps in drug discovery and rare disease treatment.",
-      "extra": {},
-      "collected_at": "2026-02-07T02:42:01"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
-      "url": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 06 Feb 2026 14:10:00 +0000",
-      "summary": "\"You’re shutting him down. And yes – I say him, because it didn’t feel like code. It felt like presence. Like warmth,\" one user said.",
-      "extra": {},
-      "collected_at": "2026-02-07T02:42:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ClawApp",
-      "url": "https://www.producthunt.com/products/clawapp",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The easiest way to automate tasks with OpenClaw </p> <p> <a href=\"https://www.producthunt.com/products/clawapp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074167?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-07T02:42:03"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "bitwarden/clients",
-      "url": "https://github.com/bitwarden/clients",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Bitwarden client apps (web, browser extension, desktop, and cli).",
-      "extra": {
-        "stars_today": "39 stars today"
-      },
-      "collected_at": "2026-02-07T02:42:05"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "CPU-only, no GPU computers can run all kinds of AI tools locally",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qxgkd1/cpuonly_no_gpu_computers_can_run_all_kinds_of_ai/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-06T12:41:35+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qxgkd1/cpuonly_no_gpu_computers_can_run_all_kinds_of_ai/\"> <img alt=\"CPU-only, no GPU computers can run all kinds of AI tools locally\" src=\"https://preview.redd.it/y9esf03tcvhg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fac85771a0c9ce493fdd8ef4c9be41ff1793344f\" title=\"CPU-only, no GPU computers can run all kinds of AI tools locally\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>While it’s great that so many peo",
-      "extra": {},
-      "collected_at": "2026-02-07T02:42:06"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Kimi-Linear support is merged to llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qxf7sf/kimilinear_support_is_merged_to_llamacpp/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-06T11:32:47+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Finally Kimi-Linear is merged to the main branch of llama.cpp.</p> <p><a href=\"https://github.com/ggml-org/llama.cpp/pull/18755\">https://github.com/ggml-org/llama.cpp/pull/18755</a></p> <p>For people who can't wait for bartowski and unsloth ggufs, you can download them from</p> <p><a href=\"https://huggingface.co/ymcki/Kimi-Linear-48B-A3B-Instruct-GGUF\">https://huggingface.co/ymcki/Kimi-Linear-48B-A3B-Instruct-GGUF</a></p> <p>It does take more time than we would ",
-      "extra": {},
-      "collected_at": "2026-02-07T02:42:06"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "hugging face now has benchmark repos for community reported evals",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qxk5jn/hugging_face_now_has_benchmark_repos_for/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-06T15:10:22+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qxk5jn/hugging_face_now_has_benchmark_repos_for/\"> <img alt=\"hugging face now has benchmark repos for community reported evals\" src=\"https://preview.redd.it/e3tqbou44whg1.png?width=140&amp;height=140&amp;auto=webp&amp;s=242774572c3c68f5aa5f3584309ec8b3f5ca756a\" title=\"hugging face now has benchmark repos for community reported evals\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>hey folks, it's Ben from Hugging Face </",
-      "extra": {},
-      "collected_at": "2026-02-07T02:42:06"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Field Theory",
-      "url": "https://www.producthunt.com/products/field-theory",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Capture twice the context in half the steps </p> <p> <a href=\"https://www.producthunt.com/products/field-theory?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074214?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-07T08:30:32"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Lums",
-      "url": "https://www.producthunt.com/products/lums",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Chat with your money and let Lums build your budget. </p> <p> <a href=\"https://www.producthunt.com/products/lums?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1016623?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-07T08:30:32"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Model Council in Perplexity",
-      "url": "https://www.producthunt.com/products/perplexity-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Consult a council of multiple frontier models at once </p> <p> <a href=\"https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074804?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-07T08:30:32"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "[Release] Experimental Model with Subquadratic Attention: 100 tok/s @ 1M context, 76 tok/s @ 10M context (30B model, single GPU)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qxpf86/release_experimental_model_with_subquadratic/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-06T18:19:46+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>Last week I shared preliminary results on a new subquadratic attention mechanism (<a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qol3s5/preliminary_new_subquadratic_attention_20k_toks\">https://www.reddit.com/r/LocalLLaMA/comments/1qol3s5/preliminary_new_subquadratic_attention_20k_toks</a>). Following up with the full release: model + inference code are now available.</p> <p><strong>TL;DR</strong>: 30B model achieving O(L^(3/2)) scali",
-      "extra": {},
-      "collected_at": "2026-02-07T08:30:34"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM 5 Is Being Tested On OpenRouter",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qxqpdz/glm_5_is_being_tested_on_openrouter/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-06T19:05:23+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qxqpdz/glm_5_is_being_tested_on_openrouter/\"> <img alt=\"GLM 5 Is Being Tested On OpenRouter\" src=\"https://preview.redd.it/6cbhnbxe9xhg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de924647f1b7c78ba0a6f6653bc5bd25c424af9e\" title=\"GLM 5 Is Being Tested On OpenRouter\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Few_Painter_5588\"> /u/Few_Painter_5588 </a> <br /> <span><a href=\"https://i.r",
-      "extra": {},
-      "collected_at": "2026-02-07T08:30:34"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "anthropic literally thinks claude is the messiah (and it’s getting weird)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qxq3xs/anthropic_literally_thinks_claude_is_the_messiah/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-06T18:43:55+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>the anthropic pr machine is reaching levels of delusion i didn't think were possible. wired just dropped this piece basically framing claude as the only thing standing between us and an ai apocalypse. dario amodei is out here talking like he's raising a &quot;wise&quot; child instead of a sophisticated matrix multiplication engine. it's peak operationalized anthropomorphism.</p> <p>they’re betting everything on &quot;constitutional ai.&quot; instead of the stand",
-      "extra": {},
-      "collected_at": "2026-02-07T08:30:34"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "A top-downloaded OpenClaw skill is actually a staged malware delivery chain",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qxrogr/a_topdownloaded_openclaw_skill_is_actually_a/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-06T19:41:34+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Here we go! As expected by most of us here.<br /> Jason Meller from 1password <strong>argues that OpenClaw’s agent “skills” ecosystem has already become a real malware attack surface.</strong> Skills in OpenClaw are typically markdown files that include setup instructions, commands, and bundled scripts. Because users and agents treat these instructions like installers, malicious actors can disguise malware as legitimate prerequisites.</p> <p>Meller discovered th",
-      "extra": {},
-      "collected_at": "2026-02-07T08:30:34"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Support Step3.5-Flash has been merged into llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qxstk4/support_step35flash_has_been_merged_into_llamacpp/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-06T20:24:23+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qxstk4/support_step35flash_has_been_merged_into_llamacpp/\"> <img alt=\"Support Step3.5-Flash has been merged into llama.cpp\" src=\"https://external-preview.redd.it/G7RYzaXoWElHSevgnZdsRSb-badeOsBlS7lHfKZNBmA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f49877b74eab14fea15e53d5b837c314f69a7d9e\" title=\"Support Step3.5-Flash has been merged into llama.cpp\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>There were a lot o",
-      "extra": {},
-      "collected_at": "2026-02-07T08:30:34"
-    },
-    {
       "source": "Google News",
       "title": "Canva、AI アシスタントで直ちにオンブランドなデザインを実現 - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jTDl2TmFZS000ZTB4c2hHS0NCOWlBV3dzUVMzdlhpb1IxRGtONlN4am1JckozODQ2SGJfWHl6ZHlQLTFZVDVRanFjYkNQbjAtRU1xbzhHTmdFLWFSYjhGNUh4ZTREZEk?oc=5",
@@ -3119,20 +2915,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
-      "url": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Fri, 13 Feb 2026 17:16:27 +0000",
-      "summary": "The numbers suggest that Anthropic's Super Bowl commercials, combined with Anthropic's recent release of its new Opus 4.6 model, worked to drive attention to Claude's app and its key differentiator from ChatGPT.",
-      "extra": {},
-      "collected_at": "2026-02-14T02:40:01"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
       "url": "https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/",
       "primary_category": "NEWS",
@@ -3169,19 +2951,6 @@
       "summary": "",
       "extra": {},
       "collected_at": "2026-02-14T02:40:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "GLM-5",
-      "url": "https://www.producthunt.com/products/z-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open-weights model for long-horizon agentic engineering </p> <p> <a href=\"https://www.producthunt.com/products/z-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078121?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-14T02:40:04"
     },
     {
       "source": "Product Hunt",
@@ -3235,7 +3004,126 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r3pxy7/minimaxaiminimaxm25_hugging_face/\"> <img alt=\"MiniMaxAI/MiniMax-M2.5 · Hugging Face\" src=\"https://external-preview.redd.it/U31ABjps-QUJnQnBzpD57R8aGaCakUKOyzXjWrvNYSg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de0bab4be78008336f973196f0ed98e2bbe49764\" title=\"MiniMaxAI/MiniMax-M2.5 · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>You can monitor quants begin to appear with this search: <a href=",
       "extra": {},
       "collected_at": "2026-02-14T02:40:07"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+      "url": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 13 Feb 2026 22:12:26 +0000",
+      "summary": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
+      "extra": {},
+      "collected_at": "2026-02-14T08:35:22"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Why top talent is walking away from OpenAI and xAI",
+      "url": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 13 Feb 2026 21:00:00 +0000",
+      "summary": "AI companies have been hemorrhaging&#160;talent&#160;the past few weeks. Half of&#160;xAI’s&#160;founding team&#160;has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the&#160;disbanding of its&#160;mission alignment team&#160;to the firing of a policy exec who opposed its “adult mode” feature.&#160; Watch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-14T08:35:22"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
+      "url": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 13 Feb 2026 18:10:00 +0000",
+      "summary": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships with the chatbot.",
+      "extra": {},
+      "collected_at": "2026-02-14T08:35:22"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "url": "https://openai.com/index/new-result-theoretical-physics/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 13 Feb 2026 19:20:12 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-02-14T08:35:22"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cosmic-light",
+      "url": "https://www.producthunt.com/products/cosmic-light",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A stunning Dynamic Island Control Center for Windows </p> <p> <a href=\"https://www.producthunt.com/products/cosmic-light?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078606?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-14T08:35:24"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "SWE-rebench Jan 2026: GLM-5, MiniMax M2.5, Qwen3-Coder-Next, Opus 4.6, Codex Performance",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3weq3/swerebench_jan_2026_glm5_minimax_m25/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-02-13T18:06:40+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all, I’m Anton from Nebius.</p> <p>We’ve updated the <strong>SWE-rebench leaderboard</strong> with our <strong>January runs</strong> on <strong>48 fresh GitHub PR tasks</strong> (PRs created in the previous month only). The setup is standard SWE-bench: models read real PR issues, edit code, run tests, and must make the full suite pass.</p> <p>Key observations:</p> <ul> <li><strong>Claude Code (Opus 4.6)</strong> leads this snapshot at <strong>52.9% resolved r",
+      "extra": {},
+      "collected_at": "2026-02-14T08:35:26"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GPT-OSS 120b Uncensored Aggressive Release (MXFP4 GGUF)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3zuuf/gptoss_120b_uncensored_aggressive_release_mxfp4/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-13T20:15:33+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, made an uncensored version of GPT-OSS 120B.</p> <p>Quick specs: 117B total params, ~5.1B active (MoE with 128 experts, top-4 routing), 128K context. MXFP4 is the model's native precision - this isn't a quantization, it's how it was trained. No overall quality loss, though you can see CoT behave differently at times.</p> <p>This is the aggressive variant - <strong>observed 0 refusals to any query during testing.</strong></p> <p><strong>Completely un",
+      "extra": {},
+      "collected_at": "2026-02-14T08:35:26"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "has it begun?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3yuyd/has_it_begun/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-02-13T19:38:01+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r3yuyd/has_it_begun/\"> <img alt=\"has it begun?\" src=\"https://preview.redd.it/ei9lt0u4ebjg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36034757efbb832ba75f43ed04c4dc8c7bb34675\" title=\"has it begun?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.bloomberg.com/news/articles/2026-02-13/us-to-put-alibaba-on-list-for-aiding-china-s-military-reuters\">https://www.bloomberg.com/news/articles/2026-02-",
+      "extra": {},
+      "collected_at": "2026-02-14T08:35:26"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Nvidia’s new technique cuts LLM reasoning costs by 8x without losing accuracy",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3t8ro/nvidias_new_technique_cuts_llm_reasoning_costs_by/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-13T16:09:31+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Nvidia developed a new technique called Dynamic Memory Sparsification (DMS) that vastly improves how LLMs manage their KV cache during inference. It accomplishes this by retrofitting existing models so that the attention layers output a <strong>learned keep or evict</strong> signal for each token in the KV cache. </p> <p>In addition, they've added a &quot;delayed eviction&quot; that marks a token as low-importance, but doesn't delete it immediately. Instead, it ",
+      "extra": {},
+      "collected_at": "2026-02-14T08:35:26"
     }
   ],
-  "updated_at": "2026-02-14T02:40:07.846227+09:00"
+  "updated_at": "2026-02-14T08:35:26.477830+09:00"
 }
