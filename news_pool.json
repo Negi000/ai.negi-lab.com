@@ -1,169 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Quash",
-      "url": "https://www.producthunt.com/products/quash-intent-driven-mobile-testing",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A mobile QA agent that runs tests without scripts </p> <p> <a href=\"https://www.producthunt.com/products/quash-intent-driven-mobile-testing?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1075021?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-07T22:00:29"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Fix Ugly PowerPoint by CubeOne",
-      "url": "https://www.producthunt.com/products/cubeone",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Who designed this? </p> <p> <a href=\"https://www.producthunt.com/products/cubeone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071410?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-07T22:00:29"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Skillkit",
-      "url": "https://www.producthunt.com/products/skillkit-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The package manager for AI agent skills </p> <p> <a href=\"https://www.producthunt.com/products/skillkit-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071813?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-07T22:00:29"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "marticliment/UniGetUI",
-      "url": "https://github.com/marticliment/UniGetUI",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers",
-      "extra": {
-        "stars_today": "140 stars today"
-      },
-      "collected_at": "2026-02-07T22:00:30"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "bitwarden/server",
-      "url": "https://github.com/bitwarden/server",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
-      "extra": {
-        "stars_today": "18 stars today"
-      },
-      "collected_at": "2026-02-07T22:00:30"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "project-chip/connectedhomeip",
-      "url": "https://github.com/project-chip/connectedhomeip",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
-      "extra": {
-        "stars_today": "4 stars today"
-      },
-      "collected_at": "2026-02-07T22:00:30"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "An ode to Minimax m2.1",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qy3tr8/an_ode_to_minimax_m21/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-07T04:11:39+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just wanted to share my experience with Minimax m2.1 Specifically the Minimax m2.1 4-bit DWQ MLX quant. </p> <p>I do alot of research, analysis, and synthesis of various papers and architectural components. To date, no other model has been able to touch this model and quant on my hardware (running on an M2 Ultra Mac Studio).</p> <p>From depth of knowledge, directness, lack of sycophancy, intelligence, tone, and speed this model and quant is a godsend for my wo",
-      "extra": {},
-      "collected_at": "2026-02-07T22:00:31"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Felsius",
-      "url": "https://www.producthunt.com/products/felsius",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Never google “what’s 68°F in °C?” again </p> <p> <a href=\"https://www.producthunt.com/products/felsius?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1075373?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-08T02:26:15"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Potential new Qwen and ByteDance Seed models are being tested on the Arena. The “Karp-001” and “Karp-002” models claim to be Qwen-3.5 models. The “Pisces-llm-0206a” and “Pisces-llm-0206b” models claim to be ByteDance models.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qydlwi/potential_new_qwen_and_bytedance_seed_models_are/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-07T13:19:21+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qydlwi/potential_new_qwen_and_bytedance_seed_models_are/\"> <img alt=\"Potential new Qwen and ByteDance Seed models are being tested on the Arena. The “Karp-001” and “Karp-002” models claim to be Qwen-3.5 models. The “Pisces-llm-0206a” and “Pisces-llm-0206b” models claim to be ByteDance models.\" src=\"https://preview.redd.it/rtrygqo1p2ig1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9704e4c75927f5669c01b711e9c25a0d47ce44bb",
-      "extra": {},
-      "collected_at": "2026-02-08T02:26:17"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I tested 11 small LLMs on tool-calling judgment — on CPU, no GPU.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qyg10z/i_tested_11_small_llms_on_toolcalling_judgment_on/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-07T15:03:14+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Friday night experiment that got out of hand. I wanted to know: how small can a model be and still reliably do tool-calling on a laptop CPU?</p> <p>So I benchmarked 11 models (0.5B to 3.8B) across 12 prompts. No GPU, no cloud API. Just Ollama and bitnet.cpp.</p> <p><strong>The models:</strong> Qwen 2.5 (0.5B, 1.5B, 3B), LLaMA 3.2:3B, SmolLM2:1.7B, Ministral-3:3B, DeepSeek-R1:1.5B, Gemma3:1B, Phi4-mini:3.8B, BitNet 3B (base), BitNet 2B-4T (instruction-tuned)</p> ",
-      "extra": {},
-      "collected_at": "2026-02-08T02:26:17"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "DeepSeek-V2-Lite vs GPT-OSS-20B on my 2018 potato i3-8145U + UHD 620, OpenVINO Comparison.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qycn5s/deepseekv2lite_vs_gptoss20b_on_my_2018_potato/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-07T12:32:28+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qycn5s/deepseekv2lite_vs_gptoss20b_on_my_2018_potato/\"> <img alt=\"DeepSeek-V2-Lite vs GPT-OSS-20B on my 2018 potato i3-8145U + UHD 620, OpenVINO Comparison.\" src=\"https://b.thumbs.redditmedia.com/HDuzkmv1h50aT7P7iyAduUT2TYW4g84iH4RYq4kv6Hg.jpg\" title=\"DeepSeek-V2-Lite vs GPT-OSS-20B on my 2018 potato i3-8145U + UHD 620, OpenVINO Comparison.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Same potato, new test. If you sa",
-      "extra": {},
-      "collected_at": "2026-02-08T02:26:17"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Successfully built an Autonomous Research Agent to handle 10k PDFs locally (32GB RAM / AnythingLLM)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qydx7z/successfully_built_an_autonomous_research_agent/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-07T13:33:36+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Wanted to share a quick win. I’ve been experimenting with Agentic RAG to handle a massive local dataset (10,000+ PDFs).</p> <p>Most standard RAG setups were failing or hallucinating at this scale, so I moved to an <strong>Autonomous Agent</strong> workflow using AnythingLLM and Llama 3.2. The agent now performs recursive searches and cross-references data points before giving me a final report.</p> <p>Running it on 32GB RAM was the sweet spot for handling the co",
-      "extra": {},
-      "collected_at": "2026-02-08T02:26:17"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "I trained a 1.8M params model from scratch on a total of ~40M tokens.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qym566/i_trained_a_18m_params_model_from_scratch_on_a/",
@@ -2810,19 +2647,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "AMA with MiniMax — Ask Us Anything!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3t775/ama_with_minimax_ask_us_anything/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-13T16:07:54+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r3t775/ama_with_minimax_ask_us_anything/\"> <img alt=\"AMA with MiniMax — Ask Us Anything!\" src=\"https://preview.redd.it/5z2li1ntcajg1.jpg?width=140&amp;height=59&amp;auto=webp&amp;s=ce3340cd37b7e9408878509be00dd7b871efebde\" title=\"AMA with MiniMax — Ask Us Anything!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"https://www.reddit.com/r/LocalLLaMA/\">r/LocalLLaMA</a>! We’re really excited to be here, thanks f",
-      "extra": {},
-      "collected_at": "2026-02-14T02:40:07"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "RAM shortage problem solved",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3tqox/ram_shortage_problem_solved/",
       "primary_category": "GUIDE",
@@ -3060,19 +2884,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Cline CLI 2.0",
-      "url": "https://www.producthunt.com/products/cline-4",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Parallel agents & headless CI/CD in your terminal </p> <p> <a href=\"https://www.producthunt.com/products/cline-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079203?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-14T18:30:45"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Elebean",
       "url": "https://www.producthunt.com/products/elebean",
       "primary_category": "TOOL",
@@ -3206,7 +3017,102 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I did some testing with llama.cpp and its web UI. While having the Windows task manager open I noticed that 3D usage was between 0% and 1% while idle, and maybe around 25% during inference.</p> <p>Well, that <em>might</em> have been the llama-server, but no: It's the updates of the web UI. The moment I minimized the browser the 3D usage went back to 0% to 1% during inference. The real-time streaming UI updates apparently put some strain on the GPU otherwise. I g",
       "extra": {},
       "collected_at": "2026-02-14T22:00:32"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "India doubles down on state-backed venture capital, approving $1.1B fund",
+      "url": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sat, 14 Feb 2026 16:23:22 +0000",
+      "summary": "India’s $1.1B fund-of-funds will invest through private VCs to support deep-tech and manufacturing startups.",
+      "extra": {},
+      "collected_at": "2026-02-15T02:26:44"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "My uncanny AI valentines",
+      "url": "https://www.theverge.com/report/879327/eva-ai-cafe-dating-ai-companions",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-14T10:00:00-05:00",
+      "summary": "Hopping over a pile of dirty snow, I arrived on a frigid February evening at a wine bar in midtown, a purple neon sign reading \"EVA AI cafe.\" Inside, several people were seated at tables and booths, staring at phones. Servers milled about, placing mini potato croquettes and nonalcoholic spritzers on each table. Like many [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-15T02:26:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "WikiTrip 2.0",
+      "url": "https://www.producthunt.com/products/wikitrip",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Location-based audio guide powered by Wikipedia </p> <p> <a href=\"https://www.producthunt.com/products/wikitrip?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078961?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-15T02:26:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Your Love Style",
+      "url": "https://www.producthunt.com/products/your-love-style-a-valentine-s-day-event",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A choose-your-own-adventure game meets personality quiz </p> <p> <a href=\"https://www.producthunt.com/products/your-love-style-a-valentine-s-day-event?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079178?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-15T02:26:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Heretic 1.2 released: 70% lower VRAM usage with quantization, Magnitude-Preserving Orthogonal Ablation (\"derestriction\"), broad VL model support, session resumption, and more",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r4n3as/heretic_12_released_70_lower_vram_usage_with/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-02-14T15:14:00+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Llamas and Gentlemen,</p> <p><strong>Heretic</strong> (<a href=\"https://github.com/p-e-w/heretic\">https://github.com/p-e-w/heretic</a>) is the leading software for removing censorship from language models. In the three months since its initial release, <a href=\"https://huggingface.co/models?other=heretic\">more than 1,300 models</a> (including quants) made using Heretic have been published by the community. This represents more than a third of all abliterated mod",
+      "extra": {},
+      "collected_at": "2026-02-15T02:26:50"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3-TTS.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r4nt7u/qwen3ttscpp/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-14T15:43:12+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r4nt7u/qwen3ttscpp/\"> <img alt=\"Qwen3-TTS.cpp\" src=\"https://external-preview.redd.it/lXcar2l04LaOhzsDCTxgOTofdAoFx7BoAnOuaZ4jNcw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f7e414f528eab2e463ea468be5c2271e564d443\" title=\"Qwen3-TTS.cpp\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>Lightweight GGML implementation of Qwen3-TTS 0.6B</strong></p> <p><strong>4x Speedup compared to pytorch pipeline, with ~2 Gig",
+      "extra": {},
+      "collected_at": "2026-02-15T02:26:50"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Nemotron3 Super/Ultra: FP4 pre-training, H1 2026 release, \"NVIDIA is a company of volunteers\" (all from recent NVIDIA interview)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r4lx7x/nemotron3_superultra_fp4_pretraining_h1_2026/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-02-14T14:25:15+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Nathan Lambert (from Ai2) interviewed an NVIDIA's VP of Applied Deep Learning Research: <a href=\"https://www.interconnects.ai/p/why-nvidia-builds-open-models-with\">Why Nvidia builds open models with Bryan Catanzaro</a></p> <p>Many interesting bits, but of course I was hoping for hints of when the next Nemotron3 models were to be released. Nothing really new there, &quot;2026 H1&quot; is a pretty broad window. </p> <p>This was interesting: </p> <blockquote> <p>we",
+      "extra": {},
+      "collected_at": "2026-02-15T02:26:50"
     }
   ],
-  "updated_at": "2026-02-14T22:00:32.304303+09:00"
+  "updated_at": "2026-02-15T02:26:50.493600+09:00"
 }
