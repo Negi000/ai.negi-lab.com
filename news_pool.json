@@ -2849,19 +2849,6 @@
       "collected_at": "2026-02-14T02:40:07"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
-      "url": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 13 Feb 2026 18:10:00 +0000",
-      "summary": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships with the chatbot.",
-      "extra": {},
-      "collected_at": "2026-02-14T08:35:22"
-    },
-    {
       "source": "HN AI Hot",
       "title": "GPT-5.2 derives a new result in theoretical physics",
       "url": "https://openai.com/index/new-result-theoretical-physics/",
@@ -3073,19 +3060,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "OpenBug",
-      "url": "https://www.producthunt.com/products/openbug",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Ticket in, fix out. Every solution trains the next one. </p> <p> <a href=\"https://www.producthunt.com/products/openbug?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078842?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-14T18:30:45"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Cline CLI 2.0",
       "url": "https://www.producthunt.com/products/cline-4",
       "primary_category": "TOOL",
@@ -3122,7 +3096,117 @@
       "summary": "<p> Advanced AI video creation with precise narrative control </p> <p> <a href=\"https://www.producthunt.com/products/pixeldance-seaweed?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078959?app_id=339\">Link</a> </p>",
       "extra": {},
       "collected_at": "2026-02-14T18:30:45"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Ring&#8217;s adorable surveillance hellscape",
+      "url": "https://www.theverge.com/podcast/878797/ring-super-bowl-ad-backlash-epstein-files-chatgpt-vergecast",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-13T11:10:45-05:00",
+      "summary": "You can watch Ring's recent Super Bowl ad and see a cute story about dogs being reunited with their families. You can also watch the very same ad and see the seeds being planted for a massively connected, utterly ubiquitous surveillance system that will end the concept of privacy forever. Maybe you can even see [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-14T22:00:23"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Termsy",
+      "url": "https://www.producthunt.com/products/termsy",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Scans terms and conditions for you </p> <p> <a href=\"https://www.producthunt.com/products/termsy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078850?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-14T22:00:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "CozyTwo",
+      "url": "https://www.producthunt.com/products/cozytwo",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build a home together, even when you're apart. </p> <p> <a href=\"https://www.producthunt.com/products/cozytwo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070457?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-14T22:00:29"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "ruby/ruby",
+      "url": "https://github.com/ruby/ruby",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The Ruby Programming Language",
+      "extra": {
+        "stars_today": "6 stars today"
+      },
+      "collected_at": "2026-02-14T22:00:31"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "SimplifyJobs/New-Grad-Positions",
+      "url": "https://github.com/SimplifyJobs/New-Grad-Positions",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A collection of full time roles in SWE, Quant, and PM for new grads.",
+      "extra": {
+        "stars_today": "10 stars today"
+      },
+      "collected_at": "2026-02-14T22:00:31"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "models : optimizing qwen3next graph by ggerganov · Pull Request #19375 · ggml-org/llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r4hx24/models_optimizing_qwen3next_graph_by_ggerganov/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-14T11:03:27+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r4hx24/models_optimizing_qwen3next_graph_by_ggerganov/\"> <img alt=\"models : optimizing qwen3next graph by ggerganov · Pull Request #19375 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/VVE5ljhhmuVj3S3mZp6__yfxBNtIYwLxEpi1hRwGGjU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=95716ff4da82d5b8eaae30528e020e4dd291b4ab\" title=\"models : optimizing qwen3next graph by ggerganov · Pull Request #19375 · ggml-org/llama.",
+      "extra": {},
+      "collected_at": "2026-02-14T22:00:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "local vibe coding",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r4hhyy/local_vibe_coding/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-14T10:37:37+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please share your experience with vibe coding using local (not cloud) models.</p> <p>General note: to use tools correctly, some models require a modified chat template, or you may need in-progress PR.</p> <ul> <li><a href=\"https://github.com/anomalyco/opencode\">https://github.com/anomalyco/opencode</a> - probably the most mature and feature complete solution. I use it similarly to Claude Code and Codex.</li> <li><a href=\"https://github.com/mistralai/mistral-vibe",
+      "extra": {},
+      "collected_at": "2026-02-14T22:00:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "15% faster generation - by simply minimizing the webbrowser",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r4ikop/15_faster_generation_by_simply_minimizing_the/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-02-14T11:42:02+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I did some testing with llama.cpp and its web UI. While having the Windows task manager open I noticed that 3D usage was between 0% and 1% while idle, and maybe around 25% during inference.</p> <p>Well, that <em>might</em> have been the llama-server, but no: It's the updates of the web UI. The moment I minimized the browser the 3D usage went back to 0% to 1% during inference. The real-time streaming UI updates apparently put some strain on the GPU otherwise. I g",
+      "extra": {},
+      "collected_at": "2026-02-14T22:00:32"
     }
   ],
-  "updated_at": "2026-02-14T18:30:47.769766+09:00"
+  "updated_at": "2026-02-14T22:00:32.304303+09:00"
 }
