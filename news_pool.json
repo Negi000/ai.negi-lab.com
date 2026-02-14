@@ -2,72 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "Developer Docs Audit",
-      "url": "https://www.producthunt.com/products/nakora",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Increase LLM visibility, signups and activated users </p> <p> <a href=\"https://www.producthunt.com/products/nakora?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1073763?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-07T18:30:35"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "UX HeatGrid",
-      "url": "https://www.producthunt.com/products/ux-heatgrid",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Visualize user attention and content density in real time </p> <p> <a href=\"https://www.producthunt.com/products/ux-heatgrid?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074210?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-07T18:30:35"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Obooko",
-      "url": "https://www.producthunt.com/products/obooko",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Free books to replace your doomscroll </p> <p> <a href=\"https://www.producthunt.com/products/obooko?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1072004?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-07T18:30:35"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Kimi-Linear-48B-A3B & Step3.5-Flash are ready - llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qy5xnn/kimilinear48ba3b_step35flash_are_ready_llamacpp/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-07T05:59:11+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Below are actual releases for both models. Anyway get <a href=\"https://github.com/ggml-org/llama.cpp/releases\">latest version</a></p> <p>Step3.5-Flash</p> <p><a href=\"https://github.com/ggml-org/llama.cpp/releases/tag/b7964\">https://github.com/ggml-org/llama.cpp/releases/tag/b7964</a></p> <p>Kimi-Linear-48B-A3B</p> <p><a href=\"https://github.com/ggml-org/llama.cpp/releases/tag/b7957\">https://github.com/ggml-org/llama.cpp/releases/tag/b7957</a></p> <p>I don't see",
-      "extra": {},
-      "collected_at": "2026-02-07T18:30:37"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Open-sourced exact attention kernel - 1M tokens in 1GB VRAM",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qy5jm3/opensourced_exact_attention_kernel_1m_tokens_in/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-07T05:38:31+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><pre><code>GAE (Geodesic Attention Engine) - AGPL-3.0 Results: - 1M tokens: 1.09 GB (standard needs 4.4 TB) - 65K tokens: 99.6% memory reduction - Bit-exact (not approximate, not sparse) - 75%+ energy savings at 8K+ context How: Fused kernel reduces HBM round-trips from 12 to 2. Everything stays in registers. https://github.com/RegularJoe-CEO/Geodesic-Attention-Engine-GAE- DOI: 10.5281/zenodo.18512336 </code></pre> </div><!-- SC_ON --> &#32; submitted by &#32; <a h",
-      "extra": {},
-      "collected_at": "2026-02-07T18:30:37"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Quash",
       "url": "https://www.producthunt.com/products/quash-intent-driven-mobile-testing",
       "primary_category": "TOOL",
@@ -2916,19 +2850,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Why top talent is walking away from OpenAI and xAI",
-      "url": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 13 Feb 2026 21:00:00 +0000",
-      "summary": "AI companies have been hemorrhaging&#160;talent&#160;the past few weeks. Half of&#160;xAI’s&#160;founding team&#160;has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the&#160;disbanding of its&#160;mission alignment team&#160;to the firing of a policy exec who opposed its “adult mode” feature.&#160; Watch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-02-14T08:35:22"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
       "url": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
       "primary_category": "NEWS",
@@ -3123,7 +3044,85 @@
       "summary": "<p> Email identity for AI agents. Free during beta. </p> <p> <a href=\"https://www.producthunt.com/products/mailmolt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078532?app_id=339\">Link</a> </p>",
       "extra": {},
       "collected_at": "2026-02-14T15:51:24"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "What’s behind the mass exodus at xAI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-13T12:10:44-05:00",
+      "summary": "The past few days have been a wild ride for xAI, which is racking up staff and cofounder departure announcements left and right. On Tuesday and Wednesday, cofounder Yuhuai (Tony) Wu announced his departure and that it was \"time for [his] next chapter,\" with cofounder Jimmy Ba following with a similar post later that day, [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-14T18:30:43"
+    },
+    {
+      "source": "Google News",
+      "title": "データ基盤がAI時代の勝者を決める、日立ヴァンタラ・エヌビディア・レッドハットらが語る事業価値最大化への道筋 - JBpress",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhOGRLNGw3b1g5LWpYZTJGc0NDclRMQmNVT1BCdlFYU0M3ejFycHo0M1BsRVJXdlBzWnlxcUpQNDFGbXVFejlXMXFWUHFzbDNpWHZwdkJn?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 13 Feb 2026 01:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhOGRLNGw3b1g5LWpYZTJGc0NDclRMQmNVT1BCdlFYU0M3ejFycHo0M1BsRVJXdlBzWnlxcUpQNDFGbXVFejlXMXFWUHFzbDNpWHZwdkJn?oc=5\" target=\"_blank\">データ基盤がAI時代の勝者を決める、日立ヴァンタラ・エヌビディア・レッドハットらが語る事業価値最大化への道筋</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JBpress</font>",
+      "extra": {},
+      "collected_at": "2026-02-14T18:30:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "OpenBug",
+      "url": "https://www.producthunt.com/products/openbug",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ticket in, fix out. Every solution trains the next one. </p> <p> <a href=\"https://www.producthunt.com/products/openbug?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078842?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-14T18:30:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cline CLI 2.0",
+      "url": "https://www.producthunt.com/products/cline-4",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Parallel agents & headless CI/CD in your terminal </p> <p> <a href=\"https://www.producthunt.com/products/cline-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079203?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-14T18:30:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Elebean",
+      "url": "https://www.producthunt.com/products/elebean",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your music companion </p> <p> <a href=\"https://www.producthunt.com/products/elebean?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078316?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-14T18:30:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Seedance 2.0",
+      "url": "https://www.producthunt.com/products/pixeldance-seaweed",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Advanced AI video creation with precise narrative control </p> <p> <a href=\"https://www.producthunt.com/products/pixeldance-seaweed?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078959?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-14T18:30:45"
     }
   ],
-  "updated_at": "2026-02-14T15:51:27.684174+09:00"
+  "updated_at": "2026-02-14T18:30:47.769766+09:00"
 }
