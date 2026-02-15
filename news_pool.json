@@ -1,61 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "I trained a 1.8M params model from scratch on a total of ~40M tokens.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qym566/i_trained_a_18m_params_model_from_scratch_on_a/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-07T18:57:42+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qym566/i_trained_a_18m_params_model_from_scratch_on_a/\"> <img alt=\"I trained a 1.8M params model from scratch on a total of ~40M tokens.\" src=\"https://preview.redd.it/hv5xc4g794ig1.png?width=140&amp;height=72&amp;auto=webp&amp;s=cef557529cd85b5ecdfb430034c5db51f4d966d7\" title=\"I trained a 1.8M params model from scratch on a total of ~40M tokens.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Ok so I've been working &am",
-      "extra": {},
-      "collected_at": "2026-02-08T08:34:40"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Prompt injection is killing our self-hosted LLM deployment",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qyljr0/prompt_injection_is_killing_our_selfhosted_llm/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-07T18:34:55+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We moved to self-hosted models specifically to avoid sending customer data to external APIs. Everything was working fine until last week when someone from QA tried injecting prompts during testing and our entire system prompt got dumped in the response.</p> <p>Now I'm realizing we have zero protection against this. Traditional web application firewalls don't understand LLM-specific attacks. The model just treats malicious prompts like normal user input and happi",
-      "extra": {},
-      "collected_at": "2026-02-08T08:34:40"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Gemini System Prompt - Google decided to remove \"PRO\" option for paid subscribers mostly in EU due to their A/B testing, so I extracted their system prompt and cancelled the subscription.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qyl6rd/gemini_system_prompt_google_decided_to_remove_pro/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-07T18:21:34+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qyl6rd/gemini_system_prompt_google_decided_to_remove_pro/\"> <img alt=\"Gemini System Prompt - Google decided to remove &quot;PRO&quot; option for paid subscribers mostly in EU due to their A/B testing, so I extracted their system prompt and cancelled the subscription.\" src=\"https://b.thumbs.redditmedia.com/GQChSaPbMeljTuOrlvLzH1SfN18Sj71SBClWPpwoU_M.jpg\" title=\"Gemini System Prompt - Google decided to remove &quot;PRO&quot; o",
-      "extra": {},
-      "collected_at": "2026-02-08T08:34:40"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Full Claude Opus 4.6 System Prompt for your pleasure",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qynxuw/full_claude_opus_46_system_prompt_for_your/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-07T20:07:42+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qynxuw/full_claude_opus_46_system_prompt_for_your/\"> <img alt=\"Full Claude Opus 4.6 System Prompt for your pleasure\" src=\"https://external-preview.redd.it/otAtlKXoVGIzRX_D-XS8ef102ismRuSmY-rYGjCWHEI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=345f8e8a9693f1ecf3f281e2c9b37a5656e8634f\" title=\"Full Claude Opus 4.6 System Prompt for your pleasure\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/u",
-      "extra": {},
-      "collected_at": "2026-02-08T08:34:40"
-    },
-    {
       "source": "Product Hunt",
       "title": "Gravity DMG",
       "url": "https://www.producthunt.com/products/gravity-dmg",
@@ -2896,19 +2841,6 @@
       "collected_at": "2026-02-14T18:30:45"
     },
     {
-      "source": "Product Hunt",
-      "title": "Seedance 2.0",
-      "url": "https://www.producthunt.com/products/pixeldance-seaweed",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Advanced AI video creation with precise narrative control </p> <p> <a href=\"https://www.producthunt.com/products/pixeldance-seaweed?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078959?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-14T18:30:45"
-    },
-    {
       "source": "The Verge AI",
       "title": "Ring&#8217;s adorable surveillance hellscape",
       "url": "https://www.theverge.com/podcast/878797/ring-super-bowl-ad-backlash-epstein-files-chatgpt-vergecast",
@@ -3088,19 +3020,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Is safety is ‘dead’ at xAI?",
-      "url": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 14 Feb 2026 21:55:44 +0000",
-      "summary": "Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.",
-      "extra": {},
-      "collected_at": "2026-02-15T08:29:30"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
       "url": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
       "primary_category": "NEWS",
@@ -3179,7 +3098,48 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r4mks7/6gpu_local_llm_workstation_200gb_vram_looking_for/\"> <img alt=\"6-GPU local LLM workstation (≈200GB+ VRAM) – looking for scaling / orchestration advice\" src=\"https://preview.redd.it/blrzr76h4hjg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=bfd384e1306c8a061f9957d6b40c7914ce182d4f\" title=\"6-GPU local LLM workstation (≈200GB+ VRAM) – looking for scaling / orchestration advice\" /> </a> </td><td> <!",
       "extra": {},
       "collected_at": "2026-02-15T08:29:37"
+    },
+    {
+      "source": "Google News",
+      "title": "Vertex AI の Claude Opus 4.6 を発表 - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFhkcVd2Nk5KNXZCbVBTblhGUGJIYWJUOXozWXdjOXJzWWhfMmc4cDBJWmVHTTFHYTZmZ2I4VHhISTRERVI3R2FMU2d0VHZaRzdIdzZsdUF3WjBsOE04N0trc2hvY2JybW5NN2tNOV9jdjlHR3FzV2VrSXo4Zkc1NTk3TGoyc3pDVzZwRkFueDVsX3Y2MGJIaWplTl9CVWhUYVVwVg?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 10 Feb 2026 02:04:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFhkcVd2Nk5KNXZCbVBTblhGUGJIYWJUOXozWXdjOXJzWWhfMmc4cDBJWmVHTTFHYTZmZ2I4VHhISTRERVI3R2FMU2d0VHZaRzdIdzZsdUF3WjBsOE04N0trc2hvY2JybW5NN2tNOV9jdjlHR3FzV2VrSXo4Zkc1NTk3TGoyc3pDVzZwRkFueDVsX3Y2MGJIaWplTl9CVWhUYVVwVg?oc=5\" target=\"_blank\">Vertex AI の Claude Opus 4.6 を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Google Cloud</font>",
+      "extra": {},
+      "collected_at": "2026-02-15T14:01:48"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3 Coder Next Speedup with Latest Llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r50ohq/qwen3_coder_next_speedup_with_latest_llamacpp/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-02-15T00:34:02+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Looks like it released just a few hours ago. Previously, I was getting 80ish tokens, max, on either of my GPUS in any combination.</p> <p>Now I'm over 110+ in dual and 130+ on my RTX Pro</p> <p>PR: <a href=\"https://github.com/ggml-org/llama.cpp/pull/19375\">https://github.com/ggml-org/llama.cpp/pull/19375</a></p> <p>Update your llama.cpp.</p> <p>Edit: This is for CUDA devices.</p> <p>Previous: ``` ❯ llama-bench -m ~/.cache/llama.cpp/Qwen_Qwen3-Coder-Next-GGUF_Qwe",
+      "extra": {},
+      "collected_at": "2026-02-15T14:01:54"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "[Release] AdaLLM: NVFP4-first inference on RTX 4090 (FP8 KV cache + custom FP8 decode)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r4yg6p/release_adallm_nvfp4first_inference_on_rtx_4090/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-02-14T22:53:06+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey folks, I have been working on <strong>AdaLLM</strong> (repo: <a href=\"https://github.com/BenChaliah/NVFP4-on-4090-vLLM\">https://github.com/BenChaliah/NVFP4-on-4090-vLLM</a>) to make NVFP4 weights actually usable on Ada Lovelace GPUs (sm_89). The focus is a pure NVFP4 fast path: FP8 KV cache, custom FP8 decode kernel, no silent FP16 fallback. It currently targets Qwen3 (dense + MoE) and Gemma3 (including sliding-window layers), I'll be adding support to other",
+      "extra": {},
+      "collected_at": "2026-02-15T14:01:54"
     }
   ],
-  "updated_at": "2026-02-15T08:29:37.010241+09:00"
+  "updated_at": "2026-02-15T14:01:54.417971+09:00"
 }
