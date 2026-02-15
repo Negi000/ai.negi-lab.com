@@ -3353,5 +3353,29 @@
     "question_text": "動画制作、まだ手動でやってる？",
     "created_at": "2026-02-15T18:34:07.390661+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-15-b62b0748",
+    "title": "プロンプト管理の決定版か？作業効率を3倍にするPrompt Library徹底検証",
+    "url": "https://ai.negi-lab.com/posts/2026-02-15-b62b0748/",
+    "category": "TOOL",
+    "viral_tags": "#業務効率化 #生成AI",
+    "hook_text": "プロンプト管理の絶望が消えた。1日30分浮く神ツールを晒す🔥",
+    "summary_text": "・全プロンプトを即呼び出し\n・Python連携で自動化加速\n・チーム共有で効率3倍",
+    "question_text": "プロンプトどこに保存してる？",
+    "created_at": "2026-02-15T22:02:55.776651+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-15-bfbc0069",
+    "title": "ローカルLLMをメモリ不足で諦めない！llama.cppでRAMとVRAMを最適化して巨大モデルを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/2026-02-15-bfbc0069/",
+    "category": "GUIDE",
+    "viral_tags": "#自作PC #LocalLLaMA",
+    "hook_text": "70Bモデルを動かすならメモリ沼に沈め！128GB増設が正義の理由",
+    "summary_text": "・llama.cppのビルド手順を完全解説\n・GPUオフロード最適化で推論速度3倍\n・RAM不足を救うECCメモリ活用術",
+    "question_text": "PCのメモリ何GB積んでる？",
+    "created_at": "2026-02-15T22:09:00.161565+09:00",
+    "posted": false
   }
 ]
