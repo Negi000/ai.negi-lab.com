@@ -1,73 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Sunday",
-      "url": "https://www.producthunt.com/products/sunday-the-book-quotes-collector",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The beautiful way to save and collect your books quotes </p> <p> <a href=\"https://www.producthunt.com/products/sunday-the-book-quotes-collector?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071320?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-09T08:36:15"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I built a rough .gguf LLM visualizer",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qzjbw2/i_built_a_rough_gguf_llm_visualizer/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-08T20:08:31+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qzjbw2/i_built_a_rough_gguf_llm_visualizer/\"> <img alt=\"I built a rough .gguf LLM visualizer\" src=\"https://b.thumbs.redditmedia.com/kcxBxykQQ15O2Oz4xDuJc0i9OygqR7aRSLKKBTm5a5E.jpg\" title=\"I built a rough .gguf LLM visualizer\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I hacked together a small tool that lets you upload a .gguf file and visualize its internals in a 3D-ish way (layers / neurons / connections). The ori",
-      "extra": {},
-      "collected_at": "2026-02-09T08:36:17"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "pwilkin is doing things",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qzgvyh/pwilkin_is_doing_things/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-08T18:38:34+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1qzgvyh/pwilkin_is_doing_things/\"> <img alt=\"pwilkin is doing things\" src=\"https://external-preview.redd.it/LP9lWJIkvOFwEJy7i2edxqBM2iBmROue3pUEdiXyxYg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a45fd4b46acdf1a22c62c7c684471a43354c1397\" title=\"pwilkin is doing things\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jacek2023\"> /u/jacek2023 </a> <br /> <span><a href=\"https://github.com/ggm",
-      "extra": {},
-      "collected_at": "2026-02-09T08:36:17"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Strix Halo Distributed Cluster (2x Strix Halo, RDMA RoCE v2) benchmarks by kyuz0",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qzhxd0/strix_halo_distributed_cluster_2x_strix_halo_rdma/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-08T19:16:19+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>kyuz0 has been a godsend to the Strix Halo community, they can't be thanked enough!</p> <p>For their latest escapade, they have built a two-node <strong>AMD Strix Halo</strong> cluster linked via <strong>Intel E810 (RoCE v2)</strong> for distributed vLLM inference using Tensor Parallelism.</p> <p>Here are some benchmarks- </p> <p><a href=\"https://kyuz0.github.io/amd-strix-halo-vllm-toolboxes/\">https://kyuz0.github.io/amd-strix-halo-vllm-toolboxes/</a></p> <p>Her",
-      "extra": {},
-      "collected_at": "2026-02-09T08:36:17"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Comparing the same model with reasoning turned on and off",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qznps2/comparing_the_same_model_with_reasoning_turned_on/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-08T23:00:51+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm preparing to use Nemotron-3-30B to analyze a huge personal file (close to 1M tokens), and thought I might turn off reasoning so it doesn't go schizo over the sheer amount of content. But I was curious what turning off reasoning would do, so I went looking for benchmarks.</p> <p>There seems to be very few benchmarks comparing the same model with reasoning on, vs turned off via chat template. I was only able to find 2 places with info on this, Artificial Analy",
-      "extra": {},
-      "collected_at": "2026-02-09T08:36:17"
-    },
-    {
       "source": "r/MachineLearning",
       "title": "[D] Self-Promotion Thread",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1qtjnbc/d_selfpromotion_thread/",
@@ -2895,19 +2828,6 @@
       "collected_at": "2026-02-15T22:02:19"
     },
     {
-      "source": "Product Hunt",
-      "title": "Plus AI Presentation Agent",
-      "url": "https://www.producthunt.com/products/plus-ai-presentation-agent",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI agent that helps you design PowerPoint slides </p> <p> <a href=\"https://www.producthunt.com/products/plus-ai-presentation-agent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078101?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-15T22:02:27"
-    },
-    {
       "source": "GitHub Trending",
       "title": "nautechsystems/nautilus_trader",
       "url": "https://github.com/nautechsystems/nautilus_trader",
@@ -3050,19 +2970,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenClaw creator Peter Steinberger joins OpenAI",
-      "url": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sun, 15 Feb 2026 22:28:02 +0000",
-      "summary": "OpenAI said OpenClaw will live on as an open source project.",
-      "extra": {},
-      "collected_at": "2026-02-16T08:31:47"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
       "url": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
       "primary_category": "NEWS",
@@ -3170,7 +3077,72 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r5lra1/bad_apple_but_its_gpt2_xl_attention_maps/\"> <img alt=\"Bad Apple but it's GPT-2 XL Attention Maps\" src=\"https://external-preview.redd.it/bQ8_O8mHCtpCo5Q-asAduYJCGmACnuapiWfZUdt-AYQ.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b50e9ecd47f69e52dab8879c365cdc6251af431c\" title=\"Bad Apple but it's GPT-2 XL Attention Maps\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I optimized learnable input embeddings for a f",
       "extra": {},
       "collected_at": "2026-02-16T08:31:51"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
+      "url": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 16 Feb 2026 01:00:00 +0000",
+      "summary": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
+      "extra": {},
+      "collected_at": "2026-02-16T14:08:35"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+      "url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 16 Feb 2026 00:30:00 +0000",
+      "summary": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
+      "extra": {},
+      "collected_at": "2026-02-16T14:08:35"
+    },
+    {
+      "source": "Google News",
+      "title": "規制と変革のジレンマに陥った欧州、珍しい国際戦略を打ち出した中国……市川類氏が世界のAI政策を総括 (1/4) - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XOWFaUzB0cTNTWm1DRG85Q3FWcXoyRXRoSVVXN0JHWUcwNUxXMHFqVFMxWWZUb09wR2wyRC1XRDd5Mjl3VFRRRk1oUWdBNUVmZ0NOVVEzcUkxQQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 15 Feb 2026 23:05:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XOWFaUzB0cTNTWm1DRG85Q3FWcXoyRXRoSVVXN0JHWUcwNUxXMHFqVFMxWWZUb09wR2wyRC1XRDd5Mjl3VFRRRk1oUWdBNUVmZ0NOVVEzcUkxQQ?oc=5\" target=\"_blank\">規制と変革のジレンマに陥った欧州、珍しい国際戦略を打ち出した中国……市川類氏が世界のAI政策を総括 (1/4)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EnterpriseZine</font>",
+      "extra": {},
+      "collected_at": "2026-02-16T14:08:38"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Anyone actually using Openclaw?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r5v1jb/anyone_actually_using_openclaw/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-16T00:36:08+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am highly suspicious that openclaw's virality is organic. I don't know of anyone (online or IRL) that is actually using it and I am deep in the AI ecosystem (both online and IRL). If this sort of thing is up anyone's alley, its the members of localllama - so are you using it? </p> <p>With the announcement that OpenAI bought OpenClaw, conspiracy theory is that it was manufactured social media marketing (on twitter) to hype it up before acquisition. Theres no wa",
+      "extra": {},
+      "collected_at": "2026-02-16T14:08:41"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Deflation: Cost to train A.I. models drops 40% per year - Karpathy",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r5uhfu/deflation_cost_to_train_ai_models_drops_40_per/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-16T00:11:13+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/karpathy/nanochat/discussions/481\">https://github.com/karpathy/nanochat/discussions/481</a></p> <p>Quote: ..., each year the cost to train GPT-2 is falling to approximately 40% of the previous year. (I think this is an underestimate and that further improvements are still quite possible). The gains come from everywhere: better hardware (H100 vs TPU v3), better software (Flash Attention 3, torch.compile), better algorithms (Muon optimi",
+      "extra": {},
+      "collected_at": "2026-02-16T14:08:41"
     }
   ],
-  "updated_at": "2026-02-16T08:31:51.505355+09:00"
+  "updated_at": "2026-02-16T14:08:41.199108+09:00"
 }
