@@ -34,11 +34,37 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
+  {{/* AdSense: 記事上部広告 (目次の後、本文の前) */}}
+  {{- if and site.Params.adsense.enabled site.Params.adsense.slotTop }}
+  <div class="adsense-unit adsense-top" style="margin: 20px 0; text-align: center; min-height: 100px;">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="{{ site.Params.adsense.client }}"
+         data-ad-slot="{{ site.Params.adsense.slotTop }}"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+  {{- end }}
+
   {{- if .Content }}
   <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
+  </div>
+  {{- end }}
+
+  {{/* AdSense: 記事下部広告 (本文の後、フッターの前) */}}
+  {{- if and site.Params.adsense.enabled site.Params.adsense.slotBottom }}
+  <div class="adsense-unit adsense-bottom" style="margin: 30px 0 20px; text-align: center; min-height: 250px;">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="{{ site.Params.adsense.client }}"
+         data-ad-slot="{{ site.Params.adsense.slotBottom }}"
+         data-ad-format="rectangle"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
   </div>
   {{- end }}
 

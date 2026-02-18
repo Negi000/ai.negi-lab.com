@@ -67,6 +67,10 @@ summaryLength = 120
   [params.adsense]
     client = "ca-pub-1835873052239386"
     enabled = true
+    # AdSense管理画面で広告ユニットを作成し、スロットIDを記入してください
+    # 手順: AdSense > 広告 > 広告ユニットごと > ディスプレイ広告 > 作成 → スロットIDをコピー
+    slotTop = "4837564489"      # 記事上部（目次後）用の広告ユニットID
+    slotBottom = "7843001775"   # 記事下部用の広告ユニットID
   
   # 分析 (Google Analytics 4)
   [params.analytics]
