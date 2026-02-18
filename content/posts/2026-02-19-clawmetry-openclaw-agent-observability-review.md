@@ -4,7 +4,7 @@ date: 2026-02-19T00:00:00+09:00
 slug: "clawmetry-openclaw-agent-observability-review"
 description: "OpenClawベースのAIエージェントの動きを、リアルタイムでグラフィカルに追跡できる監視ツール。トークン消費量や推論コスト、ツール実行のレイテンシを秒..."
 cover:
-  image: "/images/default-thumbnail.png"
+  image: "/images/og-default.png"
   alt: "AI generated thumbnail"
   relative: false
 categories:

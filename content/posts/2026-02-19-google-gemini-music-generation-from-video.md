@@ -4,7 +4,7 @@ date: 2026-02-19T00:00:00+09:00
 slug: "google-gemini-music-generation-from-video"
 description: "Geminiアプリ上で、テキスト・画像・動画をリファレンスにした音楽生成が可能になる。動画の内容をAIが視覚的に解析し、そのシーンに同期したBGMを自動作..."
 cover:
-  image: "/images/default-thumbnail.png"
+  image: "/images/og-default.png"
   alt: "AI generated thumbnail"
   relative: false
 categories:

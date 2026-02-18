@@ -65,6 +65,7 @@ except Exception:
 JST = timezone(timedelta(hours=9))
 SLEEP_SECONDS_PER_ARTICLE = 30
 DEFAULT_TOTAL_ARTICLES = 2  # 1回の実行で2記事生成
+SITE_BASE_URL = "https://ai.negi-lab.com"
 
 # 日次リセット時刻（JST 02:00 = 海外速報をキャッチしやすい時間）
 DAILY_RESET_HOUR = 2
@@ -2191,7 +2192,7 @@ class ImageHandler:
         except Exception as e:
             print(f"  [Image] Pollinations.ai image generation failed: {e}")
             # フォールバック: デフォルトのプレースホルダーパスを返す
-            return "/images/default-thumbnail.png"
+            return "/images/og-default.png"
 
     def download_image_to_bytes(self, image_path_or_url: str, static_dir: Path) -> Optional[bytes]:
         """
@@ -2403,6 +2404,49 @@ def is_twitter_configured() -> bool:
         "TWITTER_ACCESS_TOKEN_SECRET",
     ]
     return all(os.getenv(key) for key in required)
+
+
+def build_article_url(base_url: str, article_id: str, slug: Optional[str] = None) -> str:
+    """slugがあればslug優先で記事URLを生成"""
+    normalized_slug = (slug or "").strip()
+    if normalized_slug:
+        return f"{base_url}/posts/{normalized_slug}/"
+    return f"{base_url}/posts/{article_id}/"
+
+
+def resolve_article_url(
+    repo_root: Path,
+    article_id: str,
+    base_url: str,
+    fallback_url: Optional[str] = None,
+) -> str:
+    """Front Matterのslugを参照して記事URLを解決（なければfallback）"""
+    posts_dir = repo_root / "content" / "posts"
+    md_path = posts_dir / f"{article_id}.md"
+    slug = None
+
+    try:
+        if md_path.exists():
+            raw = md_path.read_text(encoding="utf-8")
+            if raw.startswith("---"):
+                parts = raw.split("---", 2)
+                if len(parts) >= 3:
+                    front_matter = parts[1]
+                    slug_match = re.search(
+                        r'^\s*slug:\s*["\']?(.+?)["\']?\s*$',
+                        front_matter,
+                        re.MULTILINE,
+                    )
+                    if slug_match:
+                        slug = slug_match.group(1).strip()
+    except Exception:
+        pass
+
+    if slug:
+        return build_article_url(base_url, article_id, slug)
+    if fallback_url:
+        return fallback_url
+    return build_article_url(base_url, article_id)
 
 
 # ============================================================
@@ -2650,6 +2694,14 @@ class TwitterPostingQueue:
                 return item
         return None
 
+    def update_url(self, article_id: str, url: str) -> None:
+        if not self._queue:
+            self.load()
+        for item in self._queue:
+            if item["article_id"] == article_id:
+                item["url"] = url
+        self._save()
+
     def _save(self) -> None:
         self.path.parent.mkdir(parents=True, exist_ok=True)
         self.path.write_text(
@@ -2705,9 +2757,14 @@ def post_single_article_to_twitter(article_id: str) -> int:
         }
         category = category_map.get(item["category"], Category.NEWS)
 
+        # slugがある場合は正しいURLに補正
+        article_url = resolve_article_url(repo_root, article_id, SITE_BASE_URL, item.get("url"))
+        if article_url != item.get("url"):
+            queue.update_url(article_id, article_url)
+
         success = poster.post_article(
             title=item["title"],
-            url=item["url"],
+            url=article_url,
             category=category,
             viral_tags=item.get("viral_tags"),
             tweet_text=item.get("tweet_text"),
@@ -2720,7 +2777,7 @@ def post_single_article_to_twitter(article_id: str) -> int:
             queue.mark_posted(article_id)
             print(f"✓ Successfully posted to X!")
             print(f"  Title: {item['title'][:50]}...")
-            print(f"  URL: {item['url']}")
+            print(f"  URL: {article_url}")
             return 0
         else:
             print("✗ Failed to post to X.")
@@ -2794,9 +2851,14 @@ def post_all_pending_to_twitter() -> int:
         }
         category = category_map.get(item["category"], Category.NEWS)
 
+        # slugがある場合は正しいURLに補正
+        article_url = resolve_article_url(repo_root, item["article_id"], SITE_BASE_URL, item.get("url"))
+        if article_url != item.get("url"):
+            queue.update_url(item["article_id"], article_url)
+
         if poster.post_article(
             title=item["title"],
-            url=item["url"],
+            url=article_url,
             category=category,
             viral_tags=item.get("viral_tags"),
             tweet_text=item.get("tweet_text"),
@@ -3323,9 +3385,6 @@ def main() -> int:
 
     print()
 
-    # サイトのベースURL (デプロイ後のURL)
-    base_url = "https://ai.negi-lab.com"
-
     success_count = 0
     twitter_success = 0
     for idx, item in enumerate(final_items, 1):
@@ -3411,7 +3470,7 @@ def main() -> int:
             success_count += 1
 
             # X投稿用のキューに追加（デプロイ後投稿用）
-            article_url = f"{base_url}/posts/{article_id}/"
+            article_url = build_article_url(SITE_BASE_URL, article_id, result.slug)
             twitter_queue = TwitterPostingQueue(repo_root / "twitter_queue.json")
             twitter_queue.add(TwitterQueueItem(
                 article_id=article_id,
