@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "EpsteinFiles-RAG: Building a RAG Pipeline on 2M+ Pages",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r1oan9/epsteinfilesrag_building_a_rag_pipeline_on_2m/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-11T05:02:36+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I love playing around with RAG and AI, optimizing every layer to squeeze out better performance. Last night I thought: why not tackle something massive?</p> <p>Took the Epstein Files dataset from Hugging Face (teyler/epstein-files-20k) – 2 million+ pages of trending news and documents. The cleaning, chunking, and optimization challenges are exactly what excites me.</p> <p>What I built:</p> <p>- Full RAG pipeline with optimized data processing</p> <p>- Processed ",
-      "extra": {},
-      "collected_at": "2026-02-11T16:05:55"
-    },
-    {
       "source": "The Verge AI",
       "title": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports",
       "url": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
@@ -2826,19 +2812,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "SpaceX vets raise $50M Series A for data center links",
-      "url": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 17 Feb 2026 17:00:00 +0000",
-      "summary": "Mesh aims to mass-produce optical transceivers for AI data centers.",
-      "extra": {},
-      "collected_at": "2026-02-18T02:55:20"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Running AI models is turning into a memory game",
       "url": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/",
       "primary_category": "NEWS",
@@ -3132,7 +3105,86 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r7r7zr/glm5_technical_report/\"> <img alt=\"GLM-5 Technical Report\" src=\"https://preview.redd.it/phk5j82g36kg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a4da644c3d3988eba39a218faf8a811456998b3\" title=\"GLM-5 Technical Report\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Presenting the GLM-5 Technical Report!</p> <p><a href=\"http://arxiv.org/abs/2602.15763\">http://arxiv.org/abs/2602.15763</a></p> <p>After the lau",
       "extra": {},
       "collected_at": "2026-02-18T16:05:18"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google’s AI search results will make links more obvious",
+      "url": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-02-17T17:38:24-05:00",
+      "summary": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now appear inside a pop-up when you hover over the sources in AI Overviews and AI Mode on desktop, alongside a description of [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-18T18:48:01"
+    },
+    {
+      "source": "Google News",
+      "title": "東洋建設、生成AIで現場映像をリアルタイム分析する「VLモニター」を開発 - digital-construction.jp",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iOXoxZ00yd1BweFItY1VqdWFsZFZIc3FGdllfVXZucVF2OVRVWVRRQllZcGNuV2g5XzZpYW40SkpoeXUyZkRBYU1pQWRyRngyeWNF?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 17 Feb 2026 22:01:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iOXoxZ00yd1BweFItY1VqdWFsZFZIc3FGdllfVXZucVF2OVRVWVRRQllZcGNuV2g5XzZpYW40SkpoeXUyZkRBYU1pQWRyRngyeWNF?oc=5\" target=\"_blank\">東洋建設、生成AIで現場映像をリアルタイム分析する「VLモニター」を開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
+      "extra": {},
+      "collected_at": "2026-02-18T18:48:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Calendarly",
+      "url": "https://www.producthunt.com/products/calendarly-calendar-on-lock-screen",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn your calendar into a live Lock Screen wallpaper </p> <p> <a href=\"https://www.producthunt.com/products/calendarly-calendar-on-lock-screen?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080341?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-18T18:48:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cencurity",
+      "url": "https://www.producthunt.com/products/cencurity",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Security gateway for LLM agents </p> <p> <a href=\"https://www.producthunt.com/products/cencurity?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081126?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-18T18:48:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Baseline Core",
+      "url": "https://www.producthunt.com/products/baseline-core",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Open-source skills system that wires your business into AI </p> <p> <a href=\"https://www.producthunt.com/products/baseline-core?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081234?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-18T18:48:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Konta",
+      "url": "https://www.producthunt.com/products/konta",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> GitOps for Docker Compose on low‑resource VPS </p> <p> <a href=\"https://www.producthunt.com/products/konta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080940?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-18T18:48:03"
     }
   ],
-  "updated_at": "2026-02-18T16:05:18.956382+09:00"
+  "updated_at": "2026-02-18T18:48:06.156045+09:00"
 }
