@@ -3761,5 +3761,31 @@
     "question_text": "AIに喋らせたい声は誰？",
     "created_at": "2026-02-18T22:19:56.687992+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-19-google-gemini-music-generation-from-video",
+    "title": "スマホで撮影した何気ない日常の動画をGeminiに投げる。すると数秒後、その動画の雰囲気やテンポ、色彩に完璧にマッチしたオリジナル楽曲が生成される。",
+    "url": "https://ai.negi-lab.com/posts/2026-02-19-google-gemini-music-generation-from-video/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleGemini #音楽生成AI",
+    "tweet_text": "まって、これガチで動画制作の概念が変わるやつ。Geminiがついに「聴覚」を本格的に手に入れました。\n\nGoogleがGeminiアプリに音楽生成機能を統合。驚くべきは、テキストだけじゃなく「動画」を読み込ませてBGMを作れる点。これ、SIer時代に社内ビデオのBGM選びで数日溶かしてた私からすれば、涙が出るほど革新的なんです...。\n\n動画のテンポや色彩をAIが解析して、シーンに完璧に同期した音楽を生成。しかもSynthIDで著作権対策もバッチリ。YouTube Shortsとの連携が始まったら、もうストック音源を探す日々には戻れないかもしれません。\n\n皆さんは動画のBGM選び、苦労してませんか？この機能、何に使ってみたいですか？「Vlogの編集が秒で終わる」「プレゼン資料に覇気が宿る」など、リプ欄で教えてください！\n\n詳細な技術背景と業界への影響をブログにまとめました。AIが「視覚を聴覚に翻訳する」時代の幕開けです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-19T02:53:08.552301+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-19-clawmetry-openclaw-agent-observability-review",
+    "title": "AIエージェントの「思考プロセス」を可視化するClawMetryが、開発現場のブラックボックス問題を解決する",
+    "url": "https://ai.negi-lab.com/posts/2026-02-19-clawmetry-openclaw-agent-observability-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #OpenClaw",
+    "tweet_text": "AIエージェント開発で「なぜか動かない」「いつの間にかAPI代が数万飛んだ」と頭を抱えてる人、これ見てください。\n\nOpenClaw専用の観測ダッシュボード「ClawMetry」を試したのですが、エージェントの思考プロセスがリアルタイムで可視化される快感はやばいです。SIer時代にログを必死にgrepしてた苦労が嘘のよう…。\n\n・推論ステップの依存関係をグラフ化\n・トークン消費とコストを秒単位で表示\n・詰まっている箇所のレイテンシを特定\n\n正直、AIに自律的なタスクを任せるなら、この手の「監視の目」がないと怖くて本番運用なんてできません。みなさんはエージェントのデバッグ、どうやってますか？やっぱり根性のログ追い？\n\n検証コード含めてブログにガッツリまとめました。効率化したい方はぜひ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-19T02:55:31.087234+09:00",
+    "posted": false
   }
 ]
