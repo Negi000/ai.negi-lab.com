@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Makers Page",
-      "url": "https://www.producthunt.com/products/makers-page",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your hub to showcase your projects and verify your revenue </p> <p> <a href=\"https://www.producthunt.com/products/makers-page?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076705?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-11T14:09:59"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Spawned",
-      "url": "https://www.producthunt.com/products/spawned",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Build, launch, and discover products in a single platform </p> <p> <a href=\"https://www.producthunt.com/products/spawned?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1073980?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-11T14:09:59"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r1n7mz/nanbeige413b_a_small_general_model_that_reasons/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-11T04:08:10+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r1n7mz/nanbeige413b_a_small_general_model_that_reasons/\"> <img alt=\"Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts\" src=\"https://preview.redd.it/zk04invnhsig1.png?width=140&amp;height=95&amp;auto=webp&amp;s=29c90493159d7abf37e36e94a2aaf34d6992f976\" title=\"Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi everyone 👋</p> <p>We’re e",
-      "extra": {},
-      "collected_at": "2026-02-11T14:10:02"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "i finetuned qwen 14b on my discord messages so it can autocomplete for me",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r1ixx4/i_finetuned_qwen_14b_on_my_discord_messages_so_it/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-11T00:54:40+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r1ixx4/i_finetuned_qwen_14b_on_my_discord_messages_so_it/\"> <img alt=\"i finetuned qwen 14b on my discord messages so it can autocomplete for me\" src=\"https://external-preview.redd.it/cXh4bTUxNG9qcmlnMRM_V8ZFFQqRSvchLLHbQ0c5NybEjNwn4ZOI2DTNmagB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d33c2f2c3025e6211e089f2944cd13d2929b194\" title=\"i finetuned qwen 14b on my discord messages so it can autocomplete for me\" /> </a> </t",
-      "extra": {},
-      "collected_at": "2026-02-11T14:10:02"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "PSA on llama.cpp —spec-type ngram-mod (use LF not CRLF, 35x speedup)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r1k5gn/psa_on_llamacpp_spectype_ngrammod_use_lf_not_crlf/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-11T01:48:39+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>TLDR; if using llama-server with —spec-type ngram-mod, and pasting/uploading/sending text files, make sure the files use LF instead of CRLF.</p> <p>When I would copy a file from vscode and paste into the native llama-server webui with ngram speculative decoding enabled, there was no speed boost for file editing responses. I would only get a speed boost on the models second response (if I asked it to make a minor change to its first response file). Even if I aske",
-      "extra": {},
-      "collected_at": "2026-02-11T14:10:02"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "EpsteinFiles-RAG: Building a RAG Pipeline on 2M+ Pages",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r1oan9/epsteinfilesrag_building_a_rag_pipeline_on_2m/",
@@ -3028,19 +2959,6 @@
       "collected_at": "2026-02-18T02:55:25"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic releases Sonnet 4.6",
-      "url": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 17 Feb 2026 18:00:00 +0000",
-      "summary": "Anthropic has released a new version of its midsized Sonnet model, keeping pace with the company's four-month update cycle.",
-      "extra": {},
-      "collected_at": "2026-02-18T08:33:55"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude Sonnet 4.6",
       "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
@@ -3109,19 +3027,6 @@
       "collected_at": "2026-02-18T08:34:00"
     },
     {
-      "source": "Product Hunt",
-      "title": "Qwen3.5",
-      "url": "https://www.producthunt.com/products/qwen3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The 397B native multimodal agent with 17B active params </p> <p> <a href=\"https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080275?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-18T14:02:31"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "okay okay yes... slutty-deepseek-obliterated-6.5-20280512, i will send you another picture of my cock and balls for some more compute credits, fine",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r7qfg0/okay_okay_yes_sluttydeepseekobliterated6520280512/",
@@ -3160,7 +3065,74 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r7plp1/primeintellectintellect31_hugging_face/\"> <img alt=\"PrimeIntellect/INTELLECT-3.1 · Hugging Face\" src=\"https://external-preview.redd.it/HlIthhd4_MOQ5SPqMHH4aU80ZJQIA0QmPpZBs5Jd5L0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b86fe7ea9ee70a3f83ccb5ad48aa01e8fd98f27\" title=\"PrimeIntellect/INTELLECT-3.1 · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>INTELLECT-3.1 is a 106B (A12B) parameter Mixtur",
       "extra": {},
       "collected_at": "2026-02-18T14:02:34"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-17T19:27:08-05:00",
+      "summary": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says will deliver \"significant performance-per-watt improvements in [Meta's] [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-18T16:05:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "TransLite",
+      "url": "https://www.producthunt.com/products/translite-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Instant translation from anywhere on macOS </p> <p> <a href=\"https://www.producthunt.com/products/translite-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080549?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-18T16:05:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Synra",
+      "url": "https://www.producthunt.com/products/synra-managed-mcp-server",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Connect Claude to your database in 60 seconds </p> <p> <a href=\"https://www.producthunt.com/products/synra-managed-mcp-server?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079643?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-18T16:05:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Auden",
+      "url": "https://www.producthunt.com/products/auden",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your day-to-day AI memory that listens and remembers </p> <p> <a href=\"https://www.producthunt.com/products/auden?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079707?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-18T16:05:16"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM-5 Technical Report",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r7r7zr/glm5_technical_report/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-18T02:51:52+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r7r7zr/glm5_technical_report/\"> <img alt=\"GLM-5 Technical Report\" src=\"https://preview.redd.it/phk5j82g36kg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a4da644c3d3988eba39a218faf8a811456998b3\" title=\"GLM-5 Technical Report\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Presenting the GLM-5 Technical Report!</p> <p><a href=\"http://arxiv.org/abs/2602.15763\">http://arxiv.org/abs/2602.15763</a></p> <p>After the lau",
+      "extra": {},
+      "collected_at": "2026-02-18T16:05:18"
     }
   ],
-  "updated_at": "2026-02-18T14:02:34.278135+09:00"
+  "updated_at": "2026-02-18T16:05:18.956382+09:00"
 }
