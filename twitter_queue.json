@@ -3787,5 +3787,31 @@
     "question_text": null,
     "created_at": "2026-02-19T02:55:31.087234+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-19-google-cloud-vp-ai-startup-infrastructure-warning",
+    "title": "スタートアップの「エンジンチェックランプ」が点灯していませんか？Google Cloudの副社長が語るAI開発の罠",
+    "url": "https://ai.negi-lab.com/posts/google-cloud-vp-ai-startup-infrastructure-warning/",
+    "category": "NEWS",
+    "viral_tags": "#AIインフラ #VertexAI",
+    "tweet_text": "「AIスタートアップのエンジンチェックランプ、点灯してませんか？」\nGoogle CloudのVPが放ったこの一言、全エンジニアが胸に刻むべき内容です。\n\nかつてのSIer時代、私も「とりあえず動く」だけで作られたシステムが、運用のコストと負債で自壊していくのを何度も見てきました。今のAI開発も、全く同じ道を辿ろうとしています。\n\nクラウドクレジットを使い果たし、特定のAPIに依存しきった先に待つのは、収益化の壁という名の絶望です。今こそ「マルチモデル戦略」と「コスト設計」を真剣に考える時。\n\n正直、派手な機能より「いつでもモデルを切り替えられる柔軟性」の方が100倍価値があります。皆さんのプロジェクト、半年後のコスト試算はできていますか？\n\n#AI開発 #GoogleCloud #Gemini #スタートアップ",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-19T08:35:22.230922+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-19-flixier-generate-ai-video-timeline-review",
+    "title": "タイムライン上で動画が「伸びる」衝撃。FlixierのAI生成機能を使い倒して分かった実力",
+    "url": "https://ai.negi-lab.com/posts/flixier-generate-ai-video-timeline-review/",
+    "category": "TOOL",
+    "viral_tags": "#Flixier #AI動画生成",
+    "tweet_text": "「あと3秒あれば、音楽とピッタリ合うのに...」\n\n動画編集で誰もが直面するこの悩み。Flixierの新機能がマジで救世主になるかもしれません。\n\nなんと、タイムライン上で直接「動画の続き」をAIが生成してくれます。実際に試してみましたが、既存フレームの文脈を読んで自然に尺を伸ばす技術には正直驚きました。クリップ間をAIが勝手に繋いでくれる機能も、素材不足に悩む人には神アプデ。\n\nもちろん、AI特有のノイズや解像度の甘さはまだありますが、ブラウザだけでここまで完結するのは破壊的な効率です。SIer時代に徹夜で調整してた自分に教えたい...。\n\n皆さんは、動画素材の尺が足りない時どうしてますか？スローで誤魔化す？それとも諦めてカットする？\n\nこれからの編集は「足りなきゃ作る」が常識になりそうです。\n\n詳細な検証レビューはこちらから👇\n[記事URL]",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-19T08:36:35.205899+09:00",
+    "posted": false
   }
 ]
