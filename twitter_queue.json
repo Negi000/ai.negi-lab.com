@@ -3878,5 +3878,31 @@
     "question_text": null,
     "created_at": "2026-02-19T18:47:22.712249+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-19-clawi-ai-openclaw-cloud-agent-review",
+    "title": "PCの画面をAIが直接操作する「Computer Use」の衝撃から数ヶ月。その決定版とも言えるツールがついにクラウドで、しかも「24時間稼働」という形で登場しました。Clawi.aiは、ローカル環境の構築に四苦八苦していた私たちの悩みを一瞬で解決してくれる、まさにAIエージェント界の特急券です。",
+    "url": "https://ai.negi-lab.com/posts/clawi-ai-openclaw-cloud-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#OpenClaw #AIエージェント",
+    "tweet_text": "AIエージェントに「自分のPC」を操作させるの、正直怖くないですか？😅\n\n話題のOpenClawをクラウドで24時間回せる「Clawi.ai」を検証しました。これ、SIer時代に苦労したRPAの概念を根底から覆すレベルの完成度です。\n\n一番の衝撃は「インフラ構築が完全にゼロ」なこと。通常ならDocker立ててディスプレイ設定して…と半日かかる準備が、ログインした瞬間に終わります。あとは「このサイトから情報抜いてスプレッドシートに貼っといて」と指示するだけ。\n\n実際に動かしてみましたが、ログインが必要なサイトや複雑なUIでも、AIが『目』を持って判断するので突破力が凄まじい。ただ、トークン消費が激しいので、プロンプトを適当に書くと財布に優しくない点には注意が必要です（笑）\n\n皆さんは、もしAIに24時間PC操作を任せられるなら、まずどんな面倒な作業を丸投げしたいですか？リサーチ？価格調査？ぜひコメントで教えてください！👇\n\n#Clawi #AIエージェント #OpenClaw #自動化",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-19T22:19:23.840776+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-19-stepfun-ai-multimodal-long-context-tutorial",
+    "title": "StepFun AIのAPIを使い倒す！マルチモーダルと長文コンテキストを実装する方法",
+    "url": "https://ai.negi-lab.com/posts/stepfun-ai-multimodal-long-context-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#StepFun #LLM開発",
+    "tweet_text": "「GPT-4Vに代わる選択肢、正直これかも…」\n\nRedditの LocalLLaMA で話題になっていたStepFun AIを徹底検証しました。SIer出身の私が驚いたのは、そのマルチモーダル性能と25万トークンの圧倒的な安定感。\n\n特に画像認識（Step-1V）は、複雑な請求書の読み取りやコードレビューで驚くほどの精度を出してくれます。OpenAI SDKがそのまま使えるので、今持っているPythonコードのbase_urlを変えるだけで導入完了。\n\n実装でハマりがちなBase64エンコードの落とし穴や、タイムアウト対策もガイドにまとめました。正直、この価格でこの性能は「自前AI開発」のゲームチェンジャーになりそうです。\n\n皆さんは画像認識AI、何を使っていますか？やっぱりGPT一択ですか？それとも国産や新興勢力を試していますか？リプ欄で教えてください！\n\n#AI開発 #StepFun #生成AI #Python",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-19T22:26:09.148839+09:00",
+    "posted": false
   }
 ]
