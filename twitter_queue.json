@@ -3813,5 +3813,31 @@
     "question_text": null,
     "created_at": "2026-02-19T08:36:35.205899+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-19-openai-pine-labs-india-fintech-partnership",
+    "title": "OpenAIがインドの決済大手Pine Labsと提携し、14億人の「財布」にAIを組み込もうとしています。これは単なるChatGPTの普及拡大ではなく、決済インフラそのものに知能を付与する極めて野心的な一手です。インド市場という巨大な実験場で、OpenAIは「対話型AI」から「実行型AI」への脱皮を加速させようとしています。",
+    "url": "https://ai.negi-lab.com/posts/openai-pine-labs-india-fintech-partnership/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #FintechIndia",
+    "tweet_text": "OpenAIがインド決済大手Pine Labsと提携！これ、ただの「ChatGPT普及」とは次元が違います。14億人の決済データが流れるインフラに、OpenAIの知能が直接プラグインされるということ。\n\n元SIerの視点で見ると、決済というミッションクリティカルな領域にLLMを持ち込むのは相当な覚悟が必要。でも、インドの多言語対応や小規模店主のDXを考えれば、これ以上のソリューションはないのかも。\n\n正直、AIが「対話ツール」から「経済のOS」に変わる決定的な瞬間を目撃している気がします。決済×AIの領域は、間違いなく次の主戦場になるはず。\n\nみなさんは、自分の財布や決済アプリにAIが組み込まれたら、どんな機能を一番使いたいですか？ 私は「今月の無駄遣いをAIに本気で怒られたい」です。笑\n\n詳細をブログにまとめました。AIの物理世界への侵食、ガチで始まってます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-19T14:02:44.984535+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-19-botbot-open-source-legged-robot-brain-review",
+    "title": "四足歩行ロボットの「脳」がオープンソースで民主化される時代がやってきました",
+    "url": "https://ai.negi-lab.com/posts/botbot-open-source-legged-robot-brain-review/",
+    "category": "TOOL",
+    "viral_tags": "#ロボット開発 #BotBot",
+    "tweet_text": "ロボット開発の「地獄の調整」が終わるかもしれません。\n\n四足歩行ロボットの制御を民主化するオープンソースの脳「BotBot」を検証しました。SIer時代、ロボットの姿勢制御には数学と物理の知識、そして膨大なデバッグ時間が必要でしたが、これはPython数行で「歩行」を実現してしまいます。\n\n実際にシミュレーターで動かしてみましたが、外部からの衝撃への復帰力が凄まじい。ガタガタの床でも動的にバランスを取る様子は、もはや個人の趣味開発レベルを超えています。\n\n最近流行りの「身体性AI」を試すなら、これが最短ルートかも。ただ、低スペックなマイコンだとMPCの計算が追いつかないという課題も…。\n\n皆さんは、もし自宅に自由に動かせる四足ロボットがいたら、まず何をさせたいですか？LLMと繋いで家の中をパトロールさせるのも面白そうですよね。\n\n詳細はブログでガッツリ解説しました！",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-19T14:03:49.157270+09:00",
+    "posted": false
   }
 ]
