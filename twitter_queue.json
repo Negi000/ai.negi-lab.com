@@ -3852,5 +3852,31 @@
     "question_text": null,
     "created_at": "2026-02-19T16:05:05.256566+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-19-ai-startup-check-engine-light-google-cloud",
+    "title": "AIスタートアップの「死の警告灯」を見逃すな：Google Cloud幹部が語るインフラ選定の致命的な罠",
+    "url": "https://ai.negi-lab.com/posts/ai-startup-check-engine-light-google-cloud/",
+    "category": "NEWS",
+    "viral_tags": "#AIスタートアップ #GoogleCloud",
+    "tweet_text": "AIスタートアップの皆さん、ダッシュボードに「オレンジ色の警告灯」が点いていませんか？🚨\n\nGoogle Cloudの幹部が放った、現在のAI熱狂に対する警告が刺さりすぎる…。\n「クラウドクレジットがあるから大丈夫」という考えこそが、実は最大の罠なんです。SIer時代に何度も見た「初期の安易な選択が、後に数億円の負債になる」光景が、今まさにAI開発の現場で起きています。\n\n・売上が増えるほど赤字が膨らむ推論コストの恐怖\n・特定APIに依存しすぎるベンダーロックインの末路\n・スケーリング時に直面するGPU確保の壁\n\nこれ、他人事じゃないですよ。昨日までの最適解が、今日には致命的な負債に変わるのが今のAI業界。\n皆さんは、もし明日OpenAIやGoogleが料金を3倍にしたら、すぐに他へ乗り換えられる設計にしていますか？\n\n「技術的な贅沢」を捨てて、いかに泥臭く効率を追求できるか。これからの生存戦略をまとめました。\n\n#生成AI #スタートアップ",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-19T18:45:45.574346+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-19-feedix-youtube-ai-summarizer-review",
+    "title": "YouTubeの「後で見る」リストが、もはや取り出せないタイムカプセルのようになっていませんか。",
+    "url": "https://ai.negi-lab.com/posts/feedix-youtube-ai-summarizer-review/",
+    "category": "TOOL",
+    "viral_tags": "#YouTube効率化 #AIツール",
+    "tweet_text": "YouTubeの登録チャンネル、多すぎて「後で見る」が墓場になってませんか？😭\n\n元SIerの私が驚いたのは「Feedix」。これ、動画を再生せずにAIが内容を要約してテキストで届けてくれるんです。15分の動画が30秒で読める衝撃。\n\n特に海外のテック系動画を日本語で一気読みできるのが最高に実用的。でも、便利すぎてクリエイターさんの再生数が心配になるレベル…。\n\n皆さんは、YouTubeを「情報の宝庫」として見てますか？それとも「娯楽」ですか？情報収集派なら、この時短術はマジで試す価値ありです。\n\n記事では実際にPythonで自動化するシミュレーションまで詳しく解説しました！👇",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-19T18:47:22.712249+09:00",
+    "posted": false
   }
 ]
