@@ -3982,5 +3982,31 @@
     "question_text": null,
     "created_at": "2026-02-20T13:56:53.016444+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-20-general-catalyst-5-billion-india-ai-investment",
+    "title": "インドAI市場の「特異点」：General Catalystが50億ドルを投じる真の狙い",
+    "url": "https://ai.negi-lab.com/posts/general-catalyst-5-billion-india-ai-investment/",
+    "category": "NEWS",
+    "viral_tags": "#GeneralCatalyst #インドAI",
+    "tweet_text": "まって、これガチで異次元すぎる...。米VCのGeneral Catalystが、インドに5年間で「50億ドル（約7,500億円）」を投資すると発表しました。\n\n元SIerの僕から見ると、これは単なる資金調達じゃなくて、AIの主戦場が「シリコンバレー」から「インドの社会実装」へ移った歴史的転換点だと思います。\n\n単なるチャットボットじゃなく、14億人のデジタル公共インフラ(India Stack)とAIが融合したら？軽量LLMの最適化がさらに進んだら？\n\n日本が「どう使うか」で悩んでいる間に、インドは「AIを国家インフラ」にする準備を整えています。正直、このスピード感には焦りすら感じますね。\n\nみなさんは、数年後のAI市場でインドがアメリカを追い越す可能性、どれくらいあると思いますか？リプ欄で教えてください！👇",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-20T18:41:27.632784+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-20-keychains-dev-secure-api-access-for-ai",
+    "title": "AIエージェントに「自由にツールを使わせる」ことの最大の障壁は、機能の実装ではなく、実は「セキュリティ」と「認証管理」にあります。今回紹介する「keychains.dev」は、この泥臭くも致命的な課題を鮮やかに解決しようとする、エンジニアにとって非常に野心的なプロダクトです。",
+    "url": "https://ai.negi-lab.com/posts/keychains-dev-secure-api-access-for-ai/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #APIセキュリティ",
+    "tweet_text": "AIエージェント開発で一番怖いのは「APIキーの管理」ですよね。プロンプトから漏洩したら…と考えると夜も眠れない。そんな不安を根底から消し去る「keychains.dev」が凄すぎます。\n\n6754種類以上のAPIにアクセスできるのに、AIには生のキーを一切渡さなくてOK。OAuthの更新処理も全部丸投げ。SIer時代、API連携の泥臭い認証実装で消耗した私からすれば、これはもはや「魔法」です。\n\n実際にNotionとSlackを連携させてみましたが、JSONスキーマを1行も書かずに即動いたのには正直ビビりました。3行のコードでセキュアなツール利用ができる。これ、AI開発の標準インフラになるかも？\n\nみなさんはAIに外部ツールを触らせるとき、セキュリティ対策どうしてますか？「環境変数に直書き」を卒業したい方は必読です！",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-20T18:42:32.689804+09:00",
+    "posted": false
   }
 ]
