@@ -4008,5 +4008,31 @@
     "question_text": null,
     "created_at": "2026-02-20T18:42:32.689804+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-20-guideless-ai-software-video-guide-review",
+    "title": "画面録画して放置するだけで、AIが完璧なナレーション付きの操作ガイドを完成させる。「Guideless」は、全エンジニアとカスタマーサクセスを「マニュアル作成という苦行」から解放する決定打になるかもしれません。",
+    "url": "https://ai.negi-lab.com/posts/guideless-ai-software-video-guide-review/",
+    "category": "TOOL",
+    "viral_tags": "#Guideless #生成AI",
+    "tweet_text": "SIer時代、一番嫌いだった仕事が「動画マニュアル作成」でした。画面が少し変わるだけで撮り直し、噛んだら録り直し、編集で数時間。あの苦行、もうAIに丸投げできるかもしれません。\n\n話題の「Guideless」をガチで検証。画面録画するだけで、AIが操作の意図を汲み取り、完璧なナレーション付きガイドを5分で生成してくれます。コードで自動化するSDKも試しましたが、これ「動画版のInfrastructure as Code」ですね。\n\n特筆すべきは多言語対応。日本語の操作画面から、一瞬でネイティブ英語の解説動画が作れるのは、外資や海外進出を狙うチームには神機能なはず。\n\nただ、複雑すぎるUIだとAIが迷う場面も。全自動を期待しすぎると痛い目を見ますが、工数の8割は削れる確信があります。\n\nみなさんは、社内のマニュアル作成どうしてますか？「Wikiが死んでる」「動画撮る時間がない」って課題、これなら解決できるかも。リプ欄で教えてください！",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-20T22:10:47.689953+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-20-kimi-long-context-window-analysis-tutorial",
+    "title": "Kimi（Moonshot AI）が打ち出した数百万トークンという驚異的なコンテキストウィンドウの拡張は、AI活用の常識を根底から覆そうとしています。これまで私たちは、長いドキュメントを読み込ませるために「RAG（検索拡張生成）」という複雑な仕組みを使って、情報を細切れにして検索し、AIに渡してきました。",
+    "url": "https://ai.negi-lab.com/posts/kimi-long-context-window-analysis-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#Kimi #コンテキストウィンドウ",
+    "tweet_text": "「RAGで情報を切り刻むのはもう古い？」\n\nKimi（Moonshot AI）が打ち出した数百万トークンのコンテキスト拡張。正直、これまでのAI活用の常識がひっくり返ります。\n\nSIer時代、数千ページの仕様書を血眼で検索していた私からすれば、資料を「丸ごと」AIに放り込める今の状況は魔法のよう。でも、ただ流し込むだけではAIも混乱してしまいます。\n\n実は「情報の埋もれ」を防ぐには、プロンプトの配置とセパレーターの使い方が肝。今回の記事では、200万トークン時代を生き抜くためのPython実装と、私がデバッグで半日溶かして得た「長文処理のコツ」を全公開しました。\n\n数冊分の本を一気に読み込ませて、その場でクロス分析させる。そんな未来がもう手元に来ています。皆さんは、もしAIが100冊の本を一瞬で読めるとしたら、まず何を分析させたいですか？\n\n具体的なコードとエラー回避手順はこちらから。\n#生成AI #LLM",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-20T22:13:17.757013+09:00",
+    "posted": false
   }
 ]
