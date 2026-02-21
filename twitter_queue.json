@@ -4138,5 +4138,31 @@
     "question_text": null,
     "created_at": "2026-02-21T18:31:55.479110+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-21-pulsekit-review-ai-metrics-monitoring-iphone",
+    "title": "AIエンジニアの「監視疲れ」を解消するPulseKitの実力：iPhoneを最強のモニタリング端末に変える検証",
+    "url": "https://ai.negi-lab.com/posts/pulsekit-review-ai-metrics-monitoring-iphone/",
+    "category": "TOOL",
+    "viral_tags": "#エンジニアの生産性 #AppleWidget",
+    "tweet_text": "AI開発中、APIのコストや学習のLoss率をわざわざブラウザで確認してませんか？正直、その「監視時間」って無駄ですよね。\n\n今回試した「PulseKit」が、エンジニアの監視体験を激変させてくれました。Pythonから数行のコードを送るだけで、iPhoneやApple Watchのウィジェットにリアルタイムでメトリクスを表示できます。\n\nSIer時代、監視画面に張り付いていた私からすると、この「手元でチラ見できる」感覚は革命的。特に長時間ジョブを回す人や、複数APIを使い分ける開発者には刺さるはず。\n\n設定に少しコツがいりますが、自作スクリプトとiPhoneが直結する快感は格別です。みなさんは、今どんな方法でAIの稼働状況をチェックしていますか？やっぱりSlack通知派が多いのかな。ぜひコメントで教えてください！\n\n#AI開発 #個人開発 #PulseKit",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-21T21:59:58.189346+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-21-karpathy-llm-c-tutorial-cuda-c-gpt2",
+    "title": "llm.c入門：Karpathy流の最小実装でLLMの仕組みを完全に理解する方法",
+    "url": "https://ai.negi-lab.com/posts/karpathy-llm-c-tutorial-cuda-c-gpt2/",
+    "category": "GUIDE",
+    "viral_tags": "#Karpathy #ローカルLLM",
+    "tweet_text": "AI界の巨人、アンドレイ・カーパシー氏が放った「llm.c」が、今あらためて全エンジニアが触るべき神教材になっています。\n\n「PyTorch依存を捨て、CとCUDAだけでGPT-2を実装する」というこの狂気じみたプロジェクト。Redditでは「我々に勝ち目はない（we are doomed）」とまで言わしめる圧倒的な技術の結晶です。\n\nSIer時代、ライブラリのブラックボックスに泣かされた私だからこそ断言できます。中身を知ることは、最強の防御であり武器になります。\n\n「llm.c」を動かすための全手順を、2500字超のガチ解説でまとめました。\n・C/CUDAでの爆速ビルド手順\n・データ準備の落とし穴\n・VRAM不足への対処法\n\n正直、これほど濃密にLLMの心臓部を触れる機会は他にありません。\n皆さんは、自分が使っているLLMが「中で何を計算しているか」即答できますか？\nまずは環境構築から、彼の思想に触れてみてください。\n\n#生成AI #LLM #llm_c #エンジニア教育",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-21T22:01:57.419598+09:00",
+    "posted": false
   }
 ]
