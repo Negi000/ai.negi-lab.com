@@ -4112,5 +4112,31 @@
     "question_text": null,
     "created_at": "2026-02-21T15:49:01.845446+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-21-anthropic-funded-pac-alex-bores-ai-safety-war",
+    "title": "AIの安全性をめぐる議論が、ついに「コード」や「論文」の枠を飛び出し、選挙戦という生々しい政治のリングへとなだれ込みました。",
+    "url": "https://ai.negi-lab.com/posts/anthropic-funded-pac-alex-bores-ai-safety-war/",
+    "category": "NEWS",
+    "viral_tags": "#AIガバナンス #テック政治",
+    "tweet_text": "AI業界の「安全性 vs 自由」の戦いが、ついに選挙戦にまで波及しました。NY州のAlex Bores議員を巡り、Anthropic系団体とAI推進PACが数億円規模の資金で激突しています。\n\n元エンジニアの私が特に注目したのは、法案「RAISE Act」の中身。AIの安全性プロトコルの開示と悪用の報告義務化。これ、現場のエンジニアからすれば「企業秘密を晒せ」と言われているようなもので、相当なインパクトがあります。\n\nでも、中身がブラックボックスのまま社会に広まる怖さも、SIer時代を思い出すと痛いほど分かるんですよね。皆さんは「技術の自由」と「公的な安全規制」、どちらが優先されるべきだと思いますか？\n\nAIが政治の道具になる時代、私たちは技術だけでなく、その「ルール」が誰によって作られているかを見極める必要があります。\n\n#生成AI #AI規制 #Anthropic #AlexBores",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-21T18:30:15.282439+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-21-prism-videos-ai-video-editor-review",
+    "title": "動画生成AIの「生成して終わり」を終わらせる。Prism Videosの統合ワークフローが実用的すぎる",
+    "url": "https://ai.negi-lab.com/posts/prism-videos-ai-video-editor-review/",
+    "category": "TOOL",
+    "viral_tags": "#PrismVideos #生成AI動画",
+    "tweet_text": "AI動画、作るのは楽しいけど「繋げる」のが地獄。そんな悩み、これで終わるかもしれません。\n\nProduct Huntで見つけた「Prism Videos」を徹底検証。これ、単なる動画生成AIじゃなくて、生成とタイムライン編集が完全にくっついた「AI版Premiere」みたいな存在です。\n\n元SIerの視点で、Python SDKを使った自動生成までシミュレーションしてみましたが、ワークフローの破壊力がすごい。プロンプトから一気に数シーン生成して、その場でポチポチ並べ替える感覚は、一度体験すると戻れないかも…😂\n\n正直、まだレンダリングの待ち時間はありますが「素材をDLして別ソフトで読み込む」っていうあの無駄な時間が消えるだけで、制作効率は爆上がりします。\n\nみなさんは、AI動画の編集にどれくらい時間かけてますか？\n「AIが編集まで全部やってくれる世界」はすぐそこに来てますね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-21T18:31:55.479110+09:00",
+    "posted": false
   }
 ]
