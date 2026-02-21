@@ -1,86 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "url": "https://openai.com/index/new-result-theoretical-physics/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 13 Feb 2026 19:20:12 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-02-14T08:35:22"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Cosmic-light",
-      "url": "https://www.producthunt.com/products/cosmic-light",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A stunning Dynamic Island Control Center for Windows </p> <p> <a href=\"https://www.producthunt.com/products/cosmic-light?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078606?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-14T08:35:24"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "SWE-rebench Jan 2026: GLM-5, MiniMax M2.5, Qwen3-Coder-Next, Opus 4.6, Codex Performance",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3weq3/swerebench_jan_2026_glm5_minimax_m25/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-13T18:06:40+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all, I’m Anton from Nebius.</p> <p>We’ve updated the <strong>SWE-rebench leaderboard</strong> with our <strong>January runs</strong> on <strong>48 fresh GitHub PR tasks</strong> (PRs created in the previous month only). The setup is standard SWE-bench: models read real PR issues, edit code, run tests, and must make the full suite pass.</p> <p>Key observations:</p> <ul> <li><strong>Claude Code (Opus 4.6)</strong> leads this snapshot at <strong>52.9% resolved r",
-      "extra": {},
-      "collected_at": "2026-02-14T08:35:26"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GPT-OSS 120b Uncensored Aggressive Release (MXFP4 GGUF)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3zuuf/gptoss_120b_uncensored_aggressive_release_mxfp4/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-13T20:15:33+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, made an uncensored version of GPT-OSS 120B.</p> <p>Quick specs: 117B total params, ~5.1B active (MoE with 128 experts, top-4 routing), 128K context. MXFP4 is the model's native precision - this isn't a quantization, it's how it was trained. No overall quality loss, though you can see CoT behave differently at times.</p> <p>This is the aggressive variant - <strong>observed 0 refusals to any query during testing.</strong></p> <p><strong>Completely un",
-      "extra": {},
-      "collected_at": "2026-02-14T08:35:26"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "has it begun?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3yuyd/has_it_begun/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-02-13T19:38:01+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r3yuyd/has_it_begun/\"> <img alt=\"has it begun?\" src=\"https://preview.redd.it/ei9lt0u4ebjg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36034757efbb832ba75f43ed04c4dc8c7bb34675\" title=\"has it begun?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.bloomberg.com/news/articles/2026-02-13/us-to-put-alibaba-on-list-for-aiding-china-s-military-reuters\">https://www.bloomberg.com/news/articles/2026-02-",
-      "extra": {},
-      "collected_at": "2026-02-14T08:35:26"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Nvidia’s new technique cuts LLM reasoning costs by 8x without losing accuracy",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r3t8ro/nvidias_new_technique_cuts_llm_reasoning_costs_by/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-13T16:09:31+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Nvidia developed a new technique called Dynamic Memory Sparsification (DMS) that vastly improves how LLMs manage their KV cache during inference. It accomplishes this by retrofitting existing models so that the attention layers output a <strong>learned keep or evict</strong> signal for each token in the KV cache. </p> <p>In addition, they've added a &quot;delayed eviction&quot; that marks a token as low-importance, but doesn't delete it immediately. Instead, it ",
-      "extra": {},
-      "collected_at": "2026-02-14T08:35:26"
-    },
-    {
       "source": "Product Hunt",
       "title": "LogiCoal",
       "url": "https://www.producthunt.com/products/logicoal",
@@ -2739,19 +2659,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "trnscrb",
-      "url": "https://www.producthunt.com/products/trnscrb",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> On-device transcription for macOS with MCP </p> <p> <a href=\"https://www.producthunt.com/products/trnscrb?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082358?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-20T18:40:28"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Claudebin",
       "url": "https://www.producthunt.com/products/claudebin",
       "primary_category": "TOOL",
@@ -2993,19 +2900,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
-      "url": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 20 Feb 2026 23:00:00 +0000",
-      "summary": "The&#160;creator&#160;economy is evolving fast, and ad revenue alone&#160;isn&#8217;t&#160;cutting it anymore.&#160;YouTubers are launching product lines,&#160;acquiring&#160;startups, and building actual business empires.&#160;In fact,&#160;MrBeast&#8217;s company&#160;bought fintech startup Step, and his chocolate business is outearning his media arm. This&#160;isn&#8217;t&#160;just&#160;one&#160;creator&#8217;s&#160;strategy.&#160;For&#160;many,&#160;it&#8217;s&#160;the&#160;new playbook.&#16",
-      "extra": {},
-      "collected_at": "2026-02-21T08:32:53"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions",
       "url": "https://techcrunch.com/podcast/why-creators-are-ditching-ad-revenue-for-chocolate-bars-and-fintech-acquisitions/",
       "primary_category": "NEWS",
@@ -3068,7 +2962,101 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ra8omf/gemma_which_we_will_be_releasing_a_new_version_of/\"> <img alt=\"&quot;Gemma, which we will be releasing a new version of soon&quot;\" src=\"https://external-preview.redd.it/9mfj1kMXjQ4Pove4Y8zbrEpz5ffGrhmDZ-YwmsdPJeE.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=66d6fe6182877c1d801afa8a61aec7616fb8a587\" title=\"&quot;Gemma, which we will be releasing a new version of soon&quot;\" /> </a> </td><td> <!-- SC_OFF --><div c",
       "extra": {},
       "collected_at": "2026-02-21T08:32:58"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
+      "url": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Sat, 21 Feb 2026 01:00:00 +0000",
+      "summary": "Sarvam's Indus chat app is currently available in beta.",
+      "extra": {},
+      "collected_at": "2026-02-21T13:44:08"
+    },
+    {
+      "source": "Google News",
+      "title": "AI-Driven Forecasting and Strategy Alignment: Unlocking Operational Efficiency - Baker Hughes",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOC1FRlZuNU0tc0RTaThid2J0RjI4WWJFREw5WWJZbmNkdjMxZmhyaDk2Zm51clBycEQ3WHpvR3RnXzN5LVN1UlRNQW9aMVRyNlRtQ1V2dFJFdng2Qnh3Tzd1NnNvRzRCRjNBYjQzMUNpcm4wQlhfWUxYSGFKZHdaTEwtV25SVFBBWGhrdTRoQ1NXTnBONTNFLTh6VmZvZUpscnlBSlNrbnJDd2tlYlJMakUzMmZmM19MeHYwSQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 20 Feb 2026 03:46:26 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNOC1FRlZuNU0tc0RTaThid2J0RjI4WWJFREw5WWJZbmNkdjMxZmhyaDk2Zm51clBycEQ3WHpvR3RnXzN5LVN1UlRNQW9aMVRyNlRtQ1V2dFJFdng2Qnh3Tzd1NnNvRzRCRjNBYjQzMUNpcm4wQlhfWUxYSGFKZHdaTEwtV25SVFBBWGhrdTRoQ1NXTnBONTNFLTh6VmZvZUpscnlBSlNrbnJDd2tlYlJMakUzMmZmM19MeHYwSQ?oc=5\" target=\"_blank\">AI-Driven Forecasting and Strategy Alignment: Unlocking Operational Efficiency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baker Hughes</font>",
+      "extra": {},
+      "collected_at": "2026-02-21T13:44:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Repaint",
+      "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build a website by chatting with AI </p> <p> <a href=\"https://www.producthunt.com/products/repaint-ai-website-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078097?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-21T13:44:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "moCODE",
+      "url": "https://www.producthunt.com/products/mocode",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI coding assistant on Mobile for OpenCode/KiloCode Server </p> <p> <a href=\"https://www.producthunt.com/products/mocode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082233?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-21T13:44:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "UI Inspector",
+      "url": "https://www.producthunt.com/products/ui-inspector",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Visual CSS editor for Google Chrome </p> <p> <a href=\"https://www.producthunt.com/products/ui-inspector?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078033?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-21T13:44:10"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM 5 seems to have a \"Claude\" personality",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1raf3dm/glm_5_seems_to_have_a_claude_personality/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-21T02:23:22+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1raf3dm/glm_5_seems_to_have_a_claude_personality/\"> <img alt=\"GLM 5 seems to have a &quot;Claude&quot; personality\" src=\"https://preview.redd.it/7nj17cwubrkg1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=e0025d5e56387cb178ff1a928dc4a19313407e90\" title=\"GLM 5 seems to have a &quot;Claude&quot; personality\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I've noticed that GLM 5 behaves significantly differently when told",
+      "extra": {},
+      "collected_at": "2026-02-21T13:44:12"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "fixed parser for Qwen3-Coder-Next",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1raall0/fixed_parser_for_qwen3codernext/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-20T23:06:32+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1raall0/fixed_parser_for_qwen3codernext/\"> <img alt=\"fixed parser for Qwen3-Coder-Next\" src=\"https://external-preview.redd.it/Y3wE-GVXbELboPM9WQJZOtsZ_aPLgAL7jIOMvAV90UU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6015d17bc47511d73e5fb3850ccf0851296f278f\" title=\"fixed parser for Qwen3-Coder-Next\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>another fix for Qwen Next!</p> </div><!-- SC_ON --> &#32; submitted by &#3",
+      "extra": {},
+      "collected_at": "2026-02-21T13:44:12"
     }
   ],
-  "updated_at": "2026-02-21T08:32:58.464779+09:00"
+  "updated_at": "2026-02-21T13:44:12.964281+09:00"
 }
