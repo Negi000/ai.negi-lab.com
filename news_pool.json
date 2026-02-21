@@ -1,61 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Your Love Style",
-      "url": "https://www.producthunt.com/products/your-love-style-a-valentine-s-day-event",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A choose-your-own-adventure game meets personality quiz </p> <p> <a href=\"https://www.producthunt.com/products/your-love-style-a-valentine-s-day-event?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079178?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-15T02:26:47"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Heretic 1.2 released: 70% lower VRAM usage with quantization, Magnitude-Preserving Orthogonal Ablation (\"derestriction\"), broad VL model support, session resumption, and more",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r4n3as/heretic_12_released_70_lower_vram_usage_with/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-14T15:14:00+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Llamas and Gentlemen,</p> <p><strong>Heretic</strong> (<a href=\"https://github.com/p-e-w/heretic\">https://github.com/p-e-w/heretic</a>) is the leading software for removing censorship from language models. In the three months since its initial release, <a href=\"https://huggingface.co/models?other=heretic\">more than 1,300 models</a> (including quants) made using Heretic have been published by the community. This represents more than a third of all abliterated mod",
-      "extra": {},
-      "collected_at": "2026-02-15T02:26:50"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3-TTS.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r4nt7u/qwen3ttscpp/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-14T15:43:12+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r4nt7u/qwen3ttscpp/\"> <img alt=\"Qwen3-TTS.cpp\" src=\"https://external-preview.redd.it/lXcar2l04LaOhzsDCTxgOTofdAoFx7BoAnOuaZ4jNcw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f7e414f528eab2e463ea468be5c2271e564d443\" title=\"Qwen3-TTS.cpp\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>Lightweight GGML implementation of Qwen3-TTS 0.6B</strong></p> <p><strong>4x Speedup compared to pytorch pipeline, with ~2 Gig",
-      "extra": {},
-      "collected_at": "2026-02-15T02:26:50"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Nemotron3 Super/Ultra: FP4 pre-training, H1 2026 release, \"NVIDIA is a company of volunteers\" (all from recent NVIDIA interview)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r4lx7x/nemotron3_superultra_fp4_pretraining_h1_2026/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-14T14:25:15+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Nathan Lambert (from Ai2) interviewed an NVIDIA's VP of Applied Deep Learning Research: <a href=\"https://www.interconnects.ai/p/why-nvidia-builds-open-models-with\">Why Nvidia builds open models with Bryan Catanzaro</a></p> <p>Many interesting bits, but of course I was hoping for hints of when the next Nemotron3 models were to be released. Nothing really new there, &quot;2026 H1&quot; is a pretty broad window. </p> <p>This was interesting: </p> <blockquote> <p>we",
-      "extra": {},
-      "collected_at": "2026-02-15T02:26:50"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Gemini 3 Deep Think drew me a good SVG of a pelican riding a bicycle",
       "url": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/",
@@ -2896,19 +2841,6 @@
       "collected_at": "2026-02-21T21:59:10"
     },
     {
-      "source": "Product Hunt",
-      "title": "Rork Max",
-      "url": "https://www.producthunt.com/products/rork-app-for-ios",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Best AI for iOS apps. Website that replaces Xcode </p> <p> <a href=\"https://www.producthunt.com/products/rork-app-for-ios?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083049?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-21T21:59:13"
-    },
-    {
       "source": "GitHub Trending",
       "title": "PowerShell/PowerShell",
       "url": "https://github.com/PowerShell/PowerShell",
@@ -2980,19 +2912,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ranako/teichaiglm47flashclaudeopus45highreasoningdistillg/\"> <img alt=\"TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF · Hugging Face\" src=\"https://external-preview.redd.it/FYfNUuhT3WL90VoAzpzSy8fZEgRuGPVIPMxWk_wBrrg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0ae5ed8bdcc636a4a90b9972c253516a3b8e3bd\" title=\"TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF · Hugging Face\" /> </a> </td>",
       "extra": {},
       "collected_at": "2026-02-21T21:59:15"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google VP warns that two types of AI startups may not survive",
-      "url": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sat, 21 Feb 2026 16:00:00 +0000",
-      "summary": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
-      "extra": {},
-      "collected_at": "2026-02-22T02:25:42"
     },
     {
       "source": "TechCrunch AI",
@@ -3072,7 +2991,126 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>ByteDance released Ouro-2.6B-Thinking a few weeks ago and it's been tricky to run — the architecture is genuinely unusual and existing GGUFs were producing garbage output because of it.</p> <p>What makes Ouro different: It's a recurrent Universal Transformer — it runs all 48 layers 4 times per token (192 effective passes). Standard llama.cpp just runs each layer once, so every existing GGUF was broken.</p> <p>What I fixed:</p> <p>The original modeling_ouro.py ha",
       "extra": {},
       "collected_at": "2026-02-22T02:25:46"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Sam Altman would like remind you that humans use a lot of energy, too",
+      "url": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 21 Feb 2026 21:38:01 +0000",
+      "summary": "\"It also takes a lot of energy to train a human.\"",
+      "extra": {},
+      "collected_at": "2026-02-22T08:29:04"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
+      "url": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 21 Feb 2026 17:41:27 +0000",
+      "summary": "Is Microsoft's gaming division doubling down on AI?",
+      "extra": {},
+      "collected_at": "2026-02-22T08:29:04"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Why is Claude an Electron App?",
+      "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 21 Feb 2026 21:28:13 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-02-22T08:29:05"
+    },
+    {
+      "source": "Google News",
+      "title": "サウジアラビア、世界的なAIアライアンスに参加 - arabnews.jp",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RRk1TanhWVnJHbXdvbTRGTDdneUYwMXJRQWdjZFVXR3VoSEN1RHFDRjJLc2JtRjVqaFZpdW43R1dhWW5ZVVRQa1phN1ctNUkwYzNTRHU3aTdJOEJKN2doWEpkZ2pKZXFoWGFKVw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 21 Feb 2026 18:53:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5RRk1TanhWVnJHbXdvbTRGTDdneUYwMXJRQWdjZFVXR3VoSEN1RHFDRjJLc2JtRjVqaFZpdW43R1dhWW5ZVVRQa1phN1ctNUkwYzNTRHU3aTdJOEJKN2doWEpkZ2pKZXFoWGFKVw?oc=5\" target=\"_blank\">サウジアラビア、世界的なAIアライアンスに参加</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">arabnews.jp</font>",
+      "extra": {},
+      "collected_at": "2026-02-22T08:29:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Woise",
+      "url": "https://www.producthunt.com/products/woise-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI Voice & Screen Recording Tool for Websites </p> <p> <a href=\"https://www.producthunt.com/products/woise-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080223?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-22T08:29:07"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "PSA: The software “Shade” is a fraudulent, plagiarized copy of Heretic",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rawoe4/psa_the_software_shade_is_a_fraudulent/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-21T17:16:21+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Three days ago, the following repository was published, which its “creator” has been aggressively promoting on various channels since then:</p> <p><a href=\"https://github.com/assemsabry/shade\">https://github.com/assemsabry/shade</a></p> <p>The entire source code in the repository is plagiarized from Heretic (<a href=\"https://github.com/p-e-w/heretic\">https://github.com/p-e-w/heretic</a>), with only the project name and the copyright notice replaced, claiming “or",
+      "extra": {},
+      "collected_at": "2026-02-22T08:29:09"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ray0vz/cxmt_has_been_offering_ddr4_chips_at_about_half/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-21T18:07:33+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ray0vz/cxmt_has_been_offering_ddr4_chips_at_about_half/\"> <img alt=\"CXMT has been offering DDR4 chips at about half the prevailing market rate\" src=\"https://external-preview.redd.it/0K-nyzO4raoSh4Q6Gk6oShuWqJIJ5QWuThVMJGt1MKU.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=ad4ecef7d00fc6d2fefa3cec8972e26294886527\" title=\"CXMT has been offering DDR4 chips at about half the prevailing market rate\" /> </a> </td><td> &#32; subm",
+      "extra": {},
+      "collected_at": "2026-02-22T08:29:09"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "PSA on public agentic tools and the speed they are shipping updates: recent Cline release had a package injected",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rb270r/psa_on_public_agentic_tools_and_the_speed_they/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-02-21T20:52:57+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Some of you may remember a post about sloppy OpenCode commit a week ago or so, unsurprisingly others are embracing vibe coding speed and sloppiness as well.</p> <p>I've randomly stumbled upon<br /> <a href=\"https://www.reddit.com/r/CLine/comments/1r9p3ww/supply_chain_attack_on_cline_installs_openclaw/\">https://www.reddit.com/r/CLine/comments/1r9p3ww/supply_chain_attack_on_cline_installs_openclaw/</a> apparently a recent Cline release had OpenClaw installer injec",
+      "extra": {},
+      "collected_at": "2026-02-22T08:29:09"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "O-TITANS: Orthogonal LoRAs for Gemma 3 using Google's TITANS memory architecture",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rb4luf/otitans_orthogonal_loras_for_gemma_3_using/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-21T22:32:47+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I've been working on a project I call <strong>O-TITANS</strong> (Orthogonal Tensors for Independent Task Alignment). It's an Orthogonal LoRA approach specifically for Gemma 3 that incorporates the Google TITANS memory architecture.<br /> It was inspired by a project by ffurfaro on HF called &quot;TPTT&quot; that I just couldn't get to work.</p> <p>I'm building this to wrap into my next project: <strong>MoOLE-T (Mixture of Orthogonal LoRA Experts - ",
+      "extra": {},
+      "collected_at": "2026-02-22T08:29:09"
     }
   ],
-  "updated_at": "2026-02-22T02:25:46.881724+09:00"
+  "updated_at": "2026-02-22T08:29:09.493386+09:00"
 }
