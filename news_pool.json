@@ -1,116 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "Ring&#8217;s adorable surveillance hellscape",
-      "url": "https://www.theverge.com/podcast/878797/ring-super-bowl-ad-backlash-epstein-files-chatgpt-vergecast",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-13T11:10:45-05:00",
-      "summary": "You can watch Ring's recent Super Bowl ad and see a cute story about dogs being reunited with their families. You can also watch the very same ad and see the seeds being planted for a massively connected, utterly ubiquitous surveillance system that will end the concept of privacy forever. Maybe you can even see [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-02-14T22:00:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Termsy",
-      "url": "https://www.producthunt.com/products/termsy",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Scans terms and conditions for you </p> <p> <a href=\"https://www.producthunt.com/products/termsy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078850?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-14T22:00:29"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "CozyTwo",
-      "url": "https://www.producthunt.com/products/cozytwo",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Build a home together, even when you're apart. </p> <p> <a href=\"https://www.producthunt.com/products/cozytwo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070457?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-14T22:00:29"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "ruby/ruby",
-      "url": "https://github.com/ruby/ruby",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "The Ruby Programming Language",
-      "extra": {
-        "stars_today": "6 stars today"
-      },
-      "collected_at": "2026-02-14T22:00:31"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "SimplifyJobs/New-Grad-Positions",
-      "url": "https://github.com/SimplifyJobs/New-Grad-Positions",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A collection of full time roles in SWE, Quant, and PM for new grads.",
-      "extra": {
-        "stars_today": "10 stars today"
-      },
-      "collected_at": "2026-02-14T22:00:31"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "models : optimizing qwen3next graph by ggerganov · Pull Request #19375 · ggml-org/llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r4hx24/models_optimizing_qwen3next_graph_by_ggerganov/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-14T11:03:27+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r4hx24/models_optimizing_qwen3next_graph_by_ggerganov/\"> <img alt=\"models : optimizing qwen3next graph by ggerganov · Pull Request #19375 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/VVE5ljhhmuVj3S3mZp6__yfxBNtIYwLxEpi1hRwGGjU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=95716ff4da82d5b8eaae30528e020e4dd291b4ab\" title=\"models : optimizing qwen3next graph by ggerganov · Pull Request #19375 · ggml-org/llama.",
-      "extra": {},
-      "collected_at": "2026-02-14T22:00:32"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "local vibe coding",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r4hhyy/local_vibe_coding/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-14T10:37:37+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please share your experience with vibe coding using local (not cloud) models.</p> <p>General note: to use tools correctly, some models require a modified chat template, or you may need in-progress PR.</p> <ul> <li><a href=\"https://github.com/anomalyco/opencode\">https://github.com/anomalyco/opencode</a> - probably the most mature and feature complete solution. I use it similarly to Claude Code and Codex.</li> <li><a href=\"https://github.com/mistralai/mistral-vibe",
-      "extra": {},
-      "collected_at": "2026-02-14T22:00:32"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "15% faster generation - by simply minimizing the webbrowser",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r4ikop/15_faster_generation_by_simply_minimizing_the/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-14T11:42:02+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I did some testing with llama.cpp and its web UI. While having the Windows task manager open I noticed that 3D usage was between 0% and 1% while idle, and maybe around 25% during inference.</p> <p>Well, that <em>might</em> have been the llama-server, but no: It's the updates of the web UI. The moment I minimized the browser the 3D usage went back to 0% to 1% during inference. The real-time streaming UI updates apparently put some strain on the GPU otherwise. I g",
-      "extra": {},
-      "collected_at": "2026-02-14T22:00:32"
-    },
-    {
       "source": "Product Hunt",
       "title": "Your Love Style",
       "url": "https://www.producthunt.com/products/your-love-style-a-valentine-s-day-event",
@@ -3007,19 +2897,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "PulseKit",
-      "url": "https://www.producthunt.com/products/pulsekit",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your key metrics, as widgets across your Apple devices </p> <p> <a href=\"https://www.producthunt.com/products/pulsekit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082716?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-21T21:59:13"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Rork Max",
       "url": "https://www.producthunt.com/products/rork-app-for-ios",
       "primary_category": "TOOL",
@@ -3093,19 +2970,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "they have Karpathy, we are doomed ;)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1raq23i/they_have_karpathy_we_are_doomed/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-21T12:34:51+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1raq23i/they_have_karpathy_we_are_doomed/\"> <img alt=\"they have Karpathy, we are doomed ;)\" src=\"https://preview.redd.it/ergzi9d1eukg1.png?width=140&amp;height=68&amp;auto=webp&amp;s=2005c28094bfd489a487151bba9f5c550c22c55b\" title=\"they have Karpathy, we are doomed ;)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>(added second image for the context)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www",
-      "extra": {},
-      "collected_at": "2026-02-21T21:59:15"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF · Hugging Face",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ranako/teichaiglm47flashclaudeopus45highreasoningdistillg/",
       "primary_category": "GUIDE",
@@ -3116,7 +2980,99 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ranako/teichaiglm47flashclaudeopus45highreasoningdistillg/\"> <img alt=\"TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF · Hugging Face\" src=\"https://external-preview.redd.it/FYfNUuhT3WL90VoAzpzSy8fZEgRuGPVIPMxWk_wBrrg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0ae5ed8bdcc636a4a90b9972c253516a3b8e3bd\" title=\"TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF · Hugging Face\" /> </a> </td>",
       "extra": {},
       "collected_at": "2026-02-21T21:59:15"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google VP warns that two types of AI startups may not survive",
+      "url": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sat, 21 Feb 2026 16:00:00 +0000",
+      "summary": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
+      "extra": {},
+      "collected_at": "2026-02-22T02:25:42"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
+      "url": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sat, 21 Feb 2026 15:25:44 +0000",
+      "summary": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse.",
+      "extra": {},
+      "collected_at": "2026-02-22T02:25:42"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "7 days until ticket prices rise for TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 21 Feb 2026 15:00:00 +0000",
+      "summary": "Lowest ticket prices to TechCrunch Disrupt 2026 end February 27. Up to $680 off individual passes and up to 30% off group passes. Register before they go up to join 10,000 founders, tech operators, and VCs.",
+      "extra": {},
+      "collected_at": "2026-02-22T02:25:42"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "git-lrc",
+      "url": "https://www.producthunt.com/products/git-lrc",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Free, unlimited AI code reviews that run on commit </p> <p> <a href=\"https://www.producthunt.com/products/git-lrc?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079262?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-22T02:25:44"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Wave Field LLM — O(n log n) attention via wave equation dynamics",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1raucof/wave_field_llm_on_log_n_attention_via_wave/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-21T15:46:07+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been working on an alternative attention mechanism that treats language as a physical field system instead of using standard O(n²) self-attention.</p> <p><strong>How it works:</strong> - Tokens are mapped onto a continuous 1D field - Information propagates via damped wave equations: k(t) = exp(-α·t)·cos(ω·t + φ) - Each attention head has just 3 learnable physics parameters (frequency, damping, phase) - Convolution computed via FFT in O(n log n) - Heads self",
+      "extra": {},
+      "collected_at": "2026-02-22T02:25:46"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen Code - a powerful open-source coding agent + NO TELEMETRY FORK",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rar6md/qwen_code_a_powerful_opensource_coding_agent_no/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-21T13:31:28+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Hey everyone,</h1> <p>I wanted to share two things: a great open-source project I've been using, and a fork I made for privacy-conscious folks.</p> <h1>Qwen Code</h1> <p><a href=\"https://github.com/QwenLM/qwen-code\"><strong>https://github.com/QwenLM/qwen-code</strong></a></p> <p>Qwen Code is an open-source CLI coding agent developed by Alibaba's Qwen team. It's essentially their take on tools like Claude Code or Gemini CLI. You run it in your terminal, point it",
+      "extra": {},
+      "collected_at": "2026-02-22T02:25:46"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "[Release] Ouro-2.6B-Thinking — first working inference (ByteDance's recurrent \"thinking\" model, fixed for transformers 4.55)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ramir9/release_ouro26bthinking_first_working_inference/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-21T09:04:04+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>ByteDance released Ouro-2.6B-Thinking a few weeks ago and it's been tricky to run — the architecture is genuinely unusual and existing GGUFs were producing garbage output because of it.</p> <p>What makes Ouro different: It's a recurrent Universal Transformer — it runs all 48 layers 4 times per token (192 effective passes). Standard llama.cpp just runs each layer once, so every existing GGUF was broken.</p> <p>What I fixed:</p> <p>The original modeling_ouro.py ha",
+      "extra": {},
+      "collected_at": "2026-02-22T02:25:46"
     }
   ],
-  "updated_at": "2026-02-21T21:59:15.402792+09:00"
+  "updated_at": "2026-02-22T02:25:46.881724+09:00"
 }

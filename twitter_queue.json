@@ -4164,5 +4164,31 @@
     "question_text": null,
     "created_at": "2026-02-21T22:01:57.419598+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-22-google-vp-warns-ai-startups-viability-crisis",
+    "title": "「AIを載せれば資金が調達できる」という狂乱の時代が、ついに終わりを告げようとしています。Googleのバイスプレジデント（VP）であるヴァッサル・バドワジ氏が放った警告は、現在のAIスタートアップ・エコシステムにおける「不都合な真実」を鋭く突くものでした。彼が名指しで危惧しているのは、特定の技術基盤を持たない「LLMラッパー」と「AIアグリゲーター」の2種類です。",
+    "url": "https://ai.negi-lab.com/posts/google-vp-warns-ai-startups-viability-crisis/",
+    "category": "NEWS",
+    "viral_tags": "#生成AI #AIスタートアップ",
+    "tweet_text": "「AIで起業すればバラ色」の時代、マジで終わるかもしれません。\n\nGoogleのVPが「LLMラッパー」や「AIアグリゲーター」は生き残れないと、TechCrunchでかなり強烈な警告を出しました。APIを叩いてUIを整えただけのサービスは、プラットフォーマーの「標準機能」に飲み込まれてマージンが消える運命にあります。\n\nこれ、SIer時代に「他社製品の転売」で苦労した経験がある身としては、既視感しかありません。技術のコモディティ化は、僕たちが思うよりずっと速い。\n\nいま開発しているその機能、もし明日OpenAIが「標準搭載」してもユーザーは残ってくれますか？\n\n単なる便利ツールから、特定の業界に深く刺さる「バーティカルAI」への転換が急務だと思います。みなさんは今の「AIラッパー」たちの生存戦略についてどう考えますか？正直、もう手遅れなサービスも多い気がしています…🤔",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-22T02:27:23.713658+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-22-rork-max-ios-development-ai-review",
+    "title": "Xcode不要でiOSアプリを開発する。この一見すると無謀な挑戦を、ブラウザ上で完結させるAIツールが「Rork Max」です。",
+    "url": "https://ai.negi-lab.com/posts/rork-max-ios-development-ai-review/",
+    "category": "TOOL",
+    "viral_tags": "#RorkMax #iOSアプリ開発",
+    "tweet_text": "「iOSアプリ開発＝MacとXcodeが必須」という常識、そろそろ疑ってもいいかもしれません。\n\n最近話題の『Rork Max』を試してみたのですが、正直これまでの苦労は何だったのかと...。ブラウザ上で「タスク管理アプリ作って」と入力するだけで、45秒後にはSwiftUIのプレビューが動き出しました。\n\nSIer時代、Xcodeのビルド待ちでコーヒーを何杯も飲んでいた自分に教えてあげたい。WindowsでもiPadでも、ブラウザさえあれば爆速でiOSアプリが形になります。\n\nもちろん、大規模開発やストア申請の壁など「惜しい」点もありますが、MVP開発の速度は間違いなく従来の3倍以上。\n\nみなさんは、アプリ開発の「環境構築」にどれくらい時間を溶かしたことがありますか？もしかしたら、その時間はもうゼロにできるかもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-22T02:29:10.429939+09:00",
+    "posted": false
   }
 ]
