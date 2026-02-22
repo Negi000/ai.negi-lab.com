@@ -4294,5 +4294,31 @@
     "question_text": null,
     "created_at": "2026-02-23T02:28:40.546457+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-23-samsung-galaxy-s26-perplexity-integration-multi-agent",
+    "title": "スマホOSにおける「検索」の定義が、今この瞬間から根本的に塗り替えられようとしています。Samsungが次世代フラッグシップ機「Galaxy S26」において、AI検索の旗手であるPerplexityを標準システムの一部として統合することを決定しました。これは単にアプリがプリインストールされるといったレベルの話ではなく、OSレベルで「hey, Plex」というウェイクワードによってAIエージェントを直接呼び出せるようになるという、極めて野心的な試みです。",
+    "url": "https://ai.negi-lab.com/posts/samsung-galaxy-s26-perplexity-integration-multi-agent/",
+    "category": "NEWS",
+    "viral_tags": "#Perplexity #GalaxyAI",
+    "tweet_text": "SamsungがGalaxy S26で仕掛ける「脱Google」への布石が熱い。OSレベルでPerplexityを統合し、「hey, Plex」で爆速AI検索を呼び出せるようになります。\n\n元SIerの視点で見ると、この「マルチエージェント戦略」は極めて合理的。一つのAIに頼るリスクを避け、検索ならPerplexity、操作ならBixbyと使い分ける未来。\n\n正直、最近のGoogle検索の広告量に疲れていませんか？ブラウザを開く手間すら省いて、AIがソース付きで回答を出す。これがスマホの「正解」かもしれません。\n\nApple Intelligenceへの強力なカウンターパンチになりそう。皆さんは、スマホに複数のAIが入る「マルチエージェント」な未来、賛成ですか？それとも1つにまとめてほしい派？リプで教えてください！",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-23T08:31:27.341381+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-23-straion-ai-coding-agent-rules-management-review",
+    "title": "AIエージェントの「暴走」と「規約違反」を根絶するStraionの実力",
+    "url": "https://ai.negi-lab.com/posts/straion-ai-coding-agent-rules-management-review/",
+    "category": "TOOL",
+    "viral_tags": "#Straion #AIコーディング",
+    "tweet_text": "AIエージェントに「このライブラリはこう書いて！」と100回指示するの、もうやめにしませんか？\n\n最近話題のStraion（ @straion_ai ）を検証してみました。これ、一言でいうとAIコーディング専用の「クラウド型・動的法典」です。\n\nSIer時代、Wordの規約集を配っても誰も読みませんでしたが、StraionならAIに直接「強制」できるのが快感。\nCursorやCopilotごとにバラバラな`.cursorrules`を管理する地獄から解放されます。\n\n具体的にSDKでルールを注入して、FastAPIのコードがどう変わるか試したのですが…結果は一目瞭然。規約を無視した「手抜きコード」が、一瞬で「チーム標準」に化けました。\n\n正直、個人開発なら不要かも。でも、複数人でAIを使ってガチ開発してるチームなら、これがないと技術負債が爆速で溜まる気がします。\n\nみなさんはAIの「教育」、どう管理してますか？\n設定ファイルをリポジトリごとにコピペしてます？それとも……？\n\n記事で詳しくレビューしました！👇",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-23T08:32:35.977516+09:00",
+    "posted": false
   }
 ]
