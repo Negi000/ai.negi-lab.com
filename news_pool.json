@@ -1,74 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "Vertex AI の Claude Opus 4.6 を発表 - Google Cloud",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFhkcVd2Nk5KNXZCbVBTblhGUGJIYWJUOXozWXdjOXJzWWhfMmc4cDBJWmVHTTFHYTZmZ2I4VHhISTRERVI3R2FMU2d0VHZaRzdIdzZsdUF3WjBsOE04N0trc2hvY2JybW5NN2tNOV9jdjlHR3FzV2VrSXo4Zkc1NTk3TGoyc3pDVzZwRkFueDVsX3Y2MGJIaWplTl9CVWhUYVVwVg?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 10 Feb 2026 02:04:15 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFhkcVd2Nk5KNXZCbVBTblhGUGJIYWJUOXozWXdjOXJzWWhfMmc4cDBJWmVHTTFHYTZmZ2I4VHhISTRERVI3R2FMU2d0VHZaRzdIdzZsdUF3WjBsOE04N0trc2hvY2JybW5NN2tNOV9jdjlHR3FzV2VrSXo4Zkc1NTk3TGoyc3pDVzZwRkFueDVsX3Y2MGJIaWplTl9CVWhUYVVwVg?oc=5\" target=\"_blank\">Vertex AI の Claude Opus 4.6 を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Google Cloud</font>",
-      "extra": {},
-      "collected_at": "2026-02-15T14:01:48"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3 Coder Next Speedup with Latest Llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r50ohq/qwen3_coder_next_speedup_with_latest_llamacpp/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-15T00:34:02+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Looks like it released just a few hours ago. Previously, I was getting 80ish tokens, max, on either of my GPUS in any combination.</p> <p>Now I'm over 110+ in dual and 130+ on my RTX Pro</p> <p>PR: <a href=\"https://github.com/ggml-org/llama.cpp/pull/19375\">https://github.com/ggml-org/llama.cpp/pull/19375</a></p> <p>Update your llama.cpp.</p> <p>Edit: This is for CUDA devices.</p> <p>Previous: ``` ❯ llama-bench -m ~/.cache/llama.cpp/Qwen_Qwen3-Coder-Next-GGUF_Qwe",
-      "extra": {},
-      "collected_at": "2026-02-15T14:01:54"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "[Release] AdaLLM: NVFP4-first inference on RTX 4090 (FP8 KV cache + custom FP8 decode)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r4yg6p/release_adallm_nvfp4first_inference_on_rtx_4090/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-14T22:53:06+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey folks, I have been working on <strong>AdaLLM</strong> (repo: <a href=\"https://github.com/BenChaliah/NVFP4-on-4090-vLLM\">https://github.com/BenChaliah/NVFP4-on-4090-vLLM</a>) to make NVFP4 weights actually usable on Ada Lovelace GPUs (sm_89). The focus is a pure NVFP4 fast path: FP8 KV cache, custom FP8 decode kernel, no silent FP16 fallback. It currently targets Qwen3 (dense + MoE) and Gemma3 (including sliding-window layers), I'll be adding support to other",
-      "extra": {},
-      "collected_at": "2026-02-15T14:01:54"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Valentine Online",
-      "url": "https://www.producthunt.com/products/valentine-online",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Personalized Valentine’s surprise page for your loved one </p> <p> <a href=\"https://www.producthunt.com/products/valentine-online?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078829?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-15T15:56:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "PSA: NVIDIA DGX Spark has terrible CUDA & software compatibility; and seems like a handheld gaming chip.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r569eb/psa_nvidia_dgx_spark_has_terrible_cuda_software/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-15T05:17:53+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've spent the past week experimenting with the DGX Spark and I am about to return it. While I had understood the memory bandwidth and performance limitations, I like the CUDA ecosystem and was willing to pay the premium. Unfortunately, my experiences have been quite poor, and I suspect this is actually handheld gaming scraps that NVIDIA rushed to turn into a product to compete with Apple and Strix Halo.</p> <p>The biggest issue: DGX Spark is not datacentre Blac",
-      "extra": {},
-      "collected_at": "2026-02-15T15:56:04"
-    },
-    {
       "source": "Product Hunt",
       "title": "Habit Island",
       "url": "https://www.producthunt.com/products/habit-island",
@@ -2925,19 +2857,6 @@
       "collected_at": "2026-02-22T02:25:46"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
-      "url": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 21 Feb 2026 17:41:27 +0000",
-      "summary": "Is Microsoft's gaming division doubling down on AI?",
-      "extra": {},
-      "collected_at": "2026-02-22T08:29:04"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Why is Claude an Electron App?",
       "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
@@ -3055,7 +2974,100 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rb2j5c/favourite_niche_usecases/\"> <img alt=\"Favourite niche usecases?\" src=\"https://preview.redd.it/o4l2ankhxwkg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c7201facadd4e9d14e1aac7efef2133d85d346f7\" title=\"Favourite niche usecases?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Figai\"> /u/Figai </a> <br /> <span><a href=\"https://i.redd.it/o4l2ankhxwkg1.jpeg\">[link]</a></span> &#32; <",
       "extra": {},
       "collected_at": "2026-02-22T13:57:46"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-21T10:22:57-05:00",
+      "summary": "The suspect in the mass shooting at Tumbler Ridge, British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-22T18:30:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Wordy",
+      "url": "https://www.producthunt.com/products/wordy-81fc3d1c-40c1-42d1-9a07-6c2a80ffb302",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Learn languages from real movie and TV clips with quizzes </p> <p> <a href=\"https://www.producthunt.com/products/wordy-81fc3d1c-40c1-42d1-9a07-6c2a80ffb302?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083263?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-22T18:30:49"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Superpowers AI",
+      "url": "https://www.producthunt.com/products/superpowers-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Solve real-world tasks with visual AI on phones & wearables </p> <p> <a href=\"https://www.producthunt.com/products/superpowers-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1075696?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-22T18:30:49"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tidy",
+      "url": "https://www.producthunt.com/products/tidy-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A personal assistant that can learn to use any app you use </p> <p> <a href=\"https://www.producthunt.com/products/tidy-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082534?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-22T18:30:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I Trained a Language Model on CPU for 40 Hours - It Beat the GPU Baseline",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rbafs8/i_trained_a_language_model_on_cpu_for_40_hours_it/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-22T02:54:39+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>For those who have been following this project, you may recall FlashLM v3, then v4 &quot;Bolt&quot;, and v5.2 &quot;Nova-Ignition&quot;. I am pleased to announce that FlashLM v5 &quot;Thunderbolt&quot; is now complete.</p> <h1>Results</h1> <table><thead> <tr> <th align=\"left\">Metric</th> <th align=\"left\">Value</th> </tr> </thead><tbody> <tr> <td align=\"left\">Final PPL</td> <td align=\"left\">1.36</td> </tr> <tr> <td align=\"left\">Final BPC</td> <td align=\"left\">0.4",
+      "extra": {},
+      "collected_at": "2026-02-22T18:30:51"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "dyslexia and ADHD in the coding community",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rbfh1y/dyslexia_and_adhd_in_the_coding_community/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-22T07:23:34+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is my third post on my first Reddit account. Here's why that took so long.</p> <p>I have dyslexia and ADHD. I've been lurking in communities like this one for years -- reading everything, learning everything -- but never posting. Not because I had nothing to contribute. Because I was scared of what would happen when people saw how I write.</p> <p>People with dyslexia and ADHD don't write the way the internet expects. The spelling is off. The punctuation is ",
+      "extra": {},
+      "collected_at": "2026-02-22T18:30:51"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Lawyer says Google shut down his Gmail, Voice and Photos after NotebookLM upload - Discrepancy Report (or how I learned to love Local LLMs)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rbculq/lawyer_says_google_shut_down_his_gmail_voice_and/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-22T04:56:59+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rbculq/lawyer_says_google_shut_down_his_gmail_voice_and/\"> <img alt=\"Lawyer says Google shut down his Gmail, Voice and Photos after NotebookLM upload - Discrepancy Report (or how I learned to love Local LLMs)\" src=\"https://external-preview.redd.it/6QqGCIHe3v1WQBe6_gTslJhJpyRq4mX4jqVDYTY6xG0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=504511a0ed53dd20492f3b96504f6d5f1655bc7b\" title=\"Lawyer says Google shut down his Gmai",
+      "extra": {},
+      "collected_at": "2026-02-22T18:30:51"
     }
   ],
-  "updated_at": "2026-02-22T13:57:46.429123+09:00"
+  "updated_at": "2026-02-22T18:30:51.307902+09:00"
 }
