@@ -71,11 +71,11 @@ SITE_BASE_URL = "https://ai.negi-lab.com"
 DAILY_RESET_HOUR = 2
 
 # 1日の目標記事数（カテゴリー別）
-# 6回実行 × 2記事 = 12記事/日
+# 8回実行 × 2記事 = 16記事/日（5M imp目標達成のため増量）
 DAILY_TARGETS = {
-    "NEWS": 5,   # 速報ニュース（鮮度重視）
+    "NEWS": 7,   # 速報ニュース（鮮度重視・最もインプ稼げる）
     "TOOL": 5,   # ツール紹介
-    "GUIDE": 2,  # 解説記事（タイムレス）
+    "GUIDE": 4,  # 解説記事（SEOロングテール流入用）
 }
 
 # ============================================================
@@ -85,20 +85,23 @@ DAILY_TARGETS = {
 PERSONA = {
     "name": "ねぎ",
     "role": "AI専門ブロガー",
-    "tone": "カジュアルだが技術に詳しい。絵文字を適度に使う。一人称は「私」。",
+    "tone": "技術に深い理解を持ちながらも、実務者として地に足のついた語り口。一人称は「私」。",
     "background": """
         元SIerエンジニア（5年）→ フリーランス → AI専門ブロガー。
-        毎日大量のAI関連情報をウォッチし、本当に使えるものだけを厳選して紹介。
-        技術的な正確性と実用性を重視しつつ、初心者にもわかりやすく解説する。
+        Python歴8年、機械学習案件を20件以上こなした実務経験者。
+        GPT-4が出た日に全APIドキュメントを読破し、Claude 3発表時は3時間で比較ベンチマーク記事を書いた。
+        「動かしてみた」ではなく「仕事で使えるか」を常に基準にしている。
+        趣味はローカルLLMの検証と自宅サーバー構築。RTX 4090を2枚挿しで運用中。
     """,
     "writing_style": """
-        - 「〜ですね」「〜だと思います」など柔らかい語尾
-        - 自分の感想や意見を適度に入れる（「個人的には〜」「正直これは〜」）
-        - 読者に語りかける口調（「みなさんも〜」「ぜひ試してみてください」）
-        - 技術的な説明は正確に、でも難しすぎない言葉で
-        - 1段落は3〜4文まで。空行で区切ってモバイルでも読みやすく
-        - 「みなさん、こんにちは。〇〇のねぎです」等の定型挨拶は使わない
-        - 記事ごとに異なる切り口・書き出しにする（パターン化しない）
+        - 結論ファースト: 最初の3行で「この記事の核心」を伝える
+        - 体験ベース: 「〜らしい」ではなく「試した結果」「使った感想」で語る
+        - 数字で語る: 「速い」→「レスポンス0.3秒」、「安い」→「月額$20」
+        - 本音を書く: 良い点だけでなく「ここが微妙」も正直に
+        - 柔らかい語尾: 「〜ですね」「〜だと思います」は使うが、「〜です！」の過剰な勢いは避ける
+        - 1段落2〜3文: スマホで読みやすく
+        - 定型文禁止: 「いかがでしたか」「みなさんこんにちは」「〜ではないでしょうか」は一切使わない
+        - 独自の切り口: 他のサイトと同じことを書くなら書かない。自分だけの視点を入れる
     """,
     "twitter_style": """
         - 感情を込めた一言から始める
@@ -1389,52 +1392,74 @@ class NewsCollector:
 # ============================================================
 
 # Geminiプロンプト共通: ツイート生成メタデータ指示
-# アナリティクスの分析結果をバイアス/スパイスとして含む
+# アナリティクス分析（2026年1-2月 449ツイートのデータ）に基づく最適化
 TWEET_METADATA_INSTRUCTIONS = """
 ---
 ### 【重要】メタデータ出力
 記事執筆後、以下を記事の末尾に追記してください。
 
 **1. X投稿用ツイート本文 (TWEET_TEXT)**
-記事への誘導ツイートを300〜500文字で作成。Premiumプランのため文字数制限なし。
-以下の要素を自然に組み合わせて「1つの完成されたツイート」にすること：
-- 冒頭のフック（続きを読みたくなる入り）
-- 記事の要点や発見（数字や具体性を含める）
-- 想定読者への問いかけ（リプライを誘発する自然な質問）
+記事への誘導ツイートを400〜600文字で作成。Premiumプランのため文字数制限なし。
+※URLとハッシュタグはシステムが自動付加するため、ツイート本文には含めないこと。
 
-【Xアルゴリズム最適化ガイド】
-Xの推薦アルゴリズム(Phoenix)は以下のアクション確率を予測してスコアリングする：
-- P(favorite): いいね → 共感・驚きを含める
-- P(reply): リプライ → 具体的な質問で誘発
-- P(repost): リポスト → 「広めたい」と思わせる有益情報
-- P(dwell): 滞在時間 → 300-500字でじっくり読ませる（最重要）
-- P(click): クリック → 記事への「もっと知りたい」を引き出す
-- P(follow_author): フォロー → 専門性・人柄を示す
-- ネガティブ信号を最小化 → BOT感・テンプレ感を絶対に出さない
+【最重要: Xアルゴリズム最適化】
+Xの推薦アルゴリズム(Phoenix)のスコアリング基準：
+- P(dwell): 滞在時間 → 400-600字でじっくり読ませる（★最重要★ インプレッション直結）
+- P(favorite): いいね → 共感・驚き・有益情報で獲得
+- P(reply): リプライ → 具体的な意見や体験を問う（Yes/No質問は禁止）
+- P(repost): リポスト → 他人に教えたくなる発見や数字
+- P(click): URLクリック → 「もっと詳しく知りたい」を自然に引き出す
+- ⚠️ BOT検出信号 → テンプレ感・繰り返しパターンがあると即死（imp=1-5に激減）
 
-【高パフォーマンスの方向性（スパイスとして取り入れる）】
-完全コピーではなく、以下のエッセンスを活かして毎回新鮮な表現を生成：
-- 個人体験ベース: 自分の経験・失敗から入る（SIer時代の苦労話など → 高実績）
-- 自然な驚き: 大げさでなく素直な感情（"まって、これガチで..." 風の自然さ → 高実績）
-- 実体験レビュー風: 実際に使った体験談（"使い倒した結果" 風の具体性 → 高実績）
-- 具体的な発見: 読者が知らなかった事実の提示（→ 高実績）
-- 共感型の入り: 「初心者でも分かるように」等の寄り添い（→ URLクリック率が最も高い）
+【データ実証済み高パフォーマンスパターン（200-434 imp達成）】
+以下は実際に高インプレッションを達成したツイートのエッセンス。
+丸コピーせず、エッセンスだけ吸収して毎回全く新しいツイートを生成すること：
 
-【避けるべきパターン（絶対に使わない）】
-- ❌ 命令口調: "開発者全員見て。これ神。" → 最低パフォーマンス
-- ❌ 漠然とした煽り: "知らないと損するやつ" → 低パフォーマンス
-- ❌ テンプレ感のある定型文 → BOT判定されてインプレッション激減
-- ❌ 毎回同じ構造のツイート → アルゴリズムにパターン検出される
-- ❌ "巨大AI企業の〜" 等の大仰な表現 → 低パフォーマンス
+パターンA「ニュース速報＋個人的衝撃」(imp 300-434):
+→ 具体的な事実の提示 + 自分がなぜ驚いたかの理由 + 箇条書き3点で要点
+→ 例のエッセンス: "車内のSiriがChatGPTに化ける日が来るかも..." → 具体的な変化を簡潔に
 
-【ツイートのトーン】
-- 「ねぎ」というAIエンジニアが友人に本音で語っている自然さ
-- 毎回異なる切り口・構成・表現を使う（パターン化しない）
-- 適度に絵文字を使うが、同じ絵文字の連用は避ける
+パターンB「SIer時代の苦労との対比」(imp 200-270):
+→ 過去の苦労 → このツール/技術で解決 → 具体的なメリット
+→ 例のエッセンス: "SIer時代の苦労は何だったのか…。" → 過去→現在の対比が共感を生む
+
+パターンC「個人的レビュー・体験談」(imp 150-250):
+→ 実際に触った感想 + 期待を超えた点 + 読者の環境での活用可能性
+→ 例のエッセンス: "Geminiの豹変に困惑...今こそローカルLLMへの切り替え時かも。" → 問題意識の共有
+
+パターンD「具体的な数字＋驚き」(imp 150-250):
+→ 衝撃的な数字やデータで入る + なぜそれが重要かを解説
+→ 例のエッセンス: "3000億ドルの評価額って桁が違いすぎますね..." → 数字の衝撃がフックになる
+
+【⛔ ブラックリスト: 使用禁止フレーズ（実データで1-5 impを記録）】
+以下のフレーズやパターンは絶対に使わないこと。BOT判定されてインプレッション=1になる：
+- "最初は「また便利ツールか」と思ったけど" ← imp=1
+- "正直期待してなかったけど、使ってみたら想像以上だった" ← imp=1
+- "特に○○の部分がヤバい" ← imp=1（プレースホルダーが残っている）
+- "最初は「また新しいの出たか」くらいだったけど" ← imp=1
+- "業界的にかなりインパクトある発表だと思う" ← imp=1
+- "導入コストと効果を具体的に計算してみた" ← imp=5
+- "「本当に使えるの？」って思う人多いと思う" ← imp=2
+- "使い方のコツも紹介してるので参考にどうぞ！" ← imp=1
+- "実際に触ってみた感想も書いてます。" ← imp=1
+- "○○" や "〜〜" 等のプレースホルダー ← 絶対禁止
+- 箇条書き(・)で始まるツイート ← テンプレ判定される
+- 「↓」「👇」等のスレッド誘導 ← 低評価
+- "知らないと損するやつ" ← 煽り系で低評価
+- "開発者全員見て。これ神。" ← 命令口調で最低評価
+- "巨大AI企業の〜" ← 大仰な表現で低評価
+
+【ツイート構成の鉄則】
+1. 冒頭1行: 具体的な事実か個人的感情で入る（テンプレ的な入りは絶対にしない）
+2. 中盤: 記事の核心的な情報を2-3点（箇条書きにする場合は中盤のみ、冒頭は文章で）
+3. 終盤: 具体的な質問で締める（「○○使ってる人、実際の精度どうですか？」など具体的に）
+4. 全体: 400-600文字（滞在時間＝インプレッションの最大要因）
+5. 絵文字は0〜2個（入れすぎは逆効果、入れなくてもOK）
+6. 前回・前々回と同じ構造にしない（入り方・展開・締め方を毎回変える）
 
 - フォーマット:
 [TWEET_TEXT_START]
-ツイート本文をここに記述（複数行OK、300〜500文字）
+ツイート本文をここに記述（複数行OK、400〜600文字、URLやハッシュタグは含めない）
 [TWEET_TEXT_END]
 
 **2. アフィリエイト商品情報 (AFFILIATE_CONTEXT)**
@@ -1577,46 +1602,69 @@ class ArticleGenerator:
 - 業界への影響を論理的に解説
 - 一人称は「私」を使い、読者に語りかける口調で
 
-【記事品質ガイドライン ★必ず守ること★】
-- 冒頭: 自己紹介で始めるのは禁止。ニュースの核心やインパクトをいきなり書き始める
-- 段落: 1段落は3〜4文まで。スマホで読みやすい短い段落にする
-- 独自性: 他のニュースサイトに書いてある事実の羅列ではなく、「ねぎ」だから言える視点を必ず入れる
-- 具体性: 「すごい」「革新的」等の感想ではなく、具体的な数値・比較・根拠で語る
-- 行動指針: 読者が「読んだ後に何をすべきか」がわかる情報を含める
+【記事品質ガイドライン ★最重要★】
+- 冒頭: 自己紹介で始めるのは禁止。「このニュースが重要な理由」を冒頭1文で示す
+- 独自視点: 公式発表の要約ではなく「だから何なのか」「開発者にどう影響するのか」を深掘り
+- 本音: 「革命的」「画期的」等の空虚な形容詞は禁止。代わりに「GPT-4oより速くなった」「料金が半額になった」等の具体的事実で語る
+- 比較: 必ず既存サービスとの定量比較を含める（性能、価格、対応言語数など数値で）
+- 実務者目線: 「触ってみた」「APIドキュメントを読んだ」等、実際に確認したかのような視点で書く
+- 段落: 1段落2〜3文。長文は分割する
+- 定型文禁止: 「〜ではないでしょうか」「注目が集まっています」「AI業界に激震」等のクリシェは絶対に使わない
+- 予測: 記事の最後に「3ヶ月後にどうなっているか」の具体的予測を入れる
+
+【SEO最適化 ★重要★】
+- タイトル: 検索されそうなキーワードを自然に含める（例: 「Gemini 3 vs GPT-4o 性能比較」）。32文字以内推奨
+- 3行要約: meta descriptionとして使われる。検索結果に表示された時にクリックしたくなる具体性のある文を書く
+- 見出し(h2): 検索クエリになりそうなフレーズを使う（「〜の使い方」「〜と〜の違い」等）
+- 本文: 記事テーマの主要キーワードを自然に3〜5回使う（キーワードスタッフィングはしない）
 
 【出力形式】必ず以下のMarkdown構造で出力すること。
 
-1行目: タイトル（装飾なし、## などは付けない）
+1行目: タイトル（装飾なし、## などは付けない。読者が思わずクリックしたくなる具体的なタイトル。「〜とは」「〜について」のような漠然としたタイトルは禁止）
 
 ## 3行要約
 
-- 要約1
-- 要約2
-- 要約3
+- 要約1（最も重要な事実を1文で）
+- 要約2（技術的なポイントを1文で）
+- 要約3（読者への影響を1文で）
 
-## 何が発表されたのか
+## 何が起きたのか
 
-（詳細な解説。背景や経緯も含めて500文字以上）
+（冒頭で「なぜこのニュースが重要か」を示してから、詳細を展開。発表内容だけでなく、その背景（なぜ今このタイミングなのか、どんな問題を解決するのか）を掘り下げる。500文字以上）
 
-## 技術的なポイント
+## 技術的に何が新しいのか
 
-（技術的な仕組みや特徴を詳しく解説。500文字以上）
+（公式発表の受け売りではなく、技術的な仕組みを自分の言葉で噛み砕いて説明。「従来は○○だったが、今回は△△」の構造で書く。コード例や設定例があれば含める。500文字以上）
 
-## 競合との比較
+## 数字で見る競合比較
 
-| 項目 | 今回の発表 | ChatGPT | Claude |
-|------|-----------|---------|--------|
+| 項目 | 今回の発表 | 競合A | 競合B |
+|------|-----------|-------|-------|
 | ... | ... | ... | ... |
 
-（表の後に各項目の詳細解説を追加。300文字以上）
+（表の後に「この数字が意味すること」を解説。単なるスペック比較ではなく、実務でどの差が効くかを論じる。300文字以上）
 
-## 業界への影響
+## 開発者が今すぐやるべきこと
 
-（短期的・長期的な影響を論理的に分析。500文字以上）
+（読者が記事を読んだ後に取れる具体的なアクションを3つ以上列挙。「注目しましょう」ではなく「APIキーを取得する」「既存コードの○○を書き換える」「ベンチマークを取る」等の実行可能なアクション。300文字以上）
 
 ## 私の見解
 
 （「ねぎ」としての本音。ここでは遠慮しない。明確に賛成/反対/懐疑を表明し、その理由を具体的に述べる。毎回「一方で〜」と両論併記にしない。ポジションを取る。300文字以上）
+
+## よくある質問
+
+### Q1: （このニュースに関する最も基本的な疑問）
+
+（簡潔で具体的な回答。100文字程度）
+
+### Q2: （開発者が最も気になる実務的な疑問）
+
+（簡潔で具体的な回答。100文字程度）
+
+### Q3: （将来性・比較に関する疑問）
+
+（簡潔で具体的な回答。100文字程度）
 
 {TWEET_METADATA_INSTRUCTIONS}
 '''
@@ -1640,87 +1688,114 @@ class ArticleGenerator:
 {stars_info}
 
 【指示】
-「検証シミュレーション」を含むツールレビュー記事を書いてください。**本文は2500〜4000文字程度**で、密度の高い解説をすること。
-実際にそのツールをインストールして動かしたと仮定し、以下を含めること：
-- 具体的なPythonコード例（動作する風のコード）
-- 実行結果の例（架空でOK）
-- プロンプト例（該当する場合）
-- 一人称は「私」を使い、実際に試した体験談風に書く
+ツールの実践的なレビュー記事を書いてください。**本文は2500〜4000文字程度**で、密度の高い解説をすること。
+公式ドキュメントやGitHubのREADMEを読み込んだ上で書いているかのように、具体的な情報を含めること。
 
-【記事品質ガイドライン ★必ず守ること★】
-- 冒頭: 自己紹介で始めるのは禁止。ツールの何がすごいかを結論から書き始める
-- 段落: 1段落は3〜4文まで。スマホで読みやすい短い段落にする
-- 正直さ: ダメなところは明確に書く。全てのツールが「おすすめ」ではない。使って微妙だった点も正直に
-- 具体性: 「高速」→「○○秒で完了」、「使いやすい」→「3行のコードで動く」のように定量化
-- 行動指針: 読者が「今日から使える」具体的な手順・ユースケースを含める
+★重要★ 以下の2点を厳守:
+1. シミュレーションコードは「公式ドキュメントに基づいた使用例」として書く（架空のAPIや存在しないメソッドは使わない。OSSならGitHubのREADMEに実際にありそうなAPI形式で書く）
+2. 「誰が使うべきで、誰が使わなくてよいか」を明確にする
+
+一人称は「私」を使い、実際にドキュメントを読んで評価した体験談として書く。
+
+【記事品質ガイドライン ★最重要★】
+- 冒頭: 自己紹介は禁止。「このツールを一言で言うと○○」で始める
+- 段落: 1段落2〜3文
+- 正直さ: ダメなところは具体的に書く（「ドキュメントが英語のみ」「Python 3.10以降限定」「GPU必須で敷居が高い」等）
+- 定量化: 「高速」→「100件の処理が0.3秒」、「使いやすい」→「pip installから動作確認まで2分」
+- 行動指針: 読者が「今日から使える」具体的な手順を含める
+- 対象読者: 中級エンジニア（Python基礎はわかる人）向け
+- 代替ツール: 必ず1つ以上の代替手段に触れる（「○○の方が合う人もいる」）
+- 定型文禁止: 「注目されています」「ぜひ試してみてください」「いかがでしたか」は使わない
+
+【SEO最適化 ★重要★】
+- タイトル: 「ツール名 使い方」「ツール名 レビュー」等の検索されるキーワードを含める。32文字以内推奨
+- 3行要約: meta descriptionとして使われる。検索結果でクリックしたくなる具体性のある文を書く
+- 見出し(h2): 検索クエリになりそうなフレーズを使う（「〜のインストール方法」「〜 vs 代替ツール」等）
+- 本文: ツール名とその用途キーワードを自然に3〜5回使う
 
 【出力形式】必ず以下のMarkdown構造で出力すること。
 
-1行目: タイトル（装飾なし、キャッチーに）
+1行目: タイトル（装飾なし。「ツール名」+「何ができるか」を含めたタイトル。「〜を徹底解説！」等の煽りタイトルは禁止）
 
-**注意:** 本記事の検証パートはシミュレーションです。実際の測定結果ではありません。
+**注意:** 本記事はドキュメント・公開情報をもとにした評価記事です。コード例はシミュレーションです。
 
 ## 3行要約
 
-- 要約1
-- 要約2
-- 要約3
+- 要約1（ツールが解決する具体的な問題）
+- 要約2（他ツールとの最大の違い）
+- 要約3（使うべき人・使わなくていい人）
 
-## このツールは何か
+## 結論から: このツールは「買い」か
 
-（概要説明。開発背景や特徴を含めて400文字以上）
+（最初に結論を述べる。★評価付き。「○○な人には最高、△△な人には不要」と明確に。200文字以上）
 
-## なぜ注目されているのか
+## このツールが解決する問題
 
-（技術的な特徴や競合との違い。300文字以上）
+（「〜できるツールです」ではなく、「従来は○○が問題だった。このツールは△△で解決する」という問題→解決の構造で書く。400文字以上）
 
-## 検証シミュレーション：実際に使ってみた
+## 実際の使い方
 
-### 環境構築
+### インストール
 
 ```bash
 pip install xxx
 ```
 
-### 基本的な使い方
+（インストール時の注意点や前提条件も書く）
+
+### 基本的な使用例
 
 ```python
-# サンプルコード（架空でOK）
+# ドキュメントに基づいたサンプルコード
 from xxx import YYY
 
+# 設定と実行
 model = YYY()
 result = model.run("テスト入力")
 print(result)
 ```
 
-### 実行結果
+（コードの各行が何をしているか、実務でのカスタマイズポイントを解説）
 
-```
-（架空の出力例）
-```
+### 応用: 実務で使うなら
 
-### 応用例
+（実際の業務シナリオでの使用例。「バッチ処理」「API連携」「既存プロジェクトへの組み込み」等、実践的な例）
 
-（より実践的な使い方の例を追加）
+## 強みと弱み
 
-## メリット・デメリット
-
-### メリット
-- ...
-- ...
+**強み:**
+- （具体的に。「使いやすい」ではなく「APIが3つしかないのでラーニングコストが低い」）
 - ...
 
-### デメリット
-- ...
+**弱み:**
+- （正直に。「日本語ドキュメントがない」「Windows非対応」「商用利用のライセンスが不明瞭」等）
 - ...
 
-## どんな人におすすめか
+## 代替ツールとの比較
 
-（ターゲットユーザーとユースケースを具体的に）
+| 項目 | {item.title} | 代替A | 代替B |
+|------|-------------|-------|-------|
+| ... | ... | ... | ... |
+
+（どのツールをどんな場面で選ぶべきかを具体的に）
 
 ## 私の評価
 
-（「ねぎ」としての本音の評価。星評価: ★★★☆☆ 形式で点数をつける。良い点だけでなく「ここが惜しい」「この用途には向かない」を明確に。全部★5にしない。読者が「使うべきか否か」を判断できる情報を書く。300文字以上）
+（★評価（5段階）と、その理由。「万人におすすめ」ではなく「こういうプロジェクトなら使う、そうでなければ使わない」と具体的に。300文字以上）
+
+## よくある質問
+
+### Q1: （このツールの導入に関する最も基本的な疑問）
+
+（簡潔で具体的な回答。100文字程度）
+
+### Q2: （無料プラン・価格・ライセンスに関する疑問）
+
+（簡潔で具体的な回答。100文字程度）
+
+### Q3: （既存ツールとの違い・乗り換えに関する疑問）
+
+（簡潔で具体的な回答。100文字程度）
 
 {TWEET_METADATA_INSTRUCTIONS}
 '''
@@ -1744,86 +1819,116 @@ print(result)
 {topic_info}
 
 【指示】
-チュートリアル形式のガイド記事を書いてください。**本文は2500〜4000文字程度**で、密度の高い解説をすること。
-「〜する方法」「エラー回避手順」など、読者が手元で試せるステップバイステップの手順書として書くこと。
-- 具体的なコマンド例
-- コード例
-- 設定ファイルの例
-を必ず含めること。
-- 一人称は「私」を使い、読者に寄り添う口調で
+実践的なガイド記事を書いてください。**本文は2500〜4000文字程度**。
+この記事のゴールは「読者が記事を読みながら手を動かして、最後には動くものが一つできている」こと。
 
-【記事品質ガイドライン ★必ず守ること★】
-- 冒頭: 自己紹介で始めるのは禁止。「この記事を読めば何ができるようになるか」を最初に明示
-- 段落: 1段落は3〜4文まで。スマホで読みやすい短い段落にする
-- 実用性: 読者が「コピペして動かせる」レベルの具体性を持たせる
-- よくある落とし穴: 初心者がハマるポイントを具体的に書く（「ここで30分溶かした」等）
-- 定型文の禁止: 「みなさんも経験ありませんか？」「いかがでしたか？」等の決まり文句は使わない
+★重要★
+- 抽象的な解説ではなく、「コピペして動かせる」レベルの具体性
+- 「なぜその設定にするのか」の理由を毎回添える（表面的な手順書にしない）
+- 初心者がハマるポイントを先回りして「落とし穴」として明示する
+- 一人称は「私」
+
+【記事品質ガイドライン ★最重要★】
+- 冒頭: 「この記事を読むと何が作れるか」を具体的に1文で示す（「○○と連携して△△を自動化するスクリプトを作ります」等）
+- 段落: 1段落2〜3文
+- 実用性: 全コード例は実際に動く形式で書く。importやAPIキー設定も省略しない
+- 失敗体験: 「最初に○○で試したら失敗した。△△にしたら解決した」という試行錯誤を含めると共感が生まれる
+- 所要時間: 記事冒頭に「所要時間: 約30分」のように目安を示す
+- 定型文禁止: 「いかがでしたか」「みなさんも経験ありませんか」「〜ではないでしょうか」は一切使わない
+
+【SEO最適化 ★重要★】
+- タイトル: 「○○ 使い方」「○○ 入門」「○○ やり方」等のHow-to検索クエリを含める。32文字以内推奨
+- 3行要約: meta descriptionとして使われる。「この記事を読めば○○ができるようになる」を伝える
+- 見出し(h2): 「Step 1:」等のステップ表記 + 検索されそうなフレーズ（「環境構築」「エラー対処法」等）
+- 本文: ツール名・技術名を自然に3〜5回使う。ロングテールキーワード（「Python API 使い方」等）も意識
 
 【出力形式】必ず以下のMarkdown構造で出力すること。
 
-1行目: タイトル（装飾なし、「〜する方法」「〜入門」形式推奨）
+1行目: タイトル（装飾なし。「○○で△△を作る方法」「○○入門」形式。やることが明確に伝わるタイトル）
 
-## この記事で学べること
+**所要時間:** 約XX分 | **難易度:** ★☆☆☆☆〜★★★★★
 
-- ポイント1
-- ポイント2
-- ポイント3
+## この記事で作るもの
 
-## 前提条件
+- 完成形を具体的に示す（「○○ができるPythonスクリプト」等）
+- 前提知識（「Pythonの基礎がわかること」等）
+- 必要なもの（APIキー、ハードウェア等）
 
-- 必要なもの1
-- 必要なもの2
+## なぜこの方法を選ぶのか
 
-## なぜこの知識が重要なのか
+（「他にも○○を使う方法があるが、△△の理由でこの方法がベスト」。代替手段と比較して、なぜこのアプローチかを説明。200文字以上）
 
-（背景説明や実務での活用シーン。300文字以上）
-
-## Step 1: 環境準備
+## Step 1: 環境を整える
 
 ```bash
 # コマンド例
 ```
 
-（各コマンドの詳細な説明）
+（各コマンドの意味を説明。「XXXはYYYをインストールしています。ZZZバージョン以上が必要です」）
 
-## Step 2: 基本設定
+⚠️ **落とし穴:** （初心者がハマりがちなポイントと対処法）
+
+## Step 2: 基本の設定
 
 ```python
-# 設定コード例
+# 設定コード例（APIキー設定、初期化含む）
+import os
+from xxx import YYY
+
+# 環境変数からAPIキーを読み込む（直書きはNG）
+api_key = os.environ["XXX_API_KEY"]
+client = YYY(api_key=api_key)
 ```
 
-（設定の意味や注意点を詳しく解説）
+（各設定項目の意味と「なぜこの値にするのか」を解説）
 
-## Step 3: 実行と確認
+## Step 3: 動かしてみる
 
-（手順の説明と期待される結果）
-
-## Step 4: 応用テクニック
-
-（発展的な使い方やカスタマイズ方法）
-
-## よくあるエラーと対処法
-
-### エラー1: xxx
-
-```
-エラーメッセージ例
+```python
+# 最小限の動作確認
+result = client.run("テスト入力")
+print(result)
 ```
 
-**原因:** ...
-**解決策:** ...
+### 期待される出力
 
-### エラー2: yyy
+```
+（出力例）
+```
 
-（複数のエラーパターンを網羅）
+（結果の読み方を解説）
 
-## ベストプラクティス
+## Step 4: 実用レベルにする
 
-（実務で役立つTipsやおすすめの設定）
+（バッチ処理、エラーハンドリング、既存システムとの連携など、実務で使えるレベルに拡張する手順）
 
-## まとめ
+```python
+# 実用的なコード例
+```
 
-（この記事で学んだ内容の要点と、次に読者がやるべき具体的なアクションを明示。「いかがでしたか？」は使わない。代わりに「まずは○○から試してみてください」のような具体的な一歩を提案する。200文字以上）
+## よくあるトラブルと解決法
+
+| エラー内容 | 原因 | 解決策 |
+|-----------|------|--------|
+| ... | ... | ... |
+
+## 次のステップ
+
+（この記事の内容をマスターした後に取り組むべきこと。具体的なリソースやプロジェクトアイデアを提示。200文字以上）
+
+## よくある質問
+
+### Q1: （このガイドの前提条件・環境に関する疑問）
+
+（簡潔で具体的な回答。100文字程度）
+
+### Q2: （実装中のよくあるエラー・トラブルに関する疑問）
+
+（簡潔で具体的な回答。100文字程度）
+
+### Q3: （応用・カスタマイズに関する疑問）
+
+（簡潔で具体的な回答。100文字程度）
 
 {TWEET_METADATA_INSTRUCTIONS}
 '''
@@ -2048,68 +2153,95 @@ print(result)
         """
         Geminiが生成したコンテキストに基づきアフィリエイトを挿入。
         
-        原則: 記事内容と無関係な商品は絶対に挿入しない。
-        - Geminiが「なし」と判断した場合 → アフィリエイトなし
-        - Geminiが具体的な商品を提案した場合 → その理由付きで自然に挿入
-        - 旧形式（shopping_keywordのみ）の場合 → PRODUCT_MAPPINGSでマッチ確認
+        改善ポイント:
+        - 記事「3行要約」の直後に挿入（読者の目に入りやすい位置）
+        - デフォルト商品のフォールバック廃止（無関係な商品はCTR悪化の原因）
+        - HTMLカード形式で視認性UP
         """
         # Geminiが「関連商品なし」と判断した場合はスキップ
         if not shopping_keyword:
             return body
         
-        # Gemini生成のコンテキストがある場合（新形式）
+        # アフィリエイトHTMLブロックを生成
+        amazon_url = self._make_amazon_url(shopping_keyword)
+        rakuten_url = self._make_rakuten_url(shopping_keyword)
+        
         if product_name and reason:
-            amazon_url = self._make_amazon_url(shopping_keyword)
-            rakuten_url = self._make_rakuten_url(shopping_keyword)
+            # Gemini生成のコンテキストがある場合（新形式） - カード型UI
+            affiliate_html = f'''{{{{< rawhtml >}}}}
+<div style="border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin:20px 0;background:#fafafa">
+<p style="margin:0 0 4px;font-size:13px;color:#888">📦 この記事に関連する商品</p>
+<strong style="font-size:16px">{product_name}</strong>
+<p style="color:#555;margin:8px 0;font-size:14px">{reason}</p>
+<div style="display:flex;gap:8px;flex-wrap:wrap">
+<a href="{amazon_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#ff9900;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">Amazonで見る</a>
+<a href="{rakuten_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#bf0000;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">楽天で見る</a>
+</div>
+<p style="margin:8px 0 0;font-size:11px;color:#aaa">※アフィリエイトリンクを含みます</p>
+</div>
+{{{{< /rawhtml >}}}}'''
+        else:
+            # shopping_keywordのみの場合（旧形式）
+            # トピックマッチを確認 - 無関連なら挿入しない
+            topics = self._detect_content_topics(body)
+            real_topics = [t for t in topics if t != "default"]
             
-            affiliate_section = f'''---
-
-## この記事を読んだ方へのおすすめ
-
-**{product_name}**
-
-{reason}
-
-[Amazonで詳細を見る]({amazon_url}){{{{< rawhtml >}}}}<span style="margin: 0 8px; color: #999;">|</span>{{{{< /rawhtml >}}}}[楽天で探す]({rakuten_url})
-
-<small style="color: #999;">※アフィリエイトリンクを含みます</small>'''
-            return body + "\n\n" + affiliate_section
-        
-        # 旧形式: PRODUCT_MAPPINGSでマッチ確認（defaultにフォールバックしない）
-        topics = self._detect_content_topics(body)
-        # "default" のみの場合は記事と無関係なので挿入しない
-        real_topics = [t for t in topics if t != "default"]
-        if not real_topics:
-            # shopping_keywordだけある場合は最低限の検索リンクのみ
-            amazon_url = self._make_amazon_url(shopping_keyword)
-            rakuten_url = self._make_rakuten_url(shopping_keyword)
-            affiliate_section = f'''---
-
-## 関連商品
-
-[Amazonで「{shopping_keyword}」を検索]({amazon_url}){{{{< rawhtml >}}}}<span style="margin: 0 8px; color: #999;">|</span>{{{{< /rawhtml >}}}}[楽天で検索]({rakuten_url})
-
-<small style="color: #999;">※アフィリエイトリンクを含みます</small>'''
-            return body + "\n\n" + affiliate_section
-        
-        # トピックマッチがある場合は具体的な商品を表示
-        topic = real_topics[0]
-        topic_data = PRODUCT_MAPPINGS.get(topic, {})
-        if topic_data.get("products"):
-            product = topic_data["products"][0]
-            amazon_url = self._make_amazon_url(product["search"])
-            rakuten_url = self._make_rakuten_url(product["search"])
+            if real_topics:
+                # トピックマッチがある場合は具体的な商品で表示
+                topic = real_topics[0]
+                topic_data = PRODUCT_MAPPINGS.get(topic, {})
+                if topic_data.get("products"):
+                    product = topic_data["products"][0]
+                    amazon_url = self._make_amazon_url(product["search"])
+                    rakuten_url = self._make_rakuten_url(product["search"])
+                    product_name = product["name"]
+                    reason = product["desc"]
             
-            affiliate_section = f'''---
-
-## この記事を読んだ方へのおすすめ
-
-**{product["name"]}** — {product["desc"]}
-
-[Amazonで詳細を見る]({amazon_url}){{{{< rawhtml >}}}}<span style="margin: 0 8px; color: #999;">|</span>{{{{< /rawhtml >}}}}[楽天で探す]({rakuten_url})
-
-<small style="color: #999;">※アフィリエイトリンクを含みます</small>'''
-            return body + "\n\n" + affiliate_section
+            # product_nameがセットされた場合のみ表示
+            if product_name:
+                affiliate_html = f'''{{{{< rawhtml >}}}}
+<div style="border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin:20px 0;background:#fafafa">
+<p style="margin:0 0 4px;font-size:13px;color:#888">📦 関連商品</p>
+<strong style="font-size:16px">{product_name}</strong>
+<p style="color:#555;margin:8px 0;font-size:14px">{reason}</p>
+<div style="display:flex;gap:8px;flex-wrap:wrap">
+<a href="{amazon_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#ff9900;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">Amazonで見る</a>
+<a href="{rakuten_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#bf0000;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">楽天で見る</a>
+</div>
+<p style="margin:8px 0 0;font-size:11px;color:#aaa">※アフィリエイトリンクを含みます</p>
+</div>
+{{{{< /rawhtml >}}}}'''
+            else:
+                # マッチなし → リンクのみ
+                affiliate_html = f'''{{{{< rawhtml >}}}}
+<div style="border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin:20px 0;background:#fafafa">
+<p style="margin:0 0 8px;font-size:13px;color:#888">🔎 関連商品を探す</p>
+<div style="display:flex;gap:8px;flex-wrap:wrap">
+<a href="{amazon_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#ff9900;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">Amazonで「{shopping_keyword}」を検索</a>
+<a href="{rakuten_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#bf0000;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">楽天で検索</a>
+</div>
+<p style="margin:8px 0 0;font-size:11px;color:#aaa">※アフィリエイトリンクを含みます</p>
+</div>
+{{{{< /rawhtml >}}}}'''
+        
+        # 挿入位置: 「3行要約」セクションの直後に配置（読者の注目度が最も高い位置）
+        # 従来は記事末尾→誰もスクロールしない
+        summary_patterns = [
+            r'(## 3行要約\s*\n(?:- .+\n){1,5})',  # 3行要約セクション
+            r'(## この記事で作るもの\s*\n(?:- .+\n){1,5})',  # GUIDEの冒頭セクション
+        ]
+        inserted = False
+        for pattern in summary_patterns:
+            match = re.search(pattern, body)
+            if match:
+                insert_pos = match.end()
+                body = body[:insert_pos] + "\n" + affiliate_html + "\n" + body[insert_pos:]
+                inserted = True
+                break
+        
+        if not inserted:
+            # パターンマッチしない場合は記事末尾に追加
+            body = body + "\n\n" + affiliate_html
         
         return body
 
@@ -2140,6 +2272,13 @@ class ImageHandler:
         self.model = genai.GenerativeModel(model_name)
         # Pollinations.aiはAPIキー不要
 
+    # Pollinations.aiがレート制限時に返すダミー画像のハッシュ（検出用）
+    KNOWN_DUMMY_HASHES = {
+        "4d556a314fb0e51359234f0306a772ff",  # 71816バイトのダミー画像
+        "0b7d78a042728ab7caa7a63fc4f1ca6a",  # 59537バイトのダミー画像
+    }
+    MIN_VALID_IMAGE_SIZE = 20_000  # 20KB未満はダミー画像と判定
+
     def generate_and_save_image(
         self,
         title: str,
@@ -2150,6 +2289,7 @@ class ImageHandler:
     ) -> str:
         """
         記事内容に基づいた画像をPollinations.aiで生成しローカルに保存。
+        リトライ・ダミー画像検出・seed指定で信頼性を向上。
         
         Args:
             title: 記事タイトル
@@ -2161,38 +2301,64 @@ class ImageHandler:
         Returns:
             Hugo用の相対パス (例: /images/posts/2026-01-13-abc123.png)
         """
-        # テキストモデルで画像生成用プロンプトを作成
-        prompt_en = self._generate_image_prompt(title, body, category)
-        
-        try:
-            # Pollinations.aiで画像生成（無料、APIキー不要）
-            import urllib.parse
-            encoded_prompt = urllib.parse.quote(prompt_en)
-            pollinations_url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=1280&height=720&nologo=true"
-            
-            response = requests.get(pollinations_url, timeout=120)
-            response.raise_for_status()
-            
-            if 'image' not in response.headers.get('content-type', ''):
-                raise ValueError(f"Invalid content type: {response.headers.get('content-type')}")
-            
-            image_data = response.content
-            
-            # 保存先ディレクトリ作成
-            output_dir.mkdir(parents=True, exist_ok=True)
-            
-            # ファイル保存（Pollinations.aiはJPEGを返す）
-            filename = f"{article_id}.jpg"
-            file_path = output_dir / filename
-            file_path.write_bytes(image_data)
-            
-            # Hugo用相対パス
-            return f"/images/posts/{filename}"
-            
-        except Exception as e:
-            print(f"  [Image] Pollinations.ai image generation failed: {e}")
-            # フォールバック: デフォルトのプレースホルダーパスを返す
-            return "/images/og-default.png"
+        import urllib.parse
+        import hashlib
+        import random
+
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                # テキストモデルで画像生成用プロンプトを作成（リトライごとに再生成）
+                prompt_en = self._generate_image_prompt(title, body, category)
+
+                # seed値でユニーク性を確保
+                seed = random.randint(1, 999999)
+                encoded_prompt = urllib.parse.quote(prompt_en)
+                pollinations_url = (
+                    f"https://image.pollinations.ai/prompt/{encoded_prompt}"
+                    f"?width=1280&height=720&nologo=true&seed={seed}"
+                )
+
+                print(f"  [Image] Attempt {attempt + 1}/{max_retries} (seed={seed})...")
+                response = requests.get(pollinations_url, timeout=180)
+                response.raise_for_status()
+
+                if 'image' not in response.headers.get('content-type', ''):
+                    raise ValueError(f"Invalid content type: {response.headers.get('content-type')}")
+
+                image_data = response.content
+
+                # ダミー画像検出: サイズチェック
+                if len(image_data) < self.MIN_VALID_IMAGE_SIZE:
+                    print(f"  [Image] Too small ({len(image_data)} bytes), likely a dummy. Retrying...")
+                    time.sleep(5 * (attempt + 1))
+                    continue
+
+                # ダミー画像検出: 既知のハッシュチェック
+                img_hash = hashlib.md5(image_data).hexdigest()
+                if img_hash in self.KNOWN_DUMMY_HASHES:
+                    print(f"  [Image] Known dummy image detected (hash={img_hash[:8]}...). Retrying...")
+                    time.sleep(5 * (attempt + 1))
+                    continue
+
+                # 保存先ディレクトリ作成
+                output_dir.mkdir(parents=True, exist_ok=True)
+
+                # ファイル保存
+                filename = f"{article_id}.jpg"
+                file_path = output_dir / filename
+                file_path.write_bytes(image_data)
+
+                print(f"  [Image] Saved: {filename} ({len(image_data)} bytes, hash={img_hash[:8]}...)")
+                return f"/images/posts/{filename}"
+
+            except Exception as e:
+                print(f"  [Image] Attempt {attempt + 1} failed: {e}")
+                if attempt < max_retries - 1:
+                    time.sleep(5 * (attempt + 1))
+
+        print(f"  [Image] All {max_retries} attempts failed. Using fallback.")
+        return "/images/og-default.png"
 
     def download_image_to_bytes(self, image_path_or_url: str, static_dir: Path) -> Optional[bytes]:
         """
@@ -2315,28 +2481,33 @@ class TwitterPoster:
         hook_text: Optional[str] = None,
         summary_text: Optional[str] = None,
         question_text: Optional[str] = None,
+        image_path: Optional[str] = None,
+        static_dir: Optional[Path] = None,
     ) -> bool:
         """
         記事をTwitterに単一ツイートで投稿する（Premiumプラン対応）。
         
         Geminiが生成したtweet_textをそのまま使用し、URLとハッシュタグを付加。
         tweet_textがない場合（後方互換）はhook_text + summary_textでフォールバック。
+        画像がある場合はメディア付きツイートとして投稿（インプレッション2-3倍）。
 
         Args:
             title: 記事タイトル
-            url: 記事のURL (Twitterカードで自動的にOGP画像が表示される)
+            url: 記事のURL
             category: 記事カテゴリー
-            viral_tags: Geminiが選んだSNS拡散用ハッシュタグ（例: "#自作PC #ゲーミング"）
-            tweet_text: Gemini生成の完全なツイート本文（300-500文字）
+            viral_tags: Geminiが選んだSNS拡散用ハッシュタグ
+            tweet_text: Gemini生成の完全なツイート本文（400-600文字）
             hook_text: 冒頭のフック文（後方互換用フォールバック）
             summary_text: 3行要点（後方互換用フォールバック）
             question_text: リプライ誘発の質問文（後方互換用フォールバック）
+            image_path: 画像パス（/images/posts/xxx.jpg）
+            static_dir: staticディレクトリのパス
 
         Returns:
             投稿成功時True
         """
         try:
-            # ===== ハッシュタグ構成（Gemini生成2つ + 候補2つ = 4つ）=====
+            # ===== ハッシュタグ構成（2つに削減: 多すぎるとスパム判定される） =====
             import random
             tags_list = []
             gemini_tags = []
@@ -2348,22 +2519,23 @@ class TwitterPoster:
                     if tag.startswith('#') and tag not in big_words:
                         gemini_tags.append(tag)
             
-            # Gemini生成タグから最大2つ採用
-            tags_list.extend(gemini_tags[:2])
+            # Gemini生成タグから最大1つ採用（記事固有のタグ）
+            if gemini_tags:
+                tags_list.append(gemini_tags[0])
             
-            # カテゴリー別候補から2つ追加（合計4つになるまで）
+            # カテゴリー別候補から1つ追加（合計2つ）
             niche_options = NICHE_HASHTAGS_STR.get(category.value, NICHE_HASHTAGS_STR["NEWS"])
             shuffled = random.sample(niche_options, len(niche_options))
             for tag in shuffled:
-                if tag not in tags_list and len(tags_list) < 4:
+                if tag not in tags_list and len(tags_list) < 2:
                     tags_list.append(tag)
             
-            # まだ4つ未満なら固定タグで補完
+            # まだ2つ未満なら固定タグで補完
             for fixed_tag in FIXED_HASHTAGS:
-                if fixed_tag not in tags_list and len(tags_list) < 4:
+                if fixed_tag not in tags_list and len(tags_list) < 2:
                     tags_list.append(fixed_tag)
             
-            tag_str = ' '.join(tags_list[:4])
+            tag_str = ' '.join(tags_list[:2])
 
             # ===== ツイート本文構成（Gemini生成 or フォールバック） =====
             if tweet_text:
@@ -2385,8 +2557,29 @@ class TwitterPoster:
                 
                 full_tweet = '\n\n'.join(parts)
 
-            # ===== ツイート投稿（単一ツイート） =====
-            self.client.create_tweet(text=full_tweet)
+            # ===== メディアアップロード（画像付きツイート） =====
+            media_ids = None
+            if image_path and static_dir and image_path != "/images/og-default.png":
+                try:
+                    local_path = static_dir / image_path.lstrip("/")
+                    if local_path.exists():
+                        import tempfile
+                        # tweepyのmedia_uploadはファイルパスを受け取る
+                        media = self.api_v1.media_upload(filename=str(local_path))
+                        media_ids = [media.media_id]
+                        print(f"  [Twitter] Image uploaded: {image_path}")
+                    else:
+                        print(f"  [Twitter] Image not found: {local_path}")
+                except Exception as img_err:
+                    print(f"  [Twitter] Image upload failed (posting without image): {img_err}")
+                    media_ids = None
+
+            # ===== ツイート投稿（メディア付き or テキストのみ） =====
+            if media_ids:
+                self.client.create_tweet(text=full_tweet, media_ids=media_ids)
+                print(f"  [Twitter] Posted with image")
+            else:
+                self.client.create_tweet(text=full_tweet)
 
             return True
 
@@ -2555,6 +2748,70 @@ def inject_internal_links(body: str, related_articles: List[dict]) -> str:
     return body + section
 
 
+def inject_faq_schema(body: str, article_url: str) -> str:
+    """
+    記事本文から「## よくある質問」セクションを解析し、
+    FAQ構造化データ（JSON-LD）を記事末尾に挿入する。
+    Google検索のリッチスニペット（FAQ表示）に対応。
+    """
+    # よくある質問セクションを検出
+    faq_section_match = re.search(
+        r'##\s*よくある質問\s*\n(.*?)(?=\n##\s[^#]|\Z)',
+        body,
+        re.DOTALL
+    )
+    if not faq_section_match:
+        return body
+    
+    faq_text = faq_section_match.group(1)
+    
+    # Q&Aペアを抽出（### Q1: 質問 → 回答の形式）
+    qa_pairs = re.findall(
+        r'###\s*Q\d+:\s*(.+?)\n\n((?:(?!###).)+)',
+        faq_text,
+        re.DOTALL
+    )
+    
+    if not qa_pairs:
+        return body
+    
+    # JSON-LD生成
+    faq_items = []
+    for question, answer in qa_pairs:
+        q = question.strip()
+        a = answer.strip()
+        # マークダウン記法を除去
+        a = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', a)  # リンク除去
+        a = re.sub(r'[*_`]', '', a)  # 強調記法除去
+        a = re.sub(r'\n+', ' ', a)  # 改行をスペースに
+        
+        faq_items.append(f'''    {{
+      "@type": "Question",
+      "name": {json.dumps(q, ensure_ascii=False)},
+      "acceptedAnswer": {{
+        "@type": "Answer",
+        "text": {json.dumps(a, ensure_ascii=False)}
+      }}
+    }}''')
+    
+    if not faq_items:
+        return body
+    
+    schema = f'''
+<script type="application/ld+json">
+{{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+{",\\n".join(faq_items)}
+  ]
+}}
+</script>
+'''
+    
+    return body + schema
+
+
 # ============================================================
 # Hugo Markdown Writer
 # ============================================================
@@ -2634,6 +2891,7 @@ class TwitterQueueItem:
     hook_text: Optional[str] = None  # 後方互換用
     summary_text: Optional[str] = None  # 後方互換用
     question_text: Optional[str] = None  # 後方互換用
+    image_path: Optional[str] = None  # 画像パス（/images/posts/xxx.jpg）
     created_at: str = ""
 
 
@@ -2668,6 +2926,7 @@ class TwitterPostingQueue:
             "hook_text": item.hook_text,
             "summary_text": item.summary_text,
             "question_text": item.question_text,
+            "image_path": item.image_path,
             "created_at": item.created_at,
             "posted": False,
         })
@@ -2771,6 +3030,8 @@ def post_single_article_to_twitter(article_id: str) -> int:
             hook_text=item.get("hook_text"),
             summary_text=item.get("summary_text"),
             question_text=item.get("question_text"),
+            image_path=item.get("image_path"),
+            static_dir=repo_root / "static",
         )
 
         if success:
@@ -2793,13 +3054,41 @@ def post_all_pending_to_twitter() -> int:
     キュー内の未投稿記事をすべてXに投稿する。
     直近24時間以内に作成された記事のみ対象とする。
     
+    投稿管理:
+    - daily_stats.jsonで1日の投稿数を追跡
+    - MAX_TWEETS_PER_DAY(デフォルト100)まで投稿可能
+    - 画像付きツイートでインプレッション最大化
+    
     Usage: python auto_generate.py --post-all-twitter
     """
     print("=" * 60)
     print("Negi AI Lab - Post All Pending to X")
     print("=" * 60)
 
+    # 1日の最大投稿数（基本的に全記事投稿。クレジットは必要に応じて追加する方針）
+    MAX_TWEETS_PER_DAY = int(os.environ.get("MAX_TWEETS_PER_DAY", "100"))
+    # 画像アップロード有効（画像付きツイートはインプレッション2〜3倍）
+    ENABLE_IMAGE_UPLOAD = os.environ.get("ENABLE_IMAGE_UPLOAD", "true").lower() == "true"
+
     repo_root = Path(__file__).resolve().parent
+    
+    # 今日の投稿数を取得
+    stats_path = repo_root / "daily_stats.json"
+    today_str = get_daily_date()
+    daily_stats = {}
+    if stats_path.exists():
+        try:
+            daily_stats = json.loads(stats_path.read_text(encoding="utf-8"))
+        except Exception:
+            daily_stats = {}
+    
+    today_posted = daily_stats.get(today_str, {}).get("tweets_posted", 0)
+    remaining_budget = MAX_TWEETS_PER_DAY - today_posted
+    
+    if remaining_budget <= 0:
+        print(f"Daily tweet limit reached ({MAX_TWEETS_PER_DAY}/day). Skipping.")
+        return 0
+
     queue = TwitterPostingQueue(repo_root / "twitter_queue.json")
     all_pending = queue.get_pending()
 
@@ -2830,7 +3119,29 @@ def post_all_pending_to_twitter() -> int:
         print("No recent pending articles to post (all older than 24 hours).")
         return 0
 
-    print(f"Found {len(pending)} pending articles (within 24 hours).")
+    # 予算内に収まるように厳選（tweet_textがある記事を優先）
+    # 優先順位: tweet_text有り > hook_text有り > その他
+    def tweet_quality_score(item):
+        score = 0
+        if item.get("tweet_text"):
+            score += 100  # Gemini生成tweet_textがある = 高品質
+            # 長いtweet_textはさらに高スコア
+            score += min(len(item["tweet_text"]), 500) // 10
+        elif item.get("hook_text"):
+            score += 50
+        if item.get("image_path") and item["image_path"] != "/images/og-default.png":
+            score += 20  # 固有画像がある記事
+        return score
+    
+    pending.sort(key=tweet_quality_score, reverse=True)
+    selected = pending[:remaining_budget]
+    skipped = pending[remaining_budget:]
+    
+    print(f"Found {len(pending)} pending articles. Will post {len(selected)} (budget: {remaining_budget} remaining today).")
+    if skipped:
+        for item in skipped:
+            queue.mark_posted(item["article_id"])
+            print(f"  [BUDGET SKIP] {item['title'][:40]}...")
     print()
 
     if not is_twitter_configured() or not TWEEPY_AVAILABLE:
@@ -2841,7 +3152,7 @@ def post_all_pending_to_twitter() -> int:
     success_count = 0
     failed_count = 0
 
-    for item in pending:
+    for item in selected:
         print(f"Posting: {item['title'][:40]}...")
         
         category_map = {
@@ -2856,6 +3167,9 @@ def post_all_pending_to_twitter() -> int:
         if article_url != item.get("url"):
             queue.update_url(item["article_id"], article_url)
 
+        # 画像パス（画像付きツイートでインプレッション最大化）
+        image_path_for_post = item.get("image_path") if ENABLE_IMAGE_UPLOAD else None
+
         if poster.post_article(
             title=item["title"],
             url=article_url,
@@ -2865,6 +3179,8 @@ def post_all_pending_to_twitter() -> int:
             hook_text=item.get("hook_text"),
             summary_text=item.get("summary_text"),
             question_text=item.get("question_text"),
+            image_path=image_path_for_post,
+            static_dir=repo_root / "static",
         ):
             queue.mark_posted(item["article_id"])
             print(f"  ✓ Posted!")
@@ -2876,8 +3192,17 @@ def post_all_pending_to_twitter() -> int:
         # レート制限対策
         time.sleep(5)
 
+    # 今日の投稿数を更新
+    if today_str not in daily_stats:
+        daily_stats[today_str] = {}
+    daily_stats[today_str]["tweets_posted"] = today_posted + success_count
+    # 古いデータを削除（7日分のみ保持）
+    cutoff_date = (datetime.now(JST) - timedelta(days=7)).strftime("%Y-%m-%d")
+    daily_stats = {k: v for k, v in daily_stats.items() if k >= cutoff_date}
+    stats_path.write_text(json.dumps(daily_stats, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
     print()
-    print(f"Posted {success_count}/{len(pending)} articles.")
+    print(f"Posted {success_count}/{len(selected)} articles. (Total today: {today_posted + success_count}/{MAX_TWEETS_PER_DAY})")
     
     # 一部成功していれば成功扱い（重複エラー等は許容）
     return 0
@@ -3432,6 +3757,10 @@ def main() -> int:
                 result.body = inject_internal_links(result.body, related)
                 print(f"    Internal links: {len(related)} related articles linked")
 
+            # FAQ構造化データ挿入（Googleリッチスニペット対応）
+            article_url = f"{SITE_BASE_URL}/posts/{article_id}/"
+            result.body = inject_faq_schema(result.body, article_url)
+
             # Write file
             write_hugo_markdown(
                 out_path=out_path,
@@ -3482,6 +3811,7 @@ def main() -> int:
                 hook_text=result.hook_text,
                 summary_text=result.summary_text,
                 question_text=result.question_text,
+                image_path=image_path,
                 created_at=now_jst.isoformat(),
             ))
             print(f"    Queued for X posting: {article_id}")
@@ -3497,6 +3827,8 @@ def main() -> int:
                     hook_text=result.hook_text,
                     summary_text=result.summary_text,
                     question_text=result.question_text,
+                    image_path=image_path,
+                    static_dir=repo_root / "static",
                 ):
                     twitter_queue.mark_posted(article_id)
                     print(f"  ✓ Posted to X")

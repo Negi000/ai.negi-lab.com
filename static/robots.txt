@@ -4,17 +4,17 @@ Allow: /
 # サイトマップ
 Sitemap: https://ai.negi-lab.com/sitemap.xml
 
-# クロール頻度が高いページ
-# ホーム、記事一覧、カテゴリー
-
-# クロール不要なリソース
-Disallow: /images/
+# クロール不要なリソース（CSSとJSのみ。画像はGoogle Images流入のため許可）
 Disallow: /js/
 Disallow: /css/
 
 # 検索エンジンボット向け
 User-agent: Googlebot
 Allow: /
+Allow: /images/
+
+User-agent: Googlebot-Image
+Allow: /images/
 
 User-agent: Bingbot
 Allow: /

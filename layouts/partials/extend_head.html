@@ -8,6 +8,70 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
+{{/* ========================================= */}}
+{{/* JSON-LD 構造化データ（SEO強化） */}}
+{{/* ========================================= */}}
+
+{{- if .IsPage -}}
+{{/* Article Schema - 記事ページ用 */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title | jsonify }},
+  "description": {{ .Description | default .Summary | plainify | truncate 160 | jsonify }},
+  "datePublished": {{ .Date.Format "2006-01-02T15:04:05+09:00" | jsonify }},
+  "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05+09:00" | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": "Negi AI Lab",
+    "url": "https://ai.negi-lab.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Negi AI Lab",
+    "url": "https://ai.negi-lab.com/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://ai.negi-lab.com/images/og-default.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ .Permalink | jsonify }}
+  },
+  {{- with .Params.cover.image }}
+  "image": {{ (printf "https://ai.negi-lab.com%s" .) | jsonify }},
+  {{- else }}
+  "image": "https://ai.negi-lab.com/images/og-default.png",
+  {{- end }}
+  "articleSection": {{ with .GetTerms "categories" }}{{ (index . 0).LinkTitle | jsonify }}{{ else }}"Tech"{{ end }},
+  "keywords": [{{ range $i, $t := .GetTerms "tags" }}{{ if $i }}, {{ end }}{{ $t.LinkTitle | jsonify }}{{ end }}],
+  "inLanguage": "ja",
+  "wordCount": {{ .WordCount }}
+}
+</script>
+{{- end -}}
+
+{{- if .IsHome -}}
+{{/* WebSite Schema - トップページ用（サイトリンク検索ボックス） */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Negi AI Lab",
+  "url": "https://ai.negi-lab.com/",
+  "description": {{ site.Params.description | jsonify }},
+  "inLanguage": "ja",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://ai.negi-lab.com/search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{- end -}}
+
 {{/* Custom favicon - Add your favicon files to /static/ */}}
 {{/* <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> */}}
 {{/* <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"> */}}

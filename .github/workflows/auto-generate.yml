@@ -1,16 +1,19 @@
 name: Auto Generate AI News Articles
 
 on:
-  # スケジュール実行 (日本時間 02:03, 08:03, 12:03, 15:03, 18:03, 21:03)
-  # UTC換算: 17:03(-1), 23:03(-1), 03:03, 06:03, 09:03, 12:03
+  # スケジュール実行 (日本時間 02:03, 06:03, 09:03, 12:03, 15:03, 18:03, 21:03, 23:33)
+  # 8回/日: Xのアクティブ時間帯をカバーし投稿頻度を最大化
+  # UTC換算: 17:03(-1), 21:03(-1), 00:03, 03:03, 06:03, 09:03, 12:03, 14:33
   # ※0分は競争率が高いため3分に設定
   schedule:
-    - cron: '3 17 * * *'   # JST 02:03
-    - cron: '3 23 * * *'   # JST 08:03
-    - cron: '3 3 * * *'    # JST 12:03
-    - cron: '3 6 * * *'    # JST 15:03
-    - cron: '3 9 * * *'    # JST 18:03
-    - cron: '3 12 * * *'   # JST 21:03
+    - cron: '3 17 * * *'   # JST 02:03（深夜: 海外ニュースキャッチ）
+    - cron: '3 21 * * *'   # JST 06:03（早朝: 通勤前の情報収集層）
+    - cron: '3 0 * * *'    # JST 09:03（午前: エンジニア始業時間）
+    - cron: '3 3 * * *'    # JST 12:03（昼休み: 最もアクティブな時間帯）
+    - cron: '3 6 * * *'    # JST 15:03（午後）
+    - cron: '3 9 * * *'    # JST 18:03（帰宅時間: 高エンゲージメント）
+    - cron: '3 12 * * *'   # JST 21:03（夜: リラックスタイム）
+    - cron: '33 14 * * *'  # JST 23:33（深夜: 夜更かしエンジニア層）
   # 手動実行も可能
   workflow_dispatch:
     inputs:
@@ -168,10 +171,12 @@ jobs:
           TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
           TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          MAX_TWEETS_PER_DAY: '100'
+          ENABLE_IMAGE_UPLOAD: 'true'
         run: |
           echo "⏳ Waiting 60 seconds for deployment to propagate..."
           sleep 60
-          echo "🐦 Posting articles to X..."
+          echo "🐦 Posting articles to X (max $MAX_TWEETS_PER_DAY/day, images=$ENABLE_IMAGE_UPLOAD)..."
           python auto_generate.py --post-all-twitter || true
 
       # ==============================

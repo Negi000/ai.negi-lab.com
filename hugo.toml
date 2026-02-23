@@ -24,6 +24,27 @@ summaryLength = 120
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+# サイトマップ最適化
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+# 関連記事の精度向上（Hugo内蔵の関連コンテンツエンジン）
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+  [[related.indices]]
+    name = "categories"
+    weight = 100
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
 ########################################
 # PaperMod テーマ設定
 ########################################
