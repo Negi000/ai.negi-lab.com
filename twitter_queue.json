@@ -4320,5 +4320,31 @@
     "question_text": null,
     "created_at": "2026-02-23T08:32:35.977516+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-23-india-ai-impact-summit-2026-analysis-and-future",
+    "title": "インドAIインパクトサミットが突きつける「英語圏AI支配」の終焉と新たな生存戦略",
+    "url": "https://ai.negi-lab.com/posts/india-ai-impact-summit-2026-analysis-and-future/",
+    "category": "NEWS",
+    "viral_tags": "#IndiaAISummit #ソブリンAI",
+    "tweet_text": "まって、これガチで世界が変わる予感がします。インドで開催中のAIサミット、OpenAIやNvidiaのCEOが集結して発表された内容がエグすぎる...。\n\n私がSIerにいた5年前、インドは「受託開発の拠点」でした。でも今は違う。22言語に完全最適化した独自の「ソブリンAI」を構築し、トークナイザーの改良で推論コストを数分の一まで下げるという、国家レベルの生存戦略。これ、英語圏のAI支配が終わる歴史的転換点になるかもしれません。\n\n特に衝撃なのは、Nvidiaが数万基のGPUをインド国内に直接投入すること。AIの主権をシリコンバレーから奪い取る勢いです。日本も「使い方の議論」をしてる場合じゃない、このスピード感を直視しないと本当に置いていかれる。\n\n皆さんは、自国の文脈に特化した「特化型AI」と、今の「汎用AI」、どちらが今後の主役になると思いますか？感想リプで教えてください！\n\n詳細はこちらのブログで2500字超えのガチ解説書きました。\n[記事URL]",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-23T14:08:26.678157+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-23-woise-2-ai-voice-screen-recording-review",
+    "title": "Web制作やSaaS開発において、避けては通れないのが「操作説明」や「バグ報告」といったコミュニケーションコストの問題です。Woise（ウォイス）は、これまでの画面録画ツールの常識を塗り替え、AIによって「動画を撮るだけでマニュアルやドキュメントが完成する」状態を自動的に作り出すツールとして登場しました。",
+    "url": "https://ai.negi-lab.com/posts/woise-2-ai-voice-screen-recording-review/",
+    "category": "TOOL",
+    "viral_tags": "#Woise #生産性向上",
+    "tweet_text": "ぶっちゃけ、画面録画してマニュアル作るのって苦行じゃないですか？😭\n\nSIer時代、Excelにスクショを貼る不毛な作業で徹夜してた私からすると、この「Woise」はガチで救世主に見えます。録画ボタンを押して喋るだけで、AIが完璧なMarkdownドキュメントを生成してくれるんです。\n\n特筆すべきはAI音声補正。1000円のマイクでもスタジオ品質になります。しかもSDKが優秀で、Pythonから録画データを叩いて「自動でGitHub Issue作成」までいける。\n\n「動画を見る時間がない」という上司に、AIが要約したテキストだけ送りつける……そんなスマートな働き方が現実的になってきました。みなさんは動画での情報共有、どうしてますか？Loom派？それともテキスト派？リプで教えてください！",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-23T14:09:57.694105+09:00",
+    "posted": false
   }
 ]
