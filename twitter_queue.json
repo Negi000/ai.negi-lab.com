@@ -4411,5 +4411,33 @@
     "question_text": null,
     "created_at": "2026-02-23T22:21:06.762203+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-24-guide-labs-steerling-8b-interpretable-llm-review",
+    "title": "AIモデルの「ブラックボックス問題」を構造から解決する、Guide LabsのSteerling-8Bは開発現場の常識を塗り替える可能性があります。",
+    "url": "https://ai.negi-lab.com/posts/guide-labs-steerling-8b-interpretable-llm-review/",
+    "category": "NEWS",
+    "viral_tags": "#Steerling8B #可解釈AI",
+    "tweet_text": "ついにLLMの「中身がブラックボックス」という問題に終止符が打たれるかもしれません。Guide Labsが公開したSteerling-8Bは、従来のAIのように「確率」に頼るのではなく、モデル内部にある「誠実さ」や「専門性」といった概念のスイッチを直接操作できる全く新しいアーキテクチャを採用しています。\n\nSIer時代、顧客に「なぜAIがこの回答をしたのか」を説明できずに詰んだ経験がある身としては、この透明性は革命的と言わざるを得ません。プロンプトエンジニアリングで「おまじない」を唱える日々はもう終わり。これからはデバッガーで内部の活性化を見ながら、数値としてモデルを制御する時代になります。\n\n80億パラメータという軽量さながら、RTX 4090などのローカル環境でもサクサク動き、特定のバイアスを物理的に排除できる。この「解釈可能性」が、金融や医療といった失敗が許されない現場でどれだけ救世主になるか。\n\n皆さんの開発現場でも「なぜこの回答になったのか説明しろ」という無茶振りに困っていませんか？このモデルを使えば、ヒートマップを見せながら納得感のある説明ができるようになるはずです。実際に触ってみた方の感想や、特定の概念をいじった時の挙動の変化など、ぜひリプライで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-24T03:02:29.293650+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-24-siteline-growth-analytics-for-agentic-web",
+    "title": "Siteline AIエージェント時代のグロース分析ツール",
+    "url": "https://ai.negi-lab.com/posts/siteline-growth-analytics-for-agentic-web/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Siteline",
+    "tweet_text": "AIエージェントがウェブを操作するのが当たり前になる中、既存のGoogle Analyticsでは「AIの行動」を全く追いきれないという問題に直面しています。\n\nそこで注目したいのが「Siteline」です。これはまさにエージェントのためのGA。\n\n今まで「なぜかエージェントがこのページで離脱する」と頭を抱えていたエンジニアにとって、行動の意図やツール利用の成功率が定量化されるメリットは計り知れません。\n\n実際にSDKの仕様を確認しましたが、アクション単位での成功・失敗をメタデータ付きで飛ばせる設計は、LangChainやLangGraphを実務で回している層には刺さるはず。\n\n特に、モデルごとに「どっちがECサイトでの購入完了率が高いか」をABテストできる点は、ビジネスインパクトが極めて大きい。SIer時代にこんなツールがあれば、ボット対策とUX向上の板挟みで悩むこともなかったのに…。\n\n皆さんのプロジェクトでは、エージェントの「コンバージョン」をどう定義して計測していますか？GA4のボット除外をオフにするだけで耐えられていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-24T03:03:58.152959+09:00",
+    "posted": false
   }
 ]
