@@ -4385,5 +4385,31 @@
     "question_text": null,
     "created_at": "2026-02-23T18:57:43.538676+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-23-skillforge-screen-recording-to-ai-agent-skills",
+    "title": "画面録画をそのまま「AIエージェントの能力」に変換してしまう。SkillForgeが提示したこのコンセプトは、これまで自動化を諦めていたすべてのエンジニアやバックオフィス担当者にとって、福音になるかもしれません。",
+    "url": "https://ai.negi-lab.com/posts/skillforge-screen-recording-to-ai-agent-skills/",
+    "category": "TOOL",
+    "viral_tags": "#SkillForge #AIAgent",
+    "tweet_text": "「エンジニアが数日かけて書く自動化コード、30秒の動画で終わるかも…」\n\n画面録画をそのままAIエージェントのスキルに変換する「SkillForge」が凄すぎます。\n\n元SIerとして、APIのないレガシーシステムとの格闘に明け暮れた日々を思い出して震えました。これ、動画を読み込ませるだけで「ここをクリックして、これを入力して」というロジックをAIが勝手に生成してくれるんです。\n\n単なるマクロの記録じゃなくて、AIが『意図』を理解してコード化するのがポイント。ボタンの位置が変わっても対応できる柔軟性は、これまでのRPAとは次元が違います。\n\nみなさんは、社内の「これ自動化したいけど面倒すぎて放置してる業務」ってありませんか？私はありすぎて書ききれません（笑）。\n\nレビュー記事を書きました。具体的なコード例や、SIer視点での本音をまとめています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-23T22:18:29.918555+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-23-qwen3-voice-embeddings-cloning-guide",
+    "title": "Qwen3の音声エンベディング機能を活用し、わずか数秒の音声サンプルから高精度なボイスクローンを作成して対話システムを構築する方法を解説します。この記事を最後まで読めば、従来のような膨大な学習データなしに、特定の誰かの声でAIを喋らせるための具体的な実装手順がすべて理解できるはずです。",
+    "url": "https://ai.negi-lab.com/posts/qwen3-voice-embeddings-cloning-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen3 #ローカルLLM",
+    "tweet_text": "ローカルLLM界隈で「Qwen3」の進化が止まりませんが、中でも一番過小評価されているのが「音声エンベディング」機能。これ、ガチで凄いです。\n\nかつて数時間の録音と数日の学習が必要だったボイスクローンが、今や「5秒の音声」を食わせるだけで完了します。しかも推論時にエンベディングを流し込むだけ。\n\nSIer時代、音声合成の導入に数ヶ月かけていた苦労は何だったのか…と震えました。特定のキャラクターや自分の声でAIを喋らせたいなら、Qwen3のオーディオモデル一択かもしれません。\n\n「でも設定難しそう」と思うかもしれませんが、Pythonコード数行で実装可能です。\n今回は環境構築から、特徴量抽出、エラー回避のコツまで徹底解説しました。\n\nみなさんはAIに「誰の声」を学習させてみたいですか？私は自分の声をAI化して、深夜のデバッグ作業を励ましてもらおうと思います（笑）",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-23T22:21:06.762203+09:00",
+    "posted": false
   }
 ]
