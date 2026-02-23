@@ -4359,5 +4359,31 @@
     "question_text": null,
     "created_at": "2026-02-23T16:09:25.770917+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-23-trump-ai-energy-coal-plant-pollution-mats",
+    "title": "AIの進化が私たちの生活を豊かにする一方で、その裏側では「電力」という極めて物理的で泥臭い課題が、国家レベルの政策を大きく揺り動かしています。",
+    "url": "https://ai.negi-lab.com/posts/trump-ai-energy-coal-plant-pollution-mats/",
+    "category": "NEWS",
+    "viral_tags": "#AIエネルギー危機 #トランプ政権の環境政策",
+    "tweet_text": "AIのために空気を汚す選択。これ、皆さんはどう感じますか？\n\nトランプ政権が、AIデータセンターの電力不足を補うために、石炭火力発電所の水銀排出規制（MATS）を撤廃する方針を固めました。SIer時代、インフラの重要性は嫌というほど見てきましたが、今回の「毒性物質を許容してでもAIを回す」という決断には、正直強い危機感を覚えます。\n\nGPU1枚の消費電力が爆上がりする中、テック企業が掲げる「クリーンなAI」という理想が、古い石炭の煙に消えようとしています。私たちは「速い回答」と「きれいな空気」のどちらを選ぶべきなのか。\n\n正直、これは技術革新の敗北に近い気がしてなりません。効率化を諦めて物量で押し切るやり方は、長期的には業界全体の首を絞めるはず。みなさんの意見、リプ欄で教えてください。\n\n#AIエネルギー #データセンター #トランプ政権 #環境問題",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-23T18:55:57.705451+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-23-callio-ai-agent-api-integration-review",
+    "title": "API連携の泥臭い作業をAIに丸投げできる「Callio」が、エージェント開発の常識を塗り替えるかもしれません。",
+    "url": "https://ai.negi-lab.com/posts/callio-ai-agent-api-integration-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Callio",
+    "tweet_text": "AIエージェント開発で一番心が折れるのって、実は「APIのつなぎ込み」じゃないですか？\n\nJSONスキーマを延々と書き、認証周りでハマり、プロンプトを微調整する……。SIer時代にこんな苦行を繰り返していた自分に、今すぐ「Callio」を教えたいです。\n\nこれ、APIを登録するだけでAIが即座に使える「スキル」に変えてくれるミドルウェア。検証してみたけど、マジで5分でツール接続が終わるスピード感。Function Callingのコードを自前で書く時代は、もう終わるかもしれません。\n\nでも、便利すぎる反面「セキュリティやSPOFのリスクはどうなの？」という懸念も正直あります。皆さんはAIに社内APIを叩かせる時、どこまで外部ツールを許容できますか？リプライで本音を聞かせてください！\n\n詳細はブログで深掘りしました👇",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "created_at": "2026-02-23T18:57:43.538676+09:00",
+    "posted": false
   }
 ]
