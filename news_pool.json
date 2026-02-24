@@ -1,99 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Mozart for iOS",
-      "url": "https://www.producthunt.com/products/mozart-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Make a song and a music video while you're on the go </p> <p> <a href=\"https://www.producthunt.com/products/mozart-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079822?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-18T02:55:22"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "OpenGraph+",
-      "url": "https://www.producthunt.com/products/opengraph",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Automatic Open Graph images for every page </p> <p> <a href=\"https://www.producthunt.com/products/opengraph?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080688?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-18T02:55:22"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I gave 12 LLMs $2,000 and a food truck. Only 4 survived.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r77swh/i_gave_12_llms_2000_and_a_food_truck_only_4/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-17T14:42:06+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r77swh/i_gave_12_llms_2000_and_a_food_truck_only_4/\"> <img alt=\"I gave 12 LLMs $2,000 and a food truck. Only 4 survived.\" src=\"https://preview.redd.it/4sewtkexf2kg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0f7608e083eece043f2953690650ad7c16596a5\" title=\"I gave 12 LLMs $2,000 and a food truck. Only 4 survived.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Built a business sim where AI agents run a food truck f",
-      "extra": {},
-      "collected_at": "2026-02-18T02:55:25"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Car Wash Test on 53 leading models: “I want to wash my car. The car wash is 50 meters away. Should I walk or drive?”",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r7c7zg/car_wash_test_on_53_leading_models_i_want_to_wash/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-17T17:16:18+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r7c7zg/car_wash_test_on_53_leading_models_i_want_to_wash/\"> <img alt=\"Car Wash Test on 53 leading models: “I want to wash my car. The car wash is 50 meters away. Should I walk or drive?”\" src=\"https://preview.redd.it/je57sbwb43kg1.png?width=140&amp;height=121&amp;auto=webp&amp;s=e7ce1b3de0d48928a1de60cdf23dd848d2141ef5\" title=\"Car Wash Test on 53 leading models: “I want to wash my car. The car wash is 50 meters away. Should ",
-      "extra": {},
-      "collected_at": "2026-02-18T02:55:25"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen 3.5 397B is Strong one!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r79dcd/qwen_35_397b_is_strong_one/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-17T15:41:44+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I rarely post here but after poking at latest Qwen I felt like sharing my &quot;vibes&quot;. I did bunch of my little tests (thinking under several constraints) and it performed really well.<br /> But what is really good is fact that it is capable of good outputs even without thinking!<br /> Some latest models depend on thinking part really much and that makes them ie 2x more expensive.<br /> It also seems this model is capable of cheap inference +- 1$ .<br /> D",
-      "extra": {},
-      "collected_at": "2026-02-18T02:55:25"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Alibaba's new Qwen3.5-397B-A17B is the #3 open weights model in the Artificial Analysis Intelligence Index",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r7bf1l/alibabas_new_qwen35397ba17b_is_the_3_open_weights/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-17T16:49:25+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r7bf1l/alibabas_new_qwen35397ba17b_is_the_3_open_weights/\"> <img alt=\"Alibaba's new Qwen3.5-397B-A17B is the #3 open weights model in the Artificial Analysis Intelligence Index\" src=\"https://preview.redd.it/b5eytfmy33kg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a91c254a446d622c39a0be55a5a8d80f79c11886\" title=\"Alibaba's new Qwen3.5-397B-A17B is the #3 open weights model in the Artificial Analysis Intelligence Index\" ",
-      "extra": {},
-      "collected_at": "2026-02-18T02:55:25"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.5 NVFP4 (Blackwell) is up!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r77fz7/qwen35_nvfp4_blackwell_is_up/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-17T14:27:43+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Quantized with NVIDIA's Model Optimizer to FP4. Checkpoint is ~224GB total, 17B active parameters. Apache 2.0 license.</p> <p><strong>HF:</strong> <a href=\"https://huggingface.co/vincentzed-hf/Qwen3.5-397B-A17B-NVFP4\">vincentzed-hf/Qwen3.5-397B-A17B-NVFP4</a></p> <hr /> <p><strong>Install</strong></p> <p>You need SGLang from a specific branch that fixes visual encoder weight handling during quantized inference: (Basically, it was trying to quantize the vision we",
-      "extra": {},
-      "collected_at": "2026-02-18T02:55:25"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude Sonnet 4.6",
       "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
@@ -2757,19 +2664,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Anima",
-      "url": "https://www.producthunt.com/products/anima-app",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI that turns designs into pixel-perfect frontend </p> <p> <a href=\"https://www.producthunt.com/products/anima-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078620?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-24T22:18:22"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Toggle for OpenClaw",
       "url": "https://www.producthunt.com/products/togglex-openclaw",
       "primary_category": "TOOL",
@@ -2930,7 +2824,113 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rdg3dv/qwen_35_new_models_released_on_their_website/\"> <img alt=\"Qwen 3.5 new models released on their website!\" src=\"https://preview.redd.it/xg1r9pzb1glg1.png?width=140&amp;height=89&amp;auto=webp&amp;s=a5adfa472aa1954b976aa402b8ca18b29bcae0fd\" title=\"Qwen 3.5 new models released on their website!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://chat.qwen.ai/\">https://chat.qwen.ai/</a></p> <p><a href=\"h",
       "extra": {},
       "collected_at": "2026-02-25T00:34:05"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
+      "url": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Tue, 24 Feb 2026 17:44:34 +0000",
+      "summary": "Earlier this month, OpenAI launched a new platform called OpenAI Frontier for enterprises to build and manage agents, but OpenAI COO Brad Lightcap said that businesses haven&#8217;t yet seen AI adoption at scale. &#8220;One of the interesting things and some of the inspiration for the work we&#8217;ve been doing lately around OpenAI Frontier is we [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-25T02:55:50"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Music generator ProducerAI joins Google Labs",
+      "url": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Tue, 24 Feb 2026 16:57:21 +0000",
+      "summary": "Wyclef Jean used Google's AI music tools on his new song \"Back in Abu Dhabi.\"",
+      "extra": {},
+      "collected_at": "2026-02-25T02:55:50"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Stash or Pass",
+      "url": "https://www.producthunt.com/products/stash-or-pass",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Simple tool to review portfolios and stash the ones you like </p> <p> <a href=\"https://www.producthunt.com/products/stash-or-pass?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1084277?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-25T02:55:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Skills for Agents",
+      "url": "https://www.producthunt.com/products/skills-for-agents",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> One-click AI skills for your business </p> <p> <a href=\"https://www.producthunt.com/products/skills-for-agents?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1084377?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-25T02:55:54"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen/Qwen3.5-122B-A10B · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rdlc02/qwenqwen35122ba10b_hugging_face/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-24T16:44:13+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rdlc02/qwenqwen35122ba10b_hugging_face/\"> <img alt=\"Qwen/Qwen3.5-122B-A10B · Hugging Face\" src=\"https://external-preview.redd.it/jXshLXVh7iCkI_DkUnvVFkKtp2L9P6wekJnwAzaRzjM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=298bac8d8df642a16a7b098a721723a8766a21d8\" title=\"Qwen/Qwen3.5-122B-A10B · Hugging Face\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/coder543\"> /u/coder543 </a> <br /> <sp",
+      "extra": {},
+      "collected_at": "2026-02-25T02:55:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Small Qwen Models OUT!!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rdldt6/small_qwen_models_out/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-24T16:46:04+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rdldt6/small_qwen_models_out/\"> <img alt=\"Small Qwen Models OUT!!\" src=\"https://external-preview.redd.it/9t9hISbgGxfk479gTZKF1XJ1oO6QhRPmNzUYpMNUbjs.png?width=140&amp;height=75&amp;auto=webp&amp;s=07ee849a2771234906d2f3006e02703938fcc784\" title=\"Small Qwen Models OUT!!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/Qwen/Qwen3.5-35B-A3B\">https://huggingface.co/Qwen/Qwen3.5-35B-A3B</a></p>",
+      "extra": {},
+      "collected_at": "2026-02-25T02:55:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen/Qwen3.5-35B-A3B · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rdlbvc/qwenqwen3535ba3b_hugging_face/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-24T16:44:05+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rdlbvc/qwenqwen3535ba3b_hugging_face/\"> <img alt=\"Qwen/Qwen3.5-35B-A3B · Hugging Face\" src=\"https://external-preview.redd.it/9t9hISbgGxfk479gTZKF1XJ1oO6QhRPmNzUYpMNUbjs.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4846b1e5fd750530b9aa43eb95e74460e90d4ec\" title=\"Qwen/Qwen3.5-35B-A3B · Hugging Face\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ekojsalim\"> /u/ekojsalim </a> <br /> <span><",
+      "extra": {},
+      "collected_at": "2026-02-25T02:55:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "How it feels listening to Anthropic complain about competitors distilling their models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rdl76d/how_it_feels_listening_to_anthropic_complain/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-24T16:39:19+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rdl76d/how_it_feels_listening_to_anthropic_complain/\"> <img alt=\"How it feels listening to Anthropic complain about competitors distilling their models\" src=\"https://preview.redd.it/uz8fkvgj0hlg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d33bda9a766d265d4f32d4d5cadaa3ad5c033dd\" title=\"How it feels listening to Anthropic complain about competitors distilling their models\" /> </a> </td><td> &#32; submitted by &#32; <a",
+      "extra": {},
+      "collected_at": "2026-02-25T02:55:57"
     }
   ],
-  "updated_at": "2026-02-25T00:34:05.611991+09:00"
+  "updated_at": "2026-02-25T02:55:57.517024+09:00"
 }

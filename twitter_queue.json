@@ -4537,5 +4537,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-25T00:34:32.522360+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-02-25-openai-frontier-enterprise-ai-agent-penetration",
+    "title": "OpenAI Frontier発表も企業導入は足踏み Brad Lightcap氏が語る「真のAI浸透」への壁",
+    "url": "https://ai.negi-lab.com/posts/openai-frontier-enterprise-ai-agent-penetration/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAIFrontier #AIエージェント",
+    "tweet_text": "OpenAIのCOO、ブラッド・ライトキャップ氏の「AIはまだ企業プロセスに浸透していない」という発言。これ、SIer出身の私からするとめちゃくちゃ腑に落ちます。\n\n結局、チャットで要約や翻訳をしてるだけじゃ「導入」とは呼べないんですよね。現場で必要なのは、既存のERPやCRMと同期して、自律的に動く「エージェント」の存在。\n\n今回発表されたOpenAI Frontierは、まさにその「AIをシステムの一部に変える」ためのオーケストレーション層を狙いにきています。\n\nこれまでのStatelessなAPI利用から、Statefulなエージェント運用へ。このパラダイムシフトを理解しないと、AI活用はPoCで終わります。\n\n正直、モデルの性能競争はもう飽和気味。これからは「どう動かすか」「どう管理するか」の勝負。開発者が今すぐ準備すべき具体的なアクションをまとめました。\n\n3ヶ月後には、チャットボットという言葉自体が古くなっているかもしれません。現場で「本当に使えるAI」を構築したい人は、この記事を深く読み込んでみてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-25T02:56:35.049415+09:00",
+    "posted": false
   }
 ]
