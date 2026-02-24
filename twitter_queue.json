@@ -4523,5 +4523,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-24T22:21:53.115914+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-02-25-anima-app-design-to-code-review",
+    "title": "Anima 使い方：デザインを商用レベルのReactコードへ変換する",
+    "url": "https://ai.negi-lab.com/posts/anima-app-design-to-code-review/",
+    "category": "TOOL",
+    "viral_tags": "#Anima #FigmaToCode",
+    "tweet_text": "SIer時代、Excelの画面設計書を1枚ずつReactに手書きしていた苦行は何だったのか...。Animaを1週間ガチで検証したけど、Figmaから吐き出されるTailwind CSSのコードが予想以上にクリーンで驚いた。\n\n以前の「自動生成コード」は正直使い物にならなかったけど、今のUX Design Agentは文脈を読んでセマンティックなタグを選んでくれる。FigmaでAuto Layoutを徹底しているチームなら、フロントエンドの初期実装工数は余裕で50%以上削れるはず。\n\nもちろん魔法じゃないから、デザイン側が汚いとそれなりのコードしか出ない。でも、デザイナーと「エンジニアが読みやすいFigma」の合意が取れていれば、これは強力な武器になる。React 18以降のコンポーネント分割にも対応してるし、TypeScriptの型定義も悪くない。\n\nRTX 4090を2枚挿してローカルLLMを回す日々だけど、こういう特定のワークフローに特化したSaaSの進化は無視できない。Figmaハンドオフの摩擦で疲弊してるエンジニア、一度本気で触ってみる価値ありますよ。\n\n実際に業務で導入した人、デザイナーとの命名規則の運用どうしてます？手直しの方が多くなったりしませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-25T00:34:32.522360+09:00",
+    "posted": false
   }
 ]
