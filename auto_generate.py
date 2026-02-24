@@ -2797,13 +2797,14 @@ def inject_faq_schema(body: str, article_url: str) -> str:
     if not faq_items:
         return body
     
+    joiner = ",\n"
     schema = f'''
 <script type="application/ld+json">
 {{
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-{",\\n".join(faq_items)}
+{joiner.join(faq_items)}
   ]
 }}
 </script>

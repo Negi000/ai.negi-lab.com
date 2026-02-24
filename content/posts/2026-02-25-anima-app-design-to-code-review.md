@@ -156,14 +156,16 @@ anima tokens import tokens.json
         "@type": "Answer",
         "text": "はい、ある程度可能です。Figmaの「Smart Animate」で設定した遷移は、CSSアニメーションやFramer Motionのコードとして出力できます。ただし、複雑すぎるイージングは微調整が必要になるケースが多いです。"
       }
-    },\n    {
+    },
+    {
       "@type": "Question",
       "name": "料金プランはどのようになっていますか？",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "無料プランでも基本的なコード書き出しは試せますが、商用利用やCLIツールの活用、高度なAIエージェント機能を使うにはProプラン（月額$31〜）が必要です。開発工数を月数時間削れれば十分に元が取れる金額感です。"
       }
-    },\n    {
+    },
+    {
       "@type": "Question",
       "name": "日本語のデザインデータでも問題なく動作しますか？",
       "acceptedAnswer": {
