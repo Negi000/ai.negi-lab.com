@@ -1,73 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "NVIDIA PersonaPlex",
-      "url": "https://www.producthunt.com/products/nvidia",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Natural Conversational AI With Any Role and Voice </p> <p> <a href=\"https://www.producthunt.com/products/nvidia?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079988?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-17T08:34:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "HookWatch",
-      "url": "https://www.producthunt.com/products/hookwatch",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Automated webhook monitoring for indie hackers & small teams </p> <p> <a href=\"https://www.producthunt.com/products/hookwatch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078368?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-17T08:34:02"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen 3.5 goes bankrupt on Vending-Bench 2",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r6ghty/qwen_35_goes_bankrupt_on_vendingbench_2/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-16T17:49:21+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r6ghty/qwen_35_goes_bankrupt_on_vendingbench_2/\"> <img alt=\"Qwen 3.5 goes bankrupt on Vending-Bench 2\" src=\"https://preview.redd.it/dj0x1zeo9wjg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e961cc9b6b922483e81871381dc9dca90d6aae60\" title=\"Qwen 3.5 goes bankrupt on Vending-Bench 2\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Deep-Vermicelli-4591\"> /u/Deep-Vermicelli-4591 </a> <br /> <s",
-      "extra": {},
-      "collected_at": "2026-02-17T08:34:05"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Difference Between QWEN 3 Max-Thinking and QWEN 3.5 on a Spatial Reasoning Benchmark (MineBench)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r6h3ha/difference_between_qwen_3_maxthinking_and_qwen_35/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-16T18:10:29+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r6h3ha/difference_between_qwen_3_maxthinking_and_qwen_35/\"> <img alt=\"Difference Between QWEN 3 Max-Thinking and QWEN 3.5 on a Spatial Reasoning Benchmark (MineBench)\" src=\"https://preview.redd.it/6q4jnllcdwjg1.gif?frame=1&amp;width=140&amp;height=78&amp;auto=webp&amp;s=417f825a142e023132f72a89b718db9c2b167d19\" title=\"Difference Between QWEN 3 Max-Thinking and QWEN 3.5 on a Spatial Reasoning Benchmark (MineBench)\" /> </a> </",
-      "extra": {},
-      "collected_at": "2026-02-17T08:34:05"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "4 of the top 5 most used models on OpenRouter this week are Open Source!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r6g14s/4_of_the_top_5_most_used_models_on_openrouter/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-16T17:32:44+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r6g14s/4_of_the_top_5_most_used_models_on_openrouter/\"> <img alt=\"4 of the top 5 most used models on OpenRouter this week are Open Source!\" src=\"https://preview.redd.it/54xxp91s6wjg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=10b8a71332018921514258bd081fc7ed68e28e72\" title=\"4 of the top 5 most used models on OpenRouter this week are Open Source!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.co",
-      "extra": {},
-      "collected_at": "2026-02-17T08:34:05"
-    },
-    {
       "source": "HN AI Hot",
       "title": "The long tail of LLM-assisted decompilation",
       "url": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
@@ -2725,19 +2658,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Guide Labs debuts a new kind of interpretable LLM",
-      "url": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "Mon, 23 Feb 2026 17:53:28 +0000",
-      "summary": "The company open-sourced an 8 billion parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
-      "extra": {},
-      "collected_at": "2026-02-24T03:01:22"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
       "url": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
       "primary_category": "NEWS",
@@ -2773,19 +2693,6 @@
       ],
       "published": "Tue, 10 Feb 2026 08:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFhkcVd2Nk5KNXZCbVBTblhGUGJIYWJUOXozWXdjOXJzWWhfMmc4cDBJWmVHTTFHYTZmZ2I4VHhISTRERVI3R2FMU2d0VHZaRzdIdzZsdUF3WjBsOE04N0trc2hvY2JybW5NN2tNOV9jdjlHR3FzV2VrSXo4Zkc1NTk3TGoyc3pDVzZwRkFueDVsX3Y2MGJIaWplTl9CVWhUYVVwVg?oc=5\" target=\"_blank\">Vertex AI の Claude Opus 4.6 を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Google Cloud</font>",
-      "extra": {},
-      "collected_at": "2026-02-24T03:01:35"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Siteline",
-      "url": "https://www.producthunt.com/products/siteline",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Growth analytics for the agentic web </p> <p> <a href=\"https://www.producthunt.com/products/siteline?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080416?app_id=339\">Link</a> </p>",
       "extra": {},
       "collected_at": "2026-02-24T03:01:35"
     },
@@ -2841,7 +2748,177 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rcnv9h/glm5_is_the_new_top_openweights_model_on_the/\"> <img alt=\"GLM-5 is the new top open-weights model on the Extended NYT Connections benchmark, with a score of 81.8, edging out Kimi K2.5 Thinking (78.3)\" src=\"https://preview.redd.it/t89mf46o4alg1.png?width=140&amp;height=89&amp;auto=webp&amp;s=6d3e242b7e37ab99694926c9cefb58fae2a90e45\" title=\"GLM-5 is the new top open-weights model on the Extended NYT Connections benchmar",
       "extra": {},
       "collected_at": "2026-02-24T03:01:38"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+      "url": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 24 Feb 2026 00:57:14 +0000",
+      "summary": "The viral X post from an AI security researcher reads like satire. But it's really a word of warning about what can go wrong when handing tasks to an AI agent.",
+      "extra": {},
+      "collected_at": "2026-02-24T11:47:26"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
+      "url": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 23 Feb 2026 21:46:41 +0000",
+      "summary": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
+      "extra": {},
+      "collected_at": "2026-02-24T11:47:26"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+      "url": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 23 Feb 2026 19:57:27 +0000",
+      "summary": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
+      "extra": {},
+      "collected_at": "2026-02-24T11:47:26"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+      "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 23 Feb 2026 22:11:34 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-02-24T11:47:27"
+    },
+    {
+      "source": "Google News",
+      "title": "OpenAIの「Stargate」管理権を巡りソフトバンクやOpenAIが争っていたとの報道 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OTnFsbWR1U0RfMVdhRG5MeHF5M29JYmFXS1lyWmdUNm9BWVcyMDBVZFlYMGZ3c0FvTnVVY2Y1U3FxM3JucWQ2cGppejZpT2dBM0RvcEhFSGs2eFVPaS1Z?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 24 Feb 2026 02:35:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OTnFsbWR1U0RfMVdhRG5MeHF5M29JYmFXS1lyWmdUNm9BWVcyMDBVZFlYMGZ3c0FvTnVVY2Y1U3FxM3JucWQ2cGppejZpT2dBM0RvcEhFSGs2eFVPaS1Z?oc=5\" target=\"_blank\">OpenAIの「Stargate」管理権を巡りソフトバンクやOpenAIが争っていたとの報道</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {},
+      "collected_at": "2026-02-24T11:47:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "TypeBoost",
+      "url": "https://www.producthunt.com/products/typeboost-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your personal AI writing toolkit. Inside any app. </p> <p> <a href=\"https://www.producthunt.com/products/typeboost-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1007145?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-24T11:47:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Shepherd",
+      "url": "https://www.producthunt.com/products/shepherd-7",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Focus & Productivity Time Tracker </p> <p> <a href=\"https://www.producthunt.com/products/shepherd-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076700?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-24T11:47:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AnnotateAI",
+      "url": "https://www.producthunt.com/products/annotateai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Human-guided AI data annotation, fast & scalable </p> <p> <a href=\"https://www.producthunt.com/products/annotateai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083975?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-24T11:47:29"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Anthropic: \"We’ve identified industrial-scale distillation attacks on our models by DeepSeek, Moonshot AI, and MiniMax.\" 🚨",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rcpmwn/anthropic_weve_identified_industrialscale/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-23T18:32:45+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rcpmwn/anthropic_weve_identified_industrialscale/\"> <img alt=\"Anthropic: &quot;We’ve identified industrial-scale distillation attacks on our models by DeepSeek, Moonshot AI, and MiniMax.&quot; 🚨\" src=\"https://preview.redd.it/94fbimavfalg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2ad159232448ffd7033d6be4fa96582b674e461\" title=\"Anthropic: &quot;We’ve identified industrial-scale distillation attacks on our models by De",
+      "extra": {},
+      "collected_at": "2026-02-24T11:47:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Distillation when you do it. Training when we do it.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rcvimv/distillation_when_you_do_it_training_when_we_do_it/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-23T22:04:41+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rcvimv/distillation_when_you_do_it_training_when_we_do_it/\"> <img alt=\"Distillation when you do it. Training when we do it.\" src=\"https://preview.redd.it/9rc0jqbohblg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=05481c4cef786a02ca1e5d0b968e61114727348f\" title=\"Distillation when you do it. Training when we do it.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Xhehab_\"> /u/Xhehab_ </a> <",
+      "extra": {},
+      "collected_at": "2026-02-24T11:47:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Fun fact: Anthropic has never open-sourced any LLMs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rcseh1/fun_fact_anthropic_has_never_opensourced_any_llms/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-23T20:10:06+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been working on a little side project comparing tokenizer efficiency across different companies’ models for multilingual encoding.</p> <p>Then I saw Anthropic’s announcement today and suddenly realized: there’s no way to analyze claude’s tokenizer lmao!</p> <p>edit: Google once mentioned in a paper that Gemma and Gemini share the same tokenizer. OpenAI has already open‑sourced their tokenizers (and gpt‑oss). And don’t even get me started on Llama (Llama 5 p",
+      "extra": {},
+      "collected_at": "2026-02-24T11:47:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Hypocrisy?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rcrb2k/hypocrisy/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-23T19:31:17+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rcrb2k/hypocrisy/\"> <img alt=\"Hypocrisy?\" src=\"https://preview.redd.it/jxutlq8bqalg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=59d78bab536255787ed1f0bc277f2a7f6d5aea3b\" title=\"Hypocrisy?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pmv143\"> /u/pmv143 </a> <br /> <span><a href=\"https://i.redd.it/jxutlq8bqalg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Loca",
+      "extra": {},
+      "collected_at": "2026-02-24T11:47:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "American vs Chinese AI is a false narrative.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rd1lmz/american_vs_chinese_ai_is_a_false_narrative/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-24T01:57:22+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>TL;DR:</strong> The real war (<strong><em>IF</em></strong> there is one) is between closed source and open source. Don't fall/propagate the America vs China narrative which is just tactics to get investors to loosen pursestrings and lawmakers/politicians to acquiesce to demands. </p> <hr /> <p>There's been an uptick of nationalistic posts (mostly in defense of Chinese AI) on this sub and I think its very important to stop false narratives and reset it to",
+      "extra": {},
+      "collected_at": "2026-02-24T11:47:32"
     }
   ],
-  "updated_at": "2026-02-24T03:01:38.641614+09:00"
+  "updated_at": "2026-02-24T11:47:32.700756+09:00"
 }

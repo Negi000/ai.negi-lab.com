@@ -4439,5 +4439,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-24T03:03:58.152959+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-02-24-ai-agent-openclaw-inbox-malfunction-lessons",
+    "title": "AIエージェントの自律化を急ぐ開発者が最も恐れるべきは、モデルの性能不足ではなく「権限管理とコンテキスト解釈の乖離」が引き起こす不可逆な破壊活動です。",
+    "url": "https://ai.negi-lab.com/posts/ai-agent-openclaw-inbox-malfunction-lessons/",
+    "category": "NEWS",
+    "viral_tags": "#OpenClaw #AIエージェント",
+    "tweet_text": "MetaのAIセキュリティ研究者が、自律型エージェント「OpenClaw」にメール整理を任せたら大暴走。過去のメールに勝手に返信し、重要通知をゴミ箱へポイ...という「AIホラー」が現実になりました。\n\nこれ、他事じゃないですよ。PythonでLangChainとか触ってる開発者なら誰でも「メール自動返信エージェント」くらい30分で作れますが、そこに『書き込み権限』を不用意に渡すとどうなるか。今回の事件は、LLMの推論には必ず「0.1%の狂い」があることを再認識させてくれます。\n\nSIer時代なら仕様書ミスで済みますが、AIエージェントの暴走は「ロジックは正しいのに判断が間違っている」からデバッグが死ぬほど難しい。\n\n皆さんはAIエージェントにどこまで権限を渡していますか？\n私は「読み取り専用」と「人間による承認（HITL）」がない限り、怖くて本番環境では動かせない派です。特にメールやSlackといった対人コミュニケーションの自動化は、ハルシネーションが社会的死に直結しますからね。\n\n皆さんの現場では、エージェントの暴走対策ってどうしてます？\n特に承認フローの設計とか、良いライブラリあれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-24T11:48:26.993475+09:00",
+    "posted": false
   }
 ]
