@@ -4467,5 +4467,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-24T14:01:27.549242+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-02-24-canva-acquires-animation-marketing-startups-analysis",
+    "title": "Canvaがアニメーションと分析企業を買収しAdobeの牙城を崩しにかかる",
+    "url": "https://ai.negi-lab.com/posts/canva-acquires-animation-marketing-startups-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Canva #動画マーケティング",
+    "tweet_text": "SIer時代、動画広告を1本作るのにデザイナーと分析チームの間で何度も修正のラリーをして、結局リリースまで2週間かかっていた苦労は何だったのか…。\n\nCanvaがアニメーションとマーケティング分析のスタートアップを同時買収。これ、単なる機能追加じゃない。デザインツールが「広告代理店の脳」を持ち始めたってことです。\n\n具体的には、物理エンジンによる自然な動画生成と、視聴者の視線を予測して効果を測定するAIが統合されます。RTX 4090を2枚挿してローカルで動画生成を回している身からしても、この「作って即分析」のループがSaaSで完結する衝撃はデカい。\n\nAdobe Expressも追従してますが、Canvaの「非デザイナーをプロにする」執念が一歩リードしている印象。3ヶ月後には、Web上の広告の作り方が根本から変わっているはず。\n\n皆さんの現場では、動画制作と効果測定の分断、どう解決してますか？「Canvaで十分」派と「やっぱりAdobe」派、今の実務での正直なバランスを知りたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-24T18:53:53.841850+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-24-sologuard-safety-checkin-automation-review",
+    "title": "SoloGuard 独居者の安否確認を自動化する軽量APIと運用の実力",
+    "url": "https://ai.negi-lab.com/posts/sologuard-safety-checkin-automation-review/",
+    "category": "TOOL",
+    "viral_tags": "#SoloGuard #見守りテック",
+    "tweet_text": "一人暮らしのエンジニアにとって、自分の「死活監視」って意外と盲点ですよね。SIer時代に監視運用の苦労を嫌というほど見てきましたが、安否確認に重厚なセンサーやカメラはもう不要かもしれません。\n\nProduct Huntで見つけた「SoloGuard」を深掘りしてみたのですが、これが実に面白い。通知に反応がなければ緊急連絡先に通知という、いわゆるデッドマンズ・スイッチの思想で作られています。\n\n特筆すべきは、物理デバイス不要でスマホだけで完結する点。月額数千円払って親の見守りサービスを契約する前に、この「通知ベース」の合理的な仕組みを検討する価値はあります。\n\nただ、エンジニアとしてはAPIの自由度がもっと欲しいところ。自分に万が一があった際、自宅サーバーのデータをどう処理するか、そのトリガーとしてSoloGuardを組み込む方法を検証しました。Pythonでステータスを監視するコード例もまとめています。\n\n皆さんは、自分が突然倒れた時のデジタル資産やサーバーの処理、何か対策していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-24T18:56:26.805164+09:00",
+    "posted": false
   }
 ]
