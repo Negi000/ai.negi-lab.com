@@ -4551,5 +4551,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-25T02:56:35.049415+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-25-india-ai-boom-revenue-trade-off-analysis",
+    "title": "インドAI市場の「無料バラマキ」終了？ChatGPTと国産勢の生存戦略",
+    "url": "https://ai.negi-lab.com/posts/india-ai-boom-revenue-trade-off-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#GenerativeAI #インドテック市場",
+    "tweet_text": "インドのAIブームが「無料の宴」を終わらせようとしています。\n\n世界最大のAIユーザー基盤を持つインドで、ChatGPTや現地勢が収益化に向けた壮絶な実験を開始。これまで短期利益を捨ててユーザーを獲得してきましたが、GPUの推論コストが限界に達しつつあります。\n\nSIer時代に基盤構築で頭を悩ませた身からすると、AIほど「使われるほど赤字が掘れる」ビジネスは他にありません。現地勢は、独自のトークナイザーでヒンディー語等の推論効率を極限まで高め、1トークンあたりのコストを削り取る「泥臭い戦い」に。\n\n月額$20のサブスクモデルがインドの平均所得で通用するのか？あるいは広告モデルやマイクロペイメントが主流になるのか？この結末は、日本でのAIビジネスの未来を予言していると言っても過言ではない。\n\nAIは「魔法」ではなく「資源」であることを痛感させられるニュース。開発者はAPIを叩くだけの段階を抜け出し、トークン効率とモデルの使い分けを極めるフェーズに来ています。\n\nあなたの開発しているサービス、1リクエストあたりのコストを正確に把握していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-25T11:49:20.637682+09:00",
+    "posted": false
   }
 ]
