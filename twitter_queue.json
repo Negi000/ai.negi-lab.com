@@ -4607,5 +4607,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-25T18:59:11.278151+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-25-kiloclaw-hosted-openclaw-review-guide",
+    "title": "KiloClawは物理デバイスの遠隔操作、特にクレーンゲーム（クロー）システムのバックエンド構築を「Mac miniの呪い」から解放するホステッド・インフラストラクチャです。",
+    "url": "https://ai.negi-lab.com/posts/kiloclaw-hosted-openclaw-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#KiloClaw #IoT開発",
+    "tweet_text": "物理デバイスをWebから動かすのって、昔からエンジニアの「やりたいけど面倒」の筆頭ですよね。特にOpenClawでクレーンゲームを構築しようとすると、Mac miniの用意やWebRTCの設定で週末が消えます。\n\nProduct Huntで見つけたKiloClawを調べてみましたが、これは物理インフラの管理を丸投げできるホステッドサービスです。デバイス側にSDKを入れるだけで、クラウド経由の低遅延操作とストリーミングが即座に手に入る。\n\n正直、趣味の工作なら自前で十分ですが、ビジネスで「24時間止まらないクレーンゲーム」を運用するなら、Mac miniを並べるよりこれを使うのが正解。\nAPIもシンプルで、`device.start_stream()`を呼ぶだけで映像配信まで完結するのは、実務経験者ならそのヤバさがわかるはず。\n\n最近はローカルLLMばかり触ってましたが、こういう「物理とWebの橋渡し」をシンプルにするツールが出てくると、またIoT系の開発意欲が湧いてきますね。\n\n皆さんは物理デバイスの遠隔制御、何を使ってますか？自前でTURNサーバー立てる苦労、まだ続けてますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-25T22:22:06.571275+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-25-qwen35-35b-aider-local-ai-coding-guide",
+    "title": "Qwen3.5-35B-A3BとAiderで爆速コーディング環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/qwen35-35b-aider-local-ai-coding-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen35 #ローカルLLM",
+    "tweet_text": "ローカルLLMでのコーディングが、ついに「実用」の域に到達しました。\n\n最近RedditのLocalLLaMA界隈で話題のQwen3.5-35B-A3Bを、AIエージェントAiderと組み合わせて数日回してみましたが、これは正直言ってゲームチェンジャーです。\n\nMoE（混合専門家）のおかげで、35Bクラスの知能がありながら推論の負荷は3Bクラスという驚異的な軽さ。RTX 3060クラスのGPUでも、Claude 3.5 Sonnetに肉薄するコード生成とデバッグが手元で完結します。\n\nかつてSIerで1日かけていた単体テストの作成や、泥臭いリファクタリングが数分で終わる感覚。一度この「ローカルで自律エージェントが動く」体験をすると、もうブラウザのチャット欄にコードをコピペしていた頃には戻れません。\n\nプライバシー重視の開発はもちろん、APIの従量課金を気にせず「AIに100回試行錯誤させる」ことができるのが最大の強みです。\n\n皆さんはローカルでのコーディング環境、何を使ってますか？\nLlama 3.2やDeepSeekと比べて、Qwen3.5の「ツール利用の正確さ」についてどう感じているか、ぜひ感想を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-25T22:30:00.805581+09:00",
+    "posted": false
   }
 ]

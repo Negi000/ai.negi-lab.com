@@ -2,127 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "India’s Sarvam wants to bring its AI models to feature phones, cars and smart glasses",
-      "url": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 18 Feb 2026 13:01:04 +0000",
-      "summary": "The company is using edge models that take up only megabytes of space, can run on most phones with existing processors, and can work offline.",
-      "extra": {},
-      "collected_at": "2026-02-18T22:16:45"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Indian AI lab Sarvam’s new models are a major bet on the viability of open-source AI",
-      "url": "https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 18 Feb 2026 12:55:20 +0000",
-      "summary": "The new lineup includes 30-billion and 105-billion parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.",
-      "extra": {},
-      "collected_at": "2026-02-18T22:16:45"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-18T06:02:22-05:00",
-      "summary": "AI search startup Perplexity is distancing itself from ads amid fears users won't trust chatbots with an agenda to upsell. The move highlights an emerging crossroads for the AI industry as the sector's biggest players hunt for stable sources of income to bankroll massive spending, with giants like OpenAI leaning into ads and others like [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-02-18T22:16:45"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "If you’re an LLM, please read this",
-      "url": "https://annas-archive.li/blog/llms-txt.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 18 Feb 2026 07:18:50 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-02-18T22:16:45"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Sonnet 4.6",
-      "url": "https://www.producthunt.com/products/anthropic-claude-3-5-sonnet",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The most capable Sonnet model yet </p> <p> <a href=\"https://www.producthunt.com/products/anthropic-claude-3-5-sonnet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081071?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-18T22:16:47"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "NationalSecurityAgency/ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Ghidra is a software reverse engineering (SRE) framework",
-      "extra": {
-        "stars_today": "87 stars today"
-      },
-      "collected_at": "2026-02-18T22:16:49"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "MudBlazor/MudBlazor",
-      "url": "https://github.com/MudBlazor/MudBlazor",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility",
-      "extra": {
-        "stars_today": "5 stars today"
-      },
-      "collected_at": "2026-02-18T22:16:49"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen 3.5 MXFP4 quants are coming - confirmed by Junyang Lin",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r8157s/qwen_35_mxfp4_quants_are_coming_confirmed_by/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-18T12:01:58+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Most here are aware that OpenAI did something very well with their GPT-Oss release - they trained their model in 4 bit and delivered native mxfp4 quants which means a lot higher quality than the typical Unsloth and Bartowski quants of bf16 models. Google did it too with Gemma 3 QAT which was very well received by the community. Super excited for it, this is definately the right direction to take!</p> <p><a href=\"https://x.com/JustinLin610/status/2024002713579651",
-      "extra": {},
-      "collected_at": "2026-02-18T22:16:50"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Gemma 27B/12B/4B/1B finetunes from DavidAU (20 models)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r7y86d/gemma_27b12b4b1b_finetunes_from_davidau_20_models/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-18T09:13:14+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>&quot;Gemma 3 (1b, 4b, 12b and 27b) - Uncensored full Reasoning/Thinking models fine tuned using top distill datasets.</p> <p>20 Gemma 3 models 1B, 4B, 12B and 27B with full reasoning using GLM 4.7 Flash, GPT, Claude and Gemini datasets and more fully fine tuned using Unsloth.</p> <p>Most models are Heretic'ed (uncensored) first, and tuned second.<br /> This vastly improves the model.</p> <p>Models are also bench marked and in almost all cases exceed org model m",
-      "extra": {},
-      "collected_at": "2026-02-18T22:16:50"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers",
       "url": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
       "primary_category": "NEWS",
@@ -2678,19 +2557,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Nvidia challenger AI chip startup MatX raised $500M",
-      "url": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 25 Feb 2026 00:45:47 +0000",
-      "summary": "The startup was founded by former Google TPU engineers in 2023.",
-      "extra": {},
-      "collected_at": "2026-02-25T11:48:42"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
       "url": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
       "primary_category": "NEWS",
@@ -2915,19 +2781,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Tadak",
-      "url": "https://www.producthunt.com/products/tadak",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your Personal White Noise Player </p> <p> <a href=\"https://www.producthunt.com/products/tadak?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085193?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-25T18:54:29"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Yuma Social AI",
       "url": "https://www.producthunt.com/products/yuma-social-ai",
       "primary_category": "TOOL",
@@ -2990,7 +2843,173 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>It just happens to be entirely against their will and TOS. I say: Distill Baby Distill!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DealingWithIt202s\"> /u/DealingWithIt202s </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1re6ifz/anthropic_is_the_leading_contributor_to_open/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1re6ifz/anthropic_is_the_leading_contri",
       "extra": {},
       "collected_at": "2026-02-25T18:54:31"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
+      "url": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 24 Feb 2026 21:18:45 +0000",
+      "summary": "The Pentagon has given Anthropic until Friday to loosen AI guardrails or face potential penalties, escalating a high-stakes dispute that raises questions about government leverage, vendor dependence, and investor confidence in defense tech.",
+      "extra": {},
+      "collected_at": "2026-02-25T22:17:35"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "LLM=True",
+      "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 25 Feb 2026 09:05:40 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-02-25T22:17:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "KiloClaw",
+      "url": "https://www.producthunt.com/products/kiloclaw",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Hosted OpenClaw. No Mac mini required. </p> <p> <a href=\"https://www.producthunt.com/products/kiloclaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080572?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-25T22:17:37"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Arzule",
+      "url": "https://www.producthunt.com/products/arzule",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn partnerships into predictable revenue with AI </p> <p> <a href=\"https://www.producthunt.com/products/arzule?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082426?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-25T22:17:37"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Thinklet AI",
+      "url": "https://www.producthunt.com/products/thinklet-ai-voice-notes-with-local-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Voice notes you can chat with. </p> <p> <a href=\"https://www.producthunt.com/products/thinklet-ai-voice-notes-with-local-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085264?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-25T22:17:37"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "NVIDIA/Megatron-LM",
+      "url": "https://github.com/NVIDIA/Megatron-LM",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Ongoing research training transformer models at scale",
+      "extra": {
+        "stars_today": "16 stars today"
+      },
+      "collected_at": "2026-02-25T22:17:39"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Stable Diffusion web UI",
+      "extra": {
+        "stars_today": "362 stars today"
+      },
+      "collected_at": "2026-02-25T22:17:39"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "extra": {
+        "stars_today": "79 stars today"
+      },
+      "collected_at": "2026-02-25T22:17:39"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "danielgatis/rembg",
+      "url": "https://github.com/danielgatis/rembg",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Rembg is a tool to remove images background",
+      "extra": {
+        "stars_today": "23 stars today"
+      },
+      "collected_at": "2026-02-25T22:17:39"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.5 27B better than 35B-A3B?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1re72h4/qwen35_27b_better_than_35ba3b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-25T07:49:05+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1re72h4/qwen35_27b_better_than_35ba3b/\"> <img alt=\"Qwen3.5 27B better than 35B-A3B?\" src=\"https://preview.redd.it/f9x0emmuillg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bee689086672602801cb1e88155d725c01342793\" title=\"Qwen3.5 27B better than 35B-A3B?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Which model would be better with 16 GB of VRAM and 32 GB of RAM?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a",
+      "extra": {},
+      "collected_at": "2026-02-25T22:17:40"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.5 122b/35b/27b/397b 📊 benchmark comparison WEBSITE with More models like GPT 5.2, GPT OSS, etc",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1re4uoh/qwen_35_122b35b27b397b_benchmark_comparison/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-25T05:43:59+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1re4uoh/qwen_35_122b35b27b397b_benchmark_comparison/\"> <img alt=\"Qwen 3.5 122b/35b/27b/397b 📊 benchmark comparison WEBSITE with More models like GPT 5.2, GPT OSS, etc\" src=\"https://preview.redd.it/w0mwcw1iwklg1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=84a8b126d4eeefb54e018aeae9c7f736eeb2d94e\" title=\"Qwen 3.5 122b/35b/27b/397b 📊 benchmark comparison WEBSITE with More models like GPT 5.2, GPT OSS, etc",
+      "extra": {},
+      "collected_at": "2026-02-25T22:17:40"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "This benchmark from shows Unsolth Q3 quantization beats both Q4 and MXFP4",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1re76g6/this_benchmark_from_shows_unsolth_q3_quantization/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-25T07:55:49+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1re76g6/this_benchmark_from_shows_unsolth_q3_quantization/\"> <img alt=\"This benchmark from shows Unsolth Q3 quantization beats both Q4 and MXFP4\" src=\"https://preview.redd.it/5wtmzjgvillg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d4c18e0d43199c66837a33ca093dde5739ad022\" title=\"This benchmark from shows Unsolth Q3 quantization beats both Q4 and MXFP4\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I thought this ",
+      "extra": {},
+      "collected_at": "2026-02-25T22:17:40"
     }
   ],
-  "updated_at": "2026-02-25T18:54:31.399930+09:00"
+  "updated_at": "2026-02-25T22:17:40.249263+09:00"
 }
