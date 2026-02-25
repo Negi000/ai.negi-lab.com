@@ -4663,5 +4663,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-26T02:58:55.574593+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-02-26-ai-energy-costs-white-house-impact-analysis",
+    "title": "start_thought",
+    "url": "https://ai.negi-lab.com/posts/ai-energy-costs-white-house-impact-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#AIインフラ #データセンター電力問題",
+    "tweet_text": "AI業界に「物理の壁」が立ちはだかっていますね。ホワイトハウスがAI各社に対し、データセンターによる電気代高騰分を一般家庭に回さず、自社で負担するよう要請しました。テック巨人は二つ返事で承諾したようですが、これって本当に「めでたしめでたし」で終わる話でしょうか。\n\nSIer時代、サーバー室の電源容量不足で冷や汗をかいた経験から言わせてもらうと、このコスト負担は必ずどこかに歪みを生みます。公約通り企業がコストを飲み込めば、APIの値下げ競争は停滞し、プレミアムモデルの価格は高止まりする。一方で、これによって「電力あたりの知能指数」を競う、真の意味での技術革命が加速するのも事実です。\n\n私の自宅でもRTX 4090が2枚唸っていますが、これからは「賢いモデル」だけでなく「省エネなモデル」が選ばれる時代になります。OpenAIやAnthropicのようなインフラを持たない層が、今後どうやってこのエネルギーコストの荒波を越えていくのか。APIを叩くだけのフェーズは終わり、これからは「計算資源の供給網」まで意識した開発が求められます。\n\n皆さんは、API価格が維持される代わりに新機能の実装が遅れるのと、多少高くても爆速で進化するの、どちらが実務で助かりますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-26T06:46:05.135655+09:00",
+    "posted": false
   }
 ]
