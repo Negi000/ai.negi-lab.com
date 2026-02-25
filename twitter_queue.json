@@ -4579,5 +4579,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-25T16:06:29.621876+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-25-matx-ai-chip-nvidia-challenger-500m-funding",
+    "title": "Nvidiaの独占を破壊する「LLM専用シリコン」の正体。MatXが調達した5億ドルの使い道と、私たちがCUDAから解放される日",
+    "url": "https://ai.negi-lab.com/posts/matx-ai-chip-nvidia-challenger-500m-funding/",
+    "category": "NEWS",
+    "viral_tags": "#AIチップ #Nvidia",
+    "tweet_text": "Nvidia一強を終わらせる本命が現れました。Google TPUの生みの親たちが立ち上げたMatXが5億ドル（約750億円）を調達。\n\nこのニュース、単なる資金調達以上の意味があります。彼らが作っているのは「LLMのためだけに設計されたシリコン」です。グラフィックスなどの余計な機能を削ぎ落とし、Transformerモデルの行列演算だけにダイ面積の8割を全振り。\n\n数字で見るとエグいです。B200と比較して、ドルあたりの推論スループットが約5倍になる計算。現在の推論コストが1/5になれば、RAGの精度もエージェントの思考時間も異次元に変わります。\n\n元SIerとして気になるのは「ソフトウェアの壁」ですが、TPUのエコシステムを作った彼らは、PyTorchからの1クリック移行を標準装備してくるはず。\n\nRTX 4090を2枚挿しして「VRAM足りない」と嘆いている自宅サーバー勢にとっても、この専用チップの動向は無視できません。将来的に推論カードとして手に入る日が来るのか、それともクラウド経由で爆安推論ができるようになるのか。\n\nNvidiaのBlackwellを待つべきか、MatXのような新興勢力のAPIを待つべきか。皆さんはどちらの未来に期待していますか？リプライで本音を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-25T18:55:30.920734+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-25-tadak-minimalist-white-noise-review-for-engineers",
+    "title": "Tadak 使い方：エンジニアの集中力をハックするミニマリスト向け環境音ツール",
+    "url": "https://ai.negi-lab.com/posts/tadak-minimalist-white-noise-review-for-engineers/",
+    "category": "TOOL",
+    "viral_tags": "#Tadak #生産性向上",
+    "tweet_text": "エンジニアの集中力を削ぐ最大の敵は「騒音」ではなく「選択肢の多さ」だと思う。\n\n最近試した「Tadak」という環境音ツールが、驚くほど潔い。SIer時代からフリーランスの今まで、NoisliやBrain.fm、YouTubeのLofi系まで色々触ってきたけど、結局「UIを触る時間」が一番の無駄だった。\n\nTadakはミニマリズムの極致。ブラウザのタブを汚さず、PWAで独立させて動かせるから、VS Codeや重い推論を回している最中でも邪魔にならない。特にRTX 4090のファンノイズが気になる深夜のデバッグ作業で、ホワイトノイズとして流すと、あの高周波音が綺麗にマスキングされる。\n\n正直、派手な機能は一切ない。でも「1秒で集中モードに入りたい」というエンジニアの切実な願いには、これ以上ない回答かも。多機能ツールを使いこなすのに疲れた人、試してみる価値あり。\n\n皆さんは集中する時、無音派ですか？それとも環境音派？おすすめの特定の周波数とかあれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-25T18:59:11.278151+09:00",
+    "posted": false
   }
 ]
