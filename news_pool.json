@@ -1,113 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "okay okay yes... slutty-deepseek-obliterated-6.5-20280512, i will send you another picture of my cock and balls for some more compute credits, fine",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r7qfg0/okay_okay_yes_sluttydeepseekobliterated6520280512/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-18T02:17:35+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r7qfg0/okay_okay_yes_sluttydeepseekobliterated6520280512/\"> <img alt=\"okay okay yes... slutty-deepseek-obliterated-6.5-20280512, i will send you another picture of my cock and balls for some more compute credits, fine\" src=\"https://preview.redd.it/nfnbiup6x5kg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c77e4e4cb2322b05e4a86a4d99c85dd962cd0267\" title=\"okay okay yes... slutty-deepseek-obliterated-6.5-20280512, i will s",
-      "extra": {},
-      "collected_at": "2026-02-18T14:02:34"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I trained a language model on CPU in 1.2 hours with no matrix multiplications — here's what I learned",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r7mscr/i_trained_a_language_model_on_cpu_in_12_hours/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-17T23:42:30+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey all. I've been experimenting with tiny matmul-free language models that can be trained and run entirely on CPU. Just released the model.</p> <p>Model: <a href=\"https://huggingface.co/changcheng967/flashlm-v3-13m\">https://huggingface.co/changcheng967/flashlm-v3-13m</a></p> <p>Quick stats:</p> <ul> <li>13.6M parameters, d_model=256</li> <li>Ternary weights ({-1, 0, +1}) — inference is just adds and subtracts, no multiplies</li> <li>Trained on 2-thread CPU, no ",
-      "extra": {},
-      "collected_at": "2026-02-18T14:02:34"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "PrimeIntellect/INTELLECT-3.1 · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r7plp1/primeintellectintellect31_hugging_face/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-18T01:43:01+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r7plp1/primeintellectintellect31_hugging_face/\"> <img alt=\"PrimeIntellect/INTELLECT-3.1 · Hugging Face\" src=\"https://external-preview.redd.it/HlIthhd4_MOQ5SPqMHH4aU80ZJQIA0QmPpZBs5Jd5L0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b86fe7ea9ee70a3f83ccb5ad48aa01e8fd98f27\" title=\"PrimeIntellect/INTELLECT-3.1 · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>INTELLECT-3.1 is a 106B (A12B) parameter Mixtur",
-      "extra": {},
-      "collected_at": "2026-02-18T14:02:34"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-17T19:27:08-05:00",
-      "summary": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says will deliver \"significant performance-per-watt improvements in [Meta's] [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-02-18T16:05:13"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "TransLite",
-      "url": "https://www.producthunt.com/products/translite-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Instant translation from anywhere on macOS </p> <p> <a href=\"https://www.producthunt.com/products/translite-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080549?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-18T16:05:16"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Synra",
-      "url": "https://www.producthunt.com/products/synra-managed-mcp-server",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Connect Claude to your database in 60 seconds </p> <p> <a href=\"https://www.producthunt.com/products/synra-managed-mcp-server?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079643?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-18T16:05:16"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Auden",
-      "url": "https://www.producthunt.com/products/auden",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your day-to-day AI memory that listens and remembers </p> <p> <a href=\"https://www.producthunt.com/products/auden?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079707?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-18T16:05:16"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM-5 Technical Report",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r7r7zr/glm5_technical_report/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-18T02:51:52+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r7r7zr/glm5_technical_report/\"> <img alt=\"GLM-5 Technical Report\" src=\"https://preview.redd.it/phk5j82g36kg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a4da644c3d3988eba39a218faf8a811456998b3\" title=\"GLM-5 Technical Report\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Presenting the GLM-5 Technical Report!</p> <p><a href=\"http://arxiv.org/abs/2602.15763\">http://arxiv.org/abs/2602.15763</a></p> <p>After the lau",
-      "extra": {},
-      "collected_at": "2026-02-18T16:05:18"
-    },
-    {
       "source": "The Verge AI",
       "title": "Google’s AI search results will make links more obvious",
       "url": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
@@ -2851,19 +2744,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "India’s AI boom pushes firms to trade near-term revenue for users",
-      "url": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 25 Feb 2026 02:00:00 +0000",
-      "summary": "ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down.",
-      "extra": {},
-      "collected_at": "2026-02-25T11:48:42"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Nvidia challenger AI chip startup MatX raised $500M",
       "url": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
       "primary_category": "NEWS",
@@ -2993,7 +2873,112 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just got Qwen3.5 27B running on server and wanted to share the full setup for anyone trying to do the same.</p> <p><strong>Setup:</strong></p> <ul> <li>Model: Qwen3.5-27B-Q8_0 (unsloth GGUF) , Thanks Dan</li> <li>GPU: RTX A6000 48GB</li> <li>Inference: llama.cpp with CUDA</li> <li>Context: 32K</li> <li>Speed: ~19.7 tokens/sec</li> </ul> <p><strong>Why Q8 and not a lower quant?</strong> With 48GB VRAM the Q8 fits comfortably at 28.6GB leaving plenty of headroom f",
       "extra": {},
       "collected_at": "2026-02-25T11:48:47"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Uber engineers built an AI version of their boss",
+      "url": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 24 Feb 2026 23:09:28 +0000",
+      "summary": "Uber CEO Dara Khosrowshahi said the company’s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches.",
+      "extra": {},
+      "collected_at": "2026-02-25T16:05:50"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "US Military leaders meet with Anthropic to argue against Claude safeguards",
+      "url": "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 25 Feb 2026 00:20:50 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-02-25T16:05:50"
+    },
+    {
+      "source": "Google News",
+      "title": "OpenAIがxAIから「企業秘密を得るため従業員を不当に引き抜いた」として提起されていた訴訟に勝利 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1QwVVFPVDlQQnk4bk5EMXBGdy1mQnBmR1Z1ekFQeW83NFBJQ2stTlhwYTB5NHAtd2tYdnhUa1dPdE5wSDdteGI1LVdnakhhcXpCUWplRnRNcmFIbkVaeURqYThpcGxyb2lVUXRqajRJbEE1aEx0Q0VScU42TUZKcFln?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 25 Feb 2026 01:54:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1QwVVFPVDlQQnk4bk5EMXBGdy1mQnBmR1Z1ekFQeW83NFBJQ2stTlhwYTB5NHAtd2tYdnhUa1dPdE5wSDdteGI1LVdnakhhcXpCUWplRnRNcmFIbkVaeURqYThpcGxyb2lVUXRqajRJbEE1aEx0Q0VScU42TUZKcFln?oc=5\" target=\"_blank\">OpenAIがxAIから「企業秘密を得るため従業員を不当に引き抜いた」として提起されていた訴訟に勝利</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {},
+      "collected_at": "2026-02-25T16:05:52"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Liftsell",
+      "url": "https://www.producthunt.com/products/liftsell",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Smart popups & widgets that track revenue </p> <p> <a href=\"https://www.producthunt.com/products/liftsell?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081707?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-25T16:05:52"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Scriptmine",
+      "url": "https://www.producthunt.com/products/scriptmine-turn-trends-into-scripts",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turns Reddit conversation insights into camera-ready scripts </p> <p> <a href=\"https://www.producthunt.com/products/scriptmine-turn-trends-into-scripts?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082673?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-25T16:05:52"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ClawRecipes",
+      "url": "https://www.producthunt.com/products/clawrecipes-openclaw-recipes",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Save 50+ hours setting up OpenClaw Agents with ClawRecipes </p> <p> <a href=\"https://www.producthunt.com/products/clawrecipes-openclaw-recipes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081092?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-25T16:05:52"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Orchids 1.0",
+      "url": "https://www.producthunt.com/products/orchids",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build any app using your existing AI subscriptions </p> <p> <a href=\"https://www.producthunt.com/products/orchids?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1084674?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-25T16:05:52"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3-30B-A3B vs Qwen3.5-35B-A3B on RTX 5090",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1re3l3r/qwen330ba3b_vs_qwen3535ba3b_on_rtx_5090/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-25T04:39:52+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Qwen3-30B-A3B vs Qwen3.5-35B-A3B on RTX 5090 — Day-1 Extended Benchmark (Q4_K_M, llama.cpp)</h1> <p>Qwen3.5-35B-A3B dropped today. Same MoE architecture as the 30B (3B active params), 5B more total parameters, and ships with a vision projector. Grabbed the Q4_K_M, ran it head-to-head against my daily driver Qwen3-30B-A3B through 7 test sections. All automated, same prompts, same hardware, same server config.</p> <p><strong>TL;DR: The 3.5 is ~32% slower in raw g",
+      "extra": {},
+      "collected_at": "2026-02-25T16:05:55"
     }
   ],
-  "updated_at": "2026-02-25T11:48:47.050964+09:00"
+  "updated_at": "2026-02-25T16:05:55.779137+09:00"
 }

@@ -4565,5 +4565,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-25T11:49:20.637682+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-25-liftsell-revenue-tracking-widget-review",
+    "title": "Liftsell 使い方と収益直結型ウィジェットの導入メリット",
+    "url": "https://ai.negi-lab.com/posts/liftsell-revenue-tracking-widget-review/",
+    "category": "TOOL",
+    "viral_tags": "#Liftsell #データドリブンマーケティング",
+    "tweet_text": "ポップアップを表示して「クリック率が上がった」と喜ぶ時代はもう終わった気がする。\n\nエンジニアとして本当に求められるのは「その施策が最終的にいくらの利益を生んだか」という冷徹な数字。でも、GTMでデータレイヤーを組んでGA4に飛ばして…という作業はあまりに不毛でした。\n\n今回検証したLiftsellは、まさにその「計測の面倒くささ」をSDKとAPIで強引に解決してくれるツール。実際に触ってみて驚いたのは、サーバーサイドAPIとの親和性の高さ。\n\nPythonのバックエンドから決済完了イベントを数行で飛ばせるし、ITPの影響を最小限に抑えつつ収益貢献を可視化できる。RTX 4090 2枚挿しの自宅サーバー環境でWebhookの受け口を作ってみたけど、ログの突き合わせも非常にスムーズだった。\n\n「デザインが綺麗なポップアップ」を作るツールは他にもあるけど、「ビジネスを動かす数字を作る」ための基盤としては、これが現時点の正解の一つかもしれない。\n\n自社開発SaaSやECで、マーケターからの「これ、結局いくら売れたの？」攻撃に疲弊しているエンジニアの方、実際の計測精度や実装コスト、どう感じていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-25T16:06:29.621876+09:00",
+    "posted": false
   }
 ]
