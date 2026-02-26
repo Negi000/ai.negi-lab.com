@@ -4677,5 +4677,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-26T06:46:05.135655+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-26-salesforce-saaspocalypse-agentforce-strategy-analysis",
+    "title": "Salesforceが挑むSaaSpocalypseの正体：AIエージェントで席数課金モデルは崩壊するか",
+    "url": "https://ai.negi-lab.com/posts/salesforce-saaspocalypse-agentforce-strategy-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Salesforce #Agentforce",
+    "tweet_text": "Salesforceの決算とベニオフの発言を深掘りしましたが、これは単なる新機能の発表じゃありません。「席数課金」というSaaSの黄金ルールが公式に終焉へ向かい始めた歴史的な転換点です。\n\nベニオフが提唱する「SaaSpocalypse（SaaSの黙示録）」への回答は、人間を助けるAIではなく、自律して働く「Agentforce」への全振りでした。SIer時代に人月商売の限界を見てきましたが、ついにSaaSも「ライセンス数」から「AIの成果」で稼ぐフェーズに突入します。\n\n技術的に面白いのは、Atlas推論エンジン。RAGの先を行く、メタデータ層とLLMの密結合です。LangChainでエージェントを自作している身からすると、プラットフォーム側がここまで「自律性」を担保しにくるのは脅威であり、大きなチャンスでもあります。\n\nMicrosoftのCopilotを「期待外れ」と切り捨てる強気の姿勢。3ヶ月後には、企業の現場で「AI席数」ではなく「AIアクション数」で予算が組まれるようになっているはず。開発者は今すぐオブジェクト設計を見直すべきですね。\n\n皆さんの現場では、席数課金のツールと成果課金のAI、どちらが導入しやすいですか？あるいはAIエージェントにどこまで権限を渡せますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-26T11:44:01.331643+09:00",
+    "posted": false
   }
 ]

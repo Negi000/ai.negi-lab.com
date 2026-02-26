@@ -1,101 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Amazon halts Blue Jay robotics project after less than 6 months",
-      "url": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 18 Feb 2026 18:27:10 +0000",
-      "summary": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
-      "extra": {},
-      "collected_at": "2026-02-19T08:34:46"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
-      "url": "https://resobscura.substack.com/p/what-is-happening-to-writing",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 18 Feb 2026 14:59:16 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-02-19T08:34:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "STUD",
-      "url": "https://www.producthunt.com/products/stud",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Cursor for Roblox Studio </p> <p> <a href=\"https://www.producthunt.com/products/stud?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079916?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-19T08:34:48"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "OpenFlowKit",
-      "url": "https://www.producthunt.com/products/openflowkit",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> 100% Free and Open Source Diagram Creator with Total Control </p> <p> <a href=\"https://www.producthunt.com/products/openflowkit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081019?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-19T08:34:48"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I plugged a $30 radio into my Mac mini and told my AI \"connect to this\" — now I control my smart home and send voice messages over radio with zero internet",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r8ectu/i_plugged_a_30_radio_into_my_mac_mini_and_told_my/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-18T20:30:14+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey <a href=\"/r/LocalLLaMA\">r/LocalLLaMA</a>,</p> <p>So I live in Ukraine during the war. Power goes out a lot here – russia regularly attacks our power grid. When it happens, internet dies, cell towers go dark, and suddenly all my smart home stuff and AI tools become useless. Got tired of it, so I did something kind of ridiculous.</p> <p>I bought two Lilygo T-Echo radios (~$30 each, LoRa 433MHz, running Meshtastic firmware). Plugged one into my always-on Mac mi",
-      "extra": {},
-      "collected_at": "2026-02-19T08:34:51"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Do we want the benefits of Ollama API without actually using Ollama?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r8gb3p/do_we_want_the_benefits_of_ollama_api_without/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-18T21:43:03+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1r8gb3p/do_we_want_the_benefits_of_ollama_api_without/\"> <img alt=\"Do we want the benefits of Ollama API without actually using Ollama?\" src=\"https://preview.redd.it/ye8e5rinobkg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3fee113ba5ec5804912453771ad9dbfd4c1c4053\" title=\"Do we want the benefits of Ollama API without actually using Ollama?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Apps with native Ollama API i",
-      "extra": {},
-      "collected_at": "2026-02-19T08:34:51"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "FlashLM v4: 4.3M ternary model trained on CPU in 2 hours — coherent stories from adds and subtracts only",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1r8c6th/flashlm_v4_43m_ternary_model_trained_on_cpu_in_2/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-18T19:09:37+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Back with v4. Some of you saw v3 — 13.6M params, ternary weights, trained on CPU, completely incoherent output. Went back to the drawing board and rebuilt everything from scratch.</p> <p><strong>What it is:</strong></p> <p>4.3M parameter language model where every weight in the model body is -1, 0, or +1. Trained for 2 hours on a free Deepnote notebook (2 threads, 5GB RAM). No GPU at any point — not for training, not for inference. The model generates coherent c",
-      "extra": {},
-      "collected_at": "2026-02-19T08:34:51"
-    },
-    {
       "source": "Google News",
       "title": "KnowBe4、AIセキュリティ10年の実績が生んだ、 7つのAIエージェントによる「自律型防御」で組織防御力を最大化 - ニコニコニュース",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzV1RWZFlRSXNkTkJUblVMQ0w5eXV5V3QyRVlSWFlNLUF4R0JqaktjM3JnRHU5SC1KRVIzNmlneE9Gall0TnZHRGcxS25KelBtc0FKUTNDbFJQcVEtMVlEbGVOeEhjZVd5ZjFsWG00MlNfeWp5M3c?oc=5",
@@ -3062,19 +2967,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
-      "url": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 25 Feb 2026 20:42:14 +0000",
-      "summary": "Many of hyperscalers have already made public commitments in to cover electricity cost increases.",
-      "extra": {},
-      "collected_at": "2026-02-26T06:45:19"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Alphabet-owned robotics software company Intrinsic joins Google",
       "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
       "primary_category": "NEWS",
@@ -3203,7 +3095,124 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Ran some benchmarks on Qwen3.5-35B-A3B with llama.cpp on a single-GPU consumer workstation. Model doesn't fit in VRAM so this is a CPU/GPU offloading setup over PCIe 5.0.</p> <h1>System Specs</h1> <table><thead> <tr> <th align=\"left\">Component</th> <th align=\"left\">Spec</th> </tr> </thead><tbody> <tr> <td align=\"left\">GPU</td> <td align=\"left\">NVIDIA GeForce RTX 5080 16GB GDDR7 (Blackwell, sm_120, 960 GB/s bandwidth)</td> </tr> <tr> <td align=\"left\">CPU</td> <td",
       "extra": {},
       "collected_at": "2026-02-26T06:45:29"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
+      "url": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 26 Feb 2026 01:59:12 +0000",
+      "summary": "Salesforce reported a solid year-end earnings and then pulled out all the stops to ward off more talk of the death of its business to AI.",
+      "extra": {},
+      "collected_at": "2026-02-26T11:43:23"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
+      "url": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 26 Feb 2026 00:00:00 +0000",
+      "summary": "Gushwork has raised $9 million in a seed round led by SIG and Lightspeed. The startup has seen early customer traction from AI search tools like ChatGPT.",
+      "extra": {},
+      "collected_at": "2026-02-26T11:43:23"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
+      "url": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Wed, 25 Feb 2026 23:49:19 +0000",
+      "summary": "Seattle-based Vercept developed complex agentic tools, including a computer-use agent that could complete tasks inside applications like a person with a laptop would.",
+      "extra": {},
+      "collected_at": "2026-02-26T11:43:23"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Thinglo",
+      "url": "https://www.producthunt.com/products/thinglo-save-anything-lose-nothing",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Save anything from any app — AI-organized, private, instant </p> <p> <a href=\"https://www.producthunt.com/products/thinglo-save-anything-lose-nothing?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079739?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-26T11:43:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Orca",
+      "url": "https://www.producthunt.com/products/orca-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Play, mod, and host Minecraft from your browser with AI </p> <p> <a href=\"https://www.producthunt.com/products/orca-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085247?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-26T11:43:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mercury 2",
+      "url": "https://www.producthunt.com/products/mercury-412",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Fastest reasoning LLM built for instant production AI </p> <p> <a href=\"https://www.producthunt.com/products/mercury-412?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085393?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-26T11:43:28"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen/Qwen3.5-35B-A3B creates FlappyBird",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ret353/qwenqwen3535ba3b_creates_flappybird/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-25T23:05:54+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>If you are wondering, as I have for a long time, do locally hostable models work for general coding? They really can work impressively well for some usecases. There's been some impressive things done by the model during making of this simple app.</p> <p>Spent two hours. Generated with Qwen/Qwen3.5-35B-A3B. Used Roo in VSCode.</p> <p>Started out by vaguely asking for a flappybird clone in html, css and typescript and to initialize the project with vite.</p> <p>It",
+      "extra": {},
+      "collected_at": "2026-02-26T11:43:30"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Overwhelmed by so many quantization variants",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1reqdpb/overwhelmed_by_so_many_quantization_variants/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-25T21:24:37+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Not only are out there 100s of models to choose from, but also so many quantization variants that I may well get crazy.</p> <p>One needs not only to test and benchmark models, but also within each model, compare its telemetry and quality between all the available quants and quant-techniques.</p> <p>So many concepts like the new UD from Unsloth, autoround from Intel, imatrix, K_XSS, you name it. All of them could be with a REAM or a REAP or any kind of prunation,",
+      "extra": {},
+      "collected_at": "2026-02-26T11:43:30"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Best Qwen3.5-35B-A3B GGUF for 24GB VRAM?!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1resggh/best_qwen3535ba3b_gguf_for_24gb_vram/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-25T22:42:03+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1resggh/best_qwen3535ba3b_gguf_for_24gb_vram/\"> <img alt=\"Best Qwen3.5-35B-A3B GGUF for 24GB VRAM?!\" src=\"https://preview.redd.it/bkw8ps1qwplg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=25abc44019457c22c40a183a9f0ff49947bfd3c5\" title=\"Best Qwen3.5-35B-A3B GGUF for 24GB VRAM?!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>My understanding is Vulkan/ROCm tends to have faster kernels for legacy llama.cpp quant type",
+      "extra": {},
+      "collected_at": "2026-02-26T11:43:30"
     }
   ],
-  "updated_at": "2026-02-26T06:45:29.356224+09:00"
+  "updated_at": "2026-02-26T11:43:30.672712+09:00"
 }
