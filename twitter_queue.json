@@ -4747,5 +4747,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-26T18:52:53.905294+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-26-api-pick-review-ai-agent-data-integration",
+    "title": "API Pick 使い方とレビュー：AIエージェントの外部知識アクセスを一本化する統合データAPIの真価",
+    "url": "https://ai.negi-lab.com/posts/api-pick-review-ai-agent-data-integration/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #LLM開発",
+    "tweet_text": "AIエージェントに「最新の知識」を持たせる際、一番のボトルネックはモデルの性能ではなく、実は「外部データの整形」だったりします。HTMLをそのまま流すとトークンの無駄だし、パースが甘いと精度がガタ落ちする。\n\n最近検証した「API Pick」がこの問題をスマートに解決していました。Google検索、Reddit、スクレイピングの結果を、最初からLLMに最適化されたMarkdownで返してくれる統合API。\n\nSIer時代、BeautifulSoupで泥臭くセレクタを書いてはサイト更新で壊れ、夜中に修正していた苦労は何だったのかと思わされます。RTX 4090の2枚挿し環境でローカルLLM（Llama 3等）を動かす際も、入力トークンを極限まで削れるのでレスポンス速度の向上に直結しました。\n\n特化型APIを個別に契約する手間も省けるし、何より「開発者がデータの掃除から解放される」メリットがデカい。\n\n皆さんは外部データの取得に何を使っていますか？Firecrawl派が多い印象ですが、SNSも含めた統合環境の需要、実際どうなんでしょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-26T22:19:04.472289+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-26-deepseek-v4-huawei-api-rag-tutorial",
+    "title": "DeepSeek API 使い方入門！V4時代を見据えた高精度RAG構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/deepseek-v4-huawei-api-rag-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#DeepSeek #Pythonプログラミング",
+    "tweet_text": "DeepSeek V4がHuaweiのAscendチップに先行最適化されるというReutersの報道、これは単なるニュース以上に大きな意味があります。Nvidia一強の時代に、特定ハードへの「深すぎる最適化」で対抗する姿勢。我々エンジニアが今やるべきは、この波を静観することではなく、現行のV3/R1を今のうちに現場に組み込んでおくことです。\n\nDeepSeekはOpenAI互換APIを提供しているため、LangChainを使えば既存のOpenAI向けコードをほぼ無修正で動かせます。今回の記事では、DeepSeek APIとPythonを組み合わせて、実務で即戦力になる「PDF知識ベースRAG」を30分で構築する手順をまとめました。\n\nSIer時代、ベンダーロックインで苦しむ現場を何度も見てきましたが、DeepSeekのような「安価・高速・互換性あり」なモデルは、システム設計の自由度を劇的に高めてくれます。RTX 4090を2枚挿してローカルLLMを検証している私の視点からも、DeepSeekのAPIレスポンスの安定性は正直驚くレベルです。\n\n将来V4が一般公開された時、モデル名を一行書き換えるだけで自社システムが進化する。そんな「準備」を今日から始めませんか？実際にコピペで動くコード例も載せているので、ぜひ手を動かしてみてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-26T22:20:37.572466+09:00",
+    "posted": false
   }
 ]
