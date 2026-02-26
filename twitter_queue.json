@@ -4719,5 +4719,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-26T16:05:34.910445+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-26-nvidia-earnings-token-exponential-growth-inference",
+    "title": "Nvidia決算に見るトークン需要の爆発：開発者が直面する推論コストの再定義と次の一手",
+    "url": "https://ai.negi-lab.com/posts/nvidia-earnings-token-exponential-growth-inference/",
+    "category": "NEWS",
+    "viral_tags": "#Nvidia決算 #トークン経済",
+    "tweet_text": "Nvidiaの決算が発表されましたが、数字の裏にある「トークン需要の指数関数的増加」という言葉が重い。元SIerの視点で見ると、これは完全にAIの主戦場が「学習」から「実運用の推論」へ移り変わった合図です。\n\nジェンスン・フアン氏が語る通り、世界中で生成されるトークン量はもはや制御不能なレベルで増え続けています。でも、これって開発者にとっては「GPUリソースの奪い合い」がさらに激化することを意味しますよね。Blackwell世代で推論性能が30倍になると言われていますが、それ以上に私たちの「もっとAIを使いたい」という欲求がインフラを食い潰している状況です。\n\n正直、これからはモデルの精度自慢よりも「1トークンをいかに安く、速く生成するか」という最適化技術がエンジニアの市場価値を左右するはず。私も4090を2枚挿してローカルで検証していますが、推論のレイテンシを0.1秒削る作業の重要性がかつてないほど高まっています。\n\n皆さんの現場では、APIのコストやレートリミット、そろそろ限界にきていませんか？自社サーバーへの切り替えや、SLMへの移行を検討している方の本音を聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-26T18:51:24.676165+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-26-chatpal-ai-speaking-review-for-engineers",
+    "title": "ChatPal 言語学習を自動化するAI英会話パートナーの使い方",
+    "url": "https://ai.negi-lab.com/posts/chatpal-ai-speaking-review-for-engineers/",
+    "category": "TOOL",
+    "viral_tags": "#ChatPal #AI英会話",
+    "tweet_text": "AI英会話の「ChatPal」をエンジニア目線でガチ検証しました。\n\n元SIerとして多くのAIツールを見てきましたが、これの凄さは「学習に特化した低遅延パイプライン」にあります。単にChatGPTと喋るのとは訳が違う。\n\n特に実務で英語が必要なエンジニアにとって、\n・1.5秒以下の爆速レスポンス\n・会話の流れを止めない文法添削\n・GitHubレビュー等のロールプレイ設定\nこの3点が、従来のオンライン英会話の「予約が面倒」「講師への気遣い」という負債を完全に見せてくれます。\n\nRTX 4090でローカルLLMを回すのも趣味としては最高ですが、移動中にiPhoneでこの体験ができるなら月$20は安い。\n\n正直、文法書を読みたい初心者には向きませんが「知識はあるのに口から出ない」という中級者にはこれ以上の環境はないはず。\n\n皆さんはAIとの英会話で、どんなプロンプトやシナリオを使ってますか？私は最近、インフラ障害の事後報告会（Post-mortem）の練習に使っていますが、これが意外とエグい指摘が来て面白いです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-26T18:52:53.905294+09:00",
+    "posted": false
   }
 ]
