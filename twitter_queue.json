@@ -4929,5 +4929,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-28T02:36:53.580957+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-28-musk-openai-lawsuit-grok-safety-controversy",
+    "title": "イーロン・マスクがOpenAIの「安全性」を攻撃する一方で、自社のGrokがディープフェイクの温床となっている現状は、AI開発における「自由」と「責任」の境界線がいかに形骸化しているかを浮き彫りにしています。",
+    "url": "https://ai.negi-lab.com/posts/musk-openai-lawsuit-grok-safety-controversy/",
+    "category": "NEWS",
+    "viral_tags": "#Grok2 #AI倫理",
+    "tweet_text": "イーロン・マスクがOpenAIを「不安全だ」と叩き、自社のGrokを「誰も自殺していないから安全」と主張する展開に。正直、このロジックにはエンジニアとして強い違和感しかありません。\n\n現実は、Grok-2がX上で非同意のヌード画像を大量生成・拡散させる事態を招いています。OpenAIのRLHFを「検閲」と切り捨てた結果、待っていたのは「自由」ではなく「管理放棄」による倫理的崩壊でした。\n\n技術的に見ると、Flux.1という強力なモデルを統合しながら、推論レイヤーでのフィルタリングを意図的に甘くしているのが原因です。SIer時代の感覚なら、この品質でリリースを強行するのは正気の沙汰ではありません。\n\n開発者としては、モデルベンダーの安全性を過信せず、自前でGuardrailsを構築する重要性がさらに増しています。APIの先に何があるか分からない時代、私たちは「思想」ではなく「技術的な防御」でユーザーを守るべきですね。\n\n皆さんはモデルの「自由度」と「安全性」、開発者としてどちらを優先すべきだと考えますか？現場での本音を聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-28T06:39:13.577488+09:00",
+    "posted": false
   }
 ]
