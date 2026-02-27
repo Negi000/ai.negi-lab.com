@@ -4845,5 +4845,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-27T16:00:08.626391+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-27-mistral-ai-accenture-strategic-partnership-analysis",
+    "title": "Mistral AIとアクセンチュアの提携が突きつける「OpenAI一強」時代の終焉とモデル選択の新基準",
+    "url": "https://ai.negi-lab.com/posts/mistral-ai-accenture-strategic-partnership-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#MistralAI #アクセンチュア",
+    "tweet_text": "ついにアクセンチュアがMistral AIと組んだ。これ、実はAI業界のパワーバランスが変わる大きな節目になります。\n\nアクセンチュアは既にOpenAIやAnthropicとも提携していますが、そこに「欧州の雄」を加えた意味。それは、企業が「特定モデルへの依存」と「データの不透明性」に限界を感じ始めた証拠。SIer時代に嫌というほど聞いた「データは外に出せない」という壁を、Mistralの柔軟性がぶち壊していく。\n\n技術的に見ても、MistralのMoE（Mixture of Experts）は高効率で、1Mトークンあたりの出力コストはGPT-4oの約4割引き、Claude 3.5 Sonnetの半額以下。実務でRAGを数千万件回すなら、この差は無視できないレベルです。\n\n今回の提携で、大手コンサルが「プライベートAI」を本格的に担ぎ始めます。これからは「魔法のAI」ではなく「道具としてのAI」を自社インフラでどう使いこなすかの勝負。\n\n皆さんの現場では、モデルの「乗り換え」や「併用」の検討は始まっていますか？特定モデルの障害や規約変更に備えたリスクヘッジ、そろそろ本気で考え時かもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-27T18:41:42.264124+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-27-nano-banana-2-review-edge-ai-image-generation",
+    "title": "Nano Banana 2 使い方レビュー：Google製軽量AI画像生成の実戦投入ガイド",
+    "url": "https://ai.negi-lab.com/posts/nano-banana-2-review-edge-ai-image-generation/",
+    "category": "TOOL",
+    "viral_tags": "#NanoBanana2 #生成AI",
+    "tweet_text": "Googleの最新モデル「Nano Banana 2」が想像以上に実戦向きで驚きました。\n\n最近の画像生成AIは巨大化・高画質化の一途を辿っていましたが、このモデルはその真逆。徹底的に「軽量化」と「速度」に全振りしています。RTX 4090で回したところ、512x512が0.4秒弱で出てくる爆速っぷり。VRAMも3GB程度で済むので、ミドルエンドのGPUでも余裕で動きます。\n\nSIer時代、数秒のレスポンス遅延で頭を抱えていた頃の自分に教えてあげたい。これならクラウドに頼らずとも、エッジ環境で「ユーザーの操作にリアルタイムで反応する画像生成」が現実的なコストで実装できます。\n\nもちろん、ディテールの描き込みではImagen 3やMidjourneyには勝てません。でも、アプリの機能として組み込むなら、10秒かかる超美麗画像より、0.5秒で出る「そこそこの画像」の方が圧倒的にUXが良いケースも多いはず。\n\n実際にPythonで動かす際の手順や、実務でハマりそうなポイント、SDXL Turboとの比較を記事にまとめました。推論ステップ数をどこまで削れるか、VRAM消費はどう推移するか。動かしてみた感想を正直に書いています。\n\nオンデバイスAIや画像生成のプロダクト実装を考えているエンジニアの方、今の開発環境の推論速度に満足していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-27T18:46:09.373059+09:00",
+    "posted": false
   }
 ]
