@@ -4831,5 +4831,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-27T13:54:23.640524+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-27-sophia-space-modular-space-computer-tiles",
+    "title": "宇宙用AI推論のボトルネックを物理的に破壊するモジュール型タイルが実用化へ",
+    "url": "https://ai.negi-lab.com/posts/sophia-space-modular-space-computer-tiles/",
+    "category": "NEWS",
+    "viral_tags": "#SophiaSpace #宇宙AI",
+    "tweet_text": "宇宙にデータセンターを作る、という話が現実味を帯びてきました。Sophia Spaceが1000万ドルの資金を調達し、モジュール式の「コンピュータタイル」を開発しています。\n\nこのニュース、単なるハードウェアの発表じゃない。今まで宇宙でのAI推論は「壊れないけど超低速」な石を使うか、「速いけどすぐ壊れる」地上の石を無理やり載せるかの二択でした。Sophia Spaceはこのトレードオフを、タイルを連結する分散アーキテクチャで解決しようとしています。\n\nSIer時代に冗長化設計で胃を痛めた経験から言わせてもらうと、物理的な頑丈さより、壊れることを前提とした「ソフトウェア定義の冗長性」を宇宙に持ち込むのは極めて合理的。Starlink以降の衛星爆発時代、生データを全部地上に降ろすのはコスト的に限界。宇宙で処理して「結論だけ送る」のが標準になる。\n\n地上のAIエンジニアにとっても他人事じゃないですよ。自分の書いたPyTorchのコードがそのまま軌道上で動く時代が来る。でも、真空の宇宙には空冷ファンなんてない。限られた電力と熱排気の制約下で、いかにモデルを絞り込めるか。今のうちに量子化やエッジ最適化を極めておくべき。\n\n宇宙でAI回してみたい人、この技術スタックで何が変わるか語り合いませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-27T16:00:08.626391+09:00",
+    "posted": false
   }
 ]
