@@ -4901,5 +4901,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-27T22:16:33.996449+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-28-perplexity-computer-practical-review-and-api-guide",
+    "title": "Perplexity Computer 検索と計算を融合したAI検索エンジンの実力と活用法",
+    "url": "https://ai.negi-lab.com/posts/perplexity-computer-practical-review-and-api-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Perplexity #生成AI",
+    "tweet_text": "SIer時代、数時間かけていた競合調査やデータ集計。あの苦労を過去にするツールがPerplexity Computerです。\n\nこれ、単なるAI検索だと思ったら大間違い。\n「最新情報を検索する」＋「Pythonで計算する」を一つのフローで完結させている点が異次元です。\n例えば「特定企業の過去5年の決算短信から成長率を計算して」と投げれば、ウェブから数字を拾い、その場でコードを実行して正確な解を出してくれます。\n\nLLMの弱点だった「計算ミス」と「情報の古さ」を力技で解決した感じ。\n実際にAPIを叩いてみましたが、OpenAI互換なので既存の自作ツールへの組み込みも一瞬でした。\n\nもちろん弱点もあります。\n情緒的な表現はClaudeに負けるし、たまに箇条書きが多すぎて文脈が薄くなることも。\nでも「仕事で使えるか」という基準なら、今もっとも信頼できる相棒なのは間違いない。\n\n皆さんは、AIの回答を「裏取り」するのにどれくらい時間を使ってますか？\nPerplexityなら、出典リンクが1文ごとに付くので、検証コストが激減しますよ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-28T00:11:39.268475+09:00",
+    "posted": false
   }
 ]
