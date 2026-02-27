@@ -4817,5 +4817,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-27T11:43:10.787194+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-27-anthropic-ceo-refuses-pentagon-unrestricted-access",
+    "title": "Anthropicがペンタゴンの要求を拒絶した技術的背景と開発者への影響",
+    "url": "https://ai.negi-lab.com/posts/anthropic-ceo-refuses-pentagon-unrestricted-access/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #AIセーフティ",
+    "tweet_text": "Anthropicのダリオ・アモデイCEOが、ペンタゴンからの「AIへの無制限アクセス要求」を拒絶。これはAI界の歴史に残る大きな決断ですね。\n\nOpenAIが軍事利用の制限を緩める中で、Anthropicは自分たちが掲げる「AIセーフティ」の聖域を守り抜く姿勢を見せました。技術的に見れば、モデルの重みを国家に明け渡すことは、彼らのコア技術である「憲法AI」による制御を物理的に破壊されることを意味します。\n\n元SIerの視点で見ると、この手の「裏口要求」を一度でも飲めば、モデルの純粋性は二度と戻りません。私たちがAPI経由で使っている知能が、いつの間にか国家の都合で検閲される未来を、彼は命がけで阻止したと言えます。\n\nしかし、これは同時に巨大なビジネスリスクでもあります。米国政府を敵に回して、AmazonやGoogleからの出資関係やインフラ供給に影響が出ないのか。開発者は「特定のモデルへの依存」がいかに政治的リスクを孕むかを再認識すべき時が来ました。\n\n皆さんは、AI企業が国家の安全保障にどこまで協力すべきだと思いますか？利便性と倫理性、どちらを優先すべきか、実務者としての本音を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-27T13:54:23.640524+09:00",
+    "posted": false
   }
 ]
