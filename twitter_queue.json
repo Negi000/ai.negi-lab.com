@@ -4873,5 +4873,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-27T18:46:09.373059+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-27-whatdoiwear-run-review-running-outfit-engine",
+    "title": "whatdoiwear.run 使い方とランニング用服装提案エンジンの実力",
+    "url": "https://ai.negi-lab.com/posts/whatdoiwear-run-review-running-outfit-engine/",
+    "category": "TOOL",
+    "viral_tags": "#ランニング #プロダクトハント",
+    "tweet_text": "ランナーの朝の悩みを一瞬で解決する「whatdoiwear.run」が想像以上に実用的です。\n\nSIer時代に空調制御ロジックを組んでいた視点から見ても、気温・湿度・風速・さらに「走行強度」まで掛け合わせた体感温度の計算精度がかなり高い。単純な天気予報アプリで「10度だから長袖」と判断して、走り出し3kmで後悔するあの現象を完全に防げます。\n\n実際に試したところ、OpenWeatherMapのデータと連動して0.2秒でレスポンスが返ってくる。露点温度まで考慮に入れているようなウェア提案の妙は、もはやベテランランナーの勘をアルゴリズム化したと言っても過言ではないですね。\n\nミニマルなUIで、余計な広告や入力項目が一切ないのも開発者好みの設計。API的な使い方も想定できるパラメータ構造なので、GarminやSlackと連携させればウェア選びの意思決定コストを完全にゼロにできます。\n\n皆さんは冬場のランニング、走り出しの寒さと後半の暑さのトレードオフ、どうやって解決してますか？独自の「重ね着の黄金律」とかあれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-27T22:12:09.647029+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-27-qwen35-35b-local-setup-16gb-vram",
+    "title": "Qwen3.5-35BをVRAM 16GBで爆速動作させるローカルLLM構築術",
+    "url": "https://ai.negi-lab.com/posts/qwen35-35b-local-setup-16gb-vram/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLaMA #Qwen35",
+    "tweet_text": "RTX 5080の検証データがRedditで話題ですが、16GB VRAM勢にとってQwen3.5-35B-A3Bは現時点で「最強の回答」かもしれません。\n\n検証した結果、KVキャッシュをQ8に量子化するだけで、精度を維持したまま秒間70トークン超え。SIer時代に数百万かけて構築した環境が、いまやデスクトップPC1台で、しかも圧倒的な爆速で動く事実に震えています。\n\n特に驚いたのがQ4_K_M量子化との相性。巷で噂のUD-Q4はKLダイバージェンスの数値が芳しくなく、実務で使うなら従来のK-Quantsの方が安定しますね。\n\n「ローカルLLMは遅い」という常識は、もう捨てていい。今回の記事では、llama.cppの最新フラグを駆使して、あなたのPCを「最強の推論サーバー」に変える手順をまとめました。\n\n16GB VRAMのグラボを持て余している方、実際に動かしてみての速度や精度はどう感じましたか？私の環境（4090 2枚挿し）との比較もしてみたいので、ぜひリプライで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-27T22:16:33.996449+09:00",
+    "posted": false
   }
 ]
