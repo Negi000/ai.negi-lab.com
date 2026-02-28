@@ -4985,5 +4985,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-28T15:43:44.290597+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-28-pentagon-designates-anthropic-supply-chain-risk-analysis",
+    "title": "米国防総省がAnthropicをリスク指定した真意と開発者への影響",
+    "url": "https://ai.negi-lab.com/posts/pentagon-designates-anthropic-supply-chain-risk-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #AI安全保障",
+    "tweet_text": "AI業界に極めて冷酷な現実が突きつけられました。米防衛省がAnthropicを「サプライチェーン・リスク」に指定。性能や安全性を磨き上げてきたClaudeが、政治の文脈で「国家の脅威」として排除される事態に。\n\nSIer時代、ハードウェアの輸出規制でプロジェクトが火を噴いた経験がありますが、まさかAIの「モデル重み」で同じことが起きるとは…。Constitutional AI（憲法AI）という同社独自のガバナンスが、現政権には「コントロール不能な思想」と映ったのかもしれません。\n\n開発者として痛いほどわかるのは、特定のAPIへの100%依存がどれほど危険かということ。今日からは「Claudeが一番賢いから使う」ではなく「Claudeが消えても動く設計にする」というBCPの視点が、エンジニアの必須スキルになります。\n\nAWS BedrockやGoogle Cloud経由で使っているから安心、というフェーズは終わりました。クラウドベンダー自体が政府の意向で提供を停止せざるを得ない状況が現実味を帯びています。\n\n皆さんの現場では、このニュースを受けてモデルの冗長化やローカルLLMへの切り替え、検討し始めましたか？それとも「まだ対岸の火事」でしょうか。実務への具体的な影響について、皆さんの意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-28T18:27:00.067740+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-28-the-claw-news-open-claw-agent-review",
+    "title": "The Claw News 自律型AIエージェントによる自動ニュース収集システムの構築",
+    "url": "https://ai.negi-lab.com/posts/the-claw-news-open-claw-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#OpenClaw #AIエージェント",
+    "tweet_text": "朝起きたら、自分専用のAI編集長が「今日あなたが読むべき記事」をSlackに届けてくれる。そんな環境が The Claw News (OpenClaw) で現実的になりました。\n\nSIer時代、毎朝1時間かけて競合調査をしていた苦労は何だったのか。このツールは単なるスクレイピングではありません。Claude 3.5 Sonnetのような高度なLLMが、自律的にブラウザを操作し、内容を吟味して「情報の重み」を判断します。\n\n実際に試したところ、1記事あたりのコストは数十円かかりますが、無駄な記事を読む時間を15分削れるなら安い投資だと確信しました。Playwrightベースなので、JS多用のモダンなサイトも余裕で突破できます。\n\nただし、構築にはPythonの知識が必須。環境構築は少し癖がありますが、そこを乗り越えれば「情報の洪水」から解放される最強の武器になります。\n\n自律型エージェントを実務に組み込みたい人、情報収集を自動化したいエンジニアの皆さんは、これをベースに自分の「特化型ニュースルーム」を作ってみるのが面白いですよ。皆さんは今、どうやって最新情報を追っていますか？RSS派ですか、それともSNSのリスト派ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-28T18:28:30.077555+09:00",
+    "posted": false
   }
 ]

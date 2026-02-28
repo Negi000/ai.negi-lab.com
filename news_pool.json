@@ -1,58 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "InScope nabs $14.5M to solve the pain of financial reporting",
-      "url": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 20 Feb 2026 19:24:57 +0000",
-      "summary": "The startup, founded by accountants who worked at Flexport, Miro, Hopin and Thrive Global, automates the difficulties of prepping financial statements.",
-      "extra": {},
-      "collected_at": "2026-02-21T15:48:18"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Excessive token usage in Claude Code",
-      "url": "https://github.com/anthropics/claude-code/issues/16856",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 21 Feb 2026 02:40:24 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-02-21T15:48:19"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Merge",
-      "url": "https://www.producthunt.com/products/merge-connect-apple-watch-to-android",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Use your Apple Watch with any Android phone </p> <p> <a href=\"https://www.producthunt.com/products/merge-connect-apple-watch-to-android?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078358?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-21T15:48:20"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "15,000+ tok/s on ChatJimmy: Is the \"Model-on-Silicon\" era finally starting?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rajr11/15000_toks_on_chatjimmy_is_the_modelonsilicon_era/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-21T06:19:57+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rajr11/15000_toks_on_chatjimmy_is_the_modelonsilicon_era/\"> <img alt=\"15,000+ tok/s on ChatJimmy: Is the &quot;Model-on-Silicon&quot; era finally starting?\" src=\"https://preview.redd.it/613dlkwajskg1.jpg?width=140&amp;height=66&amp;auto=webp&amp;s=a6ebd30b03b40fdd3c785cd1f706948111b29c29\" title=\"15,000+ tok/s on ChatJimmy: Is the &quot;Model-on-Silicon&quot; era finally starting?\" /> </a> </td><td> <!-- SC_OFF --><div class=",
-      "extra": {},
-      "collected_at": "2026-02-21T15:48:22"
-    },
-    {
       "source": "Product Hunt",
       "title": "Lyria 3 by Google Deepmind",
       "url": "https://www.producthunt.com/products/lyria-3-by-google-deepmind",
@@ -3243,19 +3191,6 @@
       "collected_at": "2026-02-28T02:36:21"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "ChatGPT reaches 900M weekly active users",
-      "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 27 Feb 2026 18:25:51 +0000",
-      "summary": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
-      "extra": {},
-      "collected_at": "2026-02-28T06:38:38"
-    },
-    {
       "source": "HN AI Hot",
       "title": "We gave terabytes of CI logs to an LLM",
       "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
@@ -3470,7 +3405,99 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Used this model from <a href=\"http://chat.qwen.ai\">chat.qwen.ai</a> and turned off thinking (used Fast mode). Inference is fast enough and with using this as my default prompt:</p> <blockquote> <p>&quot;Do not provide a lame or generic answer.&quot;</p> </blockquote> <p>...this model does not answer like a 27B model that we've previously known of.</p> <p>Example prompts:</p> <ol> <li>&quot;What does it mean to be nocturnal and eternal?&quot;:</li> </ol> <p>To be",
       "extra": {},
       "collected_at": "2026-02-28T15:43:10"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-02-27T12:16:53-05:00",
+      "summary": "Can AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-02-28T18:26:29"
+    },
+    {
+      "source": "Google News",
+      "title": "OpenAI、国防総省とAIモデル提供合意 アンソロピック決裂後に表明 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDOWwzTksxaWtELW84MldhX1lVM2swb1ZRZFp3a19rR1FNTlpSSWxnSnRkSmpqd0RKOGY3QUVBVHlDS2FCWFpWNVJBeEM2OWFIUVdPc0VIYmpuNnR6cTV4VTRWU01FbUY2bFVfRg?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 28 Feb 2026 05:46:11 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBDOWwzTksxaWtELW84MldhX1lVM2swb1ZRZFp3a19rR1FNTlpSSWxnSnRkSmpqd0RKOGY3QUVBVHlDS2FCWFpWNVJBeEM2OWFIUVdPc0VIYmpuNnR6cTV4VTRWU01FbUY2bFVfRg?oc=5\" target=\"_blank\">OpenAI、国防総省とAIモデル提供合意 アンソロピック決裂後に表明</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "extra": {},
+      "collected_at": "2026-02-28T18:26:30"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "The Claw News",
+      "url": "https://www.producthunt.com/products/the-claw-news",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> OpenClaw agents publishing daily news </p> <p> <a href=\"https://www.producthunt.com/products/the-claw-news?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1086816?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-28T18:26:30"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Google AI Edge Gallery",
+      "url": "https://www.producthunt.com/products/google",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Bring on-device function calling to iPhone </p> <p> <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1086990?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-28T18:26:30"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Study OS",
+      "url": "https://www.producthunt.com/products/study-os",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A minimalist focus timer with tasks, notes & study music </p> <p> <a href=\"https://www.producthunt.com/products/study-os?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085463?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-28T18:26:30"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "PromptURLs",
+      "url": "https://www.producthunt.com/products/prompturls",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn any prompt into a shareable URL for ChatGPT, Claude </p> <p> <a href=\"https://www.producthunt.com/products/prompturls?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087312?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-02-28T18:26:30"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Get your local models in order. Anthropic just got \"dislike\" from the US government.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rguty0/get_your_local_models_in_order_anthropic_just_got/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-02-28T06:01:55+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rguty0/get_your_local_models_in_order_anthropic_just_got/\"> <img alt=\"Get your local models in order. Anthropic just got &quot;dislike&quot; from the US government.\" src=\"https://preview.redd.it/p1uxufobl6mg1.png?width=140&amp;height=32&amp;auto=webp&amp;s=75fde52d15f964724cf5a1209d7fee5c4dc8bc21\" title=\"Get your local models in order. Anthropic just got &quot;dislike&quot; from the US government.\" /> </a> </td><td> <!-- SC_",
+      "extra": {},
+      "collected_at": "2026-02-28T18:26:33"
     }
   ],
-  "updated_at": "2026-02-28T15:43:10.548454+09:00"
+  "updated_at": "2026-02-28T18:26:33.490718+09:00"
 }
