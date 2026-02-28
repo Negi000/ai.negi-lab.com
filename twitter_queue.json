@@ -4957,5 +4957,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-28T11:31:34.830613+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-28-anthropic-vs-pentagon-military-ai-conflict",
+    "title": "Anthropic vs 国防総省：軍事AIの「憲法」が国家安全保障と激突",
+    "url": "https://ai.negi-lab.com/posts/anthropic-vs-pentagon-military-ai-conflict/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #軍事AI",
+    "tweet_text": "Anthropicと米国防総省が、AI兵器のルール作りを巡って真っ向から対立しています。このニュース、単なる企業トラブルじゃなくて、AIの「知能」を国家がどう制御するかっていう歴史的な分岐点なんですよね。\n\n元SIerの視点から言わせてもらうと、今回の争点はAnthropic独自の「憲法AI」。モデルに倫理を叩き込むこの仕組みが、1ミリ秒を争う戦場では「判断の鈍さ」と見なされている。軍はガードレールの解除を求めているけど、それをやるとモデルのアライメントが崩壊しかねない。\n\n技術的な理想と、地政学的なリアリズムの衝突。これ、他人事じゃないですよ。今後、APIの利用規約がさらに厳格化されたり、特定のワークロードが「軍事転用可能」として弾かれるリスクが激増します。\n\n実際、私も仕事で Claude 3.5 使ってると「え、これがダメなの？」って拒絶に遭遇することが増えた気がします。皆さんは、AIベンダーの「倫理的な検閲」についてどう感じてますか？これからの開発者は、ローカルLLMへのフォールバックを真剣に考える時期かもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-28T13:22:19.691660+09:00",
+    "posted": false
   }
 ]
