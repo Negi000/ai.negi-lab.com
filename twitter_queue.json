@@ -5055,5 +5055,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-28T23:52:02.578682+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-03-01-openai-pentagon-defense-contract-technical-safeguards",
+    "title": "OpenAIの国防総省契約から読み解くAI軍事利用の「技術的防壁」と開発者への影響",
+    "url": "https://ai.negi-lab.com/posts/openai-pentagon-defense-contract-technical-safeguards/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #PentagonAI",
+    "tweet_text": "OpenAIがペンタゴンとの直接契約を発表しました。ついに来たか、というのが正直な感想です。\n\nSIer時代に官公庁案件を回していた身からすると、この「技術的セーフガード」という言葉の重みが分かります。単に規約で縛るのではなく、システムの根幹に「軍事利用の境界線」を組み込むという宣言。\n\nでもこれ、私たち開発者にとっても他人事じゃないんですよ。\n\n軍事レベルの安全基準がAPIのデファクトになれば、モデルの柔軟性は確実に落ちる。一方で、金融や医療などのガチガチな業界にAIをぶち込むための「型」ができる側面もあります。\n\n個人的には、サム・アルトマンが「倫理を技術で解決する」という力技に出たことに衝撃を受けています。憲法AIで挑むAnthropicとの対比が本当に面白い。\n\nAPIドキュメントの端々に、これから「国家安全保障」の影がちらつくようになるんでしょうね。RTX 4090でローカルLLMを動かす自由が、これまで以上に貴重に感じられる時代が来そうです。\n\n皆さんは、AIが国防の基幹に組み込まれることについて、どう考えますか？信頼できるセーフガードは本当に技術的に可能だと思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-01T02:21:37.440335+09:00",
+    "posted": false
   }
 ]
