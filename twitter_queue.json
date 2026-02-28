@@ -5013,5 +5013,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-28T18:28:30.077555+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-28-pixel-ad-performance-scaling-review-2024",
+    "title": "Pixel 広告運用の断絶を解消する統合パフォーマンス管理ツール",
+    "url": "https://ai.negi-lab.com/posts/pixel-ad-performance-scaling-review-2024/",
+    "category": "TOOL",
+    "viral_tags": "#AdTech #マーケティング自動化",
+    "tweet_text": "SIer時代、複数の広告ダッシュボードを往復してExcelで集計する作業ほど生産性の低い時間はありませんでした。Meta、Google、TikTok...媒体ごとに仕様が違うAPIを叩くコードを自前で書くのも、保守コストを考えれば地獄です。\n\n今回検証した「Pixel」は、この断絶を統合するSDKとしての側面がかなり強い。\n\n特に「Conversions API(CAPI)」の統合ハブとして動く点が秀逸です。一度のデータ送信で全媒体に成果をフィードバックできるため、iOS14.5以降の計測欠損問題に対するエンジニア的な解法になります。\n\n正直、広告予算が月100万円以下のフェーズならオーバースペック。でも、複数媒体を並行運用して「どのクリエイティブが本当に効いているか」をデータで突合したい現場なら、この抽象化レイヤーを挟むメリットは極めて大きい。\n\npip install pixel-marketing-sdk で数行書くだけで、媒体横断の予算操作が自動化できるのは、運用者よりむしろエンジニアが喜ぶ仕様ですね。\n\n実際にマルチプラットフォーム運用でCAPIの実装工数に悩んでいる方、今のスタックとどう組み合わせていますか？自前実装派とツール派で意見が分かれそうな領域です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-28T21:56:56.069425+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-02-28-deepseek-v4-python-multimodal-setup-guide",
+    "title": "DeepSeek V4 使い方先取りガイド！Pythonでマルチモーダル基盤を作る",
+    "url": "https://ai.negi-lab.com/posts/deepseek-v4-python-multimodal-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#DeepSeek #生成AI",
+    "tweet_text": "DeepSeek V4が来週リリースとの速報が入りました。Financial Timesの報道によると、ついに画像と動画の生成機能が統合されるとのこと。\n\nこれ、界隈にとっては激震レベルの話だと思います。\nというのも、DeepSeekの強みはその圧倒的な「安さ」と「性能」。V3でもOpenAIの牙城を崩しかけているのに、ここでマルチモーダル化が進めば、コスト面で他社モデルを使い続ける理由がほぼ無くなるかもしれません。\n\nSIer時代、APIコストの試算だけでプロジェクトが頓挫する場面を何度も見てきました。\nでも、DeepSeekなら「とりあえず全部AIに生成させる」という力技の自動化が現実的な予算で組めます。\n\n今のうちにOpenAI互換のSDKで基盤を組んでおけば、来週モデル名を書き換えるだけで動画生成AIエージェントが完成します。\n準備はいいですか？私はRTX 4090を冷やしながら、APIドキュメントの更新を正座待機しています。\n\nDeepSeekを使っている皆さんは、どの機能に一番期待していますか？\n動画生成のクオリティか、それとも推論モデルとの統合か。ぜひ皆さんの予想を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-28T21:58:24.961156+09:00",
+    "posted": false
   }
 ]
