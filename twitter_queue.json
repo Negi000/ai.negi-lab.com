@@ -5069,5 +5069,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-01T02:21:37.440335+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-01-claude-app-store-ranking-pentagon-dispute-analysis",
+    "title": "ClaudeアプリがApp Storeで2位に。ペンタゴン騒動が証明した「安全性」の市場価値",
+    "url": "https://ai.negi-lab.com/posts/claude-app-store-ranking-pentagon-dispute-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Claude3 #Anthropic",
+    "tweet_text": "ペンタゴンが欲しがるAI、その正体がApp Storeランキングに地殻変動を起こしています。\n\nAnthropicのClaudeがApp Storeで2位に急上昇。きっかけは軍事利用を巡る米国国防総省との「紛争」報道という皮肉な展開です。元SIerの視点で見ると、この騒動はClaudeの「安全性」と「制御可能性」が国家レベルで認められた最高の証明書に見えます。\n\n技術的な核心は、やはり「憲法AI」。人間がラベル付けするRLHFの限界を、AI自身が規範に従う仕組みで突破しています。実際に3.5 Sonnetを叩くと分かりますが、指示への忠実度とコード生成の精度は、今のところGPT-4oの一歩先を行っている印象です。\n\n特にAPI単価がGPT-4oより40%安いのは、実務者にとって無視できない数字。私はRTX 4090を2枚回していますが、それでも重いタスクはClaude 3.5に投げることが増えました。\n\n「国が欲しがるけど安売りしない」というAnthropicの姿勢が、結果としてエンタープライズ市場での信頼を勝ち取っている。この流れ、3ヶ月後にはビジネス現場の標準が変わっているかもしれません。\n\n皆さんは、AIの「安全性」と「性能」、どっちを優先してモデルを選んでいますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-01T06:31:52.599017+09:00",
+    "posted": false
   }
 ]

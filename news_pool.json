@@ -1,72 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "7 days until ticket prices rise for TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 21 Feb 2026 15:00:00 +0000",
-      "summary": "Lowest ticket prices to TechCrunch Disrupt 2026 end February 27. Up to $680 off individual passes and up to 30% off group passes. Register before they go up to join 10,000 founders, tech operators, and VCs.",
-      "extra": {},
-      "collected_at": "2026-02-22T02:25:42"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "git-lrc",
-      "url": "https://www.producthunt.com/products/git-lrc",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> Free, unlimited AI code reviews that run on commit </p> <p> <a href=\"https://www.producthunt.com/products/git-lrc?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079262?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-22T02:25:44"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Wave Field LLM — O(n log n) attention via wave equation dynamics",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1raucof/wave_field_llm_on_log_n_attention_via_wave/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-21T15:46:07+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been working on an alternative attention mechanism that treats language as a physical field system instead of using standard O(n²) self-attention.</p> <p><strong>How it works:</strong> - Tokens are mapped onto a continuous 1D field - Information propagates via damped wave equations: k(t) = exp(-α·t)·cos(ω·t + φ) - Each attention head has just 3 learnable physics parameters (frequency, damping, phase) - Convolution computed via FFT in O(n log n) - Heads self",
-      "extra": {},
-      "collected_at": "2026-02-22T02:25:46"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen Code - a powerful open-source coding agent + NO TELEMETRY FORK",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rar6md/qwen_code_a_powerful_opensource_coding_agent_no/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-21T13:31:28+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Hey everyone,</h1> <p>I wanted to share two things: a great open-source project I've been using, and a fork I made for privacy-conscious folks.</p> <h1>Qwen Code</h1> <p><a href=\"https://github.com/QwenLM/qwen-code\"><strong>https://github.com/QwenLM/qwen-code</strong></a></p> <p>Qwen Code is an open-source CLI coding agent developed by Alibaba's Qwen team. It's essentially their take on tools like Claude Code or Gemini CLI. You run it in your terminal, point it",
-      "extra": {},
-      "collected_at": "2026-02-22T02:25:46"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "[Release] Ouro-2.6B-Thinking — first working inference (ByteDance's recurrent \"thinking\" model, fixed for transformers 4.55)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ramir9/release_ouro26bthinking_first_working_inference/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-21T09:04:04+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>ByteDance released Ouro-2.6B-Thinking a few weeks ago and it's been tricky to run — the architecture is genuinely unusual and existing GGUFs were producing garbage output because of it.</p> <p>What makes Ouro different: It's a recurrent Universal Transformer — it runs all 48 layers 4 times per token (192 effective passes). Standard llama.cpp just runs each layer once, so every existing GGUF was broken.</p> <p>What I fixed:</p> <p>The original modeling_ouro.py ha",
-      "extra": {},
-      "collected_at": "2026-02-22T02:25:46"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Why is Claude an Electron App?",
       "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
@@ -3456,19 +3390,6 @@
       "collected_at": "2026-02-28T23:51:37"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
-      "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 28 Feb 2026 16:17:36 +0000",
-      "summary": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
-      "extra": {},
-      "collected_at": "2026-03-01T02:20:53"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Qwen 3.5-35B-A3B is beyond expectations. It's replaced GPT-OSS-120B as my daily driver and it's 1/3 the size.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rh43za/qwen_3535ba3b_is_beyond_expectations_its_replaced/",
@@ -3494,7 +3415,59 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>new google paper is out and it challenges something a lot of us assumed. they tested 8 model variants (GPT-OSS, DeepSeek-R1, Qwen3, etc) across AIME2024/2025, HMMT 2025, and GPQA-Diamond.</p> <p>the finding: token length and accuracy have an average correlation of -0.54. negative. longer reasoning chains don't mean better answers, they often mean the model is spiraling or overthinking.</p> <p>so they proposed DTR (Deep Thinking Ratio) which measures what fractio",
       "extra": {},
       "collected_at": "2026-03-01T02:21:04"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
+      "url": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sat, 28 Feb 2026 21:05:06 +0000",
+      "summary": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+      "extra": {},
+      "collected_at": "2026-03-01T06:31:10"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The billion-dollar infrastructure deals powering the AI boom",
+      "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 28 Feb 2026 20:41:55 +0000",
+      "summary": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+      "extra": {},
+      "collected_at": "2026-03-01T06:31:10"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Stop Burning Your Context Window – How We Cut MCP Output by 98% in Claude Code",
+      "url": "https://mksg.lu/blog/context-mode",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 28 Feb 2026 10:01:20 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-01T06:31:12"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "This sub is incredible",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rh9u4r/this_sub_is_incredible/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-02-28T18:20:55+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I feel like everything in the AI industry is spedrunning profit driven vendor lock in and rapid enshitification, then everyone on this sub cobbles together a bunch of RTX3090s, trade weights around like they are books at a book club and make the entire industry look like a joke. Keep at it! you are our only hope!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cmdr-William-Riker\"> /u/cmdr-William-Riker </a> <br /> <span><a ",
+      "extra": {},
+      "collected_at": "2026-03-01T06:31:16"
     }
   ],
-  "updated_at": "2026-03-01T02:21:04.818248+09:00"
+  "updated_at": "2026-03-01T06:31:16.273297+09:00"
 }
