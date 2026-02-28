@@ -4943,5 +4943,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-02-28T06:39:13.577488+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-02-28-pentagon-anthropic-supply-chain-risk-analysis",
+    "title": "ペンタゴンがAnthropicを供給網リスクに指定。Claude利用企業が直面する信頼性崩壊の現実",
+    "url": "https://ai.negi-lab.com/posts/pentagon-anthropic-supply-chain-risk-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #サプライチェーンリスク",
+    "tweet_text": "ペンタゴンがAnthropicを「供給網リスク」に指定するという、とんでもないニュースが入ってきました。大統領がSNSで「二度と取引しない」とまで言い切る異常事態です。\n\nSIer時代から「リスク管理」にはうるさい私ですが、今回の件は全開発者が自分事として捉えるべき。これまで「最も安全」と信じられてきたClaudeが、国家安全保障の観点から「信頼できない」と断じられた衝撃は計り知れません。\n\n技術的な背景を深掘りすると、同社独自の「憲法AI」によるブラックボックス性が、政府の求める厳格な制御と衝突したようです。RTX 4090を2枚回してローカルLLMを検証し続けている身としては、やはり「最後は自分の手元で動くものしか信じられない」という結論に至らざるを得ません。\n\n今後、民間企業でもClaude離れが進むのは避けられないでしょう。皆さんのプロジェクトでは、特定のAIプロバイダーへの依存をどう回避していますか？APIの抽象化やローカル移行など、現実的な対策について意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-02-28T11:31:34.830613+09:00",
+    "posted": false
   }
 ]
