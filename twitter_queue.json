@@ -5181,5 +5181,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-01T22:01:48.390835+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-01-octrafic-cli-api-testing-natural-language-review",
+    "title": "Octrafic 自然言語でAPIテストを記述・実行できるCLIツール",
+    "url": "https://ai.negi-lab.com/posts/octrafic-cli-api-testing-natural-language-review/",
+    "category": "TOOL",
+    "viral_tags": "#Octrafic #APITesting",
+    "tweet_text": "SIer時代のあの不毛なAPIテスト準備、Octraficがあれば数分で終わってたかもしれませんね。\n\n「英語で命令するだけ」でAPIテストが完結するOctraficを触ってみました。Postmanを立ち上げるのも面倒、かといってpytestを書くほどでもない…そんな「開発中のちょっとした確認」に刺さるCLIツールです。\n\n例えば「ログインして、返ってきたトークンでタスクを作って、一覧にあるか確認して」と1行書くだけ。LLMが裏でリクエストの連鎖を勝手に組み立ててくれます。正直、この「思考の速度でテストが走る」感覚は、一度味わうと戻れません。\n\nもちろん、LLMゆえの非決定性やAPIコストの課題はあります。だからこそ、CI/CDでガチガチに固めるより、開発初期のプロトタイピングで「使い捨てのスモークテスト」として運用するのが今の正解だと感じました。\n\nAPIテストの自動化、皆さんは「堅牢さ」と「速度」のどちらを優先していますか？あるいは、LLMにテストロジックを任せることに抵抗はありますか？実務で使うならどのラインまで許容できるか、意見を聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-01T23:53:49.632163+09:00",
+    "posted": false
   }
 ]
