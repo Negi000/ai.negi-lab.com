@@ -5125,5 +5125,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-01T15:53:09.286282+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-01-anthropic-vs-pentagon-ai-military-guardrails",
+    "title": "Anthropicと米国防総省がAI兵器利用を巡って対立し、安全ガードレールの「完全撤廃」を求める軍と、それを拒む開発企業の溝が浮き彫りになりました。",
+    "url": "https://ai.negi-lab.com/posts/anthropic-vs-pentagon-ai-military-guardrails/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #AI兵器",
+    "tweet_text": "Anthropicが米国防総省（ペンタゴン）からの「AIガードレール撤廃要求」を拒絶したニュース、これはAI業界の歴史的な分岐点になりますね。軍側は「あらゆる法的利用」を認めろと迫っており、これには大量監視や自律型兵器への転用も含まれる可能性がある。\n\n正直、SIer時代に見てきた要件定義とは比較にならないほど生々しい対立です。OpenAIが軍事制限を緩和して政府寄りの姿勢を強める中、Anthropicが「Constitutional AI（憲法AI）」の理念をどこまで貫けるか。\n\n技術者として気になるのは、これが単なる倫理観の衝突ではなく「モデルの重みを軍事最適化するために制限を外せ」というハードな要求だという点。一度でもガードレールを外したモデルが市場に出回れば、それは二度と元には戻せません。\n\n「AIの安全性」という言葉が、巨額の軍事予算を前にしてどれほどの強度を持つのか。私はRTX 4090を回しながら、検閲も監視もされない計算資源をローカルで確保し続ける重要性を改めて痛感しています。\n\n皆さんは、自分が開発で使っているAIが、ある日突然「軍事利用」に最適化されるとしたら、そのまま使い続けますか？それとも乗り換えますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-01T18:30:03.210303+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-01-openfang-agent-os-comprehensive-review-for-engineers",
+    "title": "OpenFang 使い方レビュー：AIエージェントを「OS」として管理する新機軸のOSSを評価する",
+    "url": "https://ai.negi-lab.com/posts/openfang-agent-os-comprehensive-review-for-engineers/",
+    "category": "TOOL",
+    "viral_tags": "#OpenFang #AIエージェント",
+    "tweet_text": "AIエージェントの構築を「Pythonのスクリプト作成」だと思っているなら、OpenFangの登場でその常識が覆るかもしれません。\n\nProduct Huntで見つけたこの「Open-Source Agent Operating System」は、エージェントを単なるプログラムではなく、OS上の独立したプロセスとして管理するという設計思想。SIer時代、複雑なバッチ処理の依存関係やリソース競合に泣かされた経験がある身としては、この「Kernel」による抽象化は鳥肌モノです。\n\n特にマルチエージェントを24時間常駐させる際にネックとなる、メモリ共有（SharedSpace）やトークン消費のリミット制限がOSレベルで実装されているのが強すぎる。1段上の「堅牢なシステム」を組みたいエンジニアには、LangChainよりもこっちの方が響くはず。\n\nRTX 4090を2枚挿してローカルLLMを回していますが、推論とプロセス管理をOS層で分離できる恩恵は計り知れません。学習コストは正直高めですが、エージェントを「一過性のツール」ではなく「インフラ」として捉えるなら、避けては通れない道になりそうです。\n\nみなさんは複数の自律型エージェントを回す際、エラーハンドリングやリソース制限はどうやって実装していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-01T18:31:52.863704+09:00",
+    "posted": false
   }
 ]
