@@ -2,86 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Why is Claude an Electron App?",
-      "url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 21 Feb 2026 21:28:13 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-02-22T08:29:05"
-    },
-    {
-      "source": "Google News",
-      "title": "サウジアラビア、世界的なAIアライアンスに参加 - arabnews.jp",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RRk1TanhWVnJHbXdvbTRGTDdneUYwMXJRQWdjZFVXR3VoSEN1RHFDRjJLc2JtRjVqaFZpdW43R1dhWW5ZVVRQa1phN1ctNUkwYzNTRHU3aTdJOEJKN2doWEpkZ2pKZXFoWGFKVw?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 21 Feb 2026 18:53:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5RRk1TanhWVnJHbXdvbTRGTDdneUYwMXJRQWdjZFVXR3VoSEN1RHFDRjJLc2JtRjVqaFZpdW43R1dhWW5ZVVRQa1phN1ctNUkwYzNTRHU3aTdJOEJKN2doWEpkZ2pKZXFoWGFKVw?oc=5\" target=\"_blank\">サウジアラビア、世界的なAIアライアンスに参加</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">arabnews.jp</font>",
-      "extra": {},
-      "collected_at": "2026-02-22T08:29:07"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "PSA: The software “Shade” is a fraudulent, plagiarized copy of Heretic",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rawoe4/psa_the_software_shade_is_a_fraudulent/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-21T17:16:21+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Three days ago, the following repository was published, which its “creator” has been aggressively promoting on various channels since then:</p> <p><a href=\"https://github.com/assemsabry/shade\">https://github.com/assemsabry/shade</a></p> <p>The entire source code in the repository is plagiarized from Heretic (<a href=\"https://github.com/p-e-w/heretic\">https://github.com/p-e-w/heretic</a>), with only the project name and the copyright notice replaced, claiming “or",
-      "extra": {},
-      "collected_at": "2026-02-22T08:29:09"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ray0vz/cxmt_has_been_offering_ddr4_chips_at_about_half/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-21T18:07:33+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ray0vz/cxmt_has_been_offering_ddr4_chips_at_about_half/\"> <img alt=\"CXMT has been offering DDR4 chips at about half the prevailing market rate\" src=\"https://external-preview.redd.it/0K-nyzO4raoSh4Q6Gk6oShuWqJIJ5QWuThVMJGt1MKU.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=ad4ecef7d00fc6d2fefa3cec8972e26294886527\" title=\"CXMT has been offering DDR4 chips at about half the prevailing market rate\" /> </a> </td><td> &#32; subm",
-      "extra": {},
-      "collected_at": "2026-02-22T08:29:09"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "PSA on public agentic tools and the speed they are shipping updates: recent Cline release had a package injected",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rb270r/psa_on_public_agentic_tools_and_the_speed_they/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-02-21T20:52:57+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Some of you may remember a post about sloppy OpenCode commit a week ago or so, unsurprisingly others are embracing vibe coding speed and sloppiness as well.</p> <p>I've randomly stumbled upon<br /> <a href=\"https://www.reddit.com/r/CLine/comments/1r9p3ww/supply_chain_attack_on_cline_installs_openclaw/\">https://www.reddit.com/r/CLine/comments/1r9p3ww/supply_chain_attack_on_cline_installs_openclaw/</a> apparently a recent Cline release had OpenClaw installer injec",
-      "extra": {},
-      "collected_at": "2026-02-22T08:29:09"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "O-TITANS: Orthogonal LoRAs for Gemma 3 using Google's TITANS memory architecture",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rb4luf/otitans_orthogonal_loras_for_gemma_3_using/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-21T22:32:47+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I've been working on a project I call <strong>O-TITANS</strong> (Orthogonal Tensors for Independent Task Alignment). It's an Orthogonal LoRA approach specifically for Gemma 3 that incorporates the Google TITANS memory architecture.<br /> It was inspired by a project by ffurfaro on HF called &quot;TPTT&quot; that I just couldn't get to work.</p> <p>I'm building this to wrap into my next project: <strong>MoOLE-T (Mixture of Orthogonal LoRA Experts - ",
-      "extra": {},
-      "collected_at": "2026-02-22T08:29:09"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "How I use Claude Code: Separation of planning and execution",
       "url": "https://boristane.com/blog/how-i-use-claude-code/",
       "primary_category": "NEWS",
@@ -3418,19 +3338,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
-      "url": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sat, 28 Feb 2026 21:05:06 +0000",
-      "summary": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
-      "extra": {},
-      "collected_at": "2026-03-01T06:31:10"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "The billion-dollar infrastructure deals powering the AI boom",
       "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
       "primary_category": "NEWS",
@@ -3467,7 +3374,74 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I feel like everything in the AI industry is spedrunning profit driven vendor lock in and rapid enshitification, then everyone on this sub cobbles together a bunch of RTX3090s, trade weights around like they are books at a book club and make the entire industry look like a joke. Keep at it! you are our only hope!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cmdr-William-Riker\"> /u/cmdr-William-Riker </a> <br /> <span><a ",
       "extra": {},
       "collected_at": "2026-03-01T06:31:16"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The trap Anthropic built for itself",
+      "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 01 Mar 2026 00:08:58 +0000",
+      "summary": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+      "extra": {},
+      "collected_at": "2026-03-01T11:57:10"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude becomes number one app on the U.S. App Store",
+      "url": "https://apps.apple.com/us/iphone/charts",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 01 Mar 2026 00:08:48 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-01T11:57:26"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Solace",
+      "url": "https://www.producthunt.com/products/solace-8",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your Mac's appearance, in tune with the world around you. </p> <p> <a href=\"https://www.producthunt.com/products/solace-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1084293?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-01T11:57:28"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Bare-Metal AI: Booting Directly Into LLM Inference ‚ No OS, No Kernel (Dell E6510)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rhg3p4/baremetal_ai_booting_directly_into_llm_inference/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-02-28T22:32:35+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rhg3p4/baremetal_ai_booting_directly_into_llm_inference/\"> <img alt=\"Bare-Metal AI: Booting Directly Into LLM Inference ‚ No OS, No Kernel (Dell E6510)\" src=\"https://external-preview.redd.it/PRknAnIB54eZMfut9qkw3hhK_Rxo72UxY2hekIecmlA.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8c8f7850f02bf683876987aac081f780b39da271\" title=\"Bare-Metal AI: Booting Directly Into LLM Inference ‚ No OS, No Kernel (Dell E6510)\" /> </a> </",
+      "extra": {},
+      "collected_at": "2026-03-01T11:57:31"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.5 35B A3B is better than free-tier Chatgpt and Gemini",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rhkgo8/qwen_35_35b_a3b_is_better_than_freetier_chatgpt/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-01T01:44:33+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rhkgo8/qwen_35_35b_a3b_is_better_than_freetier_chatgpt/\"> <img alt=\"Qwen 3.5 35B A3B is better than free-tier Chatgpt and Gemini\" src=\"https://preview.redd.it/k3lxyyh39cmg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c15214f4652185128eb5063a848a8d16ae0bb9cc\" title=\"Qwen 3.5 35B A3B is better than free-tier Chatgpt and Gemini\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Local Qwen beats the free-tier non-reasonin",
+      "extra": {},
+      "collected_at": "2026-03-01T11:57:31"
     }
   ],
-  "updated_at": "2026-03-01T06:31:16.273297+09:00"
+  "updated_at": "2026-03-01T11:57:31.351470+09:00"
 }
