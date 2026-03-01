@@ -5097,5 +5097,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-01T11:58:04.412375+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-03-01-billion-dollar-ai-infrastructure-boom-analysis",
+    "title": "1000億ドル規模のAIインフラ投資競争が加速、MetaとOracleが仕掛ける「計算資源の独占」が開発者に突きつける現実",
+    "url": "https://ai.negi-lab.com/posts/billion-dollar-ai-infrastructure-boom-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#AIインフラ #データセンター競争",
+    "tweet_text": "AI業界の主戦場が「コード」から「物理」へ完全に移り変わりました。\n\nMetaやOracleが1000億ドル（約15兆円）を投じるAIインフラ投資のニュースを読み解くと、もはやIT業界の枠を超えた「電力と土地の奪い合い」になっています。かつてSIerでサーバーラックを組んでいた頃の苦労を思い出しますが、今の規模はその数万倍。Oracleがデータセンター用に小型核原子炉を3基導入するという話も、今の計算資源不足を考えれば単なる夢物語ではなく、切実な現実解に見えます。\n\n結論として、私たち開発者が考えるべきは「どのモデルが賢いか」以上に「どのインフラが最も安く、安定してトークンを供給できるか」という物理層の制約です。今回の記事では、巨大テック企業が何を隠し持っているのか、技術ドキュメントを読み解いた私なりの視点で詳細に解説しました。\n\n「結局、どのクラウドを使えば損をしないのか？」\n「自前GPUとAPI、どっちに張るべきか？」\n\nこのあたりの判断基準を、具体的な投資数字をベースに整理しています。AIを「魔法」ではなく「物理的な工業製品」として捉え直したい方は、ぜひ読んでみてください。皆さんは、今のAPI価格低下はどこまで続くと思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-01T14:01:58.213869+09:00",
+    "posted": false
   }
 ]
