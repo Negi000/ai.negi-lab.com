@@ -5209,5 +5209,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-02T02:23:21.759826+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-02-google-airtel-rcs-spam-carrier-filtering",
+    "title": "GoogleとAirtelがRCSスパムをキャリア層で封殺。AIフィルタリングの新基準",
+    "url": "https://ai.negi-lab.com/posts/google-airtel-rcs-spam-carrier-filtering/",
+    "category": "NEWS",
+    "viral_tags": "#Google #RCS",
+    "tweet_text": "インドのRCSスパム問題にGoogleが本気でメスを入れました。最大手Airtelと組み、キャリアのネットワーク層にAIフィルタリングを直接ブチ込むという強硬手段に出ています。\n\nこれまでスマホ側のAIで「届いてから処理」していたのを、キャリアの通信網を通過する時点で「届く前に消す」設計へ変更。これ、技術的には通信インフラの劇的な変化です。\n\nSIer時代、大量のSMS送信システムの保守をしてた身からすると、この「キャリア層での一括検知」の恐ろしさがよく分かります。誤検知されたら一巻の終わり。開発者は送信ドメインの認証やユーザーの反応率に今まで以上に神経を尖らせる必要がありますね。\n\n一方で、E2EEが進む中で「中身を見ずにどう検知するか」というメタデータ解析の精度競争も始まっています。結局、Googleが通信の門番としての権力をさらに強める構図に見えるのは私だけでしょうか。\n\n皆さんはメッセージアプリのスパム対策、今のままで満足していますか？それとも「キャリアが中身を（間接的にでも）解析する」ことに抵抗を感じますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-02T06:33:47.608085+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-02-simplora-2-review-agentic-meeting-stack",
+    "title": "Simplora 2.0 使い方と実務レビュー",
+    "url": "https://ai.negi-lab.com/posts/simplora-2-review-agentic-meeting-stack/",
+    "category": "TOOL",
+    "viral_tags": "#Simplora #生産性向上",
+    "tweet_text": "会議の議事録ツール、もう「文字起こし」だけでは満足できない体にされてしまいました。\n\nSimplora 2.0を試して個人的に一番衝撃だったのが、会議が終わった後ではなく「始まる前」の仕事っぷり。カレンダーと連携して、過去の関連する決定事項や未解決タスクをエージェントが勝手にクロールして「今日の論点はこれですよね？」とブリーフィングを作ってくれます。\n\nSIer時代、会議の15分前に必死で前回の議事録を読み返していた自分に教えてあげたい。単なる記録用ツールから、過去のコンテキストを全て記憶した「会議専用の外部脳」への進化を感じます。\n\n特に開発者向けSDKが優秀で、Pythonからエージェントを叩いて毎朝のSlackにブリーフィングを流す自動化も数行で書けるのが熱い。RTX 4090を2枚回してローカルLLMを検証する日々ですが、この手のSaaS特有の利便性には抗えません。\n\n会議が多すぎて「昨日何を話したか」が曖昧になりがちなPMやリードエンジニアには、これくらいの暴力的な効率化が必要だと思います。\n\n皆さんは会議の事前準備にどれくらい時間かけてますか？AIに丸投げできるとしたら、どんな情報が一番欲しいですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-02T06:34:59.233088+09:00",
+    "posted": false
   }
 ]
