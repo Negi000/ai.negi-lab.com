@@ -5153,5 +5153,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-01T18:31:52.863704+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-03-01-browser-use-llm-web-automation-review",
+    "title": "browser-use 使い方 | LLMでブラウザ操作を自動化する実力",
+    "url": "https://ai.negi-lab.com/posts/browser-use-llm-web-automation-review/",
+    "category": "TOOL",
+    "viral_tags": "#browseruse #AIエージェント",
+    "tweet_text": "SIer時代、Webサイトの仕様変更のたびに深夜までセレクタを修正していた苦労が、ついに過去のものになるかもしれません。\n\n今回触ってみた「browser-use」が、AIエージェント開発における一つの到達点だと感じました。これまでの自動化ツールと決定的に違うのは、DOMをそのままLLMに投げるのではなく、アクセシビリティツリーに変換して渡す設計。これによってトークン代を抑えつつ、人間が画面を見るような感覚でブラウザ操作を自律化できます。\n\nPython歴8年、20件以上の機械学習案件をこなしてきましたが、ここまで「実戦投入」をイメージしやすいライブラリは珍しいです。\n\nもちろん、LLMゆえの遅延や、ミスクリックによる予期せぬ挙動という課題はあります。しかし、PlaywrightとLangChainを組み合わせたこの構造は、現在のAIエンジニアにとっての「標準装備」になるはず。\n\n皆さんは、LLMにブラウザを直接操作させる際、セキュリティ（勝手な決済や削除など）のガードレールをどう設計していますか？実務でのヒヤリハット事例があればぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-01T21:59:52.083930+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-01-anthropic-claude-api-python-risk-analysis-guide",
+    "title": "Claude APIで高度なリスク分析エージェントを構築する方法",
+    "url": "https://ai.negi-lab.com/posts/anthropic-claude-api-python-risk-analysis-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Claude3 #生成AI",
+    "tweet_text": "米軍がイランへの空爆にAnthropicのAI「Claude」を使用していたという衝撃的なニュース。表向きはAI利用に慎重な姿勢を見せつつ、CENTCOMなどの現場では実戦配備が進んでいた事実が浮き彫りになりました。\n\nエンジニアとして注目すべきは「なぜClaudeなのか」という点。実務でPythonから叩き続けている私の体感でも、Claude 3.5 Sonnetの状況判断能力と指示への忠実度は競合を圧倒しています。特に極限状態での「論理的な一貫性」は、一分一秒を争う現場で選ばれる決め手になったはず。\n\n今回はこのニュースの背景にある「AIによる状況分析」を自分の手で再現するための実践ガイドを書きました。単なるチャット利用ではなく、API経由で情報を構造化し、リスク評価レポートを自動生成するエージェントを構築します。\n\nSIer時代、複雑な仕様書に頭を抱えていた自分にこのツールを渡してやりたい。これからのAI活用は「便利」の先にある「意思決定の自動化」が主戦場になります。\n\n実際にPythonを動かしながら、軍事レベルの分析精度を体感してみませんか？Claudeを仕事の相棒にするための第一歩、環境構築から実装まで徹底解説します。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-01T22:01:48.390835+09:00",
+    "posted": false
   }
 ]
