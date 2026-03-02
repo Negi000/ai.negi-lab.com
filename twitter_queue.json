@@ -5265,5 +5265,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-02T13:57:39.212417+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-02-lenovo-ai-workmate-robot-arm-concept-analysis",
+    "title": "Lenovoが発表したAIロボットアーム「AI Workmate」は、AIが単なる「画面の中の知能」から「物理空間に干渉する実体」へと進化する決定的な分岐点を示しています。これまでのLLM（大規模言語モデル）ブームがソフトウェア領域での効率化に終始していたのに対し、このプロダクトはPC周辺の物理環境そのものをオートメーションの対象に変えようとしています。",
+    "url": "https://ai.negi-lab.com/posts/lenovo-ai-workmate-robot-arm-concept-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#LenovoAI #ロボットアーム",
+    "tweet_text": "Lenovoが発表したAIロボットアーム「AI Workmate」の衝撃。ついにAIが画面を飛び出して、物理的な「手足」と「目」を持ち始めました。\n\n元SIerとして多くの現場を見てきましたが、AI導入の壁は常に「物理的な操作」にありました。ChatGPTがいくら賢くても、隣にある書類を整理したり、カメラの角度を調整したりはできません。Lenovoはこの物理的なラストワンマイルを、あえて「子犬のような目」を持つロボットアームで解決しに来ました。\n\n技術的には、言語・視覚・動作を統合したVLA（Vision-Language-Action）モデルをエッジNPUで動かすという、かなり攻めた構成です。単なるガジェットではなく、PC周辺環境を丸ごとオートメーション化するLAM（Large Action Model）への入り口。\n\n3ヶ月後には、これを模倣したオープンソースの3Dプリントアーム×ローカルLLMのプロジェクトがGitHubを賑わせているはずです。皆さんは、自分のデスクにAIの「物理的な実体」を置く準備、できていますか？それとも、まだ画面の中だけで完結させますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-02T16:04:22.639306+09:00",
+    "posted": false
   }
 ]
