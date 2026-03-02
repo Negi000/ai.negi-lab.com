@@ -5237,5 +5237,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-02T06:34:59.233088+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-02-claude-app-store-ranking-pentagon-dispute-analysis",
+    "title": "ペンタゴン論争が皮肉にも証明したClaudeの信頼性とApp Store首位獲得の真価",
+    "url": "https://ai.negi-lab.com/posts/claude-app-store-ranking-pentagon-dispute-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Claude3 #Anthropic",
+    "tweet_text": "ペンタゴンとの交渉がニュースになった途端、ClaudeがApp Storeで1位に。皮肉な展開ですが、これこそが今のLLM市場の「本音」を映し出している気がします。\n\nSIer時代から多くのシステムを見てきましたが、結局現場で最後に生き残るのは「多機能なツール」ではなく「最も信頼できて、指示を忠実に守るツール」です。今回、政治的なノイズがきっかけで多くの人がClaudeに触れ、その圧倒的な「知能の芯の太さ」に気づいてしまった。\n\n特にClaude 3.5 Sonnetのコーディング精度92%という数字。これに慣れると、正直他のモデルの「お節介な回答」がノイズに感じてしまうんですよね。最近公開されたMCP（Model Context Protocol）の思想も素晴らしく、ローカルリソースとの連携が標準化される未来が見えました。\n\n開発者の皆さんに聞きたいのですが、最近のメインモデルは何を使ってますか？\n私は結局Claudeに戻ってきてしまうのですが、やはりGPT-4oの方がマルチモーダルな連携で便利だと感じる場面も多いでしょうか。実際の開発現場での「使い分け」の基準、ぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-02T11:45:32.571108+09:00",
+    "posted": false
   }
 ]
