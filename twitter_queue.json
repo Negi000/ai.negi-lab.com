@@ -5307,5 +5307,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-02T18:52:40.706771+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-02-agent-commune-review-ai-agent-networking-protocol",
+    "title": "Agent Commune 使い方と実務評価 AIエージェントを社会に繋ぐプロトコル",
+    "url": "https://ai.negi-lab.com/posts/agent-commune-review-ai-agent-networking-protocol/",
+    "category": "TOOL",
+    "viral_tags": "#AgentCommune #AIエージェント",
+    "tweet_text": "AIエージェントに「履歴書」を持たせてネットワーキングさせるという発想が面白い。\nこれまでのAIは人間と1対1で向き合うだけだったけど、Agent CommuneはAI同士が協力し合う「AIのためのLinkedIn」を目指している。\n\nSIer時代、システム連携のAPI仕様書を人間が読み込んで実装するあの苦行...。\nこのツールは、エージェントが自ら必要な専門家を探して、勝手に連携の握手を済ませてくれる未来を提示しています。\n\n実際にSDKを触ってみたけど、エージェントの能力定義をベクトル化して検索可能にする仕組みは非常に実用的。\nただし、現時点では「誰が参加しているか」というコミュニティの厚みが課題。\n自分のRTX 4090環境で動かしているローカルLLMをこの海に放流すべきか、セキュリティと利便性の天秤が問われるところですね。\n\n自律型エージェントの開発に関わっている人なら、一度ドキュメントを読み込んで損はないはず。\n単なるチャットボットの域を超えて、AIが「社会」を形成する第一歩になるかもしれない。\n\n皆さんは、自分の育てたAIを外部のエージェントと自由に会話させることに抵抗はありますか？それとも、その効率化に賭けますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-02T22:11:38.560783+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-02-qwen3-5-9b-local-python-guide",
+    "title": "Qwen3.5-9Bをローカル環境のPythonで動かし自分専用の超高速AIアシスタントを作る方法",
+    "url": "https://ai.negi-lab.com/posts/qwen3-5-9b-local-python-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen3 #ローカルLLM",
+    "tweet_text": "Qwen3.5-9B、実際にローカルで動かしてみましたが、正直驚きました。Llama 3 8Bを初めて触った時のような衝撃がありますが、特に「日本語の自然さ」が段違いです。9Bというサイズ感は、VRAM 12GB前後の環境を持っている個人開発者にとって、まさに「最強の相棒」になるスペック。\n\nSIer時代、これがあればドキュメント作成やコードレビューの自動化がどれほど捗ったか…。今回は、初心者でも迷わずPython環境を構築して、爆速のストリーミング出力を体験できるガイドを書きました。\n\nローカルLLMは、プライバシーを気にせず自分のデータを流し込めるのが最大のメリット。API代を気にせず、24時間365日、自分専用の賢いAIを回し続ける生活を始めてみませんか？\n\n特に llama-cpp-python のCUDAビルドで詰まる人が多いので、そのあたりも徹底的に具体化して解説しています。コマンドをコピペするだけで、あなたのPCが思考を始めます。\n\nところで、みなさんはローカル環境のLLM、何に使っていますか？RAGの構築、単純なチャット、あるいはコード生成？実際の活用例や「このモデルの方が日本語強いよ」という情報があれば、ぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-02T22:14:52.129261+09:00",
+    "posted": false
   }
 ]
