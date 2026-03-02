@@ -5335,5 +5335,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-02T22:14:52.129261+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-03-03-chatwithads-review-ai-ad-analysis-guide",
+    "title": "ChatWithAds 使い方と実務レビュー：広告運用をAIで自動化する",
+    "url": "https://ai.negi-lab.com/posts/chatwithads-review-ai-ad-analysis-guide/",
+    "category": "TOOL",
+    "viral_tags": "#広告運用 #生成AI",
+    "tweet_text": "広告運用の現場で一番時間を食う「データ集計」と「CPA悪化の要因特定」。ここをチャット1発で解決する ChatWithAds が想像以上に実務寄りでした。\n\n元SIerとして多くのBI構築を見てきましたが、Looker Studioをこねくり回す時代は終わるかもしれません。このツールは単なる可視化ではなく、RAGベースで「どのキャンペーンに予算を寄せるべきか」という意思決定まで踏み込んできます。\n\n実際にSDKを触ってみましたが、MetaやGoogleのAPIを隠蔽して自然言語で叩けるのは、エンジニアにとっても運用工数削減の大きな武器になりますね。0.3秒で「昨日のCPA高騰の理由は競合他社の入札強化です」と返ってくる即時性は、週次レポートを待つ文化を破壊する破壊力があります。\n\nただ、広告予算が少額ならコスト負けするので不要。3チャネル以上を回しているなら、分析担当を一人雇うより安上がりになるはず。\n\nみなさんは広告データの分析、まだ手動でスプレッドシートにまとめていますか？それともBIで自動化済みですか？現場のリアルな運用方法を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-03T00:11:30.307677+09:00",
+    "posted": false
   }
 ]
