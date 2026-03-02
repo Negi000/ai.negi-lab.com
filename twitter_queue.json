@@ -5363,5 +5363,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-03T02:45:12.216443+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-03-why-users-switch-from-chatgpt-to-claude-guide",
+    "title": "ChatGPTからClaudeへの乗り換えが加速する理由と実務的な移行ガイド",
+    "url": "https://ai.negi-lab.com/posts/why-users-switch-from-chatgpt-to-claude-guide/",
+    "category": "NEWS",
+    "viral_tags": "#Claude3 #生成AI",
+    "tweet_text": "ついに「ChatGPT離れ」がTechCrunchでも報じられましたね。私自身、最近は実務の9割をClaudeに投げています。\n\nSIer時代にこんなツールがあれば、あのデスマーチも回避できたのに…と本気で思う日々です。特に2026年現在のGPT-4oは安全策が裏目に出て、肝心なところで「お説教」や「出力の省略」が目立ちます。一方、ClaudeはXMLタグでの制御がピタッと決まるし、キャッシュ機能でAPIコストを削れるのが開発者にはたまらない。\n\n正直、これまで「とりあえずChatGPT」で済ませていた層と、Claudeの「指示追従性」を使いこなす層で、開発速度に致命的な差がつき始めています。200kのコンテキストをフルに活かした実装効率は、もはや別次元。\n\n皆さんはもうClaudeへ完全に移行しましたか？それとも、まだOpenAIの次の一手を待っている状態でしょうか。実際の現場での「手戻り回数」の差について、ぜひ意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-03T06:46:23.021425+09:00",
+    "posted": false
   }
 ]
