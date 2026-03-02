@@ -3602,19 +3602,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "ChatWithAds",
-      "url": "https://www.producthunt.com/products/chatwithads",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> From Data to AI-Assisted Decision, In One Conversation. </p> <p> <a href=\"https://www.producthunt.com/products/chatwithads?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082144?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-03T00:10:58"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Expressive Mode for ElevenAgents",
       "url": "https://www.producthunt.com/products/expressive-mode-for-elevenagents-2",
       "primary_category": "TOOL",
@@ -3691,7 +3678,88 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rirts9/unslothqwen354bgguf_hugging_face/\"> <img alt=\"unsloth/Qwen3.5-4B-GGUF · Hugging Face\" src=\"https://external-preview.redd.it/o4B8JISdEftCtsxQQp-T6179YiIyRfnuYTIDq8FSYMo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ed1c9114b4570b5e3305705b186f70d8691e112c\" title=\"unsloth/Qwen3.5-4B-GGUF · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Prepare your potato setup for something awesome!</p> <h1>Model ",
       "extra": {},
       "collected_at": "2026-03-03T00:11:01"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk",
+      "url": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 02 Mar 2026 17:18:34 +0000",
+      "summary": "Tech workers have signed an open letter urging the Department of War to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
+      "extra": {},
+      "collected_at": "2026-03-03T02:44:37"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
+      "url": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 02 Mar 2026 15:14:36 +0000",
+      "summary": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
+      "extra": {},
+      "collected_at": "2026-03-03T02:44:37"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Crawler.sh",
+      "url": "https://www.producthunt.com/products/crawler-sh",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Free Local AEO & SEO Spider and a Markdown content extractor </p> <p> <a href=\"https://www.producthunt.com/products/crawler-sh?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1086676?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-03T02:44:40"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Visualizing All Qwen 3.5 vs Qwen 3 Benchmarks",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rivckt/visualizing_all_qwen_35_vs_qwen_3_benchmarks/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-03-02T15:10:24+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rivckt/visualizing_all_qwen_35_vs_qwen_3_benchmarks/\"> <img alt=\"Visualizing All Qwen 3.5 vs Qwen 3 Benchmarks\" src=\"https://preview.redd.it/f6p9a7nibnmg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e8c85778b822ccddd28312d83400b4aeff4839f\" title=\"Visualizing All Qwen 3.5 vs Qwen 3 Benchmarks\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I averaged out the official scores from today’s and last week's release page",
+      "extra": {},
+      "collected_at": "2026-03-03T02:44:43"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.5 2B is an OCR beast",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rivzcl/qwen_35_2b_is_an_ocr_beast/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-02T15:34:22+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It can read text from all angles and qualities (from clear scans to potato phone pics) and supports structured output. </p> <p>Previously I was using Ministral 3B and it was good but needed some image pre-processing to rotate images correctly for good results. I will continue to test more.</p> <p>I tried Qwen 3.5 0.8B but for some reason, the MRZ at the bottom of Passport or ID documents throws it in a loop repeating &lt;&lt;&lt;&lt; characters.</p> <p>What is y",
+      "extra": {},
+      "collected_at": "2026-03-03T02:44:43"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.5 2B on Android",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1riv3wv/qwen_35_2b_on_android/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-02T15:01:20+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1riv3wv/qwen_35_2b_on_android/\"> <img alt=\"Qwen 3.5 2B on Android\" src=\"https://external-preview.redd.it/dDFmZ3Rndmljbm1nMfgnKODLGXrl9BlVJzmuk6NTSggrTTf3ldLQWhAXaYHo.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=9216eb9c905aa8cec65550a983c0346f9f3e0063\" title=\"Qwen 3.5 2B on Android\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>App: <a href=\"https://github.com/Vali-98/ChatterUI/releases/tag/v0.8.9-beta9\">https://git",
+      "extra": {},
+      "collected_at": "2026-03-03T02:44:43"
     }
   ],
-  "updated_at": "2026-03-03T00:11:01.155619+09:00"
+  "updated_at": "2026-03-03T02:44:43.181039+09:00"
 }

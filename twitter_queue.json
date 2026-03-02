@@ -5349,5 +5349,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-03T00:11:30.307677+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-03-anthropic-dod-supply-chain-risk-controversy",
+    "title": "Anthropicを「供給網のリスク」と呼ぶ愚策。米国防総省への抗議が示すAI調達の限界",
+    "url": "https://ai.negi-lab.com/posts/anthropic-dod-supply-chain-risk-controversy/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #サプライチェーンリスク",
+    "tweet_text": "米国防総省がAnthropicを「サプライチェーンリスク」に指定したというニュース、これは開発現場にとって無視できない大事件です。正直、安全性へのこだわりが異常なほど強いAnthropicをリスク呼ばわりするのは、あまりに現場感覚とかけ離れていると感じます。\n\nSIer時代、根拠不明な「利用禁止ツール」のせいで開発が頓挫した苦い経験がありますが、まさにあの時の理不尽さを思い出しました。Claude 3.5クラスの知能を、技術的瑕疵ではなく政治的レッテルで封じ込めるのは、自らの手足を縛って戦場に行くようなものです。\n\n今回の抗議文には多くの技術者が署名していますが、私たちが危惧すべきは「優れた技術が不透明な基準で排除される」前例ができてしまうこと。APIが突然使えなくなるリスクは、障害だけでなく政治からもやってくる時代。\n\n皆さんの現場では、特定プロバイダーのリスク指定に対する備え（マルチモデル運用やローカルLLMへの切り替えなど）はどこまで進んでいますか？今の時代、一つのAPIに命を預けるのはあまりに危険かもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-03T02:45:12.216443+09:00",
+    "posted": false
   }
 ]
