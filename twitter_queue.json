@@ -5279,5 +5279,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-02T16:04:22.639306+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-02-anthropic-pentagon-military-ai-conflict",
+    "title": "Anthropicが直面する軍事利用の踏み絵と開発者が覚悟すべき「AIの非中立化」",
+    "url": "https://ai.negi-lab.com/posts/anthropic-pentagon-military-ai-conflict/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #軍事AI",
+    "tweet_text": "AI業界に再び重い空気が流れています。Anthropicがペンタゴンから「軍事利用を認めなければ市場から追放する」という、事実上の最後通牒を突きつけられました。\n\nConstitutional AI（憲法AI）で「善きAI」を目指してきた彼らにとって、自律型殺傷兵器への技術提供はまさに究極の踏み絵です。OpenAIが既に軍事禁止条項を削除している中、Anthropicが屈すれば、LLMの安全性という概念そのものが国家安全保障の前に無効化されることになります。\n\nSIer時代から多くのシステムを見てきましたが、LLMのハルシネーションを知る身としては、これを戦場に投入する判断は狂気としか思えません。4090を回して感じる「AIの不安定さ」は、とても生死を委ねられるレベルではないからです。\n\n開発者の皆さんは、自分のプロダクトが意図せず兵器の一部になるリスクを考えたことがありますか？API一本で繋がる便利さの裏側に、こうした巨大な政治的圧力が潜んでいる現実を直視すべき時かもしれません。\n\n今後3ヶ月でAnthropicがどう動くか。これは単なる一企業のニュースではなく、AIという技術の「魂」をどこに売るかという歴史的な分岐点になるはずです。\n\n皆さんは、自分の書いたコードが軍事利用される可能性があるとしたら、その技術を使い続けますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-02T18:51:10.762326+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-02-voca-ai-review-automated-project-manager",
+    "title": "Voca AI 開発フローの「実働」と「報告」のギャップを埋める自律型マネージャー",
+    "url": "https://ai.negi-lab.com/posts/voca-ai-review-automated-project-manager/",
+    "category": "TOOL",
+    "viral_tags": "#VocaAI #プロジェクトマネジメント",
+    "tweet_text": "SIer時代の「金曜午後は進捗報告書作成で消える」という悪夢を、ようやくAIが過去のものにしてくれそうです。Product Huntで見つけたVoca AIを徹底検証しました。\n\nこのツールの凄さは、エンジニアに「何もさせない」ことに特化している点。JiraやLinearのステータスを動かすためにIDEを閉じる必要はもうありません。PRの差分やSlackの議論をバックグラウンドで監視して、勝手にドキュメントやチケットを最新化してくれます。\n\n正直、個人開発なら不要。でも5人以上のチームなら、1人分のジュニアマネージャーを雇うより圧倒的にコスパが良い。エンジニアが「あ、チケット更新し忘れてた」と言う瞬間、あれがチームのボトルネックなんですよね。\n\nただ、コードのコンテキストを外部LLMに投げるので、セキュリティ要件が厳しい現場では情シスとの格闘が予想されます。RTX 4090 2枚挿しの私の環境としては、ぜひローカルLLM対応も進めてほしいところ。\n\n皆さんの現場では、進捗管理にどれくらい時間を溶かしていますか？手動更新の苦労や、この手の自動化ツールへの期待（あるいは懸念）をぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-02T18:52:40.706771+09:00",
+    "posted": false
   }
 ]

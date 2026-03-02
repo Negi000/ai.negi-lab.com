@@ -1,33 +1,6 @@
 {
   "items": [
     {
-      "source": "r/MachineLearning",
-      "title": "[D] Self-Promotion Thread",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1qtjnbc/d_selfpromotion_thread/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-02T03:15:21+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your personal projects, startups, product placements, collaboration needs, blogs etc.</p> <p>Please mention the payment and pricing requirements for products and services.</p> <p>Please do not post link shorteners, link aggregator websites , or auto-subscribe links.</p> <p>--</p> <p>Any abuse of trust will lead to bans.</p> <p>Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so kee",
-      "extra": {},
-      "collected_at": "2026-02-23T16:08:39"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "🌊 Wave Field LLM O(n log n) Successfully Scales to 1B Parameters",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rc97qf/wave_field_llm_on_log_n_successfully_scales_to_1b/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-23T05:44:29+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rc97qf/wave_field_llm_on_log_n_successfully_scales_to_1b/\"> <img alt=\"🌊 Wave Field LLM O(n log n) Successfully Scales to 1B Parameters\" src=\"https://preview.redd.it/6m7q2vzlm6lg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2ede585956ec96d0434754c49701c58176ad83ad\" title=\"🌊 Wave Field LLM O(n log n) Successfully Scales to 1B Parameters\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Just completed full pretraining o",
-      "extra": {},
-      "collected_at": "2026-02-23T16:08:42"
-    },
-    {
       "source": "The Verge AI",
       "title": "OpenAI&#8217;s first ChatGPT gadget could be a smart speaker with a camera",
       "url": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp",
@@ -3415,19 +3388,6 @@
       "collected_at": "2026-03-02T06:33:17"
     },
     {
-      "source": "The Verge AI",
-      "title": "A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts",
-      "url": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-01T18:01:00-05:00",
-      "summary": "Alongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed to boost productivity while providing office workers with a bit of artificial dystopic companionship. Lenovo describes its AI Workmate Concept as an \"always-on [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-02T11:44:50"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude dethrones ChatGPT as top U.S. app after Pentagon saga",
       "url": "https://www.axios.com/2026/03/01/anthropic-claude-chatgpt-app-downloads-pentagon",
@@ -3560,7 +3520,113 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/u/danielhanchen\">u/danielhanchen</a></p> <p>If you're running Qwen 3.5 35B A3B locally on engines like llama.cpp, you need to manually set your KV cache to <code>bf16</code> (<code>-ctk bf16 -ctv bf16</code>) instead of the default <code>fp16</code>. </p> <p>I measured perplexity (PPL) on wikitext-2-raw to prove this, specifically avoiding KL divergence because the Unsloth baseline logits are inherently flawed from being generated with an incorrect <co",
       "extra": {},
       "collected_at": "2026-03-02T16:03:49"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "Mon, 19 Jan 2026 14:00:00 GMT",
+      "summary": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its <a href=\"https://claude.com/pricing\">pricing</a> — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims",
+      "extra": {},
+      "collected_at": "2026-03-02T18:50:20"
+    },
+    {
+      "source": "Google News",
+      "title": "米軍、イラン攻撃にアンソロピックのAI「Claude」を使用か - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kOVktanRpMUg1NnpIYW9mNGs3bGx1YWp0cWtFWmtrbmV1S29pVW1rNU5lYXppMkJ4bHlSemlkWnFOVzdYaTdITkhyb2s1dUNvcDFn?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 02 Mar 2026 01:25:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kOVktanRpMUg1NnpIYW9mNGs3bGx1YWp0cWtFWmtrbmV1S29pVW1rNU5lYXppMkJ4bHlSemlkWnFOVzdYaTdITkhyb2s1dUNvcDFn?oc=5\" target=\"_blank\">米軍、イラン攻撃にアンソロピックのAI「Claude」を使用か</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ビジネス+IT</font>",
+      "extra": {},
+      "collected_at": "2026-03-02T18:50:37"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Voca AI",
+      "url": "https://www.producthunt.com/products/voca-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AI project manager that runs in the background </p> <p> <a href=\"https://www.producthunt.com/products/voca-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087960?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-02T18:50:38"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Clean Clode",
+      "url": "https://www.producthunt.com/products/clean-clode",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Instantly clean Claude Code & Codex terminal output </p> <p> <a href=\"https://www.producthunt.com/products/clean-clode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1084629?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-02T18:50:38"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Aura",
+      "url": "https://www.producthunt.com/products/aura-28",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Semantic version control for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/aura-28?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088045?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-02T18:50:38"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mosaic",
+      "url": "https://www.producthunt.com/products/mosaic-so",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Zapier for Video Editing </p> <p> <a href=\"https://www.producthunt.com/products/mosaic-so?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077463?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-02T18:50:38"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Jan-Code-4B: a small code-tuned model of Jan-v3",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rim0b3/jancode4b_a_small_codetuned_model_of_janv3/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-02T07:02:59+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rim0b3/jancode4b_a_small_codetuned_model_of_janv3/\"> <img alt=\"Jan-Code-4B: a small code-tuned model of Jan-v3\" src=\"https://preview.redd.it/hv4jtfpdxkmg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d024d7b589e8c78c1774027018fdb5fdd9907e37\" title=\"Jan-Code-4B: a small code-tuned model of Jan-v3\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi, this is Bach from the Jan team. We’re releasing <strong>Jan-code-4B</s",
+      "extra": {},
+      "collected_at": "2026-03-02T18:50:40"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Alibaba Team Open-Sources CoPaw: A High-Performance Personal Agent Workstation for Developers to Scale Multi-Channel AI Workflows and Memory",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rin3ea/alibaba_team_opensources_copaw_a_highperformance/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-02T08:09:41+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rin3ea/alibaba_team_opensources_copaw_a_highperformance/\"> <img alt=\"Alibaba Team Open-Sources CoPaw: A High-Performance Personal Agent Workstation for Developers to Scale Multi-Channel AI Workflows and Memory\" src=\"https://external-preview.redd.it/2NvEAG03ack14f5QNQvds8vo0uHX5V-thwdINezA4ng.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d9177be2c82dd6f6505ac0a55cab07a58fcbca56\" title=\"Alibaba Team Open-Sources CoPaw: A Hi",
+      "extra": {},
+      "collected_at": "2026-03-02T18:50:40"
     }
   ],
-  "updated_at": "2026-03-02T16:03:49.020595+09:00"
+  "updated_at": "2026-03-02T18:50:40.207089+09:00"
 }
