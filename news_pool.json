@@ -3336,19 +3336,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
-      "url": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sun, 01 Mar 2026 14:48:58 +0000",
-      "summary": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
-      "extra": {},
-      "collected_at": "2026-03-01T23:53:14"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
       "url": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
       "primary_category": "NEWS",
@@ -3549,7 +3536,47 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ri6yhb/the_last_amd_gpu_firmware_update_together_with/\"> <img alt=\"The last AMD GPU firmware update, together with the latest Llama build, significantly accelerated Vulkan! Strix Halo, GNU/Linux Debian, Qwen3.5-35-A3B CTX&lt;=131k, llama.cpp@Vulkan&amp;ROCm, Power &amp; Efficiency\" src=\"https://preview.redd.it/gsryooxmjhmg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e86f03281d4923c2dee06fa5f2cede99368e68d\" title=\"The ",
       "extra": {},
       "collected_at": "2026-03-02T11:45:00"
+    },
+    {
+      "source": "r/MachineLearning",
+      "title": "[D] Self-Promotion Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rihows/d_selfpromotion_thread/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-02T03:15:30+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your personal projects, startups, product placements, collaboration needs, blogs etc.</p> <p>Please mention the payment and pricing requirements for products and services.</p> <p>Please do not post link shorteners, link aggregator websites , or auto-subscribe links.</p> <p>--</p> <p>Any abuse of trust will lead to bans.</p> <p>Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so kee",
+      "extra": {},
+      "collected_at": "2026-03-02T13:57:03"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.5-397B Uncensored NVFP4",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ri9enf/qwen35397b_uncensored_nvfp4/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-01T21:17:56+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ri9enf/qwen35397b_uncensored_nvfp4/\"> <img alt=\"Qwen3.5-397B Uncensored NVFP4\" src=\"https://external-preview.redd.it/xaouc-l-MVhdkgRJjuNLeOEaMmwumVa5xGuOmn0d800.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3f4c8d6d0a8d846015688789b81622d76ffbbe5\" title=\"Qwen3.5-397B Uncensored NVFP4\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vpyno\"> /u/vpyno </a> <br /> <span><a href=\"https://huggin",
+      "extra": {},
+      "collected_at": "2026-03-02T13:57:07"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Injecting skills into the KV cache (not as stupid as it sounds, but still pretty dumb)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rif789/injecting_skills_into_the_kv_cache_not_as_stupid/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-03-02T01:18:22+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey yall, so I had an idea in the middle of the night. </p> <p>Nothing brand new at a high level, KV cache injection has been around for a while. But I think this implementation path is a little different, and the results were honestly better than I expected for a small model. </p> <p>I wanted to test this around skill files. </p> <p>Skill files (for agents) are basically an evolution of prompt engineering:<br /> first it was giant prompts,<br /> then bigger con",
+      "extra": {},
+      "collected_at": "2026-03-02T13:57:07"
     }
   ],
-  "updated_at": "2026-03-02T11:45:00.634245+09:00"
+  "updated_at": "2026-03-02T13:57:07.043544+09:00"
 }
