@@ -5405,5 +5405,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-03T15:57:51.871561+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-03-openai-national-security-infrastructure-risks",
+    "title": "OpenAIが国家安全保障のインフラへ。政府連携の不透明さが招く開発者への実害",
+    "url": "https://ai.negi-lab.com/posts/openai-national-security-infrastructure-risks/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #国家安全保障",
+    "tweet_text": "OpenAIが「スタートアップ」から「国家防衛インフラ」へと変貌を遂げようとしています。TechCrunchが報じた政府との不透明な連携は、私たち開発者にとっても対岸の火事ではありません。\n\nかつてのGoogleが猛反発を受けた軍事利用（Project Maven）を、今のOpenAIは規約をこっそり書き換えてまで受け入れようとしている。NSA元局長をボードに迎え、連邦政府専用インスタンスを提供する姿は、もはやPalantirのような防衛テックそのものです。\n\nSIer時代、仕様変更に振り回された経験はありますが、今のAI界隈で起きている「国家レベルの仕様変更」は次元が違います。政治的な判断でAPIの回答が検閲されたり、リソースが軍事に優先配分されたりするリスクが現実味を帯びてきました。\n\nRTX 4090を2枚挿してローカルLLMを検証している立場から言えば、今こそ「商用API一本足打法」からの脱却を考えるべき。Llama 3.1等のローカル環境構築は、もはや趣味ではなく、開発者としての「生存戦略」だと思います。\n\n皆さんは、OpenAIの軍事接近についてどう考えますか？正直、私はかつての理想が消えていくようで寂しさを感じていますが…。現場でのデータ漏洩対策や代替モデルの検討状況など、ぜひ意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-03T18:41:46.929417+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-03-alexandria-ai-knowledge-base-review",
+    "title": "Alexandria 使い方 組織の知識をAIで即戦力化するレビュー",
+    "url": "https://ai.negi-lab.com/posts/alexandria-ai-knowledge-base-review/",
+    "category": "TOOL",
+    "viral_tags": "#Alexandria #RAG",
+    "tweet_text": "社内の「あの資料どこ？」問題を本気で終わらせるツールが出てきました。\n\nProduct Huntで見つけたAlexandriaを検証しましたが、これ、RAG開発の面倒なところを全部削ぎ落としてます。かつてのSIer時代、数千ページのExcel仕様書から情報を探すだけで1日が終わった私からすれば、正直「あの頃にこれがあれば…」と遠い目になるレベルです。\n\n何がヤバいって、NotionやGoogle Driveを数クリックで繋ぐだけで、あとは勝手に同期してくれる点。自分でLangChain組んでチャンク分割の調整に何時間も溶かす必要がなくなります。\n\n「技術的にできること」と「仕事で使えること」の間には大きな溝がありますが、これは完全に後者。\n\n特にAPI連携がスムーズで、既存のSlackボットの裏側をこれに差し替えるだけで回答精度が爆上がりします。月額$20程度から始められるので、エンジニアの時給を考えれば一瞬で元が取れる計算です。\n\nただし、完全にローカルで完結させたい勢には向きません。あくまで「スピード感重視のチーム」向け。\n\n皆さんの現場では、散らばったドキュメントの検索どうしてますか？「結局人力」という方、そろそろ限界じゃないですかね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-03T18:43:14.192557+09:00",
+    "posted": false
   }
 ]

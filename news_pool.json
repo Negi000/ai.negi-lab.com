@@ -3503,20 +3503,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
-      "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Tue, 03 Mar 2026 00:03:37 +0000",
-      "summary": "Many consumers ditched ChatGPT's app after news of its DoD deal went live, while Claude's downloads grew.",
-      "extra": {},
-      "collected_at": "2026-03-03T11:47:28"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "No one has a good plan for how AI companies should work with the government",
       "url": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
       "primary_category": "NEWS",
@@ -3647,7 +3633,88 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>There are so many comments/posts discussing how new qwen models have issues with super long chain of thoughts, problems with tool calls and outright garbage responses.</p> <p>The thing is, those only happen with Ollama, LMStudio and other frameworks, that are basically llama.cpp but worse. Ollama is outright garbage for multiple reasons and there's hardly a good reason to use it over llama.cpp's server. LMStudio doesn't support <code>presence penalty</code> requ",
       "extra": {},
       "collected_at": "2026-03-03T15:57:21"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Apple might use Google servers to store data for its upgraded AI Siri",
+      "url": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-03-02T15:22:33-05:00",
+      "summary": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in January that Google's Gemini AI models would help power the upgraded version of Siri it delayed last year, but The Information's report indicates Apple [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-03T18:40:59"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Alexandria",
+      "url": "https://www.producthunt.com/products/alexandria-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Bring your knowledge and docs to life </p> <p> <a href=\"https://www.producthunt.com/products/alexandria-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088865?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-03T18:41:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mailercloud Email API Platform",
+      "url": "https://www.producthunt.com/products/mailercloud",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> 1,000+ Emails per Second with 99%+ Deliverability </p> <p> <a href=\"https://www.producthunt.com/products/mailercloud?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080782?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-03T18:41:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Better Clipboard",
+      "url": "https://www.producthunt.com/products/better-clipboard",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Smarter copy-paste for macOS. New version! </p> <p> <a href=\"https://www.producthunt.com/products/better-clipboard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088764?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-03T18:41:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Lavalier AI",
+      "url": "https://www.producthunt.com/products/textio",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Interview Intelligence to hire with speed and confidence </p> <p> <a href=\"https://www.producthunt.com/products/textio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085935?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-03T18:41:05"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Unsloth fixed version of Qwen3.5-35B-A3B is incredible at research tasks.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rjh5wg/unsloth_fixed_version_of_qwen3535ba3b_is/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-03T05:40:38+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>When I first tried Qwen3.5-35B-A3B I was impressed, but honestly it seemed like a small jump over GLM-4.7-Flash, which had already impressed me with its interleaved thinking and native tool use capabilities. Qwen3.5-35B-A3B was about the level of &quot;better&quot; I thought it would be from having 5B extra parameters, and I thought the only big advantage was hybrid linear attention allowing double the native context length without really increasing memory footp",
+      "extra": {},
+      "collected_at": "2026-03-03T18:41:08"
     }
   ],
-  "updated_at": "2026-03-03T15:57:21.355054+09:00"
+  "updated_at": "2026-03-03T18:41:08.324097+09:00"
 }
