@@ -5489,5 +5489,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-04T15:54:17.809936+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-04-claude-code-voice-mode-review-developer-impact",
+    "title": "Claude Code音声モード実機レビュー。音声でコードを書く時代は本当に来たのか",
+    "url": "https://ai.negi-lab.com/posts/claude-code-voice-mode-review-developer-impact/",
+    "category": "NEWS",
+    "viral_tags": "#ClaudeCode #エンジニアの働き方",
+    "tweet_text": "SIer時代の苦労を思い返すと、今の進化は本当に信じられない。\nAnthropicがClaude Codeに「Voice Mode」を実装しました。\n\nこれまでの音声AIとの決定的な違いは、CLIツールとしてファイルシステムやGit、テスト実行の全権限を持っていること。「このバグ、音声だけで直しておいて」が本当に可能になる。\n\n結論から言うと、これは単なる新機能ではなく、開発者の「身体性」の拡張です。\nタイピングという物理的な制約を飛び越えて、思考のスピードでコードが変わっていく。\nもちろんオフィスで独り言を言う恥ずかしさはあるけど、在宅なら最強の武器になるはず。\n\n実務家として気になるのは、WebSocket経由のレスポンス速度。\n公表値に近い0.3秒前後の遅延なら、キーボードを叩くより確実に速い。\nRTX 4090を2枚挿してローカルLLMを動かしてる私でも、この「エージェント×音声」の体験には度肝を抜かれました。\n\n3ヶ月後の開発現場では、マイクに向かって設計を語るのが当たり前になっているかも。\nみなさん、音声でコーディング、アリだと思いますか？それともやっぱりキーボード派？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-04T18:40:24.478057+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-04-enia-code-review-proactive-ai-coding-standards",
+    "title": "Enia Code 独自の開発規約を学習してコード品質を底上げするプロアクティブAI",
+    "url": "https://ai.negi-lab.com/posts/enia-code-review-proactive-ai-coding-standards/",
+    "category": "TOOL",
+    "viral_tags": "#EniaCode #AIコーディング",
+    "tweet_text": "SIer時代のコードレビューを思い出して胃が痛くなりました。あの「分厚いExcelの規約集」と「何度指摘しても直らない命名規則」のループ。あれ、もうAIに任せられる時代ですね。\n\n新しく出てきた「Enia Code」を触ってみたのですが、これまでのAI補完とは一線を画しています。GitHub Copilotが「一般的な正解」を出すツールなら、Eniaは「うちのプロジェクト特有の正解」を学習するツールです。\n\n例えば「外部ライブラリは使わずに内製のラッパーを通す」といったプロジェクト特有の暗黙知を、コードをスキャンするだけでAIが理解してくれます。そして、新しく書いたコードがその流儀に反していると、勝手に「refine」を提案してくる。\n\n実際に動かしてみると、100件程度の関数スキャンが数分で終わるレスポンスの良さも好印象。ただ、学習元が汚いと「悪い癖」まで学習しちゃうので、そこは人間の管理が必要な部分かなと感じました。\n\nジュニア層が多いチームのリーダーや、レガシーコードの刷新を狙っているエンジニアには、現状これ以上の武器はないかもしれません。皆さんは独自のコーディング規約、どうやってメンバーに周知してますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-04T18:41:51.110030+09:00",
+    "posted": false
   }
 ]
