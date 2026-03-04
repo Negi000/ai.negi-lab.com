@@ -5517,5 +5517,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-04T18:41:51.110030+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-05-apple-music-ai-transparency-tags-analysis",
+    "title": "Apple MusicがAI楽曲に「透明性タグ」を導入へ、音楽プラットフォームの信頼は守れるか",
+    "url": "https://ai.negi-lab.com/posts/apple-music-ai-transparency-tags-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#AppleMusic #GenerativeAI",
+    "tweet_text": "Apple Musicがついに「AI楽曲タグ」の導入に踏み切るようです。これ、音楽業界にとっては単なる機能追加以上の大きな転換点になりますね。\n\n最近のSunoやUdioの進化を見ていれば、プラットフォーム側が何らかの「線引き」をせざるを得ないのは当然の流れ。でも、今回の発表で気になるのは「自己申告制」という点です。正直、SIer時代にコンテンツ管理をやってきた身からすると、良心に頼ったメタデータ管理がどこまで機能するかはかなり怪しいと思っています。\n\nただ、Appleが「人間の創造性」を明確にブランドの核に据えた意味は重い。RTX 4090を2枚挿してローカルLLMを回している私のような人間から見ても、AIは「ツール」なのか「作成者」なのか、その定義がプラットフォームによって固定され始めています。\n\nAPIドキュメントに `is_ai_generated` みたいなフィールドが追加される日も近そうですね。開発者としては、今のうちに配信フローやメタデータの設計を見直しておく必要がありそうです。\n\n皆さんは、自分が聴いている曲がAI製だと分かったら、その曲への評価や聴き方は変わりますか？「良ければ何でもいい」派か、「人間が作ってないと嫌」派か、意見が分かれそうなところですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-05T06:46:04.228994+09:00",
+    "posted": false
   }
 ]
