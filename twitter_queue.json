@@ -5475,5 +5475,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-04T13:49:14.903304+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-04-gpt-5-3-instant-stop-cringing-ai-logic",
+    "title": "GPT-5.3 Instantが解決するAIの説教問題と開発者が捨てるべき3つのプロンプト",
+    "url": "https://ai.negi-lab.com/posts/gpt-5-3-instant-stop-cringing-ai-logic/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #GPT5",
+    "tweet_text": "OpenAIが発表したGPT-5.3 Instant、これこそ我々が待っていた「道具」としてのAIです。\nこれまでGPTを使っていて、厳しい指摘をした瞬間に「落ち着いてください」と説教されたり、正当な批判を拒絶されたりしてイラッとした経験はありませんか？\n今回のアップデートは、そんなAIの「ドン引き（cringe）」な挙動を体系的に排除したのが最大の特徴。\n\n特筆すべきは拒絶率の低さ。\n競合他社が5%近い誤検知で出力を止める中、5.3 Instantはわずか1.2%。\nさらに180 tokens/secという圧倒的な爆速レスポンス。\nSIer時代にこんなツールがあれば、デバッグのストレスは半分になっていたはず。\n\n開発者はもう「説教回避」のための冗長なプロンプトを書く必要はありません。\nシステムプロンプトを軽量化し、トークン単価を削るフェーズが来ました。\nOpenAIが「教育者」から「最強のパートナー」に戻ろうとしているこの変化、皆さんはどう感じますか？\n実際に触ってみて、お説教モードが消えた実感はありますか？リプ欄で教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-04T15:54:17.809936+09:00",
+    "posted": false
   }
 ]
