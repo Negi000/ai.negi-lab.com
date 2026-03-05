@@ -5573,5 +5573,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-05T15:58:00.586685+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-05-decagon-ai-customer-support-valuation-4-5-billion",
+    "title": "AIサポートのDecagonが時価総額45億ドルで公開買付けを完了し、企業向け生成AIの「収益化フェーズ」が本格化したことを証明しました。",
+    "url": "https://ai.negi-lab.com/posts/decagon-ai-customer-support-valuation-4-5-billion/",
+    "category": "NEWS",
+    "viral_tags": "#Decagon #AIエージェント",
+    "tweet_text": "カスタマーサポートAIのDecagonが時価総額45億ドル（約6,700億円）で現金化チャンスを提供。\n\nSIer時代に数千万かけて組んでいたFAQシステムやシナリオ分岐が、今や「AIエージェント」が数日で、しかも解決率70-90%という異次元の精度で置き換えている。\n\nこのニュースが重要なのは、AIスタートアップが「期待値」ではなく「実利」でキャッシュを回し始めたこと。\n単にGPT-4oを叩くだけのガワではなく、基幹システムに深く入り込んで「返金」や「予約変更」を完結させる。\nこれ、Klarnaが人間700人分を代替した話の延長線上にある、ガチのゲームチェンジャーです。\n\nもはや「AIで何ができるか」のフェーズは終わった。\n「AIをどこまで深くシステムに繋げるか」が、エンジニアの生存戦略の核心になる。\n\n正直、皆さんの現場でAIチャットボットって、どこまで「実務の権限」を持たせてますか？\n「答えるだけ」で止まっていませんか？\nそろそろ「アクションを実行させる」フェーズに踏み込まないと、置いていかれる気がします。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-05T18:43:22.092777+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-05-macbook-neo-local-llm-review-for-engineers",
+    "title": "MacBook Neo レビュー：AIエンジニアがローカルLLM推論機として評価する",
+    "url": "https://ai.negi-lab.com/posts/macbook-neo-local-llm-review-for-engineers/",
+    "category": "TOOL",
+    "viral_tags": "#MacBookNeo #ローカルLLM",
+    "tweet_text": "Product Huntで見かけたMacBook Neo。一言で言うと「Appleが放ったローカルLLMへの刺客」です。$799からの価格設定で最新のNPUとUnified Memoryが手に入るのは、AIエンジニアにとっては驚異的なニュース。\n\nSIer時代、開発環境のコストに頭を抱えていた身からすると、この価格で8BクラスのLLMがサクサク動く推論機が配備できるのは革命に近い。RTX 4090を回すワークステーションも良いですが、カフェでファンレスの静寂の中、Llama-3が秒間20トークンで返してくる体験は、一度味わうと戻れません。\n\nただし「買い」なのは16GB構成を選べる人だけ。8GBモデルはAI開発用としては、もはやおもちゃです。Appleシリコンのメモリ共有の恩恵をフルに活かすなら、ケチってはいけない部分ですね。MLXフレームワークの成熟も相まって、推論専用のサブ機としては現時点で最強のコスパ。\n\nメイン機には力不足だけど、外出先の検証用としてカバンに忍ばせておくにはこれ以上の選択肢はないんじゃないかな。\n\n皆さんは、ローカルLLMの推論に「可搬性」をどこまで求めますか？やはり据え置きのGPUパワーが正義だと思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-05T18:45:17.310934+09:00",
+    "posted": false
   }
 ]
