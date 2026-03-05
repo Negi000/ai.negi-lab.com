@@ -5531,5 +5531,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-05T06:46:04.228994+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-05-nvidia-pulling-back-openai-anthropic-investment-analysis",
+    "title": "NVIDIAがOpenAI・Anthropicへの出資を打ち切る真意と開発者への影響",
+    "url": "https://ai.negi-lab.com/posts/nvidia-pulling-back-openai-anthropic-investment-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#NVIDIA #OpenAI",
+    "tweet_text": "NVIDIAがOpenAIとAnthropicへの投資を事実上打ち切るというニュース。これ、単なる出資停止じゃなくてAI業界の「支配構造」が根本から変わる合図ですね。\n\n元SIerエンジニアの視点で言わせてもらうと、ジェンスン・フアンは「顧客が競合（チップ内製）に化ける」のを完全に見切った。もう特定のラボを優遇するメリットがないんですよ。これからは「GPT-5が凄い」ではなく「どのモデルでもNVIDIAの上なら爆速で動く」という、インフラの汎用化に全振りしてくるはず。\n\n実際、CUDAのドキュメントを追っていても、特定のモデル専用の最適化より、NIMのような汎用推論スタックへの投資が明らかに増えています。開発者にとっての生存戦略は、特定のAPI心中を避けて「インフラを抽象化して使い分ける」技術を持つことに尽きます。\n\n正直、これまでOpenAIの顔色を伺いすぎた業界が、これでようやく健全な競争に戻る気がしています。NVIDIAは「王」として、全方位に武器を売る死の商人（失礼、インフラ屋）に徹するつもりでしょう。\n\nBlackwell世代でローカルLLMがどう化けるか、RTX 4090を回しながらベンチマークを取るのが今から楽しみでなりません。皆さんは今回のNVIDIAの「損切り」、どう見ますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-05T11:44:13.597041+09:00",
+    "posted": false
   }
 ]
