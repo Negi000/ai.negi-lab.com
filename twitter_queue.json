@@ -5601,5 +5601,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-05T18:45:17.310934+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-05-heywa-visual-stories-llm-ui-review",
+    "title": "Heywa 使い方とChatGPTの「文字の壁」を壊すビジュアルストーリー実装",
+    "url": "https://ai.negi-lab.com/posts/heywa-visual-stories-llm-ui-review/",
+    "category": "TOOL",
+    "viral_tags": "#Heywa #生成AI",
+    "tweet_text": "最近の生成AIツール、回答が「長すぎて読む気がしない」と感じることありませんか？\nSIer時代、ユーザーから「画面が文字だらけで使いにくい」と突き返された経験がある身として、このHeywaのアプローチには唸らされました。\n\nChatGPTの長文回答を、スマホに最適化された「タップで進むストーリー形式」に自動変換してくれるツールです。\n単なるUIラッパーと思いきや、情報の階層化と視覚化をAPI1本で完結させる実装の速さが異常。\n実際にPython SDKで試しましたが、LLMのレスポンスを投げるだけでインスタ風のUIが2.3秒で生成されるのは、開発工数の削減としてデカすぎます。\n\ntoCアプリで「AIの回答が長すぎて離脱される」という課題を抱えているなら、プロンプトをいじるよりUIを変えた方が圧倒的に早いですね。\n逆に、情報の密度を求めるエンジニア向けには、この演出は過剰かもしれません。\n\n皆さんのプロジェクトでは、AIの長文回答対策はどうしてますか？\n要約プロンプトで削る派か、UIで工夫する派か、実際のところどっちがユーザーに刺さるんでしょうね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-05T22:12:41.872660+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-05-qwen25-python-local-llm-json-extraction",
+    "title": "Qwen2.5とPythonで技術文書を自動で構造化データに変換するツールの作り方",
+    "url": "https://ai.negi-lab.com/posts/qwen25-python-local-llm-json-extraction/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen2 #ローカルLLM",
+    "tweet_text": "AlibabaのQwenチームから主要メンバーが離脱し、AIスタートアップを設立したというニュース。組織の動向で株価は下がっていますが、エンジニアとして注目すべきはそこではありません。\n\n彼らが残したQwen2.5というモデル、実は日本語の構造化抽出においてLlama 3.1を凌駕するほどの実力を持っています。SIer時代、Excelの山から手動でデータを抜き出していたあの虚無な作業、今のQwenならローカル環境だけで自動化できるんです。\n\nこの記事では、OllamaとPythonを使って、技術文書から特定の項目をJSONとして抜き出す実用スクリプトの作り方を解説しました。APIコストを気にせず、社外秘のドキュメントも安全に処理できる体制を自分のPCの中に作りましょう。\n\nRTX 4090を2枚挿して日々検証していますが、7bクラスのモデルでここまで指示に忠実なのは驚きですね。リーダー不在の影響が出る前に、公開されている最強の資産を使い倒すノウハウを身につけておきませんか？\n\n実際にローカルLLMを業務に組み込んでいる方、モデルサイズと精度のバランスについてどう感じていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-05T22:14:35.339720+09:00",
+    "posted": false
   }
 ]
