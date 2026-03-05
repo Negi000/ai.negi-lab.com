@@ -5559,5 +5559,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-05T13:53:55.253825+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-05-google-search-gemini-canvas-us-rollout",
+    "title": "Google検索がIDE化する。Gemini Canvas統合で見えたChatGPT超えの勝機",
+    "url": "https://ai.negi-lab.com/posts/google-search-gemini-canvas-us-rollout/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleGemini #生成AI",
+    "tweet_text": "Google検索がついに「完成形」に近づいた気がします。米国で全ユーザーに開放された「Gemini Canvas in AI Mode」を触ってみましたが、これは単なる検索のUI変更ではありません。\n\nこれまで私たちが無意識にやっていた「検索→コピペ→IDE/ドキュメントに貼り付け」という儀式が、ブラウザの1タブ内で完全に消滅しました。検索結果から直接コードを書き、その場でPythonを走らせ、1クリックでGoogleドキュメントへ。この爆速なワークフロー、一度体験すると戻れないですね。\n\n特にGemini 1.5 Proの巨大なコンテキスト窓を活かした「30分前の検索結果を覚えたままの編集」は、ChatGPTやClaudeのCanvas機能と比較しても、実務上の優位性が非常に高いです。情報の鮮度はGoogle検索、制作はCanvas。この組み合わせは、開発者にとって最強の武器になるはず。\n\nSIer時代にこれがあったら、仕様書作成とプロトタイプ実装の時間は半分以下になっていたでしょうね。RTX 4090を回すローカル派の私ですが、最新技術のキャッチアップと実装に関しては、Googleのこの物量作戦に屈服せざるを得ません。\n\n皆さんは検索結果をどう活用していますか？AIが直接「作る」時代に、私たちが磨くべきスキルは何だと思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-05T15:58:00.586685+09:00",
+    "posted": false
   }
 ]
