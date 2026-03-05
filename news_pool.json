@@ -1,84 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Thinglo",
-      "url": "https://www.producthunt.com/products/thinglo-save-anything-lose-nothing",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Save anything from any app — AI-organized, private, instant </p> <p> <a href=\"https://www.producthunt.com/products/thinglo-save-anything-lose-nothing?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079739?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-26T11:43:28"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Orca",
-      "url": "https://www.producthunt.com/products/orca-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Play, mod, and host Minecraft from your browser with AI </p> <p> <a href=\"https://www.producthunt.com/products/orca-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085247?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-26T11:43:28"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Mercury 2",
-      "url": "https://www.producthunt.com/products/mercury-412",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Fastest reasoning LLM built for instant production AI </p> <p> <a href=\"https://www.producthunt.com/products/mercury-412?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085393?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-26T11:43:28"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen/Qwen3.5-35B-A3B creates FlappyBird",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ret353/qwenqwen3535ba3b_creates_flappybird/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-25T23:05:54+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>If you are wondering, as I have for a long time, do locally hostable models work for general coding? They really can work impressively well for some usecases. There's been some impressive things done by the model during making of this simple app.</p> <p>Spent two hours. Generated with Qwen/Qwen3.5-35B-A3B. Used Roo in VSCode.</p> <p>Started out by vaguely asking for a flappybird clone in html, css and typescript and to initialize the project with vite.</p> <p>It",
-      "extra": {},
-      "collected_at": "2026-02-26T11:43:30"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Overwhelmed by so many quantization variants",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1reqdpb/overwhelmed_by_so_many_quantization_variants/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-25T21:24:37+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Not only are out there 100s of models to choose from, but also so many quantization variants that I may well get crazy.</p> <p>One needs not only to test and benchmark models, but also within each model, compare its telemetry and quality between all the available quants and quant-techniques.</p> <p>So many concepts like the new UD from Unsloth, autoround from Intel, imatrix, K_XSS, you name it. All of them could be with a REAM or a REAP or any kind of prunation,",
-      "extra": {},
-      "collected_at": "2026-02-26T11:43:30"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Best Qwen3.5-35B-A3B GGUF for 24GB VRAM?!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1resggh/best_qwen3535ba3b_gguf_for_24gb_vram/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-25T22:42:03+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1resggh/best_qwen3535ba3b_gguf_for_24gb_vram/\"> <img alt=\"Best Qwen3.5-35B-A3B GGUF for 24GB VRAM?!\" src=\"https://preview.redd.it/bkw8ps1qwplg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=25abc44019457c22c40a183a9f0ff49947bfd3c5\" title=\"Best Qwen3.5-35B-A3B GGUF for 24GB VRAM?!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>My understanding is Vulkan/ROCm tends to have faster kernels for legacy llama.cpp quant type",
-      "extra": {},
-      "collected_at": "2026-02-26T11:43:30"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Google API keys weren't secrets, but then Gemini changed the rules",
       "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
@@ -3249,19 +3171,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
-      "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "Thu, 05 Mar 2026 01:08:28 +0000",
-      "summary": "Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.",
-      "extra": {},
-      "collected_at": "2026-03-05T11:43:05"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says",
       "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
       "primary_category": "NEWS",
@@ -3365,7 +3274,72 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rkzsrq/im_running_a_truman_show_for_an_ai_agent_it/\"> <img alt=\"I'm running a Truman Show for an AI agent. It writes its own code, files its own bugs, and doesn't know you're watching.\" src=\"https://external-preview.redd.it/eG9iOHhpY3d0M25nMeDGomO-r2uB5XLhDQ8-jlPgyunn8qnWtbpPhB9ZzPdU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=25d55c63b9c8fa788ee047b608ff475ddff10d0f\" title=\"I'm running a Truman Show for an AI agent. It",
       "extra": {},
       "collected_at": "2026-03-05T11:43:09"
+    },
+    {
+      "source": "Google News",
+      "title": "中国、技術的自立の加速表明 ＡＩ・半導体産業の育成強化へ - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbG0yM1dDLVhtbnJJQThXZEFKYl94M2cyMTRXX2RqNHc0SmR5NTlQTWNGZUdOdUVOeHJBREQ3a1pLT0RnbkhiRnRfTDl4TmpaT0xLMngwOGxvYzE2UzM0Uk51aE9MZmJid0xzc1B1Z3hxRS1mbXVvckE1TTRJbURNdA?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 05 Mar 2026 02:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQbG0yM1dDLVhtbnJJQThXZEFKYl94M2cyMTRXX2RqNHc0SmR5NTlQTWNGZUdOdUVOeHJBREQ3a1pLT0RnbkhiRnRfTDl4TmpaT0xLMngwOGxvYzE2UzM0Uk51aE9MZmJid0xzc1B1Z3hxRS1mbXVvckE1TTRJbURNdA?oc=5\" target=\"_blank\">中国、技術的自立の加速表明 ＡＩ・半導体産業の育成強化へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "extra": {},
+      "collected_at": "2026-03-05T13:53:17"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ClawOffice",
+      "url": "https://www.producthunt.com/products/clawoffice",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Real Office for your Open Claw Agents </p> <p> <a href=\"https://www.producthunt.com/products/clawoffice?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089432?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-05T13:53:17"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Floyd enterprise world model",
+      "url": "https://www.producthunt.com/products/floyd-enterprise-world-model",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Enterprise world model that learns how you would do tasks </p> <p> <a href=\"https://www.producthunt.com/products/floyd-enterprise-world-model?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089306?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-05T13:53:17"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "agile.flights",
+      "url": "https://www.producthunt.com/products/agile-flights",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Agile died in a JIRA board - replace sprints with flights </p> <p> <a href=\"https://www.producthunt.com/products/agile-flights?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089452?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-05T13:53:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Alibaba CEO: Qwen will remain open-source",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rl6lnl/alibaba_ceo_qwen_will_remain_opensource/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-05T03:23:02+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rl6lnl/alibaba_ceo_qwen_will_remain_opensource/\"> <img alt=\"Alibaba CEO: Qwen will remain open-source\" src=\"https://preview.redd.it/wvn5m8fma5ng1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b1de502f03fcf0d3521e8dc3135d56b2244d849\" title=\"Alibaba CEO: Qwen will remain open-source\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Bestlife73\"> /u/Bestlife73 </a> <br /> <span><a href=\"https:",
+      "extra": {},
+      "collected_at": "2026-03-05T13:53:19"
     }
   ],
-  "updated_at": "2026-03-05T11:43:09.662171+09:00"
+  "updated_at": "2026-03-05T13:53:19.994143+09:00"
 }
