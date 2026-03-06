@@ -5643,5 +5643,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-06T06:48:14.704889+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-06-anthropic-challenges-dod-supply-chain-label",
+    "title": "Anthropicが米国防総省を提訴へ｜サプライチェーン・リスク指定が開発現場に与える実害",
+    "url": "https://ai.negi-lab.com/posts/anthropic-challenges-dod-supply-chain-label/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #AIガバナンス",
+    "tweet_text": "Anthropicが米国防総省（DOD）を提訴するという、穏やかではないニュースが入ってきました。\n\n事の発端は、DODがAnthropicを「サプライチェーン・リスク」として指定したこと。\n安全性を最大の売りにしていたClaudeが、まさか世界最強の国防組織から「リスク」の烙印を押されるとは、エンジニアとして衝撃を隠せません。\n\nSIer時代、政府のホワイトリストから外れることがどれほど致命的か嫌というほど見てきましたが、今回の件は民間企業の採用判断にも確実に波及します。\n特に金融や製造業など、厳格なコンプライアンスが求められる現場では、今日から「Claudeを使い続けて大丈夫か？」という議論が始まるでしょう。\n\nAPIを叩いて「動いた！」と喜ぶフェーズは終わりましたね。\nこれからはモデルの裏側にあるガバナンスや、政治的なリスクまで含めてアーキテクチャを設計する力が求められます。\n結局、クラウド一本足打法の危うさが露呈した形かもしれません。\n\n皆さんの現場では、プロバイダーの信頼性リスクについて、具体的なフォールバック策を準備していますか？\n「Claude一択」で組んでいるプロジェクト、意外と多いのではないでしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-06T11:42:19.579665+09:00",
+    "posted": false
   }
 ]
