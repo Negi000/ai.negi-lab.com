@@ -5685,5 +5685,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-06T18:42:23.066821+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-06-cockpit-vps-desktop-interface-review",
+    "title": "Cockpit 使い方 | VPSをデスクトップ化する管理ツールの実力",
+    "url": "https://ai.negi-lab.com/posts/cockpit-vps-desktop-interface-review/",
+    "category": "TOOL",
+    "viral_tags": "#Cockpit #サーバー管理",
+    "tweet_text": "VPS管理のために毎回SSHログインするの、正直もう限界じゃないですか？\n\nこれまで20件以上のAI案件をこなしてきましたが、複数サーバーの状態を把握するだけで時間を溶かすのは本当にもったいない。そこで辿り着いたのが「Cockpit 3」です。\n\n一言でいうと、Linuxサーバーをブラウザ上のデスクトップ環境に変えるツール。OS標準のAPIを直接叩くから挙動がとにかく軽いし、何より「文脈スイッチ」のコストが激減します。\n\n実際にRTX 4090を2枚挿した自作サーバーに導入してみましたが、学習中のリソース監視やコンテナのログ確認がタブ一つで完結する快感は異常。ターミナルのレスポンスも0.1秒以下でストレスなし。\n\n正直、Webminのようなモッサリ感は一切ありません。Docker/Podman管理もプラグイン一枚で即座に統合可能。\n\nただし、デフォルトのポート9090をそのまま公開するのは危険すぎるので、IP制限は必須。このあたりの「実務で使うための注意点」も含めて、2500字超えで徹底レビューしました。\n\nみなさんはサーバー監視、何を使ってますか？\n「やっぱりCLI一択」派か「GUIで効率化」派か、ぜひ意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-06T22:08:10.478356+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-06-llama-swap-local-llm-model-switching-guide",
+    "title": "llama-swap 使い方：Ollama超えのローカルLLM切り替え環境を構築",
+    "url": "https://ai.negi-lab.com/posts/llama-swap-local-llm-model-switching-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llama_cpp",
+    "tweet_text": "SIer時代、環境構築だけで丸1日潰れるのは当たり前でした。今のローカルLLM界隈も、便利ツールが乱立して「結局どれがいいの？」と迷う時間がもったいない。\n\n最近、r/LocalLLaMAで話題の「llama-swap」を徹底検証しましたが、これこそが実務者が求めていた解だと思います。Ollamaの「勝手にモデルを管理する」不自由さから解放され、llama.cppの生パワーをAPI経由で、しかもモデルを自動で入れ替えながら使える。\n\nRTX 4090を2枚挿していても、1つのモデルに占有されるのは非効率。リクエストに応じてLlama 3からPhi-3へ、VRAMをパージしながら瞬時にスワップする挙動は感動すら覚えます。OpenAI SDKがそのまま使えるので、既存のRAGアプリの裏側をローカルに差し替えるのも一瞬。\n\n「動かしてみた」レベルを卒業して、自前で堅牢な推論サーバーを構築したい人は必見です。手順をコピペで動くレベルまで落とし込みました。\n\n皆さんはモデルの切り替え、どうやって自動化してますか？Ollamaの挙動に不満を感じたこと、ありませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-06T22:13:06.611902+09:00",
+    "posted": false
   }
 ]
