@@ -5727,5 +5727,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-07T00:08:15.662118+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-07-anthropic-claude-cloud-availability-defense-feud",
+    "title": "米国防省とAnthropicの対立激化もAzure・GCP経由のClaude利用は継続確定",
+    "url": "https://ai.negi-lab.com/posts/anthropic-claude-cloud-availability-defense-feud/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #マルチクラウド",
+    "tweet_text": "AI開発者にとって「APIが政治で止まる」ほど恐ろしいことはありません。Anthropicと国防省の対立という2026年最大の懸念に対し、ついにクラウド巨頭たちが動きました。\n\nMicrosoft、Google、Amazonが揃って「Claudeの提供継続」を公式表明。国防省以外の一般ユーザーは、引き続きAzureやVertex AI経由でClaudeを利用できることが確定しました。これは単なる安心材料ではなく、AI供給網における「プラットフォームの防波堤」が機能した歴史的な瞬間です。\n\nSIer時代、ハードウェアの納期遅れに泣かされた経験がありますが、現代のAIではそれが「政治的な供給停止」として現れます。今回の件で露呈したのは、特定ベンダーに依存する危うさです。私たちは今すぐAPI呼び出しを抽象化し、AWSとGCPのどちらでも数秒で切り替えられる設計へ移行すべきです。\n\nモデル性能の比較も重要ですが、これからは「地政学的レジリエンス」が選定基準になる。RTX 4090を回してローカルLLMを検証している私から見ても、今回のクラウド各社の動きは賢明なリスクヘッジだと感じます。\n\nみなさんの開発現場では、特定のモデルが止まった際のフェイルオーバー、具体的に準備できていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-07T06:39:09.022808+09:00",
+    "posted": false
   }
 ]
