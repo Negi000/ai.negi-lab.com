@@ -5713,5 +5713,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-06T22:13:06.611902+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-07-woz-review-saas-boilerplate-for-monetization",
+    "title": "Woz 使い方とレビュー 収益化アプリ開発の最短経路を探る",
+    "url": "https://ai.negi-lab.com/posts/woz-review-saas-boilerplate-for-monetization/",
+    "category": "TOOL",
+    "viral_tags": "#Woz #個人開発",
+    "tweet_text": "SIer時代、決済機能のバグ修正だけで徹夜していた頃の自分に教えたいツールを見つけた。\n\nWozという「稼ぐためのアプリ」を爆速で作るためのスターターキット。\n正直、最初はよくあるボイラープレートかと思った。\nでも、ドキュメントを読み込むと、AIのクレジット管理とStripeのサブスクが最初から密結合してる設計がかなり実戦的。\n\nエンジニアが一番やりたくない「認証」「決済」「メール送信」の泥臭い部分を全部引き受けてくれる。\n逆に言えば、これを使っても完成しないなら、それは技術力の問題じゃなくて「作る気がない」だけ。\n\n結論、趣味のコードじゃなくて「ビジネス」をしたいなら、40-60時間分の工数を数万円で買うのは賢い投資。\nRTX 4090を2枚回してローカルLLMを検証するのも楽しいけど、デプロイして1ドル稼ぐ体験には勝てない。\n\nこういう「ショートカットツール」、皆さんは肯定派ですか？それとも「基礎から自分で書くべき」というこだわり派ですか？\n最近のリリース速度を考えると、もう全部自分で書くのは無理ゲーな気がしています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-07T00:08:15.662118+09:00",
+    "posted": false
   }
 ]
