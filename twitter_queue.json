@@ -5657,5 +5657,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-06T11:42:19.579665+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-06-diligencesquared-ai-voice-agent-ma-research",
+    "title": "M&A調査をAIボイスが自動化！DiligenceSquaredが変えるコンサルの未来",
+    "url": "https://ai.negi-lab.com/posts/diligencesquared-ai-voice-agent-ma-research/",
+    "category": "NEWS",
+    "viral_tags": "#生成AI #デューデリジェンス",
+    "tweet_text": "M&AのデューデリをAIが代行する時代がついに来ました。DiligenceSquaredが発表した「AIボイスエージェントによる顧客調査」が、戦略コンサルの高額なフィーを破壊しようとしています。\n\nSIer時代、数千万円かけてコンサルに依頼していたあの泥臭いインタビュー作業が、たった48時間、数分の一のコストで完了する。これ、単なる自動化じゃなくて「市場のルール変更」ですよね。\n\n面白いのは「深掘り」ができる点。単なる録音じゃなく、相手の不満を察知して「具体的には？」と食い下がる。RTX 4090を回してローカルLLMをいじっている身からしても、音声AIのレイテンシがここまで実務レベルに落ちてきたのは感慨深いです。\n\nこれからは「人間の方が安心」という言葉が、非効率の言い訳に聞こえるようになるかもしれません。3ヶ月後には、PEファンドのジュニアの仕事内容がガラッと変わっているはず。\n\n皆さんは、自分がインタビューを受ける側だとしたら、AIと人間どちらに本音を話しますか？AI相手の方が忖度なしで話せそう、という意見も意外と多い気がします。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-06T18:39:51.396046+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-06-imbue-ai-agent-reasoning-review",
+    "title": "Imbue 複雑な推論を自動化する次世代AIエージェント構築プラットフォーム",
+    "url": "https://ai.negi-lab.com/posts/imbue-ai-agent-reasoning-review/",
+    "category": "TOOL",
+    "viral_tags": "#Imbue #AIエージェント",
+    "tweet_text": "AIエージェントの「思考の深さ」を一段階引き上げるImbueを検証しました。SIer時代、仕様書の矛盾や謎のエラーに数時間溶かしていたあの苦労を、AIが自律的な「推論ループ」で解決しようとするアプローチには目を見張るものがあります。\n\n多くのLLMツールが「System 1（直感）」で即答して嘘をつくのに対し、Imbueはあえて「System 2（論理）」にリソースを割き、内部で試行錯誤を繰り返してから答えを出します。Python 3.10環境下での実装は非常にスムーズで、特に複雑なコードベースのリファクタリングでは、人間が深夜にデバッグするような粘り強さを再現できています。\n\n正直、トークン消費は激しくレスポンスも速くはありません。しかし、1回のプロンプトで「動く解決策」まで辿り着く確率は、既存のフレームワークを遥かに凌駕しています。現在のLLMは「回答が速すぎるから間違える」という視点、エンジニアの皆さんはどう考えますか？推論に時間をかける設計は、今後のエージェント開発のスタンダードになる予感がします。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-06T18:42:23.066821+09:00",
+    "posted": false
   }
 ]
