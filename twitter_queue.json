@@ -5783,5 +5783,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-07T15:47:43.429960+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-07-claude-growth-surge-vs-chatgpt-2026",
+    "title": "ClaudeがChatGPTをDL数で圧倒し始めた理由は「AIを道具として使い倒す層」の移動にある",
+    "url": "https://ai.negi-lab.com/posts/claude-growth-surge-vs-chatgpt-2026/",
+    "category": "NEWS",
+    "viral_tags": "#Claude3 #Anthropic",
+    "tweet_text": "AI業界の勢力図が完全に塗り替わりつつあります。TechCrunchの最新レポートで、Claudeのアプリインストール数がついにChatGPTを追い抜く勢いであることが判明しました。\n\n元SIerエンジニアとして、この逆転劇は「必然」だったと感じています。OpenAIが音声や画像といったマルチモーダルなエンタメ要素に振っている一方で、Anthropicは一貫して「実務での生産性」を追求してきました。特に「Artifacts」の登場は決定的でしたね。画面を切り替えずにその場でコードが動き、プロトタイプが完成する体験は、一度味わうとChatGPTのUIには戻れません。\n\nペンタゴンとの契約騒動という逆風すら、この成長を止められなかった。これはユーザーがAIに対して「倫理的な正しさ」以上に「圧倒的な有能さ」を求めていることの現れかもしれません。Python歴8年の私の観点からも、生成されるコードの保守性は現状Claude 3.5 Sonnetが頭一つ抜けています。\n\n正直、これまで「とりあえずChatGPT」だった人も、そろそろ本気でメインツールを切り替える時期に来ているのではないでしょうか。皆さんは、今のGPT-4oとClaude 3.5、どちらの方が「自分の意図を組んでくれる」と感じていますか？現場でのリアルな感想を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-07T18:28:50.993901+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-07-21st-agents-sdk-claude-design-engineer-review",
+    "title": "21st Agents SDK 使い方と実務投入に向けたエンジニア視点での評価",
+    "url": "https://ai.negi-lab.com/posts/21st-agents-sdk-claude-design-engineer-review/",
+    "category": "TOOL",
+    "viral_tags": "#Claude3 #DesignEngineering",
+    "tweet_text": "自社アプリに「Claude Code」のようなAIエージェントを秒速で組み込める 21st Agents SDK を深掘りしました。\n\nSIer時代、エージェントのステート管理やツール呼び出しのロジック構築だけで数週間溶かしていたのが嘘のよう。このSDK、単にAIを呼ぶだけじゃなくて「21st.dev」が抱える膨大なUIコンポーネント資産をAIが自ら探索して、アプリに最適なコードを提案してくれるのが最大の強み。\n\n実際に触ってみて衝撃だったのは、AIの思考プロセスを可視化するフックの充実度。ユーザーを飽きさせないUXが最初から考慮されてます。RTX 4090を2枚挿してローカルLLMを回すのも楽しいですが、実務のスピード感を出すならこういうAPIベースの洗練されたSDKを使いこなすのが正解ですね。\n\nデザインエンジニアを自称するなら、一度はドキュメントを読んでおくべき。皆さんのプロジェクトでは、AIにどこまでコードを触らせる予定ですか？「生成まで」か「PR作成まで」か、それとも「デプロイまで」か。現場の温度感が気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-07T18:32:32.404573+09:00",
+    "posted": false
   }
 ]
