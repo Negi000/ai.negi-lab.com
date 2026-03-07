@@ -1,72 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Surfpool",
-      "url": "https://www.producthunt.com/products/surfpool",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Where developers start their Solana journey </p> <p> <a href=\"https://www.producthunt.com/products/surfpool?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087073?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-28T23:51:34"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "SellShots",
-      "url": "https://www.producthunt.com/products/sellshots-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> High-converting AI product photos in seconds </p> <p> <a href=\"https://www.producthunt.com/products/sellshots-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087194?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-28T23:51:34"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "OpenAI pivot investors love",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rh2lew/openai_pivot_investors_love/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-28T13:25:38+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rh2lew/openai_pivot_investors_love/\"> <img alt=\"OpenAI pivot investors love\" src=\"https://preview.redd.it/wfho2ytml8mg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c93cb65e111030d26cc8300d3d750ce3552a15a9\" title=\"OpenAI pivot investors love\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PaceImaginary8610\"> /u/PaceImaginary8610 </a> <br /> <span><a href=\"https://i.redd.it/wfho2ytml8mg1.",
-      "extra": {},
-      "collected_at": "2026-02-28T23:51:37"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen 3.5-35B-A3B is beyond expectations. It's replaced GPT-OSS-120B as my daily driver and it's 1/3 the size.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rh43za/qwen_3535ba3b_is_beyond_expectations_its_replaced/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-28T14:32:21+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I know everyone has their own subjective take on what models are the best, at which types of tasks, at which sizes, at which quants, at which context lengths and so on and so forth.</p> <p>But Qwen 3.5-35B-A3B has completely shocked me.</p> <p>My use-case is pretty broad, but generally focuses around development tasks.</p> <ul> <li>I have an N8N server setup that aggregates all of my messages, emails, alerts and aggregates them into priority based batches via th",
-      "extra": {},
-      "collected_at": "2026-03-01T02:21:04"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "google found that longer chain of thought actually correlates NEGATIVELY with accuracy. -0.54 correlation",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rh6pru/google_found_that_longer_chain_of_thought/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-28T16:19:37+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>new google paper is out and it challenges something a lot of us assumed. they tested 8 model variants (GPT-OSS, DeepSeek-R1, Qwen3, etc) across AIME2024/2025, HMMT 2025, and GPQA-Diamond.</p> <p>the finding: token length and accuracy have an average correlation of -0.54. negative. longer reasoning chains don't mean better answers, they often mean the model is spiraling or overthinking.</p> <p>so they proposed DTR (Deep Thinking Ratio) which measures what fractio",
-      "extra": {},
-      "collected_at": "2026-03-01T02:21:04"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Stop Burning Your Context Window – How We Cut MCP Output by 98% in Claude Code",
       "url": "https://mksg.lu/blog/context-mode",
@@ -2879,19 +2813,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "GetBeel",
-      "url": "https://www.producthunt.com/products/getbeel",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Let AI collect invoices and do reconciliation in automatic </p> <p> <a href=\"https://www.producthunt.com/products/getbeel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089757?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-07T18:28:13"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Thinking Line",
       "url": "https://www.producthunt.com/products/thinking-line",
       "primary_category": "TOOL",
@@ -2915,20 +2836,6 @@
       "summary": "<p> Local open-source LTX video editor optimized for GPUs </p> <p> <a href=\"https://www.producthunt.com/products/ltx-desktop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091591?app_id=339\">Link</a> </p>",
       "extra": {},
       "collected_at": "2026-03-07T18:28:13"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3-Coder-Next is the top model in SWE-rebench @ Pass 5. I think everyone missed it.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rn476o/qwen3codernext_is_the_top_model_in_swerebench/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-07T07:56:00+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rn476o/qwen3codernext_is_the_top_model_in_swerebench/\"> <img alt=\"Qwen3-Coder-Next is the top model in SWE-rebench @ Pass 5. I think everyone missed it.\" src=\"https://preview.redd.it/s4taslgvukng1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b460a4c7bdc1c14c2d857029d6a38a27e7d1d545\" title=\"Qwen3-Coder-Next is the top model in SWE-rebench @ Pass 5. I think everyone missed it.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"",
-      "extra": {},
-      "collected_at": "2026-03-07T18:28:16"
     },
     {
       "source": "r/LocalLLaMA",
@@ -3081,7 +2988,98 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rn58v3/holy_overthinker/\"> <img alt=\"holy overthinker\" src=\"https://preview.redd.it/fxctrkg98lng1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=e150eee0d0246827cf772743ff106c6b87275918\" title=\"holy overthinker\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>2minutes for just hi</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Kerem-6030\"> /u/Kerem-6030 </a> <br /> <span><a href=\"",
       "extra": {},
       "collected_at": "2026-03-07T21:58:07"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The OpenClaw superfan meetup serves optimism and lobster",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-07T09:00:00-05:00",
+      "summary": "The woman at the door wore a plush lobster headdress. She sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCon beckoned behind her - full of vibey pink and purple lighting, lobster claw headbands, multicolored name tags, sponsor [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-08T02:22:02"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "LLM Doesn't Write Correct Code. It Writes Plausible Code",
+      "url": "https://twitter.com/KatanaLarp/status/2029928471632224486",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 07 Mar 2026 14:38:29 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-08T02:22:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Copperlane",
+      "url": "https://www.producthunt.com/products/copperlane",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn hours of loan processing into seconds </p> <p> <a href=\"https://www.producthunt.com/products/copperlane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089903?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-08T02:22:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tailwind Form Builder",
+      "url": "https://www.producthunt.com/products/sheet-monkey",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create responsive HTML forms in minutes. No login required. </p> <p> <a href=\"https://www.producthunt.com/products/sheet-monkey?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089217?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-08T02:22:05"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "turns out RL isnt the flex",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rn8ulj/turns_out_rl_isnt_the_flex/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-07T12:31:42+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rn8ulj/turns_out_rl_isnt_the_flex/\"> <img alt=\"turns out RL isnt the flex\" src=\"https://preview.redd.it/yo0mhg07amng1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=79bd2087e261514e2bc4219f5f70a997dc523feb\" title=\"turns out RL isnt the flex\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vladlearns\"> /u/vladlearns </a> <br /> <span><a href=\"https://i.redd.it/yo0mhg07amng1.png\">[link]</a></s",
+      "extra": {},
+      "collected_at": "2026-03-08T02:22:08"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The MCP PR for llama.cpp has been merged !",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rnabs2/the_mcp_pr_for_llamacpp_has_been_merged/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-07T13:44:05+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The MCP PR for llama.cpp has finally been merged: <a href=\"https://github.com/ggml-org/llama.cpp/pull/18655\">https://github.com/ggml-org/llama.cpp/pull/18655</a></p> <p>This unlocks a pretty major piece on the llama-server / WebUI side, with MCP support, tool calls, an agentic loop, a server selector, resources, prompt attachments, a file/resource browser, and also the backend CORS proxy enabled with <code>--webui-mcp-proxy</code>.</p> <p>I am currently using op",
+      "extra": {},
+      "collected_at": "2026-03-08T02:22:08"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "What are the best nsfw ai models with no restrictions?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rn7k0e/what_are_the_best_nsfw_ai_models_with_no/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-07T11:18:49+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am new to this whole thing and I want to use it locally because I don't like chat gpt restricting me. It's hard to pick from so many ai models. I want the ai model to be focused on nsfw with no restrictions at all and of course the general usage (since I used chat gpt...) so it should be &quot;smarth enough&quot;? I don't know if these make sense but I have no idea how to look for a good ai model that has these. So I would like some help from anyone who can di",
+      "extra": {},
+      "collected_at": "2026-03-08T02:22:08"
     }
   ],
-  "updated_at": "2026-03-07T21:58:07.811877+09:00"
+  "updated_at": "2026-03-08T02:22:08.022712+09:00"
 }
