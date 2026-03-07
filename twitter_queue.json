@@ -5811,5 +5811,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-07T18:32:32.404573+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-07-getbeel-ai-invoice-reconciliation-review",
+    "title": "GetBeel 使い方と評価：AIで請求書収集と突合を自動化する",
+    "url": "https://ai.negi-lab.com/posts/getbeel-ai-invoice-reconciliation-review/",
+    "category": "TOOL",
+    "viral_tags": "#GetBeel #経理自動化",
+    "tweet_text": "SIer時代、たった1円の不一致のために深夜まで請求書と睨めっこした経験がある私にとって、GetBeelは衝撃的でした。\n\nAIが請求書を自動収集して支払いデータと突合する。これだけ聞くと「よくある機能」に思えますが、中身は別物。従来の「件名が○○なら保存」という脆弱なルールベースではなく、LLMが文脈を読んで「これ、あのサーバー代の請求だな」と判断する次元に来ています。\n\n特に海外SaaSを10個以上契約しているエンジニアやPMなら、月初に管理画面を巡回する苦行から解放される価値がわかるはず。実際に触ってみて、Stripe明細とメール内のPDFを1円単位で紐付ける精度の高さには驚きました。\n\nただ、日本のインボイス制度にどこまで追従できるかはまだ検証の余地あり。それでも、この「脳のメモリを事務作業に使わない」感覚は一度味わうと戻れません。\n\n「請求書どこだっけ？」とメールを検索している時間に、新しいコードを書いた方が絶対に楽しいですよね。皆さんは月次の経理作業にどれくらい時間を使ってますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-07T21:58:51.450774+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-07-qwen3-coder-next-local-python-tutorial",
+    "title": "Qwen3-Coder-Next 使い方 | 最強のコード生成AIで開発を自動化する手順",
+    "url": "https://ai.negi-lab.com/posts/qwen3-coder-next-local-python-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen2.5 #ローカルLLM",
+    "tweet_text": "正直、コード生成AIはClaude 3.5 Sonnetが最強で、オープンソース勢が追いつくにはまだ数年かかると思っていました。でも、Qwen3-Coder-NextがSWE-rebenchで叩き出したスコアを見て、その認識を完全に改める必要がありそうです。\n\nGitHubのIssueを実際に解決できる能力を競うこのベンチマークで、Qwenが商用モデルを凌駕。つまり「AIが書いたコードを人間が直す」時代から、「AIが勝手にバグを見つけてプルリクまで投げる」時代へのシフトが目前に迫っています。\n\n元SIerとして痛感するのは、このレベルのモデルがローカルで動く衝撃です。RTX 3060/4090があれば、秘匿性の高い社内コードを1文字も外に出さずに、24時間365日動く「専属シニアエンジニア」を雇える。\n\n今回はOllamaを使って、Pythonコードを自動監査する具体的なスクリプトを公開しました。VRAM消費の現実的な落とし穴から、実務で使えるシステムプロンプトの書き方まで詰め込んでいます。\n\n皆さんは、このQwenの躍進を見てローカルLLMへの切り替えを検討しますか？それとも、依然としてクラウドAPIの利便性を優先しますか？現場での使い分け、ぜひ意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-07T22:00:43.123535+09:00",
+    "posted": false
   }
 ]
