@@ -5741,5 +5741,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-07T06:39:09.022808+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-07-anthropic-claude-firefox-vulnerability-detection-analysis",
+    "title": "ClaudeがFirefoxの脆弱性を22件検出：AIによる自動脆弱性診断が「実用フェーズ」に入った瞬間",
+    "url": "https://ai.negi-lab.com/posts/anthropic-claude-firefox-vulnerability-detection-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Claude3 #脆弱性診断",
+    "tweet_text": "SIer時代、数万行のC++コードを血眼になってレビューしていた苦労は何だったのか…。\n\nAnthropicとMozillaが、Claudeを使ってFirefoxの脆弱性をわずか2週間で22件も発見したというニュース。しかも14件が深刻度「高」。これはもう「AIがバグを見つけるかも」という期待の段階ではなく、実務に組み込まなければならない「標準装備」になったと感じます。\n\n従来の静的解析ツール(SAST)では絶対に辿り着けなかった、関数を跨ぐ複雑なメモリ操作や論理矛盾を、LLMが「意味論」として理解して指摘しているのが衝撃的。APIドキュメントを読み込んでいる私から見ても、今回の推論の深さはClaude 3.7以降のReasoning能力が遺憾なく発揮された結果だと言えます。\n\n正直、これを使わずに人間だけでコードレビューを完結させるのは、もはやリスクでしかありません。一方で、この技術は攻撃者にとっても最強の武器になる。私たちは今、AIが守るか攻めるかの分水嶺に立っています。\n\n皆さんの現場では、すでにAIによるセキュリティスキャン、CI/CDに組み込んでいますか？それともまだ「人間が読むのが一番」という空気でしょうか？現場のリアルな意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-07-anthropic-claude-firefox-vulnerability-detection-analysis.jpg",
+    "created_at": "2026-03-07T11:34:09.779337+09:00",
+    "posted": false
   }
 ]

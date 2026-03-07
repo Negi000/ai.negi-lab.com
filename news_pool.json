@@ -1,131 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "We gave terabytes of CI logs to an LLM",
-      "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 27 Feb 2026 15:41:13 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-02-28T06:38:38"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "HelixDB",
-      "url": "https://www.producthunt.com/products/helixdb",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> An open-source OLTP graph-vector database built in Rust. </p> <p> <a href=\"https://www.producthunt.com/products/helixdb?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083326?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-02-28T06:38:40"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "New Qwen3.5-35B-A3B Unsloth Dynamic GGUFs + Benchmarks",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rgel19/new_qwen3535ba3b_unsloth_dynamic_ggufs_benchmarks/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-27T18:23:50+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rgel19/new_qwen3535ba3b_unsloth_dynamic_ggufs_benchmarks/\"> <img alt=\"New Qwen3.5-35B-A3B Unsloth Dynamic GGUFs + Benchmarks\" src=\"https://external-preview.redd.it/dk4oYGXETs66okCfY5tWsmyJ8TsYGxQaSswXwZSBdYs.png?width=140&amp;height=75&amp;auto=webp&amp;s=1b158effff1f75e76fd7b2a285de69b70b0fede9\" title=\"New Qwen3.5-35B-A3B Unsloth Dynamic GGUFs + Benchmarks\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey <a href=\"/r",
-      "extra": {},
-      "collected_at": "2026-02-28T06:38:43"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "LLmFit - One command to find what model runs on your hardware",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rg94wu/llmfit_one_command_to_find_what_model_runs_on/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-27T15:06:33+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rg94wu/llmfit_one_command_to_find_what_model_runs_on/\"> <img alt=\"LLmFit - One command to find what model runs on your hardware\" src=\"https://preview.redd.it/4194dq2qy1mg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=86e1f77b19ae2f61c500cb1462bd5812af4995c3\" title=\"LLmFit - One command to find what model runs on your hardware\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Haven't seen this posted here:</p> <p><a hr",
-      "extra": {},
-      "collected_at": "2026-02-28T06:38:43"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I built a hybrid MoE runtime that does 3,324 tok/s prefill on a single 5080. Here are the benchmarks.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rgfm00/i_built_a_hybrid_moe_runtime_that_does_3324_toks/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-27T19:01:09+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rgfm00/i_built_a_hybrid_moe_runtime_that_does_3324_toks/\"> <img alt=\"I built a hybrid MoE runtime that does 3,324 tok/s prefill on a single 5080. Here are the benchmarks.\" src=\"https://preview.redd.it/3bt68udk33mg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=34b20c87019ad453c122dd125d646bd226ac5433\" title=\"I built a hybrid MoE runtime that does 3,324 tok/s prefill on a single 5080. Here are the benchmarks.\" /> </a> </td",
-      "extra": {},
-      "collected_at": "2026-02-28T06:38:43"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions",
-      "url": "https://github.com/hjtenklooster/claude-file-recovery",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 27 Feb 2026 16:26:22 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-02-28T11:30:53"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Back in my day, LocalLLaMa were the pioneers!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rgkc1b/back_in_my_day_localllama_were_the_pioneers/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-02-27T22:00:57+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rgkc1b/back_in_my_day_localllama_were_the_pioneers/\"> <img alt=\"Back in my day, LocalLLaMa were the pioneers!\" src=\"https://preview.redd.it/hiz4ukvg04mg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50545019f32fd7e0e01e1b41c3ffbb390e1046eb\" title=\"Back in my day, LocalLLaMa were the pioneers!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ForsookComparison\"> /u/ForsookComparison </a> <b",
-      "extra": {},
-      "collected_at": "2026-02-28T11:30:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "President Trump orders ALL Federal agencies in the US Government to immediately stop using Anthropic's technology.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rgn4ki/president_trump_orders_all_federal_agencies_in/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-02-27T23:53:00+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rgn4ki/president_trump_orders_all_federal_agencies_in/\"> <img alt=\"President Trump orders ALL Federal agencies in the US Government to immediately stop using Anthropic's technology.\" src=\"https://preview.redd.it/m3lk2lo3k4mg1.png?width=140&amp;height=100&amp;auto=webp&amp;s=cce1fad476cfc426de148a0e3c5f8861d5a7adf0\" title=\"President Trump orders ALL Federal agencies in the US Government to immediately stop using Anthropic's t",
-      "extra": {},
-      "collected_at": "2026-02-28T11:30:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "A monthly update to my \"Where are open-weight models in the SOTA discussion?\" rankings",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rgokw1/a_monthly_update_to_my_where_are_openweight/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-02-28T00:55:43+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rgokw1/a_monthly_update_to_my_where_are_openweight/\"> <img alt=\"A monthly update to my &quot;Where are open-weight models in the SOTA discussion?&quot; rankings\" src=\"https://preview.redd.it/h73sgnomv4mg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=095da03cfc69e0e25dba0d39a567ed55010d112b\" title=\"A monthly update to my &quot;Where are open-weight models in the SOTA discussion?&quot; rankings\" /> </a> </td><td> &#32; sub",
-      "extra": {},
-      "collected_at": "2026-02-28T11:30:58"
-    },
-    {
       "source": "Product Hunt",
       "title": "What's Up With That?",
       "url": "https://www.producthunt.com/products/what-s-up-with-that",
@@ -2951,19 +2826,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
-      "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 06 Mar 2026 19:50:10 +0000",
-      "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
-      "extra": {},
-      "collected_at": "2026-03-07T06:38:16"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
       "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
       "primary_category": "NEWS",
@@ -3097,7 +2959,85 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>post reference: <a href=\"https://www.reddit.com/r/LocalAIServers/comments/1rf6vmf/group_buy_starting/\">https://www.reddit.com/r/LocalAIServers/comments/1rf6vmf/group_buy_starting/</a></p> <p>short history is that this guy proposed to start a group buy months ago with decent interest. refused to post any kind of pricing to boost signups, despite the overwhelming majority of users asking for pricing pre-signup.</p> <p>at the time that he started the group buy mont",
       "extra": {},
       "collected_at": "2026-03-07T06:38:23"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+      "url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 06 Mar 2026 18:01:38 +0000",
+      "summary": "The Pentagon has officially&#160;designated&#160;Anthropic&#160;a supply-chain risk&#160;after the two failed to agree on how much control the military should have over its AI models,&#160;including&#160;its&#160;use in&#160;autonomous weapons and mass domestic surveillance. As&#160;Anthropic’s&#160;$200 million contract fell apart, the DoD turned to OpenAI instead,&#160;which&#160;accepted and&#160;then watched&#160;ChatGPT uninstalls surge 295%. As the stakes keep rising, the question&#160;rem",
+      "extra": {},
+      "collected_at": "2026-03-07T11:33:33"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
+      "url": "https://news.ycombinator.com/item?id=47282777",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 07 Mar 2026 00:05:06 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-07T11:33:34"
+    },
+    {
+      "source": "Google News",
+      "title": "核意思決定における人工知能の影響 - INPS Japan",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0VRYkkxTG93bzlrS2c5OHZlNjI0cGFoenI4REdLTlBYQTcwaG9KS1RfYTlxdUJoODlmT040OFpXYWlENHJWQkRBTC1uLW85b1dqeW1nZXcybV9nMTVJYU1wV2RlVTE1eDM5d1ZuNG9pWlprcFNlRFVyU3FwNlR5SnMtX1l0dmRRMFV5clI3UnQ2c1RPcHhhbldtNjFGczZSUUhqU2lwanY2ZE5NVkZCdWtKeTFsQQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 06 Mar 2026 21:33:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0VRYkkxTG93bzlrS2c5OHZlNjI0cGFoenI4REdLTlBYQTcwaG9KS1RfYTlxdUJoODlmT040OFpXYWlENHJWQkRBTC1uLW85b1dqeW1nZXcybV9nMTVJYU1wV2RlVTE1eDM5d1ZuNG9pWlprcFNlRFVyU3FwNlR5SnMtX1l0dmRRMFV5clI3UnQ2c1RPcHhhbldtNjFGczZSUUhqU2lwanY2ZE5NVkZCdWtKeTFsQQ?oc=5\" target=\"_blank\">核意思決定における人工知能の影響</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">INPS Japan</font>",
+      "extra": {},
+      "collected_at": "2026-03-07T11:33:36"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Context Gateway",
+      "url": "https://www.producthunt.com/products/context-gateway",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Make Claude Code faster and cheaper without losing context </p> <p> <a href=\"https://www.producthunt.com/products/context-gateway?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089561?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-07T11:33:36"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "SuperPowers AI",
+      "url": "https://www.producthunt.com/products/superpowers-ai-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Real time ambient visual agents for phones and wearables </p> <p> <a href=\"https://www.producthunt.com/products/superpowers-ai-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088206?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-07T11:33:36"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Lads, time to recompile llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rmoi8d/lads_time_to_recompile_llamacpp/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-06T20:03:03+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/ggml-org/llama.cpp/pull/18675\">https://github.com/ggml-org/llama.cpp/pull/18675</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/muxxington\"> /u/muxxington </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rmoi8d/lads_time_to_recompile_llamacpp/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rmoi8d/lads_time_to_recompile_llamacpp/\">",
+      "extra": {},
+      "collected_at": "2026-03-07T11:33:39"
     }
   ],
-  "updated_at": "2026-03-07T06:38:23.525401+09:00"
+  "updated_at": "2026-03-07T11:33:39.356127+09:00"
 }
