@@ -2,32 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Stop Burning Your Context Window – How We Cut MCP Output by 98% in Claude Code",
-      "url": "https://mksg.lu/blog/context-mode",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 28 Feb 2026 10:01:20 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-01T06:31:12"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "This sub is incredible",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rh9u4r/this_sub_is_incredible/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-02-28T18:20:55+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I feel like everything in the AI industry is spedrunning profit driven vendor lock in and rapid enshitification, then everyone on this sub cobbles together a bunch of RTX3090s, trade weights around like they are books at a book club and make the entire industry look like a joke. Keep at it! you are our only hope!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cmdr-William-Riker\"> /u/cmdr-William-Riker </a> <br /> <span><a ",
-      "extra": {},
-      "collected_at": "2026-03-01T06:31:16"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Claude becomes number one app on the U.S. App Store",
       "url": "https://apps.apple.com/us/iphone/charts",
       "primary_category": "NEWS",
@@ -2990,19 +2964,6 @@
       "collected_at": "2026-03-07T21:58:07"
     },
     {
-      "source": "The Verge AI",
-      "title": "The OpenClaw superfan meetup serves optimism and lobster",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-07T09:00:00-05:00",
-      "summary": "The woman at the door wore a plush lobster headdress. She sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, the world of ClawCon beckoned behind her - full of vibey pink and purple lighting, lobster claw headbands, multicolored name tags, sponsor [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-08T02:22:02"
-    },
-    {
       "source": "HN AI Hot",
       "title": "LLM Doesn't Write Correct Code. It Writes Plausible Code",
       "url": "https://twitter.com/KatanaLarp/status/2029928471632224486",
@@ -3079,7 +3040,74 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am new to this whole thing and I want to use it locally because I don't like chat gpt restricting me. It's hard to pick from so many ai models. I want the ai model to be focused on nsfw with no restrictions at all and of course the general usage (since I used chat gpt...) so it should be &quot;smarth enough&quot;? I don't know if these make sense but I have no idea how to look for a good ai model that has these. So I would like some help from anyone who can di",
       "extra": {},
       "collected_at": "2026-03-08T02:22:08"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+      "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 07 Mar 2026 20:44:25 +0000",
+      "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
+      "extra": {},
+      "collected_at": "2026-03-08T06:31:17"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+      "url": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 07 Mar 2026 17:28:41 +0000",
+      "summary": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
+      "extra": {},
+      "collected_at": "2026-03-08T06:31:17"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "NotchPad",
+      "url": "https://www.producthunt.com/products/notchpad",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The secure notepad and clipboard manager for your Mac. </p> <p> <a href=\"https://www.producthunt.com/products/notchpad?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1086531?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-08T06:31:28"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Heretic has FINALLY defeated GPT-OSS with a new experimental decensoring method called ARA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rnic0a/heretic_has_finally_defeated_gptoss_with_a_new/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-07T19:06:02+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rnic0a/heretic_has_finally_defeated_gptoss_with_a_new/\"> <img alt=\"Heretic has FINALLY defeated GPT-OSS with a new experimental decensoring method called ARA\" src=\"https://preview.redd.it/oxx4oi0c8ong1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=36086fb244fad995cfe43cdab31993e2611f7292\" title=\"Heretic has FINALLY defeated GPT-OSS with a new experimental decensoring method called ARA\" /> </a> </td><td>",
+      "extra": {},
+      "collected_at": "2026-03-08T06:31:30"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "How can I make my pp to be bigger?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rnkbhp/how_can_i_make_my_pp_to_be_bigger/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-07T20:23:34+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am using llama.cpp Vulkan with my B580 and I want to do some vibe coding on a project I made. I want the tool I will be using for vibe coding to know everything about the project, so I tested pasting all .java files into the prompt and it was 194k tokens. At first, open webui said it would take ~300s and I thought it was an ok speed, but then some minutes later it said it would take 1300s, then 1500s, then 1700s... and to make things worse, due to the bad fan ",
+      "extra": {},
+      "collected_at": "2026-03-08T06:31:30"
     }
   ],
-  "updated_at": "2026-03-08T02:22:08.022712+09:00"
+  "updated_at": "2026-03-08T06:31:30.692771+09:00"
 }
