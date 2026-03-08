@@ -5881,5 +5881,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-08T11:47:33.807703+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-08-grammarly-expert-review-ai-marketing-exposed",
+    "title": "Grammarlyの専門家レビュー機能に潜む虚飾とAI校正の限界",
+    "url": "https://ai.negi-lab.com/posts/grammarly-expert-review-ai-marketing-exposed/",
+    "category": "NEWS",
+    "viral_tags": "#Grammarly #生成AI",
+    "tweet_text": "Grammarlyの「専門家レビュー」の正体がTechCrunchの調査で暴かれましたが、正直「やっぱりな」というのが技術者としての本音です。\n\nSIer時代、1つの仕様書を完成させるのに何人もの本物の専門家のチェックを受けてきた身からすると、AIに「専門家のペルソナ」を被せただけで高い月額料金を取る現状には強い違和感があります。\n\n結局のところ、裏側で動いているのは私たちがAPIで叩けるLLMと大差ない「擬似的なロールプレイ」に過ぎません。RTX 4090を2枚挿してローカルLLMを回していれば、プロンプト一つで「専門家風のアドバイス」なんていくらでも生成できることが分かります。\n\n問題は、そのアドバイスに責任が伴っていないこと。AIが自信満々に嘘を吐く「ハルシネーション」のリスクを、洗練されたUIと「Expert」というラベルが隠してしまっています。\n\nこれなら月額$30払うより、Claude 3.5 Sonnetに自分専用の厳しいプロンプトを組んだ方が、実務のドキュメント作成には100倍役立ちます。\n\nみなさんは、AIツールの「専門家」というラベル、どこまで信用して使っていますか？実際に使ってみて「これ、中身スカスカだな」と感じた経験、他にもあれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-08T13:51:47.206865+09:00",
+    "posted": false
   }
 ]
