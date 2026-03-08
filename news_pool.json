@@ -1,170 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "The Galaxy S26 is a photography nightmare",
-      "url": "https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-02-27T10:15:52-05:00",
-      "summary": "In many ways, Samsung's new phones are fairly normal upgrades. The S26 lines come with some useful new things - particularly the Privacy Display on the S26 Ultra, which looks like an extremely cool bit of tech and a really useful new feature - and a lot of iterative year-over-year changes. The new camera features, [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-01T18:29:23"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Switch to Claude without starting over",
-      "url": "https://claude.com/import-memory",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 01 Mar 2026 07:36:52 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-01T18:29:24"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Notra",
-      "url": "https://www.producthunt.com/products/notra-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn your daily work into publish-ready content </p> <p> <a href=\"https://www.producthunt.com/products/notra-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082349?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-01T18:29:25"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "OpenAI WebSocket Mode for Responses API",
-      "url": "https://www.producthunt.com/products/openai-websocket-mode-for-responses-api",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Persistent AI agents. Up to 40% faster. </p> <p> <a href=\"https://www.producthunt.com/products/openai-websocket-mode-for-responses-api?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085025?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-01T18:29:25"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Voicr",
-      "url": "https://www.producthunt.com/products/voicr",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your voice in, polished text out — in seconds </p> <p> <a href=\"https://www.producthunt.com/products/voicr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1086384?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-01T18:29:25"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "How to switch Qwen 3.5 thinking on/off without reloading the model",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rhohqk/how_to_switch_qwen_35_thinking_onoff_without/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-01T05:04:12+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The Unsloth guide for Qwen 3.5 provides four recommendations for using the model in instruct or thinking mode for general and coding use. I wanted to share that it is possible to switch between the different use cases without having to reload the model every time. </p> <p>Using the new <code>setParamsByID</code> filter in llama-swap: </p> <p>```yaml</p> <h1>show aliases in v1/models</h1> <p>includeAliasesInList: true</p> <p>models: &quot;Q3.5-35B&quot;: env: - &",
-      "extra": {},
-      "collected_at": "2026-03-01T18:29:28"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Claude Import Memory",
-      "url": "https://www.producthunt.com/products/claude-in-powerpoint",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Switch from ChatGPT to Claude with import memory feature </p> <p> <a href=\"https://www.producthunt.com/products/claude-in-powerpoint?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087761?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-01T21:59:19"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "hyprwm/Hyprland",
-      "url": "https://github.com/hyprwm/Hyprland",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "extra": {
-        "stars_today": "60 stars today"
-      },
-      "collected_at": "2026-03-01T21:59:20"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "taosdata/TDengine",
-      "url": "https://github.com/taosdata/TDengine",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
-      "extra": {
-        "stars_today": "6 stars today"
-      },
-      "collected_at": "2026-03-01T21:59:20"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "mnfst/manifest",
-      "url": "https://github.com/mnfst/manifest",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Smart LLM routing for OpenClaw. Cut Costs up to 70%",
-      "extra": {
-        "stars_today": "20 stars today"
-      },
-      "collected_at": "2026-03-01T21:59:20"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "we need to go deeper",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rhvabz/we_need_to_go_deeper/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-01T11:43:26+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rhvabz/we_need_to_go_deeper/\"> <img alt=\"we need to go deeper\" src=\"https://preview.redd.it/2ixnt6k88fmg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c974ea204ef618a39c27255c1f539d0046685d04\" title=\"we need to go deeper\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Do you think it will happen today or tomorrow? :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jacek2023\"> /",
-      "extra": {},
-      "collected_at": "2026-03-01T21:59:21"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "PSA: If your local coding agent feels \"dumb\" at 30k+ context, check your KV cache quantization first.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rhvi09/psa_if_your_local_coding_agent_feels_dumb_at_30k/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-01T11:55:51+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been seeing a lot of posts lately about models like Qwen3-Coder or GLM 4.7 getting trapped in infinite correction loops or hallucinating tool-call parameters once the context gets deep. The usual advice is to switch to a higher precision GGUF or tweak the system prompt. But after a few days of heavy profiling, the culprit is almost always aggressive KV cache quantization.Everyone wants to cram 30B+ models into 24GB of VRAM. To do that and still keep a 64k c",
-      "extra": {},
-      "collected_at": "2026-03-01T21:59:21"
-    },
-    {
       "source": "GitHub Trending",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
@@ -2960,19 +2796,6 @@
       "collected_at": "2026-03-08T02:22:08"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
-      "url": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 07 Mar 2026 17:28:41 +0000",
-      "summary": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
-      "extra": {},
-      "collected_at": "2026-03-08T06:31:17"
-    },
-    {
       "source": "Product Hunt",
       "title": "NotchPad",
       "url": "https://www.producthunt.com/products/notchpad",
@@ -3125,19 +2948,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Vibe Marketplace by Greta",
-      "url": "https://www.producthunt.com/products/gretabyquestera",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Sell what you ship, instantly </p> <p> <a href=\"https://www.producthunt.com/products/gretabyquestera?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078230?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-08T18:29:06"
-    },
-    {
-      "source": "Product Hunt",
       "title": "GetMimic",
       "url": "https://www.producthunt.com/products/getmimic",
       "primary_category": "TOOL",
@@ -3175,7 +2985,79 @@
       "summary": "<p> A Mac application to keep your code reviews organized! </p> <p> <a href=\"https://www.producthunt.com/products/pulldog?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1092014?app_id=339\">Link</a> </p>",
       "extra": {},
       "collected_at": "2026-03-08T18:29:06"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Claude Marketplace",
+      "url": "https://www.producthunt.com/products/claude-marketplace",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Helping companies easily get the AI tools they need </p> <p> <a href=\"https://www.producthunt.com/products/claude-marketplace?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1092091?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-08T21:59:32"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "ahrm/sioyek",
+      "url": "https://github.com/ahrm/sioyek",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Sioyek is a PDF viewer with a focus on textbooks and research papers",
+      "extra": {
+        "stars_today": "75 stars today"
+      },
+      "collected_at": "2026-03-08T21:59:33"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "JSON for Modern C++",
+      "extra": {
+        "stars_today": "14 stars today"
+      },
+      "collected_at": "2026-03-08T21:59:33"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "fastfetch-cli/fastfetch",
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "extra": {
+        "stars_today": "22 stars today"
+      },
+      "collected_at": "2026-03-08T21:59:33"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "TIL: LLMs have a hidden \"agency signal\" (Â) that predicts when they should use tools — and how to exploit it (+26-58% gain)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ro255t/til_llms_have_a_hidden_agency_signal_â_that/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-08T11:04:29+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>**TL;DR:*\\</strong>* While debugging agent failures, I discovered that hidden states right before a tool call are <strong>**linearly separable*\\</strong>* from non-tool states (AUC &gt; 0.94). Here's how to extract and use this signal to dramatically improve your agents — no training needed.</p> <p>---</p> <p>## 🔍 The discovery</p> <p>I was building a ReAct agent with Qwen3 and kept running into the same problem: the model would sometimes answer directly",
+      "extra": {},
+      "collected_at": "2026-03-08T21:59:35"
     }
   ],
-  "updated_at": "2026-03-08T18:29:09.094979+09:00"
+  "updated_at": "2026-03-08T21:59:35.223029+09:00"
 }

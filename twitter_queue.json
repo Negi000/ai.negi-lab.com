@@ -5937,5 +5937,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-08T18:31:38.408238+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-08-getmimic-ai-social-mockup-review-automation",
+    "title": "GetMimic SNSやチャット画面のモックアップをAIで自動生成する方法",
+    "url": "https://ai.negi-lab.com/posts/getmimic-ai-social-mockup-review-automation/",
+    "category": "TOOL",
+    "viral_tags": "#GetMimic #広告クリエイティブ自動化",
+    "tweet_text": "SNSのスクショ風広告を作るとき、まだFigmaやCanvaでポチポチ消耗してませんか？\n\n「GetMimic」を試して、正直驚きました。\nSIer時代にこれがあったら、モックアップ作成に費やしたあの深夜の3時間が、わずか0.3秒で終わっていましたね。\n\n単なる「それっぽい画像」の生成じゃないんです。\nAIが文脈に合わせて、架空のアイコンや「いいね数」を統合した完璧なUIレイアウトを出してくる。\nAPI経由でLLMと繋げば、バリエーション100件のA/Bテスト素材も5分で完結します。\n\n日本語フォントに若干の癖は残るものの、実務での「量産コスト」を下げる破壊力は凄まじい。\nエンジニア視点で見ると、エンドポイントが非常に素直で、既存のパイプラインに組み込みやすいのが一番の収穫でした。\n\n広告運用で「UGC風のクリエイティブが足りない」と嘆いているチームには、特効薬になるはず。\nみなさんの現場では、こうしたモックアップ制作にどれくらい工数を割いていますか？\n自動化したい具体的なフローとかあれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-08-getmimic-ai-social-mockup-review-automation.jpg",
+    "created_at": "2026-03-08T22:00:18.733117+09:00",
+    "posted": false
   }
 ]
