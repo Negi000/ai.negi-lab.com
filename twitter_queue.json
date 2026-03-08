@@ -5951,5 +5951,33 @@
     "image_path": "/images/posts/2026-03-08-getmimic-ai-social-mockup-review-automation.jpg",
     "created_at": "2026-03-08T22:00:18.733117+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-09-anthropic-palantir-defense-controversy-analysis",
+    "title": "Anthropicの軍事利用論争が示すAIスタートアップの防衛ビジネス進出リスク",
+    "url": "https://ai.negi-lab.com/posts/anthropic-palantir-defense-controversy-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #AI倫理",
+    "tweet_text": "AI業界の「安全性の砦」だったはずのAnthropicが、ついにペンタゴン（米国国防総省）との提携という禁断の果実に手を伸ばしましたね。PalantirとAWSを介して、機密情報用インフラ「IL6」でClaudeを動かすというこの動き。SIer時代に官公庁の案件を触っていた身からすると、この「物理隔離環境でのLLM運用」がいかに技術的・政治的にハードルが高いか痛いほど分かります。\n\n単なる「事務効率化」という名目ですが、戦場をデジタル化するPalantirのプラットフォームに乗る以上、実質的には軍事AIの一部。OpenAIが軍事利用禁止を削除したのに続き、Anthropicまでこの道を選んだことで、AI開発者が抱く「Do No Evil」の幻想は完全に崩れ去ったと言えるかもしれません。\n\n正直、ビジネスとしては正解でしょう。国防予算の桁違いな資金力は、RTX 4090を並べるレベルではない、数万枚規模のH100/B200クラスの計算資源を維持するために不可欠ですから。でも、これで「安全性」を語るのはもう無理があるんじゃないでしょうか。\n\n皆さんは、自分が開発したコードやモデルが軍事利用される可能性があるとしたら、その企業で働き続けられますか？あるいは、ライセンスで制限をかけますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-09-anthropic-palantir-defense-controversy-analysis.jpg",
+    "created_at": "2026-03-09T06:34:26.608838+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-09-pulldog-mac-github-pr-review-guide",
+    "title": "Pulldog 使い方レビュー！GitHubのPR管理を爆速にするMacアプリ",
+    "url": "https://ai.negi-lab.com/posts/pulldog-mac-github-pr-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Pulldog #GitHub効率化",
+    "tweet_text": "SIer時代、1日に100通以上届くGitHubの通知メールに絶望した経験はありませんか？正直、ブラウザの通知画面を確認するだけで数分奪われるのは、エンジニアの生産性として致命的です。\n\n今回試したMac専用のPR管理ツール「Pulldog」が、その悩みを一瞬で解決してくれました。\n結論、複数のリポジトリを跨いで開発しているエンジニアなら、メニューバーにこれを常駐させるだけでコンテキストスイッチの回数が激減します。\n\n特筆すべきは「自分に関係あるPR」だけを抽出するフィルタリングの速さ。Electronではなくネイティブアプリなので、メモリ消費も最小限。RTX 4090を積んだ自宅サーバーでローカルLLMを回しながらでも、全く動作を邪魔しません。\n\nGitHub公式の通知画面で「どのPRから見ればいいんだ…」と迷子になっている人は、一度試す価値があります。逆に、リポジトリが1つしかない環境なら、ここまでのツールは不要かもしれません。\n\n皆さんは大量のPRをどう裁いていますか？Slack連携派か、ブラウザ死守派か、それともPulldogのような専用ツール派か、実際の運用術を聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-09-pulldog-mac-github-pr-review-guide.jpg",
+    "created_at": "2026-03-09T06:36:14.285771+09:00",
+    "posted": false
   }
 ]
