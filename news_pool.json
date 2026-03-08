@@ -3043,19 +3043,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
-      "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 07 Mar 2026 20:44:25 +0000",
-      "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
-      "extra": {},
-      "collected_at": "2026-03-08T06:31:17"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
       "url": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
       "primary_category": "NEWS",
@@ -3107,7 +3094,88 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am using llama.cpp Vulkan with my B580 and I want to do some vibe coding on a project I made. I want the tool I will be using for vibe coding to know everything about the project, so I tested pasting all .java files into the prompt and it was 194k tokens. At first, open webui said it would take ~300s and I thought it was an ok speed, but then some minutes later it said it would take 1300s, then 1500s, then 1700s... and to make things worse, due to the bad fan ",
       "extra": {},
       "collected_at": "2026-03-08T06:31:30"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google just gave Sundar Pichai a $692M pay package",
+      "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 08 Mar 2026 00:20:10 +0000",
+      "summary": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+      "extra": {},
+      "collected_at": "2026-03-08T11:47:00"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+      "url": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "Sat, 07 Mar 2026 22:56:31 +0000",
+      "summary": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
+      "extra": {},
+      "collected_at": "2026-03-08T11:47:00"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "LLM Writing Tropes.md",
+      "url": "https://tropes.fyi/tropes-md",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 07 Mar 2026 21:08:40 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-08T11:47:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Whelp…NVIDIA just raised the DGX Spark’s Price by $700. Spark clone prices have started rising as well. ☹️",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rno7sh/whelpnvidia_just_raised_the_dgx_sparks_price_by/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-07T23:02:47+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rno7sh/whelpnvidia_just_raised_the_dgx_sparks_price_by/\"> <img alt=\"Whelp…NVIDIA just raised the DGX Spark’s Price by $700. Spark clone prices have started rising as well. ☹️\" src=\"https://preview.redd.it/411c7ohzepng1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=69502e17791e41514b17dc38fc390efd474fa903\" title=\"Whelp…NVIDIA just raised the DGX Spark’s Price by $700. Spark clone prices have started rising as well. ☹️\" />",
+      "extra": {},
+      "collected_at": "2026-03-08T11:47:05"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Reminder to be kind to your fellow /r/LocalLLaMAN - We are Mighty - We are Many - and Many are NEW (just like YOU once were!!)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rnqhj6/reminder_to_be_kind_to_your_fellow_rlocalllaman/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-08T00:42:19+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rnqhj6/reminder_to_be_kind_to_your_fellow_rlocalllaman/\"> <img alt=\"Reminder to be kind to your fellow /r/LocalLLaMAN - We are Mighty - We are Many - and Many are NEW (just like YOU once were!!)\" src=\"https://preview.redd.it/6hfdbknawpng1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b4d1c5f9bf35f662f30cf1aa9ba5f48713c4df84\" title=\"Reminder to be kind to your fellow /r/LocalLLaMAN - We are Mighty - We are Many - and Many ",
+      "extra": {},
+      "collected_at": "2026-03-08T11:47:05"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "(Llama.cpp) In case people are struggling with prompt processing on larger models like Qwen 27B, here's what helped me out",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rnrxsv/llamacpp_in_case_people_are_struggling_with/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-08T01:49:39+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>TLDR: I put the --ubatch-size to my GPU's L3 cache is (in MB).</strong> </p> <p>I was playing around with that value, and I had a hard time finding what exactly it did, or rather, I couldn't really understand it from most of the sources, and asking AI chats for help yielded very mixed results.</p> <p>My GPU is 9070xt, and when I put it to --ubatch-size 64 (as the GPU has 64MB of L3 cache) my prompt processing jumped in speed where it was actually usable ",
+      "extra": {},
+      "collected_at": "2026-03-08T11:47:05"
     }
   ],
-  "updated_at": "2026-03-08T06:31:30.692771+09:00"
+  "updated_at": "2026-03-08T11:47:05.712377+09:00"
 }

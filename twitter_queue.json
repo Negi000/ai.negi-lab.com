@@ -5867,5 +5867,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-08T06:32:01.815374+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-08-google-pichai-pay-package-waymo-strategy",
+    "title": "Sundar Pichaiへの1000億円報酬から読み解くGoogleの「AI脱LLM」と実世界実装への覚悟",
+    "url": "https://ai.negi-lab.com/posts/google-pichai-pay-package-waymo-strategy/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleAI #Waymo",
+    "tweet_text": "GoogleがピチャイCEOに約1050億円の報酬パッケージを承認。驚くべきはその「条件」です。\n\n検索広告の成長ではなく、Waymo（自動運転）やWing（ドローン）の業績に強く連動させてきました。これはGoogleが「LLMの知能競争」を通過点と見なし、その先の「実世界AIの支配」へ本気で舵を切った証拠です。\n\nSIer時代、現場でロボット1台動かすのに数千行のコードを書いていた苦労を思い出すと、今のVLA（Vision-Language-Action）モデルの台頭は魔法のように見えます。しかし、その魔法を実現するには物理世界の膨大なフィードバックデータが不可欠。\n\nOpenAIにはない「動くハードウェア」を持つGoogleが、この巨額インセンティブで何を狙っているのか。開発者は今すぐテキスト生成の枠を飛び出し、物理演算やエッジ推論の準備を始めるべきです。\n\nこれからのAIエンジニアの価値は、画面の中ではなく「現実をどれだけ動かせるか」で決まる時代になります。\n\n皆さんは、AIが物理世界に干渉することに対して、どの分野が一番最初に「キャズム」を超えると予想しますか？自動運転？それとも物流ドローン？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-08T11:47:33.807703+09:00",
+    "posted": false
   }
 ]
