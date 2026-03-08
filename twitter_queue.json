@@ -5909,5 +5909,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-08T15:50:34.418729+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-08-openai-chatgpt-adult-mode-delay-analysis",
+    "title": "OpenAIがChatGPT「アダルトモード」を再延期、セーフティと収益の狭間で揺れる技術的背景",
+    "url": "https://ai.negi-lab.com/posts/openai-chatgpt-adult-mode-delay-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#ChatGPT #生成AI",
+    "tweet_text": "OpenAIがChatGPTの「アダルトモード」を再び延期。2025年12月の予定からさらに数ヶ月先送りに。\nこのニュース、単なる表現の自由化の話じゃない。AIの「安全」と「収益」が真っ向からぶつかっている。\n\n元SIerとして言わせてもらえば、この手の動的なガードレール制御は実装難易度が跳ね上がる。\n「一律拒否」は簡単だが、「認証済みの大人にだけ、合意のある範囲で許可する」という条件分岐を、推論の数ミリ秒で、しかも100%の精度で行うのは現時点では技術的な賭けに近い。\n\n背景にはAppleやGoogleのストア規約との戦いもあるはず。\nもしストアから消されれば、OpenAIのモバイル戦略は崩壊する。\nでも、今の「去勢されたAI」に不満を持つユーザーがローカルLLMに流れているのも事実。\n\n私は自宅でRTX 4090を2枚回して検証しているけど、正直OpenAIのこの慎重さはスピード感に欠けると感じる。\n企業ブランドを守りつつ、ダークな市場の需要も取り込みたいという二兎を追う姿勢が、結果として迷走を生んでいるのでは？\n\n皆さんはAIの「検閲」についてどう考えてますか？\n「もっと自由にすべき」か、それとも「このまま厳格であるべき」か。\n実務でAIを使っている皆さんの本音を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-08T18:30:07.752141+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-08-vibe-marketplace-greta-review-monetization",
+    "title": "Vibe Marketplace by Greta 使い方と個人開発での収益化レビュー",
+    "url": "https://ai.negi-lab.com/posts/vibe-marketplace-greta-review-monetization/",
+    "category": "TOOL",
+    "viral_tags": "#個人開発 #VibeMarketplace",
+    "tweet_text": "エンジニアが「作ったもの」をそのまま収益化に繋げるのは、実は開発以上に高い壁があります。決済の組み込み、ライセンス管理、そして何より面倒なセールスライティング……。\n\nProduct Huntで見つけた「Vibe Marketplace by Greta」は、この問題をAIで力技で解決するツールでした。\n\n驚いたのは、リポジトリをAI（Greta）に読み込ませるだけで、そのツールの価値を理解し、見栄えの良い販売ページを数分で生成してくれる点です。私はSIer時代、納品フローの構築だけで数日浪費した経験がありますが、これなら「コードが書けた＝販売開始」のスピード感で動けます。\n\nもちろん、大規模SaaSには自前実装の方が柔軟性がありますが、個人開発やAIツールのテストマーケティングにはこれ以上ない武器になりますね。\n\n最近はGitHubに公開して終わりのツールも多いですが、もっと気軽に「値札」をつける文化があっても良いのかもしれません。RTX 4090で回した推論スクリプト、眠らせておくのはもったいないですよ。\n\n皆さんは、自作プロダクトを売るときに一番「面倒」だと感じる工程はどこですか？決済周り？それともLP作成？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-08T18:31:38.408238+09:00",
+    "posted": false
   }
 ]
