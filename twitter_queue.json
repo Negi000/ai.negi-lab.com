@@ -5895,5 +5895,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-08T13:51:47.206865+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-08-anthropic-pentagon-standoff-pro-human-declaration",
+    "title": "Anthropicと国防総省の衝突が投げかける「人間中心AI」の踏み絵と開発現場への実害",
+    "url": "https://ai.negi-lab.com/posts/anthropic-pentagon-standoff-pro-human-declaration/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #AI倫理",
+    "tweet_text": "AI業界にまた大きな分断が起きましたね。Anthropicが掲げる「Pro-Human Declaration」と国防総省の対立。これ、単なる倫理論争ではなく「モデルの脳に制限を直接埋め込む」というエンジニアにとって非常に厄介なフェーズに突入したことを意味しています。\n\n実際にConstitutional AIの系譜を触っていると感じますが、安全性を優先するあまり、実務で必要なエッジの効いた回答が「拒絶」される頻度が確実に上がっています。GPT-4oがサクサク動く一方で、Claudeが思想的に「それは言えません」と立ち止まる。この0.5秒の差と拒絶率15%の壁は、システム設計を根本から変えてしまいます。\n\nSIer時代なら、こんな「気難しいAPI」は怖くて本番環境には入れられなかった。でも、今後はこの「思想の壁」を前提に、ローカルLLMとのハイブリッド運用を組むのが標準スキルになるはず。皆さんは、AIに「道徳的な正解」を求めますか？それとも「純粋な道具としての性能」を求めますか？私は後者ですが、皆さんの現場での本音をリプで聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-08T15:50:34.418729+09:00",
+    "posted": false
   }
 ]

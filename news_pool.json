@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "Nobody in the family uses the family AI platform I build - really bummed about it",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rhjmfr/nobody_in_the_family_uses_the_family_ai_platform/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-01T01:05:21+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rhjmfr/nobody_in_the_family_uses_the_family_ai_platform/\"> <img alt=\"Nobody in the family uses the family AI platform I build - really bummed about it\" src=\"https://preview.redd.it/3a1e1rfx0cmg1.png?width=140&amp;height=21&amp;auto=webp&amp;s=e7b9b15b0167f1280f1757e2e67699674d7bace9\" title=\"Nobody in the family uses the family AI platform I build - really bummed about it\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>S",
-      "extra": {},
-      "collected_at": "2026-03-01T14:01:28"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
       "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
@@ -3042,19 +3027,6 @@
       "collected_at": "2026-03-08T06:31:30"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
-      "url": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "Sat, 07 Mar 2026 22:56:31 +0000",
-      "summary": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
-      "extra": {},
-      "collected_at": "2026-03-08T11:47:00"
-    },
-    {
       "source": "HN AI Hot",
       "title": "LLM Writing Tropes.md",
       "url": "https://tropes.fyi/tropes-md",
@@ -3121,7 +3093,62 @@
       "summary": "",
       "extra": {},
       "collected_at": "2026-03-08T13:51:13"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "A roadmap for AI, if anyone will listen",
+      "url": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 08 Mar 2026 06:05:26 +0000",
+      "summary": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+      "extra": {},
+      "collected_at": "2026-03-08T15:49:55"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Variant",
+      "url": "https://www.producthunt.com/products/variant-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Endless designs for your ideas, just scroll. </p> <p> <a href=\"https://www.producthunt.com/products/variant-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082680?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-08T15:50:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "High school student seeking advice: Found an architectural breakthrough that scales a 17.6B model down to 417M?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rnw5ge/high_school_student_seeking_advice_found_an/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-03-08T05:18:17+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I’m Monolith, a high school student from Japan. I develop AI architectures as a hobby, and I think I’ve stumbled upon something significant.</p> <p>Using a custom neuron-based search algorithm I developed to find &quot;optimal equations,&quot; I discovered a technique that drastically reduces parameter counts without sacrificing performance.</p> <p>Specifically, I’ve managed to achieve performance comparable to a standard <strong>17.6B parameter LLM",
+      "extra": {},
+      "collected_at": "2026-03-08T15:50:05"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.5 27B is the REAL DEAL - Beat GPT-5 on my first test",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rnwiyx/qwen_35_27b_is_the_real_deal_beat_gpt5_on_my/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-08T05:37:51+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rnwiyx/qwen_35_27b_is_the_real_deal_beat_gpt5_on_my/\"> <img alt=\"Qwen 3.5 27B is the REAL DEAL - Beat GPT-5 on my first test\" src=\"https://preview.redd.it/7o85ral7crng1.png?width=140&amp;height=123&amp;auto=webp&amp;s=7b84be02f5d9553c74e31944bdd0962edab7af49\" title=\"Qwen 3.5 27B is the REAL DEAL - Beat GPT-5 on my first test\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>UPDATE:</strong> Just for kicks, I teste",
+      "extra": {},
+      "collected_at": "2026-03-08T15:50:05"
     }
   ],
-  "updated_at": "2026-03-08T13:51:18.380834+09:00"
+  "updated_at": "2026-03-08T15:50:05.468309+09:00"
 }
