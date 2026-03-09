@@ -5979,5 +5979,33 @@
     "image_path": "/images/posts/2026-03-09-pulldog-mac-github-pr-review-guide.jpg",
     "created_at": "2026-03-09T06:36:14.285771+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-09-ai-data-center-man-camps-ice-node",
+    "title": "AIデータセンター建設が「収容施設」化する物理的限界とICE運営企業の参入",
+    "url": "https://ai.negi-lab.com/posts/ai-data-center-man-camps-ice-node/",
+    "category": "NEWS",
+    "viral_tags": "#AIデータセンター #インフラエンジニア",
+    "tweet_text": "AI開発の最前線が、ついに「収容施設」のノウハウを使い始めました。TechCrunchが報じたICE（移民収容施設）運営会社のAIインフラ参入。これは単なる不動産の話じゃありません。\n\n今のLLM開発は凄まじい電力不足に直面していて、もはや都市部にはDCを建てられない。結果としてワイオミングのような僻地へ行くしかないんですが、そこで数千人の作業員をどう住まわせるかがボトルネックになっているんです。\n\nそこで白羽の矢が立ったのが、ICEの収容施設運営ノウハウ。2ヶ月で数千人をプレハブに収容し、食事からセキュリティまで一括管理する。この「人間を効率的に管理する技術」が、AIの進化速度を支える皮肉な構造になっています。\n\nSIer時代、私も過酷な現場を経験しましたが、AIという最先端技術の裏側がここまで泥臭い物理制約に縛られている事実に衝撃を受けました。RTX 4090を2枚回すだけでも排熱に苦労するのに、数万枚規模のH100を僻地で動かす対価がこれなのかと。\n\nみなさんは、この「効率重視の収容型開発」についてどう感じますか？AIの知能を高めるために、現場の人間環境が犠牲になるのは避けられない流れなんでしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-09-ai-data-center-man-camps-ice-node.jpg",
+    "created_at": "2026-03-09T11:49:02.603009+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-09-claude-marketplace-ai-tool-selection-guide",
+    "title": "Claude Marketplaceで最適なAIツールを最短で見つける方法",
+    "url": "https://ai.negi-lab.com/posts/claude-marketplace-ai-tool-selection-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Claude3 #AIツール選定",
+    "tweet_text": "SIer時代、一番の敵はバグじゃなくて「どのツールを使うか」という不毛な選定会議でした。AI戦国時代の今、その悩みはさらに加速しています。Claude 3.5 Sonnetの台頭で「もう全部Claudeでいいじゃん」となりつつある中、最適な周辺ツールを最短で見つけられるのが「Claude Marketplace」です。\n\n正直、これまでこの手のディレクトリサイトは「アフィリエイトの巣窟」だと思って避けてきました。でもここは「ビジネスで使えるか」という基準が明確。3時間かけていたツールリサーチが30分で終わる感覚。RTX 4090を2枚挿してローカルでゴリゴリ回すのもいいですが、実務では「既存の優秀なSaaSをどう繋ぐか」の方が100倍大事。\n\nもちろん玉石混交なので、GitHubの更新が止まっている地雷ツールを見抜く目（＝エンジニアの勘）は必要です。それでも、自力でググるよりはるかにマシ。\n\n皆さんはAIツールの選定時、何を一番の判断基準にしていますか？セキュリティですか、それともAPIの柔軟性ですか？実務で「これは外せない」というチェックリストがあればぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-09-claude-marketplace-ai-tool-selection-guide.jpg",
+    "created_at": "2026-03-09T11:50:04.534000+09:00",
+    "posted": false
   }
 ]
