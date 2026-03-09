@@ -6007,5 +6007,33 @@
     "image_path": "/images/posts/2026-03-09-claude-marketplace-ai-tool-selection-guide.jpg",
     "created_at": "2026-03-09T11:50:04.534000+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-09-ring-facial-recognition-privacy-edge-ai",
+    "title": "Ring創業者も回答を濁す顔認識実装の裏側とスマートホームAIが直面する信頼の壁",
+    "url": "https://ai.negi-lab.com/posts/ring-facial-recognition-privacy-edge-ai/",
+    "category": "NEWS",
+    "viral_tags": "#エッジAI #スマートホーム",
+    "tweet_text": "スマートホームの「安全」と「監視」の境界線が、ついに崩れ始めています。\n\nRing創業者が顔認識の実装について曖昧な回答を繰り返していますが、SIer時代にセキュリティ要件定義を骨の髄まで叩き込まれた身からすると、今のクラウド依存の設計は違和感しかありません。\n\n技術的にはエッジAI（NPU搭載チップ）の進化で、128次元の顔ベクトルをデバイス内で処理・照合することなんて、今やPython数行で書けるレベルの話。それなのに、なぜデータをクラウドに送り続けるのか？そこには「利便性」という名の免罪符の下に隠された、巨大なデータビジネスの思惑が見え隠れします。\n\n4090を2枚挿してローカルLLMを回している私からすれば、自分の家の玄関先のデータを他人に握られるのは正直勘弁してほしい。\n\nAppleのようにLocal-first AIへ舵を切るのか、それともAmazonのように中央集権的な監視を強めるのか。開発者の皆さんは、どちらのアーキテクチャが10年後のユーザーに支持されると思いますか？\n\n単なる便利ツールの話ではなく、これは「データの主権」を取り戻すための戦いだと感じています。みなさんの自宅では、どこまでAIに「視覚」を許容していますか？リプライで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-09-ring-facial-recognition-privacy-edge-ai.jpg",
+    "created_at": "2026-03-09T14:01:55.003131+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-09-song-sweeper-spotify-duplicate-remover-review",
+    "title": "Song Sweeper 使い方 音楽ライブラリの重複を自動削除する",
+    "url": "https://ai.negi-lab.com/posts/song-sweeper-spotify-duplicate-remover-review/",
+    "category": "TOOL",
+    "viral_tags": "#SpotifyAPI #Python自動化",
+    "tweet_text": "Spotifyのプレイリストが肥大化して、同じ曲が何度も流れるストレスに悩まされていませんか？数千曲規模になると手作業での重複削除はもはや不可能です。\n\n今回検証した「Song Sweeper」は、Spotify APIを熟知したエンジニア向けのライブラリ。ページネーション処理やレートリミット対策が最初から組み込まれているので、わずか数行のPythonコードでライブラリを完全クリーンアップできます。\n\n個人的に感動したのは、単なるID一致だけでなく、メタデータの類似度で重複を炙り出せる点。SIer時代、手作業でExcel管理していた頃の自分に教えてあげたい…。\n\nただし、Spotify Developer DashboardでClient IDを発行する工程が必要なので、ある程度開発に慣れている人向け。逆に言えば、そこさえクリアすれば最強の管理環境が手に入ります。\n\n皆さんはプレイリストの整理、どうしてますか？自作スクリプト派ですか、それとも便利な外部ツールに頼る派ですか？実際の精度や使い勝手について意見交換したいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-09-song-sweeper-spotify-duplicate-remover-review.jpg",
+    "created_at": "2026-03-09T14:02:59.936665+09:00",
+    "posted": false
   }
 ]

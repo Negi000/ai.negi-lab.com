@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "source": "r/MachineLearning",
-      "title": "[D] Self-Promotion Thread",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rihows/d_selfpromotion_thread/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-02T03:15:30+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your personal projects, startups, product placements, collaboration needs, blogs etc.</p> <p>Please mention the payment and pricing requirements for products and services.</p> <p>Please do not post link shorteners, link aggregator websites , or auto-subscribe links.</p> <p>--</p> <p>Any abuse of trust will lead to bans.</p> <p>Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so kee",
-      "extra": {},
-      "collected_at": "2026-03-02T13:57:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.5-397B Uncensored NVFP4",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ri9enf/qwen35397b_uncensored_nvfp4/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-01T21:17:56+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ri9enf/qwen35397b_uncensored_nvfp4/\"> <img alt=\"Qwen3.5-397B Uncensored NVFP4\" src=\"https://external-preview.redd.it/xaouc-l-MVhdkgRJjuNLeOEaMmwumVa5xGuOmn0d800.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3f4c8d6d0a8d846015688789b81622d76ffbbe5\" title=\"Qwen3.5-397B Uncensored NVFP4\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vpyno\"> /u/vpyno </a> <br /> <span><a href=\"https://huggin",
-      "extra": {},
-      "collected_at": "2026-03-02T13:57:07"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Injecting skills into the KV cache (not as stupid as it sounds, but still pretty dumb)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rif789/injecting_skills_into_the_kv_cache_not_as_stupid/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-02T01:18:22+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey yall, so I had an idea in the middle of the night. </p> <p>Nothing brand new at a high level, KV cache injection has been around for a while. But I think this implementation path is a little different, and the results were honestly better than I expected for a small model. </p> <p>I wanted to test this around skill files. </p> <p>Skill files (for agents) are basically an evolution of prompt engineering:<br /> first it was giant prompts,<br /> then bigger con",
-      "extra": {},
-      "collected_at": "2026-03-02T13:57:07"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude hits #1 on the App Store as users rally behind Anthropic",
       "url": "https://9to5mac.com/2026/03/01/claude-hits-1-on-the-app-store-as-users-rally-behind-anthropics-government-standoff/",
@@ -2783,19 +2743,6 @@
       "collected_at": "2026-03-08T18:29:06"
     },
     {
-      "source": "Product Hunt",
-      "title": "Claude Marketplace",
-      "url": "https://www.producthunt.com/products/claude-marketplace",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Helping companies easily get the AI tools they need </p> <p> <a href=\"https://www.producthunt.com/products/claude-marketplace?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1092091?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-08T21:59:32"
-    },
-    {
       "source": "GitHub Trending",
       "title": "ahrm/sioyek",
       "url": "https://github.com/ahrm/sioyek",
@@ -2853,19 +2800,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>**TL;DR:*\\</strong>* While debugging agent failures, I discovered that hidden states right before a tool call are <strong>**linearly separable*\\</strong>* from non-tool states (AUC &gt; 0.94). Here's how to extract and use this signal to dramatically improve your agents — no training needed.</p> <p>---</p> <p>## 🔍 The discovery</p> <p>I was building a ReAct agent with Qwen3 and kept running into the same problem: the model would sometimes answer directly",
       "extra": {},
       "collected_at": "2026-03-08T21:59:35"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
-      "url": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 08 Mar 2026 16:30:00 +0000",
-      "summary": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
-      "extra": {},
-      "collected_at": "2026-03-09T06:33:43"
     },
     {
       "source": "HN AI Hot",
@@ -2988,7 +2922,48 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have an RTX Pro 6000 that I've been using as my daily driver with gpt-oss-120b for coding. I recently bought a cheap Thunderbolt 4 dock and was able to add a 5090 to the system (obviously a bit bandwidth limited, but this was the best option without fully redoing my build; I had all the parts needed except for the dock). Are there any models/quants that I should be testing out that would not have fit on the RTX Pro 6000 alone? Not overly worried about speed at",
       "extra": {},
       "collected_at": "2026-03-09T11:48:29"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
+      "url": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 09 Mar 2026 04:35:06 +0000",
+      "summary": "The facial recognition question is where things get more tangled.",
+      "extra": {},
+      "collected_at": "2026-03-09T14:01:04"
+    },
+    {
+      "source": "r/MachineLearning",
+      "title": "[D] Self-Promotion Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rihows/d_selfpromotion_thread/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-02T03:15:30+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your personal projects, startups, product placements, collaboration needs, blogs etc.</p> <p>Please mention the payment and pricing requirements for products and services.</p> <p>Please do not post link shorteners, link aggregator websites , or auto-subscribe links.</p> <p>--</p> <p>Any abuse of trust will lead to bans.</p> <p>Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so kee",
+      "extra": {},
+      "collected_at": "2026-03-09T14:01:21"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I built an Android audiobook reader that runs Kokoro TTS fully offline on-device",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rop1rp/i_built_an_android_audiobook_reader_that_runs/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-09T03:12:54+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rop1rp/i_built_an_android_audiobook_reader_that_runs/\"> <img alt=\"I built an Android audiobook reader that runs Kokoro TTS fully offline on-device\" src=\"https://external-preview.redd.it/cGFrajB4enZxeG5nMWTcgZXtJpF-0RJq6fnVpcJV9bHAe-WYHkg-_MxZr4jf.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3bf017f461cf475db4de66748353564b592ca48\" title=\"I built an Android audiobook reader that runs Kokoro TTS fully offline on-device\" /",
+      "extra": {},
+      "collected_at": "2026-03-09T14:01:25"
     }
   ],
-  "updated_at": "2026-03-09T11:48:29.282830+09:00"
+  "updated_at": "2026-03-09T14:01:25.112608+09:00"
 }
