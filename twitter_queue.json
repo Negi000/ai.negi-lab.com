@@ -6063,5 +6063,33 @@
     "image_path": "/images/posts/2026-03-09-cutefolio-review-engineer-portfolio-guide.jpg",
     "created_at": "2026-03-09T16:08:22.926461+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-09-ai-hype-documentary-criticism-reality-check",
+    "title": "AIドキュメンタリーが煽る「人類救済か滅亡か」の極端な二項対立が、現場の期待値調整をいかに困難にしているかを知る必要があります。",
+    "url": "https://ai.negi-lab.com/posts/ai-hype-documentary-criticism-reality-check/",
+    "category": "NEWS",
+    "viral_tags": "#生成AI #エンジニアの日常",
+    "tweet_text": "最近のAIドキュメンタリーが描く「人類救済か滅亡か」という物語、正直言って現場の実務者からすると辟易します。Vergeが「ハイプを煽るだけのゴミ作品」と痛烈に批判したニュースを見ましたが、全くの同意見です。\n\nSIer時代から今のフリーランスに至るまで、顧客が持ってくる「AIへの期待」が年々、魔法のようなファンタジーに近づいているのを感じます。Netflixやビル・ゲイツの番組を見て「AIが自律的に会社を回してくれる」と勘違いしたまま相談に来られると、まずその誤解を解くところから始めなきゃいけない。これが本当に非生産的なんです。\n\n実際には、RTX 4090をフル稼働させてLlama 3を回しても、VRAMの壁にぶつかったり、RAGの精度がたった1%のプロンプト調整で激変したり。現実はもっと泥臭い「行列演算とリソース管理」の世界なんですよね。\n\nメディアが「AIの意志」を議論している間に、僕らは「トークン単価の削減」や「ハルシネーションの検知」という地味な数学の問題と戦っています。そろそろ、AIを「宗教」にするのはやめませんか。\n\nみなさんの周りでも、メディアの影響で「AIに不可能なこと」を期待してくるクライアントや上司、増えてませんか？その時どうやって期待値を調整しているか、ぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-09-ai-hype-documentary-criticism-reality-check.jpg",
+    "created_at": "2026-03-09T18:52:19.240724+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-09-nothing-phone-4a-pro-ai-full-review",
+    "title": "Nothing Phone (4a) Pro 使い方とAI統合の実力をレビュー",
+    "url": "https://ai.negi-lab.com/posts/nothing-phone-4a-pro-ai-full-review/",
+    "category": "TOOL",
+    "viral_tags": "#NothingPhone #EdgeAI",
+    "tweet_text": "Nothing Phone (4a) Proを数日間、開発者目線で使い倒した結論を書きました。\n\nスマホのAIって結局「クラウドへの窓口」でしかない製品が多い中、Nothingはメタルユニボディという物理的な熱対策まで施して、ローカルNPUを回し切る設計にしてきたのが衝撃的です。\n\n特にNothing SDKを通じたAI統合は、SIer時代の苦労を思い出すと隔世の感があります。通知をトリガーにローカルでPythonスクリプトを走らせ、背面のGlyphライトで状態をフィードバックする。これ、エンジニアなら夢に見た「自作OS」に近い感覚が手に入ります。\n\nただ、正直に言ってGoogle Geminiのような「何でも知っている万能感」はまだ弱いです。それでも0.2秒で返ってくるローカル推論のレスポンスと、自分のデータが1bitも外に出ない安心感は何物にも代えがたい。\n\nPython歴8年の私が、なぜ今あえてこの「尖ったスマホ」をメイン機に据えようとしているのか。詳しいベンチマーク結果と、実務での自動化スクリプト例をまとめました。\n\n皆さんはスマホのAIに「賢さ」を求めますか？それとも「制御できる自由」を求めますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-09-nothing-phone-4a-pro-ai-full-review.jpg",
+    "created_at": "2026-03-09T18:53:22.784683+09:00",
+    "posted": false
   }
 ]
