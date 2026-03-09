@@ -1,45 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Claude hits #1 on the App Store as users rally behind Anthropic",
-      "url": "https://9to5mac.com/2026/03/01/claude-hits-1-on-the-app-store-as-users-rally-behind-anthropics-government-standoff/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 02 Mar 2026 02:23:50 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-02T16:03:44"
-    },
-    {
-      "source": "Google News",
-      "title": "OpenAIがアメリカ軍と契約を結んだ後「ChatGPTをキャンセルせよ」という動きがインターネット上で注目を集める - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01U2N6WXhJQW5wUHVyOHE4Xy1vbS1scENPaHdEQU1KVUwtMkExOXFzeGtaRUlnUld5SHU0ODFPQUZSVWEwcGtmR1d6eXBJZjE0bFBUWWlyb3d5Qzlqckpsb05ueU8?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 02 Mar 2026 05:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE01U2N6WXhJQW5wUHVyOHE4Xy1vbS1scENPaHdEQU1KVUwtMkExOXFzeGtaRUlnUld5SHU0ODFPQUZSVWEwcGtmR1d6eXBJZjE0bFBUWWlyb3d5Qzlqckpsb05ueU8?oc=5\" target=\"_blank\">OpenAIがアメリカ軍と契約を結んだ後「ChatGPTをキャンセルせよ」という動きがインターネット上で注目を集める</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {},
-      "collected_at": "2026-03-02T16:03:46"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "PSA: Qwen 3.5 requires bf16 KV cache, NOT f16!!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rik253/psa_qwen_35_requires_bf16_kv_cache_not_f16/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-02T05:13:45+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"/u/danielhanchen\">u/danielhanchen</a></p> <p>If you're running Qwen 3.5 35B A3B locally on engines like llama.cpp, you need to manually set your KV cache to <code>bf16</code> (<code>-ctk bf16 -ctv bf16</code>) instead of the default <code>fp16</code>. </p> <p>I measured perplexity (PPL) on wikitext-2-raw to prove this, specifically avoiding KL divergence because the Unsloth baseline logits are inherently flawed from being generated with an incorrect <co",
-      "extra": {},
-      "collected_at": "2026-03-02T16:03:49"
-    },
-    {
       "source": "VentureBeat AI",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
@@ -2730,19 +2691,6 @@
       "collected_at": "2026-03-08T15:50:05"
     },
     {
-      "source": "Product Hunt",
-      "title": "Song Sweeper",
-      "url": "https://www.producthunt.com/products/song-sweeper",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Clean up your music library </p> <p> <a href=\"https://www.producthunt.com/products/song-sweeper?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091010?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-08T18:29:06"
-    },
-    {
       "source": "GitHub Trending",
       "title": "ahrm/sioyek",
       "url": "https://github.com/ahrm/sioyek",
@@ -2924,19 +2872,6 @@
       "collected_at": "2026-03-09T11:48:29"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
-      "url": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 09 Mar 2026 04:35:06 +0000",
-      "summary": "The facial recognition question is where things get more tangled.",
-      "extra": {},
-      "collected_at": "2026-03-09T14:01:04"
-    },
-    {
       "source": "r/MachineLearning",
       "title": "[D] Self-Promotion Thread",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1rihows/d_selfpromotion_thread/",
@@ -2963,7 +2898,59 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rop1rp/i_built_an_android_audiobook_reader_that_runs/\"> <img alt=\"I built an Android audiobook reader that runs Kokoro TTS fully offline on-device\" src=\"https://external-preview.redd.it/cGFrajB4enZxeG5nMWTcgZXtJpF-0RJq6fnVpcJV9bHAe-WYHkg-_MxZr4jf.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3bf017f461cf475db4de66748353564b592ca48\" title=\"I built an Android audiobook reader that runs Kokoro TTS fully offline on-device\" /",
       "extra": {},
       "collected_at": "2026-03-09T14:01:25"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "cutefolio",
+      "url": "https://www.producthunt.com/products/cutefolio",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> build portfolios that actually look cute. </p> <p> <a href=\"https://www.producthunt.com/products/cutefolio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1092201?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-09T16:06:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Unite Pro for macOS",
+      "url": "https://www.producthunt.com/products/unite-for-macos",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn websites into Mac apps </p> <p> <a href=\"https://www.producthunt.com/products/unite-for-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090861?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-09T16:06:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "SCRAPR",
+      "url": "https://www.producthunt.com/products/scrapr-universal-web-scraping-api",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn any website into an API </p> <p> <a href=\"https://www.producthunt.com/products/scrapr-universal-web-scraping-api?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1092571?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-09T16:06:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Reflct",
+      "url": "https://www.producthunt.com/products/reflct",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The journaling habit you'll actually keep </p> <p> <a href=\"https://www.producthunt.com/products/reflct?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090141?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-09T16:06:39"
     }
   ],
-  "updated_at": "2026-03-09T14:01:25.112608+09:00"
+  "updated_at": "2026-03-09T16:06:41.897650+09:00"
 }

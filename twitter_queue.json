@@ -6035,5 +6035,33 @@
     "image_path": "/images/posts/2026-03-09-song-sweeper-spotify-duplicate-remover-review.jpg",
     "created_at": "2026-03-09T14:02:59.936665+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-09-grammarly-ai-identity-theft-expert-review",
+    "title": "GrammarlyのAIが「亡くなった教授」や「自分の上司」を勝手に名乗る問題の本質",
+    "url": "https://ai.negi-lab.com/posts/grammarly-ai-identity-theft-expert-review/",
+    "category": "NEWS",
+    "viral_tags": "#Grammarly #AI倫理",
+    "tweet_text": "Grammarlyが「実在する専門家や、亡くなった教授、果ては利用者の上司」をAIのペルソナとして無断利用していたという、かなりショッキングなニュースを深掘りしました。\n\nSIer時代からコンプラには口うるさくしてきた身として、この「アイデンティティの無断パッケージ化」は正直言って正気の沙汰とは思えません。技術的にはRAGやFew-shotで簡単に「誰かになりきる」ことは可能ですが、それを商用サービスの核に据えるリスクを開発チームはどう考えていたのでしょうか。\n\n今回の件は、AIの学習データだけでなく「出力される人格の権利」という新しい論点を突きつけています。GPT-4oやClaude 3.5といった大手が慎重に避けてきた地雷を、Grammarlyが踏み抜いた形です。\n\nRTX 4090を2枚挿してローカルLLMを回している立場からすると、自分だけの文体を学習させるのは自由ですが、他人のアイデンティティを月額料金で売るビジネスモデルは、AI時代の「知的な搾取」と言わざるを得ません。\n\nこれ、皆さんの会社だったら導入許可出せますか？自分の書いたメールから、自分のペルソナが勝手に生成される世界、どう思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-09-grammarly-ai-identity-theft-expert-review.jpg",
+    "created_at": "2026-03-09T16:07:14.445418+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-09-cutefolio-review-engineer-portfolio-guide",
+    "title": "cutefolio 使い方 | エンジニアの「見栄え」を劇的に変えるポートフォリオ作成術",
+    "url": "https://ai.negi-lab.com/posts/cutefolio-review-engineer-portfolio-guide/",
+    "category": "TOOL",
+    "viral_tags": "#エンジニアキャリア #cutefolio",
+    "tweet_text": "エンジニアのポートフォリオって、なぜかみんな黒背景に緑文字の「ハッカー風」になりがちですよね。私もSIer時代はそれが正義だと思っていました。でも、採用する側になって気づいたのは、技術がわかること以上に「この人と仕事がしやすそうか」という印象の重要性です。\n\n今回検証した「cutefolio」は、その名の通りエンジニアの実績を「可愛く」可視化することに特化したフレームワーク。React + Tailwind CSSベースで、設定ファイルを書き換えるだけでLighthouse 95超えの高速サイトが爆誕します。\n\n実際に触ってみて驚いたのは、デザインの「引き算」が絶妙なこと。余白の取り方や角丸のサイズが、プロのデザインをそのまま自分の実績に適用できる感覚です。日本語フォントの調整など、いくつかエンジニアらしいハックは必要ですが、それを含めても10分でこのクオリティが出るのは反則レベル。\n\n「技術はあるのに、見せ方で損をしている」と感じている人は、一度この視点を取り入れてみる価値があると思います。皆さんは自分のポートフォリオ、いつ最後に更新しましたか？最近のトレンドだと、どんなデザインが刺さるのか意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-09-cutefolio-review-engineer-portfolio-guide.jpg",
+    "created_at": "2026-03-09T16:08:22.926461+09:00",
+    "posted": false
   }
 ]
