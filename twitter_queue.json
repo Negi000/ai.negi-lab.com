@@ -6091,5 +6091,19 @@
     "image_path": "/images/posts/2026-03-09-nothing-phone-4a-pro-ai-full-review.jpg",
     "created_at": "2026-03-09T18:53:22.784683+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-10-anthropic-dod-lawsuit-openai-google-support",
+    "title": "Anthropic提訴にOpenAI・Google社員が加勢。AI供給網リスク認定の衝撃",
+    "url": "https://ai.negi-lab.com/posts/anthropic-dod-lawsuit-openai-google-support/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #AI安全保障",
+    "tweet_text": "米国防総省がAnthropicを「サプライチェーン・リスク」と認定したニュース、これ他人事じゃないですね。驚いたのはOpenAIやGoogle DeepMindの社員30名以上が、ライバルであるAnthropicの提訴を支持する声明を出したことです。\n\nSIer時代、官公庁の案件で「実績のないツールは使うな」と散々言われましたが、今回はそれ以上に根が深い。具体的な根拠なしに「リスク」というラベルを貼られれば、どんなに優れたAIも一瞬で公共市場から消される。この不透明な基準がまかり通れば、次はGPT-4oもGeminiもターゲットになるはず。\n\n開発者の視点で見れば、クラウドLLMの「政治的リスク」が完全に見えた形です。昨日の神モデルが、明日は法的に利用禁止になるかもしれない。私は以前からRTX 4090を積んでローカルLLMを検証していますが、今こそ「自前で動かす環境」の重要性が増していると感じます。\n\n特定のAPIに依存しすぎることの危うさ、皆さんはどう対策していますか？私はLangChainでフォールバックを組むのが最低限の嗜みだと思っています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-10T06:43:00.896838+09:00",
+    "posted": false
   }
 ]
