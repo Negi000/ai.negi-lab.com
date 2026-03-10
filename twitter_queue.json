@@ -6217,5 +6217,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-11T00:39:15.829848+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-11-agentmail-funding-ai-agent-email-api",
+    "title": "AgentMailが600万ドル調達！AIエージェント専用メールAPIが開発を変える",
+    "url": "https://ai.negi-lab.com/posts/agentmail-funding-ai-agent-email-api/",
+    "category": "NEWS",
+    "viral_tags": "#AgentMail #AIエージェント",
+    "tweet_text": "AIエージェントに「メールアドレス」を。AgentMailが600万ドルを調達しましたが、これは開発者にとって相当なインパクトがあります。\n\nSIer時代、メールのパース処理だけで何日も残業した記憶が蘇ります。MIME形式の解読、HTMLタグの除去、スレッドの紐付け…。これらの泥臭いインフラ作業をAPI一つで解決するのがAgentMailです。\n\n単にメールを送るだけならSESやSendGridで十分ですが、エージェントが「過去の文脈を理解して返信する」ためのスレッド管理や、LLMが即座に読める形式への自動変換が最初から組み込まれているのが熱い。\n\nエージェントがSlackだけでなく、ビジネスの基本であるメールを自由に操れるようになれば、自律型ワークフローの構築難易度は劇的に下がります。\n「同期型のチャット」から「非同期のエージェント」へ。\nこのシフトを支えるインフラがようやく整いつつあります。\n\n皆さんは、AIエージェントにメールを読み書きさせる際、どの工程が一番面倒だと感じていますか？\n個人的には、引用返信が重なった時のクリーニングが最大の苦行だと思っています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-11T02:46:09.376575+09:00",
+    "posted": false
   }
 ]
