@@ -6147,5 +6147,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-10T15:56:16.518013+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-10-anthropic-sues-dod-supply-chain-risk-analysis",
+    "title": "国防総省から「リスク」判定を受けたAnthropicの提訴が示すAIガバナンスの限界",
+    "url": "https://ai.negi-lab.com/posts/anthropic-sues-dod-supply-chain-risk-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #サプライチェーンリスク",
+    "tweet_text": "AI業界に激震。Anthropicが米国国防総省(DoD)を提訴しました。理由は、同社が「サプライチェーン・リスク」に指定されたため。\n\n元SIerエンジニアの視点で見ると、これは単なる訴訟以上の意味があります。AIの「安全性」を最大の武器にしてきたAnthropicが、政府から「お前たちはリスクだ」と突きつけられた衝撃。これまで「OpenAIより安心」と信じて導入を進めてきた企業や政府機関は、戦略の根本的な見直しを迫られるはず。\n\n背景にあるのは、学習データの不透明性や、独自技術「憲法AI」のブラックボックス性。政府からすれば、民間企業が勝手に決めた倫理で動く知能を国防に使うのは、制御不能なバックドアを抱えるのと同じだという判断でしょう。\n\n結局、最後は「誰がその知能をコントロールしているか」に帰結します。これからはAPI一本足打法ではなく、Llamaのようなオープンソースを自前で動かす「知能の自給自足」が、真のリスク管理になる時代です。\n\n皆さんの現場では、LLMの「カントリーリスク」や「依存先リスク」について、具体的な対策や議論は始まっていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-10T18:43:50.555360+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-10-sonarly-ai-autonomous-production-error-fix-review",
+    "title": "Sonarlyレビュー：本番エラーをAIが自律修正する実力と導入の壁",
+    "url": "https://ai.negi-lab.com/posts/sonarly-ai-autonomous-production-error-fix-review/",
+    "category": "TOOL",
+    "viral_tags": "#Sonarly #SRE自動化",
+    "tweet_text": "本番環境のエラー対応、まだ人間が深夜に起きてやってますか？\n\nProduct Huntで見つけた「Sonarly」が、エンジニアの働き方を根底から変えるかもしれません。これ、単なるエラー通知ツールじゃないんです。本番で例外が発生した瞬間、AIがコードを読み取り、修正パッチを書いてGitHubにプルリクを出すところまで自律的に完結させます。\n\nSIer時代、たった一行のNullチェックのために深夜出社していた身からすると、まさに魔法のようなツール。もちろん「AIが勝手に直して大丈夫？」という不安はあるでしょうが、CIでテストを回し、人間が最後にマージボタンを押すという運用にすれば、これほど心強い守護神はいません。\n\n「守りのAI」として、これからのSREスタックの標準になる予感がします。特にPythonやNode.jsで不安定な外部APIを叩きまくっている現場には刺さるはず。\n\nみなさんの現場では、本番エラーの初動対応にどれくらい時間をかけていますか？AIにPR作成まで任せられるとしたら、導入してみたいですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-10T18:48:22.685181+09:00",
+    "posted": false
   }
 ]

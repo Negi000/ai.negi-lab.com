@@ -1,154 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-02T17:29:46-05:00",
-      "summary": "Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt and dedicated tool for importing data from other chatbots. These upgrades could allow users who have been using rivals like OpenAI's ChatGPT [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-03T15:57:05"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Elevated Errors in Claude.ai",
-      "url": "https://status.claude.com/incidents/yf48hzysrvl5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 03 Mar 2026 03:31:07 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-03T15:57:17"
-    },
-    {
-      "source": "Google News",
-      "title": "OpenAIが「政府による大規模監視へのAI活用」に同意したとの指摘を受けサム・アルトマンCEOが契約の見直しを発表 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hc0s1a1RxOTRQNGk4OTB2N0gyZDU2VVYwaTBDeUd1dXVVdUFJdzZNV1pocDl4R1dzOXg2ekRHSk1EcjVpMEF0aGpvYUhNVFoyNFNFNGFQcktyWVFRVXBSRkJqRXpmOEFIeEJCUnYyYw?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "Tue, 03 Mar 2026 05:40:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9hc0s1a1RxOTRQNGk4OTB2N0gyZDU2VVYwaTBDeUd1dXVVdUFJdzZNV1pocDl4R1dzOXg2ekRHSk1EcjVpMEF0aGpvYUhNVFoyNFNFNGFQcktyWVFRVXBSRkJqRXpmOEFIeEJCUnYyYw?oc=5\" target=\"_blank\">OpenAIが「政府による大規模監視へのAI活用」に同意したとの指摘を受けサム・アルトマンCEOが契約の見直しを発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {},
-      "collected_at": "2026-03-03T15:57:18"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen 2.5 -> 3 -> 3.5, smallest models. Incredible improvement over the generations.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rjd4pv/qwen_25_3_35_smallest_models_incredible/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-03T02:26:58+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rjd4pv/qwen_25_3_35_smallest_models_incredible/\"> <img alt=\"Qwen 2.5 -&gt; 3 -&gt; 3.5, smallest models. Incredible improvement over the generations.\" src=\"https://preview.redd.it/1c19f226qqmg1.png?width=140&amp;height=39&amp;auto=webp&amp;s=6947e8983f509fb9de7d06a87293959e09ff9155\" title=\"Qwen 2.5 -&gt; 3 -&gt; 3.5, smallest models. Incredible improvement over the generations.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"m",
-      "extra": {},
-      "collected_at": "2026-03-03T15:57:21"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen 3.5 4B is scary smart",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rjcqm5/qwen_35_4b_is_scary_smart/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-03T02:09:28+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rjcqm5/qwen_35_4b_is_scary_smart/\"> <img alt=\"Qwen 3.5 4B is scary smart\" src=\"https://preview.redd.it/5980e6dbnqmg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1969727c67ef651220b0b64c2cc96944ef700f26\" title=\"Qwen 3.5 4B is scary smart\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Using PocketPal on an iPhone 17 Pro Max.</p> <p>Let me know if any of you guys have had an experience like mine where the knowledge f",
-      "extra": {},
-      "collected_at": "2026-03-03T15:57:21"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "PSA: If you want to test new models, use llama.cpp/transformers/vLLM/SGLang",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rjb7yk/psa_if_you_want_to_test_new_models_use/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-03T01:03:00+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>There are so many comments/posts discussing how new qwen models have issues with super long chain of thoughts, problems with tool calls and outright garbage responses.</p> <p>The thing is, those only happen with Ollama, LMStudio and other frameworks, that are basically llama.cpp but worse. Ollama is outright garbage for multiple reasons and there's hardly a good reason to use it over llama.cpp's server. LMStudio doesn't support <code>presence penalty</code> requ",
-      "extra": {},
-      "collected_at": "2026-03-03T15:57:21"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Apple might use Google servers to store data for its upgraded AI Siri",
-      "url": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-02T15:22:33-05:00",
-      "summary": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in January that Google's Gemini AI models would help power the upgraded version of Siri it delayed last year, but The Information's report indicates Apple [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-03T18:40:59"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Mailercloud Email API Platform",
-      "url": "https://www.producthunt.com/products/mailercloud",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> 1,000+ Emails per Second with 99%+ Deliverability </p> <p> <a href=\"https://www.producthunt.com/products/mailercloud?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080782?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-03T18:41:05"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Better Clipboard",
-      "url": "https://www.producthunt.com/products/better-clipboard",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Smarter copy-paste for macOS. New version! </p> <p> <a href=\"https://www.producthunt.com/products/better-clipboard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088764?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-03T18:41:05"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Lavalier AI",
-      "url": "https://www.producthunt.com/products/textio",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Interview Intelligence to hire with speed and confidence </p> <p> <a href=\"https://www.producthunt.com/products/textio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085935?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-03T18:41:05"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Unsloth fixed version of Qwen3.5-35B-A3B is incredible at research tasks.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rjh5wg/unsloth_fixed_version_of_qwen3535ba3b_is/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-03T05:40:38+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>When I first tried Qwen3.5-35B-A3B I was impressed, but honestly it seemed like a small jump over GLM-4.7-Flash, which had already impressed me with its interleaved thinking and native tool use capabilities. Qwen3.5-35B-A3B was about the level of &quot;better&quot; I thought it would be from having 5B extra parameters, and I thought the only big advantage was hybrid linear attention allowing double the native context length without really increasing memory footp",
-      "extra": {},
-      "collected_at": "2026-03-03T18:41:08"
-    },
-    {
       "source": "HN AI Hot",
       "title": "GPT‑5.3 Instant",
       "url": "https://openai.com/index/gpt-5-3-instant/",
@@ -2752,19 +2604,6 @@
       "collected_at": "2026-03-10T13:49:44"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
-      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 10 Mar 2026 05:00:00 +0000",
-      "summary": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
-      "extra": {},
-      "collected_at": "2026-03-10T15:55:42"
-    },
-    {
       "source": "The Verge AI",
       "title": "Apple smart home display rumors now point to a fall launch with iOS 27",
       "url": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
@@ -2817,7 +2656,113 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rpmwpa/i_built_gloss_a_localfirst_privacyfocused/\"> <img alt=\"I built &quot;Gloss&quot; -- A local-first, privacy-focused NotebookLM alternative in Rust. Features hybrid search, local model support, and explicit RAG control.\" src=\"https://external-preview.redd.it/OGhzbXE4OGE2NW9nMbmu87uJNGyRUQtQQO2CDkF2QfgeX4gjVLCSQun7x5JL.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ecf2ee9e7edb53af15e7d7727cb9c7f2ee6e1ef\" title=\"I bui",
       "extra": {},
       "collected_at": "2026-03-10T15:55:47"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "You Could Be Next",
+      "url": "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-10T05:00:01-04:00",
+      "summary": "The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click. After college, she’d struggled to make a living as a freelance journalist, gone to grad school, then pivoted to what she hoped would be a more stable career in content marketing — only to find AI had automated [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-10T18:43:07"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+      "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 10 Mar 2026 08:54:53 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-10T18:43:17"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Sonarly",
+      "url": "https://www.producthunt.com/products/sonarly",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AI that fixes prod autonomously </p> <p> <a href=\"https://www.producthunt.com/products/sonarly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093018?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-10T18:43:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Microsoft Copilot Cowork",
+      "url": "https://www.producthunt.com/products/copilot-cowork",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Microsoft & Anthropic bring Claude Cowork to Microsoft 365 </p> <p> <a href=\"https://www.producthunt.com/products/copilot-cowork?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093530?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-10T18:43:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Visual Translate by Vozo",
+      "url": "https://www.producthunt.com/products/vozo",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Translate text in your videos without recreating visuals </p> <p> <a href=\"https://www.producthunt.com/products/vozo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090558?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-10T18:43:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Your Next Store",
+      "url": "https://www.producthunt.com/products/your-next-store",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI-first platform for building commerce stores, fast </p> <p> <a href=\"https://www.producthunt.com/products/your-next-store?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089714?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-10T18:43:19"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.5 0.8B - small enough to run on a watch. Cool enough to play DOOM.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rpq51l/qwen_35_08b_small_enough_to_run_on_a_watch_cool/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-10T07:10:25+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rpq51l/qwen_35_08b_small_enough_to_run_on_a_watch_cool/\"> <img alt=\"Qwen 3.5 0.8B - small enough to run on a watch. Cool enough to play DOOM.\" src=\"https://external-preview.redd.it/YnY0cWlidTAzNm9nMWMeImkrQeEudx84hhXMO6QMvPyYvpghuolru7uTCxPY.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=82958f12888b86785624ae7c113c3ed0379753ec\" title=\"Qwen 3.5 0.8B - small enough to run on a watch. Cool enough to play DOOM.\" /> </a> </td>",
+      "extra": {},
+      "collected_at": "2026-03-10T18:43:22"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.5-4B handwriting recognition is really good",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rprouf/qwen354b_handwriting_recognition_is_really_good/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-10T08:50:44+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rprouf/qwen354b_handwriting_recognition_is_really_good/\"> <img alt=\"Qwen3.5-4B handwriting recognition is really good\" src=\"https://preview.redd.it/h0l57vabj6og1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=23521501847051e6bc32d71dc375737922ca057b\" title=\"Qwen3.5-4B handwriting recognition is really good\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>so I have attached an image, i got from someone, and thought why",
+      "extra": {},
+      "collected_at": "2026-03-10T18:43:22"
     }
   ],
-  "updated_at": "2026-03-10T15:55:47.856680+09:00"
+  "updated_at": "2026-03-10T18:43:22.260789+09:00"
 }
