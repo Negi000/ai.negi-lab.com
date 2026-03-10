@@ -6231,5 +6231,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-11T02:46:09.376575+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-11-amazon-launches-healthcare-ai-assistant-integration",
+    "title": "Amazon医療AIアシスタントがEC統合、既存アプリで健康相談から処方まで完結",
+    "url": "https://ai.negi-lab.com/posts/amazon-launches-healthcare-ai-assistant-integration/",
+    "category": "NEWS",
+    "viral_tags": "#AmazonHealthAI #医療DX",
+    "tweet_text": "Amazonが医療AIアシスタントを自社アプリに統合。これ、単なるチャットボットじゃないですね。One Medicalの医療データとAmazon Pharmacyの物流網をAIで直結させた「実務完結型」の化け物です。\n\nSIer時代、病院のレガシーなDBをAPI化するのにどれだけ血を吐く思いをしたか…。それをAmazonは自社で病院と薬局を買い取るというパワープレイで解決し、その上にAIを被せてきました。ChatGPTは知識は豊富ですが、薬の再注文や診察予約まではしてくれません。Amazonは「AIに実行力を持たせる」という、最も難しくて価値がある部分を獲りにきています。\n\n技術的には、AWSのHealthScribeをベースにしたマルチエージェント構成。情報の根拠を公式データに絞るグラウンディングが徹底されており、ハルシネーション対策も本気です。\n\n正直、健康データまでAmazonに握られるのは抵抗がありますが、この利便性を前に抗える人は少ないはず。3ヶ月後には、米国で「体調不良＝まずAmazonを開く」が定着しているかもしれません。\n\n皆さんは、自分の電子カルテや処方箋データをAmazonのようなプラットフォームに預けることに抵抗はありますか？それとも利便性が勝ると思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-11T06:38:39.350986+09:00",
+    "posted": false
   }
 ]
