@@ -6175,5 +6175,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-10T18:48:22.685181+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-10-visual-translate-by-vozo-review-guide",
+    "title": "Visual Translate by Vozo 使い方と実務評価",
+    "url": "https://ai.negi-lab.com/posts/visual-translate-by-vozo-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Vozo #動画編集AI",
+    "tweet_text": "動画のローカライズで一番面倒な「画面内のテキスト書き換え」を力技で解決するツールが出てきました。\n\nVisual Translate by Vozoを触ってみましたが、これは単なる翻訳ツールというより、動画用の「AI消しゴムマジック ＋ デザイン合成」ですね。\n\nSIer時代、マニュアル動画のテロップ修正だけで徹夜していた自分に教えてあげたい。プロジェクトファイルがなくても、MP4を放り込むだけで背景を補完しながら別言語に置換してくれます。\n\n技術的には、OCRとインペインティングの組み合わせですが、時間軸の一貫性を保つ処理がかなり優秀。1080pの動画なら1分以内で処理が終わるスピード感も実務向きです。\n\n・元デザインを維持したままテキスト置換\n・API経由でバッチ処理が可能\n・背景補完（インペインティング）が自然\n\nB2Bのデモ動画や、海外向けマニュアルを大量生産する現場なら、これだけで工数が1/10になるはず。\n\nただ、日本語の縦書きにはまだ弱い印象。このあたり、実際に使ってる人の回避策とかあれば聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-10T22:13:31.527826+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-10-qwen-3-5-08b-local-python-tutorial",
+    "title": "Qwen 3.5 0.8B 使い方 | 超軽量AIをCPUだけで爆速動作させる手順",
+    "url": "https://ai.negi-lab.com/posts/qwen-3-5-08b-local-python-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen35 #ローカルLLM",
+    "tweet_text": "AIを動かすのにRTX 4090なんて、本当は必要ないのかもしれません。\n\nRedditで話題の「Qwen 3.5 0.8B」をローカルで動かして衝撃を受けました。0.8B（約8億パラメータ）という極小サイズなのに、日本語の指示をサクサクこなし、CPUだけで1秒間に100トークン以上が流れていきます。\n\nSIer時代、サーバーリソースの確保に奔走していた頃の苦労は何だったのか。今やスマホの写真数枚分の容量（約400MB）に、世界中の知識が凝縮されています。\n\n今回の記事では、この超軽量モデルをPythonとllama-cpp-pythonを使って、あなたのPCで「今すぐ」動かす手順をまとめました。\nAPI代を気にせず、オフラインで、機密情報も安心して処理できる。これこそが、私たちが求めていた「道具としてのAI」の完成形ではないでしょうか。\n\n古いノートPCやRaspberry Piを抱えている方、ぜひ試してみてください。AIが「重くて高いもの」だった時代は、今日で終わりです。\n\n皆さんは、この軽量AIをどんな場所に組み込んでみたいですか？\n私は自宅サーバーのログ監視を全部これに任せようと画策中です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-10T22:17:45.507094+09:00",
+    "posted": false
   }
 ]
