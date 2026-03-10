@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Kimi Claw",
-      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> OpenClaw now lives natively on Kimi, 24/7 </p> <p> <a href=\"https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088234?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-03T06:45:49"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "CtrlAI",
-      "url": "https://www.producthunt.com/products/ctrlai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Transparent proxy that secures AI agents with guardrails </p> <p> <a href=\"https://www.producthunt.com/products/ctrlai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087977?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-03T06:45:49"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Running Qwen 3.5 0.8B locally in the browser on WebGPU w/ Transformers.js",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rizodv/running_qwen_35_08b_locally_in_the_browser_on/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-02T17:46:44+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rizodv/running_qwen_35_08b_locally_in_the_browser_on/\"> <img alt=\"Running Qwen 3.5 0.8B locally in the browser on WebGPU w/ Transformers.js\" src=\"https://external-preview.redd.it/Y3Y3ejI3aTk1b21nMdWbvGcxCx2ye2tGU7zJWShDhnYRgbWYJJKHggNlhZlM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9f7f9c51655b141e1039757e48ea979d03c43f7a\" title=\"Running Qwen 3.5 0.8B locally in the browser on WebGPU w/ Transformers.js\" /> </a> </td><t",
-      "extra": {},
-      "collected_at": "2026-03-03T06:45:51"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Is Qwen3.5-9B enough for Agentic Coding?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1riwy9w/is_qwen359b_enough_for_agentic_coding/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-02T16:09:47+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1riwy9w/is_qwen359b_enough_for_agentic_coding/\"> <img alt=\"Is Qwen3.5-9B enough for Agentic Coding?\" src=\"https://preview.redd.it/bxh90z4gjnmg1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=6697e9989a7aa320c4b6d93e51ce28fe0bca5e40\" title=\"Is Qwen3.5-9B enough for Agentic Coding?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>On coding section, 9B model beats Qwen3-30B-A3B on all items. And beats Qwen3-Next-80B, GPT-O",
-      "extra": {},
-      "collected_at": "2026-03-03T06:45:51"
-    },
-    {
       "source": "Google News",
       "title": "AnthropicがAI乗り換えユーザー獲得のためClaudeのメモリ機能を無料ユーザーにも開放＆メモリのインポート機能を追加 - GIGAZINE",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSEVXNzFvdE9wdWs5Q1duTlVyWW1iT1dhLUM5RF8zcWpid0NRcXo5T3pxVHVZd1FTUDZNYTlteURsRUd1S0tTUGdqNXdlLUYyaE5Zd2pIVU5EekJwVDY2aXNpd3RmblBVTWhPTkVxejlpYmxzd2tUc1FTVmN6MXhzR1I2ZEZhcEk5YW45VHdwSlhrTUk?oc=5",
@@ -2605,19 +2549,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
-      "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 09 Mar 2026 21:15:17 +0000",
-      "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
-      "extra": {},
-      "collected_at": "2026-03-10T06:42:25"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Anthropic launches code review tool to check flood of AI-generated code",
       "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
       "primary_category": "NEWS",
@@ -2807,7 +2738,48 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>For some context local models are incapable of doing pretty much any general task.</p> <p>But today I found a way to make them useful.</p> <p>I have a static website with about 400 pages inside one sub directory. I wanted to add internal linking to those pages but I was not going to read them and find relevant pages manually.</p> <p>So I asked claude code to write a script which will create a small map of all those mdx files. The map would contain basic details ",
       "extra": {},
       "collected_at": "2026-03-10T06:42:30"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic sues Defense Department over supply-chain risk designation",
+      "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 09 Mar 2026 17:25:40 +0000",
+      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+      "extra": {},
+      "collected_at": "2026-03-10T11:39:47"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Code Review for Claude Code",
+      "url": "https://claude.com/blog/code-review",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 09 Mar 2026 19:03:26 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-10T11:39:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Nvidia Is Planning to Launch an Open-Source AI Agent Platform",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rpgr8c/nvidia_is_planning_to_launch_an_opensource_ai/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-09T23:38:37+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rpgr8c/nvidia_is_planning_to_launch_an_opensource_ai/\"> <img alt=\"Nvidia Is Planning to Launch an Open-Source AI Agent Platform\" src=\"https://external-preview.redd.it/7kdy-7gv-O9IurM0nsCsVj7jjVr2X0chsdWQ20h_oxY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8a03a5fd6a1da67bf32b3140316e1f32461ec62\" title=\"Nvidia Is Planning to Launch an Open-Source AI Agent Platform\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>If ",
+      "extra": {},
+      "collected_at": "2026-03-10T11:39:52"
     }
   ],
-  "updated_at": "2026-03-10T06:42:30.342065+09:00"
+  "updated_at": "2026-03-10T11:39:52.014024+09:00"
 }

@@ -6105,5 +6105,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-10T06:43:00.896838+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-10-anthropic-claude-code-multi-agent-review-launch",
+    "title": "AIが生む「コードの洪水」をAIが裁く。Anthropicが発表したCode Reviewの衝撃",
+    "url": "https://ai.negi-lab.com/posts/anthropic-claude-code-multi-agent-review-launch/",
+    "category": "NEWS",
+    "viral_tags": "#ClaudeCode #Anthropic",
+    "tweet_text": "AIが秒速でコードを生成する時代、最大の敵は「レビューが追いつかないこと」でした。\n\nAnthropicが発表したClaude Codeの「Code Review」機能。これ、ただのバグチェックじゃないです。マルチエージェントが内部で議論し、論理的な矛盾を徹底的に炙り出す仕組み。\n\nSIer時代、数時間かけて行っていたPRレビューが、数十円のAPIコストと1分足らずの待ち時間で終わる。正直、開発のゲームチェンジだと感じています。\n\n技術的な肝は、単一のLLMに頼らず「攻撃的なレビュアー」や「文脈把握担当」など複数のエージェントを戦わせている点。これによってGPT-4oで見逃しがちだった非同期処理のバグとかも拾えるようになっています。\n\n「AIにレビューさせるなんて不安」という声も分かりますが、むしろ人間が疲労でスルーする細かいミスをAIは絶対に見逃しません。私たちは「コードを書く人」から「AIのレビューを最終承認する人」へのシフトを迫られています。\n\nみなさんの現場では、AI生成コードの品質管理、どうしてますか？ ツールに任せきり？ それともまだ全部人間が目視してますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-10T11:40:22.992582+09:00",
+    "posted": false
   }
 ]
