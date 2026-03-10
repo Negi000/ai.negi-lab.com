@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "AnthropicがAI乗り換えユーザー獲得のためClaudeのメモリ機能を無料ユーザーにも開放＆メモリのインポート機能を追加 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSEVXNzFvdE9wdWs5Q1duTlVyWW1iT1dhLUM5RF8zcWpid0NRcXo5T3pxVHVZd1FTUDZNYTlteURsRUd1S0tTUGdqNXdlLUYyaE5Zd2pIVU5EekJwVDY2aXNpd3RmblBVTWhPTkVxejlpYmxzd2tUc1FTVmN6MXhzR1I2ZEZhcEk5YW45VHdwSlhrTUk?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 03 Mar 2026 01:51:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSEVXNzFvdE9wdWs5Q1duTlVyWW1iT1dhLUM5RF8zcWpid0NRcXo5T3pxVHVZd1FTUDZNYTlteURsRUd1S0tTUGdqNXdlLUYyaE5Zd2pIVU5EekJwVDY2aXNpd3RmblBVTWhPTkVxejlpYmxzd2tUc1FTVmN6MXhzR1I2ZEZhcEk5YW45VHdwSlhrTUk?oc=5\" target=\"_blank\">AnthropicがAI乗り換えユーザー獲得のためClaudeのメモリ機能を無料ユーザーにも開放＆メモリのインポート機能を追加</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {},
-      "collected_at": "2026-03-03T11:47:29"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen 3.5 27b: a testament to the transformer architecture",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rj6m71/qwen_35_27b_a_testament_to_the_transformer/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-02T21:58:12+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It's really good. I thought an early warning sign that transformer architecture might have hard limits would be if these tiny models stopped being able to keep up with the large ones. And to some degree this seemed to be the case, at least at times. We didn't get much between the qwen3 2507 models and now that strongly suggested otherwise.</p> <p>But qwen 3.5 27b... damn! It's passing my reasoning and knowledge tests roughly at the level of R1 0528. Crazy. Makes",
-      "extra": {},
-      "collected_at": "2026-03-03T11:47:32"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Running Qwen3.5-0.8B on my 7-year-old Samsung S10E",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rj5ngc/running_qwen3508b_on_my_7yearold_samsung_s10e/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-03-02T21:21:28+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rj5ngc/running_qwen3508b_on_my_7yearold_samsung_s10e/\"> <img alt=\"Running Qwen3.5-0.8B on my 7-year-old Samsung S10E\" src=\"https://preview.redd.it/mg9ixtw58pmg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea1f7fdad2dc55b7c1d69045f3ef504fc901c7e3\" title=\"Running Qwen3.5-0.8B on my 7-year-old Samsung S10E\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Qwen just released their 0.8B model.<br /> So naturally, I had to",
-      "extra": {},
-      "collected_at": "2026-03-03T11:47:32"
-    },
-    {
       "source": "The Verge AI",
       "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
       "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
@@ -2549,21 +2509,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Anthropic launches code review tool to check flood of AI-generated code",
-      "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "Mon, 09 Mar 2026 19:41:34 +0000",
-      "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
-      "extra": {},
-      "collected_at": "2026-03-10T06:42:25"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "OpenAI acquires Promptfoo to secure its AI agents",
       "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
       "primary_category": "NEWS",
@@ -2779,7 +2724,46 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rpgr8c/nvidia_is_planning_to_launch_an_opensource_ai/\"> <img alt=\"Nvidia Is Planning to Launch an Open-Source AI Agent Platform\" src=\"https://external-preview.redd.it/7kdy-7gv-O9IurM0nsCsVj7jjVr2X0chsdWQ20h_oxY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8a03a5fd6a1da67bf32b3140316e1f32461ec62\" title=\"Nvidia Is Planning to Launch an Open-Source AI Agent Platform\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>If ",
       "extra": {},
       "collected_at": "2026-03-10T11:39:52"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 09 Mar 2026 15:58:11 +0000",
+      "summary": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
+      "extra": {},
+      "collected_at": "2026-03-10T13:49:42"
+    },
+    {
+      "source": "Google News",
+      "title": "Anthropicがアメリカ国防総省を提訴、OpenAIとGoogleの従業員はAnthropicの支持を表明 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MVTVJQzJ0RGpUT05nTWtzeWU1YzFmUFhCd2R4bFdlOHVWRTNDWDdKYlp6RTlaTkozU2tjTWpmWVR1c2lJNjNXNmZBNTRLRjBaOEZ2ZHdQdEZKQm9paUphOUx5dFJGamZOME1vSnZ6UmNVR0JVUEZVb2NoOA?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 10 Mar 2026 02:02:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1MVTVJQzJ0RGpUT05nTWtzeWU1YzFmUFhCd2R4bFdlOHVWRTNDWDdKYlp6RTlaTkozU2tjTWpmWVR1c2lJNjNXNmZBNTRLRjBaOEZ2ZHdQdEZKQm9paUphOUx5dFJGamZOME1vSnZ6UmNVR0JVUEZVb2NoOA?oc=5\" target=\"_blank\">Anthropicがアメリカ国防総省を提訴、OpenAIとGoogleの従業員はAnthropicの支持を表明</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {},
+      "collected_at": "2026-03-10T13:49:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Timelaps",
+      "url": "https://www.producthunt.com/products/timelaps",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Know if your marketing is working with real-time insights </p> <p> <a href=\"https://www.producthunt.com/products/timelaps?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083354?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-10T13:49:44"
     }
   ],
-  "updated_at": "2026-03-10T11:39:52.014024+09:00"
+  "updated_at": "2026-03-10T13:49:46.640432+09:00"
 }

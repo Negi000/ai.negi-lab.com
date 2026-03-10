@@ -6119,5 +6119,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-10T11:40:22.992582+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-10-openai-acquires-promptfoo-ai-agent-security",
+    "title": "OpenAIがPromptfooを買収した真意：AIエージェントを「勘」で開発する時代の終焉",
+    "url": "https://ai.negi-lab.com/posts/openai-acquires-promptfoo-ai-agent-security/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #Promptfoo",
+    "tweet_text": "OpenAIがPromptfooを買収。このニュース、単なるツール買収と思ってスルーするのは危険です。\n\nSIer時代からAI案件をこなしてきましたが、現場で一番苦労するのは「このAI、本当に壊れない？」という不確実性への回答でした。Promptfooは、その「バイブスで判断していた開発」にトドメを刺すツールです。\n\nYAMLでテストケースを書き、CI/CDで数千パターンの回帰テストを回す。これがOpenAIの「公式」の作法になります。GPT-5（仮）を出す前に、彼らは「評価インフラ」を完全に固めに来ましたね。\n\n正直、評価指標までOpenAIに握られることへの警戒感はあります。でも、プロンプトエンジニアリングという名の「おまじない」から、真の「エンジニアリング」へ脱皮する時が来たのは間違いありません。\n\nこれからは、モデルの賢さを自慢するより「いかに厳格な評価コードを書けるか」がエンジニアの市場価値を分けるはず。\n\nみなさんはAIの出力評価、どうやってますか？「目視」で頑張ってる人、正直に手を挙げてください。私はもう限界を感じて Promptfoo に全振りしてます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-10T13:50:18.667936+09:00",
+    "posted": false
   }
 ]
