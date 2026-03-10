@@ -6203,5 +6203,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-10T22:17:45.507094+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-11-sitefire-ai-review-agentic-web-marketing",
+    "title": "sitefire.aiレビュー：AIエージェントに選ばれるWebサイト最適化の技術",
+    "url": "https://ai.negi-lab.com/posts/sitefire-ai-review-agentic-web-marketing/",
+    "category": "TOOL",
+    "viral_tags": "#sitefire #AgenticWeb",
+    "tweet_text": "AIエージェントがWebを徘徊する時代、あなたのサイトは「彼ら」に正しく理解されていますか？\n\nsitefire.aiを徹底検証しました。結論、これからは人間向けのSEOだけでなく、LLM向けの「AIO（AI Optimization）」が必須になります。\n\n実際にRTX 4090環境のローカルLLMでサイトを巡回させてみると、一般的なHTMLがいかにトークンを無駄にし、情報の抽出精度を下げているかが痛いほど分かります。sitefire.aiはこの問題をMarkdown変換とメタデータ注入で解決し、トークン消費を約65%削減してくれました。\n\nSIer時代にスクレイピングで苦労した経験から言えば、サイト側が「正解の構造」を提示してくれるのは神に近い。\n\n・LLM別の最適化（GPT-4 vs Claude等）\n・エージェントの訪問ログと分析機能\n・既存のWebスタックに数行で統合可能\n\n特にB2B SaaSやドキュメント主体のサービスは、今のうちにAIフレンドリーな構造に振り切ったほうが先行者利益を取れるはず。\n\n皆さんのサイト、AIエージェントからのアクセスってどれくらい把握できていますか？GA4だけだとボット扱いされて見落としてる可能性、かなり高いですよ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-11T00:39:15.829848+09:00",
+    "posted": false
   }
 ]
