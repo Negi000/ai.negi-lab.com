@@ -6329,5 +6329,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-11T18:46:26.773559+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-11-cardboard-3-ai-video-editor-review-for-engineers",
+    "title": "Cardboard 使い方 ビデオ編集を「プログラミング」するAIエディタの真価",
+    "url": "https://ai.negi-lab.com/posts/cardboard-3-ai-video-editor-review-for-engineers/",
+    "category": "TOOL",
+    "viral_tags": "#CardboardAI #動画編集自動化",
+    "tweet_text": "動画編集の「肉体労働」を終わらせるツールがついに現れた感じですね。Cardboard 3を使ってみましたが、これはまさに「動画版のCursor」です。\n\nSIer時代、手作業のデプロイをCI/CD化した時のあの衝撃を思い出しました。これまでのNLE（非線形編集エディタ）はマウスでポチポチやるのが正義でしたが、Cardboardは「プロンプトやコード」で動画を操るスタイル。\n\n「えーと」や「あのー」を消すフィラー削除、文脈に合わせたシーン抽出、ブランド一括適用。これらが数秒の指示で終わる。RTX 4090を2枚挿しした自宅サーバーでぶん回してみましたが、AIが動画構造を解析してタイムラインを生成する速度は圧倒的です。\n\nでもこれ、職人気質の編集者より、効率を求めるエンジニアやマーケターにこそ刺さるはず。動画を「資産（コード）」として管理できる快感は、一度味わうと戻れません。\n\n個人的には、日本語の細かいフォント指定や縦書き対応など、国内特有のUIニーズにどこまで応えてくれるかが今後の焦点かなと。\n\n皆さんは、動画編集のAI化において「ここだけは人間にやらせてほしい」と思う聖域ってありますか？それとも、全自動でいい派でしょうか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-11T22:13:28.672396+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-11-m5-max-local-llama-setup-guide",
+    "title": "M5 MaxでLLMを動かす環境構築ガイド！128GBメモリをフル活用する手順",
+    "url": "https://ai.negi-lab.com/posts/m5-max-local-llama-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#M5Max #ローカルLLM",
+    "tweet_text": "M5 Max 128GBモデルが届いたので、早速ローカルLLMの限界を検証してみました。\n\n結論から言うと、この128GBという「統一メモリ」の暴力は凄まじいですね。RTX 4090を2枚挿ししている私の環境でも、VRAM 48GBの壁にぶつかって70B以上のモデルを動かすには工夫が必要でしたが、MacBook1台でそれが当たり前のように動く。\n\nSIer時代、これだけの推論環境を整えるのに数百万のサーバー選定と数ヶ月の稟議が必要だったことを考えると、本当に恐ろしい時代になりました。llama.cppをMetal最適化でビルドすれば、Llama 3 70Bが「持ち運べる」レベルでサクサク動きます。\n\n今回は、M5 Maxの性能を100%引き出して、自分専用の推論サーバーを構築する最短手順をまとめました。Python環境からMetalを叩く際のスワップ回避策など、実務でハマるポイントも網羅しています。\n\n皆さんはローカルLLMを何に使っていますか？やはりRAG（検索拡張生成）での機密情報処理がメインでしょうか。それともコーディング支援？現場での具体的な活用アイデアがあればぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-11T22:18:19.024821+09:00",
+    "posted": false
   }
 ]
