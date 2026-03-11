@@ -6273,5 +6273,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-11T13:51:35.650208+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-11-chatgpt-interactive-visuals-math-science-update",
+    "title": "ChatGPTがインタラクティブ・ビジュアル機能を実装：静止画を超えた「動かせる概念図」がもたらす教育と実務の変革",
+    "url": "https://ai.negi-lab.com/posts/chatgpt-interactive-visuals-math-science-update/",
+    "category": "NEWS",
+    "viral_tags": "#ChatGPT #EdTech",
+    "tweet_text": "OpenAIがまたやってくれましたね。ChatGPTに「動かせるビジュアル機能」が追加されました。\n\nこれ、単なる図解じゃないんです。物理の法則や複雑な数式を、スライダーで変数をいじりながら「リアルタイムでシミュレーション」できる代物。SIer時代、これを作るのにD3.jsで何日も溶かしていた苦労は何だったのかと...。\n\n実際に触ってみると分かりますが、レスポンスが異常に速い。Pythonを実行してPNGを出す従来の方法とは別次元の「手触り感」があります。Claude 3.5のArtifactsも凄かったですが、あちらが「成果物」なら、こちらは「思考の遊び場」。\n\n教育現場はもちろん、エンジニアがアルゴリズムの挙動をパッと確認するのにも最強のツールになりそうです。ただ、AIが「もっともらしい嘘の物理挙動」を見せるリスクはゼロじゃない。そこを見極める審美眼は、我々人間に残された最後の砦かもしれません。\n\n皆さんは、この「動く図解」をどんな実務で使ってみたいですか？あるいは、AIが作ったシミュレーションをどこまで信頼しますか？リプ欄で教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-11T15:59:32.479813+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-11-crikket-oss-bug-reporting-review",
+    "title": "Crikket 使い方 OSSでバグ報告を自動化する実力レビュー",
+    "url": "https://ai.negi-lab.com/posts/crikket-oss-bug-reporting-review/",
+    "category": "TOOL",
+    "viral_tags": "#Crikket #オープンソース",
+    "tweet_text": "SIer時代、テスターから「画面が崩れてる」とExcelで報告が来るたびに、ブラウザやOSのヒアリングだけで1日が終わる地獄を経験しました。あの頃の自分に教えてあげたいのが、このOSSツール「Crikket」です。\n\n一言で言うと、Webサイトに「バグ報告ボタン」を1行で埋め込めるツール。ユーザーが画面をクリックするだけで、スクショ、ブラウザ情報、コンソールログまで全部自動でキャプチャしてくれます。\n\n最大の衝撃は、これがOSSであること。SentryやUserSnapは便利ですが、機密性の高い社内ツールのスクショをSaaSのサーバーに置くのは抵抗がある人も多いはず。CrikketならDockerでサクッと自前サーバーを立てられるので、データ所有権を100%保持できます。\n\n正直、機能の網羅性では有料ツールに一歩譲りますが、開発初期のスピード感やプライバシー重視の現場ならこれで十分。むしろAPIがシンプルなので、LLMアプリの出力評価とかに転用するのも面白いですね。\n\n皆さんはユーザーからのフィードバック収集、何を使ってますか？\n「やっぱりSentry一択」なのか「GitHub Issues直投げ」なのか、現場のリアルな運用を聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-11T16:03:35.122234+09:00",
+    "posted": false
   }
 ]
