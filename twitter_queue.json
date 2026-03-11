@@ -6357,5 +6357,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-11T22:18:19.024821+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-12-wordpress-my-private-workspace-wasm-review",
+    "title": "my.WordPress.netは「Webサイトを作る」というWordPressの定義を根底から破壊し、AI時代の究極のプライベート執筆環境へと進化させる一撃になります。",
+    "url": "https://ai.negi-lab.com/posts/wordpress-my-private-workspace-wasm-review/",
+    "category": "NEWS",
+    "viral_tags": "#WordPress #WebAssembly",
+    "tweet_text": "WordPressが発表した「my.WordPress.net」の衝撃がすごいです。これ、単なる新サービスじゃなくて「Webの構造が変わる」レベルの話なんですよね。\n\nSIer時代、社外秘データを扱うためにローカル環境を必死で作ってた苦労が、今やブラウザを開くだけで終わる。WebAssembly（WASM）でPHPとSQLiteを丸ごとブラウザメモリに押し込むという、エンジニアなら震えるような力業。\n\nサーバー代もアカウント登録も不要。データは自分のブラウザに。ChatGPTやNotionにデータを預けるのが不安だった層には、これ以上ない「避難所」になるはず。RTX 4090でローカルLLM回してる私からすると、この環境をフロントエンドにしてAIプラグインを叩くのが、今最も熱い「プライベートAI環境」の正解だと確信しています。\n\n今のAIツールって便利だけど、結局はプラットフォーム側の手のひらの上なんですよね。そこから脱却して、自分の思考を「完全に自分の手元」で整理できる自由が、WordPressの20年の資産と共に手に入る。\n\n皆さんは、機密データや個人的な執筆をどのツールで管理していますか？クラウド依存に不安を感じたことはないでしょうか。実際の使用感やWASMのパフォーマンスについて、ぜひリプライで意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-12T02:51:03.727490+09:00",
+    "posted": false
   }
 ]
