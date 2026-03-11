@@ -6245,5 +6245,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-11T06:38:39.350986+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-11-ai-app-retention-struggle-revenuecat-report",
+    "title": "AIアプリの「継続率の壁」を突破する。RevenueCat調査から探る生存戦略",
+    "url": "https://ai.negi-lab.com/posts/ai-app-retention-struggle-revenuecat-report/",
+    "category": "NEWS",
+    "viral_tags": "#AI開発 #サブスクリプション",
+    "tweet_text": "AIアプリの「課金はされるが継続しない」問題、ついにデータで証明されてしまいましたね。RevenueCatの最新レポートを読むと、AIアプリは初動の収益性は抜群なのに、3ヶ月後のリテンションが非AIアプリに比べて壊滅的に低い。\n\nSIer時代から見てきましたが、結局「魔法の道具」は3回使えば飽きられるんですよ。今のユーザーが求めているのは驚きではなく「自分の仕事がどれだけ楽になるか」という実利。\n\n技術的にも「ただGPT-4に投げるだけ」のラッパーは淘汰のフェーズ。これからはステートフルなエージェント設計や、独自データを用いた垂直統合型RAGを組める開発者だけが生き残る時代になります。\n\n個人的には、チャットUIそのものがリテンションを下げている戦犯だと思っています。プロンプトを考えさせること自体が、ユーザーにとってはコスト。\n\nみなさんの周りで「これはずっと使い続けている」というAIアプリ、何かありますか？それとも結局、ChatGPTに集約されちゃってますかね？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-11T11:39:28.830960+09:00",
+    "posted": false
   }
 ]
