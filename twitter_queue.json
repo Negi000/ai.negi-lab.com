@@ -6301,5 +6301,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-11T16:03:35.122234+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-11-iran-conflict-ai-datacenter-electricity-cost",
+    "title": "イラン情勢が招くAIインフラの危機とデータセンター電力コスト高騰の真実",
+    "url": "https://ai.negi-lab.com/posts/iran-conflict-ai-datacenter-electricity-cost/",
+    "category": "NEWS",
+    "viral_tags": "#AI開発 #データセンター",
+    "tweet_text": "イラン情勢の緊迫化が、まさか私たちのAI開発コストを直撃するなんて…。\n\n「クラウドAPIで何でも解決」という時代の終わりの始まりを感じています。中東情勢による天然ガス価格の不安定化は、データセンターの電力コストを直撃。NVIDIA H100を数万枚回している裏側で、電気代の請求額が跳ね上がれば、そのツケを払うのは我々開発者です。\n\n実際、SIer時代にデータセンターの運営を見てきた身としては、電力供給の数%の変動がどれだけ経営を圧迫するか痛いほどわかります。これからは「精度」だけでなく「電力効率（Token per Watt）」がエンジニアの最重要スキルになる。\n\n今のうちにローカルLLM環境を整えて、推論の最適化（量子化や蒸留）をガチでやっておかないと、数ヶ月後の「API値上げ」でプロジェクトが凍結されるリスクすらあります。\n\nみなさんの現場では、クラウドのコスト増対策って何か進めていますか？あるいは「もうローカルに移行したよ」って方は、どんな構成で運用しているか教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-11T18:42:22.161952+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-11-ionrouter-review-llm-gateway-optimization",
+    "title": "IonRouter 使い方とレビュー：複数LLMのコストと速度を自動最適化するAIゲートウェイの実力",
+    "url": "https://ai.negi-lab.com/posts/ionrouter-review-llm-gateway-optimization/",
+    "category": "TOOL",
+    "viral_tags": "#IonRouter #LLMOps",
+    "tweet_text": "AI開発で一番怖いのはモデルの精度低下じゃなく「APIの突然の死」や「予想外の請求」だったりします。SIer時代、特定ベンダーの障害で深夜対応した苦い経験がある私にとって、IonRouterのような多機能ルーターはもはや救世主。\n\nOpenAIもAnthropicもGoogleも、全部一箇所にまとめて「一番安くて速いヤツに投げて」が数行のコードで実現できるのは熱い。特にClaude 3.5 SonnetとGPT-4oを併用している現場なら、SDKの管理から解放されるだけで導入価値があります。\n\n個人的に面白いと思ったのは、レイテンシ優先設定。APIが重い時間帯を自動で避けてくれるから、ユーザー体験を損なわない。ただ、プロキシを1枚挟むから機密情報の扱いはポリシー確認が必須ですね。\n\n月額のAPI費用が$500超えてるチームなら、これ入れるだけでコスト削減と安定性が同時に手に入るはず。既存のOpenAI SDKをそのまま使えるから移行も楽。\n\nみなさんの現場では、APIの冗長化ってどうしてますか？自前でリトライ処理書いてるのか、それともGateway系ツールに任せてるのか、運用構成が気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-11T18:46:26.773559+09:00",
+    "posted": false
   }
 ]
