@@ -6497,5 +6497,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-13T02:50:58.536592+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-13-facebook-marketplace-meta-ai-auto-reply",
+    "title": "Facebook MarketplaceのMeta AI返信代行はCtoC取引の「面倒」をどこまで消せるか",
+    "url": "https://ai.negi-lab.com/posts/facebook-marketplace-meta-ai-auto-reply/",
+    "category": "NEWS",
+    "viral_tags": "#MetaAI #Llama3",
+    "tweet_text": "Facebook MarketplaceがMeta AIを統合して、返信の自動ドラフト作成機能を発表しましたね。\n\n元SIerエンジニアとしてこのニュースを見て思うのは、CtoC特有の「定型文ラリー」という負債がようやくテクノロジーで解消され始めたな、という感覚です。商品のサイズ、場所、在庫の確認…これらをLLMが出品情報からRAG的に抽出して数秒で回答案を作る。このスピード感は、メルカリやeBayにとっても大きな脅威になるはず。\n\n特筆すべきはMetaの「垂直統合」の強さ。Llama 3という最強クラスの自社モデルを、自社の計算資源で回している。外部APIのコストに縛られないから、数億人にこの機能を無料でバラ撒ける。これこそが、GAFAの中でもMetaが生成AIの実装において一歩リードしている理由だと思います。\n\nただ、将来的に「買い手AI vs 売り手AI」の不毛な交渉合戦が始まる懸念も拭えません。利便性と取引の熱量のバランス、皆さんはどう考えますか？AIが書いたと丸わかりの返信が来たら、購入意欲は削がれるでしょうか、それとも効率的で良いと感じますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-13T06:44:23.745910+09:00",
+    "posted": false
   }
 ]
