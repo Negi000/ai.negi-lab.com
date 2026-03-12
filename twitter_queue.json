@@ -6469,5 +6469,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-12T18:47:05.040016+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-13-html-pub-mcp-ai-hosting-review",
+    "title": "HTML Pub AI生成コードを即座にURL化するMCPツールの実力",
+    "url": "https://ai.negi-lab.com/posts/html-pub-mcp-ai-hosting-review/",
+    "category": "TOOL",
+    "viral_tags": "#HTMLPub #MCP",
+    "tweet_text": "AIにコードを書かせる時代、一番のストレスは「コピーして実行環境に貼り付ける作業」でした。これを物理的にゼロにするのが「HTML Pub」です。\n\n正直、最初は「ただのホスティングでしょ」と思っていましたが、MCP（Model Context Protocol）経由でClaude Desktopと連携させた瞬間に評価が変わりました。チャット欄で「今のデザインをURLにして」と打つだけで、1秒後にはスマホで確認できるURLが返ってくる。このスピード感はSIer時代の常識では考えられません。\n\n特にフロントエンドのプロトタイプを量産する人や、AIエージェントに可視化機能を持たせたいエンジニアには必須のツールだと断言します。Vercel v0も良いですが、どんなLLMやスクリプトからでもAPI一発でデプロイできる汎用性はHTML Pubに軍配が上がります。\n\nただ、セキュリティ面には注意が必要。デフォルトは公開URLなので、機密情報を含むコードを投げるのはNGです。あくまで「使い捨てのプロトタイプ共有」として割り切るのが賢い使い方。\n\n皆さんはAIが作ったUIの確認、どうやってますか？ローカルで開く派ですか、それともこうしたツールに任せる派ですか？実際の現場での共有コストについて意見を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-13T00:36:23.171501+09:00",
+    "posted": false
   }
 ]
