@@ -6441,5 +6441,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-12T16:05:24.544141+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-12-netflix-buys-ben-affleck-ai-startup-analysis",
+    "title": "Netflixが6億ドルで手に入れた「制作特化型AI」の正体：動画生成の覇権がOpenAIから配信王者へ移る理由",
+    "url": "https://ai.negi-lab.com/posts/netflix-buys-ben-affleck-ai-startup-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#NetflixAI #動画生成AI",
+    "tweet_text": "Netflixがベン・アフレックのAI企業を6億ドルで買収した件、これ単なる投資じゃなくて「映画制作の完全自動化」に向けた王手ですね。SIer時代に見てきた「内製化」の究極系がエンタメで起きてる。\n\n注目すべきはSoraのような汎用AIとの違い。Netflixが欲しかったのは「誰でも動画が作れる魔法」じゃなく、俳優の権利を守りつつ120分間ずっと同じ顔で演技させ続けられる「制作OS」です。\n\nRTX 4090を2枚刺してローカルで動画生成してると痛感しますが、一番キツいのは10秒以上のキャラの一貫性。彼らは物理エンジンと3DGSを組み合わせて、ここを力技で解決してきた。\n\n今後、動画生成は「Webから拾ったデータ」で戦うフェーズから、Netflixのように「クリーンで高密度な独自資産」を垂直統合するフェーズに移ります。開発者はAPIを叩くだけじゃなく、特定のスタイルを完全に固定するLoRA構築やワークフロー制御のスキルを磨かないと生き残れない。\n\n3ヶ月以内にDisneyも似たような買収をするはず。皆さんはこの「制作の内製化」、クリエイティブの質の向上に繋がると思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-12T18:42:49.623025+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-12-pluck-web-component-to-ai-prompt-review",
+    "title": "Pluck ウェブコンポーネントをピクセルパーフェクトなAIプロンプトへ変換する実力",
+    "url": "https://ai.negi-lab.com/posts/pluck-web-component-to-ai-prompt-review/",
+    "category": "TOOL",
+    "viral_tags": "#Pluck #フロントエンド開発",
+    "tweet_text": "Webサイトの「このUIパーツ、今すぐ自分のプロジェクトで使いたい」を数秒で叶えるPluckを試した。\nこれ、ただのHTMLコピペツールじゃない。\n\nエンジニアが一番苦労する「DOM構造からデザイン意図を抽出してLLMに伝える」工程を完全に自動化してくれる。\n実際に触ってみて驚いたのは、生コードを貼るよりトークンを70%も節約できる点。\nRTX 4090環境のローカルLLMでも試したけど、プロンプトの質が良いからLlama 3クラスでも一発で綺麗なTailwindコードを吐き出す。\n\nSIer時代、CSSの解析だけで1日潰していた自分に教えてあげたい。\n特にReactやNext.jsで爆速プロトタイピングするなら、現状これ以上の選択肢はないと思う。\n\n逆に、バックエンド専業や、独自のUIコンポーネント集が完璧に整備されてる現場なら不要。\n「既存UIの移植」に工数を取られてる人は、一度このピクセルパーフェクトな変換を体験してみる価値がある。\n\n皆さんは既存サイトのデザインを参考にするとき、どうやってAIに指示出してますか？\nスクショ派？それとも気合のHTML手動コピー派？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-12T18:47:05.040016+09:00",
+    "posted": false
   }
 ]

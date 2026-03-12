@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-04T15:32:42-05:00",
-      "summary": "Google's NotebookLM can now turn users' research and notes into fully animated \"cinematic\" videos, going a step further than the original video overview feature Google introduced last year. Previously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google's AI models, \"including Gemini 3, Nano Banana Pro [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-05T18:42:05"
-    },
-    {
       "source": "Google News",
       "title": "豪州主導の国際文書「AI・機械学習のサプライチェーンリスクと緩和策」に日本も共同署名 - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zekVWOERrX0hHR0QxSDZ2WlJpalNaVnZBTlNQOTU3OUtUaVFqcVRBSWRidGJYQ084ZE5xMDZBQmtYcHlpeXlNb295U291a0kta3c3QmQ2NU9ZeHdKczUyTDQwYXdXWVc1RHUw?oc=5",
@@ -2590,19 +2577,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Fort",
-      "url": "https://www.producthunt.com/products/fort-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Fort tracks strength for people who care about longevity. </p> <p> <a href=\"https://www.producthunt.com/products/fort-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1086746?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-12T02:50:19"
-    },
-    {
-      "source": "Product Hunt",
       "title": "InsForge",
       "url": "https://www.producthunt.com/products/insforge-alpha",
       "primary_category": "TOOL",
@@ -2790,19 +2764,6 @@
       "collected_at": "2026-03-12T06:44:03"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Zendesk acquires agentic customer service startup Forethought",
-      "url": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Wed, 11 Mar 2026 22:41:27 +0000",
-      "summary": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield.",
-      "extra": {},
-      "collected_at": "2026-03-12T11:44:51"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Elevated errors on login with Claude Code",
       "url": "https://status.claude.com/incidents/jm3b4jjy2jrt",
@@ -2952,7 +2913,73 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>The short version:</strong> 50.5 tok/s sustained decode is the best I can get, and I'm pretty sure it's the best anyone has actually gotten on SM120 hardware -- despite claims of 130+ tok/s floating around. The reason? NVIDIA's own CUTLASS kernels are broken on their own workstation GPU.</p> <hr /> <h2>The Setup</h2> <ul> <li>4x RTX PRO 6000 Blackwell Workstation Edition (96GB GDDR7 each, 384GB total)</li> <li>SM 12.0 -- this is the desktop/workstation B",
       "extra": {},
       "collected_at": "2026-03-12T16:00:48"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Grammarly says it will stop using AI to clone experts without permission",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-11T14:45:50-04:00",
+      "summary": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members. \"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-12T18:42:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Pluck",
+      "url": "https://www.producthunt.com/products/pluck-4",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn any web component into pixel-perfect AI Prompt </p> <p> <a href=\"https://www.producthunt.com/products/pluck-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088744?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-12T18:42:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Megaton Monitor",
+      "url": "https://www.producthunt.com/products/megaton-monitor",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI video benchmarks, leaderboards and industry news </p> <p> <a href=\"https://www.producthunt.com/products/megaton-monitor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1095838?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-12T18:42:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Signet",
+      "url": "https://www.producthunt.com/products/signet",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Autonomous AI wildfire agent with nearby alerts </p> <p> <a href=\"https://www.producthunt.com/products/signet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096201?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-12T18:42:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Agent Browser",
+      "url": "https://www.producthunt.com/products/agent-browser-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Browser Agents that communicate using ASCII wireframes </p> <p> <a href=\"https://www.producthunt.com/products/agent-browser-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096009?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-12T18:42:16"
     }
   ],
-  "updated_at": "2026-03-12T16:00:48.513268+09:00"
+  "updated_at": "2026-03-12T18:42:19.155171+09:00"
 }
