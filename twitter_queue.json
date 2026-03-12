@@ -6413,5 +6413,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-12T13:56:23.400488+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-12-zendesk-acquires-forethought-agentic-ai-shift",
+    "title": "ZendeskのForethought買収が示すCS自動化の正解：RAGから自律型AIへ",
+    "url": "https://ai.negi-lab.com/posts/zendesk-acquires-forethought-agentic-ai-shift/",
+    "category": "NEWS",
+    "viral_tags": "#Zendesk #AgenticAI",
+    "tweet_text": "ZendeskがForethoughtを買収。このニュース、CS業界にとっては2023年のGPT-4登場に匹敵する「終わりの始まり」であり「新時代の幕開け」です。\n\n元SIerの視点で見ると、これまで数千万かけて構築していた「API連携チャットボット」が、プラットフォームの標準機能として飲み込まれる衝撃は計り知れません。もはやAIは「調べて教える」段階を過ぎ、自らシステムを叩いて「タスクを完結させる」エージェントへと進化しました。\n\nForethoughtのSupportGPTが凄いのは、単一のLLMに頼らず、タスクごとに最適化されたSLMをオーケストレーションしている点。レスポンス0.6秒、解決率90%という数字は、もはや人間の新人研修をやるより効率的です。\n\nこれからの開発者に求められるのは、コードを書く力以上に「AIにどんな権限を与え、どう動かすか」というワークフロー設計のセンス。あなたの会社のFAQ、AIがアクションを起こせるほど構造化されていますか？\n\nこの自律型AIへのシフト、皆さんの現場ではどう受け止められていますか？「AIにアクションまで任せるのは怖い」という意見も多いと思いますが、実務での許容範囲についてぜひ聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-12T16:01:20.544360+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-12-fort-longevity-strength-tracker-review",
+    "title": "Fort 使い方レビュー｜長寿指標の筋力をデータで管理する",
+    "url": "https://ai.negi-lab.com/posts/fort-longevity-strength-tracker-review/",
+    "category": "TOOL",
+    "viral_tags": "#Longevity #バイオハッキング",
+    "tweet_text": "エンジニアとしてRTX 4090を回し続けるには、それを受け止める「自分のハードウェア」のメンテナンスが不可欠です。最近使い始めたFortというツールが、あまりにも冷徹で最高でした。\n\n一般的な筋トレアプリが「筋肉をデカくする」ことを競う中で、このFortは「長寿（Longevity）」だけに全振りしています。具体的には、握力や大腿四頭筋の筋力が、将来の死亡率や介護リスクにどう影響するかをデータで突きつけてくる。\n\n「今ベンチプレスが何キロ上がるか」ではなく、「80歳で自立歩行できる確率」を計算する。この視点の切り替えは、まさにシステムのリプレイス計画と同じです。衰えてから慌てるのではなく、今のうちにデバッグしておく。\n\nPython SDK経由でデータを引っこ抜いて自分のダッシュボードに統合できるので、数値管理オタクにはたまらないはず。健康寿命という一番重要なリソースをどう守るか？\n\n長寿医学に基づいた筋力管理、みなさんはどう取り組んでいますか？私は最近、握力計をデスクに常備し始めました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-12T16:05:24.544141+09:00",
+    "posted": false
   }
 ]
