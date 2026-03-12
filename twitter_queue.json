@@ -6399,5 +6399,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-12T11:45:35.027301+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-12-ford-pro-ai-seatbelt-detection-fleet-management",
+    "title": "Ford Pro AIが商用車管理を激変させる：シートベルト検知AIの実力と実装の裏側",
+    "url": "https://ai.negi-lab.com/posts/ford-pro-ai-seatbelt-detection-fleet-management/",
+    "category": "NEWS",
+    "viral_tags": "#FordProAI #エッジAI",
+    "tweet_text": "Ford Pro AIの発表、これまでの「AIドラレコ」とは次元が違います。SIer時代に物流システムを組んでいた身からすると、車両のCANバス（ドアやエンジンの生データ）と車内カメラの画像解析をエッジ側でリアルタイム同期させる強みは異常。\n\n後付けのAIカメラにありがちな「停車中にベルトを外しただけなのに通知が飛ぶ」といった誤検知が、車両データとの照合で極限まで減らされています。単なる監視ツールではなく、物流企業の保険料と事故リスクを直接削りに行く「利益創出インフラ」という見方が正しい。\n\n技術的にはエッジAIでの姿勢推定が肝。ChatGPTのようなLLMブームの裏で、こうした「現場特化型エッジAI」の垂直統合が着々と進んでいる。\n\n結局、ハードウェアを握っているメーカーが一番強いデータを持っているという現実を突きつけられました。今後2年以内に「AI監視なしの商用車は保険料が高すぎて運用できない」という時代が確実にやってきます。\n\n現場のドライバーからすれば「監視の目」でしかないけど、経営側からすれば「数千万の賠償リスクを消す守護神」。この断絶をどう埋めるかが、今後の導入の鍵になりそうです。\n\nみなさんの現場では、AIによる常時監視ってどの程度許容されていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-12T13:56:23.400488+09:00",
+    "posted": false
   }
 ]
