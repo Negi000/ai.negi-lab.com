@@ -6511,5 +6511,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-13T06:44:23.745910+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-13-nvidia-gtc-2026-rubin-architecture-impact",
+    "title": "Nvidia GTC 2026がAIインフラの「所有」から「自律化」への完全移行を決定づける理由",
+    "url": "https://ai.negi-lab.com/posts/nvidia-gtc-2026-rubin-architecture-impact/",
+    "category": "NEWS",
+    "viral_tags": "#GTC2026 #NvidiaRubin",
+    "tweet_text": "Nvidia GTC 2026の基調講演、これはAIの進化というより「物理インフラの再定義」ですね。新アーキテクチャ「Rubin」が叩き出した数字を見て、正直めまいがしました。\n\n Blackewell比で推論効率が数倍、メモリ帯域10TB/s超え。もはや単一のGPUがサーバーラックそのものとして機能する次元です。SIer時代、サーバーのラッキングで腰を痛めていた自分に「2026年にはチップ1枚で世界が変わるぞ」と言ってやりたい。\n\n特に衝撃なのは「NIM Agent」によるソフトウェア層の完全支配。開発者は推論の最適化から解放される一方、Nvidiaのプラットフォームから一生抜け出せない「心地よい牢獄」に足を踏み入れることになります。\n\nFP4/FP2ネイティブ対応によるコスト破壊で、1Mトークンが$0.008。この価格帯になると、RAGの構築手法やエージェントの設計思想が根底から覆ります。単なるチャットUIを作っている層は、このコストの暴力にどう立ち向かうのか。\n\n皆さんは今の開発環境、Nvidiaの垂直統合が進む中で「あえて他社チップ」を選ぶ理由はありますか？それともこの巨大な波に身を任せますか？皆さんの現場での本音を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-13T11:43:07.559405+09:00",
+    "posted": false
   }
 ]
