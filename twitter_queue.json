@@ -6637,5 +6637,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-14T00:25:17.272537+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-14-nanoclaw-docker-wasm-llm-deployment",
+    "title": "Dockerが惚れ込んだNanoClawの衝撃と軽量LLMランタイムが変えるデプロイの常識",
+    "url": "https://ai.negi-lab.com/posts/nanoclaw-docker-wasm-llm-deployment/",
+    "category": "NEWS",
+    "viral_tags": "#Docker #NanoClaw",
+    "tweet_text": "AIデプロイの「重さ」に絶望していた全エンジニアに朗報です。\n\nわずか6週間でDockerが惚れ込んだ軽量AIランタイム「NanoClaw」が、LLMの常識を塗り替えようとしています。\n\nSIer時代、数GBのコンテナイメージをビルドしてはデプロイ待ちでコーヒーを飲んでいたあの不毛な時間は何だったのか…。\nNanoClawなら数MB単位のWasmバイナリでLLMが動きます。イメージサイズが1/100以下になる衝撃は、実務で触れば一瞬で理解できるはず。\n\nPython/CUDAの依存関係地獄から解放され、0.2秒でLLMが起動する世界。\nDocker Desktopへの統合が進めば、デプロイの心理的ハードルはほぼゼロになります。\n\n個人的には、自宅サーバーのRTX 4090を回す際も、この軽量さはVRAM管理の面で大きな武器になると確信しています。\n皆さんの現場では、推論環境のイメージサイズ、今どれくらいになってますか？そろそろ「Python抜き」の構成、本気で検討しませんか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-14T02:36:06.094224+09:00",
+    "posted": false
   }
 ]

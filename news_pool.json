@@ -2930,19 +2930,6 @@
       "collected_at": "2026-03-13T18:38:52"
     },
     {
-      "source": "Product Hunt",
-      "title": "Manus Agents for Telegram",
-      "url": "https://www.producthunt.com/products/manus-agents-for-telegram",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Personal AI Agent in Your Chat </p> <p> <a href=\"https://www.producthunt.com/products/manus-agents-for-telegram?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082801?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-13T18:38:52"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Saw this somewhere on LinkedIn 😂",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rshvng/saw_this_somewhere_on_linkedin/",
@@ -3117,7 +3104,87 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Everyone is wiring up MCP servers, Skills and agent tools right now.</p> <p>That works fine when you have a handful of endpoints:</p> <p>10 </p> <ul> <li>endpoints = still manageable</li> </ul> <p>100 </p> <ul> <li>endpoints = annoying</li> <li>GitHub’s REST API with hundreds of endpoints = good luck keeping that tool zoo consistent over time</li> </ul> <p>At the same time, a different pattern has become much more practical for agents: CLI wrappers.</p> <p>So we",
       "extra": {},
       "collected_at": "2026-03-14T00:24:42"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+      "url": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Fri, 13 Mar 2026 17:09:59 +0000",
+      "summary": "Gavriel Cohen is living an open source developer's dream as his project has achieved acclaim and a partnership with Docker in a matter of weeks.",
+      "extra": {},
+      "collected_at": "2026-03-14T02:35:08"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Spotify will let you edit your Taste Profile to control your recommendations",
+      "url": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 13 Mar 2026 17:04:12 +0000",
+      "summary": "When you edit your Taste Profile, you'll impact your personalized playlists like Discover Weekly, recommendations, and Wrapped.",
+      "extra": {},
+      "collected_at": "2026-03-14T02:35:08"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
+      "url": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "Fri, 13 Mar 2026 16:20:23 +0000",
+      "summary": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google&#8217;s $32 billion deal, finalized after a declined 2024 offer, antitrust review on both sides of the Atlantic, and an [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-14T02:35:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Saturn",
+      "url": "https://www.producthunt.com/products/saturn-5",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn Japan's public data into an AI-ready spreadsheet WS </p> <p> <a href=\"https://www.producthunt.com/products/saturn-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096221?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-14T02:35:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "LocalPDF.io",
+      "url": "https://www.producthunt.com/products/localpdf-io",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Process your legal/medical/financial documents locally </p> <p> <a href=\"https://www.producthunt.com/products/localpdf-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096327?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-14T02:35:15"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Avacado is toast",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsrc1j/avacado_is_toast/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-13T16:02:02+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Meta's avacado doesn't meet the standards Facebook desires so it is now delayed till May . Zuc must be fuming after spending billions and getting subpar performance.</p> <p><a href=\"https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html\">https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html</a></p> <p><a href=\"https://x.com/i/trending/2032258514568298991\">https://x.com/i/trending/2032258514568298991</a> </p> <",
+      "extra": {},
+      "collected_at": "2026-03-14T02:35:17"
     }
   ],
-  "updated_at": "2026-03-14T00:24:42.619388+09:00"
+  "updated_at": "2026-03-14T02:35:17.966904+09:00"
 }
