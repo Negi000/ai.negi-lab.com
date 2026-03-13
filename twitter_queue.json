@@ -6539,5 +6539,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-13T13:53:55.184926+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-13-qutwo-quantum-computing-infrastructure-peter-sarlin-amd",
+    "title": "量子コンピュータの実用化を待っている企業は、その日が来た瞬間に脱落します。",
+    "url": "https://ai.negi-lab.com/posts/qutwo-quantum-computing-infrastructure-peter-sarlin-amd/",
+    "category": "NEWS",
+    "viral_tags": "#量子コンピュータ #QuTwo",
+    "tweet_text": "AMDにSilo AIを約1000億円で売却したPeter Sarlin氏が、早くも新会社「QuTwo」を設立。これが単なる量子ブームへの便乗じゃない。\n\n「量子ハードが完成するのを待つのは時間の無駄。先にソフトウェア層を量子ネイティブに変えてしまおう」という極めて現実的な戦略です。\n\n実務者目線で見ると、この「抽象化レイヤー」の登場はデカい。\n・現行のGPU/CPUで量子アルゴリズムを回す\n・将来、量子チップが実用化されたらボタン一つで移行完了\n・SIer的な「数年がかりの量子移行プロジェクト」を不要にする\n\nNVIDIAのcuQuantumとも、IBMの実機戦略とも違う。企業が「量子時代の保険」として導入しやすい月額サブスク型のインフラ。\n\n正直、量子コンピュータはまだ先だと思ってたけど、こういう「ソフトからの外堀埋め」が始まると話は別ですね。レガシー化したくないエンジニアは、今のうちにQiskitあたりの基礎を叩き込んでおいた方が良さそうです。\n\nみなさんの現場で「これ、量子アルゴリズムなら一瞬で解けそう」って思う複雑な最適化問題、何か心当たりありますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-13T15:59:36.841410+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-13-glass-ai-agent-improvement-guide",
+    "title": "Glass 使い方 AIエージェントの精度改善とデータセット構築を自動化するレビュー",
+    "url": "https://ai.negi-lab.com/posts/glass-ai-agent-improvement-guide/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #生成AI開発",
+    "tweet_text": "AIエージェントの開発で一番キツいのは、どこで失敗したか分からない「不確実性」との戦いですよね。SIer時代、数万行のログを追っていた頃を思い出しますが、今のAI開発も実は似たような泥臭さがあります。\n\nProduct Huntで注目されている「Glass」を徹底的に触ってみましたが、これは単なるログツールではありません。エージェントの複雑な推論ステップを可視化し、失敗したログを数クリックで「評価用データセット」に変換できる。このループの速さが異常です。\n\nPython歴8年の私が特に気に入ったのは、SDKの軽さ。既存のコードを汚さずに導入できるので、LangChainやLangGraphで組んでいるプロジェクトにも即投入できます。感覚でプロンプトをいじって「モグラ叩き」になる日々はもう終わりにしませんか？\n\n「精度が上がらない」と悩む前に、まずはどこでコケているかを数字で把握するべき。本番運用を狙うエンジニアなら、この手の評価基盤はもはや必須装備だと感じます。\n\nみなさんはエージェントの評価、どうしてますか？スプレッドシートで手動管理？それともLangSmithのような専用ツール？現場での苦労話や、おすすめの管理方法があれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-13T16:03:38.625117+09:00",
+    "posted": false
   }
 ]
