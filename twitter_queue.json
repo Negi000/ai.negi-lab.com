@@ -6623,5 +6623,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-13T22:15:32.138542+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-14-manus-agents-telegram-review-autonomous-ai-guide",
+    "title": "Manus Agents for Telegram 使い方と自律型AIエージェントの実践レビュー",
+    "url": "https://ai.negi-lab.com/posts/manus-agents-telegram-review-autonomous-ai-guide/",
+    "category": "TOOL",
+    "viral_tags": "#ManusAI #AIエージェント",
+    "tweet_text": "SIer時代、バッチ処理の完了を深夜まで待っていた苦労は何だったのか…。最近触ったManus Agents for Telegramが、エンジニアの「待ち時間」を完全に変えてくれました。\n\nこれ、単なるチャットボットじゃなくて「自律型エージェント」なんです。Telegramから指示を投げるだけで、AIが勝手にWebを調べ、Pythonコードを書いて、分析結果のグラフまでスマホに送りつけてくる。PCを開く必要すらありません。\n\n個人的に衝撃だったのは、スクレイピングに失敗しても勝手にエラーを修正して再試行する「粘り強さ」。GAIAベンチマークで高スコアなのも納得の推論能力です。\n\nただし、APIのトークン消費はそれなりに激しいし、機密情報の扱いは要注意。個人開発の効率化や、公開情報の自動リサーチには現時点でこれ以上の選択肢はない気がします。\n\nPython歴8年の視点で、API連携のコツや実務での使いどころをガッツリまとめました。スマホ1台で推論を完結させたい人、実際の精度やコスト感が気になる人はぜひチェックを。\n\n皆さんは自律型AI、もう仕事に組み込んでますか？「この業務なら任せられる」という具体的なアイデアがあれば教えてください！",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-14T00:25:17.272537+09:00",
+    "posted": false
   }
 ]
