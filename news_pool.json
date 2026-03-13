@@ -2,116 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Claude Code wiped our production database with a Terraform command",
-      "url": "https://twitter.com/Al_Grigor/status/2029889772181934425",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 06 Mar 2026 18:07:52 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-07T06:38:19"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ChatGPT for Excel",
-      "url": "https://www.producthunt.com/products/chatgpt",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Build and update spreadsheets with ChatGPT in real time </p> <p> <a href=\"https://www.producthunt.com/products/chatgpt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090989?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-07T06:38:21"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "New OpenSource Models Available—Sarvam 30B and 105B trained from scratch by an Indian based company",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rmn25h/new_opensource_models_availablesarvam_30b_and/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-06T19:08:31+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rmn25h/new_opensource_models_availablesarvam_30b_and/\"> <img alt=\"New OpenSource Models Available—Sarvam 30B and 105B trained from scratch by an Indian based company\" src=\"https://external-preview.redd.it/kMvcgAVDCh5ZFi5yFOK-JFYbBGBMdIAWNceHsFHoDxY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d00c62cb7f00836ab2000ebe2fa284466b352c0c\" title=\"New OpenSource Models Available—Sarvam 30B and 105B trained from scratch by an I",
-      "extra": {},
-      "collected_at": "2026-03-07T06:38:23"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Finally bought an RTX 6000 Max-Q: Pros, cons, notes and ramblings",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rmn4gx/finally_bought_an_rtx_6000_maxq_pros_cons_notes/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-06T19:10:55+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Transparency:</strong> I used an LLM to help figure out a good title and write the TLDR, but the post content is otherwise 100% written by me with zero help from an LLM.</p> <h1>Background</h1> <p>I recently asked Reddit to <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ql9b7m/talk_me_out_of_buying_an_rtx_pro_6000/\">talk me out of buying an RTX Pro 6000</a>. Of course, it didn't work, and I finally broke down and bought a Max-Q. Task failed succe",
-      "extra": {},
-      "collected_at": "2026-03-07T06:38:23"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "sarvamai/sarvam-105b · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rmkjz5/sarvamaisarvam105b_hugging_face/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-06T17:37:28+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rmkjz5/sarvamaisarvam105b_hugging_face/\"> <img alt=\"sarvamai/sarvam-105b · Hugging Face\" src=\"https://external-preview.redd.it/c0wkzHPrYP6czzEK_87Swe5RwWyW3Lf29u8ChqaP9ow.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=15323d8321d334bfc602483ee1aa83625e53620b\" title=\"sarvamai/sarvam-105b · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Not too bad for a first effort built from the ground-up</p> <p><a href",
-      "extra": {},
-      "collected_at": "2026-03-07T06:38:23"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Open WebUI’s New Open Terminal + “Native” Tool Calling + Qwen3.5 35b = Holy Sh!t!!!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rmplvs/open_webuis_new_open_terminal_native_tool_calling/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-06T20:44:34+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rmplvs/open_webuis_new_open_terminal_native_tool_calling/\"> <img alt=\"Open WebUI’s New Open Terminal + “Native” Tool Calling + Qwen3.5 35b = Holy Sh!t!!!\" src=\"https://preview.redd.it/7maem5welhng1.jpg?width=140&amp;height=73&amp;auto=webp&amp;s=d4522dc73d0d8c9e4cd83769615c347dda7f189c\" title=\"Open WebUI’s New Open Terminal + “Native” Tool Calling + Qwen3.5 35b = Holy Sh!t!!!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"",
-      "extra": {},
-      "collected_at": "2026-03-07T06:38:23"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Llama.cpp: now with automatic parser generator",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rmp3ep/llamacpp_now_with_automatic_parser_generator/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-06T20:24:52+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am happy to report that after months of testing, feedback, reviews and refactorings, the autoparser solution has been merged into the mainline llama.cpp code.</p> <p>This solution follows the big changes we've done to our templating and parsing code: ngxson's new Jinja system which is built natively within llama.cpp (and thus no longer relies on Minja) and aldehir's PEG parser, which gives a reliable and versatile tool to construct parsers for templates.</p> <",
-      "extra": {},
-      "collected_at": "2026-03-07T06:38:23"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Beware r/LocalAIServers $400 MI50 32GB Group Buy",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rmogqc/beware_rlocalaiservers_400_mi50_32gb_group_buy/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-06T20:01:34+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>post reference: <a href=\"https://www.reddit.com/r/LocalAIServers/comments/1rf6vmf/group_buy_starting/\">https://www.reddit.com/r/LocalAIServers/comments/1rf6vmf/group_buy_starting/</a></p> <p>short history is that this guy proposed to start a group buy months ago with decent interest. refused to post any kind of pricing to boost signups, despite the overwhelming majority of users asking for pricing pre-signup.</p> <p>at the time that he started the group buy mont",
-      "extra": {},
-      "collected_at": "2026-03-07T06:38:23"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Tell HN: I'm 60 years old. Claude Code has ignited a passion again",
       "url": "https://news.ycombinator.com/item?id=47282777",
       "primary_category": "NEWS",
@@ -3107,20 +2997,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
-      "url": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Fri, 13 Mar 2026 17:09:59 +0000",
-      "summary": "Gavriel Cohen is living an open source developer's dream as his project has achieved acclaim and a partnership with Docker in a matter of weeks.",
-      "extra": {},
-      "collected_at": "2026-03-14T02:35:08"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Spotify will let you edit your Taste Profile to control your recommendations",
       "url": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/",
       "primary_category": "NEWS",
@@ -3184,7 +3060,127 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Meta's avacado doesn't meet the standards Facebook desires so it is now delayed till May . Zuc must be fuming after spending billions and getting subpar performance.</p> <p><a href=\"https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html\">https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html</a></p> <p><a href=\"https://x.com/i/trending/2032258514568298991\">https://x.com/i/trending/2032258514568298991</a> </p> <",
       "extra": {},
       "collected_at": "2026-03-14T02:35:17"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 13 Mar 2026 21:37:01 +0000",
+      "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons",
+      "extra": {},
+      "collected_at": "2026-03-14T06:44:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+      "url": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 13 Mar 2026 19:47:58 +0000",
+      "summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+      "extra": {},
+      "collected_at": "2026-03-14T06:44:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The biggest AI stories of the year (so far)",
+      "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 13 Mar 2026 19:38:11 +0000",
+      "summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+      "extra": {},
+      "collected_at": "2026-03-14T06:44:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "deepidv",
+      "url": "https://www.producthunt.com/products/deepidv",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI-native verification & anti-fraud Engine </p> <p> <a href=\"https://www.producthunt.com/products/deepidv?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088049?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-14T06:44:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Window View",
+      "url": "https://www.producthunt.com/products/window-view",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Step inside any building on Google Earth to see the view </p> <p> <a href=\"https://www.producthunt.com/products/window-view?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097070?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-14T06:44:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "KingCoding",
+      "url": "https://www.producthunt.com/products/kingcoding",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Run Claude, Codex & Cursor in parallel from one dashboard </p> <p> <a href=\"https://www.producthunt.com/products/kingcoding?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097001?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-14T06:44:12"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I feel personally attacked",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsunqq/i_feel_personally_attacked/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-13T17:59:57+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rsunqq/i_feel_personally_attacked/\"> <img alt=\"I feel personally attacked\" src=\"https://preview.redd.it/mwvyc0mbquog1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=5acd89feed9b24041823eca9646b6da9cb724648\" title=\"I feel personally attacked\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HeadAcanthisitta7390\"> /u/HeadAcanthisitta7390 </a> <br /> <span><a href=\"https://i.redd.it/mwvyc0mbquog",
+      "extra": {},
+      "collected_at": "2026-03-14T06:44:15"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I'm fully blind, and AI is a game changer for me. Are there any local LLMS that can rival claude code and codex?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsuhwl/im_fully_blind_and_ai_is_a_game_changer_for_me/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-03-13T17:54:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys,</p> <p>So, I am fully blind.</p> <p>Since AI was released to the public, I have been a max user.</p> <p>Why?</p> <p>Because it has changed my life.</p> <p>Suddenly, I am able to get very accurate image descriptions, when I get an inaccessible document, an AI can read it to me in a matter of seconds, when there is something inaccessible, I can use Python, swift, or whatever I want to build my own software that is exactly how I want it.</p> <p>So far, I h",
+      "extra": {},
+      "collected_at": "2026-03-14T06:44:15"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Lemonade v10: Linux NPU support and chock full of multi-modal capabilities",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsucvk/lemonade_v10_linux_npu_support_and_chock_full_of/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-13T17:49:19+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rsucvk/lemonade_v10_linux_npu_support_and_chock_full_of/\"> <img alt=\"Lemonade v10: Linux NPU support and chock full of multi-modal capabilities\" src=\"https://preview.redd.it/ndpi723pkuog1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=239d2ad21db49d3a1f5e25df787a06e7354e2962\" title=\"Lemonade v10: Linux NPU support and chock full of multi-modal capabilities\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r",
+      "extra": {},
+      "collected_at": "2026-03-14T06:44:15"
     }
   ],
-  "updated_at": "2026-03-14T02:35:17.966904+09:00"
+  "updated_at": "2026-03-14T06:44:15.067719+09:00"
 }
