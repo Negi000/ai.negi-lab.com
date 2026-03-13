@@ -6595,5 +6595,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-13T18:43:23.905363+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-13-meta-mtia-300-ai-inference-chip-review",
+    "title": "Metaの自社製AIチップ「MTIA 300」はNVIDIAの牙城を崩せるか？実務視点の徹底レビュー",
+    "url": "https://ai.negi-lab.com/posts/meta-mtia-300-ai-inference-chip-review/",
+    "category": "TOOL",
+    "viral_tags": "#Meta #MTIA300",
+    "tweet_text": "Metaが発表した第3世代の自社製AIチップ「MTIA 300」のドキュメントを読み込み、その実力と戦略をエンジニア視点で分析しました。\n\n結論、これは単なるNVIDIA代替品ではありません。\nMetaの巨大な広告レコメンドエンジンを「最小の電力と最大の速度」で動かすためだけの超特化型モンスターです。\n\nSIer時代、大規模システムのインフラ構築で頭を悩ませたのは常に「ピーク時の電力と発熱」でした。\nMTIA 300は、H100のような汎用性を潔く捨て、PyTorchモデルの実行効率、特にSRAMを活かした疎な行列演算にリソースを全振りしています。\nこれによってMetaは、NVIDIAへの巨額な支払いを抑えつつ、Llamaシリーズのような生成AIをさらに低コストで展開できる「武器」を手に入れたことになります。\n\n正直、個人や中小企業が直接触る機会はないチップです。\nしかし、私たちがLlamaのAPIを叩く裏側で、このチップがコストを削り、レスポンスを0.1秒単位で縮めている事実は、エンジニアとしてワクワクしませんか？\n\n皆さんは自社インフラのAIシフト、GPU依存とコストのバランスをどう考えていますか？\n特定のタスクに絞ったASIC導入、検討したことありますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-13T22:11:22.375897+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-13-openclaw-agent-workflow-tutorial-python",
+    "title": "OpenClaw 使い方 入門 | 自律型AIエージェントで調査業務を自動化する方法",
+    "url": "https://ai.negi-lab.com/posts/openclaw-agent-workflow-tutorial-python/",
+    "category": "GUIDE",
+    "viral_tags": "#OpenClaw #AIエージェント",
+    "tweet_text": "SIer時代、新しい技術が出るたびに数時間かけて調査資料を作らされた経験があります。あの頃にこれがあれば、どれだけの残業が減っただろうか…。\n\nRedditで話題になっていた「OpenClaw」を徹底検証して、実務で即戦力になる「自動調査エージェント」の構築ガイドを書きました。\n\nただ「動かしてみた」系の記事とは一線を画す内容にしたかったので、今回は「ネットから最新情報を拾う→比較表を作る→Markdownで保存する」という一連の業務フローを、Pythonコードのコピペだけで完結できるように設計しています。\n\n特にClaude 3.5 Sonnetと組み合わせた時の「自律性」は、正直言って期待以上でした。従来のLangChain等でガチガチに組むよりも、OpenClawのシンプルなツール定義の方がエージェントが迷わずに動いてくれる。\n\n一番のハマりどころは「エージェントの暴走（無限ループ）」ですが、これも設定一つで防ぐ実用的なTipsを盛り込んでいます。\n\n皆さんは、AIエージェントに「これだけは任せたい」という面倒なルーチンワーク、何かありますか？私はローカルLLMのベンチマーク計測を全部投げようと画策中です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-13T22:15:32.138542+09:00",
+    "posted": false
   }
 ]
