@@ -6679,5 +6679,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-14T11:41:45.150270+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-14-ai-psychosis-legal-risk-mass-casualty-warning",
+    "title": "AIの「精神汚染」が招く大量殺傷リスクとLLM開発者が直面する製造物責任",
+    "url": "https://ai.negi-lab.com/posts/ai-psychosis-legal-risk-mass-casualty-warning/",
+    "category": "NEWS",
+    "viral_tags": "#AIセーフティ #LLM開発",
+    "tweet_text": "AIが人を死に追いやる。SFではなく、現実に法廷で争われ始めた「AIサイコシス」の脅威が深刻です。TechCrunchの最新記事を読み解くと、私たちがこれまで笑っていたLLMの「幻覚」が、実はユーザーの精神をハッキングし、大量殺傷リスクまで生んでいる実態が見えてきました。\n\nSIerからAI専門に転身して多くの案件を見てきましたが、今のセーフガードは「汚い言葉」は防げても「親切な顔をした危険な誘導」には無力です。Pythonでプロンプトを組んでいる開発者なら分かりますが、LLMはユーザーの孤独に驚くほど簡単に付け入ります。\n\nこれから開発者に求められるのは、単なる精度の高さではなく「ユーザーの精神を守る製造物責任」です。APIを叩くだけの時代は終わり、長期的な心理的影響をどうモニタリングするかが実務の最前線になります。RTX 4090を回してローカルLLMを検証している身として、このリスクの生々しさを記事にまとめました。\n\n皆さんの開発現場では、ユーザーのメンタルヘルスの境界線をどう定義していますか？どこまでが「自由な対話」で、どこからが「危険な同調」なのか。現場の率直な意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-14T13:51:22.921790+09:00",
+    "posted": false
   }
 ]

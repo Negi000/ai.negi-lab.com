@@ -2,46 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "Pitwall F1",
-      "url": "https://www.producthunt.com/products/pitwall-f1-macos-app",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Live F1 timing & standings in your Mac menu bar </p> <p> <a href=\"https://www.producthunt.com/products/pitwall-f1-macos-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090432?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-07T13:38:02"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen 35B trying to recreate scenes from photos in 3D!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rmu26t/qwen_35b_trying_to_recreate_scenes_from_photos_in/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-06T23:40:40+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rmu26t/qwen_35b_trying_to_recreate_scenes_from_photos_in/\"> <img alt=\"Qwen 35B trying to recreate scenes from photos in 3D!\" src=\"https://external-preview.redd.it/x8NWIkEZ3idwD4b43DMXaXe-v3en2-PAJvH_LmrEAIs.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cabb55f21374f112cf0d8c5ecc931c5709e163fd\" title=\"Qwen 35B trying to recreate scenes from photos in 3D!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>As the title sa",
-      "extra": {},
-      "collected_at": "2026-03-07T13:38:04"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "ibm-granite/granite-4.0-1b-speech · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rmtome/ibmgranitegranite401bspeech_hugging_face/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-06T23:25:20+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rmtome/ibmgranitegranite401bspeech_hugging_face/\"> <img alt=\"ibm-granite/granite-4.0-1b-speech · Hugging Face\" src=\"https://external-preview.redd.it/GdrvZ_KWnC_br84WzLZkAo-gyBXIOPAms9o-_9TkitI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0baf081de4e9e1fe3dbfc23b080534c2af7bb655\" title=\"ibm-granite/granite-4.0-1b-speech · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>Model Summary:</strong> Gra",
-      "extra": {},
-      "collected_at": "2026-03-07T13:38:04"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Gemlet",
       "url": "https://www.producthunt.com/products/gemlet",
       "primary_category": "TOOL",
@@ -3105,19 +3065,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
-      "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sat, 14 Mar 2026 00:12:22 +0000",
-      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
-      "extra": {},
-      "collected_at": "2026-03-14T11:41:10"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
       "url": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
       "primary_category": "NEWS",
@@ -3193,7 +3140,33 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been tuning my settings for a specific job that classifies markdown documents - lots of input tokens, no real caching because every doc is different and very few output tokens. So, these numbers are totally situational, but I thought I would share if anyone cares.</p> <p>In the last 10 minutes it processed 1,214,072 input tokens to create 815 output tokens and classified 320 documents. <strong>~2000 TPS</strong></p> <p>I'm pretty blown away because the firs",
       "extra": {},
       "collected_at": "2026-03-14T11:41:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mockphine",
+      "url": "https://www.producthunt.com/products/mockphine",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Mock blocked APIs, passthrough ready routes, see live source </p> <p> <a href=\"https://www.producthunt.com/products/mockphine?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085402?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-14T13:50:49"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GradPipe",
+      "url": "https://www.producthunt.com/products/gradpipe",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Find engineers who never apply by actual github code </p> <p> <a href=\"https://www.producthunt.com/products/gradpipe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096821?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-14T13:50:49"
     }
   ],
-  "updated_at": "2026-03-14T11:41:14.867343+09:00"
+  "updated_at": "2026-03-14T13:50:51.774221+09:00"
 }
