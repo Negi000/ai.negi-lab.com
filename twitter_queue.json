@@ -6735,5 +6735,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-14T18:37:26.267431+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-14-agent-37-openclaw-hosting-review",
+    "title": "Agent 37は「OpenClawのホスティングに挫折した人が、月額500円以下で自律型エージェントを手に入れるための近道」です。",
+    "url": "https://ai.negi-lab.com/posts/agent-37-openclaw-hosting-review/",
+    "category": "TOOL",
+    "viral_tags": "#Agent37 #OpenClaw",
+    "tweet_text": "AIエージェントの環境構築で消耗している人へ。\n月額$3.99で「自分専用のOpenClawインスタンス」が持てるAgent 37が、コスパの概念を壊しにきています。\n\n自律型AIにブラウザ操作を任せる際、一番面倒なのがPlaywrightの依存関係やヘッドレスブラウザの安定稼働。\nこれを500円弱で丸投げできるのは、正直サーバー代を考えても安すぎますね。\n\n元SIerの視点で見ると、この価格帯は「とりあえず動くか試したい」という検証フェーズに完璧に刺さります。\nもちろん、共有インスタンスゆえの懸念やセキュリティ的な課題はありますが、個人開発や定形タスクの自動化なら、自分でAWSにインスタンス立てるより圧倒的に楽です。\n\nClaude 3.5 Sonnetをバックエンドにして、実際にブラウザが自律的に動く様子を見ると「あ、これでもうスクレイピングコード書かなくていいわ」と確信します。\nただし、APIキーを預けるので使いどころは選ぶべき。\n\n皆さんは、自律エージェントのホスティングどうしてますか？\n「自前Dockerで苦労してる」とか「Skyvern使ってる」とか、現場の運用事情を聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-14T22:03:48.949339+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-14-ollama-python-pc-roast-tool-guide",
+    "title": "OllamaとPythonでPC環境をAIに酷評させるローストツールの作り方",
+    "url": "https://ai.negi-lab.com/posts/ollama-python-pc-roast-tool-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Ollama #ローカルLLM",
+    "tweet_text": "RedditのLocalLLaMA民の間で「AIにPCスペックを酷評されて心が折れた」という報告が相次いでますね。\n\n私もRTX 4090を2枚挿して悦に浸っていたら、ローカルLLMに「高価なヒーターとしてしか機能していない」と一刀両断されました。SIer時代の低スペックPCを耐え忍んでいた頃の自分なら発狂してたかもしれません。\n\nせっかくのローカルLLM、ベンチマークを回すだけじゃもったいない。\nPythonとOllamaを組み合わせて、自分のマシンの「無駄」をAIに可視化させるツールを作ってみました。\n\npsutilで取得した生々しい負荷状況をLlama 3に放り込むだけで、驚くほどキレのある（そして図星な）ローストが飛んできます。\n\n・Ollama+Pythonの具体的な連携コード\n・GPU情報をNVMLで直接引く実務的な方法\n・AIの「煽り性能」を最大化するプロンプト設定\n\nエンジニアとしての「慢心」をAIに叩き直してほしい人、あるいは純粋にマシンの限界を知りたい人には面白い実験になるはず。\nみなさんのPC、AIに診断させたらどんな暴言を吐かれそうですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-14T22:07:53.282672+09:00",
+    "posted": false
   }
 ]
