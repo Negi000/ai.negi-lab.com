@@ -1,59 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Thinking Line",
-      "url": "https://www.producthunt.com/products/thinking-line",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI-powered doodle video and vector generator </p> <p> <a href=\"https://www.producthunt.com/products/thinking-line?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091364?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-07T18:28:13"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "LTX Desktop",
-      "url": "https://www.producthunt.com/products/ltx-desktop",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Local open-source LTX video editor optimized for GPUs </p> <p> <a href=\"https://www.producthunt.com/products/ltx-desktop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091591?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-07T18:28:13"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.5 27B vs 35B Unsloth quants - LiveCodeBench Evaluation Results",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rn2qlb/qwen35_27b_vs_35b_unsloth_quants_livecodebench/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-07T06:33:17+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Hardware</h1> <ul> <li><strong>GPU</strong>: RTX 4060 Ti 16GB VRAM</li> <li><strong>RAM</strong>: 32GB</li> <li><strong>CPU</strong>: i7-14700 (2.10 GHz)</li> <li><strong>OS</strong>: Windows 11</li> </ul> <h1>Required fixes to LiveCodeBench code for Windows compatibility.</h1> <ul> <li>clone this repo <a href=\"https://github.com/LiveCodeBench/LiveCodeBench\">https://github.com/LiveCodeBench/LiveCodeBench</a></li> <li>Apply this diff: <a href=\"https://pastebin.c",
-      "extra": {},
-      "collected_at": "2026-03-07T18:28:16"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "How many of you have seriously started using AI agents in your workplace or day to day life?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rmwov8/how_many_of_you_have_seriously_started_using_ai/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-07T01:35:57+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>What agents do you use and how has it impacted your work?</p> <p>Curious how people in different industries are adopting AI agents, and to what scale. </p> <p>If you build your own agents from scratch, feel free to dorp your techstack or bare metal pipeline!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/last_llm_standing\"> /u/last_llm_standing </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rmwov8",
-      "extra": {},
-      "collected_at": "2026-03-07T18:28:16"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Sarvam 105B, the first competitive Indian open source LLM",
       "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
@@ -2945,19 +2892,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
-      "url": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 13 Mar 2026 19:47:58 +0000",
-      "summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
-      "extra": {},
-      "collected_at": "2026-03-14T06:44:03"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "The biggest AI stories of the year (so far)",
       "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
       "primary_category": "NEWS",
@@ -3206,7 +3140,59 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>My last post was a lie - Nemotron-3-Super-120b was unlike anything so far. My haste led me to believe that my last attempt was actually ablated - and while it didnt refuse seemed to converse fine, it’s code was garbage. This was due to the fact that I hadn’t taken into consideration it’s mix of LatentMoE and Mamba attention. I have spent the past 24 hrs remaking this model taking many things into account.</p> <p>Native MLX doesn’t support LatentMoE at the moment",
       "extra": {},
       "collected_at": "2026-03-14T15:52:50"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Rainfrog",
+      "url": "https://www.producthunt.com/products/rainfrog-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Mix, match, and create stunning consistent campaign visuals </p> <p> <a href=\"https://www.producthunt.com/products/rainfrog-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091613?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-14T18:32:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "OpenMolt",
+      "url": "https://www.producthunt.com/products/openmolt",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Let your code create and manage AI Agents (OpenSource) </p> <p> <a href=\"https://www.producthunt.com/products/openmolt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1095511?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-14T18:32:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Docket",
+      "url": "https://www.producthunt.com/products/docket-4",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Like Jira but for indie devs and AI agents </p> <p> <a href=\"https://www.producthunt.com/products/docket-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097887?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-14T18:32:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AI Website Redesign by Shuffle",
+      "url": "https://www.producthunt.com/products/ai-website-redesign",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Watch multiple AI models redesign your website side-by-side </p> <p> <a href=\"https://www.producthunt.com/products/ai-website-redesign?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097991?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-14T18:32:47"
     }
   ],
-  "updated_at": "2026-03-14T15:52:50.088133+09:00"
+  "updated_at": "2026-03-14T18:32:50.504414+09:00"
 }

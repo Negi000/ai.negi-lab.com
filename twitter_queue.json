@@ -6707,5 +6707,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-14T15:53:25.116036+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-14-2026-ai-industry-shift-local-agents",
+    "title": "AI業界の勢力図が激変。買収と法規制がもたらす開発現場のリアル",
+    "url": "https://ai.negi-lab.com/posts/2026-ai-industry-shift-local-agents/",
+    "category": "NEWS",
+    "viral_tags": "#AI業界の真実 #ローカルLLM",
+    "tweet_text": "2026年のAI業界、表面上の華やかさとは裏腹に現場はかなり「泥臭い闘争」に突入していますね。TechCrunchの最新レポートを読み解くと、もはやモデルの精度自慢は終わり、主戦場は「法的権利の確保」と「実行コストの極小化」に移ったことが分かります。\n\nSIer時代、数ミリ秒の遅延や円単位のコスト削減に血眼になっていた感覚が、今まさにLLMの実装現場で求められている。大手による囲い込みは加速していますが、個人的にはローカル環境で4090を回しながら独自の自律エージェントを組んでいるインディー勢の勢いにシビれます。\n\n結局、APIを叩くだけのエンジニアは淘汰される運命にある。モデルの重みをコントロールし、法的な制約をコードで実装できる人間だけが生き残るフェーズです。皆さんの現場では、API課金とローカル移行のバランス、どう判断していますか？ ぶっちゃけ「もうAPIには戻れない」というシーン、増えていませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-14T18:33:22.153419+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-14-rainfrog-ai-visual-consistency-review",
+    "title": "Rainfrog 使い方と実務活用レビュー：ブランドの一貫性をAIで自動化する新機軸",
+    "url": "https://ai.negi-lab.com/posts/rainfrog-ai-visual-consistency-review/",
+    "category": "TOOL",
+    "viral_tags": "#Rainfrog #画像生成AI",
+    "tweet_text": "AI画像生成を「ガチャ」で終わらせないための、実務特化型ツール「Rainfrog」を徹底的に触ってみました。\n\nSIer時代、広告バナーの微調整やリサイズ作業にエンジニアとデザイナーが総出で消耗していた光景を思い出して、少し切なくなりましたね。あの頃にこれがあれば、どれだけの残業が消えたことか。\n\nこのツールの凄さは、単に綺麗な絵を描くことじゃなく「ブランドの一貫性」を死守する仕組みにあります。特定の製品画像を1枚登録するだけで、ロゴも形状も崩さずに、背景や構図だけを無限に生成できる。IP-AdapterやControlNetを自前で組む手間を考えたら、API一発でこれが動くのは正直ズルいです。\n\nPython SDKも整備されていて、100枚単位のバッチ処理も数行で書ける。ただ、自由度が高い分、月額料金はそれなりにします。「1枚の芸術」を作るならMidjourneyでいいですが、「100枚の戦力」を作るならこっち。\n\nECサイトの運用やD2Cブランドで、クリエイティブの量産に課題を感じているエンジニアは、一度ドキュメントを読んでおく価値があります。\n\n皆さんは画像生成の一貫性、どう解決してますか？ComfyUIでガチガチに組む派ですか？それともこういうSaaSに頼る派ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-14T18:37:26.267431+09:00",
+    "posted": false
   }
 ]
