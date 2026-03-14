@@ -6805,5 +6805,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-15T02:28:05.263161+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-15-us-army-anduril-20b-contract-lattice-os-analysis",
+    "title": "米陸軍がAndurilと3兆円契約！AI防衛OSがもたらす開発環境の激変",
+    "url": "https://ai.negi-lab.com/posts/us-army-anduril-20b-contract-lattice-os-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Anduril #エッジAI",
+    "tweet_text": "米陸軍がAndurilと最大200億ドル（約3兆円）の巨額契約。これは単なる兵器の購入ではなく、防衛の「OS化」が決まった瞬間です。\n\nSIer時代に100以上のバラバラなシステムを統合する苦労を味わった私からすると、120もの調達案件を「Lattice OS」という単一のAIプラットフォームに集約する判断の凄まじさが分かります。これまでの「重厚長大」な防衛産業が、シリコンバレー流の「ソフトウェア・デファインド」に完全に敗北した形です。\n\n技術的にヤバいのは、数千のエッジデバイスで分散推論を行い、0.1秒以下の低レイテンシで物体識別と群制御を行うアーキテクチャ。もはや戦場は「巨大なKubernetesクラスター」として管理される時代になりました。\n\nこれからのAI開発者の主戦場は、画面の中ではなく「物理世界」に移ります。TensorRTでのモデル最適化やROS 2、Isaac Simといったスキルが、3兆円市場に直結する武器になる。\n\n皆さんは、AIが物理的なハードウェアを直接制御するこの流れ、どう見ていますか？特にエッジAIの実装でレイテンシに苦労している方の意見を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-15T06:37:17.540710+09:00",
+    "posted": false
   }
 ]
