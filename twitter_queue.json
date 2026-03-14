@@ -6665,5 +6665,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-14T06:44:47.709607+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-14-xai-coding-tool-starting-over-cursor-execs",
+    "title": "xAIがAIコーディングツールの開発を「ゼロからやり直す」と決めた理由とCursor元幹部合流の衝撃",
+    "url": "https://ai.negi-lab.com/posts/xai-coding-tool-starting-over-cursor-execs/",
+    "category": "NEWS",
+    "viral_tags": "#xAI #CursorAI",
+    "tweet_text": "xAIがコーディングツールの開発を「設計ミス」として全廃棄、ゼロから作り直すという衝撃のニュース。\nイーロン・マスクの「最初から正しく作られていなかった」という断言に、開発のプロとしての執念を感じますね。\nしかもAIエディタの覇者「Cursor」から重要幹部2名を電撃引き抜き。これは本気でCursorを、そしてGitHub Copilotを潰しにきています。\n\nSIer時代、設計が腐っているとわかっていながらサンクコストを恐れて突き進んだ苦い経験を思い出すと、この「サンクコスト全捨て」の判断はしびれます。\n技術的には、単なるRAGベースの補完を捨て、プロジェクト全体のグラフ構造をLLMが直接理解する「ネイティブ統合」へ舵を切るはず。\nRTX 4090を回してローカルLLMを検証している私から見ても、推論インフラとエディタが密結合した時のレスポンス0.1秒の世界は、一度体験したら戻れない麻薬のようなもの。\n\nエンジニアは今すぐCursorで「AIと歩幅を合わせる開発」に慣れておくべき。\nxAIがGrok-3ベースの専用環境を出してきたとき、準備ができている人とそうでない人の差は、そのまま生産性の10倍の差になります。\n3ヶ月後、エディタの風景は一変しているかもしれませんね。\n皆さんは、AIに「コードを書かせる」準備、できていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-14T11:41:45.150270+09:00",
+    "posted": false
   }
 ]
