@@ -6763,5 +6763,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-14T22:07:53.282672+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-14-struct-ai-root-cause-analysis-review",
+    "title": "Structは、深夜のオンコールに叩き起こされる全エンジニアの救世主となる「障害原因特定（Root Cause Analysis）特化型AIエージェント」です。",
+    "url": "https://ai.negi-lab.com/posts/struct-ai-root-cause-analysis-review/",
+    "category": "TOOL",
+    "viral_tags": "#StructAI #SRE",
+    "tweet_text": "SIer時代の深夜対応を思い出して、少し胃が痛くなりました。あの頃の自分に、この「Struct」を渡してあげたかった。\n\n障害が発生した時、私たちはまず何をしますか？\nログを見て、メトリクスを確認して、GitHubの最近のPRを漁る。この「ツールを行ったり来たりする時間」が、実は一番精神を削ります。\n\nStructを触って驚いたのは、その「コンテキストの繋ぎ込み」の速さです。\n「このエラーは、30分前のPR #102 のここが原因です」\nAIがそう言い切ってくれるだけで、初動のパニックがどれだけ抑えられるか。\n\nレスポンスも数秒。100件のログを自力でgrepする間に、AIは既に原因と修正diffまで作り終えています。\n\nもちろん、コードを外部に投げるセキュリティリスクはあるし、小規模なチームには過剰かもしれません。でも、マイクロサービス化で「誰のコードがどこで壊れたか」が不透明になっている現場なら、これほど心強い味方はいないはず。\n\n皆さんの現場では、アラートから原因特定まで平均何分かかっていますか？\n「AIにデバッグを任せる」という選択肢、組織として許容できるラインはどこでしょうか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-14T23:58:30.055152+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-15-local-manga-translator-rust-guide",
+    "title": "ローカルLLMで漫画翻訳！Manga Translatorの使い方と導入手順",
+    "url": "https://ai.negi-lab.com/posts/local-manga-translator-rust-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLM #MangaTranslator",
+    "tweet_text": "漫画の翻訳、まだ手作業で消耗してるならこれ。\n\nr/LocalLLaMAで話題の「Manga Translator」を徹底検証しました。\nRust製でCUDA同梱、何より「ローカル完結」なのが強い。\n\n正直、これまでの自動翻訳は文字を消した後の背景が不自然なものが多かった。\nでもこのツールはLaMaモデルでの背景補完を組み込んでるから、仕上がりが圧倒的に綺麗。\nOCR→翻訳→背景補完→文字合成までが数秒で終わる爆速っぷり。\n\n私はRTX 4090の2枚挿し環境で動かしたけど、VRAM 8GBあれば十分実用圏内。\nLLM部分はOllamaと連携できるから、Llama-3を使って日本語の細かいニュアンスを維持したまま翻訳できるのが最高。\n\nSIer時代、手動のOCR作業に絶望してた自分に教えてあげたい。\n一度環境を作れば、あとは放置で1冊丸ごと翻訳が終わる時代。\n「仕事で使えるか」という視点で、具体的な導入手順とハマりどころをまとめました。\n\n皆さんは翻訳エンジンに何を使ってますか？\nLlama-3派？それともGemma？精度の違いとか語り合いましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-15T00:02:52.510272+09:00",
+    "posted": false
   }
 ]
