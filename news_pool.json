@@ -1,84 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "LLM Doesn't Write Correct Code. It Writes Plausible Code",
-      "url": "https://twitter.com/KatanaLarp/status/2029928471632224486",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 07 Mar 2026 14:38:29 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-08T02:22:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Copperlane",
-      "url": "https://www.producthunt.com/products/copperlane",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn hours of loan processing into seconds </p> <p> <a href=\"https://www.producthunt.com/products/copperlane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089903?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-08T02:22:05"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Tailwind Form Builder",
-      "url": "https://www.producthunt.com/products/sheet-monkey",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Create responsive HTML forms in minutes. No login required. </p> <p> <a href=\"https://www.producthunt.com/products/sheet-monkey?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089217?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-08T02:22:05"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "turns out RL isnt the flex",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rn8ulj/turns_out_rl_isnt_the_flex/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-07T12:31:42+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rn8ulj/turns_out_rl_isnt_the_flex/\"> <img alt=\"turns out RL isnt the flex\" src=\"https://preview.redd.it/yo0mhg07amng1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=79bd2087e261514e2bc4219f5f70a997dc523feb\" title=\"turns out RL isnt the flex\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vladlearns\"> /u/vladlearns </a> <br /> <span><a href=\"https://i.redd.it/yo0mhg07amng1.png\">[link]</a></s",
-      "extra": {},
-      "collected_at": "2026-03-08T02:22:08"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "The MCP PR for llama.cpp has been merged !",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rnabs2/the_mcp_pr_for_llamacpp_has_been_merged/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-07T13:44:05+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The MCP PR for llama.cpp has finally been merged: <a href=\"https://github.com/ggml-org/llama.cpp/pull/18655\">https://github.com/ggml-org/llama.cpp/pull/18655</a></p> <p>This unlocks a pretty major piece on the llama-server / WebUI side, with MCP support, tool calls, an agentic loop, a server selector, resources, prompt attachments, a file/resource browser, and also the backend CORS proxy enabled with <code>--webui-mcp-proxy</code>.</p> <p>I am currently using op",
-      "extra": {},
-      "collected_at": "2026-03-08T02:22:08"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "What are the best nsfw ai models with no restrictions?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rn7k0e/what_are_the_best_nsfw_ai_models_with_no/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-07T11:18:49+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am new to this whole thing and I want to use it locally because I don't like chat gpt restricting me. It's hard to pick from so many ai models. I want the ai model to be focused on nsfw with no restrictions at all and of course the general usage (since I used chat gpt...) so it should be &quot;smarth enough&quot;? I don't know if these make sense but I have no idea how to look for a good ai model that has these. So I would like some help from anyone who can di",
-      "extra": {},
-      "collected_at": "2026-03-08T02:22:08"
-    },
-    {
       "source": "Product Hunt",
       "title": "NotchPad",
       "url": "https://www.producthunt.com/products/notchpad",
@@ -3101,19 +3023,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Local manga translator with LLMs built in",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtf4v8/local_manga_translator_with_llms_built_in/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-14T09:36:00+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have been working on this project for almost one year, and it has achieved good results in translating manga pages.</p> <p>In general, it combines a YOLO model for text detection, a custom OCR model, a LaMa model for inpainting, a bunch of LLMs for translation, and a custom text rendering engine for blending text into the image. </p> <p>It's open source and written in Rust; it's a standalone application with CUDA bundled, with zero setup required.</p> <p><a hr",
-      "extra": {},
-      "collected_at": "2026-03-14T22:03:24"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Thanks to the Intel team for OpenVINO backend in llama.cpp",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rte9m7/thanks_to_the_intel_team_for_openvino_backend_in/",
       "primary_category": "GUIDE",
@@ -3124,19 +3033,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rte9m7/thanks_to_the_intel_team_for_openvino_backend_in/\"> <img alt=\"Thanks to the Intel team for OpenVINO backend in llama.cpp\" src=\"https://preview.redd.it/ruc616lz2zog1.png?width=140&amp;height=77&amp;auto=webp&amp;s=38494875fad659d44d94ccfc638f2b60fb5f3b8c\" title=\"Thanks to the Intel team for OpenVINO backend in llama.cpp\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/ruc616lz2zog1.",
       "extra": {},
       "collected_at": "2026-03-14T22:03:24"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Struct",
-      "url": "https://www.producthunt.com/products/struct-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI agent that root-causes engineering alerts </p> <p> <a href=\"https://www.producthunt.com/products/struct-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090110?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-14T23:58:00"
     },
     {
       "source": "Product Hunt",
@@ -3176,7 +3072,60 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>For the life of me I don't get how is Q3CN of any value for vibe coding, I see endless posts about the model's ability and it all strikes me very strange because I cannot get the same performance. The model loops like crazy, can't properly call tools, goes into wild workarounds to bypass the tools it should use. I'm using llama.cpp and this happened before and after the autoparser merge. The quant is unsloth's UD-Q8_K_XL, I've redownloaded after they did their q",
       "extra": {},
       "collected_at": "2026-03-14T23:58:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+      "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 14 Mar 2026 16:28:42 +0000",
+      "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+      "extra": {},
+      "collected_at": "2026-03-15T02:27:26"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.5 35b is sure one the best local model (pulling above its weight)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtm7bf/qwen35_35b_is_sure_one_the_best_local_model/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-14T15:24:34+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rtm7bf/qwen35_35b_is_sure_one_the_best_local_model/\"> <img alt=\"Qwen3.5 35b is sure one the best local model (pulling above its weight)\" src=\"https://preview.redd.it/c5hrtmg631pg1.gif?frame=1&amp;width=140&amp;height=75&amp;auto=webp&amp;s=9d6ec25fd4da79191d4a741e68f6b24c7c7e0977\" title=\"Qwen3.5 35b is sure one the best local model (pulling above its weight)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I am hearing a",
+      "extra": {},
+      "collected_at": "2026-03-15T02:27:31"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "(Very) High-Quality Attention Coder-Next GGUFs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtos2b/very_highquality_attention_codernext_ggufs/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-14T17:06:17+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been conducting a bunch of quantization experiments on Qwen3-Coder-Next while using it for downstream client programming and data processing tasks, and I'd like to share some of my experience and thoughts with the community, as well as some quants with (very) high-quality attention tensors.</p> <p>One of the first things I noticed while quantizing Coder-Next (indeed any 3.5 MoE models) is that the attention tensors are small. Like: 16-32MB per tensor per la",
+      "extra": {},
+      "collected_at": "2026-03-15T02:27:31"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Nvidia's Nemotron 3 Super is a bigger deal than you think",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtp0og/nvidias_nemotron_3_super_is_a_bigger_deal_than/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-14T17:15:23+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rtp0og/nvidias_nemotron_3_super_is_a_bigger_deal_than/\"> <img alt=\"Nvidia's Nemotron 3 Super is a bigger deal than you think\" src=\"https://external-preview.redd.it/FjLcFT2L0-D4uU1VWCMPon4fVvFf_W3BmLC7qAJbCrw.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7e357f2b78c9cd674f6f5cfc25f7f1a89b82c79f\" title=\"Nvidia's Nemotron 3 Super is a bigger deal than you think\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www",
+      "extra": {},
+      "collected_at": "2026-03-15T02:27:31"
     }
   ],
-  "updated_at": "2026-03-14T23:58:02.516455+09:00"
+  "updated_at": "2026-03-15T02:27:31.508842+09:00"
 }
