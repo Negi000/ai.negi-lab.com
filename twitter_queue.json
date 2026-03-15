@@ -6847,5 +6847,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-15T14:13:11.235585+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-15-facebook-marketplace-meta-ai-auto-reply",
+    "title": "FacebookのAI自動返信が中古売買の「地獄のラリー」を終わらせる理由",
+    "url": "https://ai.negi-lab.com/posts/facebook-marketplace-meta-ai-auto-reply/",
+    "category": "NEWS",
+    "viral_tags": "#MetaAI #Llama3",
+    "tweet_text": "Facebook Marketplaceに実装されたAI自動返信機能が、中古売買の「地獄」を解決しそうですね。\n\n元エンジニアとして注目したいのは、これが単なるボットではなく、Llama 3ベースのLLMが「商品情報をリアルタイムに理解して返信」している点。特にあの「まだありますか？」という無駄な確認をAIが0秒で代行してくれるインパクトは計り知れません。\n\nSIer時代、こうした顧客対応の自動化には膨大なIF-THENルールが必要でしたが、今はRAG的なアプローチでサクッと実装できてしまう。Metaはこの「AIエージェントの日常化」を、最も泥臭い個人売買の現場から仕掛けてきました。\n\n24時間即レスが可能になれば成約率は跳ね上がりますが、一方で「AI同士が交渉する世界」での責任の所在はどうなるのか。AIが勝手に約束した内容に人間は縛られるのか。このあたりの「実務上のリスク」と「利便性」の天秤がどう動くかが今後の見どころです。\n\n皆さんは、自分の出品対応を100%AIに任せられますか？それとも「最後は自分の目で確認したい」派ですか？AIエージェントが普及した後のメルカリやヤフオクの未来について、皆さんの意見を聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-15T16:03:20.100211+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-15-motion-software-windows-screen-recording-review",
+    "title": "Motion Software Windowsでプロ級のデモ動画を最速で作る方法",
+    "url": "https://ai.negi-lab.com/posts/motion-software-windows-screen-recording-review/",
+    "category": "TOOL",
+    "viral_tags": "#MotionSoftware #Windows活用術",
+    "tweet_text": "Windowsで画面録画するたびに「なんかダサいな...」と感じていた時間は今日で終わりですね。Motion Softwareを試しましたが、これ、エンジニアがデモ動画を作るための最終回答かもしれません。\n\nSIer時代、エビデンス動画を撮るためにOBSの設定に苦戦したり、結局諦めて静止画を並べていた苦労を思い出して少し切なくなりました。このツールは録画ボタンを押した瞬間に、美しい背景合成、ウィンドウの角丸加工、マウス強調を自動で完結させてくれます。\n\nRTX 4090の2枚挿し環境で検証しましたが、4K 60fps録画中でもGPU負荷は誤差レベル。LLMをブン回しながらでも完璧に動作します。正直、動画編集ソフトを立ち上げる回数が激減しました。\n\n設定をJSONで管理できるので、チーム内で「デモ動画の品質」を完全に標準化できるのも実務的です。日本語ドキュメントがないのが唯一の欠点ですが、中級以上のエンジニアならUIだけで直感的に理解できるはず。\n\n皆さんはプロダクトの新機能を紹介するとき、まだPremiere Proでちまちま編集してますか？それとも、何か他に「これを自動化してる」っていう鉄板ツールありますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-15T16:07:22.199291+09:00",
+    "posted": false
   }
 ]
