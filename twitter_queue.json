@@ -6931,5 +6931,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-15T23:59:52.101995+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-16-google-wiz-acquisition-32b-cloud-security-ai",
+    "title": "GoogleがWizを320億ドルで買収完了。AIインフラの「安全保障」がGoogle Cloudへ集約される",
+    "url": "https://ai.negi-lab.com/posts/google-wiz-acquisition-32b-cloud-security-ai/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleCloud #Wiz",
+    "tweet_text": "GoogleがWizを320億ドルで買収完了。このニュースの裏側にある「AI開発のリアル」が重要です。\n\n元SIerエンジニアとして断言しますが、セキュリティソフトの「エージェント導入」ほど現場を疲弊させる作業はありませんでした。サーバー1台ずつ許可を取ってプログラムを入れ、OS更新で落ちる恐怖に怯える。そんな時代が、Wizの「エージェントレス」技術とGoogleの資本力で過去のものになろうとしています。\n\n320億ドル（約4.8兆円）という、モトローラ買収の2.5倍以上の金額。これは単なるセキュリティ強化ではなく、企業の機密データをLLMにぶち込むための「安全な土台」をGoogleが独占するための先行投資です。\n\nVertex AIとWizが統合されれば、Pythonでコードを書きながら、データパイプラインの脆弱性をリアルタイムで自動検知できる。まさにAI時代の開発者が求めていた環境です。AWSやAzureを使っている人も他人事ではありません。管理ツールはGoogleを使う、という「逆転現象」が起きるでしょう。\n\n皆さんの現場では、クラウドのセキュリティ設定ミス、どうやって防いでいますか？手動のチェックシート、まだ使っていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-16T02:29:08.673578+09:00",
+    "posted": false
   }
 ]

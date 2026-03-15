@@ -2981,19 +2981,6 @@
       "collected_at": "2026-03-15T16:02:51"
     },
     {
-      "source": "Product Hunt",
-      "title": "LaterAI",
-      "url": "https://www.producthunt.com/products/laterai-save-read-listen",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI-powered reading, 100% on your device </p> <p> <a href=\"https://www.producthunt.com/products/laterai-save-read-listen?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1098132?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-15T16:02:51"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Agents given the choice between natural language and structured queries abandoned NL within minutes",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtxkm1/agents_given_the_choice_between_natural_language/",
@@ -3212,7 +3199,74 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rue2f4/qwen3527b_performs_almost_on_par_with_397b_and/\"> <img alt=\"Qwen3.5-27B performs almost on par with 397B and GPT-5 mini in the Game Agent Coding League\" src=\"https://preview.redd.it/mgz0uly6n7pg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=19bed5e375adad69f13f48bd1ca9c1b7da9f0817\" title=\"Qwen3.5-27B performs almost on par with 397B and GPT-5 mini in the Game Agent Coding League\" /> </a> </td><td> <!-- SC_OFF --><",
       "extra": {},
       "collected_at": "2026-03-15T23:59:24"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Wiz investor unpacks Google’s $32B acquisition",
+      "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 15 Mar 2026 15:30:33 +0000",
+      "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+      "extra": {},
+      "collected_at": "2026-03-16T02:28:31"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Aura Water: Private Hydration",
+      "url": "https://www.producthunt.com/products/aura-water",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Offline water tracker with a private AI hydration coach </p> <p> <a href=\"https://www.producthunt.com/products/aura-water?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090769?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-16T02:28:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Query Memory",
+      "url": "https://www.producthunt.com/products/query-memory",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> One API for all documents your AI agents need </p> <p> <a href=\"https://www.producthunt.com/products/query-memory?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1098567?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-16T02:28:34"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Homelab has paid for itself! (at least this is how I justify it...)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rug5go/homelab_has_paid_for_itself_at_least_this_is_how/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-15T14:57:18+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rug5go/homelab_has_paid_for_itself_at_least_this_is_how/\"> <img alt=\"Homelab has paid for itself! (at least this is how I justify it...)\" src=\"https://preview.redd.it/djmmoczj38pg1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=60d9f2a45a7ff1e6716b8d511feaebd5973fd31a\" title=\"Homelab has paid for itself! (at least this is how I justify it...)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey, I th",
+      "extra": {},
+      "collected_at": "2026-03-16T02:28:36"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 27B works GREAT as a LORE MASTER!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rueru6/qwen_27b_works_great_as_a_lore_master/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-15T14:00:15+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I don't use LLMs to write. Never been an interest of mine, prefer my own voice, my own style.</p> <p>That said, I've always wished I had a second brain to help me analyze certain aspects of my story bible, which can get pretty complex. Local models just haven't been up to the task, and I have no intention of letting closed models train on my original ideas.</p> <p>I've been super pleased with Qwen 27B for long context analysis, so I thought I'd give it a try wit",
+      "extra": {},
+      "collected_at": "2026-03-16T02:28:36"
     }
   ],
-  "updated_at": "2026-03-15T23:59:24.360912+09:00"
+  "updated_at": "2026-03-16T02:28:36.665639+09:00"
 }
