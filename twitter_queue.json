@@ -6903,5 +6903,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-15T18:38:55.095518+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-15-clawsecure-ai-agent-security-review",
+    "title": "ClawSecureの使い方：OpenClawエージェントの暴走を防ぐセキュリティ対策",
+    "url": "https://ai.negi-lab.com/posts/clawsecure-ai-agent-security-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #ClawSecure",
+    "tweet_text": "SIer時代、サーバー一台の操作権限をもらうのに数週間かかる「ハンコ文化」に辟易していた。でも今、AIエージェントが数秒でOSコマンドを叩く時代になって、あの頃の「慎重さ」が正しかったと思い知らされている。\n\nAIがプロンプトインジェクションで「rm -rf /」を自ら実行してしまうリスク。これを防ぐのがClawSecureだ。\n\n実際にドキュメントを読み込んで動かしてみたが、設計が実にスマート。エージェントの思考を奪うのではなく、行動の直前に「手錠」をかけるインターセプター方式。OpenClawを使っているなら、pip installから2分で「本番レベルのガードレール」が手に入る。\n\n特に気に入ったのは、セキュリティルールに抵触した際の透明性だ。「なぜ止まったか」がログとして明確に残るため、開発時のデバッグを妨げない。\n\n自律型エージェントを「おもちゃ」で終わらせず、実務の現場に投入したいエンジニアは一度触っておくべき。ただ、日本語特有の住所や氏名パターンの検知はまだ自作が必要な印象。\n\nAIにどこまで権限を与えるべきか。皆さんの現場では、どのような「物理的・論理的ガードレール」を敷いていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-15T22:04:45.435657+09:00",
+    "posted": false
   }
 ]

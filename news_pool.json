@@ -1,65 +1,6 @@
 {
   "items": [
     {
-      "source": "GitHub Trending",
-      "title": "ahrm/sioyek",
-      "url": "https://github.com/ahrm/sioyek",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Sioyek is a PDF viewer with a focus on textbooks and research papers",
-      "extra": {
-        "stars_today": "75 stars today"
-      },
-      "collected_at": "2026-03-08T21:59:33"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "nlohmann/json",
-      "url": "https://github.com/nlohmann/json",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "JSON for Modern C++",
-      "extra": {
-        "stars_today": "14 stars today"
-      },
-      "collected_at": "2026-03-08T21:59:33"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "fastfetch-cli/fastfetch",
-      "url": "https://github.com/fastfetch-cli/fastfetch",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-      "extra": {
-        "stars_today": "22 stars today"
-      },
-      "collected_at": "2026-03-08T21:59:33"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "TIL: LLMs have a hidden \"agency signal\" (Â) that predicts when they should use tools — and how to exploit it (+26-58% gain)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ro255t/til_llms_have_a_hidden_agency_signal_â_that/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-08T11:04:29+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>**TL;DR:*\\</strong>* While debugging agent failures, I discovered that hidden states right before a tool call are <strong>**linearly separable*\\</strong>* from non-tool states (AUC &gt; 0.94). Here's how to extract and use this signal to dramatically improve your agents — no training needed.</p> <p>---</p> <p>## 🔍 The discovery</p> <p>I was building a ReAct agent with Qwen3 and kept running into the same problem: the model would sometimes answer directly",
-      "extra": {},
-      "collected_at": "2026-03-08T21:59:35"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude struggles to cope with ChatGPT exodus",
       "url": "https://www.forbes.com/sites/barrycollins/2026/03/06/claude-struggles-to-cope-with-chatgpt-exodus/",
@@ -2309,20 +2250,6 @@
     },
     {
       "source": "The Verge AI",
-      "title": "Gemini’s task automation is here and it’s wild",
-      "url": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-12T12:59:43-04:00",
-      "summary": "A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food delivery and rideshare apps, Gemini would be able to use certain apps on your behalf in a virtual window to take care of things like ordering dinner or getting a car to [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-13T22:10:45"
-    },
-    {
-      "source": "The Verge AI",
       "title": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
       "url": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
       "primary_category": "NEWS",
@@ -3081,19 +3008,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "The Banana App",
-      "url": "https://www.producthunt.com/products/the-banana-app",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Speak human - Where every word finds its way home </p> <p> <a href=\"https://www.producthunt.com/products/the-banana-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085687?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-15T18:34:25"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Morgen",
       "url": "https://www.producthunt.com/products/morgen-2",
       "primary_category": "TOOL",
@@ -3131,7 +3045,106 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ru6qml/you_guys_gotta_try_opencode_oss_llm/\"> <img alt=\"You guys gotta try OpenCode + OSS LLM\" src=\"https://preview.redd.it/mx9yn5lvh5pg1.png?width=140&amp;height=140&amp;auto=webp&amp;s=d55f33b311d77da973f7d7035a1b053891af5d55\" title=\"You guys gotta try OpenCode + OSS LLM\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>as a heavy user of CC / Codex, i honestly find this interface to be better than both of them. and sin",
       "extra": {},
       "collected_at": "2026-03-15T18:34:28"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Thu, 22 Jan 2026 14:00:00 GMT",
+      "summary": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>",
+      "extra": {},
+      "collected_at": "2026-03-15T22:03:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ElevenCreative by ElevenLabs",
+      "url": "https://www.producthunt.com/products/elevencreative-by-elevenlabs",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AI creative platform to bring your content to life </p> <p> <a href=\"https://www.producthunt.com/products/elevencreative-by-elevenlabs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1094999?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-15T22:04:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "DynamicLake",
+      "url": "https://www.producthunt.com/products/dynamiclake",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Dynamic Island experience for Mac with apps & notifications </p> <p> <a href=\"https://www.producthunt.com/products/dynamiclake?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097368?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-15T22:04:14"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Stable Diffusion web UI",
+      "extra": {
+        "stars_today": "53 stars today"
+      },
+      "collected_at": "2026-03-15T22:04:16"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "authelia/authelia",
+      "url": "https://github.com/authelia/authelia",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
+      "extra": {
+        "stars_today": "11 stars today"
+      },
+      "collected_at": "2026-03-15T22:04:16"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Open-Source \"GreenBoost\" Driver Aims To Augment NVIDIA GPUs vRAM With System RAM & NVMe To Handle Larger LLMs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ru98fi/opensource_greenboost_driver_aims_to_augment/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-03-15T09:00:16+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ru98fi/opensource_greenboost_driver_aims_to_augment/\"> <img alt=\"Open-Source &quot;GreenBoost&quot; Driver Aims To Augment NVIDIA GPUs vRAM With System RAM &amp; NVMe To Handle Larger LLMs\" src=\"https://external-preview.redd.it/ikCZJzoXdQb6evby-6OTJD8hUP3HC8X-HK7cRL1Bbp0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c9054c9fd943f032e85993953b8aae1b94b7498\" title=\"Open-Source &quot;GreenBoost&quot; Driver Aims To Augment",
+      "extra": {},
+      "collected_at": "2026-03-15T22:04:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "[META] Can we update the flairs?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rucepy/meta_can_we_update_the_flairs/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-15T12:08:08+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rucepy/meta_can_we_update_the_flairs/\"> <img alt=\"[META] Can we update the flairs?\" src=\"https://preview.redd.it/2ostrpuc97pg1.png?width=140&amp;height=84&amp;auto=webp&amp;s=35a292254f64114ecaa5219e90f8cdc2c7793aab\" title=\"[META] Can we update the flairs?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The flairs seem quite old, and outdated. Could we get an update to them?</p> <p><a href=\"https://preview.redd.it/2ostr",
+      "extra": {},
+      "collected_at": "2026-03-15T22:04:17"
     }
   ],
-  "updated_at": "2026-03-15T18:34:28.429136+09:00"
+  "updated_at": "2026-03-15T22:04:17.396392+09:00"
 }
