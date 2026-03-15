@@ -6917,5 +6917,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-15T22:04:45.435657+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-15-laterai-on-device-ai-reading-review",
+    "title": "LaterAI 使い方と評価：100%ローカル動作のAIリーディングツールを実務視点でレビュー",
+    "url": "https://ai.negi-lab.com/posts/laterai-on-device-ai-reading-review/",
+    "category": "TOOL",
+    "viral_tags": "#LaterAI #ローカルLLM",
+    "tweet_text": "ブラウザ拡張でAI要約を使うとき「このデータ、OpenAIに送られてるよな…」と一瞬でも躊躇したことがある人へ。\n\nProduct Huntで見つけた「LaterAI」が、その懸念を力技で解決してくれました。最大の特徴は、100%ローカル（デバイス内）でAI推論が完結すること。記事の要約も、オフラインでの音声読み上げも、一切の外部通信なしで動きます。\n\nSIer時代、社外秘のドキュメントをAIに投げられなくて歯痒い思いをしましたが、これなら自分のローカルGPU（私はRTX 4090×2で検証）をフル活用して、セキュアに知識を消化できる。\n\n実際に触ってみたところ、M2 Macや最近のGPU搭載機ならレスポンスは0.5秒前後。API料金もトークン制限も気にせず、1,000件の記事を一気にバッチ処理してmp3化するのも余裕です。\n\n「便利だけどデータは渡したくない」というエンジニアのわがままを形にしたようなツール。一方で、低スペックPCだとファンが唸り声を上げるので注意が必要です。\n\nローカルLLMを自分のワークフローに組み込んでる人、他にどんなツールと組み合わせてますか？私はRSSリーダーと自作スクリプトで連携させてますが、もっとスマートな方法があれば知りたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-15T23:59:52.101995+09:00",
+    "posted": false
   }
 ]
