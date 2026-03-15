@@ -6875,5 +6875,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-15T16:07:22.199291+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-15-gemini-task-automation-pixel10-samsung-s26-analysis",
+    "title": "Geminiがアプリを代行操作する「Task Automation」の実力とPixel 10・Samsung S26が変えるモバイルの定義",
+    "url": "https://ai.negi-lab.com/posts/gemini-task-automation-pixel10-samsung-s26-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Gemini #AIエージェント",
+    "tweet_text": "GoogleとSamsungが発表したGeminiの「Task Automation」が、想像以上にエグい方向に進化しています。\n\nこれ、単なるAPI連携じゃありません。\nAIがAndroidの仮想ウィンドウの中で、人間と同じようにアプリの画面を「見て」、ボタンを「押して」、フードデリバリーや配車を完結させるんです。\n\nSIer時代にRPAの壊れやすさに絶望したエンジニアの私からすると、LLMの視覚理解でUI操作の不確実性を突破しようとするアプローチは、狂気すら感じる力技。\nついにApple IntelligenceのApp Intentsに対抗する、本気の「OSレベルのAIエージェント」が来ました。\n\n対象はPixel 10やGalaxy S26。\nアプリ開発者は、今すぐ「アクセシビリティ」の対応状況を見直すべきです。\nAIが画面を理解できないアプリは、存在しないも同然になる未来がすぐそこまで来ています。\n\n皆さんは、AIに自分のスマホを自由に操作させることに抵抗ありますか？\n「誤発注が怖い」か「便利ならOK」か、意見が分かれそうですね。\n具体的な懸念点や、AIに任せたい面倒な操作があれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-15T18:34:56.655858+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-15-the-banana-app-review-human-readable-ui-copy",
+    "title": "The Banana App レビュー 自然な表現へ変換する開発者向けライティングツール",
+    "url": "https://ai.negi-lab.com/posts/the-banana-app-review-human-readable-ui-copy/",
+    "category": "TOOL",
+    "viral_tags": "#TheBananaApp #UIUXデザイン",
+    "tweet_text": "SIer時代、深夜までエラーメッセージの文言をExcelで管理していた苦行を思い出しました…。あの不毛な作業を過去のものにするツール「The Banana App」が面白い。\n\n一言でいうと、無機質なシステムメッセージを「血の通った人間の言葉」に変換する開発者向けミドルウェア。APIのレスポンスをそのまま流し込めば、プロダクトのトーンに合わせたUI文言が爆速で生成されます。\n\n実際にPython SDKで試したところ、導入はpip installから2分で完了。レスポンスも約0.3〜0.5秒と実用圏内です。ChatGPTを直接叩くのと何が違うのか？という点ですが、最大の価値は「コンテキストの固定」と「トーンの維持」に特化していること。\n\n「エラー：404」を「お探しのページが見つかりませんでした」に書き換えるのは簡単ですが、サービス独自の「親しみやすさ」を24時間365日、全メッセージで保つのは至難の業。そこを自動化できるのは、UI/UXにリソースを割けないチームにとって大きな武器になりますね。\n\nただ、日本語の敬語の微調整には少しコツがいる印象。みなさんの開発現場では、システム文言のクオリティ管理、どうしてますか？手動リライト？それともテンプレート？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-15T18:38:55.095518+09:00",
+    "posted": false
   }
 ]
