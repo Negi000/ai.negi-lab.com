@@ -7099,5 +7099,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-17T03:01:13.481999+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-17-nvidia-blackwell-vera-rubin-1-trillion-projection",
+    "title": "Nvidiaが1兆ドル規模のAI市場を独占する未来：BlackwellとVera Rubinが変える開発現場の常識",
+    "url": "https://ai.negi-lab.com/posts/nvidia-blackwell-vera-rubin-1-trillion-projection/",
+    "category": "NEWS",
+    "viral_tags": "#NvidiaBlackwell #VeraRubin",
+    "tweet_text": "Nvidiaのジェンスン・ファンCEOが放った「1兆ドルの受注予測」という数字。これ、単なる強気の経営計画じゃなくて、世界中の既存データセンターが丸ごとNvidiaのAI工場に置き換わるという宣言ですね。\n\n次世代のBlackwell、そして2026年のVera Rubinまでが既に顧客の予算に組み込まれている異常事態。SIer時代を思い返すと、5年先のスペックを確定させて予約しなきゃいけないなんて、インフラ構築の常識が完全に崩壊してます。\n\n特にBlackwellの「FP4演算」は実務へのインパクトがデカい。精度を保ちつつ推論スループットを30倍に跳ね上げるハードウェアの暴力。開発者は今後、Nvidia NIMのような垂直統合されたエコシステムにどう向き合うかが問われます。\n\n利便性と引き換えに「CUDAロックイン」はもう逃げられないレベルに。RTX 4090を2枚挿して検証してる身としても、このインフラ独占のスピード感には畏怖すら覚えます。\n\n皆さんの現場では、Nvidia以外の選択肢（AMDや内製TPUなど）を検討する余裕、まだありますか？それとも「もうNvidia一択」と割り切っていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-17T06:52:24.645478+09:00",
+    "posted": false
   }
 ]
