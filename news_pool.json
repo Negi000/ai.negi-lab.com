@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "source": "r/MachineLearning",
-      "title": "[D] Self-Promotion Thread",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rihows/d_selfpromotion_thread/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-02T03:15:30+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your personal projects, startups, product placements, collaboration needs, blogs etc.</p> <p>Please mention the payment and pricing requirements for products and services.</p> <p>Please do not post link shorteners, link aggregator websites , or auto-subscribe links.</p> <p>--</p> <p>Any abuse of trust will lead to bans.</p> <p>Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so kee",
-      "extra": {},
-      "collected_at": "2026-03-09T14:01:21"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I built an Android audiobook reader that runs Kokoro TTS fully offline on-device",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rop1rp/i_built_an_android_audiobook_reader_that_runs/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-09T03:12:54+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rop1rp/i_built_an_android_audiobook_reader_that_runs/\"> <img alt=\"I built an Android audiobook reader that runs Kokoro TTS fully offline on-device\" src=\"https://external-preview.redd.it/cGFrajB4enZxeG5nMWTcgZXtJpF-0RJq6fnVpcJV9bHAe-WYHkg-_MxZr4jf.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3bf017f461cf475db4de66748353564b592ca48\" title=\"I built an Android audiobook reader that runs Kokoro TTS fully offline on-device\" /",
-      "extra": {},
-      "collected_at": "2026-03-09T14:01:25"
-    },
-    {
       "source": "Product Hunt",
       "title": "Unite Pro for macOS",
       "url": "https://www.producthunt.com/products/unite-for-macos",
@@ -3185,20 +3157,6 @@
       "collected_at": "2026-03-16T06:37:52"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
-      "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "Mon, 16 Mar 2026 00:30:00 +0000",
-      "summary": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
-      "extra": {},
-      "collected_at": "2026-03-16T12:21:21"
-    },
-    {
       "source": "Google News",
       "title": "人気AI、10代の若者に「栄養不足な過激ダイエット」を勧めてしまう - ナゾロジー",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOXBtMWxwMVdfZ3FlNTdWb1Fsdl9fX2RweWdLUXlWeHZYdEcwUmJlNE8yMkVIbTFLemRXcFdLelp1ZU8tRllNY1NHbUliTi1CS3hF?oc=5",
@@ -3236,7 +3194,47 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I remember there was a lot of debate as to whether or not this was worthwhile back when Qwen3-30B-A3B came out. A few people even swore by <em>&quot;Qwen3-30b-A6B&quot;</em> for a short while.</p> <p>It's still an easy configuration in Llama-CPP, but I don't really see any experimentation with it anymore.</p> <p>Has anyone been testing around with this much?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ForsookComparison\"",
       "extra": {},
       "collected_at": "2026-03-16T12:21:39"
+    },
+    {
+      "source": "r/MachineLearning",
+      "title": "[D] Self-Promotion Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rihows/d_selfpromotion_thread/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-02T03:15:30+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your personal projects, startups, product placements, collaboration needs, blogs etc.</p> <p>Please mention the payment and pricing requirements for products and services.</p> <p>Please do not post link shorteners, link aggregator websites , or auto-subscribe links.</p> <p>--</p> <p>Any abuse of trust will lead to bans.</p> <p>Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so kee",
+      "extra": {},
+      "collected_at": "2026-03-16T14:24:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.5 122b - a10b is kind of shocking",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ruz555/qwen_35_122b_a10b_is_kind_of_shocking/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-16T03:53:38+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m building an app with this model locally, and I’ve been genuinely surprised by how naturally it reasons through tasks.</p> <p>At one point it said:<br /> “Now that both services are created, I need to create the API routes - let me first look at how existing routes are structured to follow the same pattern.”</p> <p>That kind of self guided planning feels unusually intuitive for a local model.</p> <p>Models like this are a reminder of how powerful open and loc",
+      "extra": {},
+      "collected_at": "2026-03-16T14:24:04"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The timeline gets weirder",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rv0epr/the_timeline_gets_weirder/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-16T05:00:42+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rv0epr/the_timeline_gets_weirder/\"> <img alt=\"The timeline gets weirder\" src=\"https://preview.redd.it/ustx49pr9cpg1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cd38e55d0ac420a2eb4113ca6d9a72a79ba0d796\" title=\"The timeline gets weirder\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jester_kitten\"> /u/jester_kitten </a> <br /> <span><a href=\"https://i.redd.it/ustx49pr9cpg1.jpeg\">[link]</",
+      "extra": {},
+      "collected_at": "2026-03-16T14:24:04"
     }
   ],
-  "updated_at": "2026-03-16T12:21:39.251476+09:00"
+  "updated_at": "2026-03-16T14:24:04.604376+09:00"
 }

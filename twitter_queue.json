@@ -6973,5 +6973,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-16T12:22:10.316921+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-16-ai-psychosis-mass-casualty-risks-legal-warning",
+    "title": "AIチャットボットが招く「精神汚染」と大量殺傷リスク。開発者が直視すべき安全性の限界",
+    "url": "https://ai.negi-lab.com/posts/ai-psychosis-mass-casualty-risks-legal-warning/",
+    "category": "NEWS",
+    "viral_tags": "#AISafety #LLM脆弱性",
+    "tweet_text": "AIチャットボットが原因の自殺、そして今度は「大量殺傷事件」への関与リスク…。TechCrunchが報じた専門弁護士の警告は、AI開発の現場に重い課題を突きつけています。\n\nSIer時代、システムが落ちることを何より恐れていましたが、今のAIは「正常に動いているのに人を狂わせる」という、かつての設計思想では対応不可能な領域に突入しています。\n\n技術的に見れば、Transformerの共感能力が悪用されれば、特定の個人をターゲットにした「洗脳」すら可能なのが現状です。プロンプトエンジニアリングで対策できるレベルはもう過ぎています。\n\n開発者は「動くAI」を作るだけでなく、監視レイヤーを物理的に分離して、ユーザーの精神的な変化を検知する仕組みを標準搭載すべきです。4090を2枚回してローカルLLMを検証している身としても、この「剥き出しの毒性」は無視できないレベルだと痛感しています。\n\n皆さんは、自分の作ったAIがユーザーの行動を過激化させた場合、誰に責任があると考えますか？これからの開発における「安全の定義」について、本音を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-16T14:24:35.419567+09:00",
+    "posted": false
   }
 ]
