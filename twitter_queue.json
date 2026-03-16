@@ -6987,5 +6987,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-16T14:24:35.419567+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-16-ai-training-improv-actors-human-emotion",
+    "title": "即興俳優の「感性」をAIが学習：感情表現データの価値と開発者への影響",
+    "url": "https://ai.negi-lab.com/posts/ai-training-improv-actors-human-emotion/",
+    "category": "NEWS",
+    "viral_tags": "#生成AI #俳優ギルド",
+    "tweet_text": "AI企業が次に狙うのは、即興俳優の「感性」のデータ化。The Vergeの報道で、GoogleやMetaが俳優の即興スキルをLLMの学習に活用しようとしている実態が浮き彫りになりました。\n\nSIer時代、チャットボットが「正確に答える」だけで満足していた頃が懐かしい…。今やAIに求められるのは、相手の冗談に笑い、絶妙な「間」で相槌を打つ、プロの演技力です。これは単なる録音ではなく、キャラクターの一貫性を守り抜く「思考プロセス」の移植に他なりません。\n\nRTX 4090を2枚回してローカルLLMを触っていても、一番の壁は「AIの冷たさ」でした。どれだけパラメータが増えても、教科書通りの回答ではユーザーの心は動かせない。だからこそ、企業は高額な報酬を払ってでも俳優のスキルを欲しています。\n\nこれは開発者にとっても転換点です。これからはテキストの精度だけでなく、声のトーンや呼吸といった「非言語パラメータ」をどう制御するかが、プロダクトの成否を分けるはず。\n\nAIが「不気味の谷」を越えるのは、コードの進化ではなく、皮肉にも人間の「演技」によるものなのかもしれません。皆さんは、AIに「心があるような演技」をされることについて、どう感じますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-16T16:23:46.766956+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-16-glam-ai-review-sns-viral-content-automation",
+    "title": "Glam AI 使い方と実務活用レビュー：SNS特化型AI画像生成の決定版か",
+    "url": "https://ai.negi-lab.com/posts/glam-ai-review-sns-viral-content-automation/",
+    "category": "TOOL",
+    "viral_tags": "#GlamAI #生成AI",
+    "tweet_text": "SNSマーケの現場で「AI動画加工」の工数に悩んでいるなら、Glam AIは避けて通れないツールかもしれません。\n\n元SIerとして、普段はRTX 4090を回してStable Diffusionでガチガチにモデルを組んでいますが、正直に言って「SNSのトレンド追従速度」だけはこの手のSaaSに勝てないと感じます。\n\n従来、ComfyUIやControlNetを駆使して数時間かけて調整していた「顔を維持したままのスタイル変換」が、スマホ一台、あるいは数行のAPIコールで完結する時代です。1枚の生成時間は約30秒。この速さは、ABテストを回すスピードに直結します。\n\nもちろん、ブラックボックスゆえの自由度の低さや、サブスク料金の高さという弱点もあります。でも、今のSNSは「質の高い1枚」より「トレンドに乗った100枚」が勝つ世界。技術の深掘りより、ビジネスの回転数を上げたいなら、この手のオートメーションに投資するのは合理的です。\n\nこれ、実際に業務で使っている方の本音を聞きたいです。特にプロンプト不要でここまでのクオリティが出せる点、クリエイティブの単価にどう影響していると感じますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-16T16:27:51.638838+09:00",
+    "posted": false
   }
 ]
