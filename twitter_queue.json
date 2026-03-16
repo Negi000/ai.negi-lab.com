@@ -7085,5 +7085,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-17T00:43:30.370998+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-17-nvidia-gtc-2026-rubin-physical-ai-preview",
+    "title": "Nvidia GTC 2026直前予測｜Blackwellの先にある「自律型AI」の正体",
+    "url": "https://ai.negi-lab.com/posts/nvidia-gtc-2026-rubin-physical-ai-preview/",
+    "category": "NEWS",
+    "viral_tags": "#GTC2026 #NvidiaRubin",
+    "tweet_text": "2026年のNvidia GTC予測。ジェンスン・ファンの基調講演が、単なる「速いチップ」の発表で終わらないことは明白です。これからはAIが画面を出て、物理世界を動かす「物理AI」の時代。\n\n次世代Rubinアーキテクチャの噂を深掘りすると、HBM4採用によるメモリ帯域の飛躍（11.5 TB/s予測）と、FP2量子化の実用化が見えてきます。これはLLMの推論速度が劇的に変わるだけでなく、ロボティクスの制御がクラウドなしで完結するレベルに達することを意味します。\n\nSIer時代、ハードウェアの制約に泣かされた経験から言わせてもらえば、この性能向上は「魔法」に近いです。でも魔法には代償があります。CUDA 13（予測）への対応やOmniverseでのシミュレーション学習など、ソフトウェア側に求められる要求水準も一気に上がります。\n\nもはや「プロンプトエンジニア」なんて言葉は死語。物理演算とメモリ最適化を理解するエンジニアだけが、この巨大な計算資源を乗りこなせるようになります。\n\n皆さんは次のGPU更新、クラウドのRubinインスタンスに全振りしますか？それともローカル環境を意地でも維持しますか？私は4090を2枚挿したまま、Rubin世代の動向を注視します。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-17T03:01:13.481999+09:00",
+    "posted": false
   }
 ]
