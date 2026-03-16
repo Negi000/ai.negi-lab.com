@@ -2972,19 +2972,6 @@
       "collected_at": "2026-03-16T06:37:50"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.5-9B-Claude-4.6-Opus-Uncensored-Distilled-GGUF",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1runlpf/qwen359bclaude46opusuncensoreddistilledgguf/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-15T19:43:03+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone. I made my first fully uncensored LLM model for this community. Here link:<br /> <a href=\"https://huggingface.co/LuffyTheFox/Qwen3.5-9B-Claude-4.6-Opus-Uncensored-Distilled-GGUF\">https://huggingface.co/LuffyTheFox/Qwen3.5-9B-Claude-4.6-Opus-Uncensored-Distilled-GGUF</a></p> <p>Thinking is disabled by default in this model via modified chat template baked in gguf file. </p> <p>So, I love to use Qwen 3.5 9B especially for roleplay writing and prompt",
-      "extra": {},
-      "collected_at": "2026-03-16T06:37:52"
-    },
-    {
       "source": "Google News",
       "title": "人気AI、10代の若者に「栄養不足な過激ダイエット」を勧めてしまう - ナゾロジー",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQOXBtMWxwMVdfZ3FlNTdWb1Fsdl9fX2RweWdLUXlWeHZYdEcwUmJlNE8yMkVIbTFLemRXcFdLelp1ZU8tRllNY1NHbUliTi1CS3hF?oc=5",
@@ -3226,19 +3213,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Refgrow 2.0",
-      "url": "https://www.producthunt.com/products/refgrow",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Grow your revenue with referrals </p> <p> <a href=\"https://www.producthunt.com/products/refgrow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1094488?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-16T22:24:32"
-    },
-    {
-      "source": "Product Hunt",
       "title": "MuleRun",
       "url": "https://www.producthunt.com/products/mulerun",
       "primary_category": "TOOL",
@@ -3319,7 +3293,99 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Qwen3.5-35B GGUF quants (16–22 GiB) - KLD + speed comparison</h1> <p>I'm back with some more benchmarks. I benchmarked the KLD divergence of the actual Qwen3.5-35B-A3B GGUF quantizations (16–22 GiB) available on Hugging Face.</p> <p>KLD: The Kullback-Leibler divergence which shows how similar the FP16 and the quantized logit distributions are by measuring the difference in probability distributions between the quantized model and the FP16 baseline on a referenc",
       "extra": {},
       "collected_at": "2026-03-16T22:24:35"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
+      "url": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "Mon, 16 Mar 2026 14:30:55 +0000",
+      "summary": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
+      "extra": {},
+      "collected_at": "2026-03-17T00:42:55"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Yahoo CEO Jim Lanzone on reviving the web&#8217;s homepage",
+      "url": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-16T11:00:00-04:00",
+      "summary": "Today, I’m talking with Jim Lanzone, who is the CEO of Yahoo. It’s basically impossible to sum up the Yahoo story, but the short version of it is that a long time ago Yahoo paid Google to run the search box on its website, and basically everything has gone sideways since. You’ll hear Jim refer [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-17T00:42:55"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Knock",
+      "url": "https://www.producthunt.com/products/knock-7",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Knock on your MacBook to control your Mac </p> <p> <a href=\"https://www.producthunt.com/products/knock-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1098843?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-17T00:42:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Spott",
+      "url": "https://www.producthunt.com/products/spott-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Spott is the AI-native ATS & CRM for recruiting firms </p> <p> <a href=\"https://www.producthunt.com/products/spott-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097589?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-17T00:42:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "NVIDIA Rubin: 336B Transistors, 288 GB HBM4, 22 TB/s Bandwidth, and the 10x Inference Cost Claim in Context",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rv7g56/nvidia_rubin_336b_transistors_288_gb_hbm4_22_tbs/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-16T11:59:27+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rv7g56/nvidia_rubin_336b_transistors_288_gb_hbm4_22_tbs/\"> <img alt=\"NVIDIA Rubin: 336B Transistors, 288 GB HBM4, 22 TB/s Bandwidth, and the 10x Inference Cost Claim in Context\" src=\"https://external-preview.redd.it/osQcytzmXffUlkX9umPObBLWFB486qiNPxl0T5rxn90.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4842d67ef3748e8a89badec2bb619d0cfae26d0\" title=\"NVIDIA Rubin: 336B Transistors, 288 GB HBM4, 22 TB/s Bandwidth, and th",
+      "extra": {},
+      "collected_at": "2026-03-17T00:43:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Residual connections haven't changed for 10 years and Kimi just replaced them with attention",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rv7ige/residual_connections_havent_changed_for_10_years/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-16T12:02:17+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rv7ige/residual_connections_havent_changed_for_10_years/\"> <img alt=\"Residual connections haven't changed for 10 years and Kimi just replaced them with attention\" src=\"https://preview.redd.it/g53n3bj9depg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=23472ee7b107b6d21f34d3571f86e27142ee1b20\" title=\"Residual connections haven't changed for 10 years and Kimi just replaced them with attention\" /> </a> </t",
+      "extra": {},
+      "collected_at": "2026-03-17T00:43:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.5-9B on document benchmarks: where it beats frontier models and where it doesn't.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rv98wo/qwen359b_on_document_benchmarks_where_it_beats/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-16T13:20:41+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rv98wo/qwen359b_on_document_benchmarks_where_it_beats/\"> <img alt=\"Qwen3.5-9B on document benchmarks: where it beats frontier models and where it doesn't.\" src=\"https://preview.redd.it/8u6eutqymepg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c032474f0935f4a3f231e3f3bcf18d74e95be531\" title=\"Qwen3.5-9B on document benchmarks: where it beats frontier models and where it doesn't.\" /> </a> </td><td> <!-- SC_OFF --><div clas",
+      "extra": {},
+      "collected_at": "2026-03-17T00:43:00"
     }
   ],
-  "updated_at": "2026-03-16T22:24:35.965016+09:00"
+  "updated_at": "2026-03-17T00:43:00.508455+09:00"
 }

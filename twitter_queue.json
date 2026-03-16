@@ -7071,5 +7071,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-16T22:29:08.301601+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-17-zerosettle-review-apple-tax-bypass-sdk",
+    "title": "ZeroSettleでApple Tax 30%を回避する実装方法と規約の境界線",
+    "url": "https://ai.negi-lab.com/posts/zerosettle-review-apple-tax-bypass-sdk/",
+    "category": "TOOL",
+    "viral_tags": "#ZeroSettle #AppleTax",
+    "tweet_text": "iOSアプリ開発者にとって長年の悩みである「Apple Tax 30%」。特に利益率がシビアなAIトークン課金型のアプリだと、この手数料のせいで事業が成立しないケースも多いですよね。\n\n今回調査したZeroSettleは、この構造的な問題を「外部決済へのドロップイン統合」で解決しようとする野心的なSDKです。Stripeなどの外部決済をアプリ内に組み込む際、Appleの複雑な規約（Entitlements）に準拠したフローを数行のコードで実装できるのが強み。\n\nSIer時代、決済システムの組み込みだけで数ヶ月溶かしていた経験からすると、これほど「規約の隙間」を技術で埋めてくれるツールは非常に興味深いです。実装は簡単ですが、Appleの審査基準という動く標的をどう捉えるかが運用の肝になります。\n\n「決済はWebに逃がすべきか、利便性を取ってIAPを維持すべきか」という議論は尽きませんが、選択肢としてこれを持っておくのは強い。実際に1000円の決済で手残りが250円以上変わってくるインパクトは、個人開発者ほど無視できないはずです。\n\n皆さんはAppleの手数料、どう対策していますか？「あえてIAP一本でCVRを優先する」という意見も含め、実務での判断基準が気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-17T00:43:30.370998+09:00",
+    "posted": false
   }
 ]
