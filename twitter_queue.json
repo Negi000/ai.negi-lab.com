@@ -7043,5 +7043,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-16T19:10:47.786664+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-16-refgrow-2-referral-system-review-api-guide",
+    "title": "Refgrow 2.0 使い方とレビュー 開発工数を削減してリファラル機能を実装する方法",
+    "url": "https://ai.negi-lab.com/posts/refgrow-2-referral-system-review-api-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Refgrow #SaaS開発",
+    "tweet_text": "リファラル機能の実装って、実はエンジニア泣かせですよね。紹介リンクの有効期限、重複登録の排除、決済完了時のフック、そして報酬の確定ロジック…。SIer時代に自前で組んだことがありますが、ビジネスルールが変わるたびにDBとロジックがスパゲッティ化して、最終的には保守不能な負債になりました。\n\nRefgrow 2.0を触ってみて感じたのは「紹介ロジックのステートマシン化」という思想の美しさ。SDKを数行入れるだけで、面倒な状態管理を外側に切り出せます。Stripe連携も強力で、決済イベントをトリガーに報酬を自動確定できるのはデカい。\n\n「とりあえず自作」で1ヶ月溶かすくらいなら、最初からこういうツールをAPIで叩くのが正解。英語ドキュメントの壁はありますが、Python歴の長い私から見てもSDKの作りは素直で、中級者以上ならすぐ扱えます。成長フェーズのSaaS開発で「紹介機能の優先度は高いけど工数はかけたくない」という場面なら、これ以上の選択肢はなかなかないはず。皆さんの現場では、紹介機能を自前で保守し続けてますか？それとも外部ツールに逃がしてますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-16T22:25:04.869190+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-16-qwen3-5-9b-uncensored-gguf-setup-guide",
+    "title": "Qwen3.5-9B-Claude-4.6-Opus-Uncensored-Distilled-GGUF 使い方入門",
+    "url": "https://ai.negi-lab.com/posts/qwen3-5-9b-uncensored-gguf-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "ローカルLLMの「説教」に疲れ果てた人へ。\n\nついに決定版かもしれません。Qwen3.5-9BをベースにClaude相当のデータで蒸留された、完全検閲なし（Uncensored）のモデルを試しました。モデル名が「Claude 4.6」とか名乗っていて正直怪しいなと思いましたが、実力は本物。9Bとは思えない日本語のキレの良さに驚いています。\n\n特にGGUFで「Thinking」を無効化した設定が絶妙で、創作活動でのレスポンスが爆速。RTX 3060クラスのミドルレンジGPUでもサクサク動くのが嬉しいですね。SIer時代、これがあれば設計書のアイデア出しがどれほど捗ったことか…。\n\n今回はこのモデルをPythonから1分で動かし、さらに会話を記憶する実用的な「ハードボイルド探偵ボット」に仕立てるまでの手順をまとめました。環境構築の落とし穴も全部潰してあります。\n\n「AIに倫理観を押し付けられずに、自由に創作したい」\n「9Bクラスで最強の日本語モデルを探している」\n\nそんな方は、自分のPCでこの圧倒的な自由度を体験してみてください。皆さんは、ローカルモデルの「賢さ」と「自由度」、どちらを優先しますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-16T22:29:08.301601+09:00",
+    "posted": false
   }
 ]
