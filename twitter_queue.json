@@ -7015,5 +7015,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-16T16:27:51.638838+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-16-claude-ai-charts-artifacts-update-review",
+    "title": "Claudeのグラフ描画機能が衝撃。ChatGPTのデータ分析を超える実用性",
+    "url": "https://ai.negi-lab.com/posts/claude-ai-charts-artifacts-update-review/",
+    "category": "NEWS",
+    "viral_tags": "#Claude3 #データサイエンス",
+    "tweet_text": "Claudeの進化が止まりませんね。ついに「Charts」機能が実装され、対話の中でグラフを即座に生成できるようになりました。\n\n正直、SIer時代にExcelと格闘していた自分に教えてあげたい。これまでのChatGPT（Advanced Data Analysis）はPythonを裏で動かすため10秒ほど待たされましたが、ClaudeはArtifacts上でコンポーネントを直接レンダリングするので爆速です。体感で1.5秒。\n\nしかも、単なる画像ではなく動的なUIに近い。この「待たせない」というUXが、ビジネス現場ではどれほど価値があるか。もはやAIはテキスト生成機ではなく、思考を即座に構造化・視覚化するツールになりました。\n\n技術的にはReactベースの描画と思われますが、プロンプト一つでここまでクリーンな図表が出てくると、BIツールの存在意義すら怪しくなってきます。実際に触ってみて、GPT-4oとの「使い勝手の差」を数字で比較してみましたが、正直もう戻れないかもしれません。\n\n皆さんはデータ分析にどのAIを使っていますか？Claudeのグラフ描画、精度や速度に満足していますか？現場での活用例があればぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-16T19:06:43.360302+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-16-masko-code-claude-cli-mascot-review",
+    "title": "Masko Code ターミナルに「表情」を与えるClaude Code専用の伴走型マスコット",
+    "url": "https://ai.negi-lab.com/posts/masko-code-claude-cli-mascot-review/",
+    "category": "TOOL",
+    "viral_tags": "#ClaudeCode #AIエージェント",
+    "tweet_text": "SIer時代、1時間を超えるビルド待ちの苦痛を誰しもが経験したはず。今のAI開発も同じで、Claude Codeが数千行のコードをリファクタリングしている「空白の数分間」をどう過ごすかがエンジニアのメンタルを左右します。\n\nそこで試してみたのが「Masko Code」。正直、最初は単なるお遊びツールだと思っていましたが、使ってみるとこれ、認知負荷の下げ方が絶妙でした。\n\nターミナルの文字を追うのをやめて、デスクトップの隅でマスコットが「考えてるポーズ」をしてる間はコーヒーを淹れに行く。この「末梢視野での状態把握」が、集中力を切らさないために意外と重要。AIエージェントという無機質な存在に、実用的な意味での「表情」が加わった感覚です。\n\n特にCLI派の人間にとって、この手のフィードバックは革命に近い。VS Codeのサイドバーを眺めるのとは、脳の使い方が根本的に違います。皆さんはAIの待ち時間、ログを凝視する派ですか？それとも別の作業に切り替える派ですか？この切り替えのタイミング、どう判断していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-16T19:10:47.786664+09:00",
+    "posted": false
   }
 ]
