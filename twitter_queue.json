@@ -7197,5 +7197,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-17T19:00:23.386343+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-17-parallax-local-ai-orchestrator-review-guide",
+    "title": "Parallax 使い方 レビュー：ローカル完結型AI開発オーケストレーターの真価",
+    "url": "https://ai.negi-lab.com/posts/parallax-local-ai-orchestrator-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Parallax #LocalLLM",
+    "tweet_text": "ついに「クラウドへコードを送らない」開発環境が実用的になってきました。\nLocal-firstなAIオーケストレーター「Parallax」をドキュメントから徹底的に読み解き、実務で使えるか検証しました。\n\n正直、これまでは「ローカルLLMじゃ開発支援は厳しい」と思っていましたが、RTX 4090などのGPU環境があれば話は別。Llama 3等の最新モデルと組み合わせることで、リポジトリ全体のコンテキストを掌握した自律的なタスク遂行が可能です。\n\n特にSIer時代の私のように、セキュリティ制約でGitHub Copilotが使えずに絶望していたエンジニアには、これこそが唯一の突破口になるはず。\nインデックス作成の速さや、Ollama連携の具体的な作法など、中級者向けに深掘りして書いています。\n\n1000ファイル規模のプロジェクトをローカルAIに「丸投げ」する感覚、一度味わうとクラウドには戻れないかもしれません。\n\n皆さんの現場では、AIツールの導入におけるセキュリティ審査、どうやって突破していますか？\nやはりローカル完結型なら話は早いのでしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-17T22:30:09.930426+09:00",
+    "posted": false
   }
 ]
