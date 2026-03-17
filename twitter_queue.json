@@ -7169,5 +7169,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-17T16:13:24.722555+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-17-memories-ai-visual-memory-layer-robotics-wearables",
+    "title": "Memories AIが変える物理AIの常識：視覚メモリレイヤーの実装でロボットは「忘れない」存在へ",
+    "url": "https://ai.negi-lab.com/posts/memories-ai-visual-memory-layer-robotics-wearables/",
+    "category": "NEWS",
+    "viral_tags": "#MemoriesAI #物理AI",
+    "tweet_text": "ウェアラブルやロボットに「長期記憶」を。Memories AIが発表した視覚メモリレイヤー(LVMM)の衝撃が凄いです。\n\n今のAIって「リアルタイムの理解」は得意ですが「3日前のあの瞬間」を思い出すのは苦手。GPT-4oに数千時間の映像を食わせるわけにもいきませんからね。Memories.aiはこのミッシングリンクを、映像のインデックス化という力技で解決しようとしています。\n\nSIer時代に監視カメラのメタデータ検索で苦労した身からすると、自然言語で「鍵を置いた場所」や「作業ミスの瞬間」を数ミリ秒で引ける世界はもはや魔法。\n\n単なる録画ではなく、物理世界での体験をAIが利用可能な「知識」に変える。これが普及すれば、デバイスの使い勝手は次元が変わります。特にヒューマノイドロボットが「自分の過去の失敗」から学べるようになる点は、実務的にかなり熱い。\n\nプライバシーの壁は高いですが、この「記憶の外部化」は止められない流れでしょう。皆さんは、自分のAIに「一生分の記憶」を預ける準備はできていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-17T18:56:22.036632+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-17-manus-ai-my-computer-desktop-automation-review",
+    "title": "My Computer by Manus AI 使い方：デスクトップ操作を自動化するAIエージェントの実力",
+    "url": "https://ai.negi-lab.com/posts/manus-ai-my-computer-desktop-automation-review/",
+    "category": "TOOL",
+    "viral_tags": "#ManusAI #AIエージェント",
+    "tweet_text": "ついに「AIにPC操作を丸投げ」が現実的なレベルになってきました。My Computer by Manus AIを触ってみましたが、これは単なるRPAの進化版ではありません。\n\n今までAPIがないレガシーソフトや、アプリを跨ぐ面倒なコピペ作業を自動化しようとすると、Pythonで座標指定して画像認識して……という苦行が必要でした。Manusは「このExcelの内容を会計ソフトに入れて」と指示するだけで、AIが画面を見て勝手にマウスを動かしてくれます。\n\nSIer時代、これがあれば数ヶ月かかった自動化案件が数日で終わったはず。RTX 4090を2枚挿してローカルLLMを回す側の視点から見ても、この「GUIの文脈理解」の精度は正直驚きです。\n\nもちろん、1アクション数秒のラグはあるし、セキュリティ的に画面をクラウドに送る抵抗感はあります。でも「APIがないから無理」という言い訳が通用しなくなる時代が来たのは確か。\n\n特に、特定のデスクトップアプリに縛られている業務を抱えている人は、試さない理由がないレベル。みなさんの周りで「これ、AIに代行させたら絶対楽になるのに」っていう古いソフト、まだ残ってませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-17T19:00:23.386343+09:00",
+    "posted": false
   }
 ]
