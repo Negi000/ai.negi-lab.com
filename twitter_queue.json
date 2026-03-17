@@ -7113,5 +7113,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-17T06:52:24.645478+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-17-nvidia-nemoclaw-enterprise-ai-agent-security",
+    "title": "Nvidiaが放つNemoClawは企業のAIエージェント導入を阻むセキュリティの壁を物理的に破壊する",
+    "url": "https://ai.negi-lab.com/posts/nvidia-nemoclaw-enterprise-ai-agent-security/",
+    "category": "NEWS",
+    "viral_tags": "#NvidiaNemo #AIエージェント",
+    "tweet_text": "Nvidiaが発表したNemoClaw、これは企業がAIエージェントを本番導入する際の「最後のパズル」を埋めに来ましたね。\n今までOpenClawやClaudeのComputer Useを見て「便利そうだけどセキュリティが無理」と諦めていた情シスへの、これ以上ない回答です。\n\n単なるラッパーではなく、GPUの機密コンピューティング層でエージェントの挙動を縛るという、Nvidiaにしかできない物理的なアプローチがエグい。\nプロンプトインジェクションで社内データを抜かれるリスクを、モデルの判断に頼らず「ハードウェアが通信を遮断する」ことで防いでいます。\n\nレスポンスもH100環境なら0.4秒台。\nAPI経由のモタつきを感じていた層には、この爆速感は衝撃のはずです。\nSIer時代、数々のAI案件がセキュリティ審査で散るのを見てきた私からすると、これは「ようやく仕事で使える道具が出てきた」という感覚。\n\nみなさんの現場では、AIエージェント導入の壁は何ですか？\nやっぱりデータの外部送信がNGなケースが多いんでしょうか。\n導入予定の構成や、懸念点についてぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-17T11:45:22.816776+09:00",
+    "posted": false
   }
 ]
