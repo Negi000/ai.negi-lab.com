@@ -7239,5 +7239,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-18T02:59:45.082088+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-18-mistral-forge-enterprise-ai-build-your-own-model",
+    "title": "Mistral Forgeで自社専用AIを「ゼロから作る」時代へ。OpenAI/Anthropicとの決定的な違い",
+    "url": "https://ai.negi-lab.com/posts/mistral-forge-enterprise-ai-build-your-own-model/",
+    "category": "NEWS",
+    "viral_tags": "#MistralForge #NVIDIAGTC",
+    "tweet_text": "AI業界の潮目が完全に変わりました。Mistral AIが発表した「Mistral Forge」が、エンタープライズAIの「RAG頼み」を終わらせるかもしれません。\n\nこれまではOpenAIのAPIを叩いて、外部から知識を補完するRAG（検索拡張生成）が主流でした。しかし、Mistral Forgeは企業が自社データを使って、モデルをゼロから「事前学習」できるプラットフォームを提供します。\n\nSIer時代にRAGのハルシネーションに泣かされた身としては、この「モデルの細胞レベルに知識を埋め込む」アプローチこそが正解だと確信しています。NVIDIAのH100/B200をフル活用し、爆速かつ安全な「自社専用AI」を構築できる。もはやAPIに高額なトークン代を払い続ける時代は終わるかもしれません。\n\nもちろん学習にはGPUコストも時間もかかりますが、長期的なROIとデータガバナンスを考えれば、トップ企業の選択肢はこれ一択になるでしょう。Python歴8年の私の視点でも、この仕組みは「おもちゃ」ではなく「重工業的なインフラ」です。\n\nみなさんの現場では、RAGの精度限界を感じていませんか？あるいは、API課金が予算を圧迫していませんか？自社専用モデルを「ゼロから作る」ことへの期待や不安を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-18T06:50:49.481095+09:00",
+    "posted": false
   }
 ]
