@@ -1,45 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
-      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 09 Mar 2026 15:58:11 +0000",
-      "summary": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
-      "extra": {},
-      "collected_at": "2026-03-10T13:49:42"
-    },
-    {
-      "source": "Google News",
-      "title": "Anthropicがアメリカ国防総省を提訴、OpenAIとGoogleの従業員はAnthropicの支持を表明 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MVTVJQzJ0RGpUT05nTWtzeWU1YzFmUFhCd2R4bFdlOHVWRTNDWDdKYlp6RTlaTkozU2tjTWpmWVR1c2lJNjNXNmZBNTRLRjBaOEZ2ZHdQdEZKQm9paUphOUx5dFJGamZOME1vSnZ6UmNVR0JVUEZVb2NoOA?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 10 Mar 2026 02:02:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1MVTVJQzJ0RGpUT05nTWtzeWU1YzFmUFhCd2R4bFdlOHVWRTNDWDdKYlp6RTlaTkozU2tjTWpmWVR1c2lJNjNXNmZBNTRLRjBaOEZ2ZHdQdEZKQm9paUphOUx5dFJGamZOME1vSnZ6UmNVR0JVUEZVb2NoOA?oc=5\" target=\"_blank\">Anthropicがアメリカ国防総省を提訴、OpenAIとGoogleの従業員はAnthropicの支持を表明</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {},
-      "collected_at": "2026-03-10T13:49:44"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Timelaps",
-      "url": "https://www.producthunt.com/products/timelaps",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Know if your marketing is working with real-time insights </p> <p> <a href=\"https://www.producthunt.com/products/timelaps?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083354?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-10T13:49:44"
-    },
-    {
       "source": "The Verge AI",
       "title": "Apple smart home display rumors now point to a fall launch with iOS 27",
       "url": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
@@ -3317,20 +3278,6 @@
       "collected_at": "2026-03-17T06:51:53"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
-      "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Mon, 16 Mar 2026 22:45:51 +0000",
-      "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw.",
-      "extra": {},
-      "collected_at": "2026-03-17T11:44:48"
-    },
-    {
       "source": "Google News",
       "title": "エヌビディアＡＩ半導体売上高、27年末までに1兆ドル到達も＝ＣＥＯ - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVC1YTHU3blBrY0dxNVFRcjdaU25zd1RhcGxTcThzLVZCVHhfb2tLTy0wRllyN01NZ2htZnRfQjFINE5YekdsXzU2Z3YzN0wwYUI3ZmFoa1lRNkZhTHVLZ0E3NUVBMHozbXlua01KbGQ1M0ZfVGQzLVpiMFM4eTJDVg?oc=5",
@@ -3370,7 +3317,47 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been running Qwen 3.5 35B for agentic workflows and hit every known bug in the official chat template. Spent time fixing all of them.</p> <h2>What's Fixed (21 total)</h2> <p><strong>The big ones:</strong> - ✅ Tool calling crash from <code>arguments | items</code> (HF discussion #4) - ✅ <code>&lt;tool_call&gt;</code> no longer leaks into <code>&lt;think&gt;</code> blocks (auto-disable thinking when tools active) - ✅ Parallel tool calls separated properly wit",
       "extra": {},
       "collected_at": "2026-03-17T11:44:54"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
+      "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 17 Mar 2026 04:01:00 +0000",
+      "summary": "Picsart's AI agent marketplace will launch with four agents, then add more agents each week.",
+      "extra": {},
+      "collected_at": "2026-03-17T14:00:44"
+    },
+    {
+      "source": "Google News",
+      "title": "製品レビューの「AIによるポジティブな要約」を読んだ人は購入する可能性が高くなる、AIのニュアンス改変が問題に - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjTzJWbW1rT081V1R5bHBHUGZwWVh4R2xsYXMzOVg0WFFZdlBDbDY4UGx0M2R0UzF0TG95Z1RwbDFIZ1FEUWhDbS1zcTZHZjRaN3lBbGREdEpxTXpNNDMwUmhFRWdwV0Y1YThtQ3oteWJJWXM?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "Tue, 17 Mar 2026 03:05:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBjTzJWbW1rT081V1R5bHBHUGZwWVh4R2xsYXMzOVg0WFFZdlBDbDY4UGx0M2R0UzF0TG95Z1RwbDFIZ1FEUWhDbS1zcTZHZjRaN3lBbGREdEpxTXpNNDMwUmhFRWdwV0Y1YThtQ3oteWJJWXM?oc=5\" target=\"_blank\">製品レビューの「AIによるポジティブな要約」を読んだ人は購入する可能性が高くなる、AIのニュアンス改変が問題に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {},
+      "collected_at": "2026-03-17T14:00:53"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "DGX Station is available (via OEM distributors)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rvnppg/dgx_station_is_available_via_oem_distributors/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-16T21:58:43+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rvnppg/dgx_station_is_available_via_oem_distributors/\"> <img alt=\"DGX Station is available (via OEM distributors)\" src=\"https://preview.redd.it/qfqw3sarbhpg1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1ea5cb6174732f63322bc072f2624ec6d8c92a91\" title=\"DGX Station is available (via OEM distributors)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Seems like there is no founder edition</p> <p>Link:</p> <p><a href=\"ht",
+      "extra": {},
+      "collected_at": "2026-03-17T14:00:56"
     }
   ],
-  "updated_at": "2026-03-17T11:44:54.607306+09:00"
+  "updated_at": "2026-03-17T14:00:56.601556+09:00"
 }
