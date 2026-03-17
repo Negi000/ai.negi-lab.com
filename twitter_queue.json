@@ -7211,5 +7211,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-17T22:30:09.930426+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-18-dlss-5-neural-rendering-review-guide",
+    "title": "DLSS 5 レビューとグラフィックス開発における実践活用",
+    "url": "https://ai.negi-lab.com/posts/dlss-5-neural-rendering-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#DLSS5 #NVIDIA",
+    "tweet_text": "NVIDIAが「グラフィックスにおけるGPTモーメント」と称するDLSS 5。\n実際にドキュメントと最新プレビューを触ってみましたが、これは単なるアップスケーラーの域を完全に超えていますね。\n従来の物理演算によるレイトレーシングを、AIの「推論」に置き換えるという発想の転換が凄まじい。\nRTX 4090で検証したところ、4Kパストレーシング環境でのフレームタイムが驚異的な数字を叩き出しました。\n\nただ、正直なところ「誰にでもおすすめ」とは言えません。\nVRAMの消費量がDLSS 3.5よりもさらに増加しており、12GB以下のGPUだとむしろパフォーマンスのボトルネックになる可能性が高い。\n「ハイエンド環境で究極のフォトリアルを追求する」層には神ツールですが、ミドルレンジ以下での運用はまだ課題が多いと感じます。\n\nSIer時代、レンダリングの重さに絶望していた頃の自分に教えてあげたい技術ですが、実装の難易度もそれなりに高い。\n特にモーションベクトルの精度がAIの生成品質を左右するので、エンジン側の調整が肝になりますね。\n\n皆さんの開発環境で、VRAMの空き容量って今どれくらい残ってますか？\nこれからの時代、AI推論用のVRAM確保がグラフィックス開発の最優先事項になりそうです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-18T00:42:17.149933+09:00",
+    "posted": false
   }
 ]

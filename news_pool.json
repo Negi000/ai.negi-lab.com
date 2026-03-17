@@ -1,112 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
-      "url": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 10 Mar 2026 15:08:39 +0000",
-      "summary": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
-      "extra": {},
-      "collected_at": "2026-03-11T00:38:18"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
-      "url": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 10 Mar 2026 14:58:29 +0000",
-      "summary": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
-      "extra": {},
-      "collected_at": "2026-03-11T00:38:18"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Legora reaches $5.55 billion valuation as AI legaltech boom endures",
-      "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 10 Mar 2026 14:34:24 +0000",
-      "summary": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
-      "extra": {},
-      "collected_at": "2026-03-11T00:38:18"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Fish Audio S2",
-      "url": "https://www.producthunt.com/products/fish-speech",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Real Expressive AI Voices </p> <p> <a href=\"https://www.producthunt.com/products/fish-speech?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1094032?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-11T00:38:30"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Agent Skills",
-      "url": "https://www.producthunt.com/products/agent-skills-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Find skills for Claude Code, Cursor, Copilot & more </p> <p> <a href=\"https://www.producthunt.com/products/agent-skills-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090982?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-11T00:38:30"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Happy birthday, llama.cpp!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rpxkw9/happy_birthday_llamacpp/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-10T13:55:23+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rpxkw9/happy_birthday_llamacpp/\"> <img alt=\"Happy birthday, llama.cpp!\" src=\"https://external-preview.redd.it/I0MwmmrMgAO_AEZrzGNtx5dTFHuZhmfXfQph0x06dkw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e2295e833917616ec760d7b3f8d03e7b5965b12\" title=\"Happy birthday, llama.cpp!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I remember when the original llama models leaked from Meta and torrenting them onto my PC to try",
-      "extra": {},
-      "collected_at": "2026-03-11T00:38:32"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Ryzen AI Max 395+ 128GB - Qwen 3.5 35B/122B Benchmarks (100k-250K Context) + Others (MoE)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rpw17y/ryzen_ai_max_395_128gb_qwen_35_35b122b_benchmarks/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-10T12:49:46+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>Finally got my Framework Desktop! I've never used Linux before but it was dead simple to get Fedora up and running with the recommended toolboxes (big thanks to the amazing community here).</p> <p>Seen a lot of benchmarks recently but they're all targeting small context windows. I figured I'd try a handful of models up to massive context sizes. These benchmarks take upwards of an hour each due to the massive context. </p> <p>The Strix Halo p",
-      "extra": {},
-      "collected_at": "2026-03-11T00:38:32"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "How I topped the Open LLM Leaderboard using 2x 4090 GPUs — no weights modified.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rpxpsa/how_i_topped_the_open_llm_leaderboard_using_2x/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-10T14:00:35+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rpxpsa/how_i_topped_the_open_llm_leaderboard_using_2x/\"> <img alt=\"How I topped the Open LLM Leaderboard using 2x 4090 GPUs — no weights modified.\" src=\"https://preview.redd.it/cl4yd75s38og1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=1bfa444a5bd1496a8c28e524dc52cdff09442e06\" title=\"How I topped the Open LLM Leaderboard using 2x 4090 GPUs — no weights modified.\" /> </a> </td><td> <!-- SC_OFF --><div c",
-      "extra": {},
-      "collected_at": "2026-03-11T00:38:32"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
       "url": "https://dnhkng.github.io/posts/rys/",
@@ -3065,19 +2959,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Parallax",
-      "url": "https://www.producthunt.com/products/parallax-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Local-first AI orchestrator for software development tasks. </p> <p> <a href=\"https://www.producthunt.com/products/parallax-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1099675?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-17T16:08:52"
-    },
-    {
-      "source": "Product Hunt",
       "title": "ClickSay",
       "url": "https://www.producthunt.com/products/clicksay",
       "primary_category": "TOOL",
@@ -3320,7 +3201,114 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rvwf54/memory_chip_crunch_to_persist_until_2030_sk_hynix/\"> <img alt=\"Memory Chip Crunch to Persist Until 2030, SK Hynix Chairman Says\" src=\"https://external-preview.redd.it/QD9s-oTOTIOKXl08zRpzukxlBaA7HB0RhJ1brmq8B4A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9c049e67670d72debea9b5f83e8a935c52422afb\" title=\"Memory Chip Crunch to Persist Until 2030, SK Hynix Chairman Says\" /> </a> </td><td> &#32; submitted by &#32; <a",
       "extra": {},
       "collected_at": "2026-03-17T22:23:17"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI expands government footprint with AWS deal, report says",
+      "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 17 Mar 2026 15:37:03 +0000",
+      "summary": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
+      "extra": {},
+      "collected_at": "2026-03-18T00:41:39"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
+      "url": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 17 Mar 2026 15:16:21 +0000",
+      "summary": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
+      "extra": {},
+      "collected_at": "2026-03-18T00:41:39"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "World launches tool to verify humans behind AI shopping agents",
+      "url": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Tue, 17 Mar 2026 15:00:00 +0000",
+      "summary": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.",
+      "extra": {},
+      "collected_at": "2026-03-18T00:41:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Kira 4.0",
+      "url": "https://www.producthunt.com/products/kira-art",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn your friends into shareable content </p> <p> <a href=\"https://www.producthunt.com/products/kira-art?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091526?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-18T00:41:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Lightning Rod: Training Data Generator",
+      "url": "https://www.producthunt.com/products/training-data-generator",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn real-world data into training datasets fast </p> <p> <a href=\"https://www.producthunt.com/products/training-data-generator?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089246?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-18T00:41:41"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "What are your favorite open-source projects right now?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rw8822/what_are_your_favorite_opensource_projects_right/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-17T14:33:37+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>I’m currently working on a new idea: a series of interviews with people from the open source community.</h1> <p>To make it as interesting as possible, I’d really love your help</p> <p>Which open-source projects do you use the most, contribute to, or appreciate?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SamirDevrel\"> /u/SamirDevrel </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rw8822/what_ar",
+      "extra": {},
+      "collected_at": "2026-03-18T00:41:44"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "mlx-tune – fine-tune LLMs on your Mac (SFT, DPO, GRPO, Vision) with an Unsloth-compatible API",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rw4lft/mlxtune_finetune_llms_on_your_mac_sft_dpo_grpo/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-17T12:03:23+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rw4lft/mlxtune_finetune_llms_on_your_mac_sft_dpo_grpo/\"> <img alt=\"mlx-tune – fine-tune LLMs on your Mac (SFT, DPO, GRPO, Vision) with an Unsloth-compatible API\" src=\"https://preview.redd.it/jbsrq4cnhlpg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7506f0123b601243b06585d88b01a91cfa1b7853\" title=\"mlx-tune – fine-tune LLMs on your Mac (SFT, DPO, GRPO, Vision) with an Unsloth-compatible API\" /> </a> </td><td> <!-- SC_OFF ",
+      "extra": {},
+      "collected_at": "2026-03-18T00:41:44"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gave my local Ollama setup a desktop buddy - it morphs into Clippy 📎 and executes commands",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rw4fp4/gave_my_local_ollama_setup_a_desktop_buddy_it/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-17T11:56:05+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rw4fp4/gave_my_local_ollama_setup_a_desktop_buddy_it/\"> <img alt=\"Gave my local Ollama setup a desktop buddy - it morphs into Clippy 📎 and executes commands\" src=\"https://external-preview.redd.it/NjN4c2d2aDVobHBnMftAY6ILfZVduL9qy-iJP7oWXlJQFPdC0Qg4CQhU1tiB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=286559e37ba9f0e1fe9eac4a538489950fb04f4c\" title=\"Gave my local Ollama setup a desktop buddy - it morphs into Clippy 📎 and ",
+      "extra": {},
+      "collected_at": "2026-03-18T00:41:44"
     }
   ],
-  "updated_at": "2026-03-17T22:23:17.935593+09:00"
+  "updated_at": "2026-03-18T00:41:44.673298+09:00"
 }
