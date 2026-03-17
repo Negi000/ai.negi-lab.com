@@ -7141,5 +7141,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-17T14:01:25.783427+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-17-xai-grok-pentagon-classified-network-controversy",
+    "title": "xAIの機密ネットワーク利用に待った、国防総省とエリザベス・ウォーレン議員の対立が示唆するAI安全保障の脆弱性",
+    "url": "https://ai.negi-lab.com/posts/xai-grok-pentagon-classified-network-controversy/",
+    "category": "NEWS",
+    "viral_tags": "#Grok #xAI",
+    "tweet_text": "ペンタゴンがxAIのGrokに機密アクセス権を与えた件、ウォーレン議員が噛み付くのは当然の結果ですね。元SIerとして言わせてもらえば、国家機密を扱うネットワークに「Twitterのノリ」を学習したLLMを接続するなんて、正気の沙汰とは思えません。\n\n技術的な問題は「自由度」と「脆弱性」が表裏一体であること。Grokのアンチ・ポリコレ的な設計は、防御側から見ればプロンプトインジェクションの格好の餌食です。しかもリアルタイムのXデータで学習しているなら、敵対国によるデータ汚染工作も容易になってしまう。\n\nMicrosoftやGoogleが数年かけてFedRAMP認証を取っている横で、イーロン・マスクがスピード重視でねじ込もうとする構図ですが、国防は「動けばいい」では済みません。結局、3ヶ月後にはガチガチに制限された「政府専用Grok」を作らされる羽目になる気がします。\n\n皆さんは、国防の中枢にGrokのようなフィルターの緩いAIを導入することについてどう考えますか？利便性がリスクを上回ると思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-17T16:09:22.692961+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-17-angy-multi-agent-ai-scheduling-review",
+    "title": "Angy 使い方レビュー：マルチエージェントをAIが自律制御する次世代パイプライン",
+    "url": "https://ai.negi-lab.com/posts/angy-multi-agent-ai-scheduling-review/",
+    "category": "TOOL",
+    "viral_tags": "#AngyAI #MultiAgentSystems",
+    "tweet_text": "マルチエージェントを組む時、if文だらけのスパゲッティコードに悩まされていませんか？\n\n最近触った「Angy」というツールが、その悩みを根底から解決してくれそうです。従来、エージェントの実行順序は人間がグラフやリストで固定していましたが、Angyは「AI自身にスケジューリングを任せる」というアプローチ。\n\n実際に触って驚いたのは、独自のSafety Check機能。各エージェントが仕事をする前後に、別の検問LLMが介入して出力をバリデーションします。これにより、自律型エージェントで一番怖い「APIの無限消費」や「予期せぬ外部操作」を構造的にブロックできる。\n\nPython 3.10以降必須で、スケジューリングを挟む分だけ若干のオーバーヘッドはありますが、複雑な業務フローを組むならLangGraphよりも記述量は圧倒的に減ります。\n\nCrewAIだと柔軟性が足りない、でもLangGraphだと設計が重すぎる。そんな「中級者の壁」にぶつかっているエンジニアには、まさに今必要なミドルウェアだと感じました。\n\n皆さんはマルチエージェントの実行制御、どうしてますか？自前でステートマシン組むのと、こういうAIスケジューラに任せるの、どちらが実務でスケールすると思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-17T16:13:24.722555+09:00",
+    "posted": false
   }
 ]
