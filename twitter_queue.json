@@ -7337,5 +7337,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-18T18:59:29.141935+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-18-permit-io-mcp-gateway-review-security",
+    "title": "Permit.io MCP Gateway レビュー：LLMのツール実行にセキュリティを組み込む方法",
+    "url": "https://ai.negi-lab.com/posts/permit-io-mcp-gateway-review-security/",
+    "category": "TOOL",
+    "viral_tags": "#MCP #PermitIO",
+    "tweet_text": "AIエージェントに社内データを触らせる時、一番怖いのは「権限の暴走」ですよね。\nMCP（Model Context Protocol）は便利ですが、標準では「誰がどのツールを使えるか」という認可の仕組みがありません。\n\nそこで注目なのが「Permit.io MCP Gateway」。\nこれ、既存のMCPサーバーをDockerで包むだけで、RBACや監査ログを後付けできるゲートウェイです。\n\nSIer時代にAPIの権限管理で苦労した身としては、Policy-as-CodeでMCPのセキュリティを一元管理できるのは革命的。\nClaude Desktopから自作エージェントまで、プロキシとして介在させるだけで「営業は閲覧のみ」「人事のみ特定ツール実行可」といった制御がノーコードで可能です。\n\n正直、個人開発なら不要ですが、企業案件でMCPを使うならこれ無しでは怖くてリリースできません。\n監査ログが標準で取れるので、CISOへの説明も楽になります。\n\n皆さんは、LLMのツール実行権限ってどう管理してますか？\n自前でif文書いてますか？それともノーガード？\n実際の運用での悩みなどあれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-18T22:25:33.236919+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-18-minimax-m27-python-api-tutorial",
+    "title": "MiniMax M2.7 使い方：最新の線形注意機構モデルをAPIで実装する手順",
+    "url": "https://ai.negi-lab.com/posts/minimax-m27-python-api-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#MiniMax #生成AI",
+    "tweet_text": "MiniMax M2.7の発表、界隈では「また新しいのが出たか」くらいの反応かもしれませんが、個人的には線形注意機構（Linear Attention）の実装精度に衝撃を受けました。\n\nSIer時代、数万行のログ解析をLLMに投げようとして、コストとタイムアウトの壁に絶望した経験がある人なら、このモデルの「スケーラビリティ」がいかに異常か分かるはずです。Transformerの2乗の呪縛から解き放たれる感覚。\n\nRTX 4090を2枚挿してローカルLLMを検証する日々ですが、今回のM2.7はAPI経由でもレスポンスが0.4秒前後と爆速。\n「精度ならGPT-4だが、長文のバッチ処理や低遅延ならMiniMax」というのが現時点での私の本音です。\n\n特に10万文字を超えるドキュメントからの情報抽出では、他の小型モデルを圧倒する安定感を見せてくれました。\n今回はPythonでこのM2.7を実務レベルで使い倒すための、エラーハンドリング込みのスクリプトを公開しました。\n\nAPIキーの認証で1時間溶かした私の失敗談も含めて、環境構築から構造化出力までを最短ルートでまとめています。\n長文処理のコストに悩んでいる開発者の皆さん、実際の現場でこの速度、許容範囲ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-18T22:29:37.436736+09:00",
+    "posted": false
   }
 ]
