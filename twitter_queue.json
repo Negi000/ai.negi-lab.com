@@ -7281,5 +7281,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-18T14:05:47.103291+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-18-google-personal-intelligence-us-expansion-analysis",
+    "title": "Google Personal Intelligence米国全開放 | Gmail/写真連携でChatGPTを超える実用性",
+    "url": "https://ai.negi-lab.com/posts/google-personal-intelligence-us-expansion-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleGemini #パーソナルAI",
+    "tweet_text": "Googleの「Personal Intelligence」が米国で全開放されました。これは単なるAIのアップデートではなく、Googleによる「データの囲い込み」が完成に近づいたことを意味しています。\n\nSIer時代に苦労した「データ統合」の壁を、Googleは自社のエコシステムをLLMの脳に直結させることで破壊しました。Gmail、写真、カレンダー。これら全ての私的データがGeminiの200万トークンのコンテキストウィンドウに0.5秒で流し込まれます。\n\nChatGPTとの決定的な差は「手動アップロード」という手間がないこと。AIに「去年のキャンプの写真を全部見つけて、かかった費用のメールと照らし合わせて」と言うだけで完結する世界です。\n\n正直、開発者としてはLangChainで頑張って作った連携ツールがOS標準機能に飲み込まれていくのを見て、震えるような感覚があります。便利さと引き換えに、私たちは全ての文脈をGoogleに預けることになる。\n\n3ヶ月後には、Apple Intelligenceとの「パーソナルAI戦争」が激化しているはずです。今のうちにGemini Extensionsの設定を見直し、データの「AI向け最適化」を始めておくべきかもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-18T16:06:19.044140+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-18-fantastical-mcp-claude-mac-guide",
+    "title": "Fantastical MCP for Mac 使い方と実務での活用ガイド",
+    "url": "https://ai.negi-lab.com/posts/fantastical-mcp-claude-mac-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Claude #Fantastical",
+    "tweet_text": "Macユーザーのスケジュール管理が「対話型」に変わる瞬間を体験しました。Product Huntで見つけた「Fantastical MCP for Mac」が想像以上に実用的です。\n\n従来のカレンダー操作は、AIに案を出させてから自分でアプリを開いて転記する「二度手間」が当たり前。でもこれ、Claude Desktopから直接カレンダーを叩けます。それもFantasticalの強力な自然言語エンジンを介して。\n\n「来週の空いてる時間にデバッグ作業を30分入れて」\n「急用で今日の午後は全休にするから、予定を全部明日の午前にリスケジュールして」\n\nこれだけでClaudeが空き時間を探し、優先度を考え、イベントを再配置してくれます。SIer時代、これがあったら会議調整のストレスで胃を壊さずに済んだかもしれません。\n\nただ、これを使うにはFantasticalのサブスクが必須。月額の価値があるかどうかは「1日に何回カレンダーを開くか」で決まると思います。設定もJSONを一行書き換えるだけなので、エンジニアなら3分で終わるはず。\n\n皆さんはカレンダー調整、まだ手動でポチポチやってますか？それとも何か自動化ツール使ってますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-18T16:10:19.812369+09:00",
+    "posted": false
   }
 ]
