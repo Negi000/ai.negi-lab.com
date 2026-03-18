@@ -7267,5 +7267,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-18T11:51:53.887955+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-18-pentagon-anthropic-alternative-ai-development",
+    "title": "ペンタゴンがAnthropicと決別？独自AI開発が示唆する「脱・商用LLM」の生存戦略",
+    "url": "https://ai.negi-lab.com/posts/pentagon-anthropic-alternative-ai-development/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #ローカルLLM",
+    "tweet_text": "ペンタゴンとAnthropicの不仲説が現実味を帯びてきました。国防総省が「脱・Claude」を目指して独自AI開発に動いているとの報。これ、単なる契約の話じゃないんですよね。\n\n実務でAIを使っていて「この質問は答えられません」という過剰なガードレールにイラッとした経験はありませんか？戦場の最前線なら、その1秒の拒絶が文字通り命取りになります。Anthropicが掲げる「憲法的AI」の理想と、軍事が求める「100%の制御」が、ついに真っ向から衝突した格好です。\n\n私はSIer時代から「最後は自前で持っている奴が勝つ」という場面を何度も見てきました。今回のペンタゴンの動きは、まさにAIのオンプレ回帰、あるいは「AIの自給自足」の始まりを予感させます。\n\n商用APIに頼り切りだと、ベンダーの思想ひとつで自分のプロダクトが牙を抜かれるリスクがある。だからこそ、今こそローカルLLMや微調整（Fine-tuning）の技術を自分の手に取り戻すべき時だと思います。皆さんは、自社専用の「検閲されないAI」が必要だと感じたことはありますか？現場での本音を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-18T14:05:47.103291+09:00",
+    "posted": false
   }
 ]
