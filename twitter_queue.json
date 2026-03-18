@@ -7365,5 +7365,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-18T22:29:37.436736+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-19-lightfield-ai-native-crm-review-guide",
+    "title": "Lightfield レビュー AIが勝手に育つ次世代CRMの実力と導入の壁",
+    "url": "https://ai.negi-lab.com/posts/lightfield-ai-native-crm-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Lightfield #AICRM",
+    "tweet_text": "SIer時代、数千万円かけて導入したCRMが「入力が面倒」という理由で数ヶ月でゴミ箱行きになる現場を何度も見てきました。そんな負の歴史を終わらせるツールがLightfieldです。\n\n一言で言うと「勝手に育つCRM」。\nメール、Slack、ZoomのログをAPIで流し込むだけで、AIが勝手に案件フェーズを更新し、予算や決裁者を特定してデータベースを埋めてくれます。\nエンジニア視点で見ると、Python SDKの `auto_parse` メソッドがかなり強力。非構造化データから勝手にエンティティを抽出してくれるので、これまで書いてきた面倒な正規表現やスクレイピングコードが全て不要になります。\n\nRTX 4090を回してローカルLLMを検証している身としては、この手の「AIネイティブ」な設計には興奮せざるを得ません。\nHubSpotやSalesforceのような重厚長大さに疲れた人、あるいはAPIでCRMを制御したい開発者には最高の選択肢になるはずです。\n\nただ、日本語の独特な敬語や役職名のパースにはまだ甘い部分も。\nそこをどうハックして実務に落とし込むか、具体的なコード例を交えてブログにまとめました。\n「AIに仕事をさせる」感覚を掴みたい方はぜひチェックしてみてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-19T00:50:46.121439+09:00",
+    "posted": false
   }
 ]
