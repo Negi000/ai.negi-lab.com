@@ -7253,5 +7253,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-18T06:50:49.481095+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-18-garry-tan-claude-code-setup-review",
+    "title": "Garry Tan流Claude Code設定は実務で使えるか？導入の是非と性能比較",
+    "url": "https://ai.negi-lab.com/posts/garry-tan-claude-code-setup-review/",
+    "category": "NEWS",
+    "viral_tags": "#ClaudeCode #Anthropic",
+    "tweet_text": "YC代表のGarry Tanが公開したClaude Codeの設定が話題だけど、これ「ただの便利ツール」として片付けるのは危険です。\n\nSIerからフリーランス、AIブロガーと渡り歩いてきた私の視点だと、これは開発環境の「主権」がIDEからターミナル（エージェント）へ移る歴史的な転換点。\n\n実際に触って確信したのは、自律性が桁違いだということ。これまでのAIは「コードを書く」だけだった。でもClaude Codeは「コードを書き、テストを回し、エラーを読み、修正し、Gitに積む」という一連の思考ループを勝手に回す。\n\nRTX 4090を2枚挿してローカル環境を構築してる身としても、Claude 3.5 SonnetのレスポンスとMCPの組み合わせには正直脱帽しました。\n\nただし、APIコストは従量課金なので、何も考えずに使い続けると1時間で数ドル飛ぶことも。それでも、エンジニアの時給を考えれば安すぎる投資。\n\nCLAUDE.mdにプロジェクト秘伝のタレを書き込むだけで、AIが「熟練のチームメンバー」に化ける感覚。皆さんはもう触りましたか？実際に業務で使ってみて「これは危ない」と感じたポイントがあれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-18T11:51:53.887955+09:00",
+    "posted": false
   }
 ]
