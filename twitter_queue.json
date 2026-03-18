@@ -7309,5 +7309,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-18T16:10:19.812369+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-18-nvidia-dlss-5-generative-rendering-review",
+    "title": "Nvidia DLSS 5発表：AI生成ピクセルが描画の常識を変えるか？実務家が読み解く「AIフェイス」の光と影",
+    "url": "https://ai.negi-lab.com/posts/nvidia-dlss-5-generative-rendering-review/",
+    "category": "NEWS",
+    "viral_tags": "#NvidiaDLSS5 #ニューラルレンダリング",
+    "tweet_text": "Nvidiaが放った「DLSS 5」の衝撃が止まりません。\nもはやアップスケーリングの域を超え、AIがピクセルそのものを「生成」する領域へ。\nRTX 4090を2枚挿して常用する私から見ても、今回の「生成型レンダリング」への全振りは、これまでの描画パイプラインを破壊するほどの劇薬だと感じます。\n\nただ、手放しで賞賛はできません。\n初期レビューで指摘されている「モーションスムージング感（安っぽいヌルヌル感）」や、AIによるディテールの改変は、クリエイターの意図を歪めるリスクを孕んでいます。\nSIer時代に「自動化の罠」を嫌というほど見てきた身としては、計算を放棄して推論に頼りすぎる危うさを感じずにはいられません。\n\n特に「AI Face」の補完は、一歩間違えれば不気味の谷を助長するはず。\n皆さんは、AIが「もっともらしく描き変えたフォトリアルな映像」と「計算は粗いが誠実な映像」、どちらで最新ゲームを遊びたいですか？\nこの技術が標準化される3ヶ月後、私たちのディスプレイに映るのは真実か、それともAIが見せる夢か。\n実務家目線で徹底解説しました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-18T18:55:26.483145+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-18-articleback-review-ai-insight-to-authority",
+    "title": "ArticleBack 自分の知見を権威ある技術記事に変える執筆支援ツール",
+    "url": "https://ai.negi-lab.com/posts/articleback-review-ai-insight-to-authority/",
+    "category": "TOOL",
+    "viral_tags": "#ArticleBack #技術ブログ",
+    "tweet_text": "エンジニアが技術ブログを継続できない最大の理由は「知見はあるのに、記事に構成する時間が溶けること」だと思う。この問題をArticleBackが鮮やかに解決してくれた。\n\nこれまで多くのAIライターを試したけど、どれも「一般論の継ぎ接ぎ」で自分の体験談が薄まるのが嫌だった。でもArticleBackは真逆。自分の断片的なメモやソースコードを放り込むと、それを核にして「権威ある専門記事」へ昇華させてくれる。\n\n実際にPython SDKで100個の散らばったメモを流してみたけど、レスポンス0.3秒で論理的なH2見出しが生成されるのは圧巻。ネットで拾った情報じゃなく、自分の一次情報をAIが整形してくれる感覚。\n\nSIer時代の自分に教えたかった。「書くことがない」んじゃなくて「整えるのが面倒」なだけなんだよね。RTX 4090を2枚挿ししてローカルLLM回してる私でも、このSaaSの構成力には正直脱帽した。\n\n皆さんは技術記事を書く時、構成案にどれくらい時間かけてます？AIに任せる派、自力派、それぞれのこだわりを聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-18T18:59:29.141935+09:00",
+    "posted": false
   }
 ]
