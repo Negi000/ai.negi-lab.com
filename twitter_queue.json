@@ -7393,5 +7393,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-19T03:01:30.002585+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-19-nothing-ceo-carl-pei-ai-agent-os-vision",
+    "title": "アプリ終了？Nothingが描くAIエージェントOSの全貌と開発者への衝撃",
+    "url": "https://ai.negi-lab.com/posts/nothing-ceo-carl-pei-ai-agent-os-vision/",
+    "category": "NEWS",
+    "viral_tags": "#NothingOS #AIAgent",
+    "tweet_text": "NothingのCarl Pei氏がぶち上げた「アプリ消滅」の予言。これ、SIer時代にAPI連携で地獄を見た人間からすると、ようやくOSが論理的な構造に進化するのかという感慨があります。\n\n今のスマホは「空腹を満たす」ために「デリバリーアプリのアイコンを探して起動する」という、無駄なUI操作をユーザーに強いています。Nothingが描く未来は、OSのカーネル層にAIエージェントが居座り、ユーザーの意図を直接解釈して裏側で各サービスを叩き分ける世界。\n\n開発者にとっての衝撃は、ビジネスの主戦場が「UI/UX」から「AIから見た使い勝手（ツール利用のしやすさ）」に移ること。AppleやGoogleがアプリストアの手数料ビジネスに縛られて動けない中、Nothingのような身軽なプレイヤーがこの破壊的変更を仕掛けるのは極めて理にかなっています。\n\nもちろん広告モデルの崩壊や遅延の問題など壁は多いですが、RTX 4090でローカルLLMを回していると、この「IntentベースのOS」が実現可能な段階にきていることを肌で感じます。3ヶ月後には、より具体的なエージェント用SDKの噂が出始めているでしょう。\n\nみなさんは「画面のない操作」に自分のサービスを対応させる準備、できていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-19T06:46:30.862188+09:00",
+    "posted": false
   }
 ]
