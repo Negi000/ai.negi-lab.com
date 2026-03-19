@@ -7519,5 +7519,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-19T22:21:50.595740+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-20-mcpcore-cloud-ai-server-review",
+    "title": "MCPCoreでAIエージェントの外部ツール連携をクラウド化する方法",
+    "url": "https://ai.negi-lab.com/posts/mcpcore-cloud-ai-server-review/",
+    "category": "TOOL",
+    "viral_tags": "#MCP #AIエージェント",
+    "tweet_text": "AIエージェントに「社内の独自ツール」を繋ぐ際、最大の壁はインフラ構築。ローカルで動かすのは簡単でも、チームで共有したり24時間稼働させたりするのは、正直エンジニアの仕事としてかなり泥臭くて面倒な領域でした。\n\n今回触ってみた「MCPCore」は、そのMCPサーバーの構築を丸ごとクラウド化するPaaS。Pythonの関数にデコレータを1つつけてデプロイするだけで、認証済みのエンドポイントが即座に発行されます。\n\nSIer時代に数日かけていたSSL設定やAPI管理が、わずか3分で終わる感覚。特にClaude Desktopとの連携を組織で進めたい場合には、現状で最も現実的な解かもしれません。ただ、便利すぎて「これ無しではMCP開発をしたくない」という依存状態になるのが一番の懸念点かも…。\n\nログ確認もブラウザで完結するので、LLMが変な引数を渡してきた時のデバッグも爆速。開発効率を数字で言うなら、体感で従来の5倍は速くなります。\n\n皆さんはMCPサーバーのホスティング、どうしてますか？ngrokで粘るか、それともこうしたマネージドサービスに振るか。現場の運用スタイルを教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-20T00:29:16.993393+09:00",
+    "posted": false
   }
 ]
