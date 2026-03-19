@@ -7435,5 +7435,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-19T14:02:44.980308+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-19-nvidia-networking-business-11-billion-growth-analysis",
+    "title": "Nvidiaの「ネットワーキング事業」が年間440億ドル規模に到達し、GPU単体ではなく「データセンターそのもの」を売る戦略が完成しました。",
+    "url": "https://ai.negi-lab.com/posts/nvidia-networking-business-11-billion-growth-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#NVIDIA #データセンターインフラ",
+    "tweet_text": "Nvidiaの勢いがもはや「チップ屋」の域を完全に超えています。直近のネットワーキング事業の売上が110億ドル（約1.6兆円）に達したというニュース。これ、IntelやAMDの全社売上と比較しても遜色ないレベルです。\n\nSIer時代にサーバーの裏側でLANケーブルを地道に挿していた頃の感覚からすると、今起きていることは魔法に近い。AI学習のボトルネックは今やGPUの演算性能ではなく、チップ間の「通信の渋滞」に移っています。\n\nNvidiaはこの渋滞を解消するために、イーサネットを「AI専用」に魔改造しました。それがSpectrum-X。パケットロスをハードウェアで予見して、空いている経路をミリ秒単位で選ぶ技術です。\n\n「GPUだけ他社製に替えれば安くなる」という幻想が、このネットワーク・エコシステムの完成によって打ち砕かれつつあります。開発者は今後、PyTorchのコードだけでなく、NCCLやRDMAといった通信レイヤーの最適化を知っているかどうかが、実力の分かれ目になるはず。\n\n皆さんの現場では、マルチノード学習の通信速度、ちゃんと計測していますか？実はそこを弄るだけで、数日かかっていた学習が数時間に縮まるかもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-19T16:03:08.677397+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-19-okan-claude-code-browser-notification-review",
+    "title": "Okan レビュー: Claude Code の承認作業をブラウザ通知で効率化する",
+    "url": "https://ai.negi-lab.com/posts/okan-claude-code-browser-notification-review/",
+    "category": "TOOL",
+    "viral_tags": "#ClaudeCode #AIエージェント",
+    "tweet_text": "Claude Codeを使い始めて直面するのが「承認待ちのダウンタイム」です。\nAIがリファクタリング案を出してくるのをターミナルに張り付いて待つ時間は、エンジニアの集中力を確実に削ります。\n\nそこで試したのが「Okan」。\nCLIの承認プロンプトをブラウザ通知へ飛ばし、そのままボタン一つでAccept/Rejectできるツールです。\n実際に使ってみて驚いたのはレスポンスの速さ。CLIにプロンプトが出た0.2秒後には通知が届きます。\n\nSlackを返しながら、あるいは別の設計を考えながら、画面右上の通知をポチポチするだけでAIが背後でコードを書き進めてくれる感覚。\nSIer時代、長時間回していたスクリプトにこれがあればどれほど楽だったか…。\n\nPython 3.10以降の環境で、Claude Codeを「仕事の相棒」にしている人なら、開発フローが劇的に変わるはずです。\nただ、全自動の「-y」フラグに慣れきっている人には不要かもしれません。\n\n皆さんはAIエージェントの「承認待ち」時間、どう過ごしていますか？\nやっぱりずっとターミナルを凝視していますか？それとも何か別のツールで自動化していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-19T16:07:09.435800+09:00",
+    "posted": false
   }
 ]

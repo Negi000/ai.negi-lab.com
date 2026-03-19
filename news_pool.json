@@ -2,49 +2,6 @@
   "items": [
     {
       "source": "The Verge AI",
-      "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-03-11T18:51:53-04:00",
-      "summary": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journalist Julia Angwin on Wednesday alleges that Superhuman violated the [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-12T16:00:37"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I was backend lead at Manus. After building agents for 2 years, I stopped using function calling entirely. Here's what I use instead.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-12T06:02:16+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><blockquote> <p>English is not my first language. I wrote this in Chinese and translated it with AI help. The writing may have some AI flavor, but the design decisions, the production failures, and the thinking that distilled them into principles — those are mine.</p> </blockquote> <p>I was a backend lead at Manus before the Meta acquisition. I've spent the last 2 years building AI agents — first at Manus, then on my own open-source agent runtime (<a href=\"https://",
-      "extra": {},
-      "collected_at": "2026-03-12T16:00:48"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I spent 8+ hours benchmarking every MoE backend for Qwen3.5-397B NVFP4 on 4x RTX PRO 6000 (SM120). Here's what I found.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrfqlu/i_spent_8_hours_benchmarking_every_moe_backend/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-12T03:22:19+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>The short version:</strong> 50.5 tok/s sustained decode is the best I can get, and I'm pretty sure it's the best anyone has actually gotten on SM120 hardware -- despite claims of 130+ tok/s floating around. The reason? NVIDIA's own CUTLASS kernels are broken on their own workstation GPU.</p> <hr /> <h2>The Setup</h2> <ul> <li>4x RTX PRO 6000 Blackwell Workstation Edition (96GB GDDR7 each, 384GB total)</li> <li>SM 12.0 -- this is the desktop/workstation B",
-      "extra": {},
-      "collected_at": "2026-03-12T16:00:48"
-    },
-    {
-      "source": "The Verge AI",
       "title": "Grammarly says it will stop using AI to clone experts without permission",
       "url": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
       "primary_category": "NEWS",
@@ -3332,19 +3289,6 @@
       "collected_at": "2026-03-19T06:46:05"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Sam Altman’s thank-you to coders draws the memes",
-      "url": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "Wed, 18 Mar 2026 23:12:58 +0000",
-      "summary": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
-      "extra": {},
-      "collected_at": "2026-03-19T11:52:47"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
       "url": "https://github.com/alainnothere/llm-circuit-finder",
@@ -3473,7 +3417,98 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Available in &quot;reg&quot;, &quot;uncensored&quot; (Heretic) and &quot;Rough House&quot;.</p> <p>40B parameters, 1275 tensors - all Qwen 3.5.</p> <p>Scaled up and tuned:</p> <p><a href=\"https://huggingface.co/DavidAU/Qwen3.5-40B-Claude-4.5-Opus-High-Reasoning-Thinking\">https://huggingface.co/DavidAU/Qwen3.5-40B-Claude-4.5-Opus-High-Reasoning-Thinking</a></p> <p><a href=\"https://huggingface.co/DavidAU/Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Think",
       "extra": {},
       "collected_at": "2026-03-19T14:02:13"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "ChatGPT did not cure a dog’s cancer",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-18T14:14:39-04:00",
+      "summary": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proof that AI will revolutionize medicine and take on one of its deadliest diseases. The reality, as usual, is more complicated. The [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-19T16:02:38"
+    },
+    {
+      "source": "Google News",
+      "title": "インスリン抵抗性、AI予測モデルでがん発症リスク上昇を確認－東大ほか - QLifePro",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44d0YwUE8zdlAwaTVxQjV0bk82dVJTQzRNdlhCbUFiZFpPSm90Y2syNk5hNWtqS1hpanhpblZCaENPZEZDVWJWZkM0dS1YT0ZGSm5rdmc3ejg0VHgzUnRLeTFmekU0Z0tmcVRaNXQtWW0yUDl0ZTFxLQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 19 Mar 2026 00:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE44d0YwUE8zdlAwaTVxQjV0bk82dVJTQzRNdlhCbUFiZFpPSm90Y2syNk5hNWtqS1hpanhpblZCaENPZEZDVWJWZkM0dS1YT0ZGSm5rdmc3ejg0VHgzUnRLeTFmekU0Z0tmcVRaNXQtWW0yUDl0ZTFxLQ?oc=5\" target=\"_blank\">インスリン抵抗性、AI予測モデルでがん発症リスク上昇を確認－東大ほか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">QLifePro</font>",
+      "extra": {},
+      "collected_at": "2026-03-19T16:02:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Okan",
+      "url": "https://www.producthunt.com/products/okan-claude-code-browser-notifications",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> One click accept/reject notifications for Claude Code </p> <p> <a href=\"https://www.producthunt.com/products/okan-claude-code-browser-notifications?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102086?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-19T16:02:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Machine Payments Protocol",
+      "url": "https://www.producthunt.com/products/stripe",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The internet-native payment standard for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/stripe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101790?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-19T16:02:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "MiMo-V2-Pro & Omni",
+      "url": "https://www.producthunt.com/products/mimo-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Xiaomi's flagship agentic and omni-modal foundation models </p> <p> <a href=\"https://www.producthunt.com/products/mimo-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101819?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-19T16:02:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Budibase AI Agents",
+      "url": "https://www.producthunt.com/products/budibase",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI agents that run your operations (Open source) </p> <p> <a href=\"https://www.producthunt.com/products/budibase?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101735?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-19T16:02:41"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Auto research and karpathy everywhere, it feels like openclaw buzzword all over again",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rxoa6n/auto_research_and_karpathy_everywhere_it_feels/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-19T02:28:26+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>just like openclaw it has started to feel like just a buzzword, autoresearch here karpathy there and whatever shit, i do have idea of karpathy being a good and popular educator, him being ai director at tesla and his contributions in real world research with CNNs RNNs and also modern transformer models</p> <p>But this just feels like another openclaw buzzword moment due to ai bros throwing autoresearch and karpathy everywhere in their posts and shit</p> </div><!",
+      "extra": {},
+      "collected_at": "2026-03-19T16:02:44"
     }
   ],
-  "updated_at": "2026-03-19T14:02:13.503511+09:00"
+  "updated_at": "2026-03-19T16:02:44.240698+09:00"
 }
