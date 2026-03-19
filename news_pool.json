@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Show HN: A context-aware permission guard for Claude Code",
-      "url": "https://github.com/manuelschipper/nah/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 11 Mar 2026 23:26:25 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-12T13:55:49"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Mac users should update llama.cpp to get a big speed boost on Qwen 3.5",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rr420g/mac_users_should_update_llamacpp_to_get_a_big/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-11T19:41:36+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rr420g/mac_users_should_update_llamacpp_to_get_a_big/\"> <img alt=\"Mac users should update llama.cpp to get a big speed boost on Qwen 3.5\" src=\"https://external-preview.redd.it/-acdFEwvOSE3pca3CBC5W8XsTn-6DacEgC5FOijDFh8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=923474034feabd2977b4c39390e27ebf30491c3a\" title=\"Mac users should update llama.cpp to get a big speed boost on Qwen 3.5\" /> </a> </td><td> &#32; submitted by &",
-      "extra": {},
-      "collected_at": "2026-03-12T13:55:54"
-    },
-    {
       "source": "The Verge AI",
       "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
       "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
@@ -3361,19 +3333,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Meta is having trouble with rogue AI agents",
-      "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 18 Mar 2026 23:42:46 +0000",
-      "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
-      "extra": {},
-      "collected_at": "2026-03-19T11:52:47"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Sam Altman’s thank-you to coders draws the memes",
       "url": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
       "primary_category": "NEWS",
@@ -3475,7 +3434,46 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rxhwqs/mimov2pro_omni_tts_we_will_opensource_when_the/\"> <img alt=\"MiMo-V2-Pro &amp; Omni &amp; TTS: &quot;We will open-source — when the models are stable enough to deserve it.&quot;\" src=\"https://preview.redd.it/nw6njq9tmvpg1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=e63617dbcfead05ff6a2efb97220561c6e7fad0c\" title=\"MiMo-V2-Pro &amp; Omni &amp; TTS: &quot;We will open-source — when the models are stable enough to des",
       "extra": {},
       "collected_at": "2026-03-19T11:52:53"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "David Sacks’ big Iran warning gets big time ignored",
+      "url": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-18T14:44:21-04:00",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded this email to you, and you're not a Verge subscriber yet, you should sign up right here, and not just because it would [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-19T14:02:07"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Cook: A simple CLI for orchestrating Claude Code",
+      "url": "https://rjcorwin.github.io/cook/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 19 Mar 2026 02:20:34 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-19T14:02:08"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.5-40B-Claude-4.5-Opus-High-Reasoning-Thinking - Reg, Uncensored and RoughHouse and... 43 Qwen 3.5 fine tunes.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rxovb9/qwen3540bclaude45opushighreasoningthinking_reg/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-19T02:55:19+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Available in &quot;reg&quot;, &quot;uncensored&quot; (Heretic) and &quot;Rough House&quot;.</p> <p>40B parameters, 1275 tensors - all Qwen 3.5.</p> <p>Scaled up and tuned:</p> <p><a href=\"https://huggingface.co/DavidAU/Qwen3.5-40B-Claude-4.5-Opus-High-Reasoning-Thinking\">https://huggingface.co/DavidAU/Qwen3.5-40B-Claude-4.5-Opus-High-Reasoning-Thinking</a></p> <p><a href=\"https://huggingface.co/DavidAU/Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Think",
+      "extra": {},
+      "collected_at": "2026-03-19T14:02:13"
     }
   ],
-  "updated_at": "2026-03-19T11:52:53.483761+09:00"
+  "updated_at": "2026-03-19T14:02:13.503511+09:00"
 }

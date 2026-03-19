@@ -7421,5 +7421,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-19T11:53:21.023464+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-19-sam-altman-gratitude-coders-analysis",
+    "title": "サム・アルトマンの「手書きコードへの感謝」が示唆するエンジニアの生存戦略",
+    "url": "https://ai.negi-lab.com/posts/sam-altman-gratitude-coders-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#生成AI #エンジニアキャリア",
+    "tweet_text": "サム・アルトマンが放った「手書きコードを書ける人への感謝」という言葉。これが開発者の間で猛烈な皮肉（ミーム）として燃え広がっています。\n\nOpenAI自身が「手書き」を不要にするツールを量産している中で、この発言をどう受け止めるべきか。SIer出身でPython歴8年の私が、現場の目線でこの違和感を深掘りしました。\n\n正直、今のAI生成コードは「動くけど保守性がゴミ」というケースが多すぎます。アルトマンが本当に言いたいのは「AIが吐き出す技術負債を掃除できる人間だけ残れ」という選別ではないでしょうか。\n\n実務でClaude 3.5 SonnetとGPT-4oを毎日使い倒していますが、論理の緻密さではすでにOpenAIが劣勢に立たされている局面も。数字で見るとその差は明白です。\n\nこれからのエンジニアに必要なのは「書く力」ではなく、AIの嘘を見抜く「検品力」。私がRTX 4090を2枚挿してローカルLLMを回し続けて分かった、AI時代の生存戦略をまとめました。\n\n皆さんは、AIにコードを任せて自分のスキルが鈍っていると感じる瞬間はありますか？それとも、逆に生産性が上がって「設計」に集中できていると感じますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-19T14:02:44.980308+09:00",
+    "posted": false
   }
 ]
