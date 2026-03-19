@@ -7547,5 +7547,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-20T02:53:23.592986+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-20-cloudflare-ceo-bot-traffic-exceed-human-2027",
+    "title": "2027年、インターネット上の主役は「人間」から「AIボット」へと交代します。CloudflareのCEO、マシュー・プリンス氏が予測したこの事態は、単なるトラフィックの増加ではなく、Webの既存ビジネスモデルが崩壊するカウントダウンを意味しています。",
+    "url": "https://ai.negi-lab.com/posts/cloudflare-ceo-bot-traffic-exceed-human-2027/",
+    "category": "NEWS",
+    "viral_tags": "#Cloudflare #AIエージェント",
+    "tweet_text": "2027年、インターネットの主役は人間からAIへ。CloudflareのCEOが放った「ボットの通信量が人間を超える」という予測は、今のWebの終わりを告げています。\n\n元SIerとして確信しているのは、これまでのボット対策はもう通用しないということ。今のAIエージェントはマルチモーダルで画面を「見て」判断し、人間と同じように操作します。robots.txtという紳士協定はすでに崩壊しました。\n\n私がRTX 4090×2でローカルLLMを動かして実感しているのは、AIのリクエストは人間の数十倍から数百倍の負荷を平気でかけるということ。サイト側は広告モデルから脱却し、AIから直接対価を取る仕組みを作らない限り、サーバー代で死にます。\n\n技術的にはAPIファーストへの強制移行と、WebAuthnによる「人間証明」が必須になるはず。WebがAIのための無料の餌場になるのを防ぐため、開発者が今すぐやるべきことを整理しました。\n\n皆さんのサイトのログ、最近AIボットの比率が増えていませんか？特に深夜の不自然なスパイク、それはAIによる学習かもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-20T06:47:03.131046+09:00",
+    "posted": false
   }
 ]
