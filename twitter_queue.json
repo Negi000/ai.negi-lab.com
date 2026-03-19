@@ -7491,5 +7491,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-19T18:47:19.354885+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-19-link-ai-agentic-workflow-review-guide",
+    "title": "Link AI 使い方と実務レビュー：自律型エージェントで業務スタックを再構築できるか",
+    "url": "https://ai.negi-lab.com/posts/link-ai-agentic-workflow-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#LinkAI #AIエージェント",
+    "tweet_text": "SIer時代、仕様変更のたびに数千行のフローチャートを書き直していたあの苦行は何だったのか…。\nLink AIを触ってみて、業務自動化の概念が「条件分岐」から「目標設定」に完全にシフトしたのを実感しています。\n\nこのツール、単なるSaaS連携じゃなくて「自律型エージェントのオーケストレーション基盤」ですね。\n「もし〜なら」というIF文を延々と書く代わりに、エージェントに役割とツールを渡して「あとはよろしく」で済む。\n例えば、メール解析→CRM更新→Slack通知というフローも、エージェントが文脈を読んで勝手に判断してくれます。\n\n実際にPython SDKで組んでみましたが、100件のマルチステップ処理が驚くほどスムーズ。\nただ、自律型ゆえにトークン消費が激しく、放置するとコストが跳ねる怖さはあります。\nまさに「道具を使いこなす知能」を実装する感覚。\n\nエンジニアとして、この「意思決定の自動化」をどう制御するかが今後の主戦場になりそう。\n皆さんの現場では、エージェントにどこまで「判断」を任せていますか？\n精度の担保やコスト管理で工夫していることがあれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-19T22:17:48.402997+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-19-koboldcpp-1110-musicgen-tts-guide",
+    "title": "KoboldCpp 1.110 使い方：ローカルLLMで音楽生成と音声合成を同時に動かす方法",
+    "url": "https://ai.negi-lab.com/posts/koboldcpp-1110-musicgen-tts-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLM #KoboldCpp",
+    "tweet_text": "ローカルLLM界隈がまた一段階上の次元に行きましたね。KoboldCpp v1.110がリリースされましたが、これ「全部入り」の執念が凄まじいです。\n\n1つのexeを叩くだけで、LLMとの対話、MusicGenによる音楽生成、そしてQwen2-Audioを使った音声クローニングまで完結します。SIer時代、これらを別々のコンテナで動かして連携させるのにどれだけ苦労したか…。今はAPIを1つ叩くだけで、AIが回答し、その場でBGMを作り、指定した声で喋り始めます。\n\n特に音声クローニングの「手軽さ」が異常。5秒程度のサンプルを読み込ませるだけで、自分の声でAIに喋らせることが可能です。RTX 4090の2枚挿し環境で検証しましたが、MusicGenの並列走らせてもVRAM管理が非常に優秀。\n\nこれ、ローカルで自分専用の「AIラジオ局」とか「フルボイスNPC」を作るのがめちゃくちゃ現実的になります。クラウドAPIの従量課金や検閲に怯える日々はもう終わり。\n\n皆さんは、この「LLM・音楽・音声」の統合環境、どんな用途に使ってみたいですか？実務でのNPC生成や、個人のPodcast自動化など、具体的なアイデアがあればぜひ聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-19T22:21:50.595740+09:00",
+    "posted": false
   }
 ]
