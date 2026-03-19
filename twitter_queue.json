@@ -7533,5 +7533,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-20T00:29:16.993393+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-20-meta-ai-content-enforcement-llama-guard",
+    "title": "Metaがコンテンツ検閲を「AI化」し外注依存を脱却。Llamaベースの独自システムがもたらす検閲精度の実態",
+    "url": "https://ai.negi-lab.com/posts/meta-ai-content-enforcement-llama-guard/",
+    "category": "NEWS",
+    "viral_tags": "#MetaAI #LlamaGuard",
+    "tweet_text": "Metaがコンテンツ検閲の「脱・外注」を宣言。数万人規模の人的リソースに頼っていたモデレーションを、自社製AI（Llamaベース）に切り替えるという大きな決断を下しました。\n\nSIer時代、大規模システムの保守で「人力の限界」を何度も見てきた身としては、この自動化の流れは必然だと感じます。AIなら24時間365日、ミリ秒単位で数億件の投稿をさばける。しかも新ルールへの対応はプロンプトを書き換えるだけ。\n\nただ、現場目線で怖いのは「検閲のブラックボックス化」です。人間なら「これ、判定ミスじゃない？」と言えた余地が、AIのベクトル演算の中に消えてしまう。誤検知への異議申し立てまでAIが処理するようになれば、ユーザーは「機械の沈黙」に直面することになる。\n\n開発者的には、Metaが公開しているLlama Guard 3を自社サービスにどう組み込むかが今のトレンドですね。GPT-4oのModeration APIとの精度比較も気になるところ。\n\n3ヶ月後には、SNSの「BAN祭り」の質が変わっているはず。効率化の裏にある「言論の均質化」というリスクから目が離せません。\n\n皆さんのサービスでは、検閲にどのモデルを使ってますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-20T02:53:23.592986+09:00",
+    "posted": false
   }
 ]
