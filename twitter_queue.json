@@ -7463,5 +7463,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-19T16:07:09.435800+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-19-multiverse-computing-compactifai-api-launch",
+    "title": "Llama 3やGPT-4oを「10分の1」のサイズに圧縮しても精度を維持できる技術が、ついにAPIとして一般開放されました。",
+    "url": "https://ai.negi-lab.com/posts/multiverse-computing-compactifai-api-launch/",
+    "category": "NEWS",
+    "viral_tags": "#LLM #モデル圧縮",
+    "tweet_text": "AIモデルの巨大化に疲弊している全開発者に朗報です。\n\nLlama 3やGPT-4クラスのモデルを「精度そのまま、サイズ1/10」にする魔法のような技術が、ついにAPIで公開されました。Multiverse Computingが放つ「CompactifAI」は、従来の量子化とは一線を画すテンソルネットワーク技術を採用しています。\n\nSIer時代、推論サーバーの月額コストを見て頭を抱えた経験がありますが、この技術があれば数世代前の安価なGPUや、なんならスマホのCPUでさえ高性能LLMが動く時代が来ます。RTX 4090を2枚挿ししている私の自宅サーバーも、そろそろリストラ対象かもしれません。\n\nビット数を削って無理やり軽くするのではなく、数学的に行列を再構成して「賢さ」を保つアプローチ。これこそが、AIを真に社会の隅々まで普及させる鍵になるはずです。\n\n皆さんの現場では、推論コストと精度のトレードオフ、どこで妥協していますか？この技術で「ローカルLLM運用」のハードルはどこまで下がると思いますか？ぜひ意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-19T18:43:17.870929+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-19-doodles-ai-ip-specific-llm-review",
+    "title": "Doodles Ai 使い方と実務レビュー：独自IP特化型LLMが示す垂直統合型AIの可能性",
+    "url": "https://ai.negi-lab.com/posts/doodles-ai-ip-specific-llm-review/",
+    "category": "TOOL",
+    "viral_tags": "#DoodlesAi #生成AI",
+    "tweet_text": "AI業界の関心は「汎用性」から「特定IPの垂直統合」へとシフトしつつあります。今回、Doodles Aiを徹底的に検証して確信したのは、特定のブランド世界観をモデルに直接封じ込めることの圧倒的な優位性。\n\nSIer時代、クライアントのロゴやキャラクターの一貫性を守るためにどれだけの深夜作業と手修正が発生したか…。このツールは、その「不毛な調整」をLLMの重み付けレベルで解決しています。100回生成して100回ともブランド基準を満たすのは、プロンプトエンジニアリングの限界を超えた領域。\n\nコードを書いていても、APIが返すメタデータが既にIPの属性情報を保持している点に驚きました。単に画像を出力するのではなく、IPを「プログラム可能なデータ」として扱っている。RTX 4090を2枚回してLoRAをこねくり回す楽しさもありますが、実務で求められるのはこういう「絶対に外さない」モデルかもしれません。\n\n独自IPを持つ企業は、このDoodlesの戦略を無視できないはず。みなさんは、汎用モデルを使いこなす技術と、特定IPに特化した垂直統合モデル、どちらに将来性を感じますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-19T18:47:19.354885+09:00",
+    "posted": false
   }
 ]
