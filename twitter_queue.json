@@ -7589,5 +7589,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-20T13:56:29.728108+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-20-techcrunch-startup-battlefield-200-ai-engineer-guide",
+    "title": "TechCrunch Startup Battlefield 200応募締切迫る！AIエンジニアが「出資なし10万ドル」を狙うべき技術的勝機",
+    "url": "https://ai.negi-lab.com/posts/techcrunch-startup-battlefield-200-ai-engineer-guide/",
+    "category": "NEWS",
+    "viral_tags": "#TechCrunchDisrupt #AIスタートアップ",
+    "tweet_text": "TechCrunchのStartup Battlefield 200、今年の応募締切が5月27日に迫っています。AIエンジニアの端くれとして言わせてもらうと、今回の「出資なし10万ドル」は、シード期の計算リソースを確保するためのラストチャンスに近いかもしれません。\n\n2024年頃の「API叩くだけのラッパー」はもう通用しない。2026年の今、求められているのはローカルとクラウドを組み合わせたハイブリッド推論や、数百万トークンを制御する独自のAgentic Workflowです。SIer時代、ガチガチの仕様書に縛られていた自分が見たら、今のこの「技術一つで世界にリーチできる環境」は魔法のように見えますね。\n\n正直、10万ドルのキャッシュも熱いですが、それ以上に「株式を1%も渡さずにTechCrunchの冠を得る」ことのレバレッジが凄まじい。RTX 4090を回してコードを書いてる層は、今すぐデモ動画を撮って応募すべきです。\n\n今の日本のAIスタートアップ界隈、少し慎重になりすぎていませんか？グローバルな土俵で自分のスタックを試すなら、これ以上の場所はないと思います。\n\n皆さんの周りで、まだ埋もれている「ガチなAIプロダクト」を知りませんか？あるいは、自分のプロダクトの推論コスト、どう抑えてますか？リプライで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-20T16:01:18.471437+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-20-stripe-machine-payments-protocol-ai-agent-review",
+    "title": "Machine Payments Protocol 使い方とAIエージェント決済の実装",
+    "url": "https://ai.negi-lab.com/posts/stripe-machine-payments-protocol-ai-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#Stripe #AIエージェント",
+    "tweet_text": "AIエージェントに「財布」を持たせる時代がついに本格化します。Stripeが提唱するMachine Payments Protocolをドキュメントから徹底的に読み解きました。\n\nこれまでのAIエージェント開発で最大の壁は、最後の「決済ボタン」でした。人間なら当たり前にできる2段階認証やSMS認証が、自律型AIにとっては致命的な障壁になっていたんです。\n\n今回のプロトコルは、この問題を「プログラム可能な予算制限」という形で解決しています。「このエージェントには月50ドルまで」とインフラ側でガチガチに制限をかけつつ、AIが自律的にバーチャルカードを発行・決済できる仕組み。\n\nSIer時代、決済承認フローの自動化にどれだけ苦労したかを思い出すと、この進化には震えます。決済ログがStripeで一元管理されるのも、実務者としては涙が出るほどありがたいポイント。\n\nただ、Stripe Issuingの審査など、国内の個人開発者がすぐに本番投入するには少しハードルが高いのも事実。B2BでAIエージェント事業を検討している人には、これ以外の選択肢はないと言えるレベルの完成度です。\n\nAIが自分でサーバー代を払い、自分で必要なデータを買い付ける。そんな「エージェント経済圏」のバックエンドを支えるのは、間違いなくこの技術ですね。皆さんは、自分のAIにいくらまでなら自由に買い物させられますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-20T16:05:22.335225+09:00",
+    "posted": false
   }
 ]
