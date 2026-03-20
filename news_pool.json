@@ -1,90 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Hyper",
-      "url": "https://www.producthunt.com/products/hyper-10",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Perfect memory for every real-world conversation </p> <p> <a href=\"https://www.producthunt.com/products/hyper-10?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096949?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-13T22:10:48"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ClawMote",
-      "url": "https://www.producthunt.com/products/clawmote-one-hand-openclaw-wispr-flow",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> One-hand OpenClaw control via voice </p> <p> <a href=\"https://www.producthunt.com/products/clawmote-one-hand-openclaw-wispr-flow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096857?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-13T22:10:48"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Scindo",
-      "url": "https://www.producthunt.com/products/scindo",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI captures decisions, drafts plans, and opens matching PRs. </p> <p> <a href=\"https://www.producthunt.com/products/scindo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096941?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-13T22:10:48"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "DevilXD/TwitchDropsMiner",
-      "url": "https://github.com/DevilXD/TwitchDropsMiner",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "An app that allows you to AFK mine timed Twitch drops, with automatic drop claiming and channel switching.",
-      "extra": {
-        "stars_today": "11 stars today"
-      },
-      "collected_at": "2026-03-13T22:10:50"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "airbnb/lottie-ios",
-      "url": "https://github.com/airbnb/lottie-ios",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "An iOS library to natively render After Effects vector animations",
-      "extra": {
-        "stars_today": "7 stars today"
-      },
-      "collected_at": "2026-03-13T22:10:50"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "qwen3.5-35b-a3b is a gem",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsjeip/qwen3535ba3b_is_a_gem/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-13T10:13:14+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rsjeip/qwen3535ba3b_is_a_gem/\"> <img alt=\"qwen3.5-35b-a3b is a gem\" src=\"https://preview.redd.it/fj6il0xdbsog1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f75f208a4968b906443ffe5f2181798723c85127\" title=\"qwen3.5-35b-a3b is a gem\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I am using this model to generate or update code summaries (docstrings). This model seems to be the perfect spot for this task as it's super ",
-      "extra": {},
-      "collected_at": "2026-03-13T22:10:51"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
       "url": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
@@ -3351,20 +3267,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Qwen3.5 is a working dog.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryljps/qwen35_is_a_working_dog/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-20T03:31:07+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I saw someone say recently something to the effect of: “that man is a working dog. if you don’t give him a job, he’ll tear up the furniture.” Qwen3.5 is a working dog. </p> <p>I’ve been working with this model a lot recently. I’ve baked three dozen custom quantizations. I’ve used three different execution backends. Of everything I’ve learned I can at least report the following. </p> <p>These models absolutely hate having no context. They are retrieval hounds. Th",
-      "extra": {},
-      "collected_at": "2026-03-20T13:55:59"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Just won a RTX 5090 at Nvidia GTC, now what?",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryhmbf/just_won_a_rtx_5090_at_nvidia_gtc_now_what/",
       "primary_category": "GUIDE",
@@ -3509,19 +3411,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "GitAgent by Lyzr",
-      "url": "https://www.producthunt.com/products/gitagent-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your repository becomes your agent </p> <p> <a href=\"https://www.producthunt.com/products/gitagent-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102921?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-20T22:10:44"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Built for Devs",
       "url": "https://www.producthunt.com/products/built-for-devs-2",
       "primary_category": "TOOL",
@@ -3660,7 +3549,76 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I found something weird while uncensoring Nvidia's NemotronH family this past week.</p> <p>These models don't just refuse harmful prompts in the typical fashion for certain demographic categories. Nvidia trained a completely separate behavior and flaunts it as a positive technological breakthrough. The model quietly rewrites what you asked into the opposite. There is no disclosure and no refusal message, but directly different content than what you",
       "extra": {},
       "collected_at": "2026-03-20T22:10:46"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google Search is now using AI to replace headlines",
+      "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-20T10:30:00-04:00",
+      "summary": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken promise: The website you click is the website you get. Now, Google is beginning to replace news headlines in its search results with ones that are AI-generated. [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-21T00:24:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Visdiff",
+      "url": "https://www.producthunt.com/products/visdiff",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Stop bridging the design-to-code gap, close it </p> <p> <a href=\"https://www.producthunt.com/products/visdiff?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102150?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-21T00:24:22"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AdsTurbo",
+      "url": "https://www.producthunt.com/products/adsturbo-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create ads with AI actors that look truly human </p> <p> <a href=\"https://www.producthunt.com/products/adsturbo-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100548?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-21T00:24:22"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Follow-up: Qwen3 30B a3b at 7-8 t/s on a Raspberry Pi 5 8GB (source included)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rywym9/followup_qwen3_30b_a3b_at_78_ts_on_a_raspberry_pi/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-20T13:58:10+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rywym9/followup_qwen3_30b_a3b_at_78_ts_on_a_raspberry_pi/\"> <img alt=\"Follow-up: Qwen3 30B a3b at 7-8 t/s on a Raspberry Pi 5 8GB (source included)\" src=\"https://external-preview.redd.it/amJidGprdnNmN3FnMRY6tt0-CcJelKy8mWyDAWysNJONa6_hB7YsNO9LeJOC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b775ab74569028d6de855af734d3470681fdb1d\" title=\"Follow-up: Qwen3 30B a3b at 7-8 t/s on a Raspberry Pi 5 8GB (source included)\" /> ",
+      "extra": {},
+      "collected_at": "2026-03-21T00:24:25"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Mistral Small 4 vs Qwen3.5-9B on document understanding benchmarks, but it does better than GPT-4.1",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryvwsq/mistral_small_4_vs_qwen359b_on_document/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-20T13:13:46+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ryvwsq/mistral_small_4_vs_qwen359b_on_document/\"> <img alt=\"Mistral Small 4 vs Qwen3.5-9B on document understanding benchmarks, but it does better than GPT-4.1\" src=\"https://preview.redd.it/yue1wbch97qg1.png?width=140&amp;height=121&amp;auto=webp&amp;s=8359d83c88b80d7bf40045162260b18b2e57a174\" title=\"Mistral Small 4 vs Qwen3.5-9B on document understanding benchmarks, but it does better than GPT-4.1\" /> </a> </td><td> <!-- SC",
+      "extra": {},
+      "collected_at": "2026-03-21T00:24:25"
     }
   ],
-  "updated_at": "2026-03-20T22:10:46.636759+09:00"
+  "updated_at": "2026-03-21T00:24:25.867380+09:00"
 }

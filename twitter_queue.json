@@ -7673,5 +7673,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-20T22:15:16.489397+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-21-visdiff-visual-regression-testing-review",
+    "title": "Visdiff レビュー：デザインとコードの乖離をゼロにする視覚的比較ツールの実力",
+    "url": "https://ai.negi-lab.com/posts/visdiff-visual-regression-testing-review/",
+    "category": "TOOL",
+    "viral_tags": "#VisualTesting #フロントエンド開発",
+    "tweet_text": "デザインとコードの「ピクセル単位のズレ」をCI/CDで自動検知。Visdiffの実用性を徹底レビューしました。\n\nSIer時代、Excelにスクショを貼って「ここ数pxズレてます」なんて指摘し合っていた時間は何だったのか…。\nVisdiffはFigma APIからデザインの「正解」を取得し、実際のレンダリング結果と重ね合わせて赤くハイライトしてくれます。\n\n実際に触ってみると、Playwright連携やGitHub Actionsでの自動化が非常にスムーズ。\n特にCursorやv0などのAIコーディングを使っている現代において、AIが生成したUIの「正確性」を担保するガードレールとしてこれほど最適なツールはありません。\n\n導入の肝は、Figmaのネーミングルールを整備すること。\nここさえ突破すれば、人間による1時間の目視確認がCI上の15秒で終わります。\nもちろん、動的コンテンツへの対応やフォントレンダリングの微差など、泥臭い設定が必要な弱点も正直に書きました。\n\n皆さんの現場では、デザインレビューにどれくらい時間をかけていますか？\nあるいは、自動化を阻んでいる一番の要因は何でしょうか？\n現場のリアルな意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-21T00:24:50.292392+09:00",
+    "posted": false
   }
 ]
