@@ -7575,5 +7575,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-20T11:44:10.986729+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-20-doordash-tasks-ai-training-data-platform",
+    "title": "DoorDash「Tasks」始動：配達員をAI教師に変えるデータ収集戦略の衝撃",
+    "url": "https://ai.negi-lab.com/posts/doordash-tasks-ai-training-data-platform/",
+    "category": "NEWS",
+    "viral_tags": "#DoorDashTasks #マルチモーダルAI",
+    "tweet_text": "DoorDashが発表した「Tasks」アプリ、これ実はAI業界のパワーバランスを激変させる一手かもしれません。\n\n一見すると配達員向けの「お小遣い稼ぎ」ですが、その本質は「物理世界のRLHF基盤」の構築です。GPT-4oやClaude 3のようなマルチモーダルAIが、次に喉から手が出るほど欲しがっているのは、インターネットに落ちていない「一人称視点のリアルな動画データ」なんですよね。\n\nSIer時代にデータ収集で地獄を見た経験から言わせてもらうと、世界中にいる数百万人の配達員を「リアルタイムのセンサー」に変えるこの仕組みは、コストと速度の面で既存のデータラベリング企業を圧倒します。\n\nこれからは「テキストデータ」ではなく「物理空間の行動データ」を持っている企業が勝つ。そんな冷徹なフェーズに入ったことを強く感じます。数ヶ月後には、UberやAmazonも間違いなく追随してくるでしょう。\n\n皆さんは、自分の日常動作がAIの学習データとして「売られる」未来、どう思いますか？便利さとプライバシーのトレードオフ、どこまで許容できるでしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-20T13:56:29.728108+09:00",
+    "posted": false
   }
 ]
