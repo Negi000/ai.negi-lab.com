@@ -7701,5 +7701,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-21T02:36:40.154046+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-21-microsoft-windows-copilot-rollback-analysis",
+    "title": "WindowsのCopilot削除が示すAI戦略の転換と実務への影響",
+    "url": "https://ai.negi-lab.com/posts/microsoft-windows-copilot-rollback-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Windows11 #Copilot",
+    "tweet_text": "MicrosoftがWindowsのCopilot肥大化をついに認め、フォトやメモ帳からの「AI押し売り」を撤回し始めました。SIer時代に嫌というほど見てきた「不要な機能統合によるUX崩壊」を、まさか天下のMSがやらかすとは…。\n\n今回のロールバック、ただの縮小ではありません。OSのリソースを勝手に食い潰すAIを整理し、ユーザーに主導権を返すという「実務への回帰」です。特にメモ帳にまでAIボタンがあったのは、エンジニア視点ではノイズでしかなかった。\n\n私のRTX 4090環境でも、勝手にVRAMを占有するCopilotプロセスには困らされていました。これが整理されることで、本来のローカルLLM運用や重いタスクにリソースを全振りできるようになります。\n\n今後は「チャットUIを置くだけ」の安易なAI実装は淘汰されます。開発者はNPUを活用したオンデマンドな推論設計へ切り替えるべき。3ヶ月後には、より軽量でプロフェッショナルなWindows環境が戻ってくるはずです。AI PCの真の進化は、ここから始まるのかもしれませんね。\n\n皆さんの環境では、今のCopilotって正直邪魔だと感じることありませんか？それとももっと統合を進めてほしいですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-21T06:40:15.396505+09:00",
+    "posted": false
   }
 ]
