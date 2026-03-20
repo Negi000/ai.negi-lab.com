@@ -7617,5 +7617,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-20T16:05:22.335225+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-20-openai-desktop-superapp-atlas-codex-integration",
+    "title": "OpenAIのデスクトップ覇権「スーパーアプリ」構想が開発環境を破壊する",
+    "url": "https://ai.negi-lab.com/posts/openai-desktop-superapp-atlas-codex-integration/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #ChatGPT",
+    "tweet_text": "OpenAIが開発中の「スーパーアプリ」構想が、開発者のワークフローを根本から破壊しにきています。ChatGPT、Codex（コード）、そしてAtlasという謎に包まれた「AIブラウザ」が1つのデスクトップアプリに統合されるとのこと。\n\nこれまでは「ブラウザで調べて、エディタにコピペする」のが当たり前でしたが、その断絶が消滅します。AIがブラウザのDOMをリアルタイムで解析しながら、そのままコードを書き換える。もはやIDEの拡張機能レベルの話ではなく、OSの上に「AIエージェント専用の操作層」が構築されるイメージです。\n\nSIer時代、あの膨大な仕様書とコードの往復に苦しんだ身としては、この「コンテキストの完全統合」は悲願でもあります。一方で、ブラウザまでOpenAIに握られることへの恐怖も。Atlasが実現する「エージェントによるブラウジング」は、既存のEdgeやChromeのシェアを奪う可能性すらありますね。\n\n皆さんは、ブラウザまでAIに統合される未来、歓迎ですか？それともプライバシー的に「NO」ですか？特に開発現場でのセキュリティ基準がどう変わるのか、議論したいところです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-20T18:41:23.912422+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-20-chat-5-backend-to-ui-review",
+    "title": "Chat 使い方と実装レビュー：バックエンドを3分でチャットUI化する実戦的検証",
+    "url": "https://ai.negi-lab.com/posts/chat-5-backend-to-ui-review/",
+    "category": "TOOL",
+    "viral_tags": "#LLM #バックエンド開発",
+    "tweet_text": "バックエンドは書けるけどフロントエンドは正直触りたくない…というエンジニアに刺さる「Chat」を深掘りしました。\n\nこれ、APIエンドポイントを繋ぐだけでストリーミング対応のチャットUIが爆速で出来上がるやつです。SIer時代、SSEの実装やマークダウン描画のデバッグで数日溶かしていた苦労が、嘘みたいに一瞬で終わります。\n\n実際に触って感じたのは「車輪の再発明」をいかに捨てるかの重要性。LLMの精度向上に時間を使いたいのに、CSSの微調整で消耗するのはもう終わりにしましょう。\n\nもちろん、何でもできるわけじゃありません。自由度と引き換えに捨てている部分も正直に書きました。StreamlitやChainlitとの使い分けについても、実務経験ベースで比較表にまとめています。\n\n社内ツールのPoCや、個人開発のLLMアプリを3分で形にしたい人は、一つの選択肢として持っておいて損はないはず。\n\n皆さんはチャットUIを作る時、何を使ってますか？\nNext.jsでガッツリ組む派ですか？それともこういうツールに頼る派ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-20T18:45:22.489450+09:00",
+    "posted": false
   }
 ]
