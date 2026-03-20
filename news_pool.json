@@ -1,74 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "J.S. Held Launches AI Disputes Monitor to Track Rapidly Growing AI Litigation Landscape - 共同通信PRワイヤー",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2QlNWbkVGdjBsVi04TVFtWk9Yclp3RkhZZ1lTTW9GMTVKZ21UeXdRVm42X2xwMUMwcEZod196ZHJwUlZEanZQVG9kQmk2d0s0LVg1YldiVF9WRGc?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Fri, 13 Mar 2026 01:26:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2QlNWbkVGdjBsVi04TVFtWk9Yclp3RkhZZ1lTTW9GMTVKZ21UeXdRVm42X2xwMUMwcEZod196ZHJwUlZEanZQVG9kQmk2d0s0LVg1YldiVF9WRGc?oc=5\" target=\"_blank\">J.S. Held Launches AI Disputes Monitor to Track Rapidly Growing AI Litigation Landscape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">共同通信PRワイヤー</font>",
-      "extra": {},
-      "collected_at": "2026-03-13T11:42:36"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "oobo",
-      "url": "https://www.producthunt.com/products/ooboai-oobo",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Git layer that preserves the why behind AI-written code </p> <p> <a href=\"https://www.producthunt.com/products/ooboai-oobo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1095835?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-13T11:42:36"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Personal AI Memory V2",
-      "url": "https://www.producthunt.com/products/personal-ai-memory",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Captures and stores your AI Conversation from LLM platforms </p> <p> <a href=\"https://www.producthunt.com/products/personal-ai-memory?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1095726?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-13T11:42:36"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "OmniCoder-9B | 9B coding agent fine-tuned on 425K agentic trajectories",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rs6td4/omnicoder9b_9b_coding_agent_finetuned_on_425k/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-12T23:22:24+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Overview</h1> <p><strong>OmniCoder-9B</strong> is a 9-billion parameter coding agent model built by <a href=\"https://tesslate.com/\">Tesslate</a>, fine-tuned on top of <a href=\"https://huggingface.co/Qwen/Qwen3.5-9B\">Qwen3.5-9B</a>'s hybrid architecture (Gated Delta Networks interleaved with standard attention). It was trained on <strong>425,000+ curated agentic coding trajectories</strong> spanning real-world software engineering tasks, tool use, terminal opera",
-      "extra": {},
-      "collected_at": "2026-03-13T11:42:38"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Omnicoder-9b SLAPS in Opencode",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsa8wd/omnicoder9b_slaps_in_opencode/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-13T01:47:03+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was feeling a bit disheartened by seeing how anti-gravity and github copilot were now putting heavy quota restrictions and I kinda felt internally threatened that this was the start of the enshitification and price hikes. Google is expecting you to pay $250 or you will only be taste testing their premium models.</p> <p>I have 8gb vram, so I usually can't run any capable open source models for agentic coding at good speeds, I was messing with qwen3.5-9b and tod",
-      "extra": {},
-      "collected_at": "2026-03-13T11:42:38"
-    },
-    {
       "source": "Product Hunt",
       "title": "Casero",
       "url": "https://www.producthunt.com/products/casero",
@@ -3443,19 +3375,6 @@
       "collected_at": "2026-03-20T02:52:55"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
-      "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 19 Mar 2026 19:09:02 +0000",
-      "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
-      "extra": {},
-      "collected_at": "2026-03-20T06:46:31"
-    },
-    {
       "source": "Product Hunt",
       "title": "Billy.sh",
       "url": "https://www.producthunt.com/products/billy-sh",
@@ -3506,7 +3425,74 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>With M2.7 nipping at the heels of Opus 4.6 et al., do you think MiniMaxAI will now pivot to closed API-only access? Will they maintain an open-weights friendly stance?</p> <p>I for one am crossing my fingers and praying to all the gods of LLMs that they keep releasing!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/__JockY__\"> /u/__JockY__ </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ry7exr/mini",
       "extra": {},
       "collected_at": "2026-03-20T06:46:38"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 19 Mar 2026 22:09:24 +0000",
+      "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+      "extra": {},
+      "collected_at": "2026-03-20T11:43:38"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "OctoClaw",
+      "url": "https://www.producthunt.com/products/octoclaw",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Hire AI specialists for marketing, sales, support, and more </p> <p> <a href=\"https://www.producthunt.com/products/octoclaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097578?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-20T11:43:42"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "What the hell is Deepseek doing for so long?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryhn0o/what_the_hell_is_deepseek_doing_for_so_long/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-20T00:34:01+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Almost all the Chinese AI companies have surpassed their models. Even Xiaomi now has a far better model. They are still somehow stuck in v 3.2 with minor updates. They supposedly have so much resources now that they have international attention. They haven't even released a decent multimodal model. Are they just out of race at this point? I don't see how they can even compete with frontier Chinese AI companies, much less than frontier US companies unless they re",
+      "extra": {},
+      "collected_at": "2026-03-20T11:43:45"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "My Experience with Qwen 3.5 35B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryc3w0/my_experience_with_qwen_35_35b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-19T20:54:33+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>these last few months we got some excellent local models like</p> <ul> <li>Nemotron Nano 30BA3</li> <li>GLM 4.7 Flash</li> </ul> <p>both of these were very good compared to anything that came before them with these two for the first time i was able to reliably do stuff(meaning i can look at a task and know <code>yup these will be able to do it</code>)</p> <p>but then came Qwen 35B. it was smarter overall speeds don't degrade with larger context, and all the thin",
+      "extra": {},
+      "collected_at": "2026-03-20T11:43:45"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Vercel will train model on your code",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryetd5/vercel_will_train_model_on_your_code/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-03-19T22:37:52+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ryetd5/vercel_will_train_model_on_your_code/\"> <img alt=\"Vercel will train model on your code\" src=\"https://preview.redd.it/j1vlmz7hx2qg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=746f3d6cc3a0499a5ffc40ec52b927b90b368908\" title=\"Vercel will train model on your code\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Got these new terms and policy changes.</p> <p>If you are under hobby or free plan - you are default ",
+      "extra": {},
+      "collected_at": "2026-03-20T11:43:45"
     }
   ],
-  "updated_at": "2026-03-20T06:46:38.675671+09:00"
+  "updated_at": "2026-03-20T11:43:45.267420+09:00"
 }
