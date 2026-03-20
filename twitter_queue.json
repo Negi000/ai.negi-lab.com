@@ -7645,5 +7645,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-20T18:45:22.489450+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-20-gitagent-lyzr-review-github-automation",
+    "title": "GitAgent by Lyzr 使い方：GitHubリポジトリを自律型エージェント化する実務評価",
+    "url": "https://ai.negi-lab.com/posts/gitagent-lyzr-review-github-automation/",
+    "category": "TOOL",
+    "viral_tags": "#GitAgent #AIエージェント",
+    "tweet_text": "GitHubのIssueを投げたら、AIが勝手に修正ブランチを作ってPRまで投げてくる。そんな「自律型開発」が現実味を帯びてきました。\n\nLyzrが提供する「GitAgent」を徹底検証。これ、単なるコード生成AIとは一線を画しています。エンジニアがPython SDKを使って、自分のプロジェクト専用の「AI保守要員」を定義できるのが最大の強み。\n\nSIer時代、仕様変更のたびに関連ファイルを血眼で探していたあの時間は何だったのか。RTX 4090を2枚挿した自宅サーバーで検証した結果、コンテキストの把握能力とGitHub操作の柔軟性は、実務レベルで「使い物になる」段階にあります。\n\nもちろん、全部丸投げはまだ危険。プロンプトの調整やトークン代の管理など、特有の苦労もあります。\n\n「Copilotがあるから十分」と思っている人にこそ、この「エージェントがワークフローを回す」感覚を体験してほしい。皆さんの現場では、Issueの何割くらいが「定型作業」ですか？その自動化に、いくらまでなら投資できますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-20T22:11:13.873273+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-20-qwen35-local-rag-setup-guide",
+    "title": "Qwen3.5を最強の「社内文書検索エンジン」として実戦配備するRAG構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/qwen35-local-rag-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen3.5 #LocalLLM",
+    "tweet_text": "RedditのLocalLLaMA民が「Qwen3.5はワーキングドッグだ」と評していて膝を打った。\nまさにその通りで、仕事（コンテキスト）を与えれば与えるほど忠実かつ精密に動く。\n逆に仕事がないと、その推論能力を持て余して変な挙動をする。\n\nSIer時代に苦労した「RAGのハルシネーション問題」も、Qwen3.5を職人気質な検索エンジンとして飼い慣らせば解決の糸口が見えてくる。\n特に日本語の忠実度と推論のバランスは、今やLlama 3をも凌駕している印象。\n実際に14Bモデルをローカルで回してみたけど、レスポンス0.5秒で社内規定を完璧に抽出できた。\n\nこの記事では、Qwen3.5を「最強の社内文書専門の番犬」に変えるRAG構築コードを全公開した。\n「動かしてみた」レベルじゃなく、本気で実務に投入するためのチャンク分割やプロンプト制御のコツを詰め込んでいる。\n\nRTX 3060〜4090を回している自作サーバー勢、あるいはセキュアな環境でLLMを使いたいエンジニアのみんな、Qwenの「仕事っぷり」をどう評価してる？\n特に14Bと32Bで、業務適性の差を感じたポイントがあれば具体的に教えてほしい。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-20T22:15:16.489397+09:00",
+    "posted": false
   }
 ]

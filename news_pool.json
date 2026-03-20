@@ -3323,19 +3323,6 @@
       "collected_at": "2026-03-20T11:43:45"
     },
     {
-      "source": "The Verge AI",
-      "title": "OpenAI is planning a desktop ‘superapp’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-19T20:09:38-04:00",
-      "summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the WSJ [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-20T13:55:52"
-    },
-    {
       "source": "Product Hunt",
       "title": "InfrOS",
       "url": "https://www.producthunt.com/products/infros",
@@ -3417,19 +3404,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Chat",
-      "url": "https://www.producthunt.com/products/chat-5",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> turn your backend into a chat app instantly </p> <p> <a href=\"https://www.producthunt.com/products/chat-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102815?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-20T18:40:53"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Google AI Studio 2.0",
       "url": "https://www.producthunt.com/products/google-ai-studio-8",
       "primary_category": "TOOL",
@@ -3493,7 +3467,200 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just some quick thoughts on <a href=\"https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF/blob/main/Qwen3.5-35B-A3B-UD-IQ4_XS.gguf\">Qwen3.5-35B-A3B-UD-IQ4_XS</a> after I finally got it working in the new version of <a href=\"https://github.com/oobabooga/text-generation-webui\">Ooba</a>. In short: on a 3090, this thing runs at around 100 t/s with almost no preprocessing time, and it can fit like a 250k context length on the card with no cache quantization. Actual pe",
       "extra": {},
       "collected_at": "2026-03-20T18:40:55"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The best AI investment might be in energy tech",
+      "url": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 20 Mar 2026 12:00:00 +0000",
+      "summary": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
+      "extra": {},
+      "collected_at": "2026-03-20T22:10:40"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "These AI notetaking devices can help you record and transcribe your meetings",
+      "url": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 20 Mar 2026 11:31:38 +0000",
+      "summary": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
+      "extra": {},
+      "collected_at": "2026-03-20T22:10:40"
+    },
+    {
+      "source": "Google News",
+      "title": "How AI fakes are turning satellite images into war misinformation【Inside FT】 - テレ東BIZ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wNjNUcVlVM3ZndXFLeEdFY2Y0MjVXWGdpV2FMbm5Ma1k5c01yMzREeU83dFRFdDlfTjg3M3l1b1lwNUdjcW5NWEhTbXpVX1YtOUpHWkVJTFdnSFpPdy1QbFY0a1I?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 20 Mar 2026 09:17:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wNjNUcVlVM3ZndXFLeEdFY2Y0MjVXWGdpV2FMbm5Ma1k5c01yMzREeU83dFRFdDlfTjg3M3l1b1lwNUdjcW5NWEhTbXpVX1YtOUpHWkVJTFdnSFpPdy1QbFY0a1I?oc=5\" target=\"_blank\">How AI fakes are turning satellite images into war misinformation【Inside FT】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">テレ東BIZ</font>",
+      "extra": {},
+      "collected_at": "2026-03-20T22:10:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GitAgent by Lyzr",
+      "url": "https://www.producthunt.com/products/gitagent-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your repository becomes your agent </p> <p> <a href=\"https://www.producthunt.com/products/gitagent-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102921?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-20T22:10:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Built for Devs",
+      "url": "https://www.producthunt.com/products/built-for-devs-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> See how developers really experience your product </p> <p> <a href=\"https://www.producthunt.com/products/built-for-devs-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/968591?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-20T22:10:44"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "systemd/systemd",
+      "url": "https://github.com/systemd/systemd",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The systemd System and Service Manager",
+      "extra": {
+        "stars_today": "37 stars today"
+      },
+      "collected_at": "2026-03-20T22:10:46"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "An extremely fast Python linter and code formatter, written in Rust.",
+      "extra": {
+        "stars_today": "152 stars today"
+      },
+      "collected_at": "2026-03-20T22:10:46"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "traefik/traefik",
+      "url": "https://github.com/traefik/traefik",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The Cloud Native Application Proxy",
+      "extra": {
+        "stars_today": "34 stars today"
+      },
+      "collected_at": "2026-03-20T22:10:46"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "google/flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "FlatBuffers: Memory Efficient Serialization Library",
+      "extra": {
+        "stars_today": "9 stars today"
+      },
+      "collected_at": "2026-03-20T22:10:46"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Ooh, new drama just dropped 👀",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryv7rg/ooh_new_drama_just_dropped/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-20T12:42:49+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ryv7rg/ooh_new_drama_just_dropped/\"> <img alt=\"Ooh, new drama just dropped 👀\" src=\"https://preview.redd.it/o5jfb7y747qg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fbaf93d2cba12ec69150335aca3b295d0c8f1739\" title=\"Ooh, new drama just dropped 👀\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>For those out of the loop: cursor's new model, composer 2, is apparently built on top of Kimi K2.5 without any attribution. E",
+      "extra": {},
+      "collected_at": "2026-03-20T22:10:46"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Kimi just published a paper replacing residual connections in transformers. results look legit",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryt8e3/kimi_just_published_a_paper_replacing_residual/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-20T11:03:05+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Kimi (moonshot ai) dropped a paper on something called &quot;attention residuals&quot; that replaces the standard residual connection thats been in every transformer since resnet in 2015.</p> <p>The tldr: normal residual connections just stack everything from all previous layers together. layer 40 gets the accumulated output of layers 1-39 all piled up. the deeper you go the more diluted earlier information gets. kimi calls this the &quot;dilution problem.&quot;",
+      "extra": {},
+      "collected_at": "2026-03-20T22:10:46"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Cursor's new Composer 2.0 is apparently based on Kimi2.5",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rytksg/cursors_new_composer_20_is_apparently_based_on/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-20T11:21:47+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This guy has found Cursor sends `accounts/anysphere/models/kimi-k2p5-rl-0317-s515-fast` in /chat/completions request when using Composer 2.0. </p> <p><a href=\"https://x.com/fynnso/status/2034706304875602030\">https://x.com/fynnso/status/2034706304875602030</a></p> <p>Musk already joined the roasting claiming it's Kimi 2.5 <a href=\"https://x.com/elonmusk/status/2034941631871455262?s=20\">https://x.com/elonmusk/status/2034941631871455262?s=20</a></p> <p>There're als",
+      "extra": {},
+      "collected_at": "2026-03-20T22:10:46"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Running TinyLlama 1.1B locally on a PowerBook G4 from 2002. Mac OS 9, no internet, installed from a CD.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryu7rr/running_tinyllama_11b_locally_on_a_powerbook_g4/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-20T11:54:40+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ryu7rr/running_tinyllama_11b_locally_on_a_powerbook_g4/\"> <img alt=\"Running TinyLlama 1.1B locally on a PowerBook G4 from 2002. Mac OS 9, no internet, installed from a CD.\" src=\"https://preview.redd.it/g7q59ca8v6qg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7db72383053d83111b497fc7335e8ab0554f5a18\" title=\"Running TinyLlama 1.1B locally on a PowerBook G4 from 2002. Mac OS 9, no internet, installed from a CD.\" /> </a> ",
+      "extra": {},
+      "collected_at": "2026-03-20T22:10:46"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Nvidia built a silent opinion engine into NemotronH to gaslight you and they're not the only ones doing it",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryv8ic/nvidia_built_a_silent_opinion_engine_into/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-20T12:43:48+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I found something weird while uncensoring Nvidia's NemotronH family this past week.</p> <p>These models don't just refuse harmful prompts in the typical fashion for certain demographic categories. Nvidia trained a completely separate behavior and flaunts it as a positive technological breakthrough. The model quietly rewrites what you asked into the opposite. There is no disclosure and no refusal message, but directly different content than what you",
+      "extra": {},
+      "collected_at": "2026-03-20T22:10:46"
     }
   ],
-  "updated_at": "2026-03-20T18:40:55.467350+09:00"
+  "updated_at": "2026-03-20T22:10:46.636759+09:00"
 }
