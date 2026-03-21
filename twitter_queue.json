@@ -7715,5 +7715,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-21T06:40:15.396505+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-21-anthropic-pentagon-legal-battle-technical-misunderstanding",
+    "title": "Anthropicと国防総省の密約？トランプ発言の裏で起きた技術的誤解の真相",
+    "url": "https://ai.negi-lab.com/posts/anthropic-pentagon-legal-battle-technical-misunderstanding/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #AIセキュリティ",
+    "tweet_text": "トランプ大統領が「Anthropicとの関係は終わった」と断じたわずか1週間後、実は国防総省側は「ほぼ合意に近い」と伝えていた。この凄まじい政治と実務の乖離、そして技術的誤解を巡る訴訟の裏側を深掘りしました。\n\n元SIerとして多くの官公庁・エンタープライズ案件をこなしてきましたが、今回の『技術的な誤解』というAnthropicの主張には既視感しかありません。特にLLMのウェイト管理や推論環境の分離（エアギャップ）に関する認識のズレは、実務者なら誰しもが直面する壁です。\n\n記事では、なぜAnthropicが『国家安全保障上のリスク』というレッテルを必死に剥がそうとしているのか、そしてAWS GovCloudを軸にした同社の防衛戦略がどう変わるのかを数字ベースで解説しています。OpenAIがAzure経由で食い込む中、独自路線を貫くClaudeの命運は？\n\nAIベンダーが軍事利用とどう向き合うべきか、皆さんはどう考えますか？『安全性のAnthropic』というブランディングとの矛盾について、率直な意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-21T11:37:28.704565+09:00",
+    "posted": false
   }
 ]

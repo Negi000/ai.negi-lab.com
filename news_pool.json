@@ -1,74 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "deepidv",
-      "url": "https://www.producthunt.com/products/deepidv",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI-native verification & anti-fraud Engine </p> <p> <a href=\"https://www.producthunt.com/products/deepidv?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088049?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-14T06:44:12"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Window View",
-      "url": "https://www.producthunt.com/products/window-view",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Step inside any building on Google Earth to see the view </p> <p> <a href=\"https://www.producthunt.com/products/window-view?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097070?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-14T06:44:12"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "KingCoding",
-      "url": "https://www.producthunt.com/products/kingcoding",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Run Claude, Codex & Cursor in parallel from one dashboard </p> <p> <a href=\"https://www.producthunt.com/products/kingcoding?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097001?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-14T06:44:12"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I'm fully blind, and AI is a game changer for me. Are there any local LLMS that can rival claude code and codex?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsuhwl/im_fully_blind_and_ai_is_a_game_changer_for_me/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-13T17:54:12+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys,</p> <p>So, I am fully blind.</p> <p>Since AI was released to the public, I have been a max user.</p> <p>Why?</p> <p>Because it has changed my life.</p> <p>Suddenly, I am able to get very accurate image descriptions, when I get an inaccessible document, an AI can read it to me in a matter of seconds, when there is something inaccessible, I can use Python, swift, or whatever I want to build my own software that is exactly how I want it.</p> <p>So far, I h",
-      "extra": {},
-      "collected_at": "2026-03-14T06:44:15"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Lemonade v10: Linux NPU support and chock full of multi-modal capabilities",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsucvk/lemonade_v10_linux_npu_support_and_chock_full_of/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-13T17:49:19+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rsucvk/lemonade_v10_linux_npu_support_and_chock_full_of/\"> <img alt=\"Lemonade v10: Linux NPU support and chock full of multi-modal capabilities\" src=\"https://preview.redd.it/ndpi723pkuog1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=239d2ad21db49d3a1f5e25df787a06e7354e2962\" title=\"Lemonade v10: Linux NPU support and chock full of multi-modal capabilities\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r",
-      "extra": {},
-      "collected_at": "2026-03-14T06:44:15"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
       "url": "https://github.com/Compresr-ai/Context-Gateway",
@@ -3568,19 +3500,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
-      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Fri, 20 Mar 2026 20:53:09 +0000",
-      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
-      "extra": {},
-      "collected_at": "2026-03-21T06:39:42"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
       "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
       "primary_category": "NEWS",
@@ -3669,7 +3588,98 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone. So, some people asked me to do the merge for Qwen 3.5-35 A3B model. Because it has only 3 active billion parameters and can run on old GPU (RTX 3060 12GB)</p> <p>Introducing: <a href=\"https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-Claude-Opus-4.6-Affine\">https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-Claude-Opus-4.6-Affine</a></p> <p><strong>This model has been made via merging:</strong></p> <ol> <li>The most popular",
       "extra": {},
       "collected_at": "2026-03-21T06:39:47"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 21 Mar 2026 01:40:28 +0000",
+      "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
+      "extra": {},
+      "collected_at": "2026-03-21T11:36:52"
+    },
+    {
+      "source": "Google News",
+      "title": "Industrial AI 革命をリードする - Siemens",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLUx1S1J3azFoTUJjQ0JfcmM2ZnBUQ3dTLURodE0tS1JaelhucFFSQ184Tm03NlMzRVd6VmdjS2JqT1kxejZxNENOUlhET01FQmhXdXhWM0VRSy1lSlAtdWdRVjFvTVFocmt5ekVnUkdsb1FqWnBHWXpOcnRBdWhCTXp3?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 18 Mar 2026 07:06:28 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQLUx1S1J3azFoTUJjQ0JfcmM2ZnBUQ3dTLURodE0tS1JaelhucFFSQ184Tm03NlMzRVd6VmdjS2JqT1kxejZxNENOUlhET01FQmhXdXhWM0VRSy1lSlAtdWdRVjFvTVFocmt5ekVnUkdsb1FqWnBHWXpOcnRBdWhCTXp3?oc=5\" target=\"_blank\">Industrial AI 革命をリードする</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Siemens</font>",
+      "extra": {},
+      "collected_at": "2026-03-21T11:36:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GentleLimit",
+      "url": "https://www.producthunt.com/products/gentlelimit",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Mindful screen time for macOS without blocking apps </p> <p> <a href=\"https://www.producthunt.com/products/gentlelimit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1098900?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-21T11:36:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Room Service",
+      "url": "https://www.producthunt.com/products/room-service-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The Mac cleaner built for developers </p> <p> <a href=\"https://www.producthunt.com/products/room-service-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102760?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-21T11:36:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen wants you to know…",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzeonn/qwen_wants_you_to_know/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-21T01:33:18+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rzeonn/qwen_wants_you_to_know/\"> <img alt=\"Qwen wants you to know…\" src=\"https://preview.redd.it/qajtynloxaqg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c521101f3064777d8a79706363f495bfdc4e2bf6\" title=\"Qwen wants you to know…\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Seen while walking through Singapore’s Changi airport earlier this week. Alibaba Cloud spending up big on advertising. </p> </div><!-- SC_ON ",
+      "extra": {},
+      "collected_at": "2026-03-21T11:36:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Talking with the people that spam their AI slop is actually really fun!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzacir/talking_with_the_people_that_spam_their_ai_slop/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-20T22:28:22+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The stuff they come up with is just so insane. It's like seeing all the funny stuff GPT2 would come up with several years back. The generic-ness of the titles also makes me laugh. &quot;founders&quot; &quot;solving&quot; coding with their ALL-NEW AGENTIC TOOL HARNESS. Sometimes they've just hooked their Reddit account directly up to an LLM and you can have fun getting them to write poems for you while presumably eating up their API credits.</p> <p>It's fun seein",
+      "extra": {},
+      "collected_at": "2026-03-21T11:36:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.5 397B is the best local coder I have used until now",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzaqjn/qwen_35_397b_is_the_best_local_coder_i_have_used/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-20T22:44:16+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Omg, this thing is amazing. I have tried all its smaller silbings 122b/35b/27b, gpt-oss 120b, StepFun 3.5, MiniMax M2.5, Qwen Coder 80B and also the new Super Nemotron 120b. None even come close to the knowledge and the bugfreeness of the big Qwen 3.5. </p> <p>Ok, it is the slowest of them all but what I am losing in token generation speed I am gaining, by not needing multiple turns to fix its issues, and by not waiting in endless thinking. And yes, in contrast ",
+      "extra": {},
+      "collected_at": "2026-03-21T11:36:58"
     }
   ],
-  "updated_at": "2026-03-21T06:39:47.229931+09:00"
+  "updated_at": "2026-03-21T11:36:58.871485+09:00"
 }
