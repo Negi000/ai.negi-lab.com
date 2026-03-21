@@ -7729,5 +7729,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-21T11:37:28.704565+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-21-nvidia-gtc-blackwell-b200-nim-analysis",
+    "title": "NVIDIA GTC詳報：Blackwell性能2.5倍とNIMが破壊する既存のAI開発手法",
+    "url": "https://ai.negi-lab.com/posts/nvidia-gtc-blackwell-b200-nim-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#NVIDIAGTC #Blackwell",
+    "tweet_text": "NVIDIA GTC 2024の基調講演を見終えて、正直「SIer時代の苦労は何だったのか」と呆然としています。\n\n今回発表された新GPU「Blackwell」のスペックはH100の数倍という次元ですが、それ以上に衝撃的なのが推論用マイクロサービス「NIM」の存在。これまで数週間かけてCUDA環境を構築し、TensorRTで血反吐を吐きながら最適化していた作業が、NVIDIA提供のコンテナ1つで終わるようになります。\n\nこれ、開発者の生存戦略が根底から変わりますね。\n\n技術的な核心は「FP4」サポートによる5倍の推論スループットと、10TB/sのインターコネクト。1.8兆パラメータのモデルを動かすハードルが劇的に下がりました。NVIDIAはもはやチップ屋ではなく、AIを動かすための「OS」と「工場」をセットで売るインフラ企業になりました。\n\n一方で、NVIDIAのプラットフォームに依存しない選択肢はどんどん狭まっています。この「最強の囲い込み」の中で、我々エンジニアはどう付加価値を出すべきか？\n\n記事ではBlackwellの詳細スペック比較から、NIMが変える開発現場の未来、そして今すぐ開発者が取るべきアクションを2500文字超でガチ解説しました。\n\n皆さんは今回の発表、どう感じましたか？「NIM」は開発現場を救う救世主になるのか、それとも自由を奪う鎖になるのか。ぜひ意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-21T13:45:21.105988+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-21-ai-skills-manager-prompt-management-guide",
+    "title": "AI Skills Manager 使い方：散らばったプロンプトとエージェント機能を一元管理する実践ガイド",
+    "url": "https://ai.negi-lab.com/posts/ai-skills-manager-prompt-management-guide/",
+    "category": "TOOL",
+    "viral_tags": "#LLMOps #AIエージェント",
+    "tweet_text": "AIエージェントの開発で一番しんどいのは「プロンプトの散乱」ですよね。SIer時代も似たような仕様管理の泥沼がありましたが、現代のAI開発も油断するとコード内にプロンプトがハードコードされ、手が付けられなくなります。\n\nProduct Huntで見つけた「AI Skills Manager」を数時間触ってみましたが、これはプロンプトを「スキル」として抽象化し、モデルから切り離して管理する設計思想が徹底されています。\n\n個人的にグッときたのは、実行時にモデルをサクッと上書きできる点。本番はGPT-4o、開発機はローカルのLlama 3といった切り替えが、ロジックを1ミリも汚さずに完結します。Pydanticでの型定義もサポートされていて、APIに投げる前にバリデーションができるのも実務目線で分かってるなという印象。\n\nLangChainだと重厚長大すぎると感じている中級以上のエンジニアには、これくらいの「管理に特化した薄いレイヤー」が丁度いいのではないでしょうか。皆さんはプロンプトのバージョン管理、どうやって自動化していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-21T13:49:12.692586+09:00",
+    "posted": false
   }
 ]
