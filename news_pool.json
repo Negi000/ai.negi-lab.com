@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.5 35b is sure one the best local model (pulling above its weight)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtm7bf/qwen35_35b_is_sure_one_the_best_local_model/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-14T15:24:34+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rtm7bf/qwen35_35b_is_sure_one_the_best_local_model/\"> <img alt=\"Qwen3.5 35b is sure one the best local model (pulling above its weight)\" src=\"https://preview.redd.it/c5hrtmg631pg1.gif?frame=1&amp;width=140&amp;height=75&amp;auto=webp&amp;s=9d6ec25fd4da79191d4a741e68f6b24c7c7e0977\" title=\"Qwen3.5 35b is sure one the best local model (pulling above its weight)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I am hearing a",
-      "extra": {},
-      "collected_at": "2026-03-15T02:27:31"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "(Very) High-Quality Attention Coder-Next GGUFs",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtos2b/very_highquality_attention_codernext_ggufs/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-14T17:06:17+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been conducting a bunch of quantization experiments on Qwen3-Coder-Next while using it for downstream client programming and data processing tasks, and I'd like to share some of my experience and thoughts with the community, as well as some quants with (very) high-quality attention tensors.</p> <p>One of the first things I noticed while quantizing Coder-Next (indeed any 3.5 MoE models) is that the attention tensors are small. Like: 16-32MB per tensor per la",
-      "extra": {},
-      "collected_at": "2026-03-15T02:27:31"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Nvidia's Nemotron 3 Super is a bigger deal than you think",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtp0og/nvidias_nemotron_3_super_is_a_bigger_deal_than/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-14T17:15:23+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rtp0og/nvidias_nemotron_3_super_is_a_bigger_deal_than/\"> <img alt=\"Nvidia's Nemotron 3 Super is a bigger deal than you think\" src=\"https://external-preview.redd.it/FjLcFT2L0-D4uU1VWCMPon4fVvFf_W3BmLC7qAJbCrw.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7e357f2b78c9cd674f6f5cfc25f7f1a89b82c79f\" title=\"Nvidia's Nemotron 3 Super is a bigger deal than you think\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www",
-      "extra": {},
-      "collected_at": "2026-03-15T02:27:31"
-    },
-    {
       "source": "Product Hunt",
       "title": "Socra",
       "url": "https://www.producthunt.com/products/socra-socratic-ai-tutor-partner",
@@ -3572,19 +3532,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Delve accused of misleading customers with ‘fake compliance’",
-      "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 21 Mar 2026 17:00:05 +0000",
-      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
-      "extra": {},
-      "collected_at": "2026-03-22T02:25:53"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
       "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
       "primary_category": "NEWS",
@@ -3673,7 +3620,47 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Recently, heavy-hitting news regarding a major personnel change has emerged in the field of Large Language Models (LLMs): <strong>Daya Guo</strong>, a core researcher at DeepSeek and one of the primary authors of the DeepSeek-R1 paper, has reportedly resigned.</p> <p>Public records show that Daya Guo possesses an exceptionally distinguished academic background. He obtained his PhD from Sun Yat-sen University in 2023, where he was mentored by Professor Jian Yin a",
       "extra": {},
       "collected_at": "2026-03-22T02:25:58"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+      "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 21 Mar 2026 19:30:27 +0000",
+      "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+      "extra": {},
+      "collected_at": "2026-03-22T06:34:40"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "LoCaL iS oVeRrAtEd",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s01dqw/local_is_overrated/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-21T20:08:46+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s01dqw/local_is_overrated/\"> <img alt=\"LoCaL iS oVeRrAtEd\" src=\"https://preview.redd.it/m72tpc4pggqg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa40991c3b46ad7509f777b0b770ab573c3add20\" title=\"LoCaL iS oVeRrAtEd\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I feel like at this point they’re just trying to ragebait for likes to compensate for inability to manufacture quality content.</p> </div><!-- SC_ON --> &#",
+      "extra": {},
+      "collected_at": "2026-03-22T06:34:46"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "New AI Policy by White House (US)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzyha4/new_ai_policy_by_white_house_us/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-03-21T18:12:56+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Summary (SLM Generated): </p> <p><strong>1. Protecting Children</strong> — Require age-assurance measures, parental controls, and safeguards against sexual exploitation and self-harm on AI platforms, while affirming existing child privacy laws apply to AI.</p> <p><strong>2. Strengthening Communities</strong> — Shield residential electricity ratepayers from AI data center costs, streamline permitting for AI infrastructure, combat AI-enabled scams targeting senior",
+      "extra": {},
+      "collected_at": "2026-03-22T06:34:46"
     }
   ],
-  "updated_at": "2026-03-22T02:25:58.718710+09:00"
+  "updated_at": "2026-03-22T06:34:46.376932+09:00"
 }
