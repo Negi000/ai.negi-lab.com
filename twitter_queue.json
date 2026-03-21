@@ -7799,5 +7799,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-21T18:36:12.400848+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-21-caplo-ios-realtime-ai-caption-review",
+    "title": "Caplo レビュー：iOS上のあらゆる音声をリアルタイムで字幕・翻訳する方法",
+    "url": "https://ai.negi-lab.com/posts/caplo-ios-realtime-ai-caption-review/",
+    "category": "TOOL",
+    "viral_tags": "#Caplo #AI翻訳",
+    "tweet_text": "iOS上のあらゆる音声をリアルタイムで翻訳・字幕化する「Caplo」を実機で使い倒してみました。\n\nSIer時代、海外製品のデモ動画や会議で「これなんて言ってるんだ…？」と絶望していた自分に教えたいレベル。Apple標準のライブキャプションより翻訳が自然で、SNSや独自アプリでも関係なくオーバーレイ表示されるのが強すぎます。\n\n技術的にはWhisper系の推論を噛ませている印象で、レスポンスと精度のバランスが実用的。\nただ、RTX 4090を積んだ自宅サーバー派の私から見ても、iPhone単体でこれを回すのはバッテリー負荷が正直エグいです。1時間の動画で20%減は覚悟が必要。\n\nそれでも、英語のポッドキャストを日本語字幕で流し見したり、無音の電車内で海外リールをチェックしたりする効率は爆上がりします。\n「特定アプリの字幕」に依存せず、OS全体を翻訳レイヤーで包む感覚は、一度体験すると戻れない。\n\n実際のところ、こうしたオンデバイスとクラウドのハイブリッドAI、皆さんはバッテリー持ちと精度どっちを重視しますか？\n私は多少熱くなっても精度派ですが、外出先での運用は工夫がいりそうです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-21T22:01:08.207572+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-21-qwen2-5-coder-python-local-guide",
+    "title": "Qwen2.5-Coder 使い方 | ローカルでGPT-4o級の開発環境をPythonで構築する",
+    "url": "https://ai.negi-lab.com/posts/qwen2-5-coder-python-local-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen2 #ローカルLLM",
+    "tweet_text": "シンガポールの空港に巨大なQwenの広告が出ていて驚きました。Alibabaの本気度を感じますね。実際にQwen2.5-Coderの32Bモデルをローカルで回していますが、コーディング能力はもはやGPT-4oと遜色ありません。むしろ社外秘コードを気にせず投げ込める分、エンジニアの武器としてはこちらの方が上かも。\n\n今回はOllamaとPythonを使って、ディレクトリ内の全コードを解析してレポートを出す「AIコードレビュアー」の構築ガイドを書きました。32kのコンテキスト設定で、ファイル間の依存関係まで読み取らせるのがコツです。\n\nSIer時代、数万行のスパゲッティコードを前に途方に暮れていた自分に、この環境を届けてあげたい…。当時は人力で1週間かかったコード追跡が、今やRTX 4090を2枚挿した自作機で数秒で終わる。この圧倒的な効率化を、ぜひ手元の環境で体感してほしいです。\n\nQwenを仕事で導入する際、皆さんはどの程度のモデルサイズまで許容していますか？やはりVRAM 24GBの壁は大きいでしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-21T22:05:08.700474+09:00",
+    "posted": false
   }
 ]
