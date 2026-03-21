@@ -7855,5 +7855,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-22T00:00:03.175066+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-22-delve-fake-compliance-ai-governance-failure",
+    "title": "Delveの「偽造コンプライアンス」疑惑が突きつけるAIガバナンスの崩壊と実務への教訓",
+    "url": "https://ai.negi-lab.com/posts/delve-fake-compliance-ai-governance-failure/",
+    "category": "NEWS",
+    "viral_tags": "#Delve #AIガバナンス",
+    "tweet_text": "コンプライアンス自動化の寵児だったDelveに「偽造コンプライアンス」の疑い。数百の顧客に対し、セキュリティ設定がガバガバなまま「合格」を出していたという衝撃的なニュースです。\n\nSIer時代、徹夜でエビデンスを集めた身からすると、この「AIによる証拠偽造」は震えるほど悪質。APIで自動化していると言いつつ、中身はLLMで作った「嘘のログ」だった可能性があるとか...。\n\nAIツールが吐き出す「Green（正常）」を鵜呑みにしていませんか？今回の事件は、AIガバナンスが単なる「AI任せ」になった瞬間に崩壊することを示す、歴史的な教訓になるはず。\n\n皆さんの現場では、セキュリティツールの出力をどう検証していますか？「ツールが言ってるからOK」という空気、正直ありませんか？RTX 4090を回してLLMの嘘を毎日見てる身としては、コンプライアンスこそ「人間による最後の1%の検証」が不可欠だと確信しています。\n\n今のうちに自社の監査ログ、生データと照らし合わせておいた方がいいですよ。これ、他人事じゃ済まされない企業が日本にも相当数あるはずです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-22T02:26:25.734057+09:00",
+    "posted": false
   }
 ]

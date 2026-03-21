@@ -1,45 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Campee",
-      "url": "https://www.producthunt.com/products/campee-planning-poker-online",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your estimations, frictionless </p> <p> <a href=\"https://www.producthunt.com/products/campee-planning-poker-online?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093728?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-14T23:58:00"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Lemon",
-      "url": "https://www.producthunt.com/products/lemon-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Voice-Powered AI Agent That Turns Speech Into Done Tasks </p> <p> <a href=\"https://www.producthunt.com/products/lemon-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082821?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-14T23:58:00"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3-Coder-Next with llama.cpp shenanigans",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rteubl/qwen3codernext_with_llamacpp_shenanigans/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-14T09:16:57+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>For the life of me I don't get how is Q3CN of any value for vibe coding, I see endless posts about the model's ability and it all strikes me very strange because I cannot get the same performance. The model loops like crazy, can't properly call tools, goes into wild workarounds to bypass the tools it should use. I'm using llama.cpp and this happened before and after the autoparser merge. The quant is unsloth's UD-Q8_K_XL, I've redownloaded after they did their q",
-      "extra": {},
-      "collected_at": "2026-03-14T23:58:02"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Qwen3.5 35b is sure one the best local model (pulling above its weight)",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtm7bf/qwen35_35b_is_sure_one_the_best_local_model/",
@@ -3583,19 +3544,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Cursor Glass",
-      "url": "https://www.producthunt.com/products/glass-4",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Unified agent workspace with seamless cloud handoff power </p> <p> <a href=\"https://www.producthunt.com/products/glass-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1103207?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-21T23:55:33"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Design Agent by Lokuma",
       "url": "https://www.producthunt.com/products/lokuma-ai",
       "primary_category": "TOOL",
@@ -3606,20 +3554,6 @@
       "summary": "<p> The designer for your AI agents (Openclaw, CC, Codex) </p> <p> <a href=\"https://www.producthunt.com/products/lokuma-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1093404?app_id=339\">Link</a> </p>",
       "extra": {},
       "collected_at": "2026-03-21T23:55:33"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Moonshot says Cursor Composer was authorized",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzqg06/moonshot_says_cursor_composer_was_authorized/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-03-21T12:39:51+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rzqg06/moonshot_says_cursor_composer_was_authorized/\"> <img alt=\"Moonshot says Cursor Composer was authorized\" src=\"https://preview.redd.it/lxc2navl8eqg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71933d87083d67e917d042844a2440831af19e7c\" title=\"Moonshot says Cursor Composer was authorized\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Sounds like Fireworks had a partnership with Moonshot, and Cursor went throug",
-      "extra": {},
-      "collected_at": "2026-03-21T23:55:35"
     },
     {
       "source": "r/LocalLLaMA",
@@ -3635,7 +3569,111 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just started into this stuff a couple months ago, so be gentle. I'm and old grey-haired IT guy, so I'm not coming from 0, but this stuff is all new to me. </p> <p>What started with a Raspberry PI with a Hailo10H, playing around with openclaw and ollama, turned into me trying ollama on my Macbook M3 Pro 16G, where I immediately saw the potential. The new M5 was announced at just the right time to trigger my OCD, and I got the thing just yesterday. </p> <p>I've ",
       "extra": {},
       "collected_at": "2026-03-21T23:55:35"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Delve accused of misleading customers with ‘fake compliance’",
+      "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 21 Mar 2026 17:00:05 +0000",
+      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+      "extra": {},
+      "collected_at": "2026-03-22T02:25:53"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 21 Mar 2026 16:28:00 +0000",
+      "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+      "extra": {},
+      "collected_at": "2026-03-22T02:25:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Everest AI",
+      "url": "https://www.producthunt.com/products/everest-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Building the world’s fastest IPMI single board computer </p> <p> <a href=\"https://www.producthunt.com/products/everest-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1103157?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-22T02:25:55"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Educato App",
+      "url": "https://www.producthunt.com/products/educato-app",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Personalized exam prep, now in your pocket </p> <p> <a href=\"https://www.producthunt.com/products/educato-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1103252?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-22T02:25:55"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Sanota",
+      "url": "https://www.producthunt.com/products/sanota",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Stories, beautifully crafted </p> <p> <a href=\"https://www.producthunt.com/products/sanota?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101671?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-22T02:25:55"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Novi Notes",
+      "url": "https://www.producthunt.com/products/novi-notes",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Local-first AI note app for Mac zero config via MCP </p> <p> <a href=\"https://www.producthunt.com/products/novi-notes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087121?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-22T02:25:55"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Don't sleep on the new Nemotron Cascade",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzud2z/dont_sleep_on_the_new_nemotron_cascade/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-21T15:30:38+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>While there has been a lot of discussion regarding the Nemotron Super family of models, I feel like the newest addition, the <a href=\"https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B\">Nemotron Cascade 2 30B-A3B</a> (which is *not* based on the Qwen architecture despite a similar size, it's a properly hybrid model based on Nemotron's own arch) has largely flown under the radar.</p> <p>I've been running some evals on local models lately since I'm kind of t",
+      "extra": {},
+      "collected_at": "2026-03-22T02:25:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "DeepSeek Core Researcher Daya Guo Rumored to Have Resigned",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzu7rc/deepseek_core_researcher_daya_guo_rumored_to_have/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-21T15:24:35+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Recently, heavy-hitting news regarding a major personnel change has emerged in the field of Large Language Models (LLMs): <strong>Daya Guo</strong>, a core researcher at DeepSeek and one of the primary authors of the DeepSeek-R1 paper, has reportedly resigned.</p> <p>Public records show that Daya Guo possesses an exceptionally distinguished academic background. He obtained his PhD from Sun Yat-sen University in 2023, where he was mentored by Professor Jian Yin a",
+      "extra": {},
+      "collected_at": "2026-03-22T02:25:58"
     }
   ],
-  "updated_at": "2026-03-21T23:55:35.023353+09:00"
+  "updated_at": "2026-03-22T02:25:58.718710+09:00"
 }
