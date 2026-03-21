@@ -7827,5 +7827,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-21T22:05:08.700474+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-21-cursor-glass-agent-workspace-review-handoff",
+    "title": "Cursor Glass 使い方 レビュー：自律型エージェントの「状態」をクラウドへ引き継ぐ次世代ワークスペースの真価",
+    "url": "https://ai.negi-lab.com/posts/cursor-glass-agent-workspace-review-handoff/",
+    "category": "TOOL",
+    "viral_tags": "#CursorGlass #AIAgent",
+    "tweet_text": "エージェント開発をしていて一番萎えるのが「ローカルで動いてる処理をクラウドに移そうとした瞬間に状態が壊れる」こと。\n\nSIer時代から分散システムのセッション管理には苦しめられてきたけど、Cursor Glassはこの問題を「環境丸ごとスナップショットしてハンドオフする」という力技で解決してきた。\n\n実際に試して驚いたのは、ローカルのVRAMが溢れそうになった瞬間に、実行中のメモリスタックを維持したままAWSのインスタンスへ処理が「ワープ」すること。これ、実装しようとしたら数週間はかかるはず。\n\n正直、ただのラッパーツールには飽き飽きしてたけど、これは久々に「インフラのあり方を変える」ポテンシャルを感じた。\n\nもちろん、ドキュメントは英語だし、料金体系も複雑で初心者向けじゃない。でも、24時間稼働のエージェントを本気で運用したいエンジニアなら、この「ステートフルなハンドオフ」の価値がわかるはず。\n\n皆さんは、エージェントの長期稼働における状態管理、どうやって解決してますか？LangGraphのCheckpointerで頑張る派か、それともこういうインフラレイヤーの解決策に頼る派か、意見が分かれそうですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-21T23:56:01.704564+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-22-cursor-composer-moonshot-api-tutorial",
+    "title": "Cursor Composerと外部APIを連携して大規模コード解析ツールを作る方法",
+    "url": "https://ai.negi-lab.com/posts/cursor-composer-moonshot-api-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#Cursor #MoonshotAI",
+    "tweet_text": "Cursor ComposerでMoonshot AI（Kimi）が正式に認可されたというニュース、これ実務へのインパクトが相当大きいですね。\n\nSIer時代、数千ファイルのコードを前に「全体像が見えない…」と頭を抱えていた私からすれば、128kの巨大なコンテキストをCursorのUIで直接扱えるのは、まさにゲームチェンジャーです。\n\nClaude 3.5 Sonnetも最高ですが、大規模なリファクタリングやドキュメント自動生成には、外部APIを繋いで適材適所でモデルを使い分けるのが今の最適解だと思います。\n\n実際にFireworks経由でMoonshotを連携させ、リポジトリ全体を解析するパイプラインを組んでみました。手順を詳しくまとめたので、開発効率を極限まで上げたい方はぜひ。\n\n皆さんはCursorの外部API連携、どのモデルを組み合わせて使っていますか？\n個人的にはLlama-3.1 405Bのパワーも捨てがたいですが、やっぱりコンテキストの長さは正義ですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-22T00:00:03.175066+09:00",
+    "posted": false
   }
 ]
