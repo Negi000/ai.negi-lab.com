@@ -7771,5 +7771,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-21T15:51:11.391351+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-21-trump-ai-policy-deregulation-federal-dominance",
+    "title": "トランプ次期政権が掲げる「AI国家戦略」は、開発者が最も恐れていた「規制のパッチワーク」を根底から破壊するものです。",
+    "url": "https://ai.negi-lab.com/posts/trump-ai-policy-deregulation-federal-dominance/",
+    "category": "NEWS",
+    "viral_tags": "#トランプ政権AI戦略 #規制緩和とAI覇権",
+    "tweet_text": "トランプ次期政権のAI新戦略、これは「開発者への解放宣言」か「劇薬」か。\n\n明らかになった7項目の指針で最も衝撃的なのは、カリフォルニア州などが進めてきた「州独自のAI規制」を連邦政府の権限で事実上、排除する方針です。SIer時代、複雑な規制対応に工数を溶かしてきた身としては、このスピード重視の姿勢は歓迎せざるを得ません。\n\n特に注目すべきは、規制緩和とセットで打ち出された「エネルギー革命」です。AIデータセンター向けに原子力発電を含む電力供給を爆増させるというプラン。これは単なる政策論ではなく、推論コストやAPI価格を物理的に引き下げる、極めて実務的な技術戦略と言えます。\n\n一方で、政府による「安全性チェック」の多くが撤廃されることは、万が一の際の責任が100%開発者に返ってくることを意味します。チェックリストを埋める仕事は消えますが、自律的にモデルを監視する「技術的な誠実さ」が今ほど問われる時代はありません。\n\n米国が「AIのタックスヘイブン」と化す中、日本の開発者はどう動くべきか。3ヶ月後には、コンプライアンス重視の組織と、開発速度全振りの組織で、埋められないほどの差がついているはずです。\n\n皆さんは、この「安全性を後回しにした覇権争い」について、技術者としてどう感じますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-21T18:32:13.370327+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-21-fractal-chatgpt-app-framework-review",
+    "title": "Fractal 使い方 ChatGPT連携アプリを最速でデプロイする手法",
+    "url": "https://ai.negi-lab.com/posts/fractal-chatgpt-app-framework-review/",
+    "category": "TOOL",
+    "viral_tags": "#Fractal #ChatGPTアプリ",
+    "tweet_text": "AIアプリのUI構築、まだReactで消耗してる？\n\nProduct Huntで見つけた「Fractal」を触ってみたけど、これSIer時代の苦労がバカらしくなるレベル。チャットUI、履歴保存、ストリーミング処理がSDK 1本で完結する。\n\n正直、プロトタイプ作成でNext.jsとVercel AI SDKをガチャガチャいじってた時間は何だったのか。PythonかNodeのロジックを数行書くだけで、そのままリリースできるクオリティの画面が生えてくる。\n\nRTX 4090を2枚挿した自宅サーバーで検証したけど、pip installから1分半でデモが動いたのは衝撃。もちろん、デザインの細かなこだわりがあるなら不向きだけど、速度重視のPoCなら現状これ一択かもしれない。\n\nドキュメント読み込んでわかったけど、関数呼び出し（Tool Use）をそのままUI上のアクションに変換する設計がかなり賢い。既存のFastAPIに相乗りさせる構成も現実的。\n\nみんな、AIアプリの最初の1歩は何で組んでる？Streamlitだと物足りないし、Next.jsだと重い…って感じてる人多いと思うんだけど、実際のところどう使い分けてる？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-21T18:36:12.400848+09:00",
+    "posted": false
   }
 ]
