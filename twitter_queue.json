@@ -7897,5 +7897,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-22T11:53:56.953276+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-22-sora-ai-video-eugenics-aesthetic-bias",
+    "title": "Soraが映し出す「美しすぎる世界」の不気味さ：生成AIの画一化がもたらす実務上の欠陥",
+    "url": "https://ai.negi-lab.com/posts/sora-ai-video-eugenics-aesthetic-bias/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAISora #AI美学",
+    "tweet_text": "OpenAIのSoraが作る映像、ぶっちゃけ「綺麗すぎて不気味」だと思ったことありませんか？\n\nThe Vergeの最新インタビューで、映像作家のヴァレリー・ヴィーチがこの違和感を「優生学的」という過激な言葉で表現しています。これ、SIer時代に品質管理を叩き込まれた私からすると、単なる思想論じゃなく「統計的収束」という技術的な欠陥に見えるんですよね。\n\nAIは学習データの中から「平均的な美」を抽出し、RLHFで「不快なノイズ」を徹底的に排除します。その結果、シワ一つない肌、左右対称の顔、鮮やかすぎる空といった、現実に存在しない「デジタルな理想郷」が生成される。この「清潔すぎる質感」は、実務ではブランドの個性を殺す毒になりかねません。\n\nRTX 4090を回してローカルLLMを検証していても感じますが、今こそ必要なのは「AIにいかに綺麗な絵を描かせるか」ではなく「AIの描く完璧な絵をいかに人間らしく汚すか」という視点。3ヶ月後、Soraの映像で溢れかえるSNSで、生き残るのはこの「不完全さ」を制御できる人だけでしょう。\n\n皆さんはSoraの映像を見て「実写との違い」をどこに感じますか？個人的には皮膚の質感が気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-22T14:00:53.354461+09:00",
+    "posted": false
   }
 ]
