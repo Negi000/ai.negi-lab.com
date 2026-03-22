@@ -7911,5 +7911,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-22T14:00:53.354461+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-22-ai-tokens-engineering-compensation-fourth-pillar",
+    "title": "エンジニア報酬は「現金・株・AIトークン」の三本柱へ。計算資源を給与として受け取る時代の生存戦略",
+    "url": "https://ai.negi-lab.com/posts/ai-tokens-engineering-compensation-fourth-pillar/",
+    "category": "NEWS",
+    "viral_tags": "#AIエンジニア #キャリア戦略",
+    "tweet_text": "エンジニアの報酬に「AIトークン」が加わる時代、皆さんはどう感じますか？\n\nTechCrunchの最新記事によれば、OpenAIやAnthropicなどのトップ企業が、引き抜き競争の武器として「膨大な計算資源の使用権」を提示し始めているようです。現金や株(RSU)に続く「第4の報酬」としてのトークン。\n\nSIer時代、サーバー1台の調達に四苦八苦していた身からすると、最新の未公開モデルを制限なしに叩ける環境は、1000万円のボーナスより魅力的に映る瞬間があります。個人のサイドプロジェクトでH100クラスのパワーを自由に使える。これ、技術者としての成長速度がバグるレベルで変わりますよね。\n\n一方で、これって「換金できない報酬」による囲い込みでもあります。会社を辞めたらそのリソースはゼロ。資産形成としては不安定極まりない。それでも「今、この瞬間に最強の武器を手にしたい」という野生のエンジニアにとっては、これ以上の報酬はないのかもしれません。\n\n皆さんがもし転職するなら「年収2000万」と「年収1500万＋GPT-5（仮）使い放題＋専用GPU枠」、どちらを選びますか？今の自分の開発スタイルを振り返ると、意外な答えが出るかもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-22T15:57:08.727970+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-22-replit-agent-4-fullstack-ai-review",
+    "title": "Replit Agent 4 使い方：インフラ構築を自動化するフルスタック開発の革命",
+    "url": "https://ai.negi-lab.com/posts/replit-agent-4-fullstack-ai-review/",
+    "category": "TOOL",
+    "viral_tags": "#ReplitAgent #AI開発",
+    "tweet_text": "SIer時代、サーバーの調達からDBのセットアップ、環境変数の設定だけで数日溶かしていた苦労は何だったのか…。Replit Agent 4を触って、開発の概念が根本から書き換わる衝撃を受けました。\n\nこれは単なる「コード生成AI」じゃない。ブラウザ上のIDEとAIが完全に一体化していて、指示を出すだけでインフラ構築、DB設計、デプロイまで自律的に完結させてしまう。エラーが出ればAIが自分でログを読んで勝手に修正し、数分後には「動くURL」が発行される。\n\nRTX 4090を2枚挿してローカルLLMを動かすのが趣味の私でも、この「インフラ構築の摩擦ゼロ」というクラウド完結の身軽さには正直脱帽しました。特にPythonエンジニアが苦手としがちなモダンなフロントエンド構築を、バックエンドと連携させた状態で一気に作り上げる速度は異常です。\n\nもちろん、大規模開発の負債化リスクやプラットフォーム依存など、手放しで喜べない弱点も明確にあります。それでも「アイデアをその日のうちに形にする」という一点において、これを超えるツールは現状存在しません。\n\n皆さんは、AIにインフラ設定やデプロイまで完全に任せることに、技術者としてどの程度の心理的抵抗がありますか？あるいは、どの工程までなら「AIに任せても良い」と考えますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-22T16:01:05.526584+09:00",
+    "posted": false
   }
 ]
