@@ -7967,5 +7967,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-22T22:07:05.029942+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-22-bench-for-claude-code-review-traceability",
+    "title": "Bench for Claude Code 使い方とレビュー",
+    "url": "https://ai.negi-lab.com/posts/bench-for-claude-code-review-traceability/",
+    "category": "TOOL",
+    "viral_tags": "#ClaudeCode #AIエージェント",
+    "tweet_text": "AIエージェントに仕事を任せた後「結局、裏で何をしたんだ？」と不安になった経験はありませんか。\n\nAnthropicが放ったClaude Codeは強力ですが、CLIの海に消える思考プロセスを追うのは苦行です。この「ブラックボックス問題」を解決するのがBench for Claude Code。\n\n実際に使ってみて驚いたのは、Diffの可視化精度。AIがどのファイルを読み、どう悩み、結果としてどのコードを書き換えたのかが、GitHubのPRのような美しいUIで全表示されます。\n\nSIer出身の私から見て、このツールの本質は「AIの作業を資産に変えるトレーサビリティ」にあります。単なるログ保存ではなく、チームでのコードレビューにAIを組み込むための必須レイヤー。\n\n個人開発ならターミナル履歴で十分かもしれませんが、商用コードをAIに触らせるなら、このレベルの「ドライブレコーダー」がないと怖くて夜も眠れません。\n\n皆さんはAIエージェントが生成したコードの「検品」、どうやって効率化していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-22T23:57:34.469841+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-23-minimax-m27-open-weights-local-tutorial",
+    "title": "MiniMax M2.7 使い方 入門：オープンソース版をローカル環境で動かす手順",
+    "url": "https://ai.negi-lab.com/posts/minimax-m27-open-weights-local-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#MiniMax #LocalLLM",
+    "tweet_text": "MiniMax M2.7のオープンウェイト化、これはローカルLLM界隈にとって大きな転換点になりそうですね。\n\nSIer時代には考えられなかったことですが、今や自宅のRTX 4090を2枚挿しした環境で、かつてのハイエンドAPI並みの推論が「無料で、無制限に」実行できる時代です。\n\n実際に触ってみて驚いたのは、日本語のニュアンスの拾い方。Llama 3だと時折混じる不自然な言い回しが、M2.7ではかなり抑えられている印象です。VRAM 12GBあれば4bit量子化でサクサク動くので、眠っているミドルレンジGPUの使い道としても最適。\n\n今回の記事では、Pythonを使って「とりあえず動く」状態から、ストリーミング出力などの「実用レベル」まで一気に引き上げるコードを公開しました。\n\n個人的には、このモデルをRAGに組み込んだ時の検索精度の高さに期待しています。長い文脈をどこまで正確に処理できるか、皆さんの環境でのベンチマーク結果も気になるところです。\n\n次はどのモデルをローカルで動かしてみたいですか？あるいは、今の環境でVRAM不足に悩んでいるポイントなどあれば教えてください！",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-23T00:01:41.483834+09:00",
+    "posted": false
   }
 ]
