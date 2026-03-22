@@ -7883,5 +7883,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-22T06:35:14.581155+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-22-nvidia-gtc-2026-rubin-architecture-analysis",
+    "title": "NVIDIA GTC 2026で露呈したウォール街の誤解とエンジニアが確信したAI実需の正体",
+    "url": "https://ai.negi-lab.com/posts/nvidia-gtc-2026-rubin-architecture-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#NVIDIAGTC #ローカルLLM",
+    "tweet_text": "NVIDIA GTC 2026での「株価下落」というニュースを見て、AIバブルが終わったと勘違いしていませんか？\n\n正直に言えば、ウォール街の反応と現場のエンジニアの温度差がこれほど開いたのは初めてかもしれません。APIドキュメントを読み込むと、NVIDIAは「単体チップの速さ」から「データセンター全体の自律化」へ明確にシフトしています。\n\nSIer時代、ハードウェアの制約で諦めていた物理シミュレーションや、複雑すぎるエージェントの構築。これが次世代アーキテクチャ「Rubin」とCUDA 13で、もはや「誰でも使えるインフラ」になろうとしています。\n\n投資家がROIを気にしている間に、僕ら開発者がやるべきは、NIMsへの移行とFP8/FP4精度の最適化です。3ヶ月後には、今の「推論コストの常識」が書き換えられているはず。\n\n自宅でRTX 4090を2枚回して検証している立場から言わせてもらうと、今回の発表は「地味だけど最も破壊的」な変化です。皆さんの現場では、推論コストの壁をどう感じていますか？GPUの調達、まだ苦労していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-22T11:53:56.953276+09:00",
+    "posted": false
   }
 ]

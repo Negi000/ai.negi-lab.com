@@ -1,47 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Socra",
-      "url": "https://www.producthunt.com/products/socra-socratic-ai-tutor-partner",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> From Curiosity to Mastery: Socrates-Powered Learning </p> <p> <a href=\"https://www.producthunt.com/products/socra-socratic-ai-tutor-partner?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087299?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-15T06:36:44"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "55 → 282 tok/s: How I got Qwen3.5-397B running at speed on 4x RTX PRO 6000 Blackwell",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtrdsv/55_282_toks_how_i_got_qwen35397b_running_at_speed/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-14T18:46:41+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>TL;DR:</strong> Built a custom CUTLASS kernel to fix SM120's broken MoE GEMM tiles. Went from 55 tok/s (WSL2) → 119 (native Linux) → 142 (driver/config optimization) → <strong>282 tok/s</strong> (custom K=64 kernel). PR submitted to FlashInfer, pre-built Docker image available.</p> <h1>The Problem</h1> <p>If you're running NVFP4 MoE models (Qwen3.5-397B, DeepSeek, etc.) on RTX PRO 6000, RTX 5090, or DGX Spark — basically any <strong>SM120 Blackwell works",
-      "extra": {},
-      "collected_at": "2026-03-15T06:36:47"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "StepFun releases SFT dataset used to train Step 3.5 Flash",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtrmp1/stepfun_releases_sft_dataset_used_to_train_step/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-03-14T18:56:21+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rtrmp1/stepfun_releases_sft_dataset_used_to_train_step/\"> <img alt=\"StepFun releases SFT dataset used to train Step 3.5 Flash\" src=\"https://external-preview.redd.it/tTuCt_toGsybgSVb4tMifPDNrj-e5ZH7kiedb_nhYw4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=43e1534f5a41dcfa08c7bcdb58574dba5a60f875\" title=\"StepFun releases SFT dataset used to train Step 3.5 Flash\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://ww",
-      "extra": {},
-      "collected_at": "2026-03-15T06:36:47"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Launching the Claude Partner Network",
       "url": "https://www.anthropic.com/news/claude-partner-network",
@@ -3622,19 +3581,6 @@
       "collected_at": "2026-03-22T02:25:58"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
-      "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 21 Mar 2026 19:30:27 +0000",
-      "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
-      "extra": {},
-      "collected_at": "2026-03-22T06:34:40"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "LoCaL iS oVeRrAtEd",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s01dqw/local_is_overrated/",
@@ -3660,7 +3606,47 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Summary (SLM Generated): </p> <p><strong>1. Protecting Children</strong> — Require age-assurance measures, parental controls, and safeguards against sexual exploitation and self-harm on AI platforms, while affirming existing child privacy laws apply to AI.</p> <p><strong>2. Strengthening Communities</strong> — Shield residential electricity ratepayers from AI data center costs, streamline permitting for AI infrastructure, combat AI-enabled scams targeting senior",
       "extra": {},
       "collected_at": "2026-03-22T06:34:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "murmur",
+      "url": "https://www.producthunt.com/products/murmur-7",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> practice tough phone calls with AI before you make them </p> <p> <a href=\"https://www.producthunt.com/products/murmur-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100470?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-22T11:53:30"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Llama 8B matching 70B on multi-hop QA with structured prompting, no fine-tuning",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s05thz/llama_8b_matching_70b_on_multihop_qa_with/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-21T23:17:09+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Ran a bunch of experiments with Graph RAG (KET-RAG) on multi hop question answering. Turns out <strong>retrieval</strong> is basically <strong>solved</strong>, the answer is in the context 77 to 91% of the time. The <strong>bottleneck is reasoning</strong>: 73 to 84% of wrong answers come from the model failing to connect the dots, not from missing information. </p> <p>Smaller models choke on the reasoning even when the answer is sitting right there in the conte",
+      "extra": {},
+      "collected_at": "2026-03-22T11:53:33"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "ik_llama.cpp gives 26x faster prompt processing on Qwen 3.5 27B — real world numbers",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s07ysr/ik_llamacpp_gives_26x_faster_prompt_processing_on/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-03-22T00:52:53+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been running Qwen 3.5 27B Q4_K_M on a Blackwell RTX PRO 4000 (24GB) for agentic coding work and hit a wall with mainline llama.cpp. Switched to the ik_llama.cpp fork today and the difference is staggering. Posting real numbers in case it helps others.</p> <p>Hardware Lenovo ThinkStation P520, Xeon W-2295 18-core, 128GB DDR4 ECC NVIDIA RTX PRO 4000 Blackwell 24GB GDDR7 Context: 131,072 tokens, KV cache q8_0/q4_0</p> <p>Benchmark Results</p> <p>Metric Mainlin",
+      "extra": {},
+      "collected_at": "2026-03-22T11:53:33"
     }
   ],
-  "updated_at": "2026-03-22T06:34:46.376932+09:00"
+  "updated_at": "2026-03-22T11:53:33.145352+09:00"
 }
