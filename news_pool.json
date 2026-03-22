@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Aura Water: Private Hydration",
-      "url": "https://www.producthunt.com/products/aura-water",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Offline water tracker with a private AI hydration coach </p> <p> <a href=\"https://www.producthunt.com/products/aura-water?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090769?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-16T02:28:34"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Query Memory",
-      "url": "https://www.producthunt.com/products/query-memory",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> One API for all documents your AI agents need </p> <p> <a href=\"https://www.producthunt.com/products/query-memory?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1098567?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-16T02:28:34"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Homelab has paid for itself! (at least this is how I justify it...)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rug5go/homelab_has_paid_for_itself_at_least_this_is_how/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-15T14:57:18+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rug5go/homelab_has_paid_for_itself_at_least_this_is_how/\"> <img alt=\"Homelab has paid for itself! (at least this is how I justify it...)\" src=\"https://preview.redd.it/djmmoczj38pg1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=60d9f2a45a7ff1e6716b8d511feaebd5973fd31a\" title=\"Homelab has paid for itself! (at least this is how I justify it...)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey, I th",
-      "extra": {},
-      "collected_at": "2026-03-16T02:28:36"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen 27B works GREAT as a LORE MASTER!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rueru6/qwen_27b_works_great_as_a_lore_master/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-15T14:00:15+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I don't use LLMs to write. Never been an interest of mine, prefer my own voice, my own style.</p> <p>That said, I've always wished I had a second brain to help me analyze certain aspects of my story bible, which can get pretty complex. Local models just haven't been up to the task, and I have no intention of letting closed models train on my original ideas.</p> <p>I've been super pleased with Qwen 27B for long context analysis, so I thought I'd give it a try wit",
-      "extra": {},
-      "collected_at": "2026-03-16T02:28:36"
-    },
-    {
       "source": "HN AI Hot",
       "title": "LLM Architecture Gallery",
       "url": "https://sebastianraschka.com/llm-architecture-gallery/",
@@ -3538,19 +3484,6 @@
       "collected_at": "2026-03-22T23:57:06"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
-      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 22 Mar 2026 16:20:00 +0000",
-      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
-      "extra": {},
-      "collected_at": "2026-03-23T02:25:38"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Brute-forcing my algorithmic ignorance with an LLM in 7 days",
       "url": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
@@ -3588,7 +3521,77 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s0mmsn/impressive_thread_from_rchatgpt_where_after/\"> <img alt=\"Impressive thread from /r/ChatGPT, where after ChatGPT finds out no 7Zip, tar, py7zr, apt-get, Internet, it just manually parsed and unzipped from hex data of the .7z file. What model + prompts would be able to do this?\" src=\"https://preview.redd.it/znfuylnikhqg1.png?width=140&amp;height=77&amp;auto=webp&amp;s=25177e8d943b277e1d5b74a1d307d2563a6542dd\" title=\"Imp",
       "extra": {},
       "collected_at": "2026-03-23T02:25:59"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Do you want to build a robot snowman?",
+      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sun, 22 Mar 2026 19:45:07 +0000",
+      "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+      "extra": {},
+      "collected_at": "2026-03-23T06:35:44"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 22 Mar 2026 18:41:09 +0000",
+      "summary": "Building on top of a Chinese model feels particularly fraught right now.",
+      "extra": {},
+      "collected_at": "2026-03-23T06:35:44"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Honest take on running 9× RTX 3090 for AI",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s0p28x/honest_take_on_running_9_rtx_3090_for_ai/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-22T15:48:28+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s0p28x/honest_take_on_running_9_rtx_3090_for_ai/\"> <img alt=\"Honest take on running 9× RTX 3090 for AI\" src=\"https://preview.redd.it/ry0d887xamqg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=a43b65d62282faaff1b2a29d80eb63254da90ee0\" title=\"Honest take on running 9× RTX 3090 for AI\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/ry0d887xamqg1.jpg?width=3000&amp;for",
+      "extra": {},
+      "collected_at": "2026-03-23T06:35:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I haven't experienced Qwen3.5 (35B and 27B) over thinking. Posting my settings/prompt",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s0vnpu/i_havent_experienced_qwen35_35b_and_27b_over/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-22T20:01:28+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I felt the need to make a post about these models, because I see a lot of talk about how they think for extended periods/get caught in thinking loops/use an excessive amount of reasoning tokens.</p> <p>I have never experienced this. In fact, I've noticed the opposite - I have been <em>singularly impressed</em> by how few tokens my Qwen instances use to produce high quality responses.</p> <p>My suspicion is that this might be a public perception created by this s",
+      "extra": {},
+      "collected_at": "2026-03-23T06:35:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Llama.cpp Mi50 ROCm 7 vs Vulkan Benchmarks",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s0tcf7/llamacpp_mi50_rocm_7_vs_vulkan_benchmarks/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-22T18:32:42+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s0tcf7/llamacpp_mi50_rocm_7_vs_vulkan_benchmarks/\"> <img alt=\"Llama.cpp Mi50 ROCm 7 vs Vulkan Benchmarks\" src=\"https://preview.redd.it/rx3vs1h6vmqg1.jpg?width=140&amp;height=87&amp;auto=webp&amp;s=c5cd5cd11927b0c9e032e7bfab36f3d30a3a0561\" title=\"Llama.cpp Mi50 ROCm 7 vs Vulkan Benchmarks\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Testing ROCm 7 using TheRock nightly tarballs against Vulkan on Mi50. </p> <h1>System ",
+      "extra": {},
+      "collected_at": "2026-03-23T06:35:49"
     }
   ],
-  "updated_at": "2026-03-23T02:25:59.225125+09:00"
+  "updated_at": "2026-03-23T06:35:49.134369+09:00"
 }

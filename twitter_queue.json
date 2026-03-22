@@ -8009,5 +8009,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-23T02:26:26.735614+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-23-nvidia-gtc-2026-rubin-robotics-ai-evolution",
+    "title": "Nvidia GTC 2026総括：Blackwellを超えた「物理AI」とロボティクスOSの覇権",
+    "url": "https://ai.negi-lab.com/posts/nvidia-gtc-2026-rubin-robotics-ai-evolution/",
+    "category": "NEWS",
+    "viral_tags": "#NvidiaGTC #ロボティクスAI",
+    "tweet_text": "Nvidia GTC 2026をリアルタイムで追った結果、もはや「GPUメーカー」という認識は捨てた方がいいと確信しました。今回発表された「Robot Snowman」のデモは、AIが物理法則を完全に理解し、リアルタイムで環境に適応する「物理AI」時代の到来を告げています。\n\nSIer時代、ロボットのティーチングに数週間かけていた苦労は何だったのか…。最新のRubinアーキテクチャはFP4演算に対応し、ロボットの反応速度（レイテンシ）は驚異の8msに到達。これは人間が視覚情報を処理するより速いレベルです。\n\nこれからは「コードを書く」仕事から「OmniverseでAIを教育する」仕事へ、エンジニアの役割が完全にシフトします。GoogleやOpenAIもロボティクスに参入していますが、ハードとソフトをここまで垂直統合したNvidiaの優位性は揺るぎません。\n\nBlackwellが「推論の民主化」だったなら、Rubinは「物理制御の民主化」です。開発者の皆さんは、今すぐFP4量子化のドキュメントとIsaac SimのSDG機能をチェックすべき。皆さんの現場では、ロボット導入の最大の壁は何ですか？やはり導入コストでしょうか、それとも専門人材の不足でしょうか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-23T06:36:13.662234+09:00",
+    "posted": false
   }
 ]
