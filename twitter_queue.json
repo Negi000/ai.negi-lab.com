@@ -8037,5 +8037,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-23T11:54:06.879429+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-23-delve-ai-compliance-scandal-fake-certification",
+    "title": "AIコンプライアンスの信頼崩壊か。Delveの偽装疑惑が突きつける「自動化」の罠",
+    "url": "https://ai.negi-lab.com/posts/delve-ai-compliance-scandal-fake-certification/",
+    "category": "NEWS",
+    "viral_tags": "#Delve #AIガバナンス",
+    "tweet_text": "AIが「大丈夫」と言えば、本当に安全なのか？\nコンプライアンス自動化の旗手だったDelveに「偽装準拠」の疑い。数百社のスタートアップが、実はセキュリティ基準を満たしていないのに「合格」と判定されていた可能性が出てきました。\n\nSIer時代、寝る間も惜しんでSOC2の証拠集めをしていた身からすると、この「AIによる完全自動化」の甘い罠はいつか爆発すると思っていました。LLMのハルシネーションをコンプライアンスという最も厳格な領域に無対策で持ち込んだ結果、信頼が完全に崩壊しようとしています。\n\n結局、AIは「ドラフト作成」には最強ですが「最終判断」を任せるにはまだ危うい。VantaやDrataといった競合他社がなぜ「人間の監査人」をプロセスから外さないのか、その理由が今回の事件で証明された形です。\n\n安いから、早いからという理由でセキュリティを丸投げした代償は、後で何倍にもなって返ってきます。Delveを使っている企業のエンジニアは、今すぐダッシュボードの緑色マークを疑って、生データのチェックを始めてください。\n\n皆さんの現場では、AIによる自動化判定をどこまで信用していますか？「ここは人間に任せないと危ない」と感じた境界線について、ぜひ実体験を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-23T14:12:03.116344+09:00",
+    "posted": false
   }
 ]
