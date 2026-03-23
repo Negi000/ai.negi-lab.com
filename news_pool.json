@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "source": "VentureBeat AI",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "Mon, 19 Jan 2026 14:00:00 GMT",
-      "summary": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its <a href=\"https://claude.com/pricing\">pricing</a> — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims",
-      "extra": {},
-      "collected_at": "2026-03-16T19:06:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Donely",
-      "url": "https://www.producthunt.com/products/donely",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your own OpenClaw instance for $0/mo + free AI usage offer </p> <p> <a href=\"https://www.producthunt.com/products/donely?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1099482?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-16T19:06:10"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "FnKey",
-      "url": "https://www.producthunt.com/products/fnkey",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> macOS dictation with Deepgram stream </p> <p> <a href=\"https://www.producthunt.com/products/fnkey?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1098728?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-16T19:06:10"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "OmniCoder-9B best vibe coding model for 8 GB Card",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rv24kk/omnicoder9b_best_vibe_coding_model_for_8_gb_card/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-16T06:41:24+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>it is the smartest coding / tool calling cline model I ever seen </p> <p>I gave it a small request and it made a whole toolkit , it is the best one</p> <p><a href=\"https://huggingface.co/Tesslate/OmniCoder-9B-GGUF\">https://huggingface.co/Tesslate/OmniCoder-9B-GGUF</a></p> <p>use it with llama-server and vscode cline , it just works</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Powerful_Evening5495\"> /u/Powerful_Evening549",
-      "extra": {},
-      "collected_at": "2026-03-16T19:06:13"
-    },
-    {
       "source": "The Verge AI",
       "title": "This is not a fly uploaded to a computer",
       "url": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
@@ -3408,19 +3354,6 @@
       "collected_at": "2026-03-23T11:53:38"
     },
     {
-      "source": "The Verge AI",
-      "title": "AI influencer awards season is upon us",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-22T20:01:00-04:00",
-      "summary": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms from quirky novelty into a serious and lucrative industry. The contest, a joint venture between generative AI studio OpenArt [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-23T14:11:26"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "I came from Data Engineering stuff before jumping into LLM stuff, i am surprised that many people in this space never heard Elastic/OpenSearch",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s17afx/i_came_from_data_engineering_stuff_before_jumping/",
@@ -3529,19 +3462,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Pause.do",
-      "url": "https://www.producthunt.com/products/pause-do-don-t-outsource-your-thinking",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Interrupt scrolling, tab overload, and AI autopilot </p> <p> <a href=\"https://www.producthunt.com/products/pause-do-don-t-outsource-your-thinking?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090890?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-23T19:02:59"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Nomie",
       "url": "https://www.producthunt.com/products/nomie",
       "primary_category": "TOOL",
@@ -3567,7 +3487,90 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s19rd7/reworked_lm_studio_plugins_out_now_plugnplay_web/\"> <img alt=\"Reworked LM Studio plugins out now. Plug'n'Play Web Research, Fully Local\" src=\"https://preview.redd.it/op58d5qcsqqg1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=1b38b85a7db9f3e51ed0bcd34d5e382580583543\" title=\"Reworked LM Studio plugins out now. Plug'n'Play Web Research, Fully Local\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\">",
       "extra": {},
       "collected_at": "2026-03-23T19:03:02"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Iris",
+      "url": "https://www.producthunt.com/products/iris-e28eb72c-ccff-4a5a-a7e8-6cf066ee9d41",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Send work beautifully, pinned feedback, see what they viewed </p> <p> <a href=\"https://www.producthunt.com/products/iris-e28eb72c-ccff-4a5a-a7e8-6cf066ee9d41?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1104801?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-23T22:19:18"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tobira.ai",
+      "url": "https://www.producthunt.com/products/tobira-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A network where AI agents find deals for their humans </p> <p> <a href=\"https://www.producthunt.com/products/tobira-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100794?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-23T22:19:18"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "supabase/cli",
+      "url": "https://github.com/supabase/cli",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.",
+      "extra": {
+        "stars_today": "53 stars today"
+      },
+      "collected_at": "2026-03-23T22:19:20"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "python/mypy",
+      "url": "https://github.com/python/mypy",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Optional static typing for Python",
+      "extra": {
+        "stars_today": "4 stars today"
+      },
+      "collected_at": "2026-03-23T22:19:20"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Designed a photonic chip for O(1) KV cache block selection — 944x faster, 18,000x less energy than GPU scan at 1M context",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1f8sq/designed_a_photonic_chip_for_o1_kv_cache_block/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-23T12:17:41+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s1f8sq/designed_a_photonic_chip_for_o1_kv_cache_block/\"> <img alt=\"Designed a photonic chip for O(1) KV cache block selection — 944x faster, 18,000x less energy than GPU scan at 1M context\" src=\"https://preview.redd.it/vkfclnzgesqg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=565b32d6a220888a1998d1d07bd0d60370a21049\" title=\"Designed a photonic chip for O(1) KV cache block selection — 944x faster, 18,000x less energy th",
+      "extra": {},
+      "collected_at": "2026-03-23T22:19:21"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Let's take a moment to appreciate the present, when this sub is still full of human content.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1cqnx/lets_take_a_moment_to_appreciate_the_present_when/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-23T10:06:41+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It's going down guys, day by day.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ok-Internal9317\"> /u/Ok-Internal9317 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s1cqnx/lets_take_a_moment_to_appreciate_the_present_when/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s1cqnx/lets_take_a_moment_to_appreciate_the_present_when/\">[comments]</a></span>",
+      "extra": {},
+      "collected_at": "2026-03-23T22:19:21"
     }
   ],
-  "updated_at": "2026-03-23T19:03:02.097805+09:00"
+  "updated_at": "2026-03-23T22:19:21.569291+09:00"
 }
