@@ -8023,5 +8023,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-23T06:36:13.662234+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-23-cursor-admits-kimi-model-integration",
+    "title": "Cursor新モデルの正体は中国Kimi、開発者が直面する「性能と地政学リスク」の分岐点",
+    "url": "https://ai.negi-lab.com/posts/cursor-admits-kimi-model-integration/",
+    "category": "NEWS",
+    "viral_tags": "#Cursor #MoonshotAI",
+    "tweet_text": "コードエディタの覇者Cursorが、最新モデルの裏側をカミングアウトしました。結論から言うと、中身は中国Moonshot AIの「Kimi」ベースです。\n\nSIer時代ならセキュリティ審査で一発アウトになりそうな話ですが、実際に触ってみると笑えるほど速い。推論速度150 Token/sec超えは、もはや「コードを打つ」感覚ではなく「コードが湧いてくる」体験です。\n\nClaude 3.5 Sonnetの精度も捨てがたいですが、このレスポンスの速さはエンジニアのフロー状態をブーストする麻薬的な魅力がありますね。ただ、米中対立の現状を考えると、企業導入には高いハードルが立ちはだかりそうです。\n\nCursorが「正しさ」よりも「爆速な体験」を優先して、地政学的リスクすら飲み込んだ事実は、今のAI開発競争の異常さを象徴している気がしてなりません。\n\n皆さんは、開発ツールの「モデルの国籍」って気になりますか？「速ければ正義」と割り切れますか？それともセキュリティが最優先でしょうか。現場のリアルな意見を聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-23T11:54:06.879429+09:00",
+    "posted": false
   }
 ]
