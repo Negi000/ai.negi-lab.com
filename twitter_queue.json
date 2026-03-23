@@ -8051,5 +8051,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-23T14:12:03.116344+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-23-amazon-trainium-openai-investment-apple-adoption",
+    "title": "AWS独自チップTrainiumがOpenAIとAppleを惹きつける理由",
+    "url": "https://ai.negi-lab.com/posts/amazon-trainium-openai-investment-apple-adoption/",
+    "category": "NEWS",
+    "viral_tags": "#AWS #Trainium #OpenAI #半導体",
+    "tweet_text": "AmazonがOpenAIに500億ドルの巨額投資。その裏側にあるのは、AWS独自チップ「Trainium」の覇権取りです。\n\n元SIerでGPU確保に奔走していた私からすると、このニュースは震えます。ついにAnthropic、Apple、そしてOpenAIまでもがNVIDIA以外の選択肢を本気で選び始めました。\n\n性能面でもTrainium 2はH100に肉薄。特にメモリ帯域は3.5TB/sとH100を凌駕しており、LLM学習の実効性能では互角以上の戦いができるレベルに達しています。しかも利用コストはNVIDIA環境の約半分。\n\n「CUDAが書ければ安泰」という時代は終わりました。これからはAWS Neuron SDKを使いこなし、マルチハードウェア環境で最適化できるエンジニアが市場価値を独占するはずです。\n\n500億ドルの資金は、単なるAI開発費ではなく「NVIDIA依存からの脱却費用」と言えるかもしれません。皆さんの現場では、NVIDIA以外のチップへの移行検討、始まっていますか？SDKの使い勝手など、現場の実感があればぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-23T16:16:26.074611+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-23-datasieve-2-extract-structured-data-from-text-files",
+    "title": "DataSieve 2.0 構造化データ抽出の自動化と実務実装",
+    "url": "https://ai.negi-lab.com/posts/datasieve-2-extract-structured-data-from-text-files/",
+    "category": "TOOL",
+    "viral_tags": "#Python #データ抽出",
+    "tweet_text": "SIer時代、数千枚のバラバラなPDFからデータを抜くために、地獄のような正規表現を書き殴っていた自分に教えてあげたいツールに出会いました。DataSieve 2.0、これかなり実戦向きです。\n\nPDFやZIP、tarといったアーカイブから、欲しい情報だけを「スキーマ定義」で抜き出す特化型ツール。LLMベースなので「合計金額」や「税込」といった表記揺れを勝手に解釈してくれます。一番驚いたのは、アーカイブを直接放り込める点。解凍してディレクトリを再帰的に掘るコードを書く手間がゼロになります。\n\nPython歴が長い人ほど、この「前処理の抽象化」のありがたみが染みるはず。1件0.3秒の正規表現には勝てませんが、複雑な非定型ドキュメントを95%以上の精度でJSONに落とし込めるのは強い。バッチ処理の並列実行もライブラリ側で制御してくれるので、開発者はPydanticで型定義するだけ。\n\n皆さんは大量の非構造化データ、どう処理してますか？いまだに正規表現で頑張ってますか、それともLangChain派？現場のリアルな構成が気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-23T16:20:26.105181+09:00",
+    "posted": false
   }
 ]
