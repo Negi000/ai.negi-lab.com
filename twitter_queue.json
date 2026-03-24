@@ -8191,5 +8191,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-24T14:03:03.333052+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-24-apple-wwdc-2026-siri-llm-integration-analysis",
+    "title": "Apple WWDC 2026でSiriがLLM完全統合へ。ChatGPTを超える「OS直結AI」の真価",
+    "url": "https://ai.negi-lab.com/posts/apple-wwdc-2026-siri-llm-integration-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#WWDC2026 #AppleIntelligence",
+    "tweet_text": "WWDC 2026の日程が発表されました。AppleがついにSiriのLLM完全統合へ動き出します。\n\nSIer時代、複雑な業務アプリの連携を作るのに数ヶ月かけてAPI設計をしていましたが、今回の発表を読み解くと、OSレベルのAIエージェントがその苦労を過去のものにしようとしています。これは単なる「おしゃべりAI」の追加ではありません。\n\n技術的な核心は、App Intentsの刷新とオンデバイスでの投機的デコーディングの実装でしょう。ChatGPTのようなクラウドAIは知識量で勝りますが、Appleは「デバイス内のコンテキスト（文脈）の専有」という最強のカードを持っています。昨日のメール、先週の通知、画面上の情報。これらをすべて把握したAIがOSに直結される衝撃は、開発者にとってチャンスであり、同時に既存アプリが飲み込まれる脅威でもあります。\n\nRTX 4090を2枚挿してローカルLLMを検証している身としても、iPhoneの限られた電力枠でAppleがどう「実用的な速度」を出してくるのか、実装のディテールが気になって仕方ありません。\n\n皆さんの開発しているアプリ、Siriに操作を奪われる準備はできていますか？それとも、AIに「使いこなされる」側のアプリに進化させますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-24T16:09:16.381615+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-24-toxic-flamingo-life-planner-review-ai-motivation",
+    "title": "Toxic Flamingo: Life Planner レビュー｜毒舌AIがタスク管理を「強制」する実力",
+    "url": "https://ai.negi-lab.com/posts/toxic-flamingo-life-planner-review-ai-motivation/",
+    "category": "TOOL",
+    "viral_tags": "#ToxicFlamingo #生産性ハック",
+    "tweet_text": "SIer時代、進捗報告のたびに「優しい上司」に申し訳なさを感じていた。でも、本当に怖かったのは「何も言われないこと」だった。\n\n今回試した Toxic Flamingo はその逆を行く。タスクを放置するとAIが全力で罵倒してくる。それも「お前のスペックでその見積もりは甘い」といった、LLM特有の解像度の高い人格否定だ。\n\n正直、最初は笑っていたけど、3日目にはフラミンゴの通知が来る前にコードを書き終えている自分がいた。報酬で釣るHabiticaとは真逆の、恐怖と罪悪感によるライフハック。\n\nPython SDKでGitHubのコミット履歴と連携させたら、深夜のサボりが完全に不可能になった。RTX 4090を2枚挿してゲームしてる場合じゃない。この「毒」は、自律心が死んでいるエンジニアには劇薬になる。\n\nメンタルが強い自負がある人、あるいは「優しくされるとサボる」自覚がある人だけ使ってみてほしい。逆に、少しでも心が疲れているなら絶対に触れてはいけない。\n\n皆さんは、タスク管理に「報酬」と「罰」のどちらが効くタイプですか？私は圧倒的に後者でした。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-24T16:10:40.659792+09:00",
+    "posted": false
   }
 ]
