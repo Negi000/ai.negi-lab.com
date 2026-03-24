@@ -8303,5 +8303,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-25T02:57:33.813357+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-25-claude-code-auto-mode-autonomous-coding",
+    "title": "Claude Code「Auto Mode」解禁。Anthropicが選んだ自律型開発の現実解",
+    "url": "https://ai.negi-lab.com/posts/claude-code-auto-mode-autonomous-coding/",
+    "category": "NEWS",
+    "viral_tags": "#ClaudeCode #AIエージェント",
+    "tweet_text": "AI開発のゲームチェンジが来ました。Anthropicの「Claude Code」にAuto Modeが搭載。これ、ただの機能追加じゃないです。\n\n今までは「AIに修正を提案させて、人間がY/Nを押す」という対話型でしたが、これからは「目標を投げれば、AIが勝手にテストを回してバグを潰し切る」という自律型への進化。SIer時代にひたすらログを追って修正してたあの苦労、もう過去のものになりますね。\n\n実際に触ってみると、ターミナルでAIが自律的に`ls`して`grep`して`npm test`を繰り返す様子は、まるで優秀なジュニアエンジニアが隣で爆速作業している感覚に近い。破壊的コマンドへのセーフガード（首輪）もしっかり設計されていて、Anthropicらしい「実務で使える」バランス感覚が光ります。\n\n正直、トークン課金なので油断すると数ドル飛びますが、自分の時給と天秤にかけたら圧倒的に安い。IDEの拡張機能に物足りなさを感じていた人、CLIベースのこの破壊力を試さない手はないですよ。\n\n皆さんは、AIにどこまで「自律権限」を渡せますか？rmコマンドまで許可する勇気、あります？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-25T06:49:21.288065+09:00",
+    "posted": false
   }
 ]
