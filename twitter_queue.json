@@ -8247,5 +8247,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-24T18:57:35.742014+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-24-navox-network-linkedin-mapping-review",
+    "title": "Navox Network 使い方 レビュー：LinkedInの繋がりを転職の武器に変えるマップ化ツール",
+    "url": "https://ai.negi-lab.com/posts/navox-network-linkedin-mapping-review/",
+    "category": "TOOL",
+    "viral_tags": "#NavoxNetwork #LinkedIn活用術",
+    "tweet_text": "LinkedInの繋がりを「ただのリスト」だと思ってるなら、かなり損してるかもしれない。\n\n最近検証した「Navox Network」が、ネットワークの構造化において非常に面白いアプローチをしていました。\n自分のコネクションをグラフ理論でマッピングして「特定の企業にリーチするための最短ルート（誰を経由すべきか）」を可視化してくれる。\n\nSIerからフリーランスになった時、私も手動でこれをやってましたが、正直APIとLLMで名寄せしてくれる今の環境が羨ましい。\n特に2nd Degree Connection（知人の知人）の中に、狙っている企業の重要人物が隠れているのを視覚的に見つけた時のインパクトは大きいです。\n\nエンジニアの転職って、結局「中の人のリアルな声」をどれだけ早く聞けるかの勝負。\nこれを使うと、LinkedInの標準UIでは見えなかった「組織への食い込み方」が地図のように浮かび上がります。\n\nちなみにPython SDK経由でデータをいじると、特定技術スタックのクラスター分析もできるので、技術選定の傾向調査にも使えそう。\n皆さんはリファラルを探す時、どうやって「最適な紹介者」を特定してますか？\n人力での記憶？それとも何かツールを使ってますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-24T22:23:52.326430+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-24-litellm-compromised-safety-guide-python",
+    "title": "LiteLLMの使い方とサプライチェーン攻撃から身を守る安全な環境構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/litellm-compromised-safety-guide-python/",
+    "category": "GUIDE",
+    "viral_tags": "#LiteLLM #サイバーセキュリティ",
+    "tweet_text": "LiteLLMのPyPI侵害、AIエンジニアにとっては背筋が凍るニュースですね。\n\n私もGPT-4登場時からLiteLLMを愛用していますが、今回の件で「便利さ」と「依存リスク」のバランスを再考させられました。1.82.7と1.82.8は絶対に避けてください。\n\nSIer時代、依存関係のチェックは「儀式」のように面倒でしたが、今のAI開発のスピード感ではその儀式が抜け落ちがち。でも、`uv` と `pip-audit` を組み合わせれば、その儀式はわずか数秒で終わります。\n\n今回はLiteLLMをセキュアに使い倒すための、実務直結の環境構築ガイドを書きました。\n\n・ハッシュ値固定による改ざん防止\n・pip-auditでの自動スキャン\n・APIキーを漏らさない実装\n\nこれらを「当たり前」にするのが、プロのAIエンジニアの仕事だと思います。\n\n皆さんはパッケージのアップデート時、どんな基準で「安全」だと判断していますか？\n自分なりのチェックリストや運用ルールがあれば、ぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-24T22:25:12.419788+09:00",
+    "posted": false
   }
 ]
