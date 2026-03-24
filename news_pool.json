@@ -1,33 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "製品レビューの「AIによるポジティブな要約」を読んだ人は購入する可能性が高くなる、AIのニュアンス改変が問題に - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjTzJWbW1rT081V1R5bHBHUGZwWVh4R2xsYXMzOVg0WFFZdlBDbDY4UGx0M2R0UzF0TG95Z1RwbDFIZ1FEUWhDbS1zcTZHZjRaN3lBbGREdEpxTXpNNDMwUmhFRWdwV0Y1YThtQ3oteWJJWXM?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "Tue, 17 Mar 2026 03:05:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBjTzJWbW1rT081V1R5bHBHUGZwWVh4R2xsYXMzOVg0WFFZdlBDbDY4UGx0M2R0UzF0TG95Z1RwbDFIZ1FEUWhDbS1zcTZHZjRaN3lBbGREdEpxTXpNNDMwUmhFRWdwV0Y1YThtQ3oteWJJWXM?oc=5\" target=\"_blank\">製品レビューの「AIによるポジティブな要約」を読んだ人は購入する可能性が高くなる、AIのニュアンス改変が問題に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {},
-      "collected_at": "2026-03-17T14:00:53"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "DGX Station is available (via OEM distributors)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rvnppg/dgx_station_is_available_via_oem_distributors/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-16T21:58:43+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rvnppg/dgx_station_is_available_via_oem_distributors/\"> <img alt=\"DGX Station is available (via OEM distributors)\" src=\"https://preview.redd.it/qfqw3sarbhpg1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1ea5cb6174732f63322bc072f2624ec6d8c92a91\" title=\"DGX Station is available (via OEM distributors)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Seems like there is no founder edition</p> <p>Link:</p> <p><a href=\"ht",
-      "extra": {},
-      "collected_at": "2026-03-17T14:00:56"
-    },
-    {
       "source": "The Verge AI",
       "title": "DLSS 5 looks like a real-time generative AI filter for video games",
       "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
@@ -3382,19 +3355,6 @@
       "collected_at": "2026-03-24T06:48:44"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
-      "url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Mon, 23 Mar 2026 22:36:39 +0000",
-      "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
-      "extra": {},
-      "collected_at": "2026-03-24T11:45:21"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Chat GPT 5.2 cannot explain the German word \"geschniegelt\"",
       "url": "https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/",
@@ -3447,7 +3407,47 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s1wgph/run_qwen35_flagship_model_with_397_billion/\"> <img alt=\"Run Qwen3.5 flagship model with 397 billion parameters at 5 – 9 tok/s on a $2,100 desktop! Two $500 GPUs, 32GB RAM, one NVMe drive. Uses Q4_K_M quants\" src=\"https://preview.redd.it/d1th0dsbkvqg1.jpg?width=140&amp;height=105&amp;auto=webp&amp;s=67d8dd69101a1596fa7dcbfc0f0918a408b53780\" title=\"Run Qwen3.5 flagship model with 397 billion parameters at 5 – 9 tok/s on",
       "extra": {},
       "collected_at": "2026-03-24T11:45:28"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google’s new Pixel 10 ads made me go ‘Wait, WHAT are they trying to sell?’",
+      "url": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-23T15:49:11-04:00",
+      "summary": "Ever watch a TV ad and wonder, \"How did this get approved?\" Today, Google has not one but two new ad spots for its six-month-old Pixel 10 phones, and… let's just say they may not come across as intended. First, there's \"With 100x Zoom,\" an ad that appears to suggest that if a vacation rental [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-24T14:02:31"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "FlashAttention-4: 1613 TFLOPs/s, 2.7x faster than Triton, written in Python. What it means for inference.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1yw23/flashattention4_1613_tflopss_27x_faster_than/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-03-24T00:31:24+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Wrote a deep dive on <strong>FlashAttention-4 (03/05/2026)</strong> that's relevant for anyone thinking about inference performance.</p> <p><strong>TL;DR for inference:</strong></p> <ul> <li><strong>BF16 forward: 1,613 TFLOPs/s on B200 (71% utilization). Attention is basically at matmul speed now.</strong></li> <li><strong>2.1-2.7x faster than Triton, up to 1.3x faster than cuDNN 9.13</strong></li> <li><strong>vLLM 0.17.0 (released March 7) integrates FA-4. If y",
+      "extra": {},
+      "collected_at": "2026-03-24T14:02:37"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Are we currently in a \"Golden Time\" for low VRAM/1 GPU users with Qwen 27b?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1z17h/are_we_currently_in_a_golden_time_for_low_vram1/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-24T00:37:36+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Really loving Qwen 27b more than any other llm from when I can remember. It works so well. Having 48gb vram can anyone recommend any other alternatives? It seems that 24gb is enough and currently I can't think of any other open model to use. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/inthesearchof\"> /u/inthesearchof </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s1z17h/are_we_currently_in_a_g",
+      "extra": {},
+      "collected_at": "2026-03-24T14:02:37"
     }
   ],
-  "updated_at": "2026-03-24T11:45:28.422413+09:00"
+  "updated_at": "2026-03-24T14:02:37.651659+09:00"
 }
