@@ -8219,5 +8219,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-24T16:10:40.659792+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-24-google-pixel-10-ai-ads-controversy-analysis",
+    "title": "Google Pixel 10のAIカメラ広告が波紋 編集機能の「不気味の谷」と実務への影響",
+    "url": "https://ai.negi-lab.com/posts/google-pixel-10-ai-ads-controversy-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Pixel10 #生成AI",
+    "tweet_text": "Google Pixel 10の新広告が「現実を偽りすぎている」と海外で炎上していますね。\n100倍ズームで宿泊先を覗き見したり、ビーチの写真からAIで勝手に人を消して「自分一人だけの思い出」に書き換えたり...。\n元SIerのエンジニア目線で言えば、このオンデバイス生成AIの技術自体は驚異的です。デバイス内のTPUで拡散モデルを回し、違和感なく背景を補完する。一昔前ならRTX 4090クラスのサーバーでやっていた処理が、今やポケットの中で完結している。\nでも、問題はその「使い道」の提案です。\n技術が「光学の限界を補うもの」から「不都合な真実を消すもの」に変わった瞬間、ユーザーは利便性よりも不気味さを感じてしまう。\nApple Intelligenceが「現実の拡張」に留めているのと対照的に、Googleは「現実の再構築」に踏み込みすぎた印象があります。\n皆さんは、AIで「存在しなかった瞬間」を生成して思い出に残すことに、どこまで許容範囲を感じますか？\n加工された写真が当たり前になる3ヶ月後、私たちは何を信じればいいんでしょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-24T18:56:09.720105+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-24-redbean-ai-character-consistency-review-guide",
+    "title": "Redbean キャラクターの同一性を維持するAIエンジンと実務での活用法",
+    "url": "https://ai.negi-lab.com/posts/redbean-ai-character-consistency-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#RedbeanAI #キャラクター生成AI",
+    "tweet_text": "AIキャラクターを作ったことがある人なら分かるはず。最初は完璧だった性格が、会話が長引くにつれて「ただの親切なAI」に化けていくあの絶望感。\n\nProduct Huntで見つけた「Redbean」を数時間触り倒しましたが、これこそがキャラクター開発の「正解」かもしれません。\n\nこれまでの泥臭いプロンプト管理や、無理やりRAGで過去ログを食わせる手法とは設計思想が違います。性格、記憶、さらには視覚的な一貫性までを一つの「Identity層」としてAPIで管理できる。SIer時代にこれがあったら、あの炎上案件もどれだけ楽だったか……。\n\n特に「consistency_level」で同一性を数値制御できるのがエンジニア心をくすぐりますね。自由度が高いLLMを、あえて「不自由なキャラクター」に固定する。この逆転の発想が、プロダクトとしての完成度を一段階引き上げてくれます。\n\n正直、単発のチャットボットならOpenAIのAPIで十分です。でも、もしあなたが「24時間365日、絶対に自分を忘れない看板娘」を自社サービスに実装したいなら、Redbeanは避けて通れない選択肢になるでしょう。\n\nみなさんは、キャラクターAIの一貫性を保つためにどんな工夫をしていますか？やっぱり力技のプロンプトエンジニアリングですかね？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-24T18:57:35.742014+09:00",
+    "posted": false
   }
 ]
