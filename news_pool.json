@@ -3189,19 +3189,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Google Gemini in Chrome",
-      "url": "https://www.producthunt.com/products/googlegemini-in-chrome",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn your browser into an AI workspace </p> <p> <a href=\"https://www.producthunt.com/products/googlegemini-in-chrome?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1095068?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-24T22:23:20"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Maestri",
       "url": "https://www.producthunt.com/products/maestri",
       "primary_category": "TOOL",
@@ -3367,7 +3354,86 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s2fwjy/pls_say_what_you_want_in_your_terminal_get_the/\"> <img alt=\"pls: say what you want in your terminal, get the shell command. Offline with Ollama.\" src=\"https://preview.redd.it/2kv5hukfa0rg1.gif?frame=1&amp;width=140&amp;height=84&amp;auto=webp&amp;s=eef522b5a39e398a8f8d2640ec83f81f50a9cf42\" title=\"pls: say what you want in your terminal, get the shell command. Offline with Ollama.\" /> </a> </td><td> &#32; submitted by ",
       "extra": {},
       "collected_at": "2026-03-25T00:44:28"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Doss raises $55M for AI inventory management that plugs into ERP",
+      "url": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 24 Mar 2026 17:18:29 +0000",
+      "summary": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.",
+      "extra": {},
+      "collected_at": "2026-03-25T02:56:53"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meet the former Apple designer building a new AI interface at Hark",
+      "url": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Tue, 24 Mar 2026 16:00:00 +0000",
+      "summary": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
+      "extra": {},
+      "collected_at": "2026-03-25T02:56:53"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+      "url": "https://github.com/ssrajadh/sentrysearch",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 24 Mar 2026 14:58:27 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-25T02:56:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "jared.so",
+      "url": "https://www.producthunt.com/products/jared-so",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI that monitors convos & proactively jumps in when needed </p> <p> <a href=\"https://www.producthunt.com/products/jared-so?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1105598?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-25T02:56:59"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Best model that can beat Claude opus that runs on 32MB of vram?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s2i7pw/best_model_that_can_beat_claude_opus_that_runs_on/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-24T16:12:08+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone! I want to get in to vibe coding to make my very own ai wrapper, what are the best models that can run on 32MB of vram? I have a GeForce 256, and an intel pentium 3, i want to be able to run a model on ollama that can AT LEAST match or beat Claude opus, any recommendations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PrestigiousEmu4485\"> /u/PrestigiousEmu4485 </a> <br /> <span><a href=\"https://www.reddit.com",
+      "extra": {},
+      "collected_at": "2026-03-25T02:57:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Kimi K2.5 knows to wait for apps to load by taking screenshots continuously",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s2hfpe/kimi_k25_knows_to_wait_for_apps_to_load_by_taking/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-24T15:44:47+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s2hfpe/kimi_k25_knows_to_wait_for_apps_to_load_by_taking/\"> <img alt=\"Kimi K2.5 knows to wait for apps to load by taking screenshots continuously\" src=\"https://preview.redd.it/nsgjf9azi0rg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6cd10f5b3c599e60207b495c97dc3b01b6536f62\" title=\"Kimi K2.5 knows to wait for apps to load by taking screenshots continuously\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I basically",
+      "extra": {},
+      "collected_at": "2026-03-25T02:57:01"
     }
   ],
-  "updated_at": "2026-03-25T00:44:28.461406+09:00"
+  "updated_at": "2026-03-25T02:57:01.933277+09:00"
 }

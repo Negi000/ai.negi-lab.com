@@ -8289,5 +8289,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-25T00:44:54.130501+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-25-doss-ai-inventory-management-erp-integration",
+    "title": "ERPの負債をAIで溶かす？Dossの5500万ドル調達と在庫管理の「脱レガシー」戦略",
+    "url": "https://ai.negi-lab.com/posts/doss-ai-inventory-management-erp-integration/",
+    "category": "NEWS",
+    "viral_tags": "#ERP #在庫管理AI",
+    "tweet_text": "SIer時代、地獄のようなERP刷新プロジェクトを何度も見てきた私にとって、今回のDossの5500万ドル調達は「ついに来たか」という感覚です。\n\n多くの企業が数億円かけて導入したSAPやOracle。でも現場は結局、Excelで在庫管理をしていませんか？その理由は、ERPが「記録」には強くても「意思決定」には不向きだから。\n\nDossはERPをリプレースしません。その上に「AIの脳」をプラグインとして載せる戦略です。PDFの納品書やSlackの雑談、天候データといった「非構造化データ」をLLMで解析し、直接ERPのAPIを叩いて発注まで自動化する。\n\nこれ、エンジニア目線で見ると「ERPの複雑なスキーマをAIが隠蔽してくれる」という超強力なオーケストレーション層なんです。もう泥臭いETL処理に追われる日々は終わるかもしれません。\n\nもちろんSAP側の囲い込みリスクはあるけど、現場の「使いにくさ」が限界に達している今、この「ERPをDBとして再定義する」流れは止まらないはず。3ヶ月後には、役員会でスマホに向かって「在庫調整しといて」と呟くのが標準になる未来が見えます。\n\n皆さんの現場のERP、正直使いやすいですか？AIレイヤーで「上書き」したい業務、何かありますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-25T02:57:33.813357+09:00",
+    "posted": false
   }
 ]
