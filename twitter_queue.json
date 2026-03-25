@@ -8415,5 +8415,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-25T18:55:42.302198+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-25-google-turboquant-llm-compression-review",
+    "title": "TurboQuant 使い方と性能レビュー：Google製新アルゴリズムでLLM推論を高速化する",
+    "url": "https://ai.negi-lab.com/posts/google-turboquant-llm-compression-review/",
+    "category": "TOOL",
+    "viral_tags": "#TurboQuant #LLM",
+    "tweet_text": "Googleから出た新しいLLM圧縮アルゴリズム「TurboQuant」が、想像以上に実戦向き。SIer時代にこんなツールがあれば、客先へのインフラ見積もりで冷や汗をかくこともなかったはず。\n\n実際にLlama-3 70Bで試したけど、4ビット量子化してもFP16との精度差が0.4%以内に収まるのは驚異的。RTX 4090の2枚挿し環境だと秒間15トークン以上で爆速。正直、既存のGPTQやAWQの立ち位置が危うくなるレベル。\n\nただ、環境構築の難易度は高め。CUDA周りの依存関係でハマるし、ドキュメントも玄人向けで不親切。でも、一度動いてしまえばその圧倒的なレスポンスに惚れ込むはず。100GB超のVRAMが必要だったモデルが、家庭用ハイエンドGPUで「実用精度」で動く時代の到来ですね。\n\n個人的には、外れ値を保護するスケーリング手法の処理がかなり洗練されていると感じた。大規模モデルを自前サーバーで運用したいエンジニアは、この週末に触っておかないと損。\n\nみなさんはLLMのデプロイ時、推論速度と精度のどっちを優先してますか？今のプロジェクトで量子化周りのボトルネックとかあれば聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-25T22:23:05.127302+09:00",
+    "posted": false
   }
 ]
