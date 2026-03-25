@@ -8443,5 +8443,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-26T00:47:35.769514+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-26-sanders-aoc-data-center-ban-impact-analysis",
+    "title": "米データセンター建設禁止法案の衝撃：AI開発の「物理的限界」が前倒しされる未来",
+    "url": "https://ai.negi-lab.com/posts/sanders-aoc-data-center-ban-impact-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#データセンター建設禁止 #ローカルLLM",
+    "tweet_text": "米国のサンダース議員とAOCが「データセンター建設禁止法案」を提出。これはAI開発者にとって、チップ不足以上の死活問題になります。\n\nこれまで「スケーリング則」を信じて計算資源を注ぎ込んできた業界に、政治が物理的なブレーキをかけに来ました。背景にあるのは、1ラック100kW超えという異常な消費電力と水不足問題。\n\nでもこれ、実は「効率化技術」が爆発するチャンスだとも思っています。\n・1.58ビット量子化の社会実装\n・オンデバイスAIへの強制シフト\n・モデル蒸留スキルの必須化\n\nSIer時代、限られたメモリで四苦八苦した経験が、今こそ活きる時代。RTX 4090を2枚挿してローカルLLMを検証している私としては、クラウド依存からの脱却を本気で考える時期が来たと確信しています。\n\n「GPUの暴力」が通じなくなった世界で、私たちはどうコードを書くべきか。\n3ヶ月後には、エネルギー効率（TFLOPS/W）が最強の指標になっているはず。\n\n皆さんは、この「物理的な制限」をどう突破しますか？ローカル移行？それとも分散コンピューティング？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-26T02:59:29.997647+09:00",
+    "posted": false
   }
 ]

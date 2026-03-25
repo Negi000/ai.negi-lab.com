@@ -2,98 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Microsoft hires the team of Sequioa-backed AI collaboration platform, Cove",
-      "url": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Wed, 18 Mar 2026 15:33:49 +0000",
-      "summary": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.",
-      "extra": {},
-      "collected_at": "2026-03-19T00:50:07"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The PhD students who became the judges of the AI industry",
-      "url": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 18 Mar 2026 15:00:00 +0000",
-      "summary": "Artificial intelligence&#160;models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best&#160;— and who decides that?&#160;Arena, formerly LM Arena, has&#160;emerged&#160;as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a&#160;UC&#160;Berkeley PhD research [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-19T00:50:07"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
-      "url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 18 Mar 2026 13:40:43 +0000",
-      "summary": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply chain risk.",
-      "extra": {},
-      "collected_at": "2026-03-19T00:50:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Doccupine",
-      "url": "https://www.producthunt.com/products/doccupine",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open source AI-ready documentation platform. </p> <p> <a href=\"https://www.producthunt.com/products/doccupine?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1094782?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-19T00:50:11"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Lore",
-      "url": "https://www.producthunt.com/products/lore-4",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Cursor for your memory. 100% private, open-source & free. </p> <p> <a href=\"https://www.producthunt.com/products/lore-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101203?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-19T00:50:11"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "[Project] I bypassed NemoClaw's sandbox isolation to run a fully local agent (Nemotron 9B + tool calling) on a single RTX 5090",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rx05cw/project_i_bypassed_nemoclaws_sandbox_isolation_to/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-18T10:28:29+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>NVIDIA launched NemoClaw at GTC yesterday — an enterprise sandbox for AI agents built on OpenShell (k3s + Landlock + seccomp). By default it expects cloud API connections and heavily restricts local networking.</p> <p>I wanted 100% local inference on WSL2 + RTX 5090, so I punched through the sandbox to reach my vLLM instance.</p> <ul> <li>Host iptables: allowed traffic from Docker bridge to vLLM (port 8000)</li> <li>Pod TCP Relay: custom Python relay in the Pod'",
-      "extra": {},
-      "collected_at": "2026-03-19T00:50:14"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Minimax-M2.7",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rwwtui/minimaxm27/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-18T07:03:33+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/hedgehog0\"> /u/hedgehog0 </a> <br /> <span><a href=\"https://mp.weixin.qq.com/s/Xfsq8YDP7xkOLzbh1HwdjA\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rwwtui/minimaxm27/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-03-19T00:50:14"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
       "url": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
       "primary_category": "NEWS",
@@ -3357,19 +3265,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Flowershow",
-      "url": "https://www.producthunt.com/products/flowershow",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Publish your markdown as a beautiful website – in seconds. </p> <p> <a href=\"https://www.producthunt.com/products/flowershow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1099959?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-26T00:47:09"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Axra",
       "url": "https://www.producthunt.com/products/axra",
       "primary_category": "TOOL",
@@ -3407,7 +3302,74 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s3bb3y/intel_launches_arc_pro_b70_and_b65_with_32gb_gddr6/\"> <img alt=\"Intel launches Arc Pro B70 and B65 with 32GB GDDR6\" src=\"https://preview.redd.it/um5uhjk557rg1.png?width=140&amp;height=78&amp;auto=webp&amp;s=1609e75140402f9f17a74ce85ad3bc034cf5bede\" title=\"Intel launches Arc Pro B70 and B65 with 32GB GDDR6\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/yo5e6l4r47rg1.png?width=2000",
       "extra": {},
       "collected_at": "2026-03-26T00:47:12"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Bernie Sanders and AOC propose a ban on data center construction",
+      "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 25 Mar 2026 17:15:50 +0000",
+      "summary": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
+      "extra": {},
+      "collected_at": "2026-03-26T02:58:54"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google launches Lyria 3 Pro music generation model",
+      "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Wed, 25 Mar 2026 16:37:43 +0000",
+      "summary": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
+      "extra": {},
+      "collected_at": "2026-03-26T02:58:54"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior",
+      "url": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 25 Mar 2026 16:10:00 +0000",
+      "summary": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
+      "extra": {},
+      "collected_at": "2026-03-26T02:58:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Magine",
+      "url": "https://www.producthunt.com/products/magine",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Spawn vision-enabled AI agents autonomously browsing the web </p> <p> <a href=\"https://www.producthunt.com/products/magine?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1104302?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-26T02:58:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Intel will sell a cheap GPU with 32GB VRAM next week",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s3e8bd/intel_will_sell_a_cheap_gpu_with_32gb_vram_next/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-03-25T15:38:21+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It seems Intel will release a GPU with 32 GB of VRAM on March 31, which they would sell directly for $949.</p> <p>Bandwidth would be 608 GB/s (a little less than an NVIDIA 5070), and wattage would be 290W.</p> <p>Probably/hopefully very good for local AI and models like Qwen 3.5 27B at 4 bit quantization.</p> <p>I'm definitely rooting for Intel, as I have a big percentage of my investment in their stock.</p> <p><a href=\"https://www.pcmag.com/news/intel-targets-a",
+      "extra": {},
+      "collected_at": "2026-03-26T02:59:00"
     }
   ],
-  "updated_at": "2026-03-26T00:47:12.561873+09:00"
+  "updated_at": "2026-03-26T02:59:00.521006+09:00"
 }
