@@ -1,130 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "DLSS 5: Has Nvidia&#8217;s AI graphics technology gone too far?",
-      "url": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-18T08:30:00-04:00",
-      "summary": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-18T22:24:52"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Bookshelf for NotebookLM",
-      "url": "https://www.producthunt.com/products/bookshelf-for-notebooklm",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Add folders, search, and sync to Google NotebookLM </p> <p> <a href=\"https://www.producthunt.com/products/bookshelf-for-notebooklm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100535?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-18T22:25:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Unsloth Studio",
-      "url": "https://www.producthunt.com/products/unsloth",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open-source web UI to run and train AI models. </p> <p> <a href=\"https://www.producthunt.com/products/unsloth?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101264?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-18T22:25:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Banyan AI Lite",
-      "url": "https://www.producthunt.com/products/banyan-ai-lite",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI detecting & preventing SaaS churn </p> <p> <a href=\"https://www.producthunt.com/products/banyan-ai-lite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1095408?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-18T22:25:02"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-      "extra": {
-        "stars_today": "32 stars today"
-      },
-      "collected_at": "2026-03-18T22:25:05"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "AykutSarac/jsoncrack.com",
-      "url": "https://github.com/AykutSarac/jsoncrack.com",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.",
-      "extra": {
-        "stars_today": "128 stars today"
-      },
-      "collected_at": "2026-03-18T22:25:05"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "ARISE-Initiative/robosuite",
-      "url": "https://github.com/ARISE-Initiative/robosuite",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "robosuite: A Modular Simulation Framework and Benchmark for Robot Learning",
-      "extra": {
-        "stars_today": "7 stars today"
-      },
-      "collected_at": "2026-03-18T22:25:05"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Omnicoder-Claude-4.6-Opus-Uncensored-GGUF",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rwy5sl/omnicoderclaude46opusuncensoredgguf/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-18T08:28:10+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone. My previous post in this thread on reddit recieved a lot of upvotes and warm and great feedback. Thank you very much guys. So I decided to improve and refine my workflow even further via merging more Qwen 3.5 9B models this time.</p> <p>Introducing fully uncensored Omnicoder distilled by Claude Opus with zero refusals:<br /> <a href=\"https://huggingface.co/LuffyTheFox/Omnicoder-Claude-4.6-Opus-Uncensored-GGUF\">https://huggingface.co/LuffyTheFox/O",
-      "extra": {},
-      "collected_at": "2026-03-18T22:25:06"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Mamba 3 - state space model optimized for inference",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rwxzj3/mamba_3_state_space_model_optimized_for_inference/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-18T08:17:01+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rwxzj3/mamba_3_state_space_model_optimized_for_inference/\"> <img alt=\"Mamba 3 - state space model optimized for inference\" src=\"https://external-preview.redd.it/sBoDV0ZUMVEGqgt21ESTWfpFs4kLxb0eZZne4UrWNn4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f3f4d14b41448927bb6c3c60a87765a2e38c2813\" title=\"Mamba 3 - state space model optimized for inference\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.",
-      "extra": {},
-      "collected_at": "2026-03-18T22:25:06"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Microsoft hires the team of Sequioa-backed AI collaboration platform, Cove",
       "url": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
@@ -3317,19 +3193,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "TurboQuant",
-      "url": "https://www.producthunt.com/products/turboquant",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> New LLM compression algorithm by Google </p> <p> <a href=\"https://www.producthunt.com/products/turboquant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1106716?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-25T22:22:36"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Releaslyy AI",
       "url": "https://www.producthunt.com/products/releaslyy-ai",
       "primary_category": "TOOL",
@@ -3438,7 +3301,113 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s34173/after_the_supply_chain_attack_here_are_some/\"> <img alt=\"After the supply chain attack, here are some litellm alternatives\" src=\"https://preview.redd.it/4hrn5eh985rg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3c9b9d898487d798cd45a5552f7df31e4ffa7c9\" title=\"After the supply chain attack, here are some litellm alternatives\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>litellm versions 1.82.7 and 1.82.8 o",
       "extra": {},
       "collected_at": "2026-03-25T22:22:39"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Wed, 25 Mar 2026 14:48:40 +0000",
+      "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
+      "extra": {},
+      "collected_at": "2026-03-26T00:47:07"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
+      "url": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Wed, 25 Mar 2026 14:45:20 +0000",
+      "summary": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its platforms to grow and connect with customers, the company wants to do more in the space.",
+      "extra": {},
+      "collected_at": "2026-03-26T00:47:07"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
+      "url": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Wed, 25 Mar 2026 14:16:17 +0000",
+      "summary": "Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps.",
+      "extra": {},
+      "collected_at": "2026-03-26T00:47:07"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "OpenAI's latest repo has Claude as the third top contributor",
+      "url": "https://twitter.com/CodeByNZ/status/2036723050197012771",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 25 Mar 2026 14:44:10 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-26T00:47:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Flowershow",
+      "url": "https://www.producthunt.com/products/flowershow",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Publish your markdown as a beautiful website – in seconds. </p> <p> <a href=\"https://www.producthunt.com/products/flowershow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1099959?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-26T00:47:09"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Axra",
+      "url": "https://www.producthunt.com/products/axra",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI-native global banking on stablecoins for emerging markets </p> <p> <a href=\"https://www.producthunt.com/products/axra?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1106057?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-26T00:47:09"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "LayerProof Matte",
+      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Repurpose social media posts with unique content per format </p> <p> <a href=\"https://www.producthunt.com/products/layerproof-social-content-generation?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1105802?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-26T00:47:09"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Intel launches Arc Pro B70 and B65 with 32GB GDDR6",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s3bb3y/intel_launches_arc_pro_b70_and_b65_with_32gb_gddr6/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-03-25T13:50:36+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s3bb3y/intel_launches_arc_pro_b70_and_b65_with_32gb_gddr6/\"> <img alt=\"Intel launches Arc Pro B70 and B65 with 32GB GDDR6\" src=\"https://preview.redd.it/um5uhjk557rg1.png?width=140&amp;height=78&amp;auto=webp&amp;s=1609e75140402f9f17a74ce85ad3bc034cf5bede\" title=\"Intel launches Arc Pro B70 and B65 with 32GB GDDR6\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/yo5e6l4r47rg1.png?width=2000",
+      "extra": {},
+      "collected_at": "2026-03-26T00:47:12"
     }
   ],
-  "updated_at": "2026-03-25T22:22:39.238686+09:00"
+  "updated_at": "2026-03-26T00:47:12.561873+09:00"
 }

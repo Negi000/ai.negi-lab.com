@@ -8429,5 +8429,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-25T22:23:05.127302+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-26-flowershow-markdown-nextjs-tutorial-review",
+    "title": "Flowershow 使い方 Markdownを美しいサイトに変換する方法",
+    "url": "https://ai.negi-lab.com/posts/flowershow-markdown-nextjs-tutorial-review/",
+    "category": "TOOL",
+    "viral_tags": "#Flowershow #Obsidian",
+    "tweet_text": "Obsidianで書き溜めたメモ、そのまま眠らせておくのはもったいない。\n\n月額$8払ってObsidian Publishを使うのも手だけど、エンジニアなら「Flowershow」を試す価値がある。Next.jsベースで爆速だし、WikilinksやMermaidも標準装備。何よりTailwind CSSで自分好みに1ピクセル単位で改造できるのが最高に楽しい。\n\nSIer時代に苦労して作ったWikiや、今のローカルLLM検証メモも全部これに移行中。Markdownの中にReactコンポーネントを直接埋め込めるから、動的なベンチマークグラフとかも思いのままに作れる。\n\n「ドキュメント管理はHugoやMkDocsで十分」と思ってたけど、情報のつながりを可視化するバックリンク機能とNext.jsのUXが組み合わさると、もはや別次元のツールになる。\n\n自前でVercelに飛ばせばコストも実質ゼロ。\nドキュメント構築でReact/Next.jsのスタックを使いたい人、実際触ってみてカスタマイズ性どう感じました？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-26T00:47:35.769514+09:00",
+    "posted": false
   }
 ]
