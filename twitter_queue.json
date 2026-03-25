@@ -8331,5 +8331,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-25T11:50:42.353974+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-25-openai-sora-app-shutdown-analysis",
+    "title": "Soraアプリ閉鎖が示す「AI生成フィード」の終焉と動画生成AIの正しい実装方法",
+    "url": "https://ai.negi-lab.com/posts/openai-sora-app-shutdown-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAISora #動画生成AI",
+    "tweet_text": "OpenAIのSoraアプリ閉鎖は、AI業界の「大きな曲がり角」を示していますね。Sora 2の技術自体は物理演算も音声同期も完璧で、正直言って次元が違います。でも「AIが作った動画を眺めるだけのSNS」に、人はすぐに飽きてしまった。\n\nSIer時代、どんなに凄いシステムを作っても「ユーザーが使わなければゴミ」と叩き込まれましたが、まさにそれ。技術の勝利と製品戦略の敗北です。1分4K生成が0.5ドルを切る時代に、なぜこのアプリが「不気味」と言われたのか。\n\nそこには、人間の共感を呼ぶ「文脈」が欠落していたからです。4090を2枚挿してローカルLLMを回すような変人の私でも、流石にAIだけのフィードを毎日見るのは苦行でした。\n\nこれからは「AIに何を作らせるか」ではなく「既存の制作フローにどう組み込むか」の勝負。開発者はアプリ版の失敗を笑うのではなく、APIドキュメントを読み込んで実務実装の準備をすべきです。3ヶ月後には、AIは「見るもの」から「作るための部品」に完全に変わっているはず。\n\n皆さんは、今の動画生成AIに「足りないもの」って何だと思いますか？精度？それともやっぱり、制作側の意図でしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-25T14:03:37.900759+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-25-flux-api-replay-production-debug-guide",
+    "title": "Flux 使い方 本番環境のAPIエラーをローカルで再現してデバッグする",
+    "url": "https://ai.negi-lab.com/posts/flux-api-replay-production-debug-guide/",
+    "category": "TOOL",
+    "viral_tags": "#エンジニア #デバッグ効率化",
+    "tweet_text": "本番環境でだけ発生するAPIのバグ調査に、もう丸一日溶かすのはやめませんか？\n\n元SIerエンジニアとして、ログから当時の状況を「妄想」して再現コードを書く苦行を何度も経験してきました。今回レビューした「Flux」は、その負のサイクルを物理的に破壊するツールです。\n\n一言でいうと「本番の失敗をそのままローカルでリプレイするタイムマシン」。エラーが起きた瞬間のHTTPヘッダーやボディをそのまま手元に持ってきて、デバッガでステップ実行できる。この衝撃は、初めてSentryを触った時以上かもしれません。\n\n特にマイクロサービス間でデータが壊れるような、ログを追うのが絶望的なケースで真価を発揮します。キャプチャ時のオーバーヘッドは約2-5%と無視できないレベルですが、開発効率が3倍跳ね上がるなら安い投資。\n\nPII（個人情報）のマスキング設定さえサボらなければ、バックエンド開発の標準装備になるポテンシャルがあります。皆さんの現場では、再現不能なバグにどう立ち向かってますか？やっぱり地道なprintデバッグやログ分析が主流でしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-25T14:04:47.948563+09:00",
+    "posted": false
   }
 ]
