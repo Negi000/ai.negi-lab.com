@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "GPT‑5.4 Mini and Nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 17 Mar 2026 17:07:06 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-18T06:50:14"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "SOLAYA",
-      "url": "https://www.producthunt.com/products/solaya",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> From smartphone scan to 3D model + unlimited product visuals </p> <p> <a href=\"https://www.producthunt.com/products/solaya?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096610?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-18T06:50:15"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Hugging Face just released a one-liner that uses 𝚕𝚕𝚖𝚏𝚒𝚝 to detect your hardware and pick the best model and quant, spins up a 𝚕𝚕a𝚖𝚊.𝚌𝚙𝚙 server, and launches Pi (the agent behind OpenClaw 🦞)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rwgi8x/hugging_face_just_released_a_oneliner_that_uses/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-17T19:22:21+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rwgi8x/hugging_face_just_released_a_oneliner_that_uses/\"> <img alt=\"Hugging Face just released a one-liner that uses 𝚕𝚕𝚖𝚏𝚒𝚝 to detect your hardware and pick the best model and quant, spins up a 𝚕𝚕a𝚖𝚊.𝚌𝚙𝚙 server, and launches Pi (the agent behind OpenClaw 🦞)\" src=\"https://preview.redd.it/eqycj7gumnpg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fbb0c59f09b69ed640af4d0b1cd25c76d91e8089\" title=\"Hugging Face just released a",
-      "extra": {},
-      "collected_at": "2026-03-18T06:50:18"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I just realised how good GLM 5 is",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rwhe5j/i_just_realised_how_good_glm_5_is/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-17T19:53:32+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is crazy. As a heavy Claude code user, who has used over 12 billion tokens in the last few months, and never tried local coding, I finally decided to try OpenCode with the Zen plan and GLM 5.</p> <p>Initially tried Kimi K2.5 but it was not good at all.</p> <p>Did a test to see how far 1-2 prompts could get me with GLM 5 versus the same prompt in Claude Code.</p> <p>First task, a simple dashboard inventory tracker. About equal although Claude code with opus ",
-      "extra": {},
-      "collected_at": "2026-03-18T06:50:18"
-    },
-    {
       "source": "Google News",
       "title": "国内AI市場は今後4年で約3倍に成長： 2029年の国内AI市場支出額は7兆円に迫る - International Data Corporation",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPQ1B5T2ZrcHd5OTNRQnNEQnh4akZDWVEtT0NPckxtZEFISEE1NXhxYkJ5MmN1NTU5SHlEWTBzNjF0M0k2a3pwdmNPQTB0eFRDS0llSUFlZGxydGdpRnRfVHAySVhjeFQtV1A3YUJxMVNpeUNYOWdqeFNzQTBQdkZIZUdaaWNDSDBZekdVZ1pHSXhIY3JNZjd2eVBZS05wbnNjcXZZVGNSclhRSlk1UjE0cWhmUTZSQ0ZQUFJVYk5hNVdpV1kwU2hUbktBaXdVVkh1a3VHa3ktVUptZ1JiSlFCQlpJdUo4clhNemMwMHpmTjBFU3piUkU1d3NtckxuZXlqVTYtY3V3YjdCcFN1NFNaYU8wa0NMRFNUUUJjb3RuWDhRX2VDTlo4Yk5vaUxRWkFJeGFsby1ZMFpFLWliZmVmQmtUQ0NVOVhyWm81dENxdWtSLUJqVFFQTDRMdHY0ODQ?oc=5",
@@ -3340,19 +3286,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
-      "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 24 Mar 2026 21:00:30 +0000",
-      "summary": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
-      "extra": {},
-      "collected_at": "2026-03-25T06:48:50"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
       "url": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
       "primary_category": "NEWS",
@@ -3444,7 +3377,85 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey, folks!</p> <p>We've released the weights of our GigaChat-3.1-Ultra and Lightning models under MIT license <a href=\"https://huggingface.co/collections/ai-sage/gigachat-31\">at our HF</a>. These models are pretrained from scratch on our hardware and target both high resource environments (Ultra is a large 702B MoE) and local inference (Lightning is a tiny 10B A1.8B MoE). Why?</p> <ol> <li>Because we believe that having more open weights models is better for th",
       "extra": {},
       "collected_at": "2026-03-25T06:48:55"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Wed, 25 Mar 2026 00:47:20 +0000",
+      "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+      "extra": {},
+      "collected_at": "2026-03-25T11:50:09"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+      "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Tue, 24 Mar 2026 23:57:55 +0000",
+      "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+      "extra": {},
+      "collected_at": "2026-03-25T11:50:09"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+      "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 24 Mar 2026 22:22:57 +0000",
+      "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
+      "extra": {},
+      "collected_at": "2026-03-25T11:50:09"
+    },
+    {
+      "source": "Google News",
+      "title": "未来AI研究センター - fun.ac.jp",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HYXFrWTRRQktDUDBEelJFY25GU2ZybE5vM1J3S0tvVWlHT0VPb2pXeUFBM2Q5eEdtc3VqX3hyU29qaEl3UWNGVUlxdDFwd0xoTElNQVdMY1pqSDQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 25 Mar 2026 01:06:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HYXFrWTRRQktDUDBEelJFY25GU2ZybE5vM1J3S0tvVWlHT0VPb2pXeUFBM2Q5eEdtc3VqX3hyU29qaEl3UWNGVUlxdDFwd0xoTElNQVdMY1pqSDQ?oc=5\" target=\"_blank\">未来AI研究センター</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fun.ac.jp</font>",
+      "extra": {},
+      "collected_at": "2026-03-25T11:50:11"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Prices finally coming down? 🥺🙏",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s2q4o8/prices_finally_coming_down/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-24T20:54:09+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s2q4o8/prices_finally_coming_down/\"> <img alt=\"Prices finally coming down? 🥺🙏\" src=\"https://preview.redd.it/gbyt7weh32rg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1da1a650c49a9cba974615e2938b7e6f894ddefd\" title=\"Prices finally coming down? 🥺🙏\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PsychologicalSock239\"> /u/PsychologicalSock239 </a> <br /> <span><a href=\"https://i.redd.it/gby",
+      "extra": {},
+      "collected_at": "2026-03-25T11:50:13"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Throwback to my proudest impulse buy ever, which has let me enjoy this hobby 10x more",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s2x0w9/throwback_to_my_proudest_impulse_buy_ever_which/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-25T01:26:44+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s2x0w9/throwback_to_my_proudest_impulse_buy_ever_which/\"> <img alt=\"Throwback to my proudest impulse buy ever, which has let me enjoy this hobby 10x more\" src=\"https://preview.redd.it/2z3k2rs7f3rg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a8330848fdb8f3bf2b43db0c3deed216209aa242\" title=\"Throwback to my proudest impulse buy ever, which has let me enjoy this hobby 10x more\" /> </a> </td><td> <!-- SC_OFF --><div class=",
+      "extra": {},
+      "collected_at": "2026-03-25T11:50:13"
     }
   ],
-  "updated_at": "2026-03-25T06:48:55.736319+09:00"
+  "updated_at": "2026-03-25T11:50:13.282836+09:00"
 }

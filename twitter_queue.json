@@ -8317,5 +8317,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-25T06:49:21.288065+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-25-kleiner-perkins-3-billion-ai-fund-analysis",
+    "title": "Kleiner Perkinsの35億ドル調達が示す「モデル開発終了」と「エージェント経済」への完全移行",
+    "url": "https://ai.negi-lab.com/posts/kleiner-perkins-3-billion-ai-fund-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#KleinerPerkins #AIスタートアップ",
+    "tweet_text": "老舗VCのKleiner Perkins（KP）が35億ドルという狂気的な規模のAIファンドを設立しました。\n\n元SIerとしてこの数字を深掘りした結果、見えてきたのは「モデル開発競争の終焉」と「エージェント社会実装への完全移行」です。\n\nKPが10億ドルを初期、25億ドルを成長期に配分した点が極めて重要。これは、単なる夢を語るフェーズは終わり、PMFを達成したAI企業を資本の力で一気に「業界標準」へ押し上げるフェーズに入ったことを意味します。\n\n技術スタックも「APIラッパー」から「複合AIシステム（Compound AI Systems）」へ激変しています。独自の検証パイプライン、エッジ推論の最適化、そして自律エージェントのオーケストレーション。これらができないスタートアップは、この巨額資金の波に飲み込まれて消えるでしょう。\n\nRTX 4090を回しながらコードを書いてる身としては、インフラコストの計算ができるエンジニアの価値がこれから爆上がりすると確信しています。\n\nみなさんの開発現場では、APIコストと内製LLMの分岐点をどう判断していますか？具体的な基準があればぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-25T11:50:42.353974+09:00",
+    "posted": false
   }
 ]
