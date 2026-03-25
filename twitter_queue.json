@@ -8359,5 +8359,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-25T14:04:47.948563+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-25-kentucky-farm-rejects-ai-datacenter-offer",
+    "title": "2600万ドルの買収を拒否した農場主とAIインフラが直面する物理的限界の壁",
+    "url": "https://ai.negi-lab.com/posts/kentucky-farm-rejects-ai-datacenter-offer/",
+    "category": "NEWS",
+    "viral_tags": "#AIインフラ #データセンター",
+    "tweet_text": "AIの進化が「土地」という物理的な壁に激突しました。ケンタッキー州の農場主が、大手AI企業からの2600万ドル（約40億円）という巨額の買収オファーを拒否。\n\nSIer時代、DCの電源容量不足に悩まされた経験から言うと、これは他人事ではありません。今のAI開発は「計算資源の奪い合い」から、変電所や冷却水、そして今回のような「地面」の奪い合いというレイヤー0の戦争に突入しています。\n\nNVIDIAの次世代Blackwell世代では、1ラックあたりの消費電力が100kWを超えます。これは一般的なサーバーの10倍以上の密度。もはや都市部のビルでは収まらず、広大な農地を狙うしかないのが現状です。\n\nでも、お金を積めば解決するフェーズは終わったのかもしれません。物理的な制約があるからこそ、これからは「いかに少ない電力で賢いモデルを作るか」という、アルゴリズムの真の知恵比べが始まります。\n\n皆さんの開発現場でも、最近APIの制限やコスト高を感じることはありませんか？将来的に「物理的なリソース限界」でAIの進化が鈍化する可能性について、どう考えますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-25T16:07:09.811108+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-25-omma-parallel-agents-3d-app-review",
+    "title": "Omma 並列エージェントによる3D・アプリ・Web構築の自動化",
+    "url": "https://ai.negi-lab.com/posts/omma-parallel-agents-3d-app-review/",
+    "category": "TOOL",
+    "viral_tags": "#OmmaAI #AIエージェント",
+    "tweet_text": "SIer時代、複数の開発チームが並行してコードを書くと、必ず最後の方で「インターフェースが合わない」「ステートが競合する」という地獄を見てきました。当時の苦労を思うと、Ommaの「並列エージェント」という考え方は実に合理的で、かつ恐ろしい。\n\nこれまでのコード生成AIは、一つのファイルが長くなると急に精度が落ちる「1ファイル1エージェント」の限界がありました。Ommaはそこを役割分担で解決している。例えば、3Dモデル担当とロジック担当が、共通の仕様書を見ながら同時にコードを書くイメージです。\n\n実際に触ってみると、React Three Fiberの複雑なコードを、破綻させずに書き上げる精度に驚きました。APIコストはそれなりにかかりますが、エンジニア一人の工数を考えれば誤差の範囲。\n\nただ、これ「指示を出す側」に設計力がないと、一瞬でゴミコードの山が出来上がります。使いこなすには、単なるプロンプト以上の、アーキテクチャ設計の知識が求められますね。\n\nみなさんの現場では、AIエージェントの「並列稼働」をどう評価していますか？マージの手間が増えるだけだと思いますか、それとも工数削減の決定打になりますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-25T16:08:36.885465+09:00",
+    "posted": false
   }
 ]
