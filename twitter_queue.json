@@ -8387,5 +8387,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-25T16:08:36.885465+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-25-spotify-ai-slop-metadata-prevention-tool",
+    "title": "Spotifyが「AI音楽のなりすまし」阻止へ。アーティストの権利を守るメタデータ管理の実態",
+    "url": "https://ai.negi-lab.com/posts/spotify-ai-slop-metadata-prevention-tool/",
+    "category": "NEWS",
+    "viral_tags": "#Spotify #AI生成音楽",
+    "tweet_text": "Spotifyが「AI音楽のなりすまし」を阻止するための新ツールをテスト開始しました。これは音楽業界における「データの聖域」を守るための極めて重要な一歩です。\n\n今、SunoやUdioといった生成AIで「有名アーティスト風」の曲を量産し、勝手にクレジットして配信する「AI Slop（AIのゴミ）」が激増しています。これがアーティストのプロフィールを汚染し、Spotifyの核であるレコメンドアルゴリズムを破壊しかけているのが現状。\n\n今回のツールは、アーティストが自分の名前に紐付けられる曲を「承認/拒否」できる権限を与えるもの。GitHubのプルリクのように、アーティスト本人が最終的なマスターデータ管理を担う構造です。\n\nSIer時代にデータクレンジングに苦しんだ身としては、この「ゴミを入れない」ためのゲートキーピングの重要性が痛いほど分かります。AIの供給量が人間の消費能力を圧倒する今、プラットフォーム側が「人間による認証」をあえて組み込んだのは、AI時代の品質管理における正解の一つでしょう。\n\nAI生成音楽を扱っている開発者の皆さんも、今後は「データの出自（Lineage）」をどう証明するかが課題になりそうです。\n\n皆さんは、プラットフォーム側がAI生成物をどこまで制限すべきだと思いますか？利便性と品質のバランスについて、皆さんの実感を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-25T18:54:14.539940+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-25-agentplace-ai-agents-review-practical-guide",
+    "title": "Agentplace AI Agents 使い方と実務評価",
+    "url": "https://ai.negi-lab.com/posts/agentplace-ai-agents-review-practical-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Agentplace #AIAgents",
+    "tweet_text": "SIer時代、複雑な業務フローを自動化しようとしてJavaのコードを何万行も書いていた苦労は何だったのか…。Agentplace AI Agentsを触ってみて、その進化の速さに愕然としています。\n\nLLM単体では精度の低かった市場分析やコードレビューが、すでに「専門家」として調整済みのエージェントをAPIで1行叩くだけで完結する。これはもはや、コードを書くというより「チームを編成する」感覚に近いですね。\n\nRTX 4090を2枚挿してローカルLLMをいじくり回すのも楽しいですが、納期が1週間の実務案件なら、私は迷わずこういうマネージドなエージェントプラットフォームを選びます。自分でプロンプトを100回書き直すより、最適化された既存の「型」を使うほうが、トークン代も工数も圧倒的に浮くからです。\n\nただ、便利すぎるがゆえのブラックボックス化や、ベンダーロックインの懸念も正直あります。エンジニアとして、どこまでを外部に頼り、どこを自社で握るべきか。この境界線が、今後の開発における最大の論点になりそうです。\n\nエージェントのオーケストレーションを自前で組んでいる皆さん、実際どのあたりに限界を感じてますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-25T18:55:42.302198+09:00",
+    "posted": false
   }
 ]
