@@ -8555,5 +8555,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-26T19:03:35.402663+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-26-arm-agi-cpu-edge-ai-agent-review",
+    "title": "Arm AGI CPU 評価とエッジAIエージェント開発への導入メリット",
+    "url": "https://ai.negi-lab.com/posts/arm-agi-cpu-edge-ai-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#ArmAGI #エッジAI",
+    "tweet_text": "エッジAI開発の常識が塗り替えられるかもしれない。Arm AGI CPUのドキュメントと最新仕様を読み込みましたが、これは単なる「速いCPU」ではなく、LLMエージェントのボトルネックを物理的に解消する設計ですね。\n\nSIer時代、ローカルLLMの導入で一番ネックだったのが「レスポンスの遅さ」と「プライバシーの両立」でした。RTX 4090をぶん回せば解決しますが、一般ユーザーにそれを強いるのは無理がある。Arm v9.2のSME（Scalable Matrix Extension）が、エージェント特有のKVキャッシュ管理やツール呼び出しのレイテンシを直接叩きにきている点に衝撃を受けました。\n\n100msの遅延がエージェントの連鎖で1秒になる問題。これをハードウェア側で解決しにいく姿勢は、まさに「仕事で使えるAI」を定義し直すもの。これからのオンデバイスAIは「演算量」ではなく「思考のキレ」で競う時代になりそうです。\n\n開発者として、Apple SiliconのNeural Engineとはまた違う、ベンダーを跨いだエコシステムの広がりに期待せざるを得ません。皆さんはオンデバイスLLMの速度に満足していますか？それともまだクラウド派ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-26T22:41:23.415574+09:00",
+    "posted": false
   }
 ]
