@@ -8583,5 +8583,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-27T00:53:48.916750+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-27-bytedance-dreamina-seedance-2-capcut-integration-analysis",
+    "title": "CapCutに統合されたDreamina Seedance 2.0が動画制作の「コスト構造」を根本から破壊する",
+    "url": "https://ai.negi-lab.com/posts/bytedance-dreamina-seedance-2-capcut-integration-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Dreamina #CapCutAI",
+    "tweet_text": "動画生成AIの勢力図が、ByteDanceの「Seedance 2.0」登場で塗り替えられましたね。正直、性能云々よりも「CapCutに直接入った」ことのインパクトが凄まじい。\n\nSIer時代に動画配信システムの構築をしていましたが、生成→編集→出力のパイプラインがこれほどシームレスになるとは想像もしてませんでした。RTX 4090を2枚挿ししてローカルで回すのが趣味の私ですら、このクラウド推論のスループットとCapCutの編集効率の組み合わせには脱帽です。\n\n特に注目すべきは、実在の顔やIP（知的財産）を保護する強力なフィルタリング。これ、単なる倫理観の話じゃなくて「企業が安心して広告予算を突っ込めるか」というビジネス上の分岐点なんですよね。\n\nRunwayやLumaも素晴らしいですが、CapCutという「出口」を握っているByteDanceが、このまま一気に市場を掌握する気がします。\n\nみなさんは、動画生成AIを実際の業務フローに組み込む際、一番のボトルネックは何だと感じていますか？プロンプトの難しさ、それともやっぱり権利関係のグレーさでしょうか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-27T03:01:06.008433+09:00",
+    "posted": false
   }
 ]
