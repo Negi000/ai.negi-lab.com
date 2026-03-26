@@ -2,71 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "Cimanote",
-      "url": "https://www.producthunt.com/products/cimanote",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The fast, clean note app Evernote used to be </p> <p> <a href=\"https://www.producthunt.com/products/cimanote?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101556?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-20T00:28:49"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Lucent",
-      "url": "https://www.producthunt.com/products/lucent-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI that watches your session replays and detects issues </p> <p> <a href=\"https://www.producthunt.com/products/lucent-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093458?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-20T00:28:49"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "talat",
-      "url": "https://www.producthunt.com/products/talat",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Realtime meeting notes that don’t leave your Mac </p> <p> <a href=\"https://www.producthunt.com/products/talat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101838?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-20T00:28:49"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "acestep.cpp: portable C++17 implementation of ACE-Step 1.5 music generation using GGML. Runs on CPU, CUDA, ROCm, Metal, Vulkan",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ry1dy1/acestepcpp_portable_c17_implementation_of_acestep/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-19T14:08:17+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/webdelic\"> /u/webdelic </a> <br /> <span><a href=\"https://github.com/ServeurpersoCom/acestep.cpp\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ry1dy1/acestepcpp_portable_c17_implementation_of_acestep/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-03-20T00:28:51"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I fine-tuned Qwen 0.5B for task automation and wanted to share the results.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rxxfre/i_finetuned_qwen_05b_for_task_automation_and/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-19T11:05:32+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>What it does:</strong></p> <p>- Takes natural language tasks (&quot;copy logs to backup&quot;)</p> <p>- Detects task type (atomic, repetitive, clarification)</p> <p>- Generates execution plans (CLI commands + hotkeys)</p> <p>- Runs entirely locally on CPU (no GPU, no cloud APIs)</p> <p><strong>Technical details:</strong></p> <p>- Base: Qwen2-0.5B</p> <p>- Training: LoRA fine-tuning on ~1000 custom task examples</p> <p>- Quantization: GGUF Q4_K_M (300MB)<",
-      "extra": {},
-      "collected_at": "2026-03-20T00:28:51"
-    },
-    {
-      "source": "Product Hunt",
       "title": "MelonSound",
       "url": "https://www.producthunt.com/products/melonsound",
       "primary_category": "TOOL",
@@ -3168,19 +3103,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Arm AGI CPU",
-      "url": "https://www.producthunt.com/products/arm-agi-cpu",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The world’s most efficient agentic CPU </p> <p> <a href=\"https://www.producthunt.com/products/arm-agi-cpu?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1106670?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-26T22:40:23"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Triqai",
       "url": "https://www.producthunt.com/products/triqai",
       "primary_category": "TOOL",
@@ -3305,7 +3227,112 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s46ylj/mistral_ai_to_release_voxtral_tts_a/\"> <img alt=\"Mistral AI to release Voxtral TTS, a 3-billion-parameter text-to-speech model with open weights that the company says outperformed ElevenLabs Flash v2.5 in human preference tests. The model runs on about 3 GB of RAM, achieves 90-millisecond time-to-first-audio, supports nine languages.\" src=\"https://preview.redd.it/84beyoxx1erg1.jpg?width=140&amp;height=104&amp;auto=web",
       "extra": {},
       "collected_at": "2026-03-26T22:40:27"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+      "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 26 Mar 2026 15:25:13 +0000",
+      "summary": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
+      "extra": {},
+      "collected_at": "2026-03-27T00:53:13"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+      "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 26 Mar 2026 13:41:00 +0000",
+      "summary": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
+      "extra": {},
+      "collected_at": "2026-03-27T00:53:13"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Cohere launches an open-source voice model specifically for transcription",
+      "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 26 Mar 2026 13:30:00 +0000",
+      "summary": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
+      "extra": {},
+      "collected_at": "2026-03-27T00:53:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Listen To This",
+      "url": "https://www.producthunt.com/products/listen-to-this",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Paste an article to listen to it in your podcast app </p> <p> <a href=\"https://www.producthunt.com/products/listen-to-this?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107077?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-27T00:53:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "StreamPad",
+      "url": "https://www.producthunt.com/products/streampad",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn your iPhone/iPad into a studio-grade pro control deck </p> <p> <a href=\"https://www.producthunt.com/products/streampad?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1106087?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-27T00:53:15"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.5-27B-Claude-4.6-Opus-Uncensored-V2-Kullback-Leibler-GGUF",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s48gt3/qwen3527bclaude46opusuncensoredv2kullbackleiblergg/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-26T14:07:53+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Here model:</strong> <a href=\"https://huggingface.co/LuffyTheFox/Qwen3.5-27B-Claude-4.6-Opus-Uncensored-V2-Kullback-Leibler-GGUF\"><strong>https://huggingface.co/LuffyTheFox/Qwen3.5-27B-Claude-4.6-Opus-Uncensored-V2-Kullback-Leibler-GGUF</strong></a> (Q4_K_M quant is most solid (contains KL fix))</p> <p><em>Q4_K_M contains my fixes for</em> <strong><em>attn_v</em></strong> <em>and</em> <strong><em>ffn_gate_exps</em></strong> <em>layers for holding more co",
+      "extra": {},
+      "collected_at": "2026-03-27T00:53:18"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Cohere Transcribe Released",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s48jtu/cohere_transcribe_released/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-03-26T14:11:04+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s48jtu/cohere_transcribe_released/\"> <img alt=\"Cohere Transcribe Released\" src=\"https://external-preview.redd.it/ILECQFNe4gjq0ia9uVsaJs2UXu1fKOefeMcKhIxUSsE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4b53e84f630a80114f68f1727f90145ebf709ba\" title=\"Cohere Transcribe Released\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Announcement Blog: <a href=\"https://cohere.com/blog/transcribe\">https://cohere.com/blog/trans",
+      "extra": {},
+      "collected_at": "2026-03-27T00:53:18"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "mistralai/Voxtral-4B-TTS-2603 · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s4anyf/mistralaivoxtral4btts2603_hugging_face/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-26T15:28:40+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s4anyf/mistralaivoxtral4btts2603_hugging_face/\"> <img alt=\"mistralai/Voxtral-4B-TTS-2603 · Hugging Face\" src=\"https://external-preview.redd.it/OTcCFIvWHvY2JWYq1aaG2h_kqYb1hO3vlGTLjZedj84.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=224280ea276cc065c67fb0c36ad0646463b35b70\" title=\"mistralai/Voxtral-4B-TTS-2603 · Hugging Face\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Nunki08\"> /u/Nunk",
+      "extra": {},
+      "collected_at": "2026-03-27T00:53:18"
     }
   ],
-  "updated_at": "2026-03-26T22:40:27.158725+09:00"
+  "updated_at": "2026-03-27T00:53:18.143148+09:00"
 }
