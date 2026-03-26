@@ -8471,5 +8471,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-26T06:51:59.743031+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-26-manus-ai-agent-reality-check-and-reckoning",
+    "title": "Manus AIの失墜と「自律型エージェント」の過剰な期待が招いた必然の結末",
+    "url": "https://ai.negi-lab.com/posts/manus-ai-agent-reality-check-and-reckoning/",
+    "category": "NEWS",
+    "viral_tags": "#ManusAI #AIエージェント",
+    "tweet_text": "自律型AIエージェント「Manus」の失墜。TechCrunchが報じた内容は、まさに私たちが直視すべき「AIハイプの限界」でした。\n\n「世界初の汎用エージェント」という甘い響きの裏側で起きていたのは、既存ツールのラッパー疑惑と、物理的な推論速度を無視した演出。Python歴8年、多くのML案件をこなしてきた身からすれば、あの違和感の正体がようやく言語化された気分です。\n\n結局、仕事で使えるのは「魔法」ではなく、エラー時に泥臭くログを吐き、プロセスの透明性が担保されたツールだけ。Manusが掲げた90%を超えるベンチマークスコアがいかに不自然だったか、今のClaude 3.5の挙動と比較すれば一目瞭然です。\n\nこれから3ヶ月、業界は「何でもできるAI」の幻想を捨て、特定のタスクを確実にこなす「垂直統合型エージェント」へと揺り戻しが来るでしょう。\n\n皆さんは今のAIエージェントに何を求めていますか？\n「丸投げして結果だけ欲しい」派か、「ステップごとに制御したい」派か。現場で実際に触っている方の本音を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-26T11:57:35.561686+09:00",
+    "posted": false
   }
 ]
