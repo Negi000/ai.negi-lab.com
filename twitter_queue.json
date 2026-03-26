@@ -8499,5 +8499,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-26T14:15:09.950402+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-26-google-turboquant-ai-memory-compression-analysis",
+    "title": "Google TurboQuant 6倍圧縮の衝撃 VRAM不足を解消する「魔法」の正体",
+    "url": "https://ai.negi-lab.com/posts/google-turboquant-ai-memory-compression-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleAI #LLM量子化",
+    "tweet_text": "Googleが発表した新圧縮技術「TurboQuant」が、AI開発のゲームルールを塗り替えるかもしれません。VRAM消費を最大6倍削減するというこの技術、まさにドラマ『シリコンバレー』のパイド・パイパーが現実に降りてきたような衝撃です。\n\n私自身、自宅のRTX 4090を2枚挿してVRAM不足と戦う日々ですが、この技術が実用化されれば1枚のカードで400Bクラスの超巨大モデルを動かせる計算になります。従来の量子化が「解像度を落とす」ものだったのに対し、TurboQuantは「外れ値」を賢く扱うことで、精度維持と極限の圧縮を両立させているのが技術的な肝ですね。\n\n単なる「モデルを小さくする」話ではなく、推論時のKVキャッシュを劇的に絞れるため、長い文脈を扱うRAGの実装コストも数分の一に下がるはず。エッジAIの普及を阻んでいた最大の壁が、ハードの進化ではなく「アルゴリズムの工夫」で崩されようとしています。\n\n皆さんの開発環境では、VRAMの壁をどう乗り越えていますか？「このモデルをローカルで動かしたいけどメモリが足りない」という具体的な悩みがあれば、ぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-26T16:14:58.254936+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-26-littlebird-ai-review-workplace-context-search",
+    "title": "Littlebird 使い方と実務レビュー：散らばった社内情報を統合するAIの真価",
+    "url": "https://ai.negi-lab.com/posts/littlebird-ai-review-workplace-context-search/",
+    "category": "TOOL",
+    "viral_tags": "#Littlebird #生産性向上",
+    "tweet_text": "「あの資料、Slackだっけ？Notionだっけ？」という不毛な検索時間をゼロにするAI、Littlebirdを実務目線で深掘りしました。\n\n元SIerエンジニアとして、情報の断片化には長年悩まされてきましたが、このツールの「既存ツールへの食いつき」の良さは異常です。APIドキュメントやコネクタの挙動を見る限り、RAGのパイプラインを自前で組むのが馬鹿らしくなるレベルで完成されています。\n\n正直、1段落2〜3文で済む話ではありません。Slackの数ヶ月前のスレッドから「意思決定の背景」を掘り起こす精度には驚きました。ただし、日本語のキーワード検索には特有の癖があるので、そこはプロンプトでカバーする技術が必要です。\n\n月額$20で「社内の生き字引」を雇えると考えれば、爆速で開発を回したいスタートアップには必須の装備かもしれません。自作のLlamaIndex実装で消耗している人は、一度このスピード感を体験してみるべきだと思います。\n\n皆さんの現場では、ドキュメントの「死蔵」をどう防いでいますか？やっぱりNotionに集約するのが正義なのか、それともこうした横断ツールに頼るべきなのか、実際の運用状況を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-26T16:16:32.867109+09:00",
+    "posted": false
   }
 ]
