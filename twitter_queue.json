@@ -8625,5 +8625,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-27T12:18:52.050070+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-27-google-gemini-chat-history-transfer-tool-launch",
+    "title": "ChatGPTからGeminiへの「引っ越し」が現実に。Googleが放つチャット履歴移行ツールの実力と懸念点",
+    "url": "https://ai.negi-lab.com/posts/google-gemini-chat-history-transfer-tool-launch/",
+    "category": "NEWS",
+    "viral_tags": "#Gemini #GoogleAI",
+    "tweet_text": "GoogleがChatGPTやClaudeの「チャット履歴」を丸ごとGeminiへ移行できるツールの提供を開始しました。これはAI業界における実質的な宣戦布告です。\n\nSIer時代、データ移行（マイグレーション）がいかに困難か嫌というほど見てきましたが、ついにAIのパーソナルデータにもその波が来ました。これまで「過去のログがあるからChatGPTから離れられない」と思っていたユーザーの心理的障壁を、Googleは技術と資本力で強引に壊しにきています。\n\n技術的には単なるインポートではなく、モデル間のプロンプト形式を自動変換する「セマンティック・マッピング」が肝。Gemini 1.5 Proの200万トークンという巨大な胃袋に、他社で育てたコンテキストを流し込ませる狙いが見え透いていますね。\n\nただ、これは一方通行の「門」であることには注意が必要です。Googleエコシステムへの依存度はさらに高まります。利便性とプライバシー、どちらを取るか。皆さんは、自分のチャット履歴をGoogleに預けることに抵抗はありませんか？それとも、コンテキストの統合による生産性向上を優先しますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-27T14:18:08.073741+09:00",
+    "posted": false
   }
 ]

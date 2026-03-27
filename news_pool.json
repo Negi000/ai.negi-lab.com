@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "InfrOS",
-      "url": "https://www.producthunt.com/products/infros",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Predict and validate cloud architectures before launch </p> <p> <a href=\"https://www.producthunt.com/products/infros?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1092752?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-20T13:55:57"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "OpenAdapter",
-      "url": "https://www.producthunt.com/products/openadapter-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Best Coding Plans with open source models. No lock-in. </p> <p> <a href=\"https://www.producthunt.com/products/openadapter-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102192?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-20T13:55:57"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Just won a RTX 5090 at Nvidia GTC, now what?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryhmbf/just_won_a_rtx_5090_at_nvidia_gtc_now_what/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-20T00:33:06+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Guru, plz help. I just won this sucker! It’s signed by Jensen himself in gold marker, about lost my mind! What is the best model to run on it when I get it hooked up to my PC?</p> <p>I’m an idiot. It’s a 5080.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Overall-Importance54\"> /u/Overall-Importance54 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ryhmbf/just_won_a_rtx_5090_at_nvidia_gtc_now_what",
-      "extra": {},
-      "collected_at": "2026-03-20T13:55:59"
-    },
-    {
       "source": "The Verge AI",
       "title": "A rogue AI led to a serious security incident at Meta",
       "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
@@ -3215,19 +3175,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
-      "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 27 Mar 2026 01:18:38 +0000",
-      "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
-      "extra": {},
-      "collected_at": "2026-03-27T12:18:17"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
       "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
       "primary_category": "NEWS",
@@ -3330,7 +3277,59 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Pushed Qwen 3.5 27B (the dense one, not MoE) to 1,103,941 tok/s on 12 nodes with 96 B200 GPUs using vLLM.</p> <p>9,500 to 95K per node came from four changes: DP=8 over TP=8, context window from 131K to 4K, FP8 KV cache, and MTP-1 speculative decoding. That last one was the biggest -- without MTP, GPU utilization was 0%.</p> <p>Scaling: 97.1% efficiency at 8 nodes, 96.5% at 12. ClusterIP round-robin. The Inference Gateway with KV-cache-aware routing added 35% ov",
       "extra": {},
       "collected_at": "2026-03-27T12:18:22"
+    },
+    {
+      "source": "Google News",
+      "title": "博士前期課程1年の矢吹渓悟さんが人工知能学会研究会優秀賞を受賞 – Future University Hakodate - fun.ac.jp",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Sb3lMNkFXY2RwdDU3MURDZXRwVUhKLXZyLW1XTEV2b2h0QXUtU0lTQl94SnVncXVjd0ozUGJIMVRFek1KY0E?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 25 Mar 2026 17:47:54 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Sb3lMNkFXY2RwdDU3MURDZXRwVUhKLXZyLW1XTEV2b2h0QXUtU0lTQl94SnVncXVjd0ozUGJIMVRFek1KY0E?oc=5\" target=\"_blank\">博士前期課程1年の矢吹渓悟さんが人工知能学会研究会優秀賞を受賞 – Future University Hakodate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fun.ac.jp</font>",
+      "extra": {},
+      "collected_at": "2026-03-27T14:17:38"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "vit",
+      "url": "https://www.producthunt.com/products/vit",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> git for video editing. </p> <p> <a href=\"https://www.producthunt.com/products/vit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1106589?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-27T14:17:38"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "slicer.dev",
+      "url": "https://www.producthunt.com/products/slicer-dev-any-component-as-ai-prompt",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Copy interactive web components as AI prompts </p> <p> <a href=\"https://www.producthunt.com/products/slicer-dev-any-component-as-ai-prompt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107370?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-27T14:17:38"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Consolidated my homelab from 3 models down to one 122B MoE — benchmarked everything, here's what I found",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s4p922/consolidated_my_homelab_from_3_models_down_to_one/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-27T00:39:15+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Been running local LLMs on a Strix Halo setup (Ryzen AI MAX+ 395, 128GB RAM, 96 GiB shared GPU memory via Vulkan/RADV) under Proxmox with LXC containers and llama-server. Wanted to share where I landed after way too much benchmarking.</p> <p><strong>THE OLD SETUP (3 text models)</strong></p> <p>- GLM-4.7-Flash: 30B MoE 3B active, 18GB, 72 tok/s — daily driver, email</p> <p>- Qwen3.5-35B-A3B: 35B MoE 3B active, 20GB, 55 tok/s — reasoning/coding</p> <p>- Qwen3-VL-",
+      "extra": {},
+      "collected_at": "2026-03-27T14:17:41"
     }
   ],
-  "updated_at": "2026-03-27T12:18:22.577208+09:00"
+  "updated_at": "2026-03-27T14:17:41.168602+09:00"
 }
