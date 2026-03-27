@@ -8709,5 +8709,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-27T22:18:14.498149+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-28-insideorg-review-automated-org-chart-viewer",
+    "title": "InsideOrg 使い方と組織図自動生成の効率化レビュー",
+    "url": "https://ai.negi-lab.com/posts/insideorg-review-automated-org-chart-viewer/",
+    "category": "TOOL",
+    "viral_tags": "#InsideOrg #組織図自動化",
+    "tweet_text": "組織図の作成、まだExcelやパワポで消耗してますか？\nInsideOrgを触ってみましたが、これは「描く」ツールではなく「表示する」ツールとしての割り切りが潔いですね。\n\nエンジニア視点で言うと、1000ノード超えてもレスポンス0.1秒以下でサクサク動く描画エンジンの軽快さが異常です。\n基本はJSONやCSVを流し込むだけ。SIer時代、体制図の更新だけで数時間溶かしていた自分に教えてあげたい。\n\n強みはAPIベースで自動化しやすいこと。Google WorkspaceやNotionの社員名簿と連携すれば、メンテナンスフリーな組織図が即完成します。\n逆に、給与連動や複雑な権限管理が必要な人事部には向きません。あくまで「誰がどこにいるか」を全員が瞬時に把握するためのツール。\n\n個人的には、メタデータにGitHubアカウントや得意スキルを載せて、社内タレント検索エンジン化するのが一番実用的だと感じました。\n皆さんの現場では、増え続けるメンバーの把握どうしてますか？自動化してる事例があれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-28T00:28:53.360260+09:00",
+    "posted": false
   }
 ]
