@@ -8695,5 +8695,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-27T18:58:22.903931+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-27-hunna-profit-app-saas-revenue-tracking-review",
+    "title": "Hunna SaaSの純利益とユニットエコノミクスを自動可視化するダッシュボード",
+    "url": "https://ai.negi-lab.com/posts/hunna-profit-app-saas-revenue-tracking-review/",
+    "category": "TOOL",
+    "viral_tags": "#SaaS開発 #個人開発",
+    "tweet_text": "SaaS開発者として「売上」じゃなく「純利益」を秒単位で把握したくて、Hunnaを本気で検証した。\n\nStripeのダッシュボードって、サーバー代やAPI使用料といった「変動費」を引いた本当の数字が見えないのがずっとストレスだった。結局、スプレッドシートに手動でAWSの請求額を転記する作業…。\n\nHunnaの面白いところは、このコスト計算をPython SDK経由で自動注入できる点。\n\n```python\nclient.costs.create(amount=server_cost, category=\"infra\")\n```\n\nみたいにコード1行書くだけで、ダッシュボードに「真の利益」が反映される。\nRTX 4090をぶん回してAI推論回してるような、原価が重いサービスを作ってる人にはこれ以上ない武器になるはず。\n\nUIも爆速で、Stripe決済から1.5秒で反映されるのはエンジニア的に気持ちいい。\n正直、英語のみなのが惜しいけど、MRRとかLTVの意味がわかるなら問題なし。\n\nみんな、自分のサービスの「今日の純利益」って正確に答えられる？\nどんぶり勘定で広告費溶かす前に、こういうツールで土台を固めるのが結局一番の近道だと思う。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-27T22:18:14.498149+09:00",
+    "posted": false
   }
 ]
