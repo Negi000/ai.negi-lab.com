@@ -1,32 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "A rogue AI led to a serious security incident at Meta",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-19T14:20:05-04:00",
-      "summary": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The Information. Meta spokesperson Tracy Clayton said in a statement to The Verge that \"no user data was mishandled\" during the incident. A [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-20T16:00:36"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Smooth Capture",
-      "url": "https://www.producthunt.com/products/smooth-capture",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> 3D device frame screen recording for macOS </p> <p> <a href=\"https://www.producthunt.com/products/smooth-capture?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101531?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-20T16:00:45"
-    },
-    {
       "source": "Product Hunt",
       "title": "Google AI Studio 2.0",
       "url": "https://www.producthunt.com/products/google-ai-studio-8",
@@ -3175,20 +3149,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
-      "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Thu, 26 Mar 2026 23:47:56 +0000",
-      "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
-      "extra": {},
-      "collected_at": "2026-03-27T12:18:17"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Wikipedia cracks down on the use of AI in article writing",
       "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
       "primary_category": "NEWS",
@@ -3329,7 +3289,72 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Been running local LLMs on a Strix Halo setup (Ryzen AI MAX+ 395, 128GB RAM, 96 GiB shared GPU memory via Vulkan/RADV) under Proxmox with LXC containers and llama-server. Wanted to share where I landed after way too much benchmarking.</p> <p><strong>THE OLD SETUP (3 text models)</strong></p> <p>- GLM-4.7-Flash: 30B MoE 3B active, 18GB, 72 tok/s — daily driver, email</p> <p>- Qwen3.5-35B-A3B: 35B MoE 3B active, 20GB, 55 tok/s — reasoning/coding</p> <p>- Qwen3-VL-",
       "extra": {},
       "collected_at": "2026-03-27T14:17:41"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-26T20:33:44-04:00",
+      "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-27T16:13:06"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Stakpak Autopilot",
+      "url": "https://www.producthunt.com/products/stakpak-dev",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Keep Your Apps Running 24/7 </p> <p> <a href=\"https://www.producthunt.com/products/stakpak-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102693?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-27T16:13:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Noctiluca",
+      "url": "https://www.producthunt.com/products/noctiluca",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A new remote desktop for macOS </p> <p> <a href=\"https://www.producthunt.com/products/noctiluca?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1108003?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-27T16:13:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Benchspan",
+      "url": "https://www.producthunt.com/products/benchspan",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Run agent benchmarks in minutes, not hours </p> <p> <a href=\"https://www.producthunt.com/products/benchspan?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107633?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-27T16:13:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AppDesk",
+      "url": "https://www.producthunt.com/products/appdesk",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your App Store data, beautifully visualized on your Mac </p> <p> <a href=\"https://www.producthunt.com/products/appdesk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107741?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-27T16:13:08"
     }
   ],
-  "updated_at": "2026-03-27T14:17:41.168602+09:00"
+  "updated_at": "2026-03-27T16:13:10.812632+09:00"
 }
