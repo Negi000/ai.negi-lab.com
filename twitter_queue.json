@@ -8667,5 +8667,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-27T16:15:49.734690+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-27-us-senate-ai-data-center-power-bill-investigation",
+    "title": "AI開発の「隠れたコスト」が露呈か。米上院の電力調査がもたらすクラウド値上げの足音",
+    "url": "https://ai.negi-lab.com/posts/us-senate-ai-data-center-power-bill-investigation/",
+    "category": "NEWS",
+    "viral_tags": "#AI開発 #データセンター規制",
+    "tweet_text": "AI開発の裏側にある「電気代」が、ついに米上院に暴かれることになりそうです。ホーリーとウォーレンという、本来交わらないはずの二人が手を組んで、データセンターの電力消費実態を丸裸にするよう要請。これは単なる環境問題ではなく、AI開発の「物理的な限界」が法規制の対象になったことを意味します。\n\nSIer時代、ラックの電力上限に頭を抱えていた身からすると、今のAIバブルはあまりにも電力に対して無頓着すぎました。H100を何万枚も並べるクラスターは、もはや一つの都市。その負荷を送電網が支えきれなくなっています。\n\nこの動き、3ヶ月後にはクラウド利用料への「電力調整費」上乗せという形で、私たちの財布を直撃しそうです。これからのエンジニアは、モデルの精度だけでなく「1ワットでどれだけ推論できるか」という電力効率を競う時代になります。\n\n「物量こそ正義」の時代は終わり、アルゴリズムによる圧縮と効率化の職人芸が再び評価されるはず。皆さんの現場では、すでに電力コストや推論効率の最適化、始まってますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-27T18:56:29.302235+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-27-playtester-gg-indie-game-testing-review",
+    "title": "Playtester.gg：インディーゲーム開発の「テストの質」を自動化するマーケットプレイス",
+    "url": "https://ai.negi-lab.com/posts/playtester-gg-indie-game-testing-review/",
+    "category": "TOOL",
+    "viral_tags": "#インディーゲーム開発 #PlaytesterGG",
+    "tweet_text": "インディーゲーム開発で一番キツいのは、SNSで集めたテスターが「面白かったです！」としか言ってくれない忖度地獄だと思うんですよね。\n\nPlaytester.ggを触ってみましたが、これは「QAの自動化」への架け橋になるツールです。検証済みのテスターから質の高いフィードバックが届くので、修正に直結する。\n\n特にPythonでAPI叩いて、フィードバックをGitHub Issueに自動起票する仕組みを作れば、起きたらバグ票が積まれてる理想的な環境が作れます。SIer時代にこういうのが欲しかった…。\n\nただ、テスター層は現状英語圏がメイン。日本語のローカライズ検証にはまだ不向きですが、Steamでグローバル展開を狙うなら、この生データは月額料金を払う価値があります。100人の「忖度ファン」より、1人の「検証済みゲーマー」の方が、ゲームを面白くするヒントをくれる。\n\n皆さんはプレイテスト、どうやってますか？Discordで募集？それとも身内だけで回してます？実際のところ、外部テスターを入れるタイミングって迷いますよね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-27T18:58:22.903931+09:00",
+    "posted": false
   }
 ]

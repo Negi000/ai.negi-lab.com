@@ -1,72 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Google AI Studio 2.0",
-      "url": "https://www.producthunt.com/products/google-ai-studio-8",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Full-stack vibe coding powered by Antigravity + Firebase </p> <p> <a href=\"https://www.producthunt.com/products/google-ai-studio-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102579?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-20T18:40:53"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Composer 2 by Cursor",
-      "url": "https://www.producthunt.com/products/cursor",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Fast, token-efficient frontier-level coding model </p> <p> <a href=\"https://www.producthunt.com/products/cursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102589?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-20T18:40:53"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ProductBridge",
-      "url": "https://www.producthunt.com/products/productbridge",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Agent that collects feedback across multiple platforms </p> <p> <a href=\"https://www.producthunt.com/products/productbridge?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101621?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-20T18:40:53"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Nemotron Cascade 2 30B A3B",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryo0i9/nemotron_cascade_2_30b_a3b/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-20T05:42:27+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Based on Nemotron 3 Nano Base, but more/better post-training. Looks competitive with 120B models on math and code benchmarks. I've yet to test.</p> <p>Hugging Face: <a href=\"https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B\">https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B</a></p> <p>Paper: <a href=\"https://arxiv.org/abs/2603.19220\">https://arxiv.org/abs/2603.19220</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.c",
-      "extra": {},
-      "collected_at": "2026-03-20T18:40:55"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Quick thoughts on Qwen3.5-35B-A3B-UD-IQ4_XS from Unsloth",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rynoe9/quick_thoughts_on_qwen3535ba3budiq4_xs_from/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-20T05:22:59+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just some quick thoughts on <a href=\"https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF/blob/main/Qwen3.5-35B-A3B-UD-IQ4_XS.gguf\">Qwen3.5-35B-A3B-UD-IQ4_XS</a> after I finally got it working in the new version of <a href=\"https://github.com/oobabooga/text-generation-webui\">Ooba</a>. In short: on a 3090, this thing runs at around 100 t/s with almost no preprocessing time, and it can fit like a 250k context length on the card with no cache quantization. Actual pe",
-      "extra": {},
-      "collected_at": "2026-03-20T18:40:55"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "The best AI investment might be in energy tech",
       "url": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
@@ -3148,19 +3082,6 @@
       "collected_at": "2026-03-27T06:40:56"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Wikipedia cracks down on the use of AI in article writing",
-      "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 26 Mar 2026 21:50:10 +0000",
-      "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
-      "extra": {},
-      "collected_at": "2026-03-27T12:18:17"
-    },
-    {
       "source": "HN AI Hot",
       "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
       "url": "https://github.com/itigges22/ATLAS",
@@ -3305,19 +3226,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Stakpak Autopilot",
-      "url": "https://www.producthunt.com/products/stakpak-dev",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Keep Your Apps Running 24/7 </p> <p> <a href=\"https://www.producthunt.com/products/stakpak-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102693?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-27T16:13:08"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Noctiluca",
       "url": "https://www.producthunt.com/products/noctiluca",
       "primary_category": "TOOL",
@@ -3354,7 +3262,87 @@
       "summary": "<p> Your App Store data, beautifully visualized on your Mac </p> <p> <a href=\"https://www.producthunt.com/products/appdesk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107741?app_id=339\">Link</a> </p>",
       "extra": {},
       "collected_at": "2026-03-27T16:13:08"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "David Sacks is no longer the White House AI and Crypto Czar",
+      "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-03-26T19:40:22-04:00",
+      "summary": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on Thursday that he was no longer a special government employee - and therefore no longer President Donald Trump's Special Advisor on AI and Crypto. Sacks' [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-27T18:54:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Playtester.gg",
+      "url": "https://www.producthunt.com/products/playtester-gg",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Fresh and verified playtesters for your Indie Game </p> <p> <a href=\"https://www.producthunt.com/products/playtester-gg?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1108238?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-27T18:54:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Universal CLI by Composio",
+      "url": "https://www.producthunt.com/products/composio",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Connect AI agents to 1000+ apps directly from your terminal </p> <p> <a href=\"https://www.producthunt.com/products/composio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1108611?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-27T18:54:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "InsideOrg",
+      "url": "https://www.producthunt.com/products/insideorg",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Free organization chart viewer for any company </p> <p> <a href=\"https://www.producthunt.com/products/insideorg?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107585?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-27T18:54:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cockpit AI",
+      "url": "https://www.producthunt.com/products/cockpit-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Run revenue agents across every channel </p> <p> <a href=\"https://www.producthunt.com/products/cockpit-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102741?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-27T18:54:44"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "[Qwen Meetup] Function Calling Harness with Qwen, turning 6.75% to 100%",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s4ydfu/qwen_meetup_function_calling_harness_with_qwen/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-27T08:31:30+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s4ydfu/qwen_meetup_function_calling_harness_with_qwen/\"> <img alt=\"[Qwen Meetup] Function Calling Harness with Qwen, turning 6.75% to 100%\" src=\"https://external-preview.redd.it/eFyBO1O8uLSFgvbRXIsTyPU6tFdrBjnR9pvnY7O70Bg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d521c3109831bb03b27dc43e37951a45d226557f\" title=\"[Qwen Meetup] Function Calling Harness with Qwen, turning 6.75% to 100%\" /> </a> </td><td> <!-- SC_OFF --><",
+      "extra": {},
+      "collected_at": "2026-03-27T18:54:47"
     }
   ],
-  "updated_at": "2026-03-27T16:13:10.812632+09:00"
+  "updated_at": "2026-03-27T18:54:47.184442+09:00"
 }
