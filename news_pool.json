@@ -2,112 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "Billy.sh",
-      "url": "https://www.producthunt.com/products/billy-sh",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Local AI coding assistant for your terminal using Ollama </p> <p> <a href=\"https://www.producthunt.com/products/billy-sh?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102100?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-20T06:46:36"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.5 Best Parameters Collection",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryb028/qwen35_best_parameters_collection/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-19T20:12:33+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Qwen3.5 has been out for a few weeks now. I hope the dust has settled a bit and we have stable quants, inference engines and parameters now.. ?</p> <p>Please share what parameters you are using, for what use case and how well its working for you (along with quant and inference engine). This seems to be the best way to discover the best setup. </p> <p>Here's mine - based on Unsloth's recommendations <a href=\"https://unsloth.ai/docs/models/qwen3.5\">here</a> and pr",
-      "extra": {},
-      "collected_at": "2026-03-20T06:46:38"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Devstral small 2 24b severely underrated",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ry93gz/devstral_small_2_24b_severely_underrated/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-19T18:52:00+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm not a vibe coder, but I would like some basic assistance with my code. I'm posting this because I feel like the general consensus on Reddit was misleading about which models would be best for me to run locally on a 16gb GPU for code assistance.</p> <p>For context, I'm an early career academic with no research budget for a fancy GPU. I'm using my personal 16gb 4060ti to assist my coding. Right now I'm revisiting some numpy heavy code wrapped with @numba.jit t",
-      "extra": {},
-      "collected_at": "2026-03-20T06:46:38"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "MiniMax-M2.7: what do you think is the likelihood it will be open weights like M2.5?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ry7exr/minimaxm27_what_do_you_think_is_the_likelihood_it/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-19T17:51:41+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>With M2.7 nipping at the heels of Opus 4.6 et al., do you think MiniMaxAI will now pivot to closed API-only access? Will they maintain an open-weights friendly stance?</p> <p>I for one am crossing my fingers and praying to all the gods of LLMs that they keep releasing!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/__JockY__\"> /u/__JockY__ </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ry7exr/mini",
-      "extra": {},
-      "collected_at": "2026-03-20T06:46:38"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "OctoClaw",
-      "url": "https://www.producthunt.com/products/octoclaw",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Hire AI specialists for marketing, sales, support, and more </p> <p> <a href=\"https://www.producthunt.com/products/octoclaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097578?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-20T11:43:42"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "What the hell is Deepseek doing for so long?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryhn0o/what_the_hell_is_deepseek_doing_for_so_long/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-20T00:34:01+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Almost all the Chinese AI companies have surpassed their models. Even Xiaomi now has a far better model. They are still somehow stuck in v 3.2 with minor updates. They supposedly have so much resources now that they have international attention. They haven't even released a decent multimodal model. Are they just out of race at this point? I don't see how they can even compete with frontier Chinese AI companies, much less than frontier US companies unless they re",
-      "extra": {},
-      "collected_at": "2026-03-20T11:43:45"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "My Experience with Qwen 3.5 35B",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryc3w0/my_experience_with_qwen_35_35b/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-19T20:54:33+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>these last few months we got some excellent local models like</p> <ul> <li>Nemotron Nano 30BA3</li> <li>GLM 4.7 Flash</li> </ul> <p>both of these were very good compared to anything that came before them with these two for the first time i was able to reliably do stuff(meaning i can look at a task and know <code>yup these will be able to do it</code>)</p> <p>but then came Qwen 35B. it was smarter overall speeds don't degrade with larger context, and all the thin",
-      "extra": {},
-      "collected_at": "2026-03-20T11:43:45"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Vercel will train model on your code",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ryetd5/vercel_will_train_model_on_your_code/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-03-19T22:37:52+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ryetd5/vercel_will_train_model_on_your_code/\"> <img alt=\"Vercel will train model on your code\" src=\"https://preview.redd.it/j1vlmz7hx2qg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=746f3d6cc3a0499a5ffc40ec52b927b90b368908\" title=\"Vercel will train model on your code\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Got these new terms and policy changes.</p> <p>If you are under hobby or free plan - you are default ",
-      "extra": {},
-      "collected_at": "2026-03-20T11:43:45"
-    },
-    {
-      "source": "Product Hunt",
       "title": "InfrOS",
       "url": "https://www.producthunt.com/products/infros",
       "primary_category": "TOOL",
@@ -3282,19 +3176,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
-      "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 26 Mar 2026 18:34:02 +0000",
-      "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
-      "extra": {},
-      "collected_at": "2026-03-27T06:40:54"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Data centers get ready — the Senate wants to see your power bills",
       "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
       "primary_category": "NEWS",
@@ -3331,7 +3212,125 @@
       "summary": "<p> An AI social network for humans, agents & models </p> <p> <a href=\"https://www.producthunt.com/products/nebils?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107391?app_id=339\">Link</a> </p>",
       "extra": {},
       "collected_at": "2026-03-27T06:40:56"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+      "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 27 Mar 2026 01:18:38 +0000",
+      "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+      "extra": {},
+      "collected_at": "2026-03-27T12:18:17"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Thu, 26 Mar 2026 23:47:56 +0000",
+      "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+      "extra": {},
+      "collected_at": "2026-03-27T12:18:17"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Wikipedia cracks down on the use of AI in article writing",
+      "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 26 Mar 2026 21:50:10 +0000",
+      "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
+      "extra": {},
+      "collected_at": "2026-03-27T12:18:17"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+      "url": "https://github.com/itigges22/ATLAS",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 26 Mar 2026 17:31:24 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-27T12:18:18"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Replay: Life Timeline",
+      "url": "https://www.producthunt.com/products/replay-ios-app",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A visual timeline of where you've been </p> <p> <a href=\"https://www.producthunt.com/products/replay-ios-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107122?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-27T12:18:20"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Inspekt",
+      "url": "https://www.producthunt.com/products/inspekt",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI-powered API proxy for automated debugging and security </p> <p> <a href=\"https://www.producthunt.com/products/inspekt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107388?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-27T12:18:20"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Dual DGX Sparks vs Mac Studio M3 Ultra 512GB: Running Qwen3.5 397B locally on both. Here's what I found.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s4lmep/dual_dgx_sparks_vs_mac_studio_m3_ultra_512gb/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-26T22:12:06+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was spending about $2K/month on Claude API tokens for a personal AI assistant I run through Slack. After about 45 days of that cost pain I decided to go local. Bought both a dual DGX Spark setup and a Mac Studio M3 Ultra 512GB, each cost me about $10K after taxes. Same price, completely different machines. Here is what I learned running Qwen3.5 397B A17B on both.</p> <p><strong>The Mac Studio</strong></p> <p>MLX 6 bit quantization, 323GB model loaded into 512G",
+      "extra": {},
+      "collected_at": "2026-03-27T12:18:22"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Apple stopped selling 512gb URAM mac studios, now the max amount is 256GB!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s4kev3/apple_stopped_selling_512gb_uram_mac_studios_now/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-26T21:25:41+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>THe memory supply crisis is hitting apple too. IT is probably too expensive and/or not enough supply for them to sell 512gb ram m3 ultras. U can look at <a href=\"https://www.apple.com/shop/buy-mac/mac-studio\">https://www.apple.com/shop/buy-mac/mac-studio</a> to see it is no longer available.. MAybe that is why the m5 max only has a max of 128gb, i think they couldve added 256gb to it... Yeah they probably wont make the m5 ultra with 1tb of ram; at best 512 gb of",
+      "extra": {},
+      "collected_at": "2026-03-27T12:18:22"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.5 27B at 1.1M tok/s on B200s, all configs on GitHub",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s4hudr/qwen_35_27b_at_11m_toks_on_b200s_all_configs_on/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-26T19:49:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Pushed Qwen 3.5 27B (the dense one, not MoE) to 1,103,941 tok/s on 12 nodes with 96 B200 GPUs using vLLM.</p> <p>9,500 to 95K per node came from four changes: DP=8 over TP=8, context window from 131K to 4K, FP8 KV cache, and MTP-1 speculative decoding. That last one was the biggest -- without MTP, GPU utilization was 0%.</p> <p>Scaling: 97.1% efficiency at 8 nodes, 96.5% at 12. ClusterIP round-robin. The Inference Gateway with KV-cache-aware routing added 35% ov",
+      "extra": {},
+      "collected_at": "2026-03-27T12:18:22"
     }
   ],
-  "updated_at": "2026-03-27T06:40:59.231158+09:00"
+  "updated_at": "2026-03-27T12:18:22.577208+09:00"
 }
