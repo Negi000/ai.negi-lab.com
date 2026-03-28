@@ -2,111 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "Everest AI",
-      "url": "https://www.producthunt.com/products/everest-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Building the world’s fastest IPMI single board computer </p> <p> <a href=\"https://www.producthunt.com/products/everest-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1103157?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-22T02:25:55"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Educato App",
-      "url": "https://www.producthunt.com/products/educato-app",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Personalized exam prep, now in your pocket </p> <p> <a href=\"https://www.producthunt.com/products/educato-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1103252?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-22T02:25:55"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Sanota",
-      "url": "https://www.producthunt.com/products/sanota",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Stories, beautifully crafted </p> <p> <a href=\"https://www.producthunt.com/products/sanota?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101671?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-22T02:25:55"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Novi Notes",
-      "url": "https://www.producthunt.com/products/novi-notes",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Local-first AI note app for Mac zero config via MCP </p> <p> <a href=\"https://www.producthunt.com/products/novi-notes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087121?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-22T02:25:55"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Don't sleep on the new Nemotron Cascade",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzud2z/dont_sleep_on_the_new_nemotron_cascade/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-21T15:30:38+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>While there has been a lot of discussion regarding the Nemotron Super family of models, I feel like the newest addition, the <a href=\"https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B\">Nemotron Cascade 2 30B-A3B</a> (which is *not* based on the Qwen architecture despite a similar size, it's a properly hybrid model based on Nemotron's own arch) has largely flown under the radar.</p> <p>I've been running some evals on local models lately since I'm kind of t",
-      "extra": {},
-      "collected_at": "2026-03-22T02:25:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "DeepSeek Core Researcher Daya Guo Rumored to Have Resigned",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzu7rc/deepseek_core_researcher_daya_guo_rumored_to_have/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-21T15:24:35+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Recently, heavy-hitting news regarding a major personnel change has emerged in the field of Large Language Models (LLMs): <strong>Daya Guo</strong>, a core researcher at DeepSeek and one of the primary authors of the DeepSeek-R1 paper, has reportedly resigned.</p> <p>Public records show that Daya Guo possesses an exceptionally distinguished academic background. He obtained his PhD from Sun Yat-sen University in 2023, where he was mentored by Professor Jian Yin a",
-      "extra": {},
-      "collected_at": "2026-03-22T02:25:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "LoCaL iS oVeRrAtEd",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s01dqw/local_is_overrated/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-21T20:08:46+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s01dqw/local_is_overrated/\"> <img alt=\"LoCaL iS oVeRrAtEd\" src=\"https://preview.redd.it/m72tpc4pggqg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa40991c3b46ad7509f777b0b770ab573c3add20\" title=\"LoCaL iS oVeRrAtEd\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I feel like at this point they’re just trying to ragebait for likes to compensate for inability to manufacture quality content.</p> </div><!-- SC_ON --> &#",
-      "extra": {},
-      "collected_at": "2026-03-22T06:34:46"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "New AI Policy by White House (US)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzyha4/new_ai_policy_by_white_house_us/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-21T18:12:56+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Summary (SLM Generated): </p> <p><strong>1. Protecting Children</strong> — Require age-assurance measures, parental controls, and safeguards against sexual exploitation and self-harm on AI platforms, while affirming existing child privacy laws apply to AI.</p> <p><strong>2. Strengthening Communities</strong> — Shield residential electricity ratepayers from AI data center costs, streamline permitting for AI infrastructure, combat AI-enabled scams targeting senior",
-      "extra": {},
-      "collected_at": "2026-03-22T06:34:46"
-    },
-    {
-      "source": "Product Hunt",
       "title": "murmur",
       "url": "https://www.producthunt.com/products/murmur-7",
       "primary_category": "TOOL",
@@ -3209,19 +3104,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "CrabTalk",
-      "url": "https://www.producthunt.com/products/crabtalk",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The agent daemon that hides nothing. 8MB. Open Source </p> <p> <a href=\"https://www.producthunt.com/products/crabtalk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1105969?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-29T00:00:59"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Crossnode",
       "url": "https://www.producthunt.com/products/crossnode",
       "primary_category": "TOOL",
@@ -3342,7 +3224,113 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s62b23/bought_rtx4080_32gb_triple_fan_from_china/\"> <img alt=\"Bought RTX4080 32GB Triple Fan from China\" src=\"https://preview.redd.it/9bg4lnjxnsrg1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=b21e21e36021e8086c4a73a276f66f7ccc7d356e\" title=\"Bought RTX4080 32GB Triple Fan from China\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Got me 32GB RTX 4080 from China for around 1300€.<br /> I think for ",
       "extra": {},
       "collected_at": "2026-03-29T00:01:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 28 Mar 2026 20:45:54 +0000",
+      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "extra": {},
+      "collected_at": "2026-03-29T06:39:24"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 28 Mar 2026 16:11:16 +0000",
+      "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
+      "extra": {},
+      "collected_at": "2026-03-29T06:39:24"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 28 Mar 2026 18:38:59 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-29T06:39:24"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "WordPress Studio CLI",
+      "url": "https://www.producthunt.com/products/wordpress-studio-cli",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> WordPress Studio now has an independently installable CLI </p> <p> <a href=\"https://www.producthunt.com/products/wordpress-studio-cli?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1109387?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-29T06:39:26"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "A simple explanation of the key idea behind TurboQuant",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s62g5v/a_simple_explanation_of_the_key_idea_behind/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-28T14:53:13+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>TurboQuant (<a href=\"https://arxiv.org/abs/2504.19874\">Zandieh et al. 2025</a>) has been all the rage in the past two days, and I've seen lots of comments here attempting to explain the magic behind it. Many of those comments boil down to &quot;dude, it's polar coordinates!!!&quot;, and that's really misleading. The most important part has nothing to do with polar coordinates (although they are emphasized in Google's blog post, so the confusion is understandable",
+      "extra": {},
+      "collected_at": "2026-03-29T06:39:29"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma 4",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s65hfw/gemma_4/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-28T16:49:40+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s65hfw/gemma_4/\"> <img alt=\"Gemma 4\" src=\"https://preview.redd.it/5u28grrdetrg1.png?width=140&amp;height=93&amp;auto=webp&amp;s=8844bad556da4161856d05a9e31288d314c30a4a\" title=\"Gemma 4\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Sharing this after seeing these tweets(<a href=\"https://xcancel.com/patelnamra573/status/2037892455841075514#m\">1</a> , <a href=\"https://xcancel.com/veermasrani/status/2037912954570698961#m\"",
+      "extra": {},
+      "collected_at": "2026-03-29T06:39:29"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Turbo3 + gfx906 + 4 mi50 16gb running qwen3.5 122b 🤯",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s67k6v/turbo3_gfx906_4_mi50_16gb_running_qwen35_122b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-28T18:09:09+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s67k6v/turbo3_gfx906_4_mi50_16gb_running_qwen35_122b/\"> <img alt=\"Turbo3 + gfx906 + 4 mi50 16gb running qwen3.5 122b 🤯\" src=\"https://preview.redd.it/0vbwxzkqttrg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d7e30dca353e8726d819ac314afb8a23f9f0b83\" title=\"Turbo3 + gfx906 + 4 mi50 16gb running qwen3.5 122b 🤯\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Today I merged gfx906 and Turbo3 forks in a fresh fork of ll",
+      "extra": {},
+      "collected_at": "2026-03-29T06:39:29"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Breaking change in llama-server?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s62el8/breaking_change_in_llamaserver/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-03-28T14:51:24+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Here's one less-than-helpful result from HuggingFace's takeover of ggml. </p> <p>When I launched the latest build of llama-server, it automatically did this:</p> <pre><code>================================================================================ WARNING: Migrating cache to HuggingFace cache directory Old cache: /home/user/.cache/llama.cpp/ New cache: /home/user/GEN-AI/hf_cache/hub This one-time migration moves models previously downloaded with -hf from t",
+      "extra": {},
+      "collected_at": "2026-03-29T06:39:29"
     }
   ],
-  "updated_at": "2026-03-29T00:01:02.866453+09:00"
+  "updated_at": "2026-03-29T06:39:29.150974+09:00"
 }
