@@ -8765,5 +8765,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-28T11:49:47.161421+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-28-openai-sora-delay-meta-legal-battle-ai-infrastructure-limits",
+    "title": "Sora公開停滞とAIデータセンター建設拒絶が突きつける生成AIの物理的限界",
+    "url": "https://ai.negi-lab.com/posts/openai-sora-delay-meta-legal-battle-ai-infrastructure-limits/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAISora #AIインフラ",
+    "tweet_text": "AI業界の潮目が完全に変わりました。OpenAIの動画生成AI「Sora」の公開停滞と、Metaが法廷で直面している逆風。この記事の裏にある「物理的な限界」について深掘りしました。\n\nケンタッキー州の82歳の女性が、データセンター建設のための約40億円のオファーを拒否したというニュース。これ、笑い話じゃないんです。AIの進化を止めるのはアルゴリズムの壁ではなく、土地と電力、そして人々の感情という「現実の重力」でした。\n\nSIer時代にDC構築を経験した身からすると、今のAI企業の焦りは痛いほどわかります。Soraが世に出ない本当の理由は、安全性以上に「計算コストが商業的に成立しない」という冷徹な算盤勘定にあるはず。\n\nRTX 4090を2枚挿してローカルLLMを回していると、クラウドAPIの脆弱さがよく見えます。これからは「無限の計算資源」を前提とした開発は通用しません。\n\n皆さんは今のAIツールの進化速度に、インフラや法整備が追いついていると感じますか？それとも、一度立ち止まって整理すべき時期だと思いますか？現場のリアルな意見を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-28T14:02:53.051167+09:00",
+    "posted": false
   }
 ]

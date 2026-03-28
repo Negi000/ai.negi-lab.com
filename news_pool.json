@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "Feedback on my 256gb VRAM local setup and cluster plans. Lawyer keeping it local.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rzg33q/feedback_on_my_256gb_vram_local_setup_and_cluster/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-21T02:39:23+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1rzg33q/feedback_on_my_256gb_vram_local_setup_and_cluster/\"> <img alt=\"Feedback on my 256gb VRAM local setup and cluster plans. Lawyer keeping it local.\" src=\"https://preview.redd.it/dri90uqg9bqg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb8e09e4b205f8f253e6534d0f4d2f19444122d9\" title=\"Feedback on my 256gb VRAM local setup and cluster plans. Lawyer keeping it local.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><",
-      "extra": {},
-      "collected_at": "2026-03-21T13:44:53"
-    },
-    {
       "source": "Product Hunt",
       "title": "Looq: Preview Files",
       "url": "https://www.producthunt.com/products/looq-3",
@@ -3158,19 +3144,6 @@
       "collected_at": "2026-03-28T02:51:11"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
-      "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 27 Mar 2026 19:11:28 +0000",
-      "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
-      "extra": {},
-      "collected_at": "2026-03-28T06:48:23"
-    },
-    {
       "source": "Product Hunt",
       "title": "Agentation",
       "url": "https://www.producthunt.com/products/agentation",
@@ -3290,7 +3263,60 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I asked Gemini a simple question about gemma3 12b model and RAG. Instead of just giving me an answer, it dumped its reasoning/chain-of-thought into the output, including what looks like some system prompt instructions and then an infinite loop it couldn't escape. It looked like the model was trying and failing to terminate its own output and eventually filling thousands of lines with text: &quot;(End)&quot;. Since the response is huge, here are just the highligh",
       "extra": {},
       "collected_at": "2026-03-28T11:49:11"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The latest in data centers, AI, and energy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-27T14:35:53-04:00",
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.&#160; From audacious plans to launch data centers into [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-28T14:01:59"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "CapCut Video Studio",
+      "url": "https://www.producthunt.com/products/capcut-video-and-image-editor",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Transform Ideas Into Stunning AI Videos </p> <p> <a href=\"https://www.producthunt.com/products/capcut-video-and-image-editor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1108109?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-28T14:02:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "DashPane",
+      "url": "https://www.producthunt.com/products/dashpane",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Switch apps at the speed of thought </p> <p> <a href=\"https://www.producthunt.com/products/dashpane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1063940?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-28T14:02:14"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "M5 Max vs M3 Max Inference Benchmarks (Qwen3.5, oMLX, 128GB, 40 GPU cores)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s5np41/m5_max_vs_m3_max_inference_benchmarks_qwen35_omlx/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-28T02:01:16+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s5np41/m5_max_vs_m3_max_inference_benchmarks_qwen35_omlx/\"> <img alt=\"M5 Max vs M3 Max Inference Benchmarks (Qwen3.5, oMLX, 128GB, 40 GPU cores)\" src=\"https://preview.redd.it/bu34why90prg1.png?width=140&amp;height=77&amp;auto=webp&amp;s=c1c64266e5352aba06f21376f3d6505ddb9772fe\" title=\"M5 Max vs M3 Max Inference Benchmarks (Qwen3.5, oMLX, 128GB, 40 GPU cores)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Ran identical ",
+      "extra": {},
+      "collected_at": "2026-03-28T14:02:17"
     }
   ],
-  "updated_at": "2026-03-28T11:49:11.115336+09:00"
+  "updated_at": "2026-03-28T14:02:17.226052+09:00"
 }
