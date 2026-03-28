@@ -8779,5 +8779,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-28T14:02:53.051167+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-28-david-sacks-ai-czar-resignation-impact",
+    "title": "デヴィッド・サックス氏のAI補佐官退任がエンジニアの「開発自由度」に与える致命的影響",
+    "url": "https://ai.negi-lab.com/posts/david-sacks-ai-czar-resignation-impact/",
+    "category": "NEWS",
+    "viral_tags": "#DavidSacks #AI規制",
+    "tweet_text": "AI Czar（補佐官）のデヴィッド・サックス氏が政権中枢から離れる。これは単なる人事ニュースではありません。AI開発の「自由時間」が終わり、本格的な「管理・忖度時代」へ突入する予兆です。\n\nSIer時代に嫌というほど見てきた「中身のない安全基準」という名の書類仕事が、AIの世界にも押し寄せてこようとしています。サックス氏が撤廃しようとしていた報告義務や規制の壁が存続すれば、開発コストは跳ね上がり、APIには今以上の強力な「検閲」という名のLobotomyがかかるでしょう。\n\n私がRTX 4090を2枚挿ししてローカルLLMに拘る理由は、まさにここにあります。中央集権的なAPIに生殺与奪の権を握らせるリスクが、このニュースで一気に顕在化しました。\n\nこれからは「特定のAPIが死んでも、1時間以内にローカル推論へ切り替えられるか」が実務者の生存戦略になります。\n\n皆さんの現場では、プロンプトの急な規制強化への対策、どれくらい進めてますか？「昨日まで通ったプロンプトが弾かれるようになった」経験、最近増えてませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-28T16:04:00.087016+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-28-dwellrecord-home-asset-management-review",
+    "title": "DwellRecord 使い方と住宅設備資産をデータ化する実務的メリット",
+    "url": "https://ai.negi-lab.com/posts/dwellrecord-home-asset-management-review/",
+    "category": "TOOL",
+    "viral_tags": "#DwellRecord #スマートホーム",
+    "tweet_text": "自宅の家電や設備の型番、どこにメモしたか忘れて「いざ故障」の時にパニックになる。これ、エンジニアあるあるですよね。SIer時代に構成管理を叩き込まれた身としては、自宅の設備もコードのように管理したい。\n\nそこで見つけたのが「DwellRecord」。\nNotionで自作するのもいいけど、住宅管理に特化したスキーマが最初から定義されているのが強い。部屋ごとにアイテムを紐付け、メンテナンス履歴や保証書のPDFを一元化。API経由でデータを流し込めるから、OCRと組み合わせれば家全体のデジタルツイン化も現実的です。\n\n実際にPythonでバルクインサートするスクリプトを書いてみましたが、APIの構造も素直で扱いやすい。RTX 4090を2枚積んだ自宅サーバーの保守期限管理にも転用できるのが、個人的には一番の収穫でした。\n\n「家を一つのシステム」として捉える人には刺さるはず。一方で、手動入力のコストは無視できないから、自動化の仕組みを自作できるかどうかが活用の分かれ目になりそうです。\n\nみなさんは自宅の設備の型番や保証期間、どうやって管理してますか？スプレッドシート派？それとも壊れてから考える派？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-28T16:06:08.476061+09:00",
+    "posted": false
   }
 ]
