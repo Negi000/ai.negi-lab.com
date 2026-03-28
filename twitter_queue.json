@@ -8807,5 +8807,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-28T16:06:08.476061+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-28-ai-datacenter-energy-crisis-power-grid-impact",
+    "title": "AI開発の限界はアルゴリズムではなく「電力網」にある：データセンター増設が引き起こすエネルギー危機の正体",
+    "url": "https://ai.negi-lab.com/posts/ai-datacenter-energy-crisis-power-grid-impact/",
+    "category": "NEWS",
+    "viral_tags": "#AIデータセンター #エネルギー危機",
+    "tweet_text": "AI業界のボトルネックが「GPU不足」から「電力不足」へと完全にシフトしました。\n\n最新のBlackwell世代は1ラックで120kWという、一般家庭数十軒分に相当する電力を食いつぶします。もはや「ソフトウェアの進化」だけで解決できるフェーズは終わり、物理インフラとエネルギー問題がAI開発の成否を分ける時代に突入しています。\n\nSIer時代、サーバーラックを組んでいた頃の「高密度」の常識は、今や10分の1以下の密度でしかありません。液冷への強制移行、原発再稼働、送電網のパンク。APIの向こう側で起きているこの生々しい現実を知らずに、AIの未来は語れません。\n\nMicrosoftがスリーマイル島原発と契約したニュースは、綺麗事では済まないAIの「食欲」を象徴しています。これからは「賢さ」だけでなく「1クエリあたりの消費電力」を最適化できるエンジニアが生き残るでしょう。\n\nみなさんは、AIの進化と引き換えに電気代が上がること、どこまで許容できますか？\nあるいは、効率重視の小型モデルへの移行をどう進めていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-28T18:37:41.406095+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-28-spokk-customer-feedback-loyalty-review",
+    "title": "Spokkは、顧客フィードバックの収集からレビュー管理、ロイヤリティプログラム、紹介キャンペーンまでを一元化し、小規模ビジネスの成長サイクルを自動化する統合プラットフォームです。",
+    "url": "https://ai.negi-lab.com/posts/spokk-customer-feedback-loyalty-review/",
+    "category": "TOOL",
+    "viral_tags": "#Spokk #カスタマーサクセス",
+    "tweet_text": "SIer時代、顧客フィードバックから紹介プログラムへの連携システムを半年かけて組んだ記憶があります。今なら「Spokk」を使えば、その大半が1日で終わるかもしれません。\n\nProduct Huntで見つけたこのツール、単なるアンケート収集ツールではありません。収集した「声」をトリガーにして、レビュー投稿依頼やクーポン配布、さらには紹介プログラムまでを一つのワークフローで回せます。\n\nエンジニア視点で嬉しいのは、APIとWebhookの設計が非常に素直なこと。例えば、NPS（推奨度）が高い回答が来たら即座にLLMで分析し、その内容に合わせてパーソナライズされた紹介文を自動生成する……なんて構成も、Python数行で組めます。\n\n「動かしてみた」レベルではなく、実務で使えるかという基準でドキュメントを読み込みましたが、中小規模のSaaSやECサイトなら、導入しない理由がほぼ見当たりません。分散しがちな顧客データを一箇所に集約し、それを「売上」に直結させる動線がこれほどスムーズに引けるツールは珍しいです。\n\nUIが英語のみという壁はありますが、API叩ける人なら関係ないですよね。\nみなさんの現場では、顧客からの「不満」や「賞賛」をどうやって次の施策に繋げていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-28T18:40:18.480406+09:00",
+    "posted": false
   }
 ]
