@@ -8919,5 +8919,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-29T16:10:46.319726+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-29-suno-v5-5-voices-my-taste-update-review",
+    "title": "Suno v5.5発表！歌声固定とパーソナライズで「ガチャ」から「制作」へ",
+    "url": "https://ai.negi-lab.com/posts/suno-v5-5-voices-my-taste-update-review/",
+    "category": "NEWS",
+    "viral_tags": "#SunoAI #AI音楽",
+    "tweet_text": "AI音楽の「ガチャ時代」が終わりましたね。Suno v5.5の発表、これは単なるアップデートじゃありません。\n\n元SIerのエンジニアとして、システム開発における「一貫性」の重要性は身に染みていますが、AI音楽生成で一番欠けていたのがまさにそこでした。気に入った歌声が二度と出せない。この「一貫性の欠如」という致命的なバグが、新機能「Voices」でついに解消されました。\n\n過去の生成結果から声を固定し、別の曲でも「同じ歌手」として歌わせる。さらに「My Taste」で自分専用のアルゴリズムに育て上げる。これはもはや「生成AI」ではなく「ブラウザ上の仮想音楽スタジオ」です。\n\n正直、音質だけならUdioの方が上だと感じる場面もありました。でも、この「コントロール権をユーザーに返す」という設計思想は、実務で使う道具としてSunoが数歩先を行っている証拠だと思います。\n\n3ヶ月後には、特定のAIボイスを冠した「AIバーチャルシンガー」がアルバムを出し、ファンを形成するのが当たり前になっているでしょう。皆さんはこの「声の固定化」、音楽制作の現場でどう活用しますか？あるいは、AIに個性を学習させることについてどう感じますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-29T18:37:45.959516+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-29-sheet-ninja-google-sheets-as-database-review",
+    "title": "Sheet Ninja 使い方と実務レビュー：GoogleスプレッドシートをDB化する開発効率",
+    "url": "https://ai.negi-lab.com/posts/sheet-ninja-google-sheets-as-database-review/",
+    "category": "TOOL",
+    "viral_tags": "#Python #GoogleSheetsAPI",
+    "tweet_text": "SIer時代、DBのテーブル1つ作るのに設計書を書いて承認を得て...という作業に疲弊していた私からすると、Sheet Ninjaは一種の解放ですね。GoogleスプレッドシートをそのままバックエンドDBにするという、ある種「禁じ手」のようなアプローチを、驚くほど洗練されたAPIで実現しています。\n\n実際にPythonで組んでみましたが、pip installからデータの読み書きまでマジで2分。gspreadで苦労していたセルの範囲指定やA1表記の管理から解放されるのがこれほど快適だとは。\n\n「Vibe-coded apps」という言葉通り、ノリと勢いでプロトタイプを爆速ビルドするのに最適です。ただ、Google APIのレートリミット（1分60リクエスト程度）の壁は厳然として存在するので、そこを理解した上での「割り切り」が重要。\n\nLLMの実行ログ保存や、社内ツールの簡易DBとしては、現時点でこれ以上の正解はないかもしれません。エンジニアじゃない担当者が「シート上で直接データを修正できる」という強みは、開発者の運用コストを劇的に下げてくれます。\n\n皆さんは、ちょっとしたデータの保存先に何を使っていますか？SQLiteで妥協する派ですか、それともSupabaseまで一気に立てる派ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-29T18:39:56.861016+09:00",
+    "posted": false
   }
 ]
