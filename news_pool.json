@@ -2,32 +2,6 @@
   "items": [
     {
       "source": "r/LocalLLaMA",
-      "title": "Qwen3.5-122B-A10B Uncensored (Aggressive) — GGUF Release + new K_P Quants",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s0aa1y/qwen35122ba10b_uncensored_aggressive_gguf_release/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-22T02:42:56+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The big one is (finally) here. Qwen3.5-122B-A10B Aggressive is out!</p> <p>Aggressive = no refusals; it has NO personality changes/alterations or any of that, it is the ORIGINAL release of Qwen just completely uncensored</p> <p><a href=\"https://huggingface.co/HauhauCS/Qwen3.5-122B-A10B-Uncensored-HauhauCS-Aggressive\">https://huggingface.co/HauhauCS/Qwen3.5-122B-A10B-Uncensored-HauhauCS-Aggressive</a></p> <p><strong>0/465 refusals. Fully unlocked with zero capabi",
-      "extra": {},
-      "collected_at": "2026-03-22T14:00:23"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Interesting loop",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s0aes8/interesting_loop/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-22T02:49:28+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s0aes8/interesting_loop/\"> <img alt=\"Interesting loop\" src=\"https://preview.redd.it/syg0d1u6giqg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b91108eb952eb6249f84afa6b8cd089f0f50bd11\" title=\"Interesting loop\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Willing_Reflection57\"> /u/Willing_Reflection57 </a> <br /> <span><a href=\"https://i.redd.it/syg0d1u6giqg1.jpeg\">[link]</a></span> &#3",
-      "extra": {},
-      "collected_at": "2026-03-22T14:00:23"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "[Round 2 - Followup] M5 Max 128G Performance tests. I just got my new toy, and here's what it can do. (thank you for the feedback)",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s0czc4/round_2_followup_m5_max_128g_performance_tests_i/",
       "primary_category": "GUIDE",
@@ -3279,19 +3253,6 @@
       "collected_at": "2026-03-29T06:39:29"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-      "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sat, 28 Mar 2026 23:00:00 +0000",
-      "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
-      "extra": {},
-      "collected_at": "2026-03-29T12:22:47"
-    },
-    {
       "source": "Google News",
       "title": "進歩派有力議員がAIデータセンター建設を一時停止する法案を提出…トランプ政権と業界は強く反発 - Business Insider Japan",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjkweVZ6d1pZRkZqYzFoS05WOVd2RThUaUVKMTN5d2oxNDg2V1BfRTlIeTY5OVliMG1Fb29acU5jRHRMR1RDczFZN1p3OGdjQ0Mzc29iUDZZazRuelpJZDlKb1NLaW8tcVVMLWhjXzhJOGpCemRzaEtGbDRLRXdzRFBkV0xEVkhuZGxJODJBc3E4ZzVsNXdfQmFuX1lPVDNWUjJfZS01RQ?oc=5",
@@ -3316,7 +3277,33 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have a simple home lab pc: 64gb ddr4, RTX 8000 48gb (Turing architecture) and core i9 9900k cpu. I use Linux Ubuntu 22.04 LTS. Before using this pc as a home lab it ran Windows 10. Over this weekend I reinstalled my Windows 10 ssd to check out my old projects. I updated Ollama to the latest version and tokens per second was way slower than when I was running Linux. I know Linux performs better but I didn’t think it would be twice as fast. Here are the results ",
       "extra": {},
       "collected_at": "2026-03-29T12:23:00"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Suno leans into customization with v5.5",
+      "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-28T14:33:10-04:00",
+      "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-29T14:19:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Glance",
+      "url": "https://www.producthunt.com/products/glance-give-claude-code-a-real-browser",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Real browser for Claude Code Test, Screenshot, Automate </p> <p> <a href=\"https://www.producthunt.com/products/glance-give-claude-code-a-real-browser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1109439?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-29T14:19:30"
     }
   ],
-  "updated_at": "2026-03-29T12:23:00.041340+09:00"
+  "updated_at": "2026-03-29T14:19:32.807158+09:00"
 }
