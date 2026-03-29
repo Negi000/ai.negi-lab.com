@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "murmur",
-      "url": "https://www.producthunt.com/products/murmur-7",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> practice tough phone calls with AI before you make them </p> <p> <a href=\"https://www.producthunt.com/products/murmur-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100470?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-22T11:53:30"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Llama 8B matching 70B on multi-hop QA with structured prompting, no fine-tuning",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s05thz/llama_8b_matching_70b_on_multihop_qa_with/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-21T23:17:09+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Ran a bunch of experiments with Graph RAG (KET-RAG) on multi hop question answering. Turns out <strong>retrieval</strong> is basically <strong>solved</strong>, the answer is in the context 77 to 91% of the time. The <strong>bottleneck is reasoning</strong>: 73 to 84% of wrong answers come from the model failing to connect the dots, not from missing information. </p> <p>Smaller models choke on the reasoning even when the answer is sitting right there in the conte",
-      "extra": {},
-      "collected_at": "2026-03-22T11:53:33"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "ik_llama.cpp gives 26x faster prompt processing on Qwen 3.5 27B — real world numbers",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s07ysr/ik_llamacpp_gives_26x_faster_prompt_processing_on/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-22T00:52:53+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been running Qwen 3.5 27B Q4_K_M on a Blackwell RTX PRO 4000 (24GB) for agentic coding work and hit a wall with mainline llama.cpp. Switched to the ik_llama.cpp fork today and the difference is staggering. Posting real numbers in case it helps others.</p> <p>Hardware Lenovo ThinkStation P520, Xeon W-2295 18-core, 128GB DDR4 ECC NVIDIA RTX PRO 4000 Blackwell 24GB GDDR7 Context: 131,072 tokens, KV cache q8_0/q4_0</p> <p>Benchmark Results</p> <p>Metric Mainlin",
-      "extra": {},
-      "collected_at": "2026-03-22T11:53:33"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Qwen3.5-122B-A10B Uncensored (Aggressive) — GGUF Release + new K_P Quants",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s0aa1y/qwen35122ba10b_uncensored_aggressive_gguf_release/",
@@ -3227,19 +3187,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 28 Mar 2026 20:45:54 +0000",
-      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
-      "extra": {},
-      "collected_at": "2026-03-29T06:39:24"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Elon Musk’s last co-founder reportedly leaves xAI",
       "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
       "primary_category": "NEWS",
@@ -3330,7 +3277,46 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Here's one less-than-helpful result from HuggingFace's takeover of ggml. </p> <p>When I launched the latest build of llama-server, it automatically did this:</p> <pre><code>================================================================================ WARNING: Migrating cache to HuggingFace cache directory Old cache: /home/user/.cache/llama.cpp/ New cache: /home/user/GEN-AI/hf_cache/hub This one-time migration moves models previously downloaded with -hf from t",
       "extra": {},
       "collected_at": "2026-03-29T06:39:29"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+      "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sat, 28 Mar 2026 23:00:00 +0000",
+      "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+      "extra": {},
+      "collected_at": "2026-03-29T12:22:47"
+    },
+    {
+      "source": "Google News",
+      "title": "進歩派有力議員がAIデータセンター建設を一時停止する法案を提出…トランプ政権と業界は強く反発 - Business Insider Japan",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjkweVZ6d1pZRkZqYzFoS05WOVd2RThUaUVKMTN5d2oxNDg2V1BfRTlIeTY5OVliMG1Fb29acU5jRHRMR1RDczFZN1p3OGdjQ0Mzc29iUDZZazRuelpJZDlKb1NLaW8tcVVMLWhjXzhJOGpCemRzaEtGbDRLRXdzRFBkV0xEVkhuZGxJODJBc3E4ZzVsNXdfQmFuX1lPVDNWUjJfZS01RQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 28 Mar 2026 23:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjkweVZ6d1pZRkZqYzFoS05WOVd2RThUaUVKMTN5d2oxNDg2V1BfRTlIeTY5OVliMG1Fb29acU5jRHRMR1RDczFZN1p3OGdjQ0Mzc29iUDZZazRuelpJZDlKb1NLaW8tcVVMLWhjXzhJOGpCemRzaEtGbDRLRXdzRFBkV0xEVkhuZGxJODJBc3E4ZzVsNXdfQmFuX1lPVDNWUjJfZS01RQ?oc=5\" target=\"_blank\">進歩派有力議員がAIデータセンター建設を一時停止する法案を提出…トランプ政権と業界は強く反発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
+      "extra": {},
+      "collected_at": "2026-03-29T12:22:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Friendly reminder inference is WAY faster on Linux vs windows",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s6hb1h/friendly_reminder_inference_is_way_faster_on/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-29T00:55:26+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have a simple home lab pc: 64gb ddr4, RTX 8000 48gb (Turing architecture) and core i9 9900k cpu. I use Linux Ubuntu 22.04 LTS. Before using this pc as a home lab it ran Windows 10. Over this weekend I reinstalled my Windows 10 ssd to check out my old projects. I updated Ollama to the latest version and tokens per second was way slower than when I was running Linux. I know Linux performs better but I didn’t think it would be twice as fast. Here are the results ",
+      "extra": {},
+      "collected_at": "2026-03-29T12:23:00"
     }
   ],
-  "updated_at": "2026-03-29T06:39:29.150974+09:00"
+  "updated_at": "2026-03-29T12:23:00.041340+09:00"
 }
