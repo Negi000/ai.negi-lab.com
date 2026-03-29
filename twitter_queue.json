@@ -8891,5 +8891,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-29T14:20:16.373743+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-29-claude-paid-subscription-skyrocketing-analysis-2024",
+    "title": "Claude有料課金者が1年で2倍以上に急増、実務層がChatGPTから乗り換える真の理由",
+    "url": "https://ai.negi-lab.com/posts/claude-paid-subscription-skyrocketing-analysis-2024/",
+    "category": "NEWS",
+    "viral_tags": "#Claude3 #生成AI",
+    "tweet_text": "AI業界の勢力図が、ついに決定的な転換点を迎えました。AnthropicのClaude有料会員数が、2024年だけで2倍以上に激増したという衝撃のニュースです。\n\n元SIerとして多くのLLMを実務で検証してきましたが、この数字には心から納得しています。最近のChatGPTはどこか「大衆向け」に寄りすぎて、複雑なコードや長文読解で期待外れの回答をすることが増えました。一方でClaude 3.5 Sonnetは、エンジニアが求める「痒いところに手が届く」推論精度を維持し続けています。\n\n特にArtifacts機能と200kのコンテキストウィンドウの組み合わせは、一度使うと戻れない中毒性があります。10万行のコードを丸ごと放り込んで、依存関係を瞬時に解析できる体験は、もはや魔法に近い。\n\n「月額20ドルをどこに投資すべきか」の答えは、既に出ています。OpenAIが音声や検索に注力する一方で、Anthropicは「知能そのもの」を磨き上げている。この戦略の差が、プロの実務層を動かした最大の要因でしょう。\n\n皆さんはメインのAI、まだChatGPT一本ですか？それともClaudeへ乗り換えましたか？あるいは、私のように用途で使い分けているでしょうか。実際の現場での「手応え」の差、ぜひリプ欄で教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-29T16:09:16.751352+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-29-clico-ai-textbox-review-tutorial",
+    "title": "Clico 使い方 あらゆる入力欄をAI化してブラウザとアプリの往復をゼロにする方法",
+    "url": "https://ai.negi-lab.com/posts/clico-ai-textbox-review-tutorial/",
+    "category": "TOOL",
+    "viral_tags": "#Clico #生産性向上",
+    "tweet_text": "ブラウザとChatGPTを往復する「コピペ地獄」からようやく解放されました。\nProduct Huntで見つけたClicoを数日使い込んでみましたが、これは全エンジニアが待ち望んでいた「入力欄のAI化」の決定版です。\n\nSIer時代、仕様書やメールの推敲のために1日に何十回もタブを切り替えていた苦労は何だったのか…。\nClicoを使えば、GitHubのコメント欄やSlackの入力フォームが、そのままGPT-4やClaude 3.5のインターフェースに変わります。\nテキストを選択してショートカットを叩くだけ。0.5秒でビジネスメールやリファクタリング案がその場で生成される体験は、一度味わうと戻れません。\n\n個人的に熱いのは、BYOK（APIキー持参）方式なので、モデルを自由に選べる点。\n最近はClaude 3.5 Sonnetをセットしていますが、プログラミング文脈の理解が凄まじく、コードレビューの言語化コストがほぼゼロになりました。\nアクセシビリティ権限を使うので導入に少し勇気がいりますが、生産性の向上幅を考えればお釣りが来ます。\n\n皆さんはAIを使う時、まだ別のタブを開いていますか？それともRaycastなどのランチャー派ですか？実際のワークフローでの「摩擦」について意見を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-29T16:10:46.319726+09:00",
+    "posted": false
   }
 ]
