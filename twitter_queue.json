@@ -8947,5 +8947,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-29T18:39:56.861016+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-30-sora-shutdown-ai-video-reality-check-2026",
+    "title": "OpenAI Sora開発終了が示す動画生成AIの限界と実務者が進むべき次の一手",
+    "url": "https://ai.negi-lab.com/posts/sora-shutdown-ai-video-reality-check-2026/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAISora #動画生成AI",
+    "tweet_text": "OpenAIのSora開発終了という衝撃。期待値が最大まで膨らんでいた「動画生成AIバブル」に、ついに冷や水が浴びせられました。\n\n元SIerのエンジニアとして冷静に分析すると、これは技術の敗北ではなく「ビジネスの算段」がつかなかった結果です。H100を数千枚燃やして、10秒の動画に$5かかる計算。これでは企業は導入できません。\n\nSoraが目指した「全知全能のシミュレータ」という理想は、現実の物理法則とGPUコストの壁にぶち当たりました。でも、これで終わりじゃない。むしろ「魔法」が「実務ツール」へと進化する、本当のスタート地点に立ったのだと感じています。\n\n今後はRunwayやLuma、そしてローカルで回すSVDのような、地に足の着いたモデルが主役になります。高解像度デモに一喜一憂するフェーズはもう終わり。\n\n皆さんは、このOpenAIの撤退を「戦略的後退」と見ますか？それとも「技術的限界」と見ますか？\n\n現場目線で2026年以降の生き残り戦略をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-30T06:43:22.471384+09:00",
+    "posted": false
   }
 ]
