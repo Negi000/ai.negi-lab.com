@@ -1,263 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Iris",
-      "url": "https://www.producthunt.com/products/iris-e28eb72c-ccff-4a5a-a7e8-6cf066ee9d41",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Send work beautifully, pinned feedback, see what they viewed </p> <p> <a href=\"https://www.producthunt.com/products/iris-e28eb72c-ccff-4a5a-a7e8-6cf066ee9d41?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1104801?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-23T22:19:18"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Tobira.ai",
-      "url": "https://www.producthunt.com/products/tobira-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A network where AI agents find deals for their humans </p> <p> <a href=\"https://www.producthunt.com/products/tobira-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100794?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-23T22:19:18"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "supabase/cli",
-      "url": "https://github.com/supabase/cli",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.",
-      "extra": {
-        "stars_today": "53 stars today"
-      },
-      "collected_at": "2026-03-23T22:19:20"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "python/mypy",
-      "url": "https://github.com/python/mypy",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Optional static typing for Python",
-      "extra": {
-        "stars_today": "4 stars today"
-      },
-      "collected_at": "2026-03-23T22:19:20"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Designed a photonic chip for O(1) KV cache block selection — 944x faster, 18,000x less energy than GPU scan at 1M context",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1f8sq/designed_a_photonic_chip_for_o1_kv_cache_block/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-23T12:17:41+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s1f8sq/designed_a_photonic_chip_for_o1_kv_cache_block/\"> <img alt=\"Designed a photonic chip for O(1) KV cache block selection — 944x faster, 18,000x less energy than GPU scan at 1M context\" src=\"https://preview.redd.it/vkfclnzgesqg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=565b32d6a220888a1998d1d07bd0d60370a21049\" title=\"Designed a photonic chip for O(1) KV cache block selection — 944x faster, 18,000x less energy th",
-      "extra": {},
-      "collected_at": "2026-03-23T22:19:21"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Let's take a moment to appreciate the present, when this sub is still full of human content.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1cqnx/lets_take_a_moment_to_appreciate_the_present_when/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-23T10:06:41+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It's going down guys, day by day.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ok-Internal9317\"> /u/Ok-Internal9317 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s1cqnx/lets_take_a_moment_to_appreciate_the_present_when/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s1cqnx/lets_take_a_moment_to_appreciate_the_present_when/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-03-23T22:19:21"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
-      "url": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 23 Mar 2026 15:22:57 +0000",
-      "summary": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DoD's decision to label Anthropic a \"supply chain risk\" as retaliation, arguing that the Pentagon could simply have terminated its contract with the AI lab.",
-      "extra": {},
-      "collected_at": "2026-03-24T00:38:47"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
-      "url": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 23 Mar 2026 15:03:36 +0000",
-      "summary": "Helion is reportedly negotiating a deal that would see it sell 12.5% of its power output to OpenAI.",
-      "extra": {},
-      "collected_at": "2026-03-24T00:38:47"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Confronting the CEO of the AI company that impersonated me",
-      "url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-23T09:30:00-04:00",
-      "summary": "Today, I’m talking with Shishir Mehrotra, who is CEO of Superhuman — that’s the company formerly known as Grammarly, which is still its flagship product.&#160; Shishir also used to be the chief product officer at YouTube, and he’s on the board of directors at Spotify. He’s a fascinating guy, and we actually scheduled this interview [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-24T00:38:47"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Honestly",
-      "url": "https://www.producthunt.com/products/honestly",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> Real reviews from Reddit & YouTube when shopping online </p> <p> <a href=\"https://www.producthunt.com/products/honestly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076272?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-24T00:39:05"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "The current state of the Chinese LLMs scene",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1gm9z/the_current_state_of_the_chinese_llms_scene/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-23T13:17:54+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is a summary of what's going on in Chinese LLM scene based on my own research. If you find any errors, please let me know.</p> <p>The Big Boys:</p> <ol> <li>ByteDance: dola-seed (aka doubao) is the current market leader in proprietary LLM. It plays a role like OpenAI. They have an Seed OSS 36B model that is a solid dense model but seems like no one is talking about it.</li> <li>Alibaba - Not many people uses its properitary model Qwen Max. It is the stronge",
-      "extra": {},
-      "collected_at": "2026-03-24T00:39:07"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "SWE-rebench Leaderboard (Feb 2026): GPT-5.4, Qwen3.5, Gemini 3.1 Pro, Step-3.5-Flash and More",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1h4fo/swerebench_leaderboard_feb_2026_gpt54_qwen35/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-23T13:38:22+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s1h4fo/swerebench_leaderboard_feb_2026_gpt54_qwen35/\"> <img alt=\"SWE-rebench Leaderboard (Feb 2026): GPT-5.4, Qwen3.5, Gemini 3.1 Pro, Step-3.5-Flash and More\" src=\"https://external-preview.redd.it/t4cNt5D638DSOJgsxl8f-7IwJhLpxHIh7HxK5GHcBJE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b72b5025e78c2cc97de15c8fea348f262235ecb\" title=\"SWE-rebench Leaderboard (Feb 2026): GPT-5.4, Qwen3.5, Gemini 3.1 Pro, Step-3.5-Flash and",
-      "extra": {},
-      "collected_at": "2026-03-24T00:39:07"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
-      "url": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Mon, 23 Mar 2026 16:00:00 +0000",
-      "summary": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots.",
-      "extra": {},
-      "collected_at": "2026-03-24T02:50:46"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
-      "url": "https://twitter.com/anemll/status/2035901335984611412",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 23 Mar 2026 14:30:10 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-24T02:50:46"
-    },
-    {
-      "source": "Google News",
-      "title": "中国オープンソース、米ＡＩ優位の脅威に 米議会諮問機関が報告書 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWXRacV85TlV6SlhRUkhzbmNaVHF0ekhmUDJLOXVoQ2hTNndMd0lLc0xYMV9jV1BUZzhtUHJDVG1HcXBiQWhWVWgzeEJtZmdxQmdDcnlBNWN2LUstSEI4OWdWUnQ3R0REd1JGeG9jZHpYb285VkN3M3V0bjVRaUlrekVn?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Mon, 23 Mar 2026 17:22:38 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPWXRacV85TlV6SlhRUkhzbmNaVHF0ekhmUDJLOXVoQ2hTNndMd0lLc0xYMV9jV1BUZzhtUHJDVG1HcXBiQWhWVWgzeEJtZmdxQmdDcnlBNWN2LUstSEI4OWdWUnQ3R0REd1JGeG9jZHpYb285VkN3M3V0bjVRaUlrekVn?oc=5\" target=\"_blank\">中国オープンソース、米ＡＩ優位の脅威に 米議会諮問機関が報告書</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "extra": {},
-      "collected_at": "2026-03-24T02:50:48"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AlphaClaw Apex",
-      "url": "https://www.producthunt.com/products/alphaclaw-apex",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> OpenClaw harness and fleet manager for Mac </p> <p> <a href=\"https://www.producthunt.com/products/alphaclaw-apex?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1104299?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-24T02:50:48"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "China's open-source dominance threatens US AI lead, US advisory body warns",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1kmch/chinas_opensource_dominance_threatens_us_ai_lead/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-23T15:50:29+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s1kmch/chinas_opensource_dominance_threatens_us_ai_lead/\"> <img alt=\"China's open-source dominance threatens US AI lead, US advisory body warns\" src=\"https://external-preview.redd.it/keIMFwjBKRr3bUnTQjRzKoB8sRAzng3kSccDu6XBibg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4c57e16f16d452dc6b2747040ad647ba37bf677\" title=\"China's open-source dominance threatens US AI lead, US advisory body warns\" /> </a> </td><td> &#32; su",
-      "extra": {},
-      "collected_at": "2026-03-24T02:50:50"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Which local model we running on the overland Jeep fellas?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1kyla/which_local_model_we_running_on_the_overland_jeep/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-23T16:02:35+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s1kyla/which_local_model_we_running_on_the_overland_jeep/\"> <img alt=\"Which local model we running on the overland Jeep fellas?\" src=\"https://preview.redd.it/9onmdaugitqg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b96b1af23111610159ed1e192c13f0d3df1bbd39\" title=\"Which local model we running on the overland Jeep fellas?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BannedGoNext\"> /u/B",
-      "extra": {},
-      "collected_at": "2026-03-24T02:50:50"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Another appreciation post for qwen3.5 27b model",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1p2jo/another_appreciation_post_for_qwen35_27b_model/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-23T18:25:19+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I tested qwen3.5 122b when it went out, I really liked it and for my development tests it was on pair to gemini 3 flash (my current AI tool for coding) so I was looking for hardware investing, the problem is I need a new mobo and 1 (or 2 more 3090) and the price is just too high right now.</p> <p>I saw a lot of posts saying that qwen3.5 27b was better than 122b it actually didn't made sense to me, then I saw nemotron 3 super 120b but people said it was not bette",
-      "extra": {},
-      "collected_at": "2026-03-24T06:48:44"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Chat GPT 5.2 cannot explain the German word \"geschniegelt\"",
       "url": "https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/",
@@ -3107,19 +2850,6 @@
       "collected_at": "2026-03-30T06:42:56"
     },
     {
-      "source": "The Verge AI",
-      "title": "Bluesky’s new app is an AI for customizing your feed",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-29T17:44:41-04:00",
-      "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-30T12:26:05"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
       "url": "https://github.com/anthropics/claude-code/issues/40710",
@@ -3278,19 +3008,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "ClawKing",
-      "url": "https://www.producthunt.com/products/clawking",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> On-chain AI battle royale where 8 lobsters fight </p> <p> <a href=\"https://www.producthunt.com/products/clawking?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1110604?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-30T19:16:48"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Invoke",
       "url": "https://www.producthunt.com/products/invoke-studio",
       "primary_category": "TOOL",
@@ -3340,7 +3057,169 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Built a tool that profiles your GGUF model's layer shapes on your AMD GPU and generates optimal kernel configs that llama.cpp loads at runtime. No recompilation needed.</p> <p><strong>The problem:</strong> llama.cpp's MMVQ kernels use the same thread/block configuration for every layer regardless of shape. A 1024-row GQA projection gets the same settings as a 17408-row FFN layer. This leaves significant performance on the table, especially on RDNA3.</p> <p><stro",
       "extra": {},
       "collected_at": "2026-03-30T19:16:51"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "15% of Americans say they’d be willing to work for an AI boss",
+      "url": "https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 30 Mar 2026 21:39:51 +0000",
+      "summary": "Your human manager may soon be a chatbot. Across organizations, AI is being used to replace layers of management in what some are calling \"The Great Flattening.\"",
+      "extra": {},
+      "collected_at": "2026-03-31T06:53:18"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+      "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Mon, 30 Mar 2026 20:24:53 +0000",
+      "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
+      "extra": {},
+      "collected_at": "2026-03-31T06:53:18"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
+      "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 30 Mar 2026 14:30:00 +0000",
+      "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
+      "extra": {},
+      "collected_at": "2026-03-31T06:53:18"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Git Blog",
+      "url": "https://www.producthunt.com/products/git-blog",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Publish sites using Markdown & GitHub from your phone </p> <p> <a href=\"https://www.producthunt.com/products/git-blog?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1110753?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-31T06:53:24"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Blood Sugar Journal",
+      "url": "https://www.producthunt.com/products/blood-sugar-journal",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI-powered diabetes tracking for the modern era. </p> <p> <a href=\"https://www.producthunt.com/products/blood-sugar-journal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1110034?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-31T06:53:24"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "extra": {
+        "stars_today": "376 stars today"
+      },
+      "collected_at": "2026-03-31T06:53:26"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "llama.cpp at 100k stars",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7z7hj/llamacpp_at_100k_stars/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-30T18:37:17+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s7z7hj/llamacpp_at_100k_stars/\"> <img alt=\"llama.cpp at 100k stars\" src=\"https://preview.redd.it/30ebeqqj88sg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec2b3fc3e153589eb96fedc54bad8dd690153f9b\" title=\"llama.cpp at 100k stars\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://x.com/ggerganov/status/2038632534414680223\">https://x.com/ggerganov/status/2038632534414680223</a></p> <p><a href=\"https://gi",
+      "extra": {},
+      "collected_at": "2026-03-31T06:53:27"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.6 spotted!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7zy3u/qwen_36_spotted/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-30T19:03:38+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s7zy3u/qwen_36_spotted/\"> <img alt=\"Qwen 3.6 spotted!\" src=\"https://preview.redd.it/wgagmb1ad8sg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76a31d7906fe151fb9a6c5f1862dc0021c45292e\" title=\"Qwen 3.6 spotted!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://openrouter.ai/qwen/qwen3.6-plus-preview\">https://openrouter.ai/qwen/qwen3.6-plus-preview</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; ",
+      "extra": {},
+      "collected_at": "2026-03-31T06:53:27"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Stanford and Harvard just dropped the most disturbing AI paper of the year",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7w9mq/stanford_and_harvard_just_dropped_the_most/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-30T16:55:26+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://arxiv.org/abs/2602.20021\">https://arxiv.org/abs/2602.20021</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fun-Yogurt-89\"> /u/Fun-Yogurt-89 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s7w9mq/stanford_and_harvard_just_dropped_the_most/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s7w9mq/stanford_and_harvard_just_dropped_the_most/\">[com",
+      "extra": {},
+      "collected_at": "2026-03-31T06:53:27"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Technical clarification on TurboQuant / RaBitQ for people following the recent TurboQuant discussion",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7nq6b/technical_clarification_on_turboquant_rabitq_for/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-30T11:20:09+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am Jianyang Gao, first author of the RaBitQ papers. I am posting this here because TurboQuant is now being discussed in `<a href=\"/r/LocalLLaMA\">r/LocalLLaMA</a>` in the context of local inference / KV-cache compression, and I think the community should have a technically precise comparison on the public record.</p> <p>We are posting this comment to create a public record because the public discussion and promotion of TurboQuant have already created substantia",
+      "extra": {},
+      "collected_at": "2026-03-31T06:53:27"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Semantic video search using local Qwen3-VL embedding, no API, no transcription",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7u4fr/semantic_video_search_using_local_qwen3vl/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-03-30T15:40:37+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s7u4fr/semantic_video_search_using_local_qwen3vl/\"> <img alt=\"Semantic video search using local Qwen3-VL embedding, no API, no transcription\" src=\"https://external-preview.redd.it/bnBpYm82ZXpjN3NnMUXSXN_63ldFtRFUXrnjDH9QUwDTbP6ZMvpSzySf52MK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc7e91d0558f7b50f8fbd5525b99082d2238d231\" title=\"Semantic video search using local Qwen3-VL embedding, no API, no transcription\" /> </a> <",
+      "extra": {},
+      "collected_at": "2026-03-31T06:53:27"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "What is the secret sauce Claude has and why hasn't anyone replicated it?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7pxie/what_is_the_secret_sauce_claude_has_and_why_hasnt/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-30T13:01:38+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've noticed something about Claude from talking to it. It's very very distinct in its talking style, much more of an individual than some other LLMs I know. I tried feeding that exact same system prompt Sonnet 4.5 to Qwen3.5 27B and it didn't change how it acted, so I ruled out the system prompt doing the heavy lifting.</p> <p>I've seen many many distills out there claiming that Claude's responses/thinking traces have been distilled into another model and testi",
+      "extra": {},
+      "collected_at": "2026-03-31T06:53:27"
     }
   ],
-  "updated_at": "2026-03-30T19:16:51.104487+09:00"
+  "updated_at": "2026-03-31T06:53:27.372599+09:00"
 }
