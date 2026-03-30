@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "Reworked LM Studio plugins out now. Plug'n'Play Web Research, Fully Local",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s19rd7/reworked_lm_studio_plugins_out_now_plugnplay_web/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-23T06:58:33+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s19rd7/reworked_lm_studio_plugins_out_now_plugnplay_web/\"> <img alt=\"Reworked LM Studio plugins out now. Plug'n'Play Web Research, Fully Local\" src=\"https://preview.redd.it/op58d5qcsqqg1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=1b38b85a7db9f3e51ed0bcd34d5e382580583543\" title=\"Reworked LM Studio plugins out now. Plug'n'Play Web Research, Fully Local\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\">",
-      "extra": {},
-      "collected_at": "2026-03-23T19:03:02"
-    },
-    {
       "source": "Product Hunt",
       "title": "Iris",
       "url": "https://www.producthunt.com/products/iris-e28eb72c-ccff-4a5a-a7e8-6cf066ee9d41",
@@ -3123,19 +3108,6 @@
     },
     {
       "source": "The Verge AI",
-      "title": "All the latest in AI &#8216;music&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-29T21:32:14-04:00",
-      "summary": "AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-30T12:26:05"
-    },
-    {
-      "source": "The Verge AI",
       "title": "Bluesky’s new app is an AI for customizing your feed",
       "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
       "primary_category": "NEWS",
@@ -3253,19 +3225,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Halo Vision Headphones",
-      "url": "https://www.producthunt.com/products/halo-headphones",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Headphones with a camera to capture moments as you jam </p> <p> <a href=\"https://www.producthunt.com/products/halo-headphones?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1110926?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-30T16:47:28"
-    },
-    {
-      "source": "Product Hunt",
       "title": "MulmoChat",
       "url": "https://www.producthunt.com/products/mulmochat",
       "primary_category": "TOOL",
@@ -3316,7 +3275,72 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I spent the past week trying to push Qwen3.5-397B faster on my M5 Max 128GB. Dan Woods' (@danveloper) original baseline was 4.36 tok/s on M3 Max. On M5 Max the starting point was already 10.61 tok/s due to better hardware. My optimizations pushed it to 20.34 tok/s, roughly 2x through software alone, and 4.67x over Dan's original result.</p> <p><strong>Hardware:</strong> MacBook Pro M5 Max, 128GB unified memory, 40-Core GPU</p> <p><strong>Model config:</strong> Q",
       "extra": {},
       "collected_at": "2026-03-30T16:47:31"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ClawKing",
+      "url": "https://www.producthunt.com/products/clawking",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> On-chain AI battle royale where 8 lobsters fight </p> <p> <a href=\"https://www.producthunt.com/products/clawking?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1110604?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-30T19:16:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Invoke",
+      "url": "https://www.producthunt.com/products/invoke-studio",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Agentic coding IDE with visual planning boards and canvas </p> <p> <a href=\"https://www.producthunt.com/products/invoke-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1108948?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-30T19:16:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Streva",
+      "url": "https://www.producthunt.com/products/streva",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Instant Translation, Anywhere you type </p> <p> <a href=\"https://www.producthunt.com/products/streva?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107927?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-30T19:16:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Bluor AI",
+      "url": "https://www.producthunt.com/products/bluor-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Beautiful emails, in seconds </p> <p> <a href=\"https://www.producthunt.com/products/bluor-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1110208?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-30T19:16:48"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "kernel-anvil: 2x decode speedup on AMD by auto-tuning llama.cpp kernels per model shape",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7jfh2/kernelanvil_2x_decode_speedup_on_amd_by/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-30T07:02:37+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Built a tool that profiles your GGUF model's layer shapes on your AMD GPU and generates optimal kernel configs that llama.cpp loads at runtime. No recompilation needed.</p> <p><strong>The problem:</strong> llama.cpp's MMVQ kernels use the same thread/block configuration for every layer regardless of shape. A 1024-row GQA projection gets the same settings as a 17408-row FFN layer. This leaves significant performance on the table, especially on RDNA3.</p> <p><stro",
+      "extra": {},
+      "collected_at": "2026-03-30T19:16:51"
     }
   ],
-  "updated_at": "2026-03-30T16:47:31.305499+09:00"
+  "updated_at": "2026-03-30T19:16:51.104487+09:00"
 }

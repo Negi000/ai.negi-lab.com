@@ -9003,5 +9003,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-30T16:55:02.722470+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-30-bluesky-attie-ai-custom-feed-algorithm",
+    "title": "Blueskyのアルゴリズムを自作するAI「Attie」がSNSの定義を塗り替える",
+    "url": "https://ai.negi-lab.com/posts/bluesky-attie-ai-custom-feed-algorithm/",
+    "category": "NEWS",
+    "viral_tags": "#Bluesky #ATProtocol",
+    "tweet_text": "SNSのタイムライン、もう「運営のレコメンド」に振り回されるのは終わりにしませんか？\n\nBlueskyの元CEOらが発表した新アプリ「Attie」が、私のエンジニア魂を激しく揺さぶっています。AnthropicのClaudeを搭載し、自分専用のアルゴリズムをプロンプトで自作できるという、まさに情報の民主化。\n\nSIer時代、中央集権的なシステムの仕様変更に泣かされてきた身としては、この「プロトコルは共通、アルゴリズムは自由」という構造がどれほど革命的か痛いほど分かります。単なるキーワード検索じゃなく、AIが文脈を読んで「専門性の高い投稿だけ」を選別してくれる。\n\nRTX 4090を2枚挿してローカルLLMを回すような「自分専用の環境」にこだわる層にとって、これは待ち望んでいた武器です。もはやSNSは受動的に見るものではなく、AIというエージェントを使って能動的に「構築」する対象へと進化しました。\n\n情報の主権を自分たちの手に取り戻す準備はできていますか？皆さんは自分のタイムラインに「どんなAIの選別」をさせたいでしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-30T19:18:14.570016+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-30-clawking-onchain-ai-agent-battle-review",
+    "title": "ClawKing 使い方：オンチェーンAIエージェント対戦の実力を検証",
+    "url": "https://ai.negi-lab.com/posts/clawking-onchain-ai-agent-battle-review/",
+    "category": "TOOL",
+    "viral_tags": "#ClawKing #AIエージェント",
+    "tweet_text": "オンチェーンAIの進化が想像を超えてきた。8体のロブスター（AIエージェント）が自律的に戦う「ClawKing」を徹底検証。\n\n単なるAIの「動かしてみた」動画に飽きているエンジニアにこそ見てほしい。これ、実は自律型エージェントの意思決定をオンチェーンで透明化する、極めて実戦的なサンドボックス。\n\nSIer時代、システムの客観的な正当性を証明するのにどれだけ苦労したか…。ClawKingは「LLMの推論プロセス」をチェーンに刻むことで、改ざん不能な戦略ログを実現してる。\n\nRTX 4090を回してローカルで遊ぶのもいいけど、こういう「経済的インセンティブ」と「リソース制約」がある環境でAIを戦わせる方が、実務に近い知見が得られる。\n\n今のLLMブームの次に来るのは、こういう「勝手に稼ぎ、勝手に戦うAI」の経済圏だと思う。\n\n実際にバトルのログをAPIで引いてみたけど、特定の状況下でエージェントが「守り」に入るか「攻め」に転じるかのロジックが透けて見えて面白い。\n\n自律型エージェントを組んでる皆さんは、エージェントの「責任」と「報酬」をどう設計してますか？プロンプトだけで制御する限界、感じてませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-30T19:23:04.733000+09:00",
+    "posted": false
   }
 ]
