@@ -8975,5 +8975,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-30T12:27:06.983433+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-30-ai-music-lawsuit-suno-udio-comparison",
+    "title": "AI音楽生成の著作権訴訟と仕事での実用性",
+    "url": "https://ai.negi-lab.com/posts/ai-music-lawsuit-suno-udio-comparison/",
+    "category": "NEWS",
+    "viral_tags": "#SunoAI #DTM初心者",
+    "tweet_text": "AI音楽生成の現状がヤバいことになっています。SunoやUdioが主要レーベルから提訴されたニュースは、単なる権利争い以上の意味を持っていますね。\n\nSIer時代に著作権管理システムに関わっていた身からすると、今のAIが数秒で1曲書き出すスピード感は、当時の苦労を完全に過去のものにする破壊力があります。RTX 4090を2枚挿しでローカルモデルを回してみても、クラウド側の推論最適化が進みすぎていて、もはや個人が太刀打ちできるレベルを超えつつあるのが本音です。\n\n記事では、単なるニュースの要約ではなく、\n・拡散モデルが音をどう作っているのか\n・Suno、Udio、Stable Audioの定量的な性能差\n・開発者が今すぐAPIで自動化すべきワークフロー\nについて、実務者目線でガッツリ深掘りしました。\n\n結局、この「AIスロップ」の波を止めることはできません。だったら、法的リスクを正しく理解して、自社の制作コストを1/100にする側に回ったほうが建設的だと思いませんか？\n\n皆さんはAIで作った音楽、仕事で使うならどの範囲まで許容できますか？デモ？それとも本番用BGM？リプライで意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-30T16:49:45.205820+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-30-halo-vision-headphones-review-for-ai-developers",
+    "title": "Halo Vision Headphones 使い方とAI開発における一人称視点データの収集・活用レビュー",
+    "url": "https://ai.negi-lab.com/posts/halo-vision-headphones-review-for-ai-developers/",
+    "category": "TOOL",
+    "viral_tags": "#HaloVision #エッジAI",
+    "tweet_text": "AIエンジニアとして「一人称視点データ」の収集には長年苦労してきました。GoProは重いし、スマートグラスは30分で熱暴走する。そんな中、Product Huntで見つけた「Halo Vision Headphones」が私の悩みを解決してくれそうです。\n\nこのデバイス、単なるカメラ付きヘッドフォンではありません。Python SDK経由で直接フレームを叩けるので、音楽を聴きながらプログラミングする自分の視界をそのままローカルLLMの学習データとして流し込めます。RTX 4090を2枚挿ししている自宅サーバーにWi-Fi経由で飛ばしてみましたが、レイテンシ180ms前後とかなり実用的。\n\nSIer時代に「現場の作業ログを自動化したい」と格闘していた頃の自分に教えてあげたい。一番の衝撃は、録画を回しっぱなしにしても4時間以上持つバッテリー設計ですね。メガネ型では物理的に不可能な領域に、ヘッドフォンの筐体サイズを活かして到達しています。\n\nみなさんはPOVデータの収集に何を使っていますか？やっぱりGoProですか、それともスマホをチェストマウントしてますか？この「ヘッドフォン型」という選択肢、実務で使えるか議論したいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-30T16:55:02.722470+09:00",
+    "posted": false
   }
 ]
