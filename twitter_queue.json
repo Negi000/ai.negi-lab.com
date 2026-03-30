@@ -8961,5 +8961,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-03-30T06:43:22.471384+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-30-openai-sora-shut-down-reasons-analysis",
+    "title": "OpenAIがSoraを突如閉鎖した真の理由と動画生成AIの「データ収集疑惑」を読み解く",
+    "url": "https://ai.negi-lab.com/posts/openai-sora-shut-down-reasons-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #Sora",
+    "tweet_text": "OpenAIがSoraを突如閉鎖したニュース、正直「やっぱりな」という感想しかありません。公開からわずか半年での終了は、AI業界の不都合な真実を物語っています。\n\nTechCrunchが報じた「顔画像アップロードによる生体データ収集」の疑惑。もしこれが事実なら、我々は便利さと引き換えにあまりにも貴重なデータを渡しすぎていたことになります。SIer時代なら即刻クビが飛ぶレベルのガバナンス欠如ですよ、これは。\n\nそれ以上に深刻なのが「推論コストの壁」です。H100を何万枚並べても、1分の動画を数ドルで出すのは現在のアーキテクチャでは無理があった。B200世代でもこの計算量の指数関数的な増大は解決できません。\n\n開発者の皆さんは、今すぐAPI依存のワークフローを見直すべきです。自前でRTX 4090を回すなり、オープンウェイトなモデルへの乗り換えを検証しないと、ある日突然サービスが消えてビジネスが詰みます。\n\n皆さんは今回の閉鎖、技術的な限界だと思いますか？それとも法的なリスク回避だと思いますか？現場で動画AIを使っている方の本音が聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-03-30T12:27:06.983433+09:00",
+    "posted": false
   }
 ]

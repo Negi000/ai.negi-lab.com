@@ -1,33 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Teaching Claude to QA a mobile app",
-      "url": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 22 Mar 2026 19:04:00 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-23T11:53:34"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Fixing Qwen Repetition IMPROVEMENT",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s11kvt/fixing_qwen_repetition_improvement/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-23T00:01:43+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s11kvt/fixing_qwen_repetition_improvement/\"> <img alt=\"Fixing Qwen Repetition IMPROVEMENT\" src=\"https://preview.redd.it/jq1w8yreqoqg1.png?width=140&amp;height=53&amp;auto=webp&amp;s=0e05d975164d2491b14b9530e6916102060211eb\" title=\"Fixing Qwen Repetition IMPROVEMENT\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/jq1w8yreqoqg1.png?width=814&amp;format=png&amp;auto=webp&amp;s=d7680c69b92a7",
-      "extra": {},
-      "collected_at": "2026-03-23T11:53:38"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "I came from Data Engineering stuff before jumping into LLM stuff, i am surprised that many people in this space never heard Elastic/OpenSearch",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s17afx/i_came_from_data_engineering_stuff_before_jumping/",
@@ -3088,19 +3061,6 @@
       "collected_at": "2026-03-29T18:37:02"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Sora’s shutdown could be a reality check moment for AI video",
-      "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 29 Mar 2026 16:30:00 +0000",
-      "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-      "extra": {},
-      "collected_at": "2026-03-30T06:42:52"
-    },
-    {
       "source": "Product Hunt",
       "title": "Peopling",
       "url": "https://www.producthunt.com/products/peopling",
@@ -3254,7 +3214,137 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Qwen3-Coder-Next 8-Bit Benchmark: MLX vs Ollama</h1> <p><strong>TLDR</strong>: M5-Max with 128gb of RAM gets 72 tokens per second from Qwen3-Coder-Next 8-Bit using MLX </p> <p>Overview</p> <p>This benchmark compares two local inference backends — <strong>MLX</strong> (Apple's native ML framework) and <strong>Ollama</strong> (llama.cpp-based) — running the same Qwen3-Coder-Next model in 8-bit quantization on Apple Silicon. The goal is to measure raw throughput (",
       "extra": {},
       "collected_at": "2026-03-30T06:42:56"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Why OpenAI really shut down Sora",
+      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 30 Mar 2026 03:09:38 +0000",
+      "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+      "extra": {},
+      "collected_at": "2026-03-30T12:26:05"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "All the latest in AI &#8216;music&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-29T21:32:14-04:00",
+      "summary": "AI has touched every part of the music industry, from sample sourcing and demo recording, to serving up digital liner notes and building playlists. There are technical and legal challenges, fierce ethical debates, and fears that the slop will simply crush working musicians through sheer volume. Is it art or just an output? What exactly [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-30T12:26:05"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Bluesky’s new app is an AI for customizing your feed",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-29T17:44:41-04:00",
+      "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-30T12:26:05"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+      "url": "https://github.com/anthropics/claude-code/issues/40710",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 29 Mar 2026 22:15:06 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-30T12:26:06"
+    },
+    {
+      "source": "Google News",
+      "title": "Claudeを運用するAnthropicの有料会員数は2026年に入って半年前の2倍以上に増加している - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RdlhPekMxSlFFcVFQVFBfTUhXOXBwaXVGbXlXVm8zYlM2enRzOTRfMFF0NXNiRHpDbmloOFlhRWVSUWhONWZVdFREeEUyeVZXd2thbmRQWUE4dDB0blFnY0hhMTFBeDZNZDhnVktialdkZw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 30 Mar 2026 02:55:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9RdlhPekMxSlFFcVFQVFBfTUhXOXBwaXVGbXlXVm8zYlM2enRzOTRfMFF0NXNiRHpDbmloOFlhRWVSUWhONWZVdFREeEUyeVZXd2thbmRQWUE4dDB0blFnY0hhMTFBeDZNZDhnVktialdkZw?oc=5\" target=\"_blank\">Claudeを運用するAnthropicの有料会員数は2026年に入って半年前の2倍以上に増加している</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {},
+      "collected_at": "2026-03-30T12:26:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Genzi",
+      "url": "https://www.producthunt.com/products/genzi",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The social app built around music </p> <p> <a href=\"https://www.producthunt.com/products/genzi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1109968?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-30T12:26:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Pensieve",
+      "url": "https://www.producthunt.com/products/pensieve-5",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Full company context for every AI agent </p> <p> <a href=\"https://www.producthunt.com/products/pensieve-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107413?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-30T12:26:07"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "ZINC — LLM inference engine written in Zig, running 35B models on $550 AMD GPUs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s79w6u/zinc_llm_inference_engine_written_in_zig_running/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-03-29T23:03:54+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey reddit fam! If you have an AMD GPU and have ever tried to run a local LLM on it, you know the pain. ROCm doesn't support consumer cards. vLLM won't work. llama.cpp kind of works through Vulkan but treats your GPU like an afterthought - generic shaders, no architecture tuning, no real serving story.</p> <p>There are millions of AMD GPUs out there that should be able to do this well. The hardware has the bandwidth and the compute. The software just isn't there",
+      "extra": {},
+      "collected_at": "2026-03-30T12:26:10"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "If it works, it ain’t stupid!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7cxqx/if_it_works_it_aint_stupid/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-30T01:19:48+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s7cxqx/if_it_works_it_aint_stupid/\"> <img alt=\"If it works, it ain’t stupid!\" src=\"https://preview.redd.it/wn7sbvdh33sg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=638d196a5b4f7ec35a36aa0693bb8d81b9598471\" title=\"If it works, it ain’t stupid!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Card runs really hot under load, even with dedicated fan. M40 mounts semi fit on rtx 6000 with some fitting. Cut temps in hal",
+      "extra": {},
+      "collected_at": "2026-03-30T12:26:10"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "5090 vs dual 5060 16g - why isnt everyone going dual?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7chea/5090_vs_dual_5060_16g_why_isnt_everyone_going_dual/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-30T00:59:23+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm hoping you guys could help me here. Looking at the price of things I can get two 5060 16gb cards for about $1100 new giving me 32gb of vram and a 50 series GPU vs. some of these silly prices for the 5090. </p> <p>Is there a reason that this isn't the way to go? The price difference is just so big, am I missing something here?</p> <p>Has anyone tested out dual 5060s and seen how they perform?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://",
+      "extra": {},
+      "collected_at": "2026-03-30T12:26:10"
     }
   ],
-  "updated_at": "2026-03-30T06:42:56.921766+09:00"
+  "updated_at": "2026-03-30T12:26:10.923144+09:00"
 }
