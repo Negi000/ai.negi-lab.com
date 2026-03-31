@@ -1,118 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Mirage raises $75M to continue building models for its AI video editing app Captions",
-      "url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 24 Mar 2026 13:00:00 +0000",
-      "summary": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
-      "extra": {},
-      "collected_at": "2026-03-24T22:23:18"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
-      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 24 Mar 2026 12:05:00 +0000",
-      "summary": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab.",
-      "extra": {},
-      "collected_at": "2026-03-24T22:23:18"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Maestri",
-      "url": "https://www.producthunt.com/products/maestri",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> An infinite canvas where coding agents work in concert </p> <p> <a href=\"https://www.producthunt.com/products/maestri?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1105168?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-24T22:23:20"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "microsoft/playwright",
-      "url": "https://github.com/microsoft/playwright",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
-      "extra": {
-        "stars_today": "94 stars today"
-      },
-      "collected_at": "2026-03-24T22:23:22"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "nlohmann/json",
-      "url": "https://github.com/nlohmann/json",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "JSON for Modern C++",
-      "extra": {
-        "stars_today": "12 stars today"
-      },
-      "collected_at": "2026-03-24T22:23:22"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "Project-HAMi/HAMi",
-      "url": "https://github.com/Project-HAMi/HAMi",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Heterogeneous GPU Sharing on Kubernetes",
-      "extra": {
-        "stars_today": "16 stars today"
-      },
-      "collected_at": "2026-03-24T22:23:22"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Created a SillyTavern extension that brings NPC's to life in any game",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s2ci9r/created_a_sillytavern_extension_that_brings_npcs/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-24T12:34:56+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s2ci9r/created_a_sillytavern_extension_that_brings_npcs/\"> <img alt=\"Created a SillyTavern extension that brings NPC's to life in any game\" src=\"https://external-preview.redd.it/bXdscHRpM2dlenFnMVFgPJVHFHO4KNu9oThzX3e7yMRzy2w-tAcXMQhwuadO.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9732f4bce5157dea16c37b6e46a0b770a78c91dc\" title=\"Created a SillyTavern extension that brings NPC's to life in any game\" /> </a> </td><td> <!",
-      "extra": {},
-      "collected_at": "2026-03-24T22:23:22"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Total beginner here—Why is LM Studio making me do the \"heavy lifting\" manually?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s28mdx/total_beginner_herewhy_is_lm_studio_making_me_do/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-24T09:06:01+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys,<br /> I'm using LM Studio with qwen/qwen2.5-vl-7b Q4_K_M.<br /> I'm trying to run a project locally.<br /> at the end of my promt I wrote: </p> <blockquote> <p>&quot;I want a simple link to run the app. I'm not a developer, so make it easier for me to access this link. Do NOT use GitHub or git, rather create it on localhost&quot;</p> </blockquote> <p>On &quot;Server Settings&quot; I chose &quot;Serve on Local Network&quot; option. </p> <p>Once I entere",
-      "extra": {},
-      "collected_at": "2026-03-24T22:23:22"
-    },
-    {
       "source": "The Verge AI",
       "title": "Anthropic’s Claude Code and Cowork can control your computer",
       "url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
@@ -2873,19 +2761,6 @@
       "collected_at": "2026-03-30T19:16:51"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
-      "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 30 Mar 2026 14:30:00 +0000",
-      "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
-      "extra": {},
-      "collected_at": "2026-03-31T06:53:18"
-    },
-    {
       "source": "Product Hunt",
       "title": "Git Blog",
       "url": "https://www.producthunt.com/products/git-blog",
@@ -3244,19 +3119,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Unify",
-      "url": "https://www.producthunt.com/products/unify-5",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Hire AI colleagues you onboard just like real people </p> <p> <a href=\"https://www.producthunt.com/products/unify-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107229?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-31T19:05:28"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Gallifai",
       "url": "https://www.producthunt.com/products/gallifai",
       "primary_category": "TOOL",
@@ -3307,7 +3169,155 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s8ijfb/claude_code_source_code_has_been_leaked_via_a_map/\"> <img alt=\"Claude code source code has been leaked via a map file in their npm registry\" src=\"https://preview.redd.it/cwesagvvmcsg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9a1c818a9db98d6f2d1ba2e4eb20ca7eae0fae56\" title=\"Claude code source code has been leaked via a map file in their npm registry\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>From Cha",
       "extra": {},
       "collected_at": "2026-03-31T19:05:33"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "With its new app store, Ring bets on AI to go beyond home security",
+      "url": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Tue, 31 Mar 2026 13:00:00 +0000",
+      "summary": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
+      "extra": {},
+      "collected_at": "2026-03-31T22:44:52"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "You can order Grubhub and Uber Eats ‘conversationally’ with Alexa Plus",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-31T09:00:00-04:00",
+      "summary": "Amazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conversational, building your order in a similar manner to ordering in a restaurant. That means changing your order, [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-03-31T22:44:52"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Anthropic: Claude Code users hitting usage limits 'way faster than expected'",
+      "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 31 Mar 2026 12:11:29 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-31T22:44:54"
+    },
+    {
+      "source": "Google News",
+      "title": "メルカリグループ AI活用基本ポリシー - 株式会社メルカリ",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03cGhUbWdFZUJMSmNwb3JiQ1hfVnRWOE1XWmRBT3dkNWZLcGtOQlV6eDFYZzlUZVpCcm9VOHI1cXpBVGJBbWZtQzE0Vjg?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "Tue, 31 Mar 2026 07:52:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE03cGhUbWdFZUJMSmNwb3JiQ1hfVnRWOE1XWmRBT3dkNWZLcGtOQlV6eDFYZzlUZVpCcm9VOHI1cXpBVGJBbWZtQzE0Vjg?oc=5\" target=\"_blank\">メルカリグループ AI活用基本ポリシー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株式会社メルカリ</font>",
+      "extra": {},
+      "collected_at": "2026-03-31T22:44:55"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Solvea",
+      "url": "https://www.producthunt.com/products/solvea",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create your AI receptionist that answers, books, and sells </p> <p> <a href=\"https://www.producthunt.com/products/solvea?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102782?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-31T22:44:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Pixero AI",
+      "url": "https://www.producthunt.com/products/pixero-ai-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> OpenClaw for AI Ads </p> <p> <a href=\"https://www.producthunt.com/products/pixero-ai-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100133?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-31T22:44:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "QoreDB",
+      "url": "https://www.producthunt.com/products/qoredb",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The fast, open-source database client built with Rust </p> <p> <a href=\"https://www.producthunt.com/products/qoredb?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107973?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-31T22:44:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cosmic Team Agents",
+      "url": "https://www.producthunt.com/products/cosmic",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI team members that live in Slack, WhatsApp, and Telegram </p> <p> <a href=\"https://www.producthunt.com/products/cosmic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1110073?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-31T22:44:56"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "neovim/neovim",
+      "url": "https://github.com/neovim/neovim",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Vim-fork focused on extensibility and usability",
+      "extra": {
+        "stars_today": "95 stars today"
+      },
+      "collected_at": "2026-03-31T22:45:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Master programming by recreating your favorite technologies from scratch.",
+      "extra": {
+        "stars_today": "398 stars today"
+      },
+      "collected_at": "2026-03-31T22:45:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "PSA: Please stop using nohurry/Opus-4.6-Reasoning-3000x-filtered",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s8mm4j/psa_please_stop_using/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-31T12:54:52+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, nohurry here on hf.</p> <p>I noticed the dataset ( <a href=\"https://huggingface.co/datasets/nohurry/Opus-4.6-Reasoning-3000x-filtered\">https://huggingface.co/datasets/nohurry/Opus-4.6-Reasoning-3000x-filtered</a> ) got popular, but honestly it shouldn't be used anymore. It was meant as a quick filter to remove refusals of Crownelius's dataset. He has since filtered his original release. Yet, my dataset is still used.</p> <p>Here is the original dis",
+      "extra": {},
+      "collected_at": "2026-03-31T22:45:01"
     }
   ],
-  "updated_at": "2026-03-31T19:05:33.313896+09:00"
+  "updated_at": "2026-03-31T22:45:01.796795+09:00"
 }

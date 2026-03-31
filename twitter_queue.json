@@ -9129,5 +9129,33 @@
     "image_path": "/images/posts/2026-03-31-unify-ai-colleague-onboarding-review.jpg",
     "created_at": "2026-03-31T19:10:40.829500+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-31-solvea-ai-receptionist-review-and-guide",
+    "title": "Solvea 使い方レビュー：電話応対と予約を自動化するAI受付の真価",
+    "url": "https://ai.negi-lab.com/posts/solvea-ai-receptionist-review-and-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Solvea #AIエージェント",
+    "tweet_text": "SIer時代、電話応対の自動化案件は「IVRの分岐が複雑」「音声認識の精度がゴミ」「DB連携に工数がかかりすぎる」の三重苦でした。\n\nProduct Huntで見つけた「Solvea」を触ってみましたが、あの頃の苦労は何だったのかというレベル。GPT-4oベースの思考エンジンに音声認識を統合し、会話の中でGoogleカレンダーの空き枠を叩いて予約を完結させる。これ、エンジニアなら30分でプロトタイプが組めます。\n\n特筆すべきはFunction Callingの安定感。プロンプトで「在庫確認はAPIを叩け」と書くだけで、文脈を読んで動的に外部通信を走らせてくれます。レイテンシは0.8秒前後ありますが、実店舗の予約受付なら許容範囲内。\n\n月額$30〜で24時間365日文句も言わずに働く受付。これからの小規模ビジネスは「電話番に人間を充てる」のが最大のコストリスクになるかもしれません。\n\nみなさんの現場で、もし電話対応をAIに任せるとしたら、一番の懸念点は何ですか？「認識ミスによるトラブル」ですか、それとも「お年寄りへの対応」でしょうか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-31-solvea-ai-receptionist-review-and-guide.jpg",
+    "created_at": "2026-03-31T22:45:28.331937+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-31-claude-code-setup-and-npm-security-guide",
+    "title": "Claude Codeの使い方とnpm公開時のソースコード流出を防ぐガードレール構築術",
+    "url": "https://ai.negi-lab.com/posts/claude-code-setup-and-npm-security-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ClaudeCode #npmセキュリティ",
+    "tweet_text": "Anthropicの最新CLI「Claude Code」のソースコードがnpmのmapファイル経由で流出したニュース、他人事じゃないですね。SIer時代にデプロイ事故を何度も見てきましたが、設定ミス一つで資産が筒抜けになる怖さは異常です。\n\n今回、Claude Codeの導入手順と一緒に「公開前のソースコード流出をPythonで自動検知するガードレール」を記事にまとめました。npm publishの瞬間にシミュレーションを実行して、.mapファイルの混入を100%防ぐ仕組みです。\n\n便利なツールを使うのは当然として、そのツールが犯したミスから何を学び、自分のシステムにどう反映させるかがプロの仕事。\n\nちなみにClaude Code自体のレスポンスは体感0.3秒程度で、ターミナル作業が劇的に変わります。ただし、油断するとAPI代が飛ぶので制限設定は必須。\n\n皆さんの開発環境では、デプロイ前のファイル検疫はどう自動化していますか？「まさか自分が」と思う時が一番危ないですよね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-31-claude-code-setup-and-npm-security-guide.jpg",
+    "created_at": "2026-03-31T22:54:45.585232+09:00",
+    "posted": false
   }
 ]
