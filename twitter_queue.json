@@ -9171,5 +9171,19 @@
     "image_path": "/images/posts/2026-04-01-autoclaw-review-openclaw-setup-guide.jpg",
     "created_at": "2026-04-01T00:50:33.191962+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-01-alexa-plus-uber-eats-ai-agent-integration",
+    "title": "Alexa+とUber Eats連携で見えたAmazonの「実世界エージェント」戦略の正体",
+    "url": "https://ai.negi-lab.com/posts/alexa-plus-uber-eats-ai-agent-integration/",
+    "category": "NEWS",
+    "viral_tags": "#AlexaPlus #AIエージェント",
+    "tweet_text": "Amazonが本気で「AIエージェントの社会実装」を仕掛けてきました。Alexa+とUber Eatsの連携、これは単なる機能追加ではありません。画面の中だけで完結するChatGPTやClaudeとは違い、物理的なデリバリーという「最後の一マイル」をAIが支配し始めたことを意味します。\n\nSIer時代に苦労して構築した定型的な音声応答システムとは別次元です。LLMがウェイターのように振る舞い、曖昧な指示から注文、決済までを完結させる。1段落2〜3文でスマホ向けに解説記事を書きました。\n\n注目すべきは、0.1秒のレスポンス速度よりも「100%確実にピザを届ける」ための検証レイヤーの実装です。賢さの競い合いは終わり、これからは「実社会でどれだけ動けるか」が勝負の分かれ目になります。\n\n開発者の皆さんは、今のうちにAPIをAIエージェント対応に書き換える準備をしておくべきかもしれません。Amazon Payという強力な決済基盤がある以上、この流れは止まらないでしょう。\n\n皆さんは、AIにクレジットカードの決済権限をどこまで預けられますか？利便性とセキュリティ、その境界線についてどう考えているか、ぜひ意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-01-alexa-plus-uber-eats-ai-agent-integration.jpg",
+    "created_at": "2026-04-01T02:57:04.742432+09:00",
+    "posted": false
   }
 ]
