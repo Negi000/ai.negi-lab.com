@@ -9101,5 +9101,33 @@
     "image_path": "/images/posts/2026-03-31-planana-ai-skill-planning-review.jpg",
     "created_at": "2026-03-31T16:23:24.086897+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-31-mantis-biotech-digital-twin-medical-ai-data",
+    "title": "Mantis Biotechが拓く「デジタルツイン」の衝撃—医療AIのデータ不足を解決する合成データの真価",
+    "url": "https://ai.negi-lab.com/posts/mantis-biotech-digital-twin-medical-ai-data/",
+    "category": "NEWS",
+    "viral_tags": "#医療AI #デジタルツイン",
+    "tweet_text": "医療AIの「データが足りない」という致命的な問題を、人体をまるごとシミュレーションして解決する強気なアプローチが出てきました。Mantis Biotechが発表した「デジタルツイン」は、ただの合成データではありません。解剖学・生理学・行動の3軸を統合し、バイオロジーの制約に基づいた「物理的に正しい人体データ」を生成します。\n\nかつてSIerで医療案件をこなしていた時、本番データの参照に数週間かかり、結局ダミーデータで精度が出ず挫折した経験が私にもあります。あの頃にこの技術があれば、日本の医療DXも別の未来があったはず。特筆すべきは、1データあたりのコストが数セントまで下がる点。希少疾患のデータもパラメータ一つで量産できるため、創薬のスピードが文字通り桁違いに変わるでしょう。\n\n「現実のデータがないなら、物理法則に基づいて作ればいい」という発想は、自動運転のシミュレーターと同じ流れですね。医療AIはこれから「学習」から「シミュレーション」のフェーズへ移行する。皆さんの現場では、学習データの不足をどうやって解決していますか？やっぱり自作スクリプトでの水増しが限界ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-31-mantis-biotech-digital-twin-medical-ai-data.jpg",
+    "created_at": "2026-03-31T19:06:39.532607+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-31-unify-ai-colleague-onboarding-review",
+    "title": "Unify 使い方：AI社員をチームに「配属」する次世代エージェント基盤",
+    "url": "https://ai.negi-lab.com/posts/unify-ai-colleague-onboarding-review/",
+    "category": "TOOL",
+    "viral_tags": "#Unify #AIエージェント",
+    "tweet_text": "SIer時代、新人に業務を教えるのに1ヶ月かかっていたのが馬鹿らしくなる。AIを「道具」じゃなくて「社員」としてオンボーディングするUnifyが、想像以上に実戦投入できるレベルでした。\n\nよくあるチャットボットと決定的に違うのは、こいつらは「職能」を持っていること。GitHubのIssueを監視して解決策をSlackに投げる、Notionの仕様書を読み込んでAPIのドラフトを書く。この一連の動きを、人間を教育するみたいに「指示書（オンボーディング）」を書くだけで実装できる。\n\n正直、LangChainでゴリゴリ組むのが趣味の私でも、この「インフラ管理からの解放」は抗いがたい魅力がある。RAGのパイプライン構築に数日溶かしていた時間は何だったのか…。\n\nPython 3.10環境があればSDKで既存システムにすぐ組み込める。レスポンスも安定していて、100件規模のドキュメント参照も数秒でこなす。ただ、日本語ドキュメントがないのと、自由すぎる設定にするとAPI破産するリスクはあるので、そこはエンジニアが手綱を引く必要がある。\n\nAIを「検索の延長」だと思ってる層と、Unifyみたいに「労働力」として配属する層で、今後1年の生産性に絶望的な差が出る気がしてならない。みなさんの現場では、AIエージェントにどこまで権限渡せてますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-31-unify-ai-colleague-onboarding-review.jpg",
+    "created_at": "2026-03-31T19:10:40.829500+09:00",
+    "posted": false
   }
 ]
