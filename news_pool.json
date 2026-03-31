@@ -1,33 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "FlashAttention-4: 1613 TFLOPs/s, 2.7x faster than Triton, written in Python. What it means for inference.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1yw23/flashattention4_1613_tflopss_27x_faster_than/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-24T00:31:24+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Wrote a deep dive on <strong>FlashAttention-4 (03/05/2026)</strong> that's relevant for anyone thinking about inference performance.</p> <p><strong>TL;DR for inference:</strong></p> <ul> <li><strong>BF16 forward: 1,613 TFLOPs/s on B200 (71% utilization). Attention is basically at matmul speed now.</strong></li> <li><strong>2.1-2.7x faster than Triton, up to 1.3x faster than cuDNN 9.13</strong></li> <li><strong>vLLM 0.17.0 (released March 7) integrates FA-4. If y",
-      "extra": {},
-      "collected_at": "2026-03-24T14:02:37"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Are we currently in a \"Golden Time\" for low VRAM/1 GPU users with Qwen 27b?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1z17h/are_we_currently_in_a_golden_time_for_low_vram1/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-24T00:37:36+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Really loving Qwen 27b more than any other llm from when I can remember. It works so well. Having 48gb vram can anyone recommend any other alternatives? It seems that 24gb is enough and currently I can't think of any other open model to use. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/inthesearchof\"> /u/inthesearchof </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s1z17h/are_we_currently_in_a_g",
-      "extra": {},
-      "collected_at": "2026-03-24T14:02:37"
-    },
-    {
       "source": "The Verge AI",
       "title": "Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
@@ -3155,19 +3128,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
-      "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 30 Mar 2026 23:41:48 +0000",
-      "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
-      "extra": {},
-      "collected_at": "2026-03-31T12:17:13"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
       "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
       "primary_category": "NEWS",
@@ -3269,7 +3229,47 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s8apue/qwen35omni_results_have_been_published_by_alibaba/\"> <img alt=\"Qwen3.5-Omni results have been published by Alibaba\" src=\"https://preview.redd.it/qpyhqpkeiasg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=95232b424c0457392e439c5d5df32502008d9ced\" title=\"Qwen3.5-Omni results have been published by Alibaba\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fear_ltself\"> /u/Fear_ltself <",
       "extra": {},
       "collected_at": "2026-03-31T12:17:18"
+    },
+    {
+      "source": "Google News",
+      "title": "AIによるヌード加工アプリを全面的に禁止する提案にEU議会が合意、きっかけはGrokか - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVk85OGk1VHBXUmw3RXVTRS1xbExkRFdvbXp1LXV2NE5GeHRsUVZVc253UkE0UUlEZVB3UWJncWJDRGhWZVNFZzJQbkxJYVA5aW0waU01WjNMODJzRWp6LU5aZE9UTFpEb1QxRzZGaw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Tue, 31 Mar 2026 03:33:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVk85OGk1VHBXUmw3RXVTRS1xbExkRFdvbXp1LXV2NE5GeHRsUVZVc253UkE0UUlEZVB3UWJncWJDRGhWZVNFZzJQbkxJYVA5aW0waU01WjNMODJzRWp6LU5aZE9UTFpEb1QxRzZGaw?oc=5\" target=\"_blank\">AIによるヌード加工アプリを全面的に禁止する提案にEU議会が合意、きっかけはGrokか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">INTERNET Watch</font>",
+      "extra": {},
+      "collected_at": "2026-03-31T14:18:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Neuralingo Language Learning",
+      "url": "https://www.producthunt.com/products/neuralingo-language-learning",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> slowly inch your way to mastery: try, fail, learn, get good </p> <p> <a href=\"https://www.producthunt.com/products/neuralingo-language-learning?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1110339?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-31T14:18:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AISpace",
+      "url": "https://www.producthunt.com/products/aispace",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> All frontier AI models in one space </p> <p> <a href=\"https://www.producthunt.com/products/aispace?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1105769?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-31T14:18:45"
     }
   ],
-  "updated_at": "2026-03-31T12:17:18.822517+09:00"
+  "updated_at": "2026-03-31T14:18:48.734763+09:00"
 }

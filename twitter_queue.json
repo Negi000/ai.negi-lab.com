@@ -9059,5 +9059,19 @@
     "image_path": "/images/posts/2026-03-31-ai-boss-us-poll-15-percent-acceptance.jpg",
     "created_at": "2026-03-31T12:18:03.647353+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-31-litellm-ditches-delve-security-breach-analysis",
+    "title": "LiteLLMがセキュリティ企業Delveとの提携を即時解消。認証情報窃取から学ぶAIインフラの防衛策",
+    "url": "https://ai.negi-lab.com/posts/litellm-ditches-delve-security-breach-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#LiteLLM #サイバーセキュリティ",
+    "tweet_text": "AI開発に欠かせない「LiteLLM」が、提携先のセキュリティ企業Delveとの関係を即時解消したというニュース。Delve側で認証情報を盗むマルウェアが見つかったのが原因ですが、これ、他人事じゃありません。\n\n多くの開発者がAPIキーをゲートウェイやSaaSに預けていますが、その「預け先」が信頼しているセキュリティ認証ツール経由で穴が開く。まさにAI時代のサプライチェーン攻撃の典型例です。\n\nSIer時代から見てきましたが、こういう「SOC2を取得してるから安心」という盲信が一番危ない。認証は免罪符じゃないんです。LiteLLMは即座に提携を切り、認証よりユーザーの安全を取った。この判断の速さは評価すべきですが、私たちが学ぶべきは「便利さの裏にある鍵管理の危うさ」そのもの。\n\nAPIキーをconfigファイルに直書きしてたり、Docker Composeにベタ書きしてる人は、今すぐローテーションしてVault等のマネージャーへ移行しましょう。\n\n皆さんの現場では、APIキーの管理、どこまで徹底していますか？セルフホスト派ですか、それともマネージド派ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-31-litellm-ditches-delve-security-breach-analysis.jpg",
+    "created_at": "2026-03-31T14:19:22.389716+09:00",
+    "posted": false
   }
 ]
