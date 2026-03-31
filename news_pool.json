@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Chat GPT 5.2 cannot explain the German word \"geschniegelt\"",
-      "url": "https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 23 Mar 2026 21:47:42 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-24T11:45:24"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "WeixinClawBot",
-      "url": "https://www.producthunt.com/products/weixinclawbot",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The official WeChat pipeline for OpenClaw </p> <p> <a href=\"https://www.producthunt.com/products/weixinclawbot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1104774?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-24T11:45:26"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "RYS II - Repeated layers with Qwen3.5 27B and some hints at a 'Universal Language'",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1t5ot/rys_ii_repeated_layers_with_qwen35_27b_and_some/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-23T20:50:11+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s1t5ot/rys_ii_repeated_layers_with_qwen35_27b_and_some/\"> <img alt=\"RYS II - Repeated layers with Qwen3.5 27B and some hints at a 'Universal Language'\" src=\"https://preview.redd.it/8ycc38gnvuqg1.png?width=140&amp;height=120&amp;auto=webp&amp;s=18ed61da18557528bf3a550023559c8e8346cd0a\" title=\"RYS II - Repeated layers with Qwen3.5 27B and some hints at a 'Universal Language'\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p",
-      "extra": {},
-      "collected_at": "2026-03-24T11:45:28"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Run Qwen3.5 flagship model with 397 billion parameters at 5 – 9 tok/s on a $2,100 desktop! Two $500 GPUs, 32GB RAM, one NVMe drive. Uses Q4_K_M quants",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1wgph/run_qwen35_flagship_model_with_397_billion/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-23T22:54:34+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s1wgph/run_qwen35_flagship_model_with_397_billion/\"> <img alt=\"Run Qwen3.5 flagship model with 397 billion parameters at 5 – 9 tok/s on a $2,100 desktop! Two $500 GPUs, 32GB RAM, one NVMe drive. Uses Q4_K_M quants\" src=\"https://preview.redd.it/d1th0dsbkvqg1.jpg?width=140&amp;height=105&amp;auto=webp&amp;s=67d8dd69101a1596fa7dcbfc0f0918a408b53780\" title=\"Run Qwen3.5 flagship model with 397 billion parameters at 5 – 9 tok/s on",
-      "extra": {},
-      "collected_at": "2026-03-24T11:45:28"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "FlashAttention-4: 1613 TFLOPs/s, 2.7x faster than Triton, written in Python. What it means for inference.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s1yw23/flashattention4_1613_tflopss_27x_faster_than/",
@@ -3060,19 +3006,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "15% of Americans say they’d be willing to work for an AI boss",
-      "url": "https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 30 Mar 2026 21:39:51 +0000",
-      "summary": "Your human manager may soon be a chatbot. Across organizations, AI is being used to replace layers of management in what some are calling \"The Great Flattening.\"",
-      "extra": {},
-      "collected_at": "2026-03-31T06:53:18"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "As more Americans adopt AI tools, fewer say they can trust the results",
       "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
       "primary_category": "NEWS",
@@ -3219,7 +3152,124 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've noticed something about Claude from talking to it. It's very very distinct in its talking style, much more of an individual than some other LLMs I know. I tried feeding that exact same system prompt Sonnet 4.5 to Qwen3.5 27B and it didn't change how it acted, so I ruled out the system prompt doing the heavy lifting.</p> <p>I've seen many many distills out there claiming that Claude's responses/thinking traces have been distilled into another model and testi",
       "extra": {},
       "collected_at": "2026-03-31T06:53:27"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
+      "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 30 Mar 2026 23:41:48 +0000",
+      "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
+      "extra": {},
+      "collected_at": "2026-03-31T12:17:13"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 30 Mar 2026 23:08:12 +0000",
+      "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+      "extra": {},
+      "collected_at": "2026-03-31T12:17:13"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Universal Claude.md – cut Claude output tokens by 63%",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 31 Mar 2026 01:23:34 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-03-31T12:17:13"
+    },
+    {
+      "source": "Google News",
+      "title": "eMAXIS Neo AIテクノロジー【03311249】：基準価格・投資信託情報 - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yNGdsU292MFpPa0ppd1N2SkxnYzRaTmtjaVNpMmVFVUN3eXB3dUF3R2tpN21LdWhFWDlqS2w5WlIzTHJmX3doVEpIeTk4aUlPMUhDcw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 30 Mar 2026 16:48:58 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yNGdsU292MFpPa0ppd1N2SkxnYzRaTmtjaVNpMmVFVUN3eXB3dUF3R2tpN21LdWhFWDlqS2w5WlIzTHJmX3doVEpIeTk4aUlPMUhDcw?oc=5\" target=\"_blank\">eMAXIS Neo AIテクノロジー【03311249】：基準価格・投資信託情報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+      "extra": {},
+      "collected_at": "2026-03-31T12:17:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Goals",
+      "url": "https://www.producthunt.com/products/goals",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI turns your goal into one daily action. </p> <p> <a href=\"https://www.producthunt.com/products/goals?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1108376?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-31T12:17:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Notion MCP",
+      "url": "https://www.producthunt.com/products/notion-mcp",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your Notion workspace, inside every AI agent </p> <p> <a href=\"https://www.producthunt.com/products/notion-mcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089469?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-03-31T12:17:15"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Looking for a waifu , totally uncensored model that fits my specs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s81orh/looking_for_a_waifu_totally_uncensored_model_that/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-03-30T20:05:44+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>DEEPCOOL GAMMAXX GTE V2 Windows 10 Home Plus Team T-FORCE VULCAN Z 16GB (2 x 8GB) 288-Pin DDR4 SDRAM DDR4 3200 Western Digital WD BLUE SN550 NVMe M.2 1TB INTEL I5-10400F Gigabyte B560 DS3H AC-Y1-B EVGA 500 BR, 80+ BRONZE 500W Gigabyte RTX 3060 Ti EAGLE OC 8G (rev 2.0) H510 Compact Mid Tower White/Black</p> <p>Here</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Opening-Ad6258\"> /u/Opening-Ad6258 </a> <br /> <span><a href=\"h",
+      "extra": {},
+      "collected_at": "2026-03-31T12:17:18"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I just want to catch up on local LLM's after work..",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s89745/i_just_want_to_catch_up_on_local_llms_after_work/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-31T01:07:40+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s89745/i_just_want_to_catch_up_on_local_llms_after_work/\"> <img alt=\"I just want to catch up on local LLM's after work..\" src=\"https://preview.redd.it/n7pm5trg5asg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=58f55a56fb1c15d358dae2165f1540ce49432040\" title=\"I just want to catch up on local LLM's after work..\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ForsookComparison\"> /u/ForsookCo",
+      "extra": {},
+      "collected_at": "2026-03-31T12:17:18"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.5-Omni results have been published by Alibaba",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s8apue/qwen35omni_results_have_been_published_by_alibaba/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-03-31T02:15:54+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s8apue/qwen35omni_results_have_been_published_by_alibaba/\"> <img alt=\"Qwen3.5-Omni results have been published by Alibaba\" src=\"https://preview.redd.it/qpyhqpkeiasg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=95232b424c0457392e439c5d5df32502008d9ced\" title=\"Qwen3.5-Omni results have been published by Alibaba\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fear_ltself\"> /u/Fear_ltself <",
+      "extra": {},
+      "collected_at": "2026-03-31T12:17:18"
     }
   ],
-  "updated_at": "2026-03-31T06:53:27.372599+09:00"
+  "updated_at": "2026-03-31T12:17:18.822517+09:00"
 }
