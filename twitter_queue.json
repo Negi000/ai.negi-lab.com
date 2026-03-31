@@ -9185,5 +9185,19 @@
     "image_path": "/images/posts/2026-04-01-alexa-plus-uber-eats-ai-agent-integration.jpg",
     "created_at": "2026-04-01T02:57:04.742432+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-01-openai-122-billion-funding-nvidia-amazon-softbank",
+    "title": "OpenAI評価額18兆円超え。個人投資家から30億ドル調達の裏にある「計算資源の独占欲」",
+    "url": "https://ai.negi-lab.com/posts/openai-122-billion-funding-nvidia-amazon-softbank/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #資金調達",
+    "tweet_text": "OpenAIの評価額が1220億ドル（約18.3兆円）って、もはや一国の国家予算並みの規模ですね。未上場なのに個人投資家から30億ドル集めるという異例の事態に驚いています。\n\n注目すべきは出資者の顔ぶれ。Nvidia、Amazon、ソフトバンクという「計算資源と通信の巨人」ががっちり脇を固めました。これは単なる資金集めじゃなくて「AIインフラの垂直統合」が完了したことを意味します。\n\nSIer時代、数億の予算で震えていた頃が懐かしいですが、18兆円のバリュエーションを維持するには、我々開発者がAPIを使い倒し、とんでもない経済圏を作る必要があります。Nvidiaが直接噛んでいる以上、ハードウェアレベルで最適化された「爆速モデル」が来るのは確実。\n\n一方で、これだけの資本が入ると「オープン」な精神はさらに薄れ、利益追求に走らざるを得ない。我々エンジニアは、OpenAIの最強インフラを享受しつつも、Llama 3のようなローカルLLMを並行運用する「リスク分散」が必須のフェーズに来たと言えます。\n\n皆さんは特定のAPIに依存しすぎるリスク、どう考えてますか？LangChainとかで抽象化して逃げ道作ってます？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-01-openai-122-billion-funding-nvidia-amazon-softbank.jpg",
+    "created_at": "2026-04-01T06:52:02.135236+09:00",
+    "posted": false
   }
 ]
