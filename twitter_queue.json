@@ -9073,5 +9073,33 @@
     "image_path": "/images/posts/2026-03-31-litellm-ditches-delve-security-breach-analysis.jpg",
     "created_at": "2026-03-31T14:19:22.389716+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-03-31-ai-adoption-up-trust-down-analysis",
+    "title": "AI利用率急増の裏で「信頼」が崩壊。米国調査が突きつけるAI開発の致命的な欠陥",
+    "url": "https://ai.negi-lab.com/posts/ai-adoption-up-trust-down-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#生成AI #LLM",
+    "tweet_text": "米国の最新調査で、AIの利用率が過去最高を記録する一方で「信頼度」が急落しているという興味深いデータが出ました。普及すればするほど信じられなくなるという、まさに「AIの信頼性の罠」に陥っています。\n\n元SIerの視点で見ると、この状況は初期のクラウド導入期によく似ています。便利だけど中身がブラックボックスで、何かあったときに責任が取れない。だから「便利だけど本気では信じない」という冷めた距離感が生まれている。\n\n特に開発現場で致命的なのは、性能競争に走りすぎて「回答の根拠」や「プロセスの透明性」を後回しにしてきたツケが回ってきた点です。GPT-4oやClaude 3.5などモデルの賢さは上がっていますが、ユーザーが求めているのは「賢さ」以上に「誠実さ」なんですよね。\n\nこれからのAI開発は、単にプロンプトを投げるだけでは終わりません。RAGの高度化やマルチエージェントによる検算、そしてUIでの徹底的な可視化。これら「信じさせるためのエンジニアリング」ができないプロダクトは、来年には捨てられている可能性が高いです。\n\n皆さんの周りでは、AIの回答をどこまで「仕事の決定」に使っていますか？「最終確認は人間」というフェーズから、あと一歩踏み出すために何が必要だと思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-31-ai-adoption-up-trust-down-analysis.jpg",
+    "created_at": "2026-03-31T16:21:06.154176+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-03-31-planana-ai-skill-planning-review",
+    "title": "Planana AI 使い方と実務レビュー | スキル習得を最短にするAI計画術",
+    "url": "https://ai.negi-lab.com/posts/planana-ai-skill-planning-review/",
+    "category": "TOOL",
+    "viral_tags": "#PlananaAI #生産性向上",
+    "tweet_text": "新しい技術を学ぶとき、ロードマップ作成だけで力尽きていませんか？\n\nPlanana AIを使い倒してみましたが、これまでの「ただのタスクリスト生成」とは一線を画しています。SIer時代、数日かけて引いていたWBSの論理構造を、わずか30秒で、しかも実行可能な粒度で吐き出してくれる衝撃。\n\n特筆すべきは「タスク間の依存関係」の解釈精度。\n例えば「RustでAPIを作る」という目標に対し、メモリ安全性の理解とHTTPライブラリの選定をどの順序で置くべきか。経験者が「そうそう、それだよ」と頷く順序を提示してきます。\n\nもちろん、AI特有のハルシネーションで古いドキュメントを引く弱点はありますが、API連携でGitHub Issueに自動登録する運用を組めば、学習の初速が5倍は変わりますね。\n\n独学で挫折しがちなエンジニアや、新規案件で急ぎ技術スタックを詰め込む必要があるプロには、月額20ドル弱の投資価値は十分にあると思います。\n\n皆さんは新しい技術を学ぶ際、最初の「最初の一歩」をどうやって決めていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-03-31-planana-ai-skill-planning-review.jpg",
+    "created_at": "2026-03-31T16:23:24.086897+09:00",
+    "posted": false
   }
 ]
