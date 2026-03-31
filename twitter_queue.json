@@ -9157,5 +9157,19 @@
     "image_path": "/images/posts/2026-03-31-claude-code-setup-and-npm-security-guide.jpg",
     "created_at": "2026-03-31T22:54:45.585232+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-01-autoclaw-review-openclaw-setup-guide",
+    "title": "Autoclaw 使い方：Openclaw環境構築を最速で終わらせる実践レビュー",
+    "url": "https://ai.negi-lab.com/posts/autoclaw-review-openclaw-setup-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Autoclaw #AIエージェント",
+    "tweet_text": "自律型AIエージェントの構築、環境設定だけで数時間を溶かす時代はもう終わったのかもしれません。\n\nOpenAIのOperatorのようなブラウザ操作エージェントを爆速で立ち上げる「Autoclaw」を検証しました。SIer時代、ブラウザのバージョン不一致やOSの権限エラーで徹夜していた苦労が、たった数行のコードとワンクリックで解消されるのは正直、衝撃的です。\n\nPython歴8年の私でも、Playwrightの依存関係には毎回泣かされてきましたが、AutoclawはそこをZ.AIの抽象化レイヤーで完全に隠蔽しています。5分で「Product Huntを巡回して情報をまとめるエージェント」が動き出したときは、思わず4090のファンが回る音も心地よく感じました。\n\nただ、ブラックボックス化されている分、デバッグの難易度は少し高め。DOMの解析ロジックをいじり倒したい上級者には物足りないかもしれませんが、実務で「明日までにプロトタイプが必要」という場面なら、これ以上の選択肢はないはず。\n\nブラウザ操作AI、皆さんはどんな業務に投入したいですか？ECサイトの在庫チェック？それとも社内のレガシーシステムからのデータ引っこ抜き？具体的なユースケースをぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-01-autoclaw-review-openclaw-setup-guide.jpg",
+    "created_at": "2026-04-01T00:50:33.191962+09:00",
+    "posted": false
   }
 ]
