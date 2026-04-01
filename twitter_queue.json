@@ -9227,5 +9227,33 @@
     "image_path": "/images/posts/2026-04-01-anthropic-operational-failures-human-error-analysis.jpg",
     "created_at": "2026-04-01T14:31:24.273344+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-01-slack-ai-makeover-agentforce-30-features",
+    "title": "Slack AIが30もの新機能を一挙に搭載し、単なる「チャットツール」から「自律型AIエージェントの基盤」へと変貌しました。",
+    "url": "https://ai.negi-lab.com/posts/slack-ai-makeover-agentforce-30-features/",
+    "category": "NEWS",
+    "viral_tags": "#SlackAI #Agentforce",
+    "tweet_text": "Slackが別次元のツールに進化しました。本日発表された「AI-heavy makeover」は、単なる機能追加ではなく、Slackを自律型AIエージェントの実行基盤へ作り直すという宣言です。\n\n元SIerのエンジニアとして、昔の苦労を思い出さずにはいられません。かつて私たちが何百行ものコードを書き、複雑なAPI連携を必死にテストして構築していた「承認ワークフロー」や「データ同期」の仕組み。これらが今、自然言語で指示を出すだけで、AIが自ら最適なルートを推論して実行する時代になりました。\n\n注目すべきは、Salesforceの「Agentforce」との完全統合です。30もの新機能は、すべてが「アクション」に直結しています。要約して終わりではなく、CRMを更新し、カレンダーを抑え、メールを代筆する。\n\nこの変化は、開発者の役割を「ロジックを書く人」から「AIの推論をガイドするデータ設計者」へと強制的にシフトさせます。もはやSlackはチャットツールではなく、企業の業務プロセスを回すOSそのものです。\n\n導入コスト月額$20を高いと感じるか、優秀なエージェントを雇うコストとして安いと感じるか。3ヶ月後、このツールを使いこなしているチームとそうでないチームの生産性の差は、もはや埋められないほど開いているはずです。\n\n皆さんの現場では、どのようなルーチンワークを最初にAIエージェントに任せたいですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-04-01T16:28:41.040939+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-01-google-veo-3-1-lite-review-and-guide",
+    "title": "Google Veo 3.1 Lite 使い方と実務評価",
+    "url": "https://ai.negi-lab.com/posts/google-veo-3-1-lite-review-and-guide/",
+    "category": "TOOL",
+    "viral_tags": "#GoogleVeo #動画生成AI",
+    "tweet_text": "Google Veo 3.1 Lite、これこそが「ビジネスで勝てる」動画AIの正体かもしれません。\n\nSIer時代、動画生成をシステムに組み込もうとして1本数百円のコストに絶望した経験がありますが、その壁がついに崩れました。Veo 3.1 Liteは、最高画質を追うのではなく「実務で回せるコストと速度」に全振りしたモデル。\n\n実際にドキュメントを読み込み、Vertex AIでの運用をシミュレーションした結果、1生成あたりのコストと待機時間が劇的に改善されていることが分かりました。SNS広告の自動量産や、パーソナライズされた動画体験をアプリに実装したいエンジニアなら、Runwayより先にこちらを触るべき。\n\nただ、Google特有の厳しすぎるセーフティフィルターは相変わらずで、クリエイティブな遊び心との戦いは続きそうです。\n\n皆さんの現場では、動画AIのコスト感ってどのくらいが許容範囲ですか？「1本10円なら使う」みたいな具体的なラインがあるのか、ぜひ現場の本音を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-01-google-veo-3-1-lite-review-and-guide.jpg",
+    "created_at": "2026-04-01T16:44:39.139981+09:00",
+    "posted": false
   }
 ]
