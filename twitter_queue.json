@@ -9283,5 +9283,19 @@
     "image_path": "/images/posts/2026-04-01-keplars-email-infrastructure-review-for-developers.jpg",
     "created_at": "2026-04-01T19:10:04.181653+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-02-cognichip-ai-semiconductor-design-automation-news",
+    "title": "チップ開発費を75%削減するCognichipの衝撃。AIがAI用チップを作る時代へ",
+    "url": "https://ai.negi-lab.com/posts/cognichip-ai-semiconductor-design-automation-news/",
+    "category": "NEWS",
+    "viral_tags": "#半導体 #AIチップ設計",
+    "tweet_text": "AIがAIを作るという自己回帰的な進化がついに半導体のレイヤーで本格化してきました。Cognichipの6000万ドル調達のニュース、単なる資金調達以上の意味があります。\n\nこれまで数億ドル、数年かかっていたチップ開発が、AIの力でコスト75%減、期間半分になるという主張。SIer時代、ハードウェアの調達待ちでプロジェクトが停滞するのを何度も見てきましたが、もし特定業務に特化したASICが数週間、数分の一の予算で作れるようになれば、ソフトウェアの書き方も根本から変わります。\n\nNvidia一強の時代から、用途別の「100人100様のシリコン」を持つ時代へ。RTX 4090を2枚挿して自宅サーバーを回している身としては、電力効率の劇的な向上に期待したいところです。今の汎用GPU、あまりにも電力を食い過ぎですからね。\n\nもし、自社サービスや特定のLLMに特化した「自分専用チップ」が格安で作れるとしたら、皆さんはどんな推論処理にそのパワーを全振りしたいですか？特定のアルゴリズムに最適化されたハードウェアの未来について、ぜひ意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-02-cognichip-ai-semiconductor-design-automation-news.jpg",
+    "created_at": "2026-04-02T02:52:34.352358+09:00",
+    "posted": false
   }
 ]

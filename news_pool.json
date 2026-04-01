@@ -2,251 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
-      "url": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Wed, 25 Mar 2026 13:00:00 +0000",
-      "summary": "Sift is building the data infrastructure for advanced manufacturing.",
-      "extra": {},
-      "collected_at": "2026-03-25T22:22:34"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
-      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 25 Mar 2026 11:00:00 +0000",
-      "summary": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
-      "extra": {},
-      "collected_at": "2026-03-25T22:22:34"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Anthropic’s Claude Code gets ‘safer’ auto mode",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-25T07:39:46-04:00",
-      "summary": "Anthropic has launched an \"auto mode\" for Claude Code, a new tool that lets AI make permissions-level decisions on users' behalf. The company says the feature offers vibe coders a safer alternative between constant handholding or giving the model dangerous levels of autonomy. Claude Code is capable of acting independently on users' behalf, a useful [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-25T22:22:34"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Releaslyy AI",
-      "url": "https://www.producthunt.com/products/releaslyy-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Pulls in changes from your tools and generates release notes </p> <p> <a href=\"https://www.producthunt.com/products/releaslyy-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1105755?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-25T22:22:36"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Pendium",
-      "url": "https://www.producthunt.com/products/pendium-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Help AI agents recommend you more often to the right people </p> <p> <a href=\"https://www.producthunt.com/products/pendium-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102734?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-25T22:22:36"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "CronBox",
-      "url": "https://www.producthunt.com/products/cronbox-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Where AI agents work at a schedule in the cloud </p> <p> <a href=\"https://www.producthunt.com/products/cronbox-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1106013?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-25T22:22:36"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "Mbed-TLS/mbedtls",
-      "url": "https://github.com/Mbed-TLS/mbedtls",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
-      "extra": {
-        "stars_today": "7 stars today"
-      },
-      "collected_at": "2026-03-25T22:22:38"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "open-edge-platform/anomalib",
-      "url": "https://github.com/open-edge-platform/anomalib",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.",
-      "extra": {
-        "stars_today": "8 stars today"
-      },
-      "collected_at": "2026-03-25T22:22:38"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "New quant from google research",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s37lm8/new_quant_from_google_research/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-25T11:04:42+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s37lm8/new_quant_from_google_research/\"> <img alt=\"New quant from google research\" src=\"https://external-preview.redd.it/Xfy8b5oz8xAgNpbj0L9Mmjzxactj5HdaKRFOmBPu0YE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c9dad5b13e20f57d64f5fc0bbc7415c9f4186b1d\" title=\"New quant from google research\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Introducing TurboQuant: Our new compression algorithm that reduces LLM key-value",
-      "extra": {},
-      "collected_at": "2026-03-25T22:22:39"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "DeepSeek Employee Teases \"Massive\" New Model Surpassing DeepSeek V3.2",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s39024/deepseek_employee_teases_massive_new_model/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-03-25T12:14:10+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s39024/deepseek_employee_teases_massive_new_model/\"> <img alt=\"DeepSeek Employee Teases &quot;Massive&quot; New Model Surpassing DeepSeek V3.2\" src=\"https://external-preview.redd.it/ySXGYIpCTY9ajP8Lht8-n5prpAJnspVPnoXJYl2k-ak.jpeg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=481a53fbe05a680f47f60f7f8bd17e7e32eb54a3\" title=\"DeepSeek Employee Teases &quot;Massive&quot; New Model Surpassing DeepSeek V3.2\" /> ",
-      "extra": {},
-      "collected_at": "2026-03-25T22:22:39"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "After the supply chain attack, here are some litellm alternatives",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s34173/after_the_supply_chain_attack_here_are_some/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-25T07:26:03+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s34173/after_the_supply_chain_attack_here_are_some/\"> <img alt=\"After the supply chain attack, here are some litellm alternatives\" src=\"https://preview.redd.it/4hrn5eh985rg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3c9b9d898487d798cd45a5552f7df31e4ffa7c9\" title=\"After the supply chain attack, here are some litellm alternatives\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>litellm versions 1.82.7 and 1.82.8 o",
-      "extra": {},
-      "collected_at": "2026-03-25T22:22:39"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
-      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Wed, 25 Mar 2026 14:48:40 +0000",
-      "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
-      "extra": {},
-      "collected_at": "2026-03-26T00:47:07"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
-      "url": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Wed, 25 Mar 2026 14:45:20 +0000",
-      "summary": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its platforms to grow and connect with customers, the company wants to do more in the space.",
-      "extra": {},
-      "collected_at": "2026-03-26T00:47:07"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
-      "url": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Wed, 25 Mar 2026 14:16:17 +0000",
-      "summary": "Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps.",
-      "extra": {},
-      "collected_at": "2026-03-26T00:47:07"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "OpenAI's latest repo has Claude as the third top contributor",
-      "url": "https://twitter.com/CodeByNZ/status/2036723050197012771",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 25 Mar 2026 14:44:10 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-26T00:47:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Axra",
-      "url": "https://www.producthunt.com/products/axra",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI-native global banking on stablecoins for emerging markets </p> <p> <a href=\"https://www.producthunt.com/products/axra?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1106057?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-26T00:47:09"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "LayerProof Matte",
-      "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Repurpose social media posts with unique content per format </p> <p> <a href=\"https://www.producthunt.com/products/layerproof-social-content-generation?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1105802?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-26T00:47:09"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Intel launches Arc Pro B70 and B65 with 32GB GDDR6",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s3bb3y/intel_launches_arc_pro_b70_and_b65_with_32gb_gddr6/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-03-25T13:50:36+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s3bb3y/intel_launches_arc_pro_b70_and_b65_with_32gb_gddr6/\"> <img alt=\"Intel launches Arc Pro B70 and B65 with 32GB GDDR6\" src=\"https://preview.redd.it/um5uhjk557rg1.png?width=140&amp;height=78&amp;auto=webp&amp;s=1609e75140402f9f17a74ce85ad3bc034cf5bede\" title=\"Intel launches Arc Pro B70 and B65 with 32GB GDDR6\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/yo5e6l4r47rg1.png?width=2000",
-      "extra": {},
-      "collected_at": "2026-03-26T00:47:12"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Google launches Lyria 3 Pro music generation model",
       "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
       "primary_category": "NEWS",
@@ -3052,19 +2807,6 @@
       "collected_at": "2026-04-01T02:56:35"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-      "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 31 Mar 2026 20:01:07 +0000",
-      "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-      "extra": {},
-      "collected_at": "2026-04-01T06:50:58"
-    },
-    {
       "source": "HN AI Hot",
       "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
       "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
@@ -3292,19 +3034,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Keplars",
-      "url": "https://www.producthunt.com/products/keplars",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Email Infrastructure for Modern Product Teams </p> <p> <a href=\"https://www.producthunt.com/products/keplars?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1112524?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-01T16:25:57"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Stiinks.co",
       "url": "https://www.producthunt.com/products/liinks",
       "primary_category": "TOOL",
@@ -3395,7 +3124,212 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s9dy62/llamacpp_developers_right_now/\"> <img alt=\"Llama.cpp developers right now\" src=\"https://preview.redd.it/qvni8jzkajsg1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bf7e32c806cdd20075281fce9a06baf0db2e4e08\" title=\"Llama.cpp developers right now\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Also me, waiting for 1-bit Bonsai, TurboQwan, and Qwen 3.6 in the next llama.cpp release in five minutes or so...</p> </",
       "extra": {},
       "collected_at": "2026-04-01T19:06:01"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 01 Apr 2026 16:00:00 +0000",
+      "summary": "The firm says it can can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+      "extra": {},
+      "collected_at": "2026-04-02T02:51:58"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 01 Apr 2026 14:00:00 +0000",
+      "summary": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
+      "extra": {},
+      "collected_at": "2026-04-02T02:51:58"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "AI can push your Stream Deck buttons for you",
+      "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-04-01T08:38:58-04:00",
+      "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-02T02:51:58"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 01 Apr 2026 05:21:48 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-02T02:51:59"
+    },
+    {
+      "source": "r/MachineLearning",
+      "title": "[D] Simple Questions Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1s9n1jr/d_simple_questions_thread/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-01T15:01:38+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so keep posting after the date in the title.</p> <p>Thanks to everyone for answering questions in the previous thread!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.red",
+      "extra": {},
+      "collected_at": "2026-04-02T02:52:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Claudoscope",
+      "url": "https://www.producthunt.com/products/claudoscope",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Browse, search & track costs across Claude Code sessions </p> <p> <a href=\"https://www.producthunt.com/products/claudoscope?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1112495?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-02T02:52:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Audyr",
+      "url": "https://www.producthunt.com/products/audyr-understand-your-customers",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI captures feedback and tells you what to build next </p> <p> <a href=\"https://www.producthunt.com/products/audyr-understand-your-customers?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1112408?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-02T02:52:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "flock",
+      "url": "https://www.producthunt.com/products/flock-let-your-agents-loose",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Run a flock of Claude Code (or other agents) in one window. </p> <p> <a href=\"https://www.producthunt.com/products/flock-let-your-agents-loose?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1112594?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-02T02:52:00"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "axios/axios",
+      "url": "https://github.com/axios/axios",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Promise based HTTP client for the browser and node.js",
+      "extra": {
+        "stars_today": "88 stars today"
+      },
+      "collected_at": "2026-04-02T02:52:02"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "extra": {
+        "stars_today": "442 stars today"
+      },
+      "collected_at": "2026-04-02T02:52:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "TurboQuant isn’t just for KV: Qwen3.5-27B at near-Q4_0 quality, about 10% smaller, and finally fitting on my 16GB 5060 Ti",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9ig5r/turboquant_isnt_just_for_kv_qwen3527b_at_nearq4_0/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-01T11:58:02+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s9ig5r/turboquant_isnt_just_for_kv_qwen3527b_at_nearq4_0/\"> <img alt=\"TurboQuant isn’t just for KV: Qwen3.5-27B at near-Q4_0 quality, about 10% smaller, and finally fitting on my 16GB 5060 Ti\" src=\"https://preview.redd.it/118nngfciksg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c4d3701104a91e15709757e6757271993c7a8f7\" title=\"TurboQuant isn’t just for KV: Qwen3.5-27B at near-Q4_0 quality, about 10% smaller, and finally",
+      "extra": {},
+      "collected_at": "2026-04-02T02:52:03"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The source code to Aider has just leaked after being committed to github",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9o3g3/the_source_code_to_aider_has_just_leaked_after/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-01T15:39:01+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s9o3g3/the_source_code_to_aider_has_just_leaked_after/\"> <img alt=\"The source code to Aider has just leaked after being committed to github\" src=\"https://external-preview.redd.it/nEkWU_iRPHcIypRX18tqK7LINGrqAvGclSxnrrFqHsg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1b87139ba73ec26030aa16907dcdee78436286df\" title=\"The source code to Aider has just leaked after being committed to github\" /> </a> </td><td> &#32; submitte",
+      "extra": {},
+      "collected_at": "2026-04-02T02:52:03"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "llama : rotate activations for better quantization by ggerganov · Pull Request #21038 · ggml-org/llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9lge6/llama_rotate_activations_for_better_quantization/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-01T14:01:52+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s9lge6/llama_rotate_activations_for_better_quantization/\"> <img alt=\"llama : rotate activations for better quantization by ggerganov · Pull Request #21038 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/MvMDhsA8KXFPShfQIgal9H3tHP44JKz6t3JaGnM0Exc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a39e1fd05edbcf7defcdf02c1578f1d5870d6d31\" title=\"llama : rotate activations for better quantization by ggerganov · Pull ",
+      "extra": {},
+      "collected_at": "2026-04-02T02:52:03"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "arcee-ai/Trinity-Large-Thinking · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9pe0w/arceeaitrinitylargethinking_hugging_face/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-01T16:24:31+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s9pe0w/arceeaitrinitylargethinking_hugging_face/\"> <img alt=\"arcee-ai/Trinity-Large-Thinking · Hugging Face\" src=\"https://preview.redd.it/k8o0rrfoulsg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=39e0a91dc0733256cedb9354e5d9b6728b7e0ed2\" title=\"arcee-ai/Trinity-Large-Thinking · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/arcee-ai/Trinity-Large-Thinking\">arcee-ai/Trin",
+      "extra": {},
+      "collected_at": "2026-04-02T02:52:03"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "attn-rot (TurboQuant-like KV cache trick) lands in llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9nri7/attnrot_turboquantlike_kv_cache_trick_lands_in/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-01T15:27:20+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s9nri7/attnrot_turboquantlike_kv_cache_trick_lands_in/\"> <img alt=\"attn-rot (TurboQuant-like KV cache trick) lands in llama.cpp\" src=\"https://external-preview.redd.it/MvMDhsA8KXFPShfQIgal9H3tHP44JKz6t3JaGnM0Exc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a39e1fd05edbcf7defcdf02c1578f1d5870d6d31\" title=\"attn-rot (TurboQuant-like KV cache trick) lands in llama.cpp\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>80% o",
+      "extra": {},
+      "collected_at": "2026-04-02T02:52:03"
     }
   ],
-  "updated_at": "2026-04-01T19:06:01.933630+09:00"
+  "updated_at": "2026-04-02T02:52:03.363867+09:00"
 }
