@@ -9255,5 +9255,33 @@
     "image_path": "/images/posts/2026-04-01-google-veo-3-1-lite-review-and-guide.jpg",
     "created_at": "2026-04-01T16:44:39.139981+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-01-yupp-ai-shutdown-a16z-rlhf-limit",
+    "title": "a16zから3300万ドルを調達したAIスタートアップ「Yupp」の閉鎖は、人力評価ビジネスの限界を露呈しました",
+    "url": "https://ai.negi-lab.com/posts/yupp-ai-shutdown-a16z-rlhf-limit/",
+    "category": "NEWS",
+    "viral_tags": "#生成AI #RLHF",
+    "tweet_text": "衝撃的なニュースが入ってきました。a16zのクリス・ディクソンから3300万ドル（約50億円）を調達したAIスタートアップ「Yupp」が、わずか1年足らずで閉鎖。AIモデルのフィードバック収集を分散型で行うという、いわゆる「AI×Web3」の旗手でしたが、この速さでの撤退は業界に重い教訓を残しました。\n\nSIer時代から多くの案件を見てきましたが、結局のところ「人力でのデータ収集」は、モデル自体の進化とRLAIF（AIによるAIの評価）の圧倒的なコストパフォーマンスの前に沈んだ形です。1回5円で人間に聞くより、0.1円でGPT-4oに聞いたほうが速くて正確。この現実にビジネスモデルが追いつかなかったのでしょう。\n\n正直、この領域で「量」を武器にするのはもう限界ですね。これからは専門家による超高品質なデータか、あるいは評価フローそのものの完全自動化が勝負の分かれ目になります。RTX 4090を回してローカルでDPOを試している身としては、このスピード感には戦慄します。みなさんの現場では、モデルの精度評価、まだ「人」に頼っていますか？それとも自動化に踏み切っていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-01-yupp-ai-shutdown-a16z-rlhf-limit.jpg",
+    "created_at": "2026-04-01T19:07:01.303158+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-01-keplars-email-infrastructure-review-for-developers",
+    "title": "Keplars 使い方レビュー：モダンな開発チーム向けメール基盤の設計と実力を検証",
+    "url": "https://ai.negi-lab.com/posts/keplars-email-infrastructure-review-for-developers/",
+    "category": "TOOL",
+    "viral_tags": "#Keplars #BackendDevelopment",
+    "tweet_text": "SIer時代、あの重厚すぎるメール送信サービスの管理画面に何時間奪われたことか…。\nProduct Huntで見つけた「Keplars」を数時間触ってみましたが、これはまさにエンジニアが欲しかった「コードとしてのメールインフラ」ですね。\n\n特にAPIのレスポンス速度とSDKの型安全性が優秀。\n100件の送信リクエストが0.5秒以内で捌けるスピード感は、これまでのレガシーなツールとは別次元です。\nReact Emailとの相性も抜群で、テンプレート管理を完全にGitの管理下に置けるのがデカい。\n\n正直、マーケ主導のチームには勧めませんが、バックエンドをガリガリ書くチームならSendGridから乗り換える価値、十分にあると思います。\n個人的には、デバッグ時のエラーメッセージが親切なだけでご飯3杯いけます。\n\nただ、日本国内のキャリアメールへの到達率についてはまだ検証の余地あり。\nその辺りを含めた実践的な使い方と、Resendとの比較をブログにまとめました。\nこれからSaaSを作る人は、選定基準の一つとして知っておいて損はないはず。\n\n皆さんはメール送信基盤、何を使ってますか？\n「やっぱり到達率でPostmark」とか「結局SendGridが安定」とか、現場の本音が聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-01-keplars-email-infrastructure-review-for-developers.jpg",
+    "created_at": "2026-04-01T19:10:04.181653+09:00",
+    "posted": false
   }
 ]
