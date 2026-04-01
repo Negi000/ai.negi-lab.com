@@ -9199,5 +9199,19 @@
     "image_path": "/images/posts/2026-04-01-openai-122-billion-funding-nvidia-amazon-softbank.jpg",
     "created_at": "2026-04-01T06:52:02.135236+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-01-litellm-compromise-mercor-cyberattack-analysis",
+    "title": "LiteLLMの脆弱性を突いたMercorへのサイバー攻撃は全AI開発者が「他人事」で済ませてはいけないサプライチェーン攻撃の典型例です",
+    "url": "https://ai.negi-lab.com/posts/litellm-compromise-mercor-cyberattack-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#LiteLLM #サイバーセキュリティ",
+    "tweet_text": "AI開発の裏側で、静かに、しかし致命的な事態が起きています。\n\nAI採用スタートアップMercorが、LiteLLMの侵害に起因する大規模なデータ漏洩と脅迫被害に遭いました。これ、エンジニアならゾッとする話です。\n\nLiteLLMはOpenAIやClaudeを統合管理できる「魔法の杖」として急速に普及しましたが、そこが突破されると紐付けていた全APIキーが丸裸になります。便利さとセキュリティのトレードオフ、私たちは少し「便利さ」側に倒しすぎていたのかもしれません。\n\nかつてSIerでガチガチのセキュリティ要件と戦っていた身からすると、今のAI開発の「とりあえずpip installして.envにキーを貼る」文化の危うさが、最悪の形で証明されたと感じます。\n\n「自分の環境は大丈夫」と思っている人こそ危ない。APIキーのローテーション、シークレットマネージャーの導入、依存関係のロック。これらは「推奨」ではなく「義務」です。\n\n皆さんのチームでは、LLMのAPIキーをどう管理していますか？Secrets Manager使ってますか？それとも未だに.envに生で書いてますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-01-litellm-compromise-mercor-cyberattack-analysis.jpg",
+    "created_at": "2026-04-01T12:30:18.087108+09:00",
+    "posted": false
   }
 ]
