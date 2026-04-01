@@ -1,113 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Google launches Lyria 3 Pro music generation model",
-      "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Wed, 25 Mar 2026 16:37:43 +0000",
-      "summary": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
-      "extra": {},
-      "collected_at": "2026-03-26T02:58:54"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior",
-      "url": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 25 Mar 2026 16:10:00 +0000",
-      "summary": "Reddit will require suspected automated accounts to verify they’re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
-      "extra": {},
-      "collected_at": "2026-03-26T02:58:54"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Magine",
-      "url": "https://www.producthunt.com/products/magine",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Spawn vision-enabled AI agents autonomously browsing the web </p> <p> <a href=\"https://www.producthunt.com/products/magine?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1104302?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-26T02:58:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Intel will sell a cheap GPU with 32GB VRAM next week",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s3e8bd/intel_will_sell_a_cheap_gpu_with_32gb_vram_next/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-25T15:38:21+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It seems Intel will release a GPU with 32 GB of VRAM on March 31, which they would sell directly for $949.</p> <p>Bandwidth would be 608 GB/s (a little less than an NVIDIA 5070), and wattage would be 290W.</p> <p>Probably/hopefully very good for local AI and models like Qwen 3.5 27B at 4 bit quantization.</p> <p>I'm definitely rooting for Intel, as I have a big percentage of my investment in their stock.</p> <p><a href=\"https://www.pcmag.com/news/intel-targets-a",
-      "extra": {},
-      "collected_at": "2026-03-26T02:59:00"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
-      "url": "https://www.claudescode.dev/?window=since_launch",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 25 Mar 2026 18:16:40 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-26T06:51:26"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Facts...No Bullsh*t",
-      "url": "https://www.producthunt.com/products/facts-no-bullsh-t",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Stop BS in real-time with AI that fact-checks as you listen </p> <p> <a href=\"https://www.producthunt.com/products/facts-no-bullsh-t?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1106127?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-26T06:51:28"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Introducing ARC-AGI-3",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s3ll4i/introducing_arcagi3/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-03-25T20:02:02+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s3ll4i/introducing_arcagi3/\"> <img alt=\"Introducing ARC-AGI-3\" src=\"https://preview.redd.it/0gocpbj3z8rg1.png?width=140&amp;height=64&amp;auto=webp&amp;s=127c2a99a6c69cf649aee12a5673a6c86d63a264\" title=\"Introducing ARC-AGI-3\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>ARC-AGI-3 gives us a formal measure to compare human and AI skill acquisition efficiency</p> <p>Humans don’t brute force - they build mental models, t",
-      "extra": {},
-      "collected_at": "2026-03-26T06:51:31"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Has anyone implemented Google's TurboQuant paper yet?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s3ffzo/has_anyone_implemented_googles_turboquant_paper/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-25T16:22:38+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just read the google recent blog post they're claiming 6x KV cache compression with zero accuracy loss and up to 8x attention speedup on H100s. Presented at ICLR 2026.</p> <p>Curious if anyone has tried it and what real world gains they got outside of the paper benchmarks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SelectionCalm70\"> /u/SelectionCalm70 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comme",
-      "extra": {},
-      "collected_at": "2026-03-26T06:51:31"
-    },
-    {
       "source": "Google News",
       "title": "【新潮流】AIの利用量が、高年収の「基本条件」になる - newspicks.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HNlFFNWZNVXl0UU5MRWR5bENHTWdwcERDam9uczNXZ0dPYl9ubmg2S0ExZno1SVAwbTg1S1B0Ymw4Yk1GTFRLYURCRUpOZWh0Mmdv?oc=5",
@@ -3127,19 +3020,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 01 Apr 2026 16:00:00 +0000",
-      "summary": "The firm says it can can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
-      "extra": {},
-      "collected_at": "2026-04-02T02:51:58"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
       "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
       "primary_category": "NEWS",
@@ -3329,7 +3209,87 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s9nri7/attnrot_turboquantlike_kv_cache_trick_lands_in/\"> <img alt=\"attn-rot (TurboQuant-like KV cache trick) lands in llama.cpp\" src=\"https://external-preview.redd.it/MvMDhsA8KXFPShfQIgal9H3tHP44JKz6t3JaGnM0Exc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a39e1fd05edbcf7defcdf02c1578f1d5870d6d31\" title=\"attn-rot (TurboQuant-like KV cache trick) lands in llama.cpp\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>80% o",
       "extra": {},
       "collected_at": "2026-04-02T02:52:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta’s natural gas binge could power South Dakota",
+      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 01 Apr 2026 18:35:36 +0000",
+      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+      "extra": {},
+      "collected_at": "2026-04-02T06:53:35"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: Real-time dashboard for Claude Code agent teams",
+      "url": "https://github.com/simple10/agents-observe",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 01 Apr 2026 16:24:28 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-02T06:53:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ray-Ban Meta G2 Blayzer & Scriber Optics",
+      "url": "https://www.producthunt.com/products/ray-ban-meta-g2-blayzer-scriber-optics",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Meta's first AI glasses built for prescriptions </p> <p> <a href=\"https://www.producthunt.com/products/ray-ban-meta-g2-blayzer-scriber-optics?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1112680?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-02T06:53:49"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "EDAMAME Security",
+      "url": "https://www.producthunt.com/products/axios-litellm-detector",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Axios / LiteLLM hacks behavioral detector app for Mac/PC </p> <p> <a href=\"https://www.producthunt.com/products/axios-litellm-detector?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1112400?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-02T06:53:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "APEX MoE quantized models boost with 33% faster inference and TurboQuant (14% of speedup in prompt processing)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9vzry/apex_moe_quantized_models_boost_with_33_faster/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-01T20:13:55+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s9vzry/apex_moe_quantized_models_boost_with_33_faster/\"> <img alt=\"APEX MoE quantized models boost with 33% faster inference and TurboQuant (14% of speedup in prompt processing)\" src=\"https://external-preview.redd.it/j-uHBhklf_waxs6drRoVJcJ50U_Se0-tyUnlQ3ENgPU.png?width=140&amp;height=70&amp;auto=webp&amp;s=c15499b173a2b89a8db60593cc1fc9970208dea0\" title=\"APEX MoE quantized models boost with 33% faster inference and TurboQua",
+      "extra": {},
+      "collected_at": "2026-04-02T06:53:52"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Anyone else notice qwen 3.5 is a lying little shit",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9kf23/anyone_else_notice_qwen_35_is_a_lying_little_shit/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-01T13:21:30+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Any time I catch it messing up it just lies and tries to hide it’s mistakes . This is the 1st model I’m caught doing this multiple times. I’m have llms hallucinate or be just completely wrong but qwen will say it did something, I call it out then it goes and double downs on its lie “I did do it like you asked “ and when I call it out it 1/2 admits to being wrong. It’s kinda funny how much it doesn’t want to admit it didn’t do what it was supposed to.</p> </div><",
+      "extra": {},
+      "collected_at": "2026-04-02T06:53:52"
     }
   ],
-  "updated_at": "2026-04-02T02:52:03.363867+09:00"
+  "updated_at": "2026-04-02T06:53:52.299633+09:00"
 }
