@@ -2,186 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
-      "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 26 Mar 2026 12:00:00 +0000",
-      "summary": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
-      "extra": {},
-      "collected_at": "2026-03-26T22:40:20"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Mistral releases a new open-source model for speech generation",
-      "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 26 Mar 2026 11:30:00 +0000",
-      "summary": "Mistral's new speech model can run on a smartwatch or a smartphone.",
-      "extra": {},
-      "collected_at": "2026-03-26T22:40:20"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Webtoon is adding AI localization tools to its comics platform",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-26T09:00:00-04:00",
-      "summary": "Canvas, Webtoon's platform for user-uploaded comics, is about to get a major overhaul that's designed to help creators make more money and share their art with a wider audience. Today, Webtoon announced its plans to roll out a number of new features for Canvas that will make it easier for artists to build global followings [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-26T22:40:20"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
-      "url": "https://github.com/lightfeed/extractor",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 26 Mar 2026 03:55:52 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-26T22:40:22"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Triqai",
-      "url": "https://www.producthunt.com/products/triqai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn messy bank transactions into clean, structured data </p> <p> <a href=\"https://www.producthunt.com/products/triqai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091254?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-26T22:40:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Venn.ai",
-      "url": "https://www.producthunt.com/products/venn-ai-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Delegate real work to AI agents with safety guardrails </p> <p> <a href=\"https://www.producthunt.com/products/venn-ai-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1103930?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-26T22:40:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "MacNotch",
-      "url": "https://www.producthunt.com/products/macnotch-the-notch-reimagined",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn your MacBook notch into a modular dashboard </p> <p> <a href=\"https://www.producthunt.com/products/macnotch-the-notch-reimagined?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1106614?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-26T22:40:23"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Secure environments for developers and their agents",
-      "extra": {
-        "stars_today": "14 stars today"
-      },
-      "collected_at": "2026-03-26T22:40:25"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "actions/runner-images",
-      "url": "https://github.com/actions/runner-images",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "GitHub Actions runner images",
-      "extra": {
-        "stars_today": "5 stars today"
-      },
-      "collected_at": "2026-03-26T22:40:25"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "PaperMC/Paper",
-      "url": "https://github.com/PaperMC/Paper",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
-      "extra": {
-        "stars_today": "9 stars today"
-      },
-      "collected_at": "2026-03-26T22:40:25"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "ente-io/ente",
-      "url": "https://github.com/ente-io/ente",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "💚 End-to-end encrypted cloud for everything.",
-      "extra": {
-        "stars_today": "156 stars today"
-      },
-      "collected_at": "2026-03-26T22:40:25"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "RotorQuant: 10-19x faster alternative to TurboQuant via Clifford rotors (44x fewer params)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s44p77/rotorquant_1019x_faster_alternative_to_turboquant/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-03-26T11:21:04+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s44p77/rotorquant_1019x_faster_alternative_to_turboquant/\"> <img alt=\"RotorQuant: 10-19x faster alternative to TurboQuant via Clifford rotors (44x fewer params)\" src=\"https://preview.redd.it/mqwnea8iidrg1.png?width=140&amp;height=75&amp;auto=webp&amp;s=e910cab0f27517ac2429b70b2333bee36bb2666f\" title=\"RotorQuant: 10-19x faster alternative to TurboQuant via Clifford rotors (44x fewer params)\" /> </a> </td><td> <!-- SC_OFF --><",
-      "extra": {},
-      "collected_at": "2026-03-26T22:40:27"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Mistral AI to release Voxtral TTS, a 3-billion-parameter text-to-speech model with open weights that the company says outperformed ElevenLabs Flash v2.5 in human preference tests. The model runs on about 3 GB of RAM, achieves 90-millisecond time-to-first-audio, supports nine languages.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s46ylj/mistral_ai_to_release_voxtral_tts_a/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-03-26T13:07:18+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s46ylj/mistral_ai_to_release_voxtral_tts_a/\"> <img alt=\"Mistral AI to release Voxtral TTS, a 3-billion-parameter text-to-speech model with open weights that the company says outperformed ElevenLabs Flash v2.5 in human preference tests. The model runs on about 3 GB of RAM, achieves 90-millisecond time-to-first-audio, supports nine languages.\" src=\"https://preview.redd.it/84beyoxx1erg1.jpg?width=140&amp;height=104&amp;auto=web",
-      "extra": {},
-      "collected_at": "2026-03-26T22:40:27"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
       "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
       "primary_category": "NEWS",
@@ -3215,19 +3035,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Mode AI",
-      "url": "https://www.producthunt.com/products/mode-ai-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI Assistant in your pocket </p> <p> <a href=\"https://www.producthunt.com/products/mode-ai-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1108918?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-02T22:25:31"
-    },
-    {
-      "source": "Product Hunt",
       "title": "tama96",
       "url": "https://www.producthunt.com/products/tama96-desktop-terminal-ai-pet",
       "primary_category": "TOOL",
@@ -3291,7 +3098,144 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Simulation what the Qwen3.5 model family would look like using 1-bit technology and TurboQuant. The table below shows the results, this would be a revolution:</p> <table><thead> <tr> <th align=\"left\">Model</th> <th align=\"left\">Parameters</th> <th align=\"left\">Q4_K_M File (Current)</th> <th align=\"left\">KV Cache (256K) (Current)</th> <th align=\"left\">Hypothetical 1-bit Weights</th> <th align=\"left\">KV Cache 256K with TurboQuant</th> <th align=\"left\">Hypothetical",
       "extra": {},
       "collected_at": "2026-04-02T22:25:34"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "It’s not easy to get depression-detecting AI through the FDA",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-02T11:33:23-04:00",
+      "summary": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA clearance in time, the company is shutting down and releasing most of its technology as open-source. Some elements may even find a second life [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-03T00:37:05"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
+      "url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-02T10:00:00-04:00",
+      "summary": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells The Verge, [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-03T00:37:05"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google Home’s latest update makes Gemini better at understanding your commands",
+      "url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-04-02T09:30:12-04:00",
+      "summary": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release notes. With the update, you can describe the type of lighting you want, such as \"the color of the ocean,\" and Gemini will [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-03T00:37:05"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Men are ditching TV for YouTube as AI usage and social media fatigue grow",
+      "url": "https://www.ofcom.org.uk/media-use-and-attitudes/media-habits-adults/passive-social-media-use-ai-companionship-and-online-side-hustles-uk-adults-media-and-online-lives-revealed",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 02 Apr 2026 09:43:08 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-03T00:37:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Claude Code Voice Mode",
+      "url": "https://www.producthunt.com/products/claude-code-voice-mode",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Speak your prompts into Claude Code </p> <p> <a href=\"https://www.producthunt.com/products/claude-code-voice-mode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088811?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-03T00:37:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Denovo",
+      "url": "https://www.producthunt.com/products/denovo",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build and run your business while you sleep. </p> <p> <a href=\"https://www.producthunt.com/products/denovo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1103399?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-03T00:37:15"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "vadimdemedes/ink",
+      "url": "https://github.com/vadimdemedes/ink",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "🌈 React for interactive command-line apps",
+      "extra": {
+        "stars_today": "317 stars today"
+      },
+      "collected_at": "2026-04-03T00:37:17"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "extra": {
+        "stars_today": "78 stars today"
+      },
+      "collected_at": "2026-04-03T00:37:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "it looks like it will be soon 💎💎💎💎",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sajqb9/it_looks_like_it_will_be_soon/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-02T14:58:33+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sajqb9/it_looks_like_it_will_be_soon/\"> <img alt=\"it looks like it will be soon 💎💎💎💎\" src=\"https://preview.redd.it/8smpiei7kssg1.png?width=140&amp;height=30&amp;auto=webp&amp;s=1f8149ee6adf5a9b9fae7405eef38f606f538a7f\" title=\"it looks like it will be soon 💎💎💎💎\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/ggml-org/llama.cpp/pull/21309\">https://github.com/ggml-org/llama.cpp/pull/21309</a> (t",
+      "extra": {},
+      "collected_at": "2026-04-03T00:37:18"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma 4 1B, 13B, and 27B spotted",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sakdd2/gemma_4_1b_13b_and_27b_spotted/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-04-02T15:21:50+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><blockquote> <p>[Gemma 4](INSET_PAPER_LINK) is a multimodal model with pretrained and instruction-tuned variants, available in 1B, 13B, and 27B parameters. The architecture is mostly the same as the previous Gemma versions. The key differences are a vision processor that can output images of fixed token budget and a spatial 2D RoPE to encode vision-specific information across height and width axis. </p> </blockquote> <p>You can find all the original Gemma 4 checkpo",
+      "extra": {},
+      "collected_at": "2026-04-03T00:37:18"
     }
   ],
-  "updated_at": "2026-04-02T22:25:34.410364+09:00"
+  "updated_at": "2026-04-03T00:37:18.422103+09:00"
 }

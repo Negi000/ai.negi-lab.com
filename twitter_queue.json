@@ -9381,5 +9381,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-04-02T22:26:28.614790+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-03-nitro-rocketlane-ai-agent-review",
+    "title": "Nitro by Rocketlane 使い方と評価。AIエージェントでPM業務はどこまで自動化できるか",
+    "url": "https://ai.negi-lab.com/posts/nitro-rocketlane-ai-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#NitroAI #プロジェクトマネジメント",
+    "tweet_text": "SIer時代、毎週金曜日の夕方が大嫌いでした。複数のExcelとJiraから進捗を拾い、顧客向けの週報を1時間かけて書く……。あの不毛な「転記作業」を過去のものにするツールが出てきましたね。\n\nNitro by Rocketlaneを徹底的に調べましたが、これは単なるAI要約ツールではありません。プロジェクトの文脈を理解し、自律的に動く「AI PMエージェント」です。特筆すべきは、Zoomの議事録やSlackの断片的な会話から、自動でプロジェクトのステータスを更新し、顧客へのメール下書きまで作る徹底ぶり。\n\n正直、汎用LLMでこれを自作しようとすると、RAGの構築やワークフロー設計で半年は溶けます。NitroはそこをSaaSとしてパッケージ化しているのが強い。\n\n一方で、既存ツールからの乗り換えコストや、日本語対応の「あと一歩」な部分は冷静に見る必要があります。万人向けではないですが、複数のB2Bプロジェクトを回して疲弊しているPMには、間違いなく救世主になるはず。皆さんの現場では、報告業務の自動化ってどこまで進んでいますか？具体的なツールや自作スクリプトの事例があれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-04-03T00:37:52.478042+09:00",
+    "posted": false
   }
 ]
