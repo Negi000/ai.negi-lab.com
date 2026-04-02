@@ -9311,5 +9311,33 @@
     "image_path": "/images/posts/2026-04-02-meta-hyperion-natural-gas-data-center.jpg",
     "created_at": "2026-04-02T06:54:25.586609+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-02-anthropic-github-dmca-takedown-accident",
+    "title": "AnthropicがGitHub上の数千件の公開リポジトリを誤って削除させた事態は、AI企業の「安全への焦り」が開発者コミュニティを破壊しかねないリスクを浮き彫りにしました。",
+    "url": "https://ai.negi-lab.com/posts/anthropic-github-dmca-takedown-accident/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #GitHubDMCA",
+    "tweet_text": "Anthropicが流出コードの削除を急ぐあまり、GitHub上の無関係な数千リポジトリを誤爆して削除させた件。正直、あきれ果てました。\n\n安全性や倫理を掲げる企業の裏側で、これほど杜撰な自動化スクリプトが「開発者の資産」をなぎ倒していた事実は重いです。SIer時代、1つの本番ミスで地獄を見た経験からすると、この規模の「事故」を釈明だけで済ませる姿勢には疑問を感じざるを得ません。\n\n結局、GitHubという中央集権プラットフォームに依存しきることのリスクが、最悪の形で顕在化しました。DMCA通知ひとつで、積み上げたコードが消える。私たちはAIの恩恵を受けつつも、物理的なバックアップやGitLabへのミラーリングといった「生存戦略」を真剣に考えるフェーズに来ています。\n\nAI企業の法務Botが、人間のクリエイティビティを「ノイズ」として排除する未来。これって彼らが防ごうとしている「AIによる破滅」の一種じゃないんでしょうか。\n\nGitHubのリポジトリが突然消えた経験がある方、あるいは今回の件で対策を始めた方、ぜひ今の心境を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-04-02T16:18:49.573257+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-02-gitcity-github-3d-contribution-visualizer-review",
+    "title": "GitCity GitHubのコントリビューションを3D都市化してドライブするビジュアライザ",
+    "url": "https://ai.negi-lab.com/posts/gitcity-github-3d-contribution-visualizer-review/",
+    "category": "TOOL",
+    "viral_tags": "#GitCity #GitHub",
+    "tweet_text": "GitHubの草（コントリビューション）を3D都市化して、その中を車で爆走できる「GitCity」が面白い。\n\nSIer時代から何千枚と見てきたあの「緑のタイル」が、コミット数に応じた摩天楼に変わる瞬間は、エンジニアとして純粋にテンションが上がりますね。RTX 4090を2枚挿した私の環境でも試しましたが、ブラウザ上で滑らかに動く都市景観は圧巻。\n\n正直、これを使って開発効率が1%でも上がるかと言われれば、答えはNOです。でも、自分の1年間の労働を「都市」という形で俯瞰し、その中をドライブする体験は、数値やグラフでは絶対に得られない「達成感」を与えてくれます。\n\n単なる可視化を超えた、エンジニア向けの究極の癒やしツール。GitHub Skylineとはまた違う、ゲーム的な没入感があります。オフィスのダッシュボードに映しておくだけで、チームの会話の種になりそう。\n\n皆さんは自分のコントリビューションを振り返る時、どんなツールを使ってますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-04-02T16:23:13.887365+09:00",
+    "posted": false
   }
 ]
