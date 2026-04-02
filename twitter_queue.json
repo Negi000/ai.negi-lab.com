@@ -9339,5 +9339,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-04-02T16:23:13.887365+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-02-replit-tdk-ventures-ai-hardware-integration-2026",
+    "title": "ReplitとTDK VenturesがSFで示す「AIエージェント×物理レイヤー」の交差点：開発者が2026年に注視すべき生存戦略",
+    "url": "https://ai.negi-lab.com/posts/replit-tdk-ventures-ai-hardware-integration-2026/",
+    "category": "NEWS",
+    "viral_tags": "#Replit #EdgeAI",
+    "tweet_text": "2026年のAI業界は「画面の中」から「物理世界」へ完全に軸足が移りましたね。StrictlyVC SFでのReplitとTDK Venturesの対談は、単なる投資話ではなく、AIエージェントがハードウェアを直接制御する未来への号砲です。\n\n元SIerの視点で見ると、正直これまでの開発環境とは次元が違います。Replit Agentが環境構築を秒で終わらせ、TDKのセンサー技術が物理レイヤーを支える。この統合は、ソフトウェアだけで完結していたエンジニアにとって生存の分岐点になるはず。\n\n私もRTX 4090を2枚挿してローカルで検証し続けていますが、結局は「いかに物理リソースを効率よくAIに食わせるか」が勝負どころ。Replitを単なる初心者用ツールだと思ってスルーしていると、気づいた時には産業用AIの標準OSになっていて手遅れになるかもしれません。\n\nこれからのエンジニアの価値は、コードを書くことではなく、AIに「どのハードウェアで、どのコストで動かすべきか」を指示するアーキテクチャ設計能力に集約されます。\n\n皆さんは、自分の書いたコードが物理デバイスで動く際の「消費電力」や「メモリ制約」をどこまで意識してAIに指示を出していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-04-02T19:02:24.052791+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-02-syncly-social-ai-creator-discovery-review",
+    "title": "Syncly Social 使い方と評判：AIによるインフルエンサー検索の革新",
+    "url": "https://ai.negi-lab.com/posts/syncly-social-ai-creator-discovery-review/",
+    "category": "TOOL",
+    "viral_tags": "#SynclySocial #インフルエンサーマーケティング",
+    "tweet_text": "インフルエンサーマーケの「リサーチ地獄」を終わらせるツールを見つけてしまった。Syncly Social、これSIer時代の自分が欲しかったやつですね。\n\n従来の検索ツールって、フォロワー数やバイオグラフィーのキーワードでしか絞り込めなかったじゃないですか。だから「AIエンジニア」で検索しても、中身のない煽り系のアカウントが大量に混ざる。\n\nSynclyは、投稿動画のスクリプトやキャプションをAIが全部読み取って「文脈」で検索できます。例えば「Pythonの具体的な実装コードを解説している人」と打てば、本当にそれを投稿している人だけを適合順に弾き出す。\n\n実際にAPIドキュメントも読みましたが、セマンティック検索のレスポンスも速い。100件の検索が1秒かからないのは、実務への組み込みにおいてかなり強力なアドバンテージです。\n\nただ、正直安くはないです。でも手作業で10時間かけていたリサーチが数分で終わるなら、コスト回収は一瞬でしょうね。\n\n今のインフルエンサー選定、まだハッシュタグ検索で消耗していませんか？もし自動化するとしたら、どのステップを一番に削りたいですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-04-02T19:04:14.012317+09:00",
+    "posted": false
   }
 ]
