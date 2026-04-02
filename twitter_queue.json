@@ -9367,5 +9367,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-04-02T19:04:14.012317+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-02-mode-ai-mobile-llm-review-guide",
+    "title": "Mode AI 使い方：スマホで完結するマルチモデルLLM環境の構築と実戦レビュー",
+    "url": "https://ai.negi-lab.com/posts/mode-ai-mobile-llm-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#ModeAI #生成AI",
+    "tweet_text": "スマホでのAI利用、ブラウザでChatGPTやClaudeを切り替えて使うのが正直しんどくなってきました。\n\nそこでProduct Huntで話題の「Mode AI」を実戦投入。これ、単なるラッパーじゃありません。GPT-4oやClaude 3.5 Sonnetを一つのスレッド内で使い分けられるのは当然として、独自の「モード」機能が優秀すぎる。\n\n移動中にホワイトボードを撮影して、その場でClaudeにReactのコンポーネントへ変換させる。あるいは、最新の技術記事をWeb検索しつつGPTに要約させる。この一連の流れが、PCを開かず親指一本で完結します。\n\n特に驚いたのが音声入力の精度とレスポンス。騒がしい駅のホームでも、複雑な指示を的確に拾ってくれます。月額$20程度でトップモデルが使い放題になるので、個別サブスクを整理したい人にも刺さるはず。\n\nSIer時代の客先移動中にこれがあれば、報告書のドラフト作成でどれだけ楽ができたか…。スマホを「ただのチャット画面」から「エンジニアの副操縦席」に変えたい人は、一度触ってみる価値があります。\n\n皆さんは外出先でのLLM使い分け、どうしてますか？特定のアプリに絞ってますか、それともAPIで自作してますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-04-02T22:26:28.614790+09:00",
+    "posted": false
   }
 ]
