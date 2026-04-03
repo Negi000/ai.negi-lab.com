@@ -9451,5 +9451,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-04-03T16:21:37.562861+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-03-granola-ai-privacy-alert-data-training",
+    "title": "AIノートGranolaのデータ学習設定と共有リンクの落とし穴",
+    "url": "https://ai.negi-lab.com/posts/granola-ai-privacy-alert-data-training/",
+    "category": "NEWS",
+    "viral_tags": "#GranolaAI #データプライバシー",
+    "tweet_text": "AIノートアプリ「Granola」のプライバシー仕様、これはSIer時代の感覚からすると背筋が凍ります。\n「Private by default」を謳いながら、実態は「共有リンクを知る全員が認証なしで閲覧可能」かつ「デフォルトでデータ学習に利用」という仕様。\n\nWebサービスの「推測困難なURL」はセキュリティではありません。\n昨今のAIツールはUXを優先するあまり、認証認可の階層を飛ばして「摩擦のない共有」を重視しすぎています。\n特にAI学習へのオプトアウトが設定の奥深くに隠されているのは、プロ向けのツールとしては誠実さに欠けると感じます。\n\n私はRTX 4090のローカル環境でLlama 3を動かしていますが、結局「本当に秘密にしたいこと」は手元で回すのが一番安上がりで確実です。\n月額$10の安さは、実はあなたの機密データで支払っているのかもしれません。\n\n皆さんの周りで、会議の議事録をそのまま放り込んでいる人はいませんか？\nそのリンク、一度漏れたら誰でも見られますよ。\n社内規定でこの手のツール、どう扱っていますか？現場のリアルな運用状況が気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-04-03T18:54:00.408584+09:00",
+    "posted": false
   }
 ]
