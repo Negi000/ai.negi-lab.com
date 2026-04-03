@@ -1,188 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
-      "url": "https://github.com/itigges22/ATLAS",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 26 Mar 2026 17:31:24 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-03-27T12:18:18"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Replay: Life Timeline",
-      "url": "https://www.producthunt.com/products/replay-ios-app",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A visual timeline of where you've been </p> <p> <a href=\"https://www.producthunt.com/products/replay-ios-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107122?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-27T12:18:20"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Inspekt",
-      "url": "https://www.producthunt.com/products/inspekt",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI-powered API proxy for automated debugging and security </p> <p> <a href=\"https://www.producthunt.com/products/inspekt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107388?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-27T12:18:20"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Dual DGX Sparks vs Mac Studio M3 Ultra 512GB: Running Qwen3.5 397B locally on both. Here's what I found.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s4lmep/dual_dgx_sparks_vs_mac_studio_m3_ultra_512gb/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-26T22:12:06+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was spending about $2K/month on Claude API tokens for a personal AI assistant I run through Slack. After about 45 days of that cost pain I decided to go local. Bought both a dual DGX Spark setup and a Mac Studio M3 Ultra 512GB, each cost me about $10K after taxes. Same price, completely different machines. Here is what I learned running Qwen3.5 397B A17B on both.</p> <p><strong>The Mac Studio</strong></p> <p>MLX 6 bit quantization, 323GB model loaded into 512G",
-      "extra": {},
-      "collected_at": "2026-03-27T12:18:22"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Apple stopped selling 512gb URAM mac studios, now the max amount is 256GB!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s4kev3/apple_stopped_selling_512gb_uram_mac_studios_now/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-26T21:25:41+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>THe memory supply crisis is hitting apple too. IT is probably too expensive and/or not enough supply for them to sell 512gb ram m3 ultras. U can look at <a href=\"https://www.apple.com/shop/buy-mac/mac-studio\">https://www.apple.com/shop/buy-mac/mac-studio</a> to see it is no longer available.. MAybe that is why the m5 max only has a max of 128gb, i think they couldve added 256gb to it... Yeah they probably wont make the m5 ultra with 1tb of ram; at best 512 gb of",
-      "extra": {},
-      "collected_at": "2026-03-27T12:18:22"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen 3.5 27B at 1.1M tok/s on B200s, all configs on GitHub",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s4hudr/qwen_35_27b_at_11m_toks_on_b200s_all_configs_on/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-26T19:49:12+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Pushed Qwen 3.5 27B (the dense one, not MoE) to 1,103,941 tok/s on 12 nodes with 96 B200 GPUs using vLLM.</p> <p>9,500 to 95K per node came from four changes: DP=8 over TP=8, context window from 131K to 4K, FP8 KV cache, and MTP-1 speculative decoding. That last one was the biggest -- without MTP, GPU utilization was 0%.</p> <p>Scaling: 97.1% efficiency at 8 nodes, 96.5% at 12. ClusterIP round-robin. The Inference Gateway with KV-cache-aware routing added 35% ov",
-      "extra": {},
-      "collected_at": "2026-03-27T12:18:22"
-    },
-    {
-      "source": "Google News",
-      "title": "博士前期課程1年の矢吹渓悟さんが人工知能学会研究会優秀賞を受賞 – Future University Hakodate - fun.ac.jp",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Sb3lMNkFXY2RwdDU3MURDZXRwVUhKLXZyLW1XTEV2b2h0QXUtU0lTQl94SnVncXVjd0ozUGJIMVRFek1KY0E?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 25 Mar 2026 17:47:54 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Sb3lMNkFXY2RwdDU3MURDZXRwVUhKLXZyLW1XTEV2b2h0QXUtU0lTQl94SnVncXVjd0ozUGJIMVRFek1KY0E?oc=5\" target=\"_blank\">博士前期課程1年の矢吹渓悟さんが人工知能学会研究会優秀賞を受賞 – Future University Hakodate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fun.ac.jp</font>",
-      "extra": {},
-      "collected_at": "2026-03-27T14:17:38"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "vit",
-      "url": "https://www.producthunt.com/products/vit",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> git for video editing. </p> <p> <a href=\"https://www.producthunt.com/products/vit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1106589?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-27T14:17:38"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "slicer.dev",
-      "url": "https://www.producthunt.com/products/slicer-dev-any-component-as-ai-prompt",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Copy interactive web components as AI prompts </p> <p> <a href=\"https://www.producthunt.com/products/slicer-dev-any-component-as-ai-prompt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107370?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-27T14:17:38"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Consolidated my homelab from 3 models down to one 122B MoE — benchmarked everything, here's what I found",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s4p922/consolidated_my_homelab_from_3_models_down_to_one/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-27T00:39:15+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Been running local LLMs on a Strix Halo setup (Ryzen AI MAX+ 395, 128GB RAM, 96 GiB shared GPU memory via Vulkan/RADV) under Proxmox with LXC containers and llama-server. Wanted to share where I landed after way too much benchmarking.</p> <p><strong>THE OLD SETUP (3 text models)</strong></p> <p>- GLM-4.7-Flash: 30B MoE 3B active, 18GB, 72 tok/s — daily driver, email</p> <p>- Qwen3.5-35B-A3B: 35B MoE 3B active, 20GB, 55 tok/s — reasoning/coding</p> <p>- Qwen3-VL-",
-      "extra": {},
-      "collected_at": "2026-03-27T14:17:41"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-26T20:33:44-04:00",
-      "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-03-27T16:13:06"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Noctiluca",
-      "url": "https://www.producthunt.com/products/noctiluca",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A new remote desktop for macOS </p> <p> <a href=\"https://www.producthunt.com/products/noctiluca?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1108003?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-27T16:13:08"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Benchspan",
-      "url": "https://www.producthunt.com/products/benchspan",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Run agent benchmarks in minutes, not hours </p> <p> <a href=\"https://www.producthunt.com/products/benchspan?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107633?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-27T16:13:08"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AppDesk",
-      "url": "https://www.producthunt.com/products/appdesk",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your App Store data, beautifully visualized on your Mac </p> <p> <a href=\"https://www.producthunt.com/products/appdesk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107741?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-27T16:13:08"
-    },
-    {
       "source": "The Verge AI",
       "title": "David Sacks is no longer the White House AI and Crypto Czar",
       "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
@@ -3067,19 +2885,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Microsoft takes on AI rivals with three new foundational models",
-      "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 02 Apr 2026 16:48:16 +0000",
-      "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-      "extra": {},
-      "collected_at": "2026-04-03T06:49:40"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Google now lets you direct avatars through prompts in its Vids app",
       "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
       "primary_category": "NEWS",
@@ -3239,7 +3044,112 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Tested both 26b and 31b in AI Studio.</p> <p>The task I asked of it was to crack a cypher. The top closed source models can crack this cypher at max thinking parameters, and Kimi 2.5 Thinking and Deepseek 3.2 are the only open source models to crack the cypher without tool use. (Of course, with the closed models you can't rule out 'secret' tool use on the backend.)</p> <p>When I first asked these models to crack the cypher, they thought for a short amount of tim",
       "extra": {},
       "collected_at": "2026-04-03T11:57:14"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Elon Musk is about to be a very busy boy!",
+      "url": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-02T14:15:00-04:00",
+      "summary": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars for June 7th as an IPO date just in case. Based on the April [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-03T16:14:37"
+    },
+    {
+      "source": "Google News",
+      "title": "テンプル大学ジャパンキャンパス、2026年秋学期よりAI学科を新設 - u-presscenter.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZkNINmdjRWoyQ3E5Y25Sd2VLelhGTHZZY2dmR2V5SWFlMEt5QVVHTG5lLVJWTlp1Um5HMlVKMm41TU91ZVZXbGswc3V3dXA5aFpVMUx3?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 03 Apr 2026 01:32:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jZkNINmdjRWoyQ3E5Y25Sd2VLelhGTHZZY2dmR2V5SWFlMEt5QVVHTG5lLVJWTlp1Um5HMlVKMm41TU91ZVZXbGswc3V3dXA5aFpVMUx3?oc=5\" target=\"_blank\">テンプル大学ジャパンキャンパス、2026年秋学期よりAI学科を新設</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">u-presscenter.jp</font>",
+      "extra": {},
+      "collected_at": "2026-04-03T16:14:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Slide2Video",
+      "url": "https://www.producthunt.com/products/slide2video-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn slides into narrated videos </p> <p> <a href=\"https://www.producthunt.com/products/slide2video-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1113797?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-03T16:14:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Straude",
+      "url": "https://www.producthunt.com/products/straude",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Strava for Claude Code / Global Tokenmaxxing Leaderboard </p> <p> <a href=\"https://www.producthunt.com/products/straude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1114059?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-03T16:14:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "FindThem",
+      "url": "https://www.producthunt.com/products/findthem",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI Profile Search Across LinkedIn enriched with Web Data </p> <p> <a href=\"https://www.producthunt.com/products/findthem?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1114631?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-03T16:14:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "EmDash CMS",
+      "url": "https://www.producthunt.com/products/emdash-cms",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> EmDash is a new open-source CMS from Cloudflare </p> <p> <a href=\"https://www.producthunt.com/products/emdash-cms?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1114490?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-03T16:14:39"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma 4 is seriously broken when using Unsloth and llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sb4gzj/gemma_4_is_seriously_broken_when_using_unsloth/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-04-03T05:09:42+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sb4gzj/gemma_4_is_seriously_broken_when_using_unsloth/\"> <img alt=\"Gemma 4 is seriously broken when using Unsloth and llama.cpp\" src=\"https://preview.redd.it/qqy9ynu5pwsg1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b6b863c09333ce146d5cef9380c8a7d8103393a2\" title=\"Gemma 4 is seriously broken when using Unsloth and llama.cpp\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi! Just checking, am I the only one who has",
+      "extra": {},
+      "collected_at": "2026-04-03T16:14:41"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma 4 26b a4b - MacBook Pro M5 MAX. Averaging around 81tok/sec",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sb1rb9/gemma_4_26b_a4b_macbook_pro_m5_max_averaging/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-03T02:52:07+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sb1rb9/gemma_4_26b_a4b_macbook_pro_m5_max_averaging/\"> <img alt=\"Gemma 4 26b a4b - MacBook Pro M5 MAX. Averaging around 81tok/sec\" src=\"https://preview.redd.it/q161qbff3wsg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=40f3c9d0768b906c10fd493191775794a7b77af4\" title=\"Gemma 4 26b a4b - MacBook Pro M5 MAX. Averaging around 81tok/sec\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Pretty fast! Uses around 114watts at i",
+      "extra": {},
+      "collected_at": "2026-04-03T16:14:41"
     }
   ],
-  "updated_at": "2026-04-03T11:57:14.565792+09:00"
+  "updated_at": "2026-04-03T16:14:41.772772+09:00"
 }

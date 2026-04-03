@@ -9423,5 +9423,33 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-04-03T11:57:50.835505+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-03-google-vids-avatar-prompt-control-review",
+    "title": "Google Vids進化：プロンプトでアバターを自在に操る新機能の実力と課題",
+    "url": "https://ai.negi-lab.com/posts/google-vids-avatar-prompt-control-review/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleVids #AIアバター",
+    "tweet_text": "Google Vidsの進化が想定以上に実用的で驚いています。プロンプト1つでAIアバターの「演技」を指示できるようになったのは、動画制作のパラダイムシフトと言っても過言ではありません。\n\nSIer時代、数分の研修動画を作るのに1ヶ月かけていた苦労は何だったのか…。これからはドキュメントを書く感覚で、アバターに「もう少し自信ありげに話して」と指示するだけで動画が完成します。\n\n技術的にはGemini 1.5 Proによるマルチモーダル制御が肝。単なるリップシンクではなく、感情のベクトルを映像に落とし込む実装は、流石Googleのインフラ力といったところ。\n\nHeyGenやSynthesiaなどの競合と比較しても、Workspace連携とコスト面での優位性は圧倒的です。もはや動画制作は「クリエイティブな特殊技能」ではなく「AIへのディレクション能力」に変わりました。\n\n個人的には、この「制御性」こそがビジネス現場が求めていたものだと確信しています。皆さんの職場では、動画制作にどれくらいのコストをかけていますか？これが自動化されたら、真っ先にどの業務を動画化したいですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-04-03T16:15:29.288060+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-03-slide2video-automated-presentation-video-guide",
+    "title": "Slide2Videoでスライドをナレーション付き動画へ自動変換する実装ガイド",
+    "url": "https://ai.negi-lab.com/posts/slide2video-automated-presentation-video-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Slide2Video #AI動画生成",
+    "tweet_text": "プレゼン資料を動画化する作業、正直言って苦行だと思っていました。録音して、編集ソフトのタイムラインをいじって、噛んだら撮り直し。SIer時代、この作業に何時間溶かしたか分かりません。\n\nSlide2Videoを使ってみて、その苦労がいかに「過去のもの」になったかを痛感しました。PDFをAPIに投げるだけで、GPT-4oが内容を読み取り、TTSがナレーションを生成、さらにスライドの切り替えタイミングまで自動調整。10分程度の解説動画なら、コード数行と数ドルのAPIコストで完成します。\n\n正直、映画のような演出は無理ですが、社内研修や技術解説にはこれで十分すぎる。更新があればCI/CDで動画も再生成する。そんな「動画のコード管理」が現実味を帯びてきました。日本語の読みがたまに怪しいのは愛嬌ですが、ElevenLabs等の外部エンジンと組み合わせれば化けるはず。\n\nドキュメント作成に追われるエンジニアやPMにこそ、この「動画生成パイプライン」を触ってみてほしいです。皆さんの現場では、マニュアルの動画化ってどれくらい工数かけてますか？自動化の余地、ありませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-04-03T16:21:37.562861+09:00",
+    "posted": false
   }
 ]
