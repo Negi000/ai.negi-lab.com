@@ -9409,5 +9409,19 @@
     "image_path": "/images/posts/2026-04-03-openai-acquires-tbpn-voice-data-strategy.jpg",
     "created_at": "2026-04-03T06:50:15.920345+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-03-microsoft-mai-foundational-models-comparison",
+    "title": "Microsoft独自AI「MAI」発表。OpenAI依存脱却とAzure統合の衝撃",
+    "url": "https://ai.negi-lab.com/posts/microsoft-mai-foundational-models-comparison/",
+    "category": "NEWS",
+    "viral_tags": "#MicrosoftAI #AzureAIStudio",
+    "tweet_text": "Microsoftが独自のAI基盤モデル「MAI」を発表しました。正直、OpenAIとの蜜月関係はこれで終わったと言っても過言ではありません。\n\n発表されたのは音声の文字起こし、音声生成、画像生成の3モデル。特筆すべきは音声のレスポンス速度で、入力から発話まで0.2秒を切るケースもありました。これは人間同士の会話とほぼ変わりません。\n\nSIer時代の経験から言えるのは、この「Azureネイティブ」であることの強みです。SLAがモデル層まで保証され、推論単価もGPT-4oより大幅に安くなる見込み。開発者は今すぐAPI構成を見直すレベルのインパクトがあります。\n\n私はRTX 4090でローカルLLMを検証し続けていますが、この速度とコストをクラウドでやられると、正直「ローカルで回す意味」を再定義せざるを得ません。\n\n皆さんのプロジェクトでは、OpenAIからMAIへの移行を検討しますか？それとも「まだ様子見」でしょうか。具体的な懸念点や期待している部分など、ぜひリプライで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-04-03T11:57:50.835505+09:00",
+    "posted": false
   }
 ]
