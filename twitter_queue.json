@@ -9549,5 +9549,19 @@
     "image_path": "/images/posts/2026-04-04-klick-ai-camera-assistant-review-tutorial.jpg",
     "created_at": "2026-04-04T18:43:01.231734+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-05-claude-code-openclaw-extra-usage-fee",
+    "title": "Claude Codeが「サブスク＋従量課金」へ移行、OpenClaw連携の追加料金が開発者に与える衝撃",
+    "url": "https://ai.negi-lab.com/posts/claude-code-openclaw-extra-usage-fee/",
+    "category": "NEWS",
+    "viral_tags": "#ClaudeCode #OpenClaw",
+    "tweet_text": "Claude Codeの実質的な値上げ発表に、界隈がざわついていますね。AnthropicがOpenClaw連携などの高度な機能に対して、サブスクとは別の「追加料金」を課すと決定しました。\n\nSIer時代、見積もりに「AI利用料（変動費）」なんて項目を入れるのは夢物語だと思っていましたが、いよいよ現実になりそうです。これ、単なる値上げじゃなくて「AIエージェントの運用コストが定額制の限界を超えた」という重大なサインなんですよね。\n\n私はRTX 4090を2枚挿してローカルLLMを回していますが、API勢のこの動きを見ると、改めて「自前で計算リソースを持つ強み」を実感します。とはいえ、Sonnet級の精度をエージェントで回せるメリットは計り知れません。\n\n開発効率を金で買うプロにとっては、月額50〜100ドルになっても「安い」と言えるか。それとも、かつての月額固定への郷愁に浸るか。皆さんは、この「AIの従量課金シフト」をどう受け止めますか？ 現場での予算取り、難しくなりそうですよね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-05-claude-code-openclaw-extra-usage-fee.jpg",
+    "created_at": "2026-04-05T06:41:41.114052+09:00",
+    "posted": false
   }
 ]
