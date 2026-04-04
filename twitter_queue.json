@@ -9493,5 +9493,33 @@
     "image_path": "/images/posts/2026-04-04-anthropic-vs-openai-private-market-shift-spacex-impact.jpg",
     "created_at": "2026-04-04T11:48:49.910653+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-04-anthropic-acquires-coefficient-bio-400m-deal",
+    "title": "Anthropicの4億ドル買収が示す「 Claude創薬」とバイオAI特化への大転換",
+    "url": "https://ai.negi-lab.com/posts/anthropic-acquires-coefficient-bio-400m-deal/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #バイオテックAI",
+    "tweet_text": "AnthropicがバイオAI企業「Coefficient Bio」を4億ドルで買収。これは単なるニュースではなく、LLMが「言葉遊び」を終えて「物理世界のコード（DNA・分子）」を直接書き換えるフェーズに入ったという宣戦布告ですね。\n\nSIer時代に見てきた「汎用ツールの限界」を、Anthropicはバイオ特化という垂直統合で突破しようとしています。4億ドルという額も、Claudeの株式で支払うという点が非常にリアル。創業者たちは現金よりClaudeの未来に賭けたわけです。\n\n正直、GPT-4の汎用性も凄いですが、Claude 3.5の推論能力がバイオドメインの生データと融合したら、創薬のスピードはレスポンス0.3秒のレベルで加速するかもしれません。これからは「RAGで論文検索」なんて言ってる場合じゃない。モデル内部にどうドメイン知識を埋め込むか、エンジニアはその設計思想を問われることになります。\n\n3ヶ月以内に科学特化のClaude APIが出る可能性は高い。今のうちにGNNや分子構造データの扱いを予習しておかないと、次世代のAI案件にはついていけなくなる。\n\nみなさん、LLMを「チャットボット」として使い続けるか、それとも「科学的な推論エンジン」として使いこなすか、どちらの道を選びますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-04-anthropic-acquires-coefficient-bio-400m-deal.jpg",
+    "created_at": "2026-04-04T16:06:57.032556+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-04-mercury-edit-2-nep-coding-review",
+    "title": "Mercury Edit 2 レビュー：コーディングの「移動」と「修正」を予測する次世代NEPの実力",
+    "url": "https://ai.negi-lab.com/posts/mercury-edit-2-nep-coding-review/",
+    "category": "TOOL",
+    "viral_tags": "#MercuryEdit2 #AIプログラミング",
+    "tweet_text": "AIエディタの進化が「生成」から「予測」にシフトしてきましたね。\n\n話題のMercury Edit 2を数日間、ガチの実務（Python/React）で使い倒してみました。\nこれ、GitHub Copilotとは全く別物です。\nCopilotが「白紙にコードを書く」のを助けるなら、Mercuryは「既存コードを直して回る」作業を爆速にします。\n\n一番の衝撃は、関数を1箇所リファクタリングした瞬間、数画面下の呼び出し箇所に「次はここを直すよね？」とカーソルを飛ばしてくれるNext Edit Prediction(NEP)の精度。\nマウスを持ってスクロールする時間が激減して、脳のメモリをロジックに集中させられます。\n\nSIer時代に、ひたすら手動で「一括置換できない微妙な修正」を繰り返していた自分に教えてあげたい…。\nRTX 4090を2枚挿してローカルLLMを回すようなスペック狂の私でも、このクラウド推論のレスポンス（0.5秒以下）には正直脱帽です。\n\nただ、エディタの挙動がかなり能動的になるので、自分のリズムを大事にしたい人には「おせっかい」に感じるかも。\nCursorやCopilotに物足りなさを感じている中級以上のエンジニアは、一度この「ジャンプする感覚」を体感してみてほしい。\n\n皆さんは、AIに「コードを書いてほしい」ですか？それとも「修正箇所を探してほしい」ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-04-mercury-edit-2-nep-coding-review.jpg",
+    "created_at": "2026-04-04T16:08:47.213641+09:00",
+    "posted": false
   }
 ]
