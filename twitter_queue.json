@@ -9521,5 +9521,33 @@
     "image_path": "/images/posts/2026-04-04-mercury-edit-2-nep-coding-review.jpg",
     "created_at": "2026-04-04T16:08:47.213641+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-04-anthropic-pac-political-ai-regulation-impact",
+    "title": "AnthropicのPAC設立が示唆する「AI規制の武器化」と開発者が直面する技術的制約の正体",
+    "url": "https://ai.negi-lab.com/posts/anthropic-pac-political-ai-regulation-impact/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #AI規制",
+    "tweet_text": "Anthropicが政治団体(PAC)を設立し、ついに「政治の力」でAI規制を動かし始めました。これは単なるニュースではありません。彼らが掲げる「安全性の憲法」が、そのまま法律として我々開発者に牙を剥く可能性があります。\n\nSIer時代に嫌というほど見てきた「法規制による仕様変更」という悪夢が、LLMの世界でも現実味を帯びてきました。Anthropicは憲法AI（Constitutional AI）を掲げていますが、その憲法を書くのが政治家になった時、我々のコードにどんな制約が課されるのか。\n\n正直、特定の巨大企業が「安全性」を盾に規制の堀を築く動きには強い危機感を感じます。Llama 3のようなオープンソース勢がどこまで踏ん張れるか。\n\n私はRTX 4090を2枚挿した自作サーバーを回しながら、APIに頼り切らない「開発者の自由」を確保する準備を始めました。皆さんは、自分の作ったアプリが「政治的に正しくない」という理由でAPIを止められるリスク、本気で考えていますか？\n\n特定のプロバイダーに依存しすぎるのは、もはや技術的なリスクではなく、政治的なリスクです。今こそマルチモデル構成やローカル推論へのシフトを真剣に議論すべき時ではないでしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-04-anthropic-pac-political-ai-regulation-impact.jpg",
+    "created_at": "2026-04-04T18:40:47.499536+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-04-klick-ai-camera-assistant-review-tutorial",
+    "title": "Klick AI Camera Assistant リアルタイムでプロの構図を学ぶAI活用法",
+    "url": "https://ai.negi-lab.com/posts/klick-ai-camera-assistant-review-tutorial/",
+    "category": "TOOL",
+    "viral_tags": "#KlickAI #AIカメラ",
+    "tweet_text": "AIが「構図」をリアルタイムで指導してくれるKlick AI Camera Assistantが面白い。\n今までガイド線を見て「なんとなく」合わせていた撮影が、AIによる深度推定と物体検出で「数値化された最適解」に変わります。\n\n実際にドキュメントを読み、SDKの構成を確認しましたが、単なる三分割法の表示とは別次元。\n被写体の視線の先や背景のパースまで計算して「カメラをあと数センチ右へ」と指示してくる。\nこれはECサイトのブツ撮りや不動産物件の撮影現場を劇的に変えるツールです。\n\nSIer時代に現場の撮影品質のバラツキに頭を抱えた経験がありますが、これがあればマニュアルは不要だったはず。\nRTX 4090環境での推論速度は約12msと爆速。ただ、スマホだと発熱が少し気になりますね。\n\n「誰が撮ってもプロ級の写真」を量産する仕組みが必要な開発者やディレクターは、API連携も含めて検討の価値あり。\n皆さんの現場では、撮影品質の均一化をどう実現していますか？\n現場でのAI活用について、ぜひ意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-04-klick-ai-camera-assistant-review-tutorial.jpg",
+    "created_at": "2026-04-04T18:43:01.231734+09:00",
+    "posted": false
   }
 ]
