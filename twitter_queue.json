@@ -9647,5 +9647,33 @@
     "image_path": "/images/posts/2026-04-05-tiny-aya-multilingual-llm-local-review.jpg",
     "created_at": "2026-04-05T18:40:05.546794+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-05-influcio-ai-marketing-agent-review",
+    "title": "Influcioレビュー AIエージェントでインフルエンサー施策をデータ駆動に変える",
+    "url": "https://ai.negi-lab.com/posts/influcio-ai-marketing-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#Influcio #AIエージェント",
+    "tweet_text": "インフルエンサー施策を「なんとなく」で決める時代が終わったかもしれない。\n\nProduct Huntで見つけた「Influcio」を触ってみましたが、これは単なる検索ツールじゃない。AIエージェントが投稿内容を文脈レベルで解析して、ブランドへの適合度を0〜100で叩き出す。SIer時代にマーケティング自動化を組んでいた身からすると、この「文脈の言語化」がAPI一本で取れるのは衝撃的です。\n\nフォロワー数だけで選んで爆死するパターン、よく見かけますよね。InflucioはRAG的なアプローチで、過去の投稿キャプションから画像・動画のニュアンスまでベクトル化して評価します。Python SDKも用意されていて、特定の条件を満たすインフルエンサーだけに自動でパーソナライズされた打診を送るワークフローが数行で書ける。\n\nただ、日本語特有のスラングや文脈理解は英語より一段落ちる印象。それでも、今まで担当者が3日かけていた選定作業が、4090を回すまでもなくAPI経由の数十秒で終わるコストパフォーマンスは無視できない。\n\nマーケティングの現場で「AIエージェント」をどう実務に落とし込むか、一つの正解に近い形を見せられた気がします。\n\n皆さんの現場では、インフルエンサーの選定基準ってどう自動化してますか？あるいは、まだ人力の領域でしょうか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-05-influcio-ai-marketing-agent-review.jpg",
+    "created_at": "2026-04-05T22:09:22.517412+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-05-minimax-2-7-local-llm-guide-python",
+    "title": "Minimax 2.7 使い方：ローカル環境で高性能MoEモデルを動かす実践ガイド",
+    "url": "https://ai.negi-lab.com/posts/minimax-2-7-local-llm-guide-python/",
+    "category": "GUIDE",
+    "viral_tags": "#Minimax #LocalLLM",
+    "tweet_text": "Minimax 2.7のオープンウェイト公開から約2週間。正直、ここ最近のMoEモデルの中でも群を抜いて「仕事に使える」手応えがあります。\n\nSIer時代、数千万かけて構築していたような推論基盤が、今やRTX 4090一枚で、しかもこれほどの精度で動く。この変化の速さには驚くばかりです。今回の検証では4-bit量子化を適用しましたが、レスポンス速度は0.3秒/token前後と非常に快適。\n\n特に注目すべきは日本語の構造化能力です。曖昧な指示でもJSONフォーマットを崩さず、論理的な破綻が少ない。これ、RAGのバックエンドとして組み込んだら相当強いはず。\n\n記事では、初心者でもハマらずにローカル環境を構築し、業務レベルのデータ抽出スクリプトを作るまでの全工程をまとめました。「動かしてみた」の先にある、実務への適用方法を解説しています。\n\nみなさんは、最近のMoEモデルを業務に導入する際、一番の懸念点はどこにありますか？VRAMコストなのか、それともライセンス面なのか、現場のリアルな意見が気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-05-minimax-2-7-local-llm-guide-python.jpg",
+    "created_at": "2026-04-05T22:10:54.612956+09:00",
+    "posted": false
   }
 ]
