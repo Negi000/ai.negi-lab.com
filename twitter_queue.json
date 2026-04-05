@@ -9703,5 +9703,19 @@
     "image_path": "/images/posts/2026-04-06-qwen-deepseek-resilient-llm-wrapper.jpg",
     "created_at": "2026-04-06T00:07:45.049338+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-06-spacex-orbital-data-center-ai-infrastructure-limit",
+    "title": "SpaceXが狙う「軌道上データセンター」がAIインフラの物理的限界を破壊する理由",
+    "url": "https://ai.negi-lab.com/posts/spacex-orbital-data-center-ai-infrastructure-limit/",
+    "category": "NEWS",
+    "viral_tags": "#SpaceX #軌道上データセンター",
+    "tweet_text": "SpaceXの「軌道上データセンター」構想が、いよいよ現実味を帯びてきました。3000億ドルという巨額の時価総額を正当化するミッシングリンクは、宇宙空間でのAI推論インフラにあるようです。\n\n今のAI業界が直面している最大の問題は「地上の電力不足」と「排熱」です。1サイトで都市一つ分の電力を食うデータセンターを地上に建てるのは、もう限界が近い。それなら、24時間太陽光が降り注ぎ、無限の真空に熱を逃がせる宇宙にGPUを置いてしまえ、という発想ですね。\n\nスターシップがあれば、古いチップを積んだ衛星を落として、最新のBlackwell搭載衛星を100基単位で補充する「宇宙の継続的デプロイ」すら可能になります。しかも、真空中のレーザー通信は光ファイバーより速い。ニューヨーク〜ロンドン間のレイテンシが、宇宙経由の方が短くなるという物理法則の逆転が起きようとしています。\n\n元SIerとして、データセンターの現場の苦労を見てきた身からすると、この「場所と電力からの解放」はまさにブレイクスルーです。3ヶ月後には、AIスタートアップが「自社専用衛星」を予約する時代が始まっているかもしれません。\n\n皆さんは、APIのリージョン選択に「軌道上(Orbital)」が出てきたら、具体的にどんなワークロードを載せてみたいですか？宇宙エッジ推論の使い道、ぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-06-spacex-orbital-data-center-ai-infrastructure-limit.jpg",
+    "created_at": "2026-04-06T02:32:29.316536+09:00",
+    "posted": false
   }
 ]
