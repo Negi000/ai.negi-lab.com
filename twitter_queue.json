@@ -9577,5 +9577,19 @@
     "image_path": "/images/posts/2026-04-05-spotify-ai-fake-music-identity-theft-analysis.jpg",
     "created_at": "2026-04-05T12:25:45.413988+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-05-c2pa-content-provenance-for-creators-survival",
+    "title": "「AIを使っていない証明」を求められる時代：クリエイターが生存のために取るべき技術的防衛策",
+    "url": "https://ai.negi-lab.com/posts/c2pa-content-provenance-for-creators-survival/",
+    "category": "NEWS",
+    "viral_tags": "#C2PA #生成AI冤罪",
+    "tweet_text": "AIが作ったように見えるから不採用…。そんな「AI冤罪」に泣くクリエイターが急増しています。\n\nThe Vergeが報じたこの問題、実は他人事ではありません。AIの精度が上がりすぎて、人間が数千時間かけて描いた絵や撮った写真が「AI製」だと疑われ、価値が暴落する時代に突入しました。\n\nSIer時代にセキュリティや署名技術を扱ってきた私の視点から言えば、これは「技術による防衛」が必須のフェーズです。そこで鍵となるのがC2PAという規格。\n\nPhotoshopや最新のカメラには、制作工程を暗号化して刻む「コンテンツ認証」が実装され始めています。Gitのコミットログを画像に埋め込むような仕組みですが、これがないと「私は人間です」という証明すらできない未来がすぐそこに来ています。\n\n月額数ドルのAI検知ツールに頼るプラットフォームの無策には呆れますが、我々実務者にできるのは、自分のワークフローを証明可能な形にアップデートすることだけ。\n\nみなさんの周りで、実際にAIだと疑われて困った経験がある人や、逆にAI製を見抜くために工夫していることはありますか？現場のリアルな声を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-05-c2pa-content-provenance-for-creators-survival.jpg",
+    "created_at": "2026-04-05T14:21:20.360065+09:00",
+    "posted": false
   }
 ]
