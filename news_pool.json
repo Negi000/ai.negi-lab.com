@@ -1,32 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "進歩派有力議員がAIデータセンター建設を一時停止する法案を提出…トランプ政権と業界は強く反発 - Business Insider Japan",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjkweVZ6d1pZRkZqYzFoS05WOVd2RThUaUVKMTN5d2oxNDg2V1BfRTlIeTY5OVliMG1Fb29acU5jRHRMR1RDczFZN1p3OGdjQ0Mzc29iUDZZazRuelpJZDlKb1NLaW8tcVVMLWhjXzhJOGpCemRzaEtGbDRLRXdzRFBkV0xEVkhuZGxJODJBc3E4ZzVsNXdfQmFuX1lPVDNWUjJfZS01RQ?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 28 Mar 2026 23:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjkweVZ6d1pZRkZqYzFoS05WOVd2RThUaUVKMTN5d2oxNDg2V1BfRTlIeTY5OVliMG1Fb29acU5jRHRMR1RDczFZN1p3OGdjQ0Mzc29iUDZZazRuelpJZDlKb1NLaW8tcVVMLWhjXzhJOGpCemRzaEtGbDRLRXdzRFBkV0xEVkhuZGxJODJBc3E4ZzVsNXdfQmFuX1lPVDNWUjJfZS01RQ?oc=5\" target=\"_blank\">進歩派有力議員がAIデータセンター建設を一時停止する法案を提出…トランプ政権と業界は強く反発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
-      "extra": {},
-      "collected_at": "2026-03-29T12:22:57"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Friendly reminder inference is WAY faster on Linux vs windows",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s6hb1h/friendly_reminder_inference_is_way_faster_on/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-29T00:55:26+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have a simple home lab pc: 64gb ddr4, RTX 8000 48gb (Turing architecture) and core i9 9900k cpu. I use Linux Ubuntu 22.04 LTS. Before using this pc as a home lab it ran Windows 10. Over this weekend I reinstalled my Windows 10 ssd to check out my old projects. I updated Ollama to the latest version and tokens per second was way slower than when I was running Linux. I know Linux performs better but I didn’t think it would be twice as fast. Here are the results ",
-      "extra": {},
-      "collected_at": "2026-03-29T12:23:00"
-    },
-    {
       "source": "Product Hunt",
       "title": "Glance",
       "url": "https://www.producthunt.com/products/glance-give-claude-code-a-real-browser",
@@ -2782,19 +2756,6 @@
       "collected_at": "2026-04-04T18:38:13"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sat, 04 Apr 2026 16:32:22 +0000",
-      "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
-      "extra": {},
-      "collected_at": "2026-04-05T06:41:07"
-    },
-    {
       "source": "The Verge AI",
       "title": "A folk musician became a target for AI fakes and a copyright troll",
       "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
@@ -2995,7 +2956,46 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1scjvye/i_managed_to_achieve_approximately_gemini_31_pro/\"> <img alt=\"I Managed to Achieve Approximately Gemini 3.1 Pro &amp; GPT-5.4-xHigh Level Performance with a Gemma-4-31B Multi-Agent Swarm\" src=\"https://preview.redd.it/9o3foki7a8tg1.png?width=140&amp;height=80&amp;auto=webp&amp;s=b4517f15ef4c08c9feb3fe4509bc6fe0d35487a3\" title=\"I Managed to Achieve Approximately Gemini 3.1 Pro &amp; GPT-5.4-xHigh Level Performance with ",
       "extra": {},
       "collected_at": "2026-04-05T06:41:12"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "LLM Wiki – example of an \"idea file\"",
+      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 04 Apr 2026 16:57:45 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-05T12:25:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "One year ago DeepSeek R1 was 25 times bigger than Gemma 4",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1scovb5/one_year_ago_deepseek_r1_was_25_times_bigger_than/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-05T00:05:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm mind blown by the fact that about a year ago DeepSeek R1 came out with a MoE architecture at 671B parameters and today Gemma 4 MoE is only 26B and is genuinely impressive. It's 25 times smaller, but is it 25 times worse?</p> <p>I'm exited about the future of local LLMs.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rinaldo23\"> /u/rinaldo23 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1scovb5",
+      "extra": {},
+      "collected_at": "2026-04-05T12:25:04"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I made a 35% REAP of 397B with potentially usable quality in 96GB GPU",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1scrksf/i_made_a_35_reap_of_397b_with_potentially_usable/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-05T02:15:28+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1scrksf/i_made_a_35_reap_of_397b_with_potentially_usable/\"> <img alt=\"I made a 35% REAP of 397B with potentially usable quality in 96GB GPU\" src=\"https://external-preview.redd.it/X4cszlxFADJXguBOflU9e42nBeyyooPEzKLHFm8EIvg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fbb627e78c21c568678ad6022abf8fa59eacd806\" title=\"I made a 35% REAP of 397B with potentially usable quality in 96GB GPU\" /> </a> </td><td> &#32; submitted by ",
+      "extra": {},
+      "collected_at": "2026-04-05T12:25:04"
     }
   ],
-  "updated_at": "2026-04-05T06:41:12.160538+09:00"
+  "updated_at": "2026-04-05T12:25:04.364836+09:00"
 }

@@ -9563,5 +9563,19 @@
     "image_path": "/images/posts/2026-04-05-claude-code-openclaw-extra-usage-fee.jpg",
     "created_at": "2026-04-05T06:41:41.114052+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-05-spotify-ai-fake-music-identity-theft-analysis",
+    "title": "SpotifyのAI偽装楽曲事件に学ぶアーティストなりすましの手口と対策",
+    "url": "https://ai.negi-lab.com/posts/spotify-ai-fake-music-identity-theft-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#生成AI #著作権",
+    "tweet_text": "Spotifyで起きた「AIなりすまし事件」が、想像以上にエグい段階に入っています。\n\nあるフォーク歌手が自分のSpotifyを開くと、出した覚えのない新曲が自分の公式プロフに並んでいた。しかも声は自分そのもの。\n犯人の手口は、YouTubeから声を抜いてRVCでクローンを作り、他人の曲にその声を被せて配信するという、極めて悪質な「アイデンティティの収益化」です。\n\nSIer時代にセキュリティ案件を数多く見てきましたが、これは音楽業界の「ゼロデイ脆弱性」を突いた攻撃と言えます。\n既存のContent ID（波形一致）では検知不能。配信代行サービスの審査もスルー。\nRTX 4090があれば誰でも30分で本人の声を再現できてしまう時代に、プラットフォームの保護体制が完全に時代遅れになっています。\n\nこれは対岸の火事ではありません。自分の「声」や「スタイル」が、寝ている間に誰かの集金マシンに変えられているかもしれない。\n技術の進化は素晴らしいですが、この「なりすまし経済」は断固として否定すべきです。\n\n皆さんは、自分のデジタルアイデンティティが盗用されたとき、今のプラットフォームが守ってくれると信じられますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-05-spotify-ai-fake-music-identity-theft-analysis.jpg",
+    "created_at": "2026-04-05T12:25:45.413988+09:00",
+    "posted": false
   }
 ]
