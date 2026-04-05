@@ -9619,5 +9619,33 @@
     "image_path": "/images/posts/2026-04-05-catbar-macos-revenuecat-revenue-tracker-review.jpg",
     "created_at": "2026-04-05T16:14:39.374405+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-05-openai-agi-deployment-boss-leave-impact-analysis",
+    "title": "OpenAIの「AGI実装」責任者が離脱、相次ぐ離職から読む開発遅延のリスク",
+    "url": "https://ai.negi-lab.com/posts/openai-agi-deployment-boss-leave-impact-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #生成AI",
+    "tweet_text": "OpenAIの「AGI実装」のキーマン、フィジ・シモ氏が突如の休暇。最近の同社、主要メンバーが抜けすぎていて正直言って異常事態です。\n\n元SIerの視点で見ると、プロジェクトの要であるPMOやデプロイ責任者が不在になる怖さは痛いほどわかります。特にo1（Strawberry）のような推論特化型モデルを、いかに社会や企業システムに「着地」させるかという難題の真っ只中での離脱。これは単なる休職ではなく、製品化ロードマップの停滞を意味します。\n\nGPT-4が出た時の衝撃は凄まじかったですが、今は「技術の凄さ」より「組織の危うさ」が勝っている印象。実務でAPIを使っている身としては、サポートの遅延やSLAの低下が一番の懸念点ですね。\n\n私は最近、メインの推論をClaude 3.5 Sonnetに移しつつ、ローカルでLlama 3.1を回してバックアップを固めています。皆さんは今のOpenAIの状況を見て、APIの移行やマルチモデル化、検討していますか？それとも「サム・アルトマンを信じてステイ」派でしょうか。現場のリアルな判断を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-05-openai-agi-deployment-boss-leave-impact-analysis.jpg",
+    "created_at": "2026-04-05T18:39:03.523339+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-05-tiny-aya-multilingual-llm-local-review",
+    "title": "Tiny Aya 使い方：101言語対応の超軽量モデルをローカルで動かす",
+    "url": "https://ai.negi-lab.com/posts/tiny-aya-multilingual-llm-local-review/",
+    "category": "TOOL",
+    "viral_tags": "#TinyAya #ローカルLLM",
+    "tweet_text": "ローカルLLMの「日本語力の壁」を壊すモデルがついに実用レベルに達しましたね。CohereのTiny Aya（Aya Expanse 8B等）をRTX 4090で回してみましたが、8Bクラスとは思えない日本語の滑らかさに驚いています。\n\nかつてSIerで多言語ログ解析を組んでいた頃、Llama系のトークナイザー効率の悪さや日本語の崩れに絶望していましたが、これは別物。101言語対応を謳うだけあって、日本語の微妙なニュアンスや敬語の使い分けも、4-bit量子化なしのFP16環境ならほぼ完璧にこなします。\n\n特筆すべきはトークナイザーの設計。日本語1文字あたりの消費トークンが少ないため、コンテキストウィンドウを有効活用できるのが実務上の大きな強みです。RAGの回答生成エンジンとしてローカルで運用するなら、現状これが最適解の一つではないでしょうか。\n\nただ、論理推論や複雑なコード生成については、流石に30B以上の巨大モデルやGPT-4oには及びません。用途を「翻訳・要約・対話」に絞れば、これほどコスパの良いモデルは他にない。\n\n皆さんはローカルLLMを選ぶ時、推論速度と日本語精度のどちらを優先していますか？実際の現場での判断基準が気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-05-tiny-aya-multilingual-llm-local-review.jpg",
+    "created_at": "2026-04-05T18:40:05.546794+09:00",
+    "posted": false
   }
 ]
