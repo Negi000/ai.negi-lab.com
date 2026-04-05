@@ -3153,19 +3153,6 @@
       "collected_at": "2026-04-06T00:05:00"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
-      "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 05 Apr 2026 15:40:58 +0000",
-      "summary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
-      "extra": {},
-      "collected_at": "2026-04-06T02:31:13"
-    },
-    {
       "source": "The Verge AI",
       "title": "Suno is a music copyright nightmare",
       "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
@@ -3246,7 +3233,89 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://deepmind.google/models/gemma/gemma-4/\">Gemma4</a> was relased by Google on April 2nd earlier this week and I wanted to see how it performs against Qwen3.5 for local agentic coding. This post is my notes on benchmarking the two model families. I ran two types of tests:</p> <ul> <li><strong>Standard llama-bench benchmarks</strong> for raw prefill and generation speed</li> <li><strong>Single-shot agentic coding tasks</strong> using <a href=\"https:/",
       "extra": {},
       "collected_at": "2026-04-06T02:31:26"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sun, 05 Apr 2026 18:51:37 +0000",
+      "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+      "extra": {},
+      "collected_at": "2026-04-06T06:42:30"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+      "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 05 Apr 2026 17:13:51 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-06T06:42:31"
+    },
+    {
+      "source": "Google News",
+      "title": "AI技術の発達で診療はどうなる？最新研究から見るAI汎用化時代の医療、家庭医にしかできない役割とは（Wedge（ウェッジ）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0td3h0NGVnNDlqMnA1c0lRZUliTm8xM1ZobGlVY3pqQUdNNGJSM3AzZ19vcUFPbW40LVNqdjl4UTBacUkxNlZpMlhrWEFoazNEaUZDaW16eXhsZ3pnZzJvUDVSRUFqcHhxekpYbDVvN3BNekxVTFd3UENKczJhV28?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 05 Apr 2026 20:24:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0td3h0NGVnNDlqMnA1c0lRZUliTm8xM1ZobGlVY3pqQUdNNGJSM3AzZ19vcUFPbW40LVNqdjl4UTBacUkxNlZpMlhrWEFoazNEaUZDaW16eXhsZ3pnZzJvUDVSRUFqcHhxekpYbDVvN3BNekxVTFd3UENKczJhV28?oc=5\" target=\"_blank\">AI技術の発達で診療はどうなる？最新研究から見るAI汎用化時代の医療、家庭医にしかできない役割とは（Wedge（ウェッジ））</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "extra": {},
+      "collected_at": "2026-04-06T06:42:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma 4 just casually destroyed every model on our leaderboard except Opus 4.6 and GPT-5.2. 31B params, $0.20/run",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sdcotc/gemma_4_just_casually_destroyed_every_model_on/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-05T19:30:02+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sdcotc/gemma_4_just_casually_destroyed_every_model_on/\"> <img alt=\"Gemma 4 just casually destroyed every model on our leaderboard except Opus 4.6 and GPT-5.2. 31B params, $0.20/run\" src=\"https://preview.redd.it/cg0ej8ee9ftg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3eda4a8a443fd522ee5dfe5c559d396afcb15645\" title=\"Gemma 4 just casually destroyed every model on our leaderboard except Opus 4.6 and GPT-5.2. 31B params, $",
+      "extra": {},
+      "collected_at": "2026-04-06T06:42:35"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sda3r6/realtime_ai_audiovideo_in_voice_out_on_an_m3_pro/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-05T17:49:35+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sda3r6/realtime_ai_audiovideo_in_voice_out_on_an_m3_pro/\"> <img alt=\"Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B\" src=\"https://external-preview.redd.it/bTdlMnJ2MHlzZXRnMVw0-9mlHJJCuGVz1fDctqTWn_Y7phjc873o_SWb_RO3.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d12f596b0eba6ff630021b719ffbbb9b925cf19\" title=\"Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B\" /> </a> </td><td> <!--",
+      "extra": {},
+      "collected_at": "2026-04-06T06:42:35"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "benchmarks of gemma4 and multiple others on Raspberry Pi5",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sdcdno/benchmarks_of_gemma4_and_multiple_others_on/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-05T19:17:48+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sdcdno/benchmarks_of_gemma4_and_multiple_others_on/\"> <img alt=\"benchmarks of gemma4 and multiple others on Raspberry Pi5\" src=\"https://preview.redd.it/n6is1n7d6ftg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=79393f5aa2d72975bfd8a0197e7122888154f210\" title=\"benchmarks of gemma4 and multiple others on Raspberry Pi5\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey all,</p> <p>this is an update! A few days ago I ",
+      "extra": {},
+      "collected_at": "2026-04-06T06:42:35"
     }
   ],
-  "updated_at": "2026-04-06T02:31:26.741430+09:00"
+  "updated_at": "2026-04-06T06:42:35.865696+09:00"
 }
