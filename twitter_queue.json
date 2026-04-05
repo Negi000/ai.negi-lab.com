@@ -9591,5 +9591,33 @@
     "image_path": "/images/posts/2026-04-05-c2pa-content-provenance-for-creators-survival.jpg",
     "created_at": "2026-04-05T14:21:20.360065+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-05-anthropic-bans-openclaw-claude-subscription-change",
+    "title": "Claude Proの外部ツール利用が禁止へ。Anthropicが打ち出したAPI強制移行の波紋",
+    "url": "https://ai.negi-lab.com/posts/anthropic-bans-openclaw-claude-subscription-change/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #Claude3",
+    "tweet_text": "Anthropicがついに牙を剥きましたね。4月4日からClaude Proのメッセージ枠をOpenClawなどの外部ツールで使うことが禁止されます。これ、開発者にとっては実質的な「Opus追放」に近い衝撃です。\n\nSIer時代から見てきた光景ですが、プラットフォームが力を持つと、真っ先にターゲットにされるのは自由なサードパーティUIなんですよね。公式WebUIの使い勝手が物足りないから外部ツールに頼っていたのに、その選択肢を奪って「外部で使いたければ高いAPI代を払え」という強硬姿勢には正直ガッカリです。\n\n特にOpusをAPIで運用すると、GPT-4 Turboより遥かに高くつきます。100万トークンで15ドル＋75ドルのコストを考えると、これまで月20ドルでぶん回していたユーザーは数倍の出費を覚悟しなければなりません。RTX 4090を並べてローカルLLMを動かしている身としては、やはり特定企業に依存するリスクを再認識させられました。\n\n今後はLlama 3のようなオープン系へ流れる人が増える予感がします。皆さんは今回の制限を受けて、Claudeを使い続けますか？それともAPIが安いGeminiやGPT-4oへ乗り換えますか？実際の運用コストの変化も含めて、現場のリアルな意見を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-05-anthropic-bans-openclaw-claude-subscription-change.jpg",
+    "created_at": "2026-04-05T16:12:59.277760+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-05-catbar-macos-revenuecat-revenue-tracker-review",
+    "title": "CatBar レビュー：RevenueCatの売上をmacOSメニューバーで常時監視する",
+    "url": "https://ai.negi-lab.com/posts/catbar-macos-revenuecat-revenue-tracker-review/",
+    "category": "TOOL",
+    "viral_tags": "#RevenueCat #個人開発",
+    "tweet_text": "SIer時代、売上の集計や可視化には莫大な工数とコストをかけていた。\n今はAPIキー1つあれば、Macのメニューバーが最強の経営ダッシュボードに変わる。\n\n最近試した「CatBar」が、RevenueCatユーザーのエンジニアには刺さりすぎる。\nブラウザを開く、スマホを手に取る。そんな「0.5秒の無駄」が開発の集中力をどれだけ削いでいたか。\nこのツールはそれをゼロにする。\n\n視界の端に「今、いくら稼いでいるか」が常にある。\nたったそれだけのことで、コードを書くモチベーションがここまで変わるとは思わなかった。\n\n数字で語るなら、セットアップは30秒。メモリ消費はわずか20MB程度。\n公式ダッシュボードの読み込みに3秒待っていた時間は、もう過去のものですね。\n多機能ではない。けれど「開発者に必要な情報だけがある」という引き算の設計が潔い。\n\nMacでアプリ開発してる人、売上確認はどうしてますか？\nブラウザ派？それとも通知派？\n他にもおすすめのメニューバー常駐ツールがあったら、ぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-05-catbar-macos-revenuecat-revenue-tracker-review.jpg",
+    "created_at": "2026-04-05T16:14:39.374405+09:00",
+    "posted": false
   }
 ]
