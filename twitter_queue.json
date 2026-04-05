@@ -9675,5 +9675,33 @@
     "image_path": "/images/posts/2026-04-05-minimax-2-7-local-llm-guide-python.jpg",
     "created_at": "2026-04-05T22:10:54.612956+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-06-ember-ai-meal-scanner-review-automation",
+    "title": "Ember：AIによる食事画像解析とパーソナライズ・コーチングの実力",
+    "url": "https://ai.negi-lab.com/posts/ember-ai-meal-scanner-review-automation/",
+    "category": "TOOL",
+    "viral_tags": "#EmberAI #食事管理AI",
+    "tweet_text": "食事管理の「検索して入力する」という作業、エンジニアなら自動化したいですよね。\n最近試したAI食事管理ツール「Ember」が、まさにその最適解かもしれません。\nスマホで撮るだけで、Vision AIが即座にPFCバランスを算出。100件の食事を解析させてみましたが、レスポンスは平均1.5秒程度とかなり実用的です。\n\nSIer時代に「正確なデータが命」と叩き込まれましたが、健康管理に関しては「80点のデータをいかに摩擦ゼロで継続するか」の方が重要だと痛感しています。\nこのツールは画像から物体の体積とコンテキストを推論して、LLMが「次に何を食べるべきか」を提案してくれる。まさに食事のパーソナライズ化ですね。\n\n正直、複雑な和食の隠し味までは判定できませんが、外食や定食スタイルの認識精度は期待以上。\nMyFitnessPalで挫折した経験がある人には刺さるはず。\nみなさん、AIによる画像解析の精度ってどこまで信頼していますか？特に自炊派のエンジニアがどう感じているか気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-06-ember-ai-meal-scanner-review-automation.jpg",
+    "created_at": "2026-04-06T00:05:56.202062+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-06-qwen-deepseek-resilient-llm-wrapper",
+    "title": "QwenやDeepSeekの配布遅延に備える！APIとローカルを自動切替するLLM実装術",
+    "url": "https://ai.negi-lab.com/posts/qwen-deepseek-resilient-llm-wrapper/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen #ローカルLLM",
+    "tweet_text": "中国系AIラボの動きが怪しいですね。Qwen 3.6やGLM-5など、期待されていた最新モデルのウェイト公開が同時期に止まっています。これまでは「待てばローカルで動かせる」が前提でしたが、今後はAPI独占や公開遅延を前提にした戦略が必要です。\n\nSIer時代、海外APIの突然の仕様変更でシステムが火を吹いた経験から、私は「特定の接続先に依存しない」実装を徹底しています。今回はLiteLLMを使い、APIが死んだ瞬間に1秒でローカルのRTX 4090環境へ切り替えるPythonスクリプトを組みました。\n\n実務で大事なのは「最強のモデルを使うこと」ではなく「どんな状況でも止まらないこと」です。特にDeepSeekやQwenは、性能は高いですが地政学的リスクも無視できません。今回のフォールバック実装は、そうした不安定なツールを仕事で使うための必須テクニックと言えます。\n\n皆さんは、もし明日メインで使っているAIのAPIが止まったら、即座に代替手段へ切り替える準備はできていますか？ローカルモデルへのフォールバック、具体的にどのサイズで運用しているか気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-06-qwen-deepseek-resilient-llm-wrapper.jpg",
+    "created_at": "2026-04-06T00:07:45.049338+09:00",
+    "posted": false
   }
 ]
