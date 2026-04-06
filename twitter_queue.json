@@ -9731,5 +9731,19 @@
     "image_path": "/images/posts/2026-04-06-microsoft-copilot-entertainment-purposes-only-tos-risk.jpg",
     "created_at": "2026-04-06T06:43:10.420945+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-06-japan-physical-ai-real-world-deployment-2026",
+    "title": "日本の労働力不足を「物理AI」が救う。2026年、日本が実験場から実装の最前線へ",
+    "url": "https://ai.negi-lab.com/posts/japan-physical-ai-real-world-deployment-2026/",
+    "category": "NEWS",
+    "viral_tags": "#物理AI #ロボティクス",
+    "tweet_text": "日本の「物理AI」が実証実験を終え、ついに現場での実戦配備フェーズに入ったというニュース。SIer時代、ミリ単位の座標指定に数週間かけていた苦労を知る身としては、LLMが自然言語で指示を受け取り、自律的に動く今の状況はまさに異次元。\n\n欧米が「AIによる失業」を恐れる一方で、日本は「埋まらない労働枠」を埋める救世主としてAIを歓迎している。この背景の違いが、日本の物理AI実装速度を世界最速に押し上げているのが興味深い。\n\n技術的にはVLA（Vision-Language-Action）モデルの進化が凄まじい。カメラ映像と指示から直接ロボットのトルク値を生成するエンドツーエンド学習。RTX 4090クラスのエッジ推論で0.05秒以下の低遅延を実現している点が、実務での決定打になっています。\n\n画面の中のチャットボットも面白いですが、物理世界をハックする「身体性AI」こそがエンジニアにとって次の主戦場になるはず。ROS 2やIsaac Simを触り始めるなら今しかない。\n\n皆さんは、物理AIが自分の生活に最初に入ってくるとしたら、どの分野だと思いますか？私は深夜のコンビニの品出しが真っ先に置き換わると見ています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-06-japan-physical-ai-real-world-deployment-2026.jpg",
+    "created_at": "2026-04-06T12:28:34.489713+09:00",
+    "posted": false
   }
 ]
