@@ -9843,5 +9843,33 @@
     "image_path": "/images/posts/2026-04-06-low-spec-pc-llm-llama-cpp-guide.jpg",
     "created_at": "2026-04-06T22:23:57.361755+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-07-epismo-context-pack-review-agent-memory",
+    "title": "Epismo Context Pack：エージェント間の記憶の持ち運びを標準化する新機軸",
+    "url": "https://ai.negi-lab.com/posts/epismo-context-pack-review-agent-memory/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python開発",
+    "tweet_text": "エージェントの「記憶」をUSBメモリ感覚で持ち運べるEpismo Context Pack、これマルチエージェント開発のゲームチェンジャーになるかも。\n\nSIer時代、環境移行で一番苦労したのがDB内のコンテキスト再現だったけど、これならファイル一つでエージェントの「知見」を別環境に移植できる。LangChainのMemory管理で「別のスクリプトにこの知見を渡すのが面倒」と感じていた層には刺さるはず。\n\n実際にローカルLLM環境で触ってみたけど、100件程度のコンテキストなら検索レスポンスは0.1秒以下。ベクトルDBを立てるほどじゃないけど、単純な履歴保存じゃ足りないプロジェクトに最適ですね。ただ、ドキュメントが英語のみなのと、数万件規模だとメモリ効率に課題が出そう。\n\n皆さんはエージェント間の記憶共有、どうやってますか？やっぱりRedis一択ですかね？それともPinecone等でガッツリ固めてますか？具体的な構成案があればぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-07-epismo-context-pack-review-agent-memory.jpg",
+    "created_at": "2026-04-07T00:27:52.749519+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-07-pokeclaw-android-gemma-local-ai-control",
+    "title": "Gemma 4をスマホで直接動かしてAndroidを操作する最強のローカルAI自動化ツール「PokeClaw」の使い方を解説します。",
+    "url": "https://ai.negi-lab.com/posts/pokeclaw-android-gemma-local-ai-control/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLM #AndroidAutomation",
+    "tweet_text": "クラウド不要。AndroidをAIが自律操作する時代が来ました。\n\nRedditで話題の「PokeClaw」をベースに、Gemma 4をローカルで動かしてスマホを自動操縦する環境を構築。\nSIer時代にAppiumのID指定で消耗していた自分に教えてあげたい…。\n\nこの手法のヤバいところは「画面を人間と同じように見て判断する」点。\nボタンのIDが変わろうが、レイアウトが崩れようが関係なし。\nしかも完全にローカル完結。画面キャプチャを1枚も外部に投げないから、社内のセキュリティポリシーも突破しやすい。\n\nRTX 4090環境ならレスポンス0.5秒前後。\n「Wi-Fiの設定をオフにして」「インスタで○○を検索して」程度の指示なら、もはやコードを書く必要すらありません。\nAIがスマホを触るというより、スマホの中に小さな人間が住んでいる感覚に近い。\n\nこれ、エッジ端末での自動操作やテスト自動化の現場を根底から変える予感がします。\n皆さんはスマホ操作をAIに任せるとしたら、まず何を自動化したいですか？\n私は真っ先に、あのクソ使いにくい勤怠入力アプリを攻略させました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-07-pokeclaw-android-gemma-local-ai-control.jpg",
+    "created_at": "2026-04-07T00:28:57.135080+09:00",
+    "posted": false
   }
 ]
