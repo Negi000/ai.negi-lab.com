@@ -9759,5 +9759,33 @@
     "image_path": "/images/posts/2026-04-06-suno-ai-music-copyright-nightmare-analysis.jpg",
     "created_at": "2026-04-06T14:33:03.310926+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-06-google-maps-gemini-integration-analysis",
+    "title": "GoogleマップのGemini統合が示す「検索」の終焉と実務への影響",
+    "url": "https://ai.negi-lab.com/posts/google-maps-gemini-integration-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleMaps #GeminiAI",
+    "tweet_text": "GoogleマップにGeminiが統合された。このニュース、単なる機能追加だと思ったら大間違いです。SIer時代に施設検索システムを組んでいた身からすると、震えるほどのパラダイムシフトが起きています。\n\nこれまでの地図は「場所を検索するツール」でしたが、これからは「意思決定を代行するエージェント」に進化します。\n「雨の日に10歳の子どもと3時間遊べる場所」\nこんな曖昧で複雑な条件に、Geminiが数億件のレビューをリアルタイムで解析して結論を出してしまう。\n\n技術的には、Googleが持つ世界最強のPOI（地点情報）データとLLMが直結した「究極のRAG」と言えます。SearchGPTやApple Mapsが束になっても、このデータ鮮度と密度には勝てないでしょう。\n\n正直、これまでのMEO（マップ検索最適化）のセオリーは崩壊します。キーワードを埋め込むだけの作業はもう無意味。AIが「文脈」を理解する以上、店舗側は「どんな体験を提供しているか」をデータとレビューで証明し続ける必要があります。\n\n皆さんは、AIが勝手に目的地を決める世界に抵抗はありますか？それとも、面倒な店探しから解放されることを歓迎しますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-06-google-maps-gemini-integration-analysis.jpg",
+    "created_at": "2026-04-06T16:49:56.234165+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-06-glassbrain-ai-trace-replay-review",
+    "title": "Glassbrain 使い方と実機レビュー：AIアプリのトレースからプロンプト修正までをシミュレート",
+    "url": "https://ai.negi-lab.com/posts/glassbrain-ai-trace-replay-review/",
+    "category": "TOOL",
+    "viral_tags": "#Glassbrain #LLMOps",
+    "tweet_text": "AIアプリの開発中「なぜここでこの回答が出た？」と数時間ログを漁った経験、エンジニアなら誰でもあるはず。Glassbrainを触ってみましたが、これはいわばLLM推論の「タイムマシン」ですね。\n\nSIer時代に分散システムのデバッグで苦労した身からすると、トレースをビデオのように見返せるのは衝撃的。特にヤバいのが、Web UI上でそのままプロンプトを書き換えて「もしこう修正してたら？」を1クリックでシミュレーションできる機能。コード書き換え→デプロイの無駄な往復が消えます。\n\nLangChainやLlamaIndexで多段Chainを組むと一気にブラックボックス化しますが、SDKでラップするだけで中身が丸見えになる。レスポンスのオーバーヘッドも0.2秒程度で、開発中のストレスは皆無でした。\n\nただ、SaaS型なので社外にプロンプトを投げられない案件には不向き。データプライバシーに厳しい現場だと導入ハードルは高そうです。\n\n皆さんはLLMアプリのデバッグ、LangSmith派ですか？それとも自前でログ基盤組んでますか？この手のツールの「本番投入基準」ってどこに置いてますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-06-glassbrain-ai-trace-replay-review.jpg",
+    "created_at": "2026-04-06T16:50:59.293272+09:00",
+    "posted": false
   }
 ]

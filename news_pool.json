@@ -1,72 +1,6 @@
 {
   "items": [
     {
-      "source": "r/MachineLearning",
-      "title": "[D] Self-Promotion Thread",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rihows/d_selfpromotion_thread/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-03-02T03:15:30+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your personal projects, startups, product placements, collaboration needs, blogs etc.</p> <p>Please mention the payment and pricing requirements for products and services.</p> <p>Please do not post link shorteners, link aggregator websites , or auto-subscribe links.</p> <p>--</p> <p>Any abuse of trust will lead to bans.</p> <p>Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so kee",
-      "extra": {},
-      "collected_at": "2026-03-30T16:47:28"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "MulmoChat",
-      "url": "https://www.producthunt.com/products/mulmochat",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Modular Interface for visually interactive AI responses </p> <p> <a href=\"https://www.producthunt.com/products/mulmochat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1109660?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-30T16:47:28"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "VibeTalent",
-      "url": "https://www.producthunt.com/products/vibetalent",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Find vibe coders who actually ship </p> <p> <a href=\"https://www.producthunt.com/products/vibetalent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1111061?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-30T16:47:28"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Letterbook",
-      "url": "https://www.producthunt.com/products/letterbook",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI support platform built for founders </p> <p> <a href=\"https://www.producthunt.com/products/letterbook?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107385?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-30T16:47:28"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Autoresearch on Qwen3.5-397B, 36 experiments to reach 20.34 tok/s on M5 Max, honest results",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7g8ov/autoresearch_on_qwen35397b_36_experiments_to/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-03-30T04:01:40+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I spent the past week trying to push Qwen3.5-397B faster on my M5 Max 128GB. Dan Woods' (@danveloper) original baseline was 4.36 tok/s on M3 Max. On M5 Max the starting point was already 10.61 tok/s due to better hardware. My optimizations pushed it to 20.34 tok/s, roughly 2x through software alone, and 4.67x over Dan's original result.</p> <p><strong>Hardware:</strong> MacBook Pro M5 Max, 128GB unified memory, 40-Core GPU</p> <p><strong>Model config:</strong> Q",
-      "extra": {},
-      "collected_at": "2026-03-30T16:47:31"
-    },
-    {
       "source": "Product Hunt",
       "title": "Invoke",
       "url": "https://www.producthunt.com/products/invoke-studio",
@@ -2894,20 +2828,6 @@
       "collected_at": "2026-04-06T00:05:00"
     },
     {
-      "source": "The Verge AI",
-      "title": "Suno is a music copyright nightmare",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-05T12:00:00-04:00",
-      "summary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other people's songs and lyrics. Now, no system is perfect, but it turns [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-06T02:31:13"
-    },
-    {
       "source": "HN AI Hot",
       "title": "A Claude Code skill that makes Claude talk like a caveman, cutting token use",
       "url": "https://github.com/JuliusBrussee/caveman",
@@ -3096,7 +3016,72 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sdnw7l/i_technically_got_an_llm_running_locally_on_a/\"> <img alt=\"I technically got an LLM running locally on a 1998 iMac G3 with 32 MB of RAM\" src=\"https://preview.redd.it/p4vfca76qhtg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61ad2f7bef661f9355f7944e57336b922127deb7\" title=\"I technically got an LLM running locally on a 1998 iMac G3 with 32 MB of RAM\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hardware:</p",
       "extra": {},
       "collected_at": "2026-04-06T14:32:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Glassbrain",
+      "url": "https://www.producthunt.com/products/glassbrain",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Visual trace replay for AI apps to fix bugs in one click </p> <p> <a href=\"https://www.producthunt.com/products/glassbrain?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1116610?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-06T16:49:22"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "PixVerse V6",
+      "url": "https://www.producthunt.com/products/pixverse",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Frontier Al Products Redefining Video Intelligence </p> <p> <a href=\"https://www.producthunt.com/products/pixverse?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1112522?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-06T16:49:22"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "HyperCap",
+      "url": "https://www.producthunt.com/products/hypercap-reclaim-your-keyboard",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Remap Caps Lock to a hyperkey, just hold it + any key </p> <p> <a href=\"https://www.producthunt.com/products/hypercap-reclaim-your-keyboard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1116123?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-06T16:49:22"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ogoron",
+      "url": "https://www.producthunt.com/products/ogoron",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your best QA team — 9x faster, 20х cheaper </p> <p> <a href=\"https://www.producthunt.com/products/ogoron?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1116607?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-06T16:49:22"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.5-4B GGUF quants comparison (KLD vs speed) - Lunar Lake",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sdqn13/qwen354b_gguf_quants_comparison_kld_vs_speed/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-06T06:04:00+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sdqn13/qwen354b_gguf_quants_comparison_kld_vs_speed/\"> <img alt=\"Qwen3.5-4B GGUF quants comparison (KLD vs speed) - Lunar Lake\" src=\"https://preview.redd.it/ez7e5lj5fitg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b76409be46e88470469994991502a17b95793473\" title=\"Qwen3.5-4B GGUF quants comparison (KLD vs speed) - Lunar Lake\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I wanted to know which type of quant is the ",
+      "extra": {},
+      "collected_at": "2026-04-06T16:49:25"
     }
   ],
-  "updated_at": "2026-04-06T14:32:34.919077+09:00"
+  "updated_at": "2026-04-06T16:49:25.340930+09:00"
 }
