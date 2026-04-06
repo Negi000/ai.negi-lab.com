@@ -9871,5 +9871,33 @@
     "image_path": "/images/posts/2026-04-07-pokeclaw-android-gemma-local-ai-control.jpg",
     "created_at": "2026-04-07T00:28:57.135080+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-07-openai-vision-ai-economy-robot-tax-four-day-work-week",
+    "title": "OpenAIの経済ビジョン：ロボット税と週休3日が現実味を帯びる理由",
+    "url": "https://ai.negi-lab.com/posts/openai-vision-ai-economy-robot-tax-four-day-work-week/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #AI経済",
+    "tweet_text": "OpenAIが発表した「AI経済ビジョン」の内容が、もはや一企業の域を超えて国家の再設計レベルで衝撃的です。\n\n単なる技術発表ではなく、AI利益への課税（ロボット税）、国民富裕基金による富の再分配、さらには週休3日制の義務化まで提言しています。\n\nSIer時代、ひたすらExcelと格闘していた頃の私に「AIが稼いだ金で週休3日が来るかもよ」と言っても信じなかったでしょうね。でも、これは決して空想ではありません。GPT-4oが実務を奪い始めた今、教育だけで解決できない格差への「本気の出口戦略」に見えます。\n\nただ、気になるのはAPIコストへの影響。\nAI増税分が利用料に転嫁されれば、開発者のコスト構造が激変します。だからこそ、私はRTX 4090を2枚挿してローカルLLMを検証し続けています。中央集権的なAIに財布も仕事も握られるのはリスクでしかない。\n\n皆さんは、AIがもたらす「週休3日」は、本当に人間を幸せにすると思いますか？あるいは、ただの飼い慣らしの始まりでしょうか。エンジニアとして、この再分配モデルに賛成か反対か、率直な意見を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-07-openai-vision-ai-economy-robot-tax-four-day-work-week.jpg",
+    "created_at": "2026-04-07T02:45:20.020017+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-07-moonshot-mac-artemis-ii-tracking-review",
+    "title": "Moonshot MacでArtemis IIミッションの全貌をリアルタイムに監視する",
+    "url": "https://ai.negi-lab.com/posts/moonshot-mac-artemis-ii-tracking-review/",
+    "category": "TOOL",
+    "viral_tags": "#ArtemisII #MacApps",
+    "tweet_text": "宇宙開発のデータ視覚化、ここまで来たか。\nNASAのArtemis IIミッションをMacでリアルタイム監視できる「Moonshot」が、エンジニア的にかなりツボにハマる作り。\n\n元SIerの視点で言うと、この手のツールは「NASA Eyes」みたいなブラウザベースが主流だったけど、動作が重いのがネックだった。MoonshotはMacネイティブかつMetal API最適化で、メモリ消費わずか45MB。4090でLLM回しながら横目でミッションを追える。\n\n中身はJPLのHorizons APIを叩いて、10秒に1回ポーリング。滑らかなスプライン補完で軌道を描画してる。単なる「動く壁紙」じゃなく、次のマヌーバ（軌道修正）までのカウントダウンを表示するあたりの「分かってる感」がすごい。\n\n言語は英語のみ、ターゲットもArtemis II限定。でも、その尖り方がいい。\nミッション開始後、テレメトリデータが暴れ出すのをMacのメニューバーで眺める。\nこれ、宇宙好きのエンジニアなら共感してくれるはず。\n\nみんな、月探査のデータ追う時ってどのツール使ってる？\nやっぱり公式の生データをPythonでこねる派？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-07-moonshot-mac-artemis-ii-tracking-review.jpg",
+    "created_at": "2026-04-07T02:46:27.081589+09:00",
+    "posted": false
   }
 ]
