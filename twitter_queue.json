@@ -9787,5 +9787,33 @@
     "image_path": "/images/posts/2026-04-06-glassbrain-ai-trace-replay-review.jpg",
     "created_at": "2026-04-06T16:50:59.293272+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-06-grammarly-ai-sloppelganger-identity-crisis",
+    "title": "GrammarlyのAI化が招いた「文章の画一化」とツールとしてのアイデンティティ喪失の危機",
+    "url": "https://ai.negi-lab.com/posts/grammarly-ai-sloppelganger-identity-crisis/",
+    "category": "NEWS",
+    "viral_tags": "#Grammarly #生成AI",
+    "tweet_text": "Grammarlyが「間違いを直すツール」から「個性を消すAI生成機」へと変貌している現状に、強い危機感を抱いています。\n\n元SIerとして長年愛用してきましたが、最近のアップデートは度が過ぎている。ボタン一つで文章を洗練させてくれるのは一見便利ですが、その代償として世界中のビジネス文書が同じトーンの「AI臭い文章（Slop）」に収束しつつあります。The Vergeが報じた「sloppelganger」という言葉は、まさに今のAIツールの病理を突いています。\n\n技術的にはGPT-4等のLLM統合による進化ですが、開発者目線ではSDKの廃止や囲い込みなど、使い勝手が悪化している側面も見逃せません。正直、最近はClaude 3.5 Sonnetに「自分の文体を守って校正して」と指示を出す方が、はるかに人間味のある、かつ正確な英文が書けます。\n\nツールに思考をアウトソースし続けた先に、書き手の価値は残るのでしょうか。AI全盛の今だからこそ、あえて「AIの提案を断る」勇気が必要だと感じています。\n\n皆さんはGrammarlyのAI提案、そのまま受け入れていますか？それとも「自分らしさ」を守るために何か工夫をしていますか？実際の使用感や、乗り換え先の実情などぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-06-grammarly-ai-sloppelganger-identity-crisis.jpg",
+    "created_at": "2026-04-06T19:09:51.286659+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-06-agentpulse-rectify-openclaw-review-guide",
+    "title": "AgentPulse by Rectify：OpenClawを可視化しエージェント運用を効率化する",
+    "url": "https://ai.negi-lab.com/posts/agentpulse-rectify-openclaw-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#AgentPulse #OpenClaw",
+    "tweet_text": "AIエージェント開発をしていて「裏で何が起きてるか分からん！」と叫びたくなったことはありませんか？私はSIer時代、複雑なシステムのログを追うのが一番の苦痛でしたが、自律型AI（OpenClaw）でも同じ問題が起きています。\n\n今回検証した「AgentPulse by Rectify」は、このブラックボックス問題を解決する決定打になるかもしれません。実際にRTX 4090環境でOpenClawを走らせて連携させてみましたが、エージェントの「思考・ツール使用・結果」がリアルタイムで美しいフローに変換される快感はすごいです。\n\n正直、個人開発ならCLIで十分。でも、チームで開発したり、クライアントに「今AIが何してるか」を説明したりする立場なら、この可視化ツールがないと事故ります。トークン消費の可視化も地味に助かる。\n\nただ、OpenClaw特化型なので、CrewAIやLangGraph派の人は要注意。特定フレームワークに全振りする勇気は必要ですが、代理店が実務で使うなら強力な武器になります。\n\nAIエージェントのデバッグ、皆さんはどうやってますか？やっぱりPrintデバッグで気合？それともLangSmith派？実際の現場での苦労話、ぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-06-agentpulse-rectify-openclaw-review-guide.jpg",
+    "created_at": "2026-04-06T19:10:54.227815+09:00",
+    "posted": false
   }
 ]
