@@ -2,58 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "Invoke",
-      "url": "https://www.producthunt.com/products/invoke-studio",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Agentic coding IDE with visual planning boards and canvas </p> <p> <a href=\"https://www.producthunt.com/products/invoke-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1108948?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-30T19:16:48"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Streva",
-      "url": "https://www.producthunt.com/products/streva",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Instant Translation, Anywhere you type </p> <p> <a href=\"https://www.producthunt.com/products/streva?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1107927?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-30T19:16:48"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Bluor AI",
-      "url": "https://www.producthunt.com/products/bluor-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Beautiful emails, in seconds </p> <p> <a href=\"https://www.producthunt.com/products/bluor-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1110208?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-03-30T19:16:48"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "kernel-anvil: 2x decode speedup on AMD by auto-tuning llama.cpp kernels per model shape",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s7jfh2/kernelanvil_2x_decode_speedup_on_amd_by/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-03-30T07:02:37+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Built a tool that profiles your GGUF model's layer shapes on your AMD GPU and generates optimal kernel configs that llama.cpp loads at runtime. No recompilation needed.</p> <p><strong>The problem:</strong> llama.cpp's MMVQ kernels use the same thread/block configuration for every layer regardless of shape. A 1024-row GQA projection gets the same settings as a 17408-row FFN layer. This leaves significant performance on the table, especially on RDNA3.</p> <p><stro",
-      "extra": {},
-      "collected_at": "2026-03-30T19:16:51"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Git Blog",
       "url": "https://www.producthunt.com/products/git-blog",
       "primary_category": "TOOL",
@@ -2689,19 +2637,6 @@
       "collected_at": "2026-04-05T18:38:20"
     },
     {
-      "source": "The Verge AI",
-      "title": "Grammarly’s sloppelganger saga",
-      "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-05T08:00:00-04:00",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Most people probably know Grammarly for its browser [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-05T22:08:36"
-    },
-    {
       "source": "VentureBeat AI",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
@@ -3058,19 +2993,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "AgentPulse by Rectify",
-      "url": "https://www.producthunt.com/products/rectify",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> All of OpenClaw, visually. For teams and agencies. </p> <p> <a href=\"https://www.producthunt.com/products/rectify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1115294?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-06T19:09:13"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Metoro",
       "url": "https://www.producthunt.com/products/metoro",
       "primary_category": "TOOL",
@@ -3096,7 +3018,118 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just by way of background: I am from the Midwest but I’m lawyer in South Carolina (and I am actually preparing for a trial next week and should be asleep). Have had my own Law firm for 11 years now. </p> <p>About 4 months ago Claude code did some things that were pretty powerful and scared the shit out of me. Since then I’ve probably wasted more time than I gained, but I have been successful in automating a lot of low level paralegal type tasks, and have learned",
       "extra": {},
       "collected_at": "2026-04-06T19:09:16"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
+      "url": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 06 Apr 2026 13:00:00 +0000",
+      "summary": "The company is also announcing a deal with L3Harris to build the sensors for Xoople's spacecraft.",
+      "extra": {},
+      "collected_at": "2026-04-06T22:21:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "KREV",
+      "url": "https://www.producthunt.com/products/krev",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI creative agents for ecommerce brands </p> <p> <a href=\"https://www.producthunt.com/products/krev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1114854?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-06T22:21:32"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Moonshot",
+      "url": "https://www.producthunt.com/products/moonshot-13",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Track the Artemis II mission from your Mac </p> <p> <a href=\"https://www.producthunt.com/products/moonshot-13?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1116465?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-06T22:21:32"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Epismo Context Pack",
+      "url": "https://www.producthunt.com/products/epismo",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Portable memory for agent workflows </p> <p> <a href=\"https://www.producthunt.com/products/epismo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1116449?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-06T22:21:32"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "donnemartin/system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "extra": {
+        "stars_today": "174 stars today"
+      },
+      "collected_at": "2026-04-06T22:21:35"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The Free Software Media System - Server Backend & API",
+      "extra": {
+        "stars_today": "36 stars today"
+      },
+      "collected_at": "2026-04-06T22:21:35"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "[PokeClaw] First working app that uses Gemma 4 to autonomously control an Android phone. Fully on-device, no cloud.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sdv3lo/pokeclaw_first_working_app_that_uses_gemma_4_to/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-06T10:31:42+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sdv3lo/pokeclaw_first_working_app_that_uses_gemma_4_to/\"> <img alt=\"[PokeClaw] First working app that uses Gemma 4 to autonomously control an Android phone. Fully on-device, no cloud.\" src=\"https://preview.redd.it/56hbny8rrjtg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=26d91255bcdd942aea5255c7d3ac259db5bebf23\" title=\"[PokeClaw] First working app that uses Gemma 4 to autonomously control an Android phone. Fully on-devi",
+      "extra": {},
+      "collected_at": "2026-04-06T22:21:35"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Tested how OpenCode Works with SelfHosted LLMS: Qwen 3.5 & 3.6, Gemma 4, Nemotron 3, GLM-4.7 Flash...",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sduazd/tested_how_opencode_works_with_selfhosted_llms/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-06T09:46:17+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sduazd/tested_how_opencode_works_with_selfhosted_llms/\"> <img alt=\"Tested how OpenCode Works with SelfHosted LLMS: Qwen 3.5 &amp; 3.6, Gemma 4, Nemotron 3, GLM-4.7 Flash...\" src=\"https://preview.redd.it/gdrou1bmdjtg1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=d10f99901c6d6d8ac777ebfdb98fa97ee4d8e937\" title=\"Tested how OpenCode Works with SelfHosted LLMS: Qwen 3.5 &amp; 3.6, Gemma 4, Nemotron 3, GLM-4",
+      "extra": {},
+      "collected_at": "2026-04-06T22:21:35"
     }
   ],
-  "updated_at": "2026-04-06T19:09:16.650884+09:00"
+  "updated_at": "2026-04-06T22:21:35.832371+09:00"
 }
