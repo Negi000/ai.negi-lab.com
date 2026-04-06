@@ -9899,5 +9899,19 @@
     "image_path": "/images/posts/2026-04-07-moonshot-mac-artemis-ii-tracking-review.jpg",
     "created_at": "2026-04-07T02:46:27.081589+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-07-google-offline-ai-dictation-gemma-ios",
+    "title": "GoogleがiOS向けに公開したオフラインAI音声入力アプリが示す「クラウド脱却」の衝撃",
+    "url": "https://ai.negi-lab.com/posts/google-offline-ai-dictation-gemma-ios/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleAI #GemmaAI",
+    "tweet_text": "GoogleがiOS向けに「オフライン専用」のAI音声入力アプリを密かにリリースしました。これ、実はとんでもないパラダイムシフトです。\n\nSIer時代、現場から「AIは使いたいけど、音声データをクラウドに送るのはNG」と何度言われたことか…。あの時の絶望的な壁が、ついに崩れました。\n\n中身はGoogleの軽量LLM「Gemma」。iPhone内部のチップだけで音声を認識し、フィラー除去や要約まで完結させます。通信ゼロなのでラグも皆無。実際に使うと、クラウド経由の遅延がどれほどストレスだったか痛感しますね。\n\n先行するWispr Flowが月額12ドル〜なのに対し、Googleはこれを無料でぶつけてきました。AIの主導権争いは「モデルの大きさ」から「エッジでの最適化」へ完全に移行しています。\n\nこれからは「セキュリティでAIが使えない」という言い訳が通用しなくなります。開発者の皆さんは、MediaPipe LLM Inference APIのチェックは必須。\n\n皆さんの周りでも、オフラインならAIを導入できるっていう現場、結構ありませんか？特に医療や金融系の方、この速度感どう感じます？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-07-google-offline-ai-dictation-gemma-ios.jpg",
+    "created_at": "2026-04-07T06:48:49.513258+09:00",
+    "posted": false
   }
 ]
