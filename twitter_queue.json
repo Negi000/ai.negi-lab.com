@@ -9997,5 +9997,33 @@
     "image_path": "/images/posts/2026-04-07-netflix-playground-interactive-ux-review-tech.jpg",
     "created_at": "2026-04-07T19:09:16.382484+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-07-video-commander-ide-ffmpeg-review",
+    "title": "Video Commander 使い方とビデオエンジニア向け実戦レビュー",
+    "url": "https://ai.negi-lab.com/posts/video-commander-ide-ffmpeg-review/",
+    "category": "TOOL",
+    "viral_tags": "#VideoCommander #FFmpeg",
+    "tweet_text": "FFmpegの `-filter_complex` と格闘して日が暮れる経験、ビデオエンジニアなら誰しもありますよね。そんな苦行から解放してくれる「Video Commander」を徹底検証しました。\n\n元SIerで動画案件を回してきた私から見て、これは単なるラッパーではなく、ビデオ処理の「開発体験」を根底から変えるIDEです。各処理をノードとして可視化し、Pythonで制御できる構造は、保守性の面で圧倒的なアドバンテージがあります。\n\nRTX 4090 2枚挿しの環境で負荷をかけましたが、ハードウェアアクセラレーションの最適化が優秀で、複数解像度の同時エンコードも破綻なくこなせます。VMAFによる画質評価もパイプラインに組み込めるので、品質管理の自動化も現実的。\n\nただ、FFmpegの深い知識が不要になるわけではなく、むしろ「知識がある人がより速く動くため」のツールです。万人向けではないですが、動画配信基盤を組む人にはこれ以上ない武器になるはず。\n\nみなさんは、動画処理パイプラインのデバッグで一番苦労しているポイントは何ですか？私はいつも色空間の変換ミスで数時間を溶かしています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-07-video-commander-ide-ffmpeg-review.jpg",
+    "created_at": "2026-04-07T22:28:51.423003+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-07-gemma-2-mtp-inference-acceleration-guide",
+    "title": "Gemma 2の隠し機能「MTP」を使い倒す！推論を高速化させる実装ガイド",
+    "url": "https://ai.negi-lab.com/posts/gemma-2-mtp-inference-acceleration-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Gemma2 #LocalLLM",
+    "tweet_text": "Gemma 2の内部構造を解析していたら、Metaの論文で話題になった「MTP（Multi-Token Prediction）」のヘッドが密かに実装されているのを見つけて驚きました。これ、もっと騒がれていいレベルの発見です。\n\n従来のLLMは1トークンずつ律儀に予測していましたが、MTPは1回の計算で数トークン先まで同時に予測します。つまり、ドラフトモデルを別に用意しなくても、モデル単体で「自己投機的デコード」ができるポテンシャルを秘めているということ。\n\nSIer時代、推論の遅さをカバーするために必死に並列化を組んでいた苦労が、今やモデル内部の構造一つで解決しようとしています。RTX 4090で回してみましたが、特定の条件下では目に見えて推論の「キレ」が変わります。\n\nただ、標準のTransformersだとまだこのヘッドを100%引き出せる状態ではないので、自前でフックをかける必要があります。具体的なレイヤーの特定方法と、推論をブーストさせるための実装手順をまとめました。\n\nローカルLLMを仕事で使っている人、この隠し機能を放置しておくのはもったいないですよ。実際のところ、みなさんの環境でMTPの恩恵、感じてますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-07-gemma-2-mtp-inference-acceleration-guide.jpg",
+    "created_at": "2026-04-07T22:30:09.374537+09:00",
+    "posted": false
   }
 ]
