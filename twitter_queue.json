@@ -10053,5 +10053,19 @@
     "image_path": "/images/posts/2026-04-08-gemma-4-local-finetune-8gb-vram-guide.jpg",
     "created_at": "2026-04-08T01:03:18.625965+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-08-uber-aws-ai-chip-trainium-inferentia-migration",
+    "title": "UberがGoogleを捨てAWS独自チップを選んだ技術的必然性",
+    "url": "https://ai.negi-lab.com/posts/uber-aws-ai-chip-trainium-inferentia-migration/",
+    "category": "NEWS",
+    "viral_tags": "#AWS #Uber",
+    "tweet_text": "UberがGoogleとOracleを切り捨て、AWSの独自AIチップ「Trainium/Inferentia」に全面移行するという衝撃のニュース。\n\nこれは単なるクラウドの乗り換えじゃありません。NVIDIA一強だったAIインフラのパワーバランスが完全に崩れた瞬間です。SIer時代から多くの移行を見てきましたが、これほど「経済合理性」が剥き出しになった決断は珍しい。\n\nUberのような秒間数百万回の推論を回す企業にとって、NVIDIAのGPUはもう「高嶺の花」どころか「経営を圧迫するコスト」なんです。\n今回、AWSが勝った理由は3つ：\n・自社製チップによる圧倒的なTCOの低さ\n・Neuron SDKの成熟による「CUDA離れ」の容易さ\n・Nitro基盤による仮想化オーバーヘッドの少なさ\n\nRTX 4090を2枚挿してる私個人としてはNVIDIA推しですが、ビジネスの現場では「1ドルで何回マッチングできるか」が全て。\n\n今後3ヶ月で、他のテックジャイアントも追随するのは間違いありません。開発者の皆さんは、今すぐAWS Neuron SDKのドキュメントを読み込んでおくべきです。CUDAの知識だけでは生き残れない時代が、もうそこまで来ています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-08-uber-aws-ai-chip-trainium-inferentia-migration.jpg",
+    "created_at": "2026-04-08T02:59:22.095443+09:00",
+    "posted": false
   }
 ]
