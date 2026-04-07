@@ -9941,5 +9941,33 @@
     "image_path": "/images/posts/2026-04-07-iran-threatens-stargate-ai-data-center-risk.jpg",
     "created_at": "2026-04-07T14:19:55.067352+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-07-rocket-ai-mckinsey-consulting-automation-review",
+    "title": "AIスタートアップRocketがマッキンゼーを代替？戦略・競合分析の実務性能を検証",
+    "url": "https://ai.negi-lab.com/posts/rocket-ai-mckinsey-consulting-automation-review/",
+    "category": "NEWS",
+    "viral_tags": "#RocketAI #AIコンサル",
+    "tweet_text": "マッキンゼー級の戦略レポートが数分の一のコストで手に入る。インドのスタートアップRocketが放った「AI戦略コンサル」の衝撃がすごいです。\n\nSIer時代、数週間かけて作っていた市場分析やプロダクトのロードマップ。あれが15分で、しかも論理検証まで済んだ状態で出てくる時代になりました。\n\nこれ、単なる「文章生成」じゃないんです。\n・最新の市場データをリアルタイムでRAG\n・MECEに基づいた論理整合性のチェック\n・戦略から即、開発用のPRD（製品要求仕様書）へ変換\n\nまさに、コード生成の次にある「ビジネスロジックの自動化」ですね。高学歴な若者が徹夜で作るスライドの8割は、もうAIでいい。\n\n「AIに仕事が奪われる」なんて抽象的な話ではなく、具体的に「コンサルの定型業務」からコモディティ化が始まっています。RTX 4090を回してローカルLLMを検証している身としても、この「専門特化型エージェント」の進化スピードには危機感すら覚えます。\n\n皆さんの現場では、戦略策定や資料作成にどれくらいの工数をかけていますか？「AI製レポート」を役員会に出せる日は、もうすぐそこまで来ている気がします。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-07-rocket-ai-mckinsey-consulting-automation-review.jpg",
+    "created_at": "2026-04-07T16:24:52.485077+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-07-highlight-studio-review-metal-screen-recording",
+    "title": "Highlight Studio レビュー：MacのGPU性能をフル活用したエンジニア向け画面録画の決定版",
+    "url": "https://ai.negi-lab.com/posts/highlight-studio-review-metal-screen-recording/",
+    "category": "TOOL",
+    "viral_tags": "#HighlightStudio #生産性向上",
+    "tweet_text": "SIer時代のマニュアル作成、あの苦行を思い出すと今の環境は天国ですね。特に画面録画。\n\n最近試した「Highlight Studio」が、Macエンジニアのワークフローを激変させるレベルでした。これ、ただの録画ツールじゃない。Metal APIをフル活用してるから、ローカルLLMをぶん回しながら4K録画してもCPUが全然悲鳴を上げないんです。\n\n一番衝撃だったのは、録画が終わった瞬間に「プロっぽい動画」が完成していること。パディング、角丸、ブランドカラーの背景、滑らかなズーム。これらをPremiere Proでやってたら1時間は溶けますが、Highlightなら0秒。まさに「動画編集をコードを書く時間に戻す」ためのツール。\n\nMac（Apple Silicon）専用なのが唯一の欠点だけど、逆にその分、OSとの親和性が異常に高い。ScreenCaptureKitをここまで使いこなしているツールは珍しいです。\n\nデモ動画や技術発信で「録画→編集→書き出し」のループに疲弊している人、これに変えるだけで開発効率バグりませんか？実際、みなさん録画後の編集にどれくらい時間使ってます？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-07-highlight-studio-review-metal-screen-recording.jpg",
+    "created_at": "2026-04-07T16:26:39.283260+09:00",
+    "posted": false
   }
 ]
