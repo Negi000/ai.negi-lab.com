@@ -9969,5 +9969,33 @@
     "image_path": "/images/posts/2026-04-07-highlight-studio-review-metal-screen-recording.jpg",
     "created_at": "2026-04-07T16:26:39.283260+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-07-openai-stargate-iran-threat-geopolitical-risk",
+    "title": "OpenAIの巨大拠点「Stargate」がイランの標的に。15兆円規模のAIインフラが抱える地政学的リスク",
+    "url": "https://ai.negi-lab.com/posts/openai-stargate-iran-threat-geopolitical-risk/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #Stargate #地政学リスク",
+    "tweet_text": "OpenAIが進める15兆円規模の巨大プロジェクト「Stargate」が、イラン革命防衛隊の標的として名指しされました。これ、単なるニュースじゃなくて「AIの物理的リスク」が完全にフェーズを変えた瞬間です。\n\nSIer時代、データセンターの冗長化には命を削ってきましたが、5ギガワット級の拠点を一箇所に固める戦略は、地政学的に見れば「巨大な急所」を自ら晒しているようなもの。もしこの拠点が物理的に叩かれたら、依存している全世界のAPIが止まる可能性があります。\n\n計算資源の集中は学習効率を上げますが、同時に物理的な単一障害点（SPOF）を生みます。これからのエンジニアは、コードの最適化だけでなく「クラウドプロバイダーがミサイルで撃たれたらどうするか」というレベルのDR（災害復旧）を考えなきゃいけない時代になるかもしれません。\n\n私は怖くなって、改めてローカルLLM環境の強化を決めました。皆さんは、自社サービスが特定のリージョンに100%依存している現状をどう考えていますか？物理的な破壊リスクまで想定に入れていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-07-openai-stargate-iran-threat-geopolitical-risk.jpg",
+    "created_at": "2026-04-07T19:07:41.672237+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-07-netflix-playground-interactive-ux-review-tech",
+    "title": "Netflix Playground 使い方と子供向けインタラクティブ体験の技術的価値をレビュー",
+    "url": "https://ai.negi-lab.com/posts/netflix-playground-interactive-ux-review-tech/",
+    "category": "TOOL",
+    "viral_tags": "#NetflixPlayground #インタラクティブ動画",
+    "tweet_text": "Netflix Playgroundをエンジニアの視点で深掘りしてみた。\nただの子供向けミニゲームだと思ったら、その裏側の「インタラクティブ・ストリーミング技術」が異次元。\n\n動画視聴を「受動」から「能動」に変えるこの体験、実は開発者にとっても学びの宝庫です。\n特に驚いたのがアセット切り替えのレイテンシ。\n一般的なWebアプリで動画分岐を作ると、どうしても選択時にバッファが発生する。\nでも、Netflixは独自のマニフェスト構造とプリフェッチ戦略で、これを50ms以下の感覚で処理してる（体感値）。\n\n・秒間60フレームに近い滑らかなUX\n・エッジコンピューティングによる低遅延分岐\n・既存IPを活かした最強のエンゲージメント\n\n正直、SIer時代にこういう「ステート管理が複雑なメディア配信」の案件があったら、見積もりだけで震えるレベルの完成度。\nPythonでロジックを組む際のリファレンスとしても優秀。\n\nスマートTVのリモコンだけで、これほど高度な条件分岐をユーザーに意識させず実行させる設計思想は、次世代のUXを目指すなら一度は触れておくべき。\n実際に触ってみて、この切り替えの滑らかさに気づいた人いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-07-netflix-playground-interactive-ux-review-tech.jpg",
+    "created_at": "2026-04-07T19:09:16.382484+09:00",
+    "posted": false
   }
 ]
