@@ -10179,5 +10179,19 @@
     "image_path": "/images/posts/2026-04-09-flint-on-brand-lp-generator-review.jpg",
     "created_at": "2026-04-09T03:07:26.437279+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-09-poke-ai-agent-sms-interface-review",
+    "title": "SMSでAIエージェントを操るPokeの実力と既存ツールとの決定的な差",
+    "url": "https://ai.negi-lab.com/posts/poke-ai-agent-sms-interface-review/",
+    "category": "NEWS",
+    "viral_tags": "#AIエージェント #Poke",
+    "tweet_text": "AIエージェントの正解は「UIを作らないこと」だったのかもしれない。\n\n新発表の「Poke」が衝撃的なのは、専用アプリを捨てて、あえて古臭いSMSをインターフェースに選んだ点。\n\nSIer時代から痛感してたけど、ユーザーは「便利な画面」じゃなく「タスクの完了」が欲しいだけ。\nスマホで「明日の宿取っておいて」と1通送るだけで、裏側でAIが予約まで完結させる。\nこの「摩擦ゼロ」の体験は、今のリッチなAIアプリが束になっても勝てない。\n\n技術的にはTwilio+LLMのオーケストレーションだろうけど、これを「SMS一本」に絞った決断が凄すぎる。\nGPT-4oクラスの推論能力があれば、もう画面を見ながらプロンプトをいじる必要すらない。\n\nただ、SMSの送信コストやセキュリティ（非暗号化）の問題はどうクリアするのか。\nここを解決できれば、LINEやSlackをフロントにした「インビジブル・エージェント」が爆発的に普及するはず。\n\n皆さんはAIエージェントに「リッチなUI」と「シンプルな通知」、どっちを求めてますか？\n特に非エンジニアの現場で使うなら、後者が圧倒的に強いと思うんですがどうでしょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-09-poke-ai-agent-sms-interface-review.jpg",
+    "created_at": "2026-04-09T06:56:11.072028+09:00",
+    "posted": false
   }
 ]
