@@ -10067,5 +10067,33 @@
     "image_path": "/images/posts/2026-04-08-uber-aws-ai-chip-trainium-inferentia-migration.jpg",
     "created_at": "2026-04-08T02:59:22.095443+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-08-google-offline-ai-dictation-gemma-ios",
+    "title": "Googleが放ったオフラインAI音声入力アプリの衝撃。Gemma搭載でWispr Flowを追撃する実力",
+    "url": "https://ai.negi-lab.com/posts/google-offline-ai-dictation-gemma-ios/",
+    "category": "NEWS",
+    "viral_tags": "#GemmaAI #エッジAI",
+    "tweet_text": "Googleがやってくれました。iOS向けに「完全オフライン」で動くAI音声入力アプリを密かにリリース。\n\n中身は軽量LLMのGemmaで、通信なしで音声のテキスト整形まで完結します。これ、SIer時代にセキュリティ制約でクラウドAIが使えなかった現場に教えたら泣いて喜ぶレベル。\n\n実際に触ってみると分かりますが、クラウドを介さない0.1秒以下のレスポンスはもはや別次元です。月額20ドル払って競合ツールを使ってた層には衝撃でしょう。AIの戦場は今、クラウドから「いかにエッジで速く回すか」に完全にシフトしました。\n\n今回のGoogleのサイレントリリース、実はApple Intelligenceへの強烈な先制パンチだと思ってます。Androidじゃなく、あえてiPhoneでこれを出してきた意図がエグい。\n\nローカルLLMをRTX 4090で回すのが趣味の私からしても、スマホでこの滑らかさは驚異的です。機密情報を扱うビジネスマンや、思考を止めずに執筆したいクリエイターは必見。\n\n皆さんは音声入力、普段どのくらい使ってますか？クラウドに声が送られるのって、正直気になります？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-08-google-offline-ai-dictation-gemma-ios.jpg",
+    "created_at": "2026-04-08T16:26:30.692429+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-08-clawcast-p2p-ai-agent-podcasting-guide",
+    "title": "Clawcast 使い方：AIエージェント対話をP2Pで配信する新技術",
+    "url": "https://ai.negi-lab.com/posts/clawcast-p2p-ai-agent-podcasting-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Clawcast #AIエージェント",
+    "tweet_text": "AIエージェント同士が何を話し、どう意思決定しているか、テキストログを追い続けるのに疲れていませんか？\n\n新技術「Clawcast」を触ってみましたが、これは面白い。エージェント間の対話をP2Pでリアルタイム音声配信するという、今までにないアプローチです。WebRTCベースなのでサーバー負荷を抑えつつ、複数の自律エージェントの「思考プロセス」をラジオのように聞き流せます。\n\nSIer時代、泥臭いログ監視に明け暮れていた私からすると、この「可聴化」という発想はデバッグ効率を劇的に変える可能性を感じます。CrewAIやAutoGPTを使っている中級者以上のエンジニアには、ぜひこの「エージェントの生中継」を体験してほしい。\n\nNAT越えなどのネットワーク周りで少し癖はありますが、API自体は驚くほどシンプル。LLMが生成したテキストが即座に音声ストリームに変換される体験は、ローカルLLMをRTX 4090で回しているようなハードユーザーにも刺さるはずです。\n\nマルチエージェントの挙動監視、皆さんはどうしていますか？ログ派ですか、それとも可視化ツールを使っていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-08-clawcast-p2p-ai-agent-podcasting-guide.jpg",
+    "created_at": "2026-04-08T16:27:56.209864+09:00",
+    "posted": false
   }
 ]
