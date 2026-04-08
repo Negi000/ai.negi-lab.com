@@ -1,185 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "AI can push your Stream Deck buttons for you",
-      "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-01T08:38:58-04:00",
-      "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-02T02:51:58"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
-      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 01 Apr 2026 05:21:48 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-02T02:51:59"
-    },
-    {
-      "source": "r/MachineLearning",
-      "title": "[D] Simple Questions Thread",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1s9n1jr/d_simple_questions_thread/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-01T15:01:38+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so keep posting after the date in the title.</p> <p>Thanks to everyone for answering questions in the previous thread!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.red",
-      "extra": {},
-      "collected_at": "2026-04-02T02:52:00"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Claudoscope",
-      "url": "https://www.producthunt.com/products/claudoscope",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Browse, search & track costs across Claude Code sessions </p> <p> <a href=\"https://www.producthunt.com/products/claudoscope?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1112495?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-02T02:52:00"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Audyr",
-      "url": "https://www.producthunt.com/products/audyr-understand-your-customers",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI captures feedback and tells you what to build next </p> <p> <a href=\"https://www.producthunt.com/products/audyr-understand-your-customers?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1112408?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-02T02:52:00"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "flock",
-      "url": "https://www.producthunt.com/products/flock-let-your-agents-loose",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Run a flock of Claude Code (or other agents) in one window. </p> <p> <a href=\"https://www.producthunt.com/products/flock-let-your-agents-loose?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1112594?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-02T02:52:00"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "axios/axios",
-      "url": "https://github.com/axios/axios",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Promise based HTTP client for the browser and node.js",
-      "extra": {
-        "stars_today": "88 stars today"
-      },
-      "collected_at": "2026-04-02T02:52:02"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "extra": {
-        "stars_today": "442 stars today"
-      },
-      "collected_at": "2026-04-02T02:52:02"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "TurboQuant isn’t just for KV: Qwen3.5-27B at near-Q4_0 quality, about 10% smaller, and finally fitting on my 16GB 5060 Ti",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9ig5r/turboquant_isnt_just_for_kv_qwen3527b_at_nearq4_0/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-01T11:58:02+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s9ig5r/turboquant_isnt_just_for_kv_qwen3527b_at_nearq4_0/\"> <img alt=\"TurboQuant isn’t just for KV: Qwen3.5-27B at near-Q4_0 quality, about 10% smaller, and finally fitting on my 16GB 5060 Ti\" src=\"https://preview.redd.it/118nngfciksg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c4d3701104a91e15709757e6757271993c7a8f7\" title=\"TurboQuant isn’t just for KV: Qwen3.5-27B at near-Q4_0 quality, about 10% smaller, and finally",
-      "extra": {},
-      "collected_at": "2026-04-02T02:52:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "The source code to Aider has just leaked after being committed to github",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9o3g3/the_source_code_to_aider_has_just_leaked_after/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-01T15:39:01+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s9o3g3/the_source_code_to_aider_has_just_leaked_after/\"> <img alt=\"The source code to Aider has just leaked after being committed to github\" src=\"https://external-preview.redd.it/nEkWU_iRPHcIypRX18tqK7LINGrqAvGclSxnrrFqHsg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1b87139ba73ec26030aa16907dcdee78436286df\" title=\"The source code to Aider has just leaked after being committed to github\" /> </a> </td><td> &#32; submitte",
-      "extra": {},
-      "collected_at": "2026-04-02T02:52:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "llama : rotate activations for better quantization by ggerganov · Pull Request #21038 · ggml-org/llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9lge6/llama_rotate_activations_for_better_quantization/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-01T14:01:52+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s9lge6/llama_rotate_activations_for_better_quantization/\"> <img alt=\"llama : rotate activations for better quantization by ggerganov · Pull Request #21038 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/MvMDhsA8KXFPShfQIgal9H3tHP44JKz6t3JaGnM0Exc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a39e1fd05edbcf7defcdf02c1578f1d5870d6d31\" title=\"llama : rotate activations for better quantization by ggerganov · Pull ",
-      "extra": {},
-      "collected_at": "2026-04-02T02:52:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "arcee-ai/Trinity-Large-Thinking · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9pe0w/arceeaitrinitylargethinking_hugging_face/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-01T16:24:31+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s9pe0w/arceeaitrinitylargethinking_hugging_face/\"> <img alt=\"arcee-ai/Trinity-Large-Thinking · Hugging Face\" src=\"https://preview.redd.it/k8o0rrfoulsg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=39e0a91dc0733256cedb9354e5d9b6728b7e0ed2\" title=\"arcee-ai/Trinity-Large-Thinking · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/arcee-ai/Trinity-Large-Thinking\">arcee-ai/Trin",
-      "extra": {},
-      "collected_at": "2026-04-02T02:52:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "attn-rot (TurboQuant-like KV cache trick) lands in llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1s9nri7/attnrot_turboquantlike_kv_cache_trick_lands_in/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-01T15:27:20+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s9nri7/attnrot_turboquantlike_kv_cache_trick_lands_in/\"> <img alt=\"attn-rot (TurboQuant-like KV cache trick) lands in llama.cpp\" src=\"https://external-preview.redd.it/MvMDhsA8KXFPShfQIgal9H3tHP44JKz6t3JaGnM0Exc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a39e1fd05edbcf7defcdf02c1578f1d5870d6d31\" title=\"attn-rot (TurboQuant-like KV cache trick) lands in llama.cpp\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>80% o",
-      "extra": {},
-      "collected_at": "2026-04-02T02:52:03"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Show HN: Real-time dashboard for Claude Code agent teams",
       "url": "https://github.com/simple10/agents-observe",
@@ -3165,19 +2986,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "git-fire",
-      "url": "https://www.producthunt.com/products/git-fire",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> One command to back up every Git repo you have; and more! </p> <p> <a href=\"https://www.producthunt.com/products/git-fire?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1118452?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-09T01:02:30"
-    },
-    {
-      "source": "Product Hunt",
       "title": "BizCalc",
       "url": "https://www.producthunt.com/products/bizcalc",
       "primary_category": "TOOL",
@@ -3242,7 +3050,86 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone. I found and fixed training bug in Qwen3.5 35B A3B model.</p> <p>Here my fixed version: <a href=\"https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF\">https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF</a></p> <p>Upgraded system prompt that unlocks deep thinking (works great with this model):<br /> <a href=\"https://pastebin.com/pU25DVnB\">https://pastebin.com/pU25DVnB</a></p> <p>Chat template:",
       "extra": {},
       "collected_at": "2026-04-09T01:02:32"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Flint",
+      "url": "https://www.producthunt.com/products/flint-6",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Launch on-brand pages for every campaign, ad, and prospect. </p> <p> <a href=\"https://www.producthunt.com/products/flint-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1117042?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-09T03:06:43"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Brieflee",
+      "url": "https://www.producthunt.com/products/brieflee",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Spell check for video - catch quality issues before you post </p> <p> <a href=\"https://www.producthunt.com/products/brieflee?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/466205?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-09T03:06:43"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Career-Ops on Claude",
+      "url": "https://www.producthunt.com/products/santifer-io",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> An AI-powered Job Search System built on Claude Code </p> <p> <a href=\"https://www.producthunt.com/products/santifer-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1116818?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-09T03:06:43"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Meta new reasoning model Muse Spark",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sfxlpj/meta_new_reasoning_model_muse_spark/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-08T16:20:48+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DonTizi\"> /u/DonTizi </a> <br /> <span><a href=\"https://ai.meta.com/blog/introducing-muse-spark-msl/?utm_source=linkedin&amp;utm_medium=organic_social&amp;utm_content=image&amp;utm_campaign=spark\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sfxlpj/meta_new_reasoning_model_muse_spark/\">[comments]</a></span>",
+      "extra": {},
+      "collected_at": "2026-04-09T03:06:46"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Meta has not given up on open-source",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sfzdrv/meta_has_not_given_up_on_opensource/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-08T17:23:00+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sfzdrv/meta_has_not_given_up_on_opensource/\"> <img alt=\"Meta has not given up on open-source\" src=\"https://preview.redd.it/m0sxxto830ug1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d95e57f0739eda4d32140d142e9ea29762e1b02\" title=\"Meta has not given up on open-source\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Source: <a href=\"https://x.com/AIatMeta/status/2041910285653737975?s=20\">https://x.com/AIatMeta/status/",
+      "extra": {},
+      "collected_at": "2026-04-09T03:06:46"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The way Anthropic talks about Mythos if they made it open to Public",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sfwpmf/the_way_anthropic_talks_about_mythos_if_they_made/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-08T15:49:13+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sfwpmf/the_way_anthropic_talks_about_mythos_if_they_made/\"> <img alt=\"The way Anthropic talks about Mythos if they made it open to Public\" src=\"https://external-preview.redd.it/MjJ0OGpibTdtenRnMYE7bs2LejauXuegPIzg9uEgwx-OAQlfDl6otoq0_k-s.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=be8c14cfd7addf0afb1341cd4a2421ca66b309d3\" title=\"The way Anthropic talks about Mythos if they made it open to Public\" /> </a> </td><td> &#32;",
+      "extra": {},
+      "collected_at": "2026-04-09T03:06:46"
     }
   ],
-  "updated_at": "2026-04-09T01:02:32.736751+09:00"
+  "updated_at": "2026-04-09T03:06:46.401638+09:00"
 }

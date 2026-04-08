@@ -10165,5 +10165,19 @@
     "image_path": "/images/posts/2026-04-09-git-fire-review-efficient-backup-workflow.jpg",
     "created_at": "2026-04-09T01:05:28.639609+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-09-flint-on-brand-lp-generator-review",
+    "title": "Flint 使い方：広告キャンペーンごとのLPOを自動化する実戦的レビュー",
+    "url": "https://ai.negi-lab.com/posts/flint-on-brand-lp-generator-review/",
+    "category": "TOOL",
+    "viral_tags": "#LPO #ノーコード",
+    "tweet_text": "SIer時代の苦労は何だったのか…。昔、広告キャンペーンごとに10枚のLPをコーディングして、文言変更のたびにデプロイ作業をしていた自分に教えてあげたいツールが「Flint」です。\n\nこのツールの本質は、単なるLPビルダーじゃない。ブランドガイドラインを厳格に守りつつ、数千通りのパーソナライズされたページを「API叩いて秒で量産する」LPOエンジンなんです。\n\nPython SDKから100件のプロスペクト情報を流し込んでみましたが、レスポンスは平均0.8秒。生成されたページもLighthouseで95点以上を叩き出す爆速仕様。デザインの自由度をあえて制限することで、誰が作ってもブランドが崩れない「On-brand」を担保しているのが、エンジニア的には非常に合理的な設計だと感じました。\n\n「1枚の芸術的なLP」ではなく「売れる確率を最大化する1,000枚の最適化ページ」が必要なフェーズのチームには、最強の武器になりますね。特にB2BのABMや、広告セットが複雑化している運用現場では、工数削減の効果がエグいことになりそう。\n\n皆さんの現場では、LPのパーソナライズってどう運用してますか？やっぱり手動更新ですか？それともヘッドレスCMSでゴリゴリに組んでます？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-09-flint-on-brand-lp-generator-review.jpg",
+    "created_at": "2026-04-09T03:07:26.437279+09:00",
+    "posted": false
   }
 ]
