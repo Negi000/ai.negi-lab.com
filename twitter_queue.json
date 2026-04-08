@@ -10151,5 +10151,19 @@
     "image_path": "/images/posts/2026-04-08-gemma-4-gguf-llamacpp-tutorial.jpg",
     "created_at": "2026-04-08T22:47:12.087317+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-09-git-fire-review-efficient-backup-workflow",
+    "title": "git-fire 使い方と実務レビュー：全リポジトリを一瞬で退避させる究極のバックアップ",
+    "url": "https://ai.negi-lab.com/posts/git-fire-review-efficient-backup-workflow/",
+    "category": "TOOL",
+    "viral_tags": "#Git #プログラミング効率化",
+    "tweet_text": "SIer時代、金曜夜にプッシュし忘れたコードが月曜朝に消えていた絶望を何度も見てきました。そんな「不注意による損失」を物理的にゼロにするのがgit-fireです。\n\nこのツールの凄さは、単なるバックアップではなく「既存ブランチを汚さない」という点にあります。自動でfire専用ブランチを切って、未追跡ファイルまで含めてリモートへ退避させてくれる。RTX 4090を回しながら複数の実験コードを書く私にとって、今やなくてはならない保険です。\n\n10個以上のリポジトリを並行して触っていると、どれが最新か分からなくなりますよね。私はfindコマンドと組み合わせて、全リポジトリを一瞬でクラウドに逃がす運用をしています。\n\n「とりあえずstashでいいや」と思っている人ほど危ない。stashはディスクが死んだら終わりですから。月額数ドルのクラウドストレージをケチるより、コマンド一発で安心を買うほうが、エンジニアとしての生産性は圧倒的に高い。\n\nみなさんは、未完成のコードをどう管理していますか？「backup」という名前のコミットを打ち続けて、履歴がカオスになっていませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-09-git-fire-review-efficient-backup-workflow.jpg",
+    "created_at": "2026-04-09T01:05:28.639609+09:00",
+    "posted": false
   }
 ]

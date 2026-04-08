@@ -2879,19 +2879,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "MindsDB Anton",
-      "url": "https://www.producthunt.com/products/mindsdb",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Business intelligence that doesn't just answer — it acts. </p> <p> <a href=\"https://www.producthunt.com/products/mindsdb?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1115197?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-08T16:25:53"
-    },
-    {
-      "source": "Product Hunt",
       "title": "RoomieU",
       "url": "https://www.producthunt.com/products/roomieu",
       "primary_category": "TOOL",
@@ -3096,20 +3083,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "It looks like we’ll need to download the new Gemma 4 GGUFs",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sfrrgz/it_looks_like_well_need_to_download_the_new_gemma/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-08T12:43:36+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF\">https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF</a></p> <p><a href=\"https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF\">https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF</a></p> <p>by <a href=\"/u/danielhanchen\">u/danielhanchen</a>:</p> <p>We just updated them again in response to:</p> <ol> <li>kv-cache : support attention rotation for heterogeneous iSWA <a href=\"https://github.com/ggml-org/",
-      "extra": {},
-      "collected_at": "2026-04-08T22:44:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "M5 Max 128GB, 17 models, 23 prompts: Qwen 3.5 122B is still a local king",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sfr6u4/m5_max_128gb_17_models_23_prompts_qwen_35_122b_is/",
       "primary_category": "GUIDE",
@@ -3150,7 +3123,126 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I haven't seen benchmarks or tests for example with the &quot;growing tree with branches and leaves prompt in html&quot; so I am curious if there's really anything better than that for coding.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/soyalemujica\"> /u/soyalemujica </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sflepf/is_qwen27b_dense_really_the_best_local_agentic/\">[link]</a></span> &#32; <s",
       "extra": {},
       "collected_at": "2026-04-08T22:44:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+      "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 08 Apr 2026 16:01:09 +0000",
+      "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
+      "extra": {},
+      "collected_at": "2026-04-09T01:02:19"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 08 Apr 2026 15:23:44 +0000",
+      "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+      "extra": {},
+      "collected_at": "2026-04-09T01:02:19"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+      "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 08 Apr 2026 15:00:00 +0000",
+      "summary": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.",
+      "extra": {},
+      "collected_at": "2026-04-09T01:02:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "git-fire",
+      "url": "https://www.producthunt.com/products/git-fire",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> One command to back up every Git repo you have; and more! </p> <p> <a href=\"https://www.producthunt.com/products/git-fire?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1118452?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-09T01:02:30"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "BizCalc",
+      "url": "https://www.producthunt.com/products/bizcalc",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Free business calculators — instant results, no signup </p> <p> <a href=\"https://www.producthunt.com/products/bizcalc?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1117263?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-09T01:02:30"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "SnapRewrite",
+      "url": "https://www.producthunt.com/products/snaprewrite",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A flexible AI writing assistant for selected text on macOS </p> <p> <a href=\"https://www.producthunt.com/products/snaprewrite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1115083?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-09T01:02:30"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "kepler-452b. GGUF when?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sftj52/kepler452b_gguf_when/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-08T13:54:21+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sftj52/kepler452b_gguf_when/\"> <img alt=\"kepler-452b. GGUF when?\" src=\"https://preview.redd.it/baleq6b62ztg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2014fee683caea8384242cdfc728b1fbf2ac9952\" title=\"kepler-452b. GGUF when?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/the-grand-finale\"> /u/the-grand-finale </a> <br /> <span><a href=\"https://i.redd.it/baleq6b62ztg1.png\">[link]</a></s",
+      "extra": {},
+      "collected_at": "2026-04-09T01:02:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "HF moves safetensors to the PyTorch Foundation",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sfv6t5/hf_moves_safetensors_to_the_pytorch_foundation/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-08T14:55:01+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey local llamas, Lysandre from Hugging Face here. </p> <p>Today we're officially moving Safetensors under the PyTorch Foundation, alongside PyTorch (of course), vLLM, DeepSpeed, Ray, and the recently-announced Helion. Concretely this means the trademark and repo are now held by the Linux Foundation rather than Hugging Face: neutral stewardship and open governance. </p> <p>For local inference nothing changes today. Its the same format, same APIs, same Hub compat",
+      "extra": {},
+      "collected_at": "2026-04-09T01:02:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sfwauj/qwen3535ba3buncensoredfernfloweraigguf/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-08T15:34:22+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone. I found and fixed training bug in Qwen3.5 35B A3B model.</p> <p>Here my fixed version: <a href=\"https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF\">https://huggingface.co/LuffyTheFox/Qwen3.5-35B-A3B-Uncensored-FernflowerAI-GGUF</a></p> <p>Upgraded system prompt that unlocks deep thinking (works great with this model):<br /> <a href=\"https://pastebin.com/pU25DVnB\">https://pastebin.com/pU25DVnB</a></p> <p>Chat template:",
+      "extra": {},
+      "collected_at": "2026-04-09T01:02:32"
     }
   ],
-  "updated_at": "2026-04-08T22:44:03.009699+09:00"
+  "updated_at": "2026-04-09T01:02:32.736751+09:00"
 }
