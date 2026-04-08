@@ -10095,5 +10095,33 @@
     "image_path": "/images/posts/2026-04-08-clawcast-p2p-ai-agent-podcasting-guide.jpg",
     "created_at": "2026-04-08T16:27:56.209864+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-08-arcee-open-source-llm-domain-adaptation",
+    "title": "26人の少数精鋭チームArceeが、巨大テック企業の独占を打ち破る「ドメイン特化型オープンソースLLM」で業界の勢力図を塗り替えようとしています。汎用モデルの限界が見え始めた今、特定の業界知識を完璧に学習させる技術が、実務におけるAI活用の正解になりつつあります。",
+    "url": "https://ai.negi-lab.com/posts/arcee-open-source-llm-domain-adaptation/",
+    "category": "NEWS",
+    "viral_tags": "#Arcee #オープンソースLLM",
+    "tweet_text": "26人の少数精鋭チームArceeが、AI業界の常識をひっくり返そうとしています。GPT-4oのような「何でもできる巨大モデル」に、特定の専門領域で打ち勝つドメイン特化型モデル。これ、SIer時代に「汎用AIはハルシネーションが多くて現場で使えない」と頭を抱えていた私からすると、まさに救世主のような技術です。\n\nArceeの凄さは、単なる調整ではなく「継続的事前学習」と「モデルマージ」を極限まで効率化した点にあります。これによって、ブラックボックスな高額APIに依存せず、自社専用の「最強の専門家AI」を安価に構築できる道が開けました。\n\n正直、これからは「モデルの大きさ」を競う時代は終わり、「どれだけ深くその業界を知っているか」の勝負になります。RTX 4090を2枚挿してローカルLLMを検証している身としても、この軽量・高精度なアプローチは実務における最適解だと断言できます。RAGで精度が出ずに悩んでいる開発者は、今すぐArceeのドメインアダプテーションをチェックすべき。3ヶ月後には、賢い企業ほど「自社専用モデル」を自前で運用するのが当たり前になっているはずです。\n\n皆さんの現場では、汎用モデルの限界を感じる場面、ありませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-08-arcee-open-source-llm-domain-adaptation.jpg",
+    "created_at": "2026-04-08T19:08:21.407159+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-08-screenslice-review-partial-screen-sharing",
+    "title": "Screenslice 使い方 | Web会議で「見せたい場所だけ」を切り出す実戦レビュー",
+    "url": "https://ai.negi-lab.com/posts/screenslice-review-partial-screen-sharing/",
+    "category": "TOOL",
+    "viral_tags": "#Screenslice #生産性向上",
+    "tweet_text": "Web会議で「画面の一部だけ」をスマートに共有できるScreensliceを触ってみたけど、これエンジニアのデモ発表には必須級かもしれない。\n\nSIer時代、画面共有中にうっかり社内チャットの通知が飛んできて冷や汗をかいた経験、誰しも一度はあるはず。ウィンドウ共有でも防げない「余計なタブ」や「サイドバーの秘匿情報」を物理的に遮断できるのは、心理的な安全性が全然違う。\n\n仕組みとしては画面の特定座標をクロップして仮想カメラとして流すだけ。だけど、その「だけ」に特化してるから設定が数秒で終わる。OBSを立ち上げるほどじゃないけど、標準の共有機能じゃ物足りないっていう絶妙な隙間を突いてる。\n\n個人的には、AIモデルの推論ログを裏で監視しつつ、視聴者にはブラウザのUIだけを固定して見せられるのが最高に使い勝手良かった。RTX 4090ぶん回してる裏側を見せずに、涼しい顔でデモができる。\n\n皆さんは画面共有中の「事故」対策、どうしてますか？専用のクリーンなユーザーアカウントを作ってるのか、あるいは力技で通知を切ってるのか。現場の知恵を知りたい。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-08-screenslice-review-partial-screen-sharing.jpg",
+    "created_at": "2026-04-08T19:09:31.996901+09:00",
+    "posted": false
   }
 ]
