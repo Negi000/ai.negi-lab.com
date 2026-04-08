@@ -10123,5 +10123,33 @@
     "image_path": "/images/posts/2026-04-08-screenslice-review-partial-screen-sharing.jpg",
     "created_at": "2026-04-08T19:09:31.996901+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-08-mindsdb-anton-ai-agent-database-review",
+    "title": "MindsDB Antonは、データベースを「単なる情報の貯蔵庫」から「自律的に判断し動く脳」へと進化させ、データ分析から業務実行までをシームレスにつなぐAIエージェント・プラットフォームです。",
+    "url": "https://ai.negi-lab.com/posts/mindsdb-anton-ai-agent-database-review/",
+    "category": "TOOL",
+    "viral_tags": "#MindsDB #データエンジニアリング",
+    "tweet_text": "データベースを「単なる貯蔵庫」にする時代は終わりましたね。MindsDB Antonを触って確信しましたが、これからは「AIが直接DBを読み、判断し、行動する」のが標準になります。\n\nSIer時代、予測モデル1つ本番に入れるのにAPIサーバー立てて、キューを制御して…と数週間かけていた作業が、SQL数行で完結する衝撃。MindsDBはモデルを「AI Table」として扱うので、既存のPostgreSQLやMongoDBをそのまま「考える脳」にアップグレードできます。\n\n特に「Anton」のBIエージェント機能が強力。ダッシュボードを見て人間が判断するのではなく、AIがデータから異常を検知してそのままSlack送信やAPI実行まで繋いでくれます。まさに「動くBI」です。\n\nただ、正直デバッグは少し癖がありますね。SQL拡張特有のエラーログを読み解くのに最初は苦労するかもしれません。\n\n皆さんの現場では、データ分析の結果をどうやって実業務に反映させていますか？まだ人間が手動でメール打ってたりしませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-08-mindsdb-anton-ai-agent-database-review.jpg",
+    "created_at": "2026-04-08T22:44:47.606927+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-08-gemma-4-gguf-llamacpp-tutorial",
+    "title": "Gemma 4の最新GGUFをllama.cppで動かし実戦投入する最短ルート",
+    "url": "https://ai.negi-lab.com/posts/gemma-4-gguf-llamacpp-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#Gemma4 #LocalLLM",
+    "tweet_text": "Gemma 4の最新GGUFへのアップデート、正直言って今回の修正は「必須」レベルですね。\n\nReddit(r/LocalLLaMA)でも議論されていますが、最新のkv-cache回転やiSWA（Sliding Window Attention）への対応がない古い環境だと、せっかくのGemma 4の推論性能が死にます。\n私はRTX 4090×2環境で試しましたが、Unsloth版の新しいGGUFに差し替えてから、コード生成の論理性と文脈の維持力が目に見えて向上しました。\n\n特に26Bモデルは「動けばいい」レベルで運用すると、特定条件で出力が壊れるリスクがあります。\n今回はllama.cppの最新ビルド手順から、Pythonで実戦投入するスクリプトまで、私が実務で使っているコードをそのまま公開しました。\n\nSIer時代、これだけ高精度なモデルが自分のローカルサーバーで、かつ無料で動くなんて想像もできませんでしたね…。\nAPIコストに怯えずに、社内ドキュメントを全部流し込める安心感は異常です。\n\nみなさんの環境では、Gemma 4の26Bモデルはどの程度のトークン速度が出ていますか？\nVRAM消費と精度のバランスについて、現場の知見があればぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-08-gemma-4-gguf-llamacpp-tutorial.jpg",
+    "created_at": "2026-04-08T22:47:12.087317+09:00",
+    "posted": false
   }
 ]
