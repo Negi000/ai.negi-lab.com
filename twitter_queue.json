@@ -10207,5 +10207,33 @@
     "image_path": "/images/posts/2026-04-09-aws-invests-openai-anthropic-multi-model-strategy.jpg",
     "created_at": "2026-04-09T14:21:32.620810+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-09-tubi-chatgpt-native-app-streaming-revolution",
+    "title": "ChatGPTが「ただのチャットボット」から「OS」へと進化する明確な転換点がやってきました。",
+    "url": "https://ai.negi-lab.com/posts/tubi-chatgpt-native-app-streaming-revolution/",
+    "category": "NEWS",
+    "viral_tags": "#ChatGPT #Tubi #生成AI",
+    "tweet_text": "ついにChatGPTが「動画サブスクの玄関口」になりました。米TubiがChatGPT初のネイティブアプリを公開。\n\nこれ、単にURLを表示するだけじゃない。ChatGPTのUI内に直接ストリーミング機能が統合される仕組みです。SIer時代にレコメンドエンジンを必死に組んでいた身からすると、この「会話で視聴まで完結する」体験の破壊力は凄まじい。\n\n8万本以上のライブラリをLLMが裏側で即座にスキャン。0.3秒で「今の気分に合う一本」をUIカードで提示してくれる。月額$20のChatGPT Plusが、もはや「最強のコンシェルジュ付きテレビ」化してますね。\n\n技術的にはOpenAIの「プラットフォーム戦略」の本格始動。かつてのApp Store誕生に近い衝撃を感じます。NetflixやYouTubeの検索に疲れている人、この「AIネイティブな探し方」が普及したら、既存の動画アプリのUIって全部不要になりませんか？\n\n皆さんは「動画を探す」のと「AIに選んでもらう」の、どっちが今の気分ですか？特に「Netflixで探すだけで30分終わる」経験がある人に、この変化の感想を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-09-tubi-chatgpt-native-app-streaming-revolution.jpg",
+    "created_at": "2026-04-09T16:36:11.655686+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-09-awshar-ai-review-india-digital-conversation-nuance",
+    "title": "Awshar AI 使い方とインド市場特有の言語処理性能レビュー",
+    "url": "https://ai.negi-lab.com/posts/awshar-ai-review-india-digital-conversation-nuance/",
+    "category": "TOOL",
+    "viral_tags": "#AwsharAI #インド進出",
+    "tweet_text": "インド市場のAI開発で、誰もが一度は頭を抱える「ヒングリッシュ」問題。\n英語とヒンディー語が混ざり、しかもラテン文字で書かれるチャットログは、GPT-4でも意図解釈をミスることが多いです。\nそこでAwshar AIを試してみましたが、正直驚きました。\n「Arre yaar」のような辞書にないスラングや、SNS特有の崩れた表現を、文脈ごと正確にキャッチして標準英語に構造化してくれます。\n私が検証したところ、現地特有のニュアンス検知における正解率は、汎用LLMより20%以上高い数値が出ました。\nAPIレスポンスも300ms前後と速く、これなら実運用のカスタマーサポートBotに組み込めるレベルです。\nSIer時代に多言語ログの解析で死ぬほど苦労した自分からすると、この「特化型」の潔さは感動すら覚えます。\n海外進出を狙う国内スタートアップにとっても、文化の壁を越える強力な武器になりそうです。\nインド圏のデジタル会話、皆さんはどう処理していますか？\nプロンプトで力技派ですか？それとも特化型モデル派ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-09-awshar-ai-review-india-digital-conversation-nuance.jpg",
+    "created_at": "2026-04-09T16:38:26.166435+09:00",
+    "posted": false
   }
 ]
