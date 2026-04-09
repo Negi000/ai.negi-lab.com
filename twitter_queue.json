@@ -10291,5 +10291,19 @@
     "image_path": "/images/posts/2026-04-09-gemma-4-llamacpp-stable-setup-guide.jpg",
     "created_at": "2026-04-09T22:58:40.286248+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-10-orca-parallel-ai-agent-control-review",
+    "title": "Orcaレビュー 並列AIエージェントの制御で開発効率を最大化する",
+    "url": "https://ai.negi-lab.com/posts/orca-parallel-ai-agent-control-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントを複数動かすと「実行が遅すぎる」「状態管理がカオスになる」という問題。これ、CrewAIやAutoGenを触ったことがある人なら一度は直面する壁ですよね。\n\nProduct Huntで見つけた「Orca」を徹底検証しましたが、結論から言うとマルチエージェント開発の「正解」に近いツールでした。SIer時代に並列処理のデッドロックに泣かされた経験がある私から見ても、この中央集約型のコントロールセンターという設計は非常に合理的。\n\n最大の特徴は「並列実行」への特化です。シーケンシャルな処理をOrcaで並列化するだけで、ワークフロー全体の完了時間が目に見えて速くなる。レスポンス速度がシビアなWebアプリにエージェントを組み込むなら、現状これ一択かもしれません。\n\nただし、Pythonのasyncio（非同期処理）の知識が必須なのと、並列でAPIを叩きまくるのでコスト管理には要注意。私はRTX 4090 2枚挿しのローカル環境で負荷を逃がしていますが、実務投入するならインフラ構成もセットで考えるべきですね。\n\n皆さんはマルチエージェントの速度問題、どう解決していますか？やっぱりLangGraph派が多いんでしょうか。実際の現場での「詰まりどころ」について意見交換したいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-10-orca-parallel-ai-agent-control-review.jpg",
+    "created_at": "2026-04-10T01:06:16.527348+09:00",
+    "posted": false
   }
 ]
