@@ -1,85 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "url": "https://lemonade-server.ai",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 02 Apr 2026 11:04:51 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-02T22:25:30"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "tama96",
-      "url": "https://www.producthunt.com/products/tama96-desktop-terminal-ai-pet",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A Tamagotchi for your desktop, terminal, and AI agents </p> <p> <a href=\"https://www.producthunt.com/products/tama96-desktop-terminal-ai-pet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1113493?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-02T22:25:31"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Lightning V3",
-      "url": "https://www.producthunt.com/products/smallest-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Text-to-Speech built for Voice Agents </p> <p> <a href=\"https://www.producthunt.com/products/smallest-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093439?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-02T22:25:31"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Jetson",
-      "url": "https://www.producthunt.com/products/jetson-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Automatically turn support messages into product updates </p> <p> <a href=\"https://www.producthunt.com/products/jetson-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089998?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-02T22:25:31"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Omnivoice - 600+ Language Open-Source TTS with Voice Cloning and Design",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1saeuv2/omnivoice_600_language_opensource_tts_with_voice/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-02T11:33:25+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>OmniVoice is a state-of-the-art zero-shot multilingual TTS model supporting more than 600 languages. Built on a novel diffusion language model architecture, it generates high-quality speech with superior inference speed, supporting voice cloning and voice design.</p> <p><strong>Key Features</strong></p> <p>- <strong>600+ Languages Supported</strong>: The broadest language coverage among zero-shot TTS models</p> <p>- <strong>Voice Cloning</strong>: State-of-the-a",
-      "extra": {},
-      "collected_at": "2026-04-02T22:25:34"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Is 1-bit and TurboQuant the future of OSS? A simulation for Qwen3.5 models.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sadadw/is_1bit_and_turboquant_the_future_of_oss_a/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-02T10:09:12+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Simulation what the Qwen3.5 model family would look like using 1-bit technology and TurboQuant. The table below shows the results, this would be a revolution:</p> <table><thead> <tr> <th align=\"left\">Model</th> <th align=\"left\">Parameters</th> <th align=\"left\">Q4_K_M File (Current)</th> <th align=\"left\">KV Cache (256K) (Current)</th> <th align=\"left\">Hypothetical 1-bit Weights</th> <th align=\"left\">KV Cache 256K with TurboQuant</th> <th align=\"left\">Hypothetical",
-      "extra": {},
-      "collected_at": "2026-04-02T22:25:34"
-    },
-    {
       "source": "The Verge AI",
       "title": "It’s not easy to get depression-detecting AI through the FDA",
       "url": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
@@ -2695,19 +2616,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
-      "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 08 Apr 2026 16:01:09 +0000",
-      "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
-      "extra": {},
-      "collected_at": "2026-04-09T01:02:19"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
       "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
       "primary_category": "NEWS",
@@ -3042,19 +2950,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "SuperCmd",
-      "url": "https://www.producthunt.com/products/supercmd-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open source alternative to Raycast Pro </p> <p> <a href=\"https://www.producthunt.com/products/supercmd-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119318?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-09T16:28:12"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Cyris",
       "url": "https://www.producthunt.com/products/cyris",
       "primary_category": "TOOL",
@@ -3157,7 +3052,161 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>With the merging of <a href=\"https://github.com/ggml-org/llama.cpp/pull/21534\">https://github.com/ggml-org/llama.cpp/pull/21534</a>, all of the fixes to known Gemma 4 issues in Llama.cpp have been resolved. I've been running Gemma 4 31B on Q5 quants for some time now with no issues.</p> <p>Runtime hints:</p> <ul> <li>remember to run with `--chat-template-file` with the interleaved template Aldehir has prepared (it's in the llama.cpp code under models/templates)<",
       "extra": {},
       "collected_at": "2026-04-09T19:13:19"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google makes it easy to deepfake yourself",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-04-09T06:53:49-04:00",
+      "summary": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught relationship with AI-generated content, adding more generative features while struggling to contain AI slop, deepfake scams, and impersonations. YouTube says the new tool will [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-09T22:54:02"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude mixes up who said what and that's not OK",
+      "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 09 Apr 2026 09:25:28 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-09T22:54:06"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Rubber Duck",
+      "url": "https://www.producthunt.com/products/github-copilot",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Cross-model reviews in GitHub Copilot CLI </p> <p> <a href=\"https://www.producthunt.com/products/github-copilot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1118880?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-09T22:54:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Chaterm",
+      "url": "https://www.producthunt.com/products/chaterm",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Deploy, fix, and automate your infra in one terminal </p> <p> <a href=\"https://www.producthunt.com/products/chaterm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1118502?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-09T22:54:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Smuggl",
+      "url": "https://www.producthunt.com/products/smuggl",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Share your localhost as an invite only link </p> <p> <a href=\"https://www.producthunt.com/products/smuggl?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1117913?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-09T22:54:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Morsel",
+      "url": "https://www.producthunt.com/products/morsel-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Strava for cooking </p> <p> <a href=\"https://www.producthunt.com/products/morsel-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119427?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-09T22:54:07"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "extra": {
+        "stars_today": "268 stars today"
+      },
+      "collected_at": "2026-04-09T22:54:10"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "extra": {
+        "stars_today": "24 stars today"
+      },
+      "collected_at": "2026-04-09T22:54:10"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "pingcap/tidb",
+      "url": "https://github.com/pingcap/tidb",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
+      "extra": {
+        "stars_today": "15 stars today"
+      },
+      "collected_at": "2026-04-09T22:54:10"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The Mythos Preview \"Safety\" Gaslight: Anthropic is just hiding insane compute costs. Open models are already doing this.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sgoy17/the_mythos_preview_safety_gaslight_anthropic_is/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-09T13:00:17+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sgoy17/the_mythos_preview_safety_gaslight_anthropic_is/\"> <img alt=\"The Mythos Preview &quot;Safety&quot; Gaslight: Anthropic is just hiding insane compute costs. Open models are already doing this.\" src=\"https://preview.redd.it/67o8l7uat5ug1.png?width=140&amp;height=122&amp;auto=webp&amp;s=12f0c53e691cce7fda0b6610a1335631b249f10a\" title=\"The Mythos Preview &quot;Safety&quot; Gaslight: Anthropic is just hiding insane compute",
+      "extra": {},
+      "collected_at": "2026-04-09T22:54:10"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "OpenWork, an opensource Claude Cowork alternative, is silently relicensing under a commercial license",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sgnppg/openwork_an_opensource_claude_cowork_alternative/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-04-09T12:05:50+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>OpenWork is a locally hosted AI agent harness that was presented as a MIT-licensed opensource Claude Cowork alternative based on opencode.</p> <p>Just a heads up for any user of the app that it has silently relicensed some components under a commercial license and modified the overall project's MIT license to limit its reach (which I am not even sure makes it a MIT license anymore).</p> <p>More details here: <a href=\"https://github.com/different-ai/openwork/issu",
+      "extra": {},
+      "collected_at": "2026-04-09T22:54:10"
     }
   ],
-  "updated_at": "2026-04-09T19:13:19.664162+09:00"
+  "updated_at": "2026-04-09T22:54:10.547863+09:00"
 }

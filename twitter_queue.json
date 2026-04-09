@@ -10263,5 +10263,33 @@
     "image_path": "/images/posts/2026-04-09-supercmd-review-open-source-raycast-alternative.jpg",
     "created_at": "2026-04-09T19:15:53.380585+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-09-rubber-duck-github-copilot-cli-review-guide",
+    "title": "Rubber Duck 使い方とGitHub Copilot CLIでのクロスモデルレビュー活用術",
+    "url": "https://ai.negi-lab.com/posts/rubber-duck-github-copilot-cli-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#GitHubCopilot #RubberDuck",
+    "tweet_text": "AIにコードを書かせる時代から、複数のAIに「査読」させる時代へ。GitHub Copilot CLIの拡張機能「Rubber Duck」を実務で使い倒した結果、単一モデル特有のバイアスが面白いほど浮き彫りになりました。\n\n例えばGPT-4oが「これで完璧」と言ったコードに対し、Claude 3.5 Sonnetが「最新のライブラリ仕様では非推奨」と突っ込む。この視点の差をターミナル上で0.5秒で確認できるのが、このツールの本質的な価値です。\n\nSIer時代、同僚とのレビューで「これってどっちが正しいんだっけ？」と議論していた時間が、今はコマンド一つで終わります。特に複雑な既存コードのリファクタリングでは、複数の知能を壁打ち相手にする「ラバーダック・デバッグ」の進化版が最強の武器になりますね。\n\nただ、情報の密度が濃すぎて、初心者が使うと逆に手が止まってしまう懸念もあります。ある程度「AIの嘘」を見抜ける中級以上のエンジニアなら、今すぐgh extensionに追加すべきです。\n\n皆さんは、モデルごとの指摘の食い違い、どう処理していますか？私は最終的に「保守性重視」ならClaudeの意見を優先することが多いです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-09-rubber-duck-github-copilot-cli-review-guide.jpg",
+    "created_at": "2026-04-09T22:54:38.894922+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-09-gemma-4-llamacpp-stable-setup-guide",
+    "title": "Gemma 4をLlama.cppで安定稼働させ、31Bモデルを実務で使い倒す環境を構築します。",
+    "url": "https://ai.negi-lab.com/posts/gemma-4-llamacpp-stable-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Gemma4 #LlamaCpp",
+    "tweet_text": "Gemma 4をLlama.cppで動かそうとして「出力が不安定」「テンプレートが効かない」と悩んでいた方に朗報です。\n\n最新のPR #21534 がマージされ、Gemma 4 31Bがようやく実用レベルで安定しました。\n私も早速RTX 4090環境で検証しましたが、Aldehir氏のinterleaved templateを適用した際の一貫性は、これまでのローカルLLMの常識を覆すレベルですね。\n\nSIer時代に現場でAIを触っていた身としては、この「テンプレート指定一つで精度が劇変する」感覚は、初期のプロンプトエンジニアリングを思い出します。\n記事では、なぜデフォルト設定ではダメなのか、そして「Q5_K_M」という絶妙な量子化設定がなぜ最適なのか、実体験ベースで解説しました。\n\n31Bモデルがこの速度と安定性で動くなら、もうAPI経由のGeminiに戻る理由は少ないかもしれません。\n特に、機密性の高いコードや社内文書を扱うエンジニアにとって、この安定化は大きな分岐点になるはず。\n\n皆さんはGemma 4を触ってみて、31Bと7Bで指示理解力にどれくらいの壁を感じましたか？\n私はRAG環境での「文脈の拾い上げ」に明らかな差を感じたのですが、現場でのリアルな感想を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-09-gemma-4-llamacpp-stable-setup-guide.jpg",
+    "created_at": "2026-04-09T22:58:40.286248+09:00",
+    "posted": false
   }
 ]
