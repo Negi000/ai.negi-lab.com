@@ -10235,5 +10235,33 @@
     "image_path": "/images/posts/2026-04-09-awshar-ai-review-india-digital-conversation-nuance.jpg",
     "created_at": "2026-04-09T16:38:26.166435+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-09-astropad-workbench-ai-agent-remote-desktop-review",
+    "title": "AIエージェント専用リモートデスクトップAstropad Workbenchの衝撃",
+    "url": "https://ai.negi-lab.com/posts/astropad-workbench-ai-agent-remote-desktop-review/",
+    "category": "NEWS",
+    "viral_tags": "#AstropadWorkbench #AIエージェント",
+    "tweet_text": "AIエージェントの「監視」に特化したリモートデスクトップ、Astropad Workbenchが想像以上に実用的です。\n\nSIer時代、サーバーの遠隔操作といえばVNCやRDPでしたが、正直あの「モッサリ感」ではAIエージェントの挙動確認なんて到底無理でした。特にAnthropicのComputer Useみたいに、AIが秒間で画面をスキャンして操作するタイプは、100msのラグが命取りになります。\n\nWorkbenchのヤバいところは、Mac Miniを物理モニターなしで「AI専用ノード」に変えられる点。iPadから60fpsのヌルヌル動く画面で、AIが今どこをクリックしようとしているかリアルタイムで介入できます。\n\nこれ、単なる画面共有じゃないですね。「AIの現場監督」になるための専用ダッシュボードです。メインPCのリソースをAIに奪われてファンが全開になる生活から、ようやく解放されそう。\n\n最近はMac MiniにM4が載ってAI推論機として最強コスパになってますが、これとWorkbenchの組み合わせは開発者にとっての「正解」の一つになる気がします。\n\nみなさんはAIエージェント動かす時、リソース管理どうしてますか？ローカル派？それともフルクラウド派？実際の使い勝手や遅延の許容範囲、ぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-09-astropad-workbench-ai-agent-remote-desktop-review.jpg",
+    "created_at": "2026-04-09T19:14:18.709489+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-09-supercmd-review-open-source-raycast-alternative",
+    "title": "SuperCmd 使い方とレビュー：Raycast Proを代替するオープンソースの最適解",
+    "url": "https://ai.negi-lab.com/posts/supercmd-review-open-source-raycast-alternative/",
+    "category": "TOOL",
+    "viral_tags": "#SuperCmd #オープンソース",
+    "tweet_text": "SIer時代にこんなツールがあれば、もっと楽に仕事ができていたかもしれません。\n\n最近、Raycast Proなどのランチャーアプリが便利になる一方で、サブスク料金の重なりに頭を抱えているエンジニアも多いはず。月額$8を払い続けるのか、それとも自由を手に入れるのか。\n\n今回レビューした「SuperCmd」は、まさにその答えになるオープンソースのランチャーです。\n最大の特徴は、AI機能を自分のAPIキー（OpenAI/Claude等）や、自宅のローカルLLM（Ollama等）に接続できる点。RTX 4090を回してランチャーから0.3秒で推論を走らせる快感は、一度味わうと戻れません。\n\n正直、UIの洗練度は本家に一歩譲ります。でも、自分の書いたPythonスクリプトやNode.jsのコードを、誰にも邪魔されず、プライバシーを保ったまま実行できる基盤としては最強です。\n\n「ツールに課金する」のではなく「自分のインフラを拡張する」という感覚。\n設定は少し硬派ですが、ドキュメントを読み解く力がある人なら30分で自分専用のAI司令室が作れます。\n\n皆さんはランチャーに月いくら払っていますか？あるいは、自作スクリプトの呼び出しに何を使っていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-09-supercmd-review-open-source-raycast-alternative.jpg",
+    "created_at": "2026-04-09T19:15:53.380585+09:00",
+    "posted": false
   }
 ]
