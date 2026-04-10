@@ -3041,19 +3041,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "ChatGPT finally offers $100/month Pro plan",
-      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 09 Apr 2026 21:29:11 +0000",
-      "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
-      "extra": {},
-      "collected_at": "2026-04-10T12:28:37"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
       "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
       "primary_category": "NEWS",
@@ -3209,7 +3196,101 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been optimizing a 2-GPU inference server for the past week and wanted to share the results. Full data is public with raw JSONs, launch commands, and methodology.</p> <p>**Hardware:**</p> <p>- 2x RTX PRO 6000 Blackwell (96GB GDDR7 each)</p> <p>- EPYC 4564P</p> <p>- 128GB DDR5 ECC</p> <p>- c-payne PM50100 Gen5 PCIe switch</p> <p>- AsRock Rack B650D4U server board</p> <p>**Results (C=1, single-user decode, tok/s):**</p> <p>| Model | tok/s | Engine | Config |</",
       "extra": {},
       "collected_at": "2026-04-10T12:28:44"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+      "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Thu, 09 Apr 2026 19:10:07 +0000",
+      "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
+      "extra": {},
+      "collected_at": "2026-04-10T14:32:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Startups.RIP",
+      "url": "https://www.producthunt.com/products/startups-rip",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Rebuild 1,738+ dead YC startups with AI </p> <p> <a href=\"https://www.producthunt.com/products/startups-rip?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119496?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-10T14:32:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Grass",
+      "url": "https://www.producthunt.com/products/grass-claude-code-from-your-phone",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Gives your coding agent a dedicated VM that's ready 24/7 </p> <p> <a href=\"https://www.producthunt.com/products/grass-claude-code-from-your-phone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1117852?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-10T14:32:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Observer",
+      "url": "https://www.producthunt.com/products/observer-by-qapilot",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Live logs inside your IDE to Debug without context switching </p> <p> <a href=\"https://www.producthunt.com/products/observer-by-qapilot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1118756?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-10T14:32:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ycode Open Source",
+      "url": "https://www.producthunt.com/products/ycode",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The open-source alternative to Webflow </p> <p> <a href=\"https://www.producthunt.com/products/ycode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1118563?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-10T14:32:07"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "the state of LocalLLama",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1shcgf5/the_state_of_localllama/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-10T04:30:23+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shcgf5/the_state_of_localllama/\"> <img alt=\"the state of LocalLLama\" src=\"https://preview.redd.it/6jxe6recjaug1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=be13f8d3243fbe365730f5a7c6d02792be96ce0e\" title=\"the state of LocalLLama\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Beginning-Window-115\"> /u/Beginning-Window-115 </a> <br /> <span><a href=\"https://i.redd.it/6jxe6recjaug1.png\">[l",
+      "extra": {},
+      "collected_at": "2026-04-10T14:32:10"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "PSA: Gemma 4 template improvements",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1shbqmx/psa_gemma_4_template_improvements/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-10T03:53:39+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shbqmx/psa_gemma_4_template_improvements/\"> <img alt=\"PSA: Gemma 4 template improvements\" src=\"https://preview.redd.it/o870gillcaug1.png?width=140&amp;height=85&amp;auto=webp&amp;s=e675c2c97bec9dc2de5188656e443a7a76eb104a\" title=\"PSA: Gemma 4 template improvements\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A PR was just merged that improves tool calls and dialog compliance. Make sure to update your jinja templates ",
+      "extra": {},
+      "collected_at": "2026-04-10T14:32:10"
     }
   ],
-  "updated_at": "2026-04-10T12:28:44.612411+09:00"
+  "updated_at": "2026-04-10T14:32:10.391701+09:00"
 }

@@ -10319,5 +10319,33 @@
     "image_path": "/images/posts/2026-04-10-chatgpt-pro-100-dollar-plan-analysis.jpg",
     "created_at": "2026-04-10T12:29:20.082808+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-10-florida-ag-investigation-openai-chatgpt-shooting",
+    "title": "ChatGPT悪用事件でOpenAIを捜査。フロリダ州の法的追及が開発者に与える衝撃",
+    "url": "https://ai.negi-lab.com/posts/florida-ag-investigation-openai-chatgpt-shooting/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #AIセーフティ",
+    "tweet_text": "ChatGPTが悪用された銃撃事件を巡り、フロリダ州司法長官がOpenAIへの正式な捜査を開始。これは単なる規約違反の話ではなく「AIの出力に対する法的責任」がどこまで開発元に及ぶかを決める、業界史上最大の事件です。\n\n元SIerとして多くのシステムを組んできましたが、今のLLMの安全性は正直「砂上の楼閣」に近いです。RLHFによるガードレールは、特定のプロンプトで簡単にバイパスできてしまう。この脆弱性が「人の命」に関わる事件に直結した今、API提供側の免責が通用しなくなる未来が現実味を帯びてきました。\n\nこれからの開発者に求められるのは「APIを叩くコードを書くこと」ではなく「AIの暴走と悪用をどう物理的に防ぐか」という、より泥臭い防御策の実装です。\n\nみなさんの運用しているサービスでは、悪意のあるユーザーの挙動をどう検知していますか？Moderation APIだけで足りると感じていますか？実務でのヒヤリハット経験など、ぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-10-florida-ag-investigation-openai-chatgpt-shooting.jpg",
+    "created_at": "2026-04-10T14:32:57.742900+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-10-startups-rip-rebuild-dead-yc-startups-with-ai",
+    "title": "Startups.RIP 使い方：失敗したYCスタートアップをAIで再生する",
+    "url": "https://ai.negi-lab.com/posts/startups-rip-rebuild-dead-yc-startups-with-ai/",
+    "category": "TOOL",
+    "viral_tags": "#StartupsRIP #YCStartups",
+    "tweet_text": "過去に数億円溶かした1,700社以上の「失敗」を、今のAI技術でハックして再生させる。Startups.RIPというツールが、エンジニアにとって最高に刺激的な「宝の山」になっています。\n\nSIer時代、数千万円の見積もりを出してボツになった「理想のシステム」たちが、今やGPT-4やClaude 3.5、そして自宅のRTX 4090環境なら、月額数ドルのAPI代だけで動かせてしまう。この時代のギャップにこそ、2024年の勝機があると感じました。\n\nYC出身のスタートアップが、なぜ当時力尽きたのか。その死因を「人件費」や「技術的限界」に絞り込んでAIで代替するアプローチは、単なるアイデア出しより遥かに生存率が高いはず。\n\n特に「アイデアは良いけどオペレーションが重すぎた」系のマーケットプレイスは狙い目ですね。過去の失敗事例を教師データとして、自分のプロダクトのリスクマネジメントに使うのも賢い。\n\n皆さんは、数年前に「これ欲しかったけど高すぎて無理だった」と諦めたサービス、今ならAIでどう作り直しますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-10-startups-rip-rebuild-dead-yc-startups-with-ai.jpg",
+    "created_at": "2026-04-10T14:34:28.245282+09:00",
+    "posted": false
   }
 ]
