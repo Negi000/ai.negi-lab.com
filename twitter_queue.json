@@ -10347,5 +10347,33 @@
     "image_path": "/images/posts/2026-04-10-startups-rip-rebuild-dead-yc-startups-with-ai.jpg",
     "created_at": "2026-04-10T14:34:28.245282+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-04-10-mercor-data-breach-ai-security-risks",
+    "title": "評価額1兆円超えAI企業Mercorのデータ流出と訴訟が突きつける現実",
+    "url": "https://ai.negi-lab.com/posts/mercor-data-breach-ai-security-risks/",
+    "category": "NEWS",
+    "viral_tags": "#AI倫理 #サイバーセキュリティ",
+    "tweet_text": "評価額1兆円超えのAIユニコーンMercorが、データ流出と訴訟で崖っぷちに立たされています。SIer出身の私から見れば、これは「AIの賢さ」に浮かれて「システムの基本」を忘れた業界全体の慢心が招いた結果です。\n\n特にビデオ面接データやAIによる評価スコアの流出は、候補者の人生を左右する致命的なダメージ。AIが生成する膨大な非構造化データの管理、皆さんの現場では大丈夫ですか？ベクトルDBに生の個人情報を放り込んでいませんか？\n\nかつてのクラウド移行期と同じく、今は「便利さ」から「安全性」へ評価基準が移る過渡期。ここでガバナンスを軽視する企業は、どんなにモデルが優秀でも一瞬で市場から消し飛びます。\n\nエンジニアが今すぐチェックすべき3つの防衛策と、100億ドルの評価額がなぜ砂上の楼閣だったのか、実務者目線で徹底解説しました。これからのAI開発で「生き残る側」になるための必須知識です。\n\n皆さんの現場では、サードパーティAIツールのセキュリティ審査、どこまで厳密にやってますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-10-mercor-data-breach-ai-security-risks.jpg",
+    "created_at": "2026-04-10T16:47:47.362347+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-10-airlinkee-review-engineer-portfolio-optimization",
+    "title": "Airlinkee 使い方と実務でポートフォリオを構築する価値を徹底評価",
+    "url": "https://ai.negi-lab.com/posts/airlinkee-review-engineer-portfolio-optimization/",
+    "category": "TOOL",
+    "viral_tags": "#Airlinkee #エンジニアキャリア",
+    "tweet_text": "エンジニアのポートフォリオ、いつの間にか「放置された負債」になっていませんか？\nSIer時代から20件以上の案件をこなしてきましたが、自分の実績をまとめる作業ほど面倒なものはない。\nNext.jsで自作してデザインに凝るのもいいですが、結局更新が止まるなら意味がない。\n\nそこで最近試している「Airlinkee」が、仕事で使うにはかなり合理的でした。\n一言で言うと、ビジネス特化型のリンクまとめツール。\nLinktreeほどチャラくなく、Bentoほどデザインに寄りすぎていない。\nこの「硬さ」が、技術顧問や受託案件を狙うエンジニアにはちょうどいい。\n\n特に驚いたのがページの軽量さ。Lighthouseで測定しても爆速。\nモバイルで0.4秒で開くのは、忙しいクライアントを待たせないための最低限の礼儀です。\nAPI連携（シミュレーション含む）を想定した実務的な使い心地をまとめました。\n\nGitHubやZenn、ブログがバラバラになっている人は、一度「窓口」を統一してみるといいかもしれません。\n皆さんは自分のポートフォリオ、何で作ってますか？自作派とSaaS派、どっちが多いんでしょうね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-10-airlinkee-review-engineer-portfolio-optimization.jpg",
+    "created_at": "2026-04-10T16:48:55.512491+09:00",
+    "posted": false
   }
 ]
