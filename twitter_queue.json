@@ -10431,5 +10431,33 @@
     "image_path": "/images/posts/2026-04-10-local-llm-ollama-python-tutorial-llama3.jpg",
     "created_at": "2026-04-10T22:28:57.970242+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-11-wm-studio-digital-twin-marketing-review",
+    "title": "WM Studio 独自のデジタルツイン技術で広告クリエイティブの「一貫性」問題を解決する",
+    "url": "https://ai.negi-lab.com/posts/wm-studio-digital-twin-marketing-review/",
+    "category": "TOOL",
+    "viral_tags": "#WMStudio #デジタルツイン",
+    "tweet_text": "AIで広告クリエイティブを作ると「毎回キャラの顔が変わる」「ブランドのトーンが崩れる」という問題、ずっと付きまとってましたよね。WM Studioを触ってみて、その解決策がようやく実用レベルになったと感じています。\n\nキモは「Digital Twin（デジタルツイン）」という概念。単なるプロンプト管理じゃなく、ブランドの魂をパッケージ化して固定するイメージです。実際にSDKのドキュメントを読み込むと、特定のツインIDを指定して一気にバリエーションを生成する設計が実にエンジニアライクで美しい。\n\nSIer時代に何百時間もかけて手作業でやってきたアセット管理が、これ1つで自動化される時代。特にD2Cや広告代理店で「数百パターンのパーソナライズ広告」を回したい人には、間違いなく武器になります。ただ、素材が悪いとデジタルツインも劣化するので、そこは腕の見せ所ですね。\n\n実際に導入してROIが見込めるのはどの程度の規模感か？また、他ツールとの決定的な精度の差についても本音で書きました。クリエイティブ制作の「型」ができているチームなら、これほど頼もしい相棒はいないかもしれません。\n\nみなさんの現場では、生成AIの「出力のブレ」をどうやって抑えていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-11-wm-studio-digital-twin-marketing-review.jpg",
+    "created_at": "2026-04-11T00:28:47.402005+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-11-qwen-3-6-vllm-local-api-tutorial",
+    "title": "Qwen 3.6 使い方：ローカルLLMをビジネス実務で運用するプライベートAPIサーバー構築術",
+    "url": "https://ai.negi-lab.com/posts/qwen-3-6-vllm-local-api-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen2 #ローカルLLM",
+    "tweet_text": "RedditのLocalLLaMA界隈で話題のQwen 3.6。スペック案への投票結果が出て、いよいよリリースが現実味を帯びてきました。\n\nSIer時代、商用APIのコストとプライバシーの壁に何度もぶち当たりましたが、今のQwenシリーズは「もうこれ、社内サーバーでいいじゃん」と思わせる完成度です。特にコード生成と多言語対応の進化が凄まじい。\n\n今回はRTX 4090を2枚回して、本気で実務に耐える「プライベートAPIサーバー」をvLLMで構築する手順をまとめました。\n\n・なぜllama.cppではなくvLLMなのか\n・VRAM不足で詰まらないための量子化の選び方\n・バッチ処理で必須になるリトライ処理の実装\n\n「動かしてみた」の先にある、仕事で使うための泥臭い設定とコードを詰め込んでいます。72Bモデルをローカルでサクサク動かす快感は、一度味わうと戻れません。\n\n自宅サーバーでLLM運用してる方、今回のQwen 3.6に何を期待しますか？私はMixture of Experts(MoE)による更なる軽量化と、長文コンテキストの安定性がどこまで伸びるかに注目しています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-11-qwen-3-6-vllm-local-api-tutorial.jpg",
+    "created_at": "2026-04-11T00:32:54.100453+09:00",
+    "posted": false
   }
 ]
