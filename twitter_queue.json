@@ -10403,5 +10403,33 @@
     "image_path": "/images/posts/2026-04-10-hn-tokenmaxxing-ai-developer-leaderboard-review.jpg",
     "created_at": "2026-04-10T19:13:39.059645+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-10-labelsets-dataset-quality-score-review",
+    "title": "Labelsets 使い方 レビュー：データ品質を数値化する新時代のデータセット調達術",
+    "url": "https://ai.negi-lab.com/posts/labelsets-dataset-quality-score-review/",
+    "category": "TOOL",
+    "viral_tags": "#機械学習 #データエンジニアリング",
+    "tweet_text": "SIer時代、データ洗浄だけで数週間溶かした経験がある人には刺さるはず。機械学習の「Garbage In, Garbage Out」問題を根本から解決しそうなツール「Labelsets」を徹底的に深掘りしました。\n\n最大の特徴は、マーケットプレイス上の全てのデータセットに独自の「品質スコア」が付与されている点。これ、地味に見えて実務では革命的です。Hugging Faceで汚いデータを引いて絶望する時間がゼロになる可能性がある。\n\nPython SDK経由で「スコア0.8以上のデータだけ取得」といったフィルタリングができるので、MLOpsのパイプラインにそのまま組み込めるのが強い。現状は英語データが主流ですが、商用利用のライセンス管理も明快で、プロの現場での利用を強く意識した設計になっています。\n\n正直、趣味のプロジェクトならHugging Faceで十分ですが、納期と精度に追われるプロなら、この「品質の数値化」にお金を払う価値は十分にあると感じました。皆さんはデータセットを選ぶ際、何を基準に「質」を判断していますか？独自のチェック用スクリプトとか持っている人がいたら、ぜひコメントで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-10-labelsets-dataset-quality-score-review.jpg",
+    "created_at": "2026-04-10T22:24:44.950124+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-10-local-llm-ollama-python-tutorial-llama3",
+    "title": "Local LLM 使い方 入門：OllamaとPythonで自分専用のAIアシスタントを作る方法",
+    "url": "https://ai.negi-lab.com/posts/local-llm-ollama-python-tutorial-llama3/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLM #Ollama",
+    "tweet_text": "LocalLLaMAの進化が止まりませんね。一昔前は「ローカルなんてお遊び」という空気もありましたが、Llama 3.1 8Bの登場で完全に潮目が変わりました。\n\nかつてSIerで機密保持のためにChatGPT使用禁止という制約に苦しんだ経験がありますが、今の環境ならそんな悩みは無用です。OllamaとPythonを組み合わせれば、ネット遮断環境でも自分専用のAIアシスタントが30分で構築できてしまいます。\n\n今回、Redditの最新トレンドを踏まえた「仕事で使えるローカルLLM環境」の構築ガイドを書きました。単に動かすだけでなく、ファイル読み込みや自動要約など、実務への繋げ方にフォーカスしています。\n\nRTX 4090を2枚挿して日々検証していますが、正直8GBクラスのGPUでも量子化モデルを使えば実用速度で動くのが今の凄いところ。API課金に疲れた人や、機密情報を安全に処理したい人は、一度ローカルに回帰してみる価値がありますよ。\n\n実際にローカルLLMを業務やプライベートで導入している方、どのモデルが一番「しっくり」きていますか？私は結局Llama 3.1 8Bに戻ってきてしまうのですが、他の選択肢も気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-10-local-llm-ollama-python-tutorial-llama3.jpg",
+    "created_at": "2026-04-10T22:28:57.970242+09:00",
+    "posted": false
   }
 ]
