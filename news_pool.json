@@ -1,144 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Dashla",
-      "url": "https://www.producthunt.com/products/dashla-dashboard-for-tesla",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Tesla vehicle status, navigation, map + more in a dashboard </p> <p> <a href=\"https://www.producthunt.com/products/dashla-dashboard-for-tesla?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1114393?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-04T06:45:52"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "MAI-Transcribe-1",
-      "url": "https://www.producthunt.com/products/mai-image-2-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Production ASR for noisy multilingual audio </p> <p> <a href=\"https://www.producthunt.com/products/mai-image-2-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1114405?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-04T06:45:52"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Vxero Neo",
-      "url": "https://www.producthunt.com/products/vxero-neo",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> SSH-native CLI that manage servers, apps, infrastructure </p> <p> <a href=\"https://www.producthunt.com/products/vxero-neo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1112503?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-04T06:45:52"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-      "extra": {
-        "stars_today": "23 stars today"
-      },
-      "collected_at": "2026-04-04T06:45:54"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "FreeRTOS/FreeRTOS-Kernel",
-      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
-      "extra": {
-        "stars_today": "8 stars today"
-      },
-      "collected_at": "2026-04-04T06:45:54"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Netflix just dropped their first public model on Hugging Face: VOID: Video Object and Interaction Deletion",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sbc5ij/netflix_just_dropped_their_first_public_model_on/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-03T12:25:09+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sbc5ij/netflix_just_dropped_their_first_public_model_on/\"> <img alt=\"Netflix just dropped their first public model on Hugging Face: VOID: Video Object and Interaction Deletion\" src=\"https://preview.redd.it/bgt3czvcwysg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2830f216f4887cf33173a66e3d6a9e37a9dca84\" title=\"Netflix just dropped their first public model on Hugging Face: VOID: Video Object and Interaction Deletion\" /",
-      "extra": {},
-      "collected_at": "2026-04-04T06:45:54"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Gemma 4 is fine great even …",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sb9f4g/gemma_4_is_fine_great_even/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-03T10:03:38+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sb9f4g/gemma_4_is_fine_great_even/\"> <img alt=\"Gemma 4 is fine great even …\" src=\"https://preview.redd.it/as75283l8ysg1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=79f9f9eb2bc27314989e18fd6271b8254777b14e\" title=\"Gemma 4 is fine great even …\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Been playing with the new Gemma 4 models it’s amazing great even but boy did it make me appreciate the level of quality the qwe",
-      "extra": {},
-      "collected_at": "2026-04-04T06:45:54"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "My biggest Issue with the Gemma-4 Models is the Massive KV Cache!!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sbe40t/my_biggest_issue_with_the_gemma4_models_is_the/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-03T13:48:13+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I mean, I have 40GB of Vram and I still cannot fit the entire Unsloth Gemma-4-31B-it-UD-Q8 (35GB) even at 2K context size unless I quantize KV to Q4 with 2K context size? WTF? For comparison, I can fit the entire UD-Q8 Qwen3.5-27B at full context without KV quantization! </p> <p>If I have to run a Q4 Gemma-4-31B-it-UD with a Q8 KV cache, then I am better off just using Qwen3.5-27B. After all, the latter beats the former in basically all benchmarks.</p> <p>What's",
-      "extra": {},
-      "collected_at": "2026-04-04T06:45:54"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Visual Guide to Gemma 4",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sbik5l/visual_guide_to_gemma_4/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-04-03T16:36:46+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sbik5l/visual_guide_to_gemma_4/\"> <img alt=\"Visual Guide to Gemma 4\" src=\"https://preview.redd.it/nbsmjvho60tg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=33d08d5f997d53e7e6fbc9abf8f50b46c57e7163\" title=\"Visual Guide to Gemma 4\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>source: <a href=\"https://x.com/osanseviero/status/2040105484061954349\">https://x.com/osanseviero/status/2040105484061954349</a></p> <p><a hre",
-      "extra": {},
-      "collected_at": "2026-04-04T06:45:54"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Smaller models are getting scary good.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sbl0pa/smaller_models_are_getting_scary_good/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-03T18:05:48+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sbl0pa/smaller_models_are_getting_scary_good/\"> <img alt=\"Smaller models are getting scary good.\" src=\"https://preview.redd.it/er16hegkk0tg1.png?width=140&amp;height=50&amp;auto=webp&amp;s=ae170d836264ab045d6f33120a4492854b15b3c7\" title=\"Smaller models are getting scary good.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I am still processing this lol.</p> <p>I had <strong>Gemini 3 Pro Deepthink</strong> try to solve ",
-      "extra": {},
-      "collected_at": "2026-04-04T06:45:54"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
       "url": "https://news.ycombinator.com/item?id=47633396",
@@ -3287,20 +3149,6 @@
       "collected_at": "2026-04-10T22:22:07"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "Final voting results for Qwen 3.6",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1shk8ia/final_voting_results_for_qwen_36/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-04-10T11:48:29+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shk8ia/final_voting_results_for_qwen_36/\"> <img alt=\"Final voting results for Qwen 3.6\" src=\"https://preview.redd.it/6g8jt1w4pcug1.png?width=140&amp;height=56&amp;auto=webp&amp;s=aba722d21b3a42443b6fcf8f7dccd761cb7e62d5\" title=\"Final voting results for Qwen 3.6\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>7 days have passed. Hopefully, the release will start soon</p> <p><a href=\"https://x.com/ChujieZheng/status/20399",
-      "extra": {},
-      "collected_at": "2026-04-10T22:22:07"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
       "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
@@ -3312,19 +3160,6 @@
       "summary": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.",
       "extra": {},
       "collected_at": "2026-04-11T00:28:15"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "WM Studio",
-      "url": "https://www.producthunt.com/products/wm-studio",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Craft campaign ready content with a digital twin </p> <p> <a href=\"https://www.producthunt.com/products/wm-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1114908?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-11T00:28:18"
     },
     {
       "source": "Product Hunt",
@@ -3393,7 +3228,141 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shkqj5/gemma426ba4b_with_my_coding_agent_kon/\"> <img alt=\"gemma-4-26B-A4B with my coding agent Kon\" src=\"https://preview.redd.it/dlhfzz0rtcug1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7d60b8643930caaccd57be1a5529b9a731710fd\" title=\"gemma-4-26B-A4B with my coding agent Kon\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Wanted to share my coding agent, which has been working great with these local models for si",
       "extra": {},
       "collected_at": "2026-04-11T00:28:21"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 10 Apr 2026 20:27:52 +0000",
+      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+      "extra": {},
+      "collected_at": "2026-04-11T06:50:35"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 10 Apr 2026 16:41:34 +0000",
+      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+      "extra": {},
+      "collected_at": "2026-04-11T06:50:35"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 10 Apr 2026 16:38:43 +0000",
+      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
+      "extra": {},
+      "collected_at": "2026-04-11T06:50:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Buddi",
+      "url": "https://www.producthunt.com/products/buddi-living-in-the-notch",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your Claude Code companion, living in the notch. </p> <p> <a href=\"https://www.producthunt.com/products/buddi-living-in-the-notch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119556?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-11T06:50:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Complexity Indicator",
+      "url": "https://www.producthunt.com/products/complexity-indicator",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Know when your code becomes unmaintainable </p> <p> <a href=\"https://www.producthunt.com/products/complexity-indicator?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1120065?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-11T06:50:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Inbox Autopilot by Dimension",
+      "url": "https://www.producthunt.com/products/dimension-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your inbox, handled </p> <p> <a href=\"https://www.producthunt.com/products/dimension-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119668?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-11T06:50:44"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM 5.1 tops the code arena rankings for open models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1shq4ty/glm_51_tops_the_code_arena_rankings_for_open/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-10T15:40:17+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shq4ty/glm_51_tops_the_code_arena_rankings_for_open/\"> <img alt=\"GLM 5.1 tops the code arena rankings for open models\" src=\"https://preview.redd.it/ienycmczudug1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=573d99ac13883363685f13b982920998c7bb0e43\" title=\"GLM 5.1 tops the code arena rankings for open models\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Auralore\"> /u/Auralore </a> <br />",
+      "extra": {},
+      "collected_at": "2026-04-11T06:50:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "More Gemma4 fixes in the past 24 hours",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1shs6sx/more_gemma4_fixes_in_the_past_24_hours/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-04-10T16:52:36+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Reasoning budget fix</strong> (merged): <a href=\"https://github.com/ggml-org/llama.cpp/pull/21697\">https://github.com/ggml-org/llama.cpp/pull/21697</a></p> <p><strong>New chat templates from Google to fix tool calling:</strong></p> <p>31B: <a href=\"https://huggingface.co/google/gemma-4-31B-it/blob/main/chat_template.jinja\">https://huggingface.co/google/gemma-4-31B-it/blob/main/chat_template.jinja</a></p> <p>27B: <a href=\"https://huggingface.co/google/gem",
+      "extra": {},
+      "collected_at": "2026-04-11T06:50:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "National University of Singapore Presents \"DMax\": A New Paradigm For Diffusion Language Models (dLLMs) Enabling Aggressive Parallel Decoding.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sht2yo/national_university_of_singapore_presents_dmax_a/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-10T17:23:39+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sht2yo/national_university_of_singapore_presents_dmax_a/\"> <img alt=\"National University of Singapore Presents &quot;DMax&quot;: A New Paradigm For Diffusion Language Models (dLLMs) Enabling Aggressive Parallel Decoding.\" src=\"https://external-preview.redd.it/bDAzanRzMWhkZXVnMf4lJz6lDhZUGqzj-n7TS81LbcgwKX5GOZEE6b5miHOs.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a94da35f87e9c54c8c574268c53d3118a76bf89\" title=\"National ",
+      "extra": {},
+      "collected_at": "2026-04-11T06:50:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-10T18:23:15+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/\"> <img alt=\"GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost\" src=\"https://preview.redd.it/s9lg647zjeug1.png?width=140&amp;height=62&amp;auto=webp&amp;s=b0d653ca733acfd42ba605ee94b679a07fcd489d\" title=\"GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost\" /> </a> </td><td> <!-- S",
+      "extra": {},
+      "collected_at": "2026-04-11T06:50:47"
     }
   ],
-  "updated_at": "2026-04-11T00:28:21.103617+09:00"
+  "updated_at": "2026-04-11T06:50:47.680003+09:00"
 }

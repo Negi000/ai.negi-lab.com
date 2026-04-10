@@ -10459,5 +10459,19 @@
     "image_path": "/images/posts/2026-04-11-qwen-3-6-vllm-local-api-tutorial.jpg",
     "created_at": "2026-04-11T00:32:54.100453+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-11-anthropic-bans-openclaw-creator-platform-risk",
+    "title": "AnthropicがOpenClaw開発者を追放した裏側とAI開発者が直面するプラットフォーム依存の罠",
+    "url": "https://ai.negi-lab.com/posts/anthropic-bans-openclaw-creator-platform-risk/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #プラットフォームリスク",
+    "tweet_text": "AI開発者にとって背筋が凍るニュースが入ってきました。Anthropicが、Claudeのサードパーティ製ツール「OpenClaw」の開発者を一時的にBANしました。\n\nこれ、単なる一開発者の不運ではありません。APIの価格体系が変わった直後の措置であり、プラットフォーム側が「自社に不利益なツールの排除」を技術的に実行できることを証明してしまった形です。\n\nSIer時代から見てきた光景ですが、AI業界の「中央集権化」は予想以上に速い。どれだけ優れたツールを作っても、APIキーという心臓部を握られている以上、私たちのビジネスの命運は向こう側の匙加減一つ。\n\n正直、Claude 3.5 Sonnetの性能には惚れ込んでいましたが、今回の対応で「特定のプロバイダーに依存しすぎる危うさ」を再認識しました。APIラッパーを作っている方、あるいは特定のモデルを前提にSaaSを組んでいる方は、今すぐフォールバック戦略を見直すべきです。\n\n皆さんは、この「プラットフォームによる開発者の排除」をどう感じますか？AI企業の安全思想は、ビジネスの独占を正当化する免罪符になりつつあるのでしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-11-anthropic-bans-openclaw-creator-platform-risk.jpg",
+    "created_at": "2026-04-11T06:51:27.391416+09:00",
+    "posted": false
   }
 ]
