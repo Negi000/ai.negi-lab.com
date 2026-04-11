@@ -3087,19 +3087,6 @@
       "collected_at": "2026-04-11T11:52:42"
     },
     {
-      "source": "The Verge AI",
-      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-10T16:16:57-04:00",
-      "summary": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect's description was seen making threats outside OpenAI's [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-11T14:03:05"
-    },
-    {
       "source": "Product Hunt",
       "title": "Orbit Money",
       "url": "https://www.producthunt.com/products/orbit-money",
@@ -3232,19 +3219,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Buildermark",
-      "url": "https://www.producthunt.com/products/buildermark-open-source",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Measure how much of your code is AI-generated. Open source. </p> <p> <a href=\"https://www.producthunt.com/products/buildermark-open-source?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1120805?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-11T18:39:35"
-    },
-    {
-      "source": "Product Hunt",
       "title": "SummAgent",
       "url": "https://www.producthunt.com/products/summagent",
       "primary_category": "TOOL",
@@ -3323,7 +3297,117 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Posted something when I initially got the GPU on <a href=\"/r/IntelArc\">r/IntelArc</a>. Did not have vllm working at the time, so no real use case numbers. After many nights fighting with vllm, I finally got it to work.</p> <p>Here are some summery.</p> <ol> <li>both llama.cpp and llm-scaler-vllm produce ~12tps token generation rate.</li> <li>tensor parallel degrade performance in all fronts (this may have something to do with my PCIe topology)</li> <li>pipeline ",
       "extra": {},
       "collected_at": "2026-04-11T18:39:38"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "How Iran out-shitposted the White House",
+      "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-11T09:00:00-04:00",
+      "summary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-11T22:09:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Clicky",
+      "url": "https://www.producthunt.com/products/clicky-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> AI buddy next to your cursor on Mac—sees, guides, helps you! </p> <p> <a href=\"https://www.producthunt.com/products/clicky-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1118642?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-11T22:09:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "shush",
+      "url": "https://www.producthunt.com/products/shush-5",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Room-aware noise. Quieter. Smarter. Better REM sleep. </p> <p> <a href=\"https://www.producthunt.com/products/shush-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1114695?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-11T22:09:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tech Marketing Framework",
+      "url": "https://www.producthunt.com/products/tech-marketing-framework",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Forkable GTM system for builders struggling with marketing </p> <p> <a href=\"https://www.producthunt.com/products/tech-marketing-framework?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119188?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-11T22:09:45"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "microsoft/playwright",
+      "url": "https://github.com/microsoft/playwright",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "extra": {
+        "stars_today": "117 stars today"
+      },
+      "collected_at": "2026-04-11T22:09:47"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "JSON for Modern C++",
+      "extra": {
+        "stars_today": "12 stars today"
+      },
+      "collected_at": "2026-04-11T22:09:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "It looks like there are no plans for smaller GLM models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sig9vh/it_looks_like_there_are_no_plans_for_smaller_glm/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-11T11:13:33+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sig9vh/it_looks_like_there_are_no_plans_for_smaller_glm/\"> <img alt=\"It looks like there are no plans for smaller GLM models\" src=\"https://preview.redd.it/iyxj7523ojug1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa194a999325a300a01dd60bebbe18bc6f1f1ffc\" title=\"It looks like there are no plans for smaller GLM models\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>but my Air discussion is still open... ;)<br /> <a h",
+      "extra": {},
+      "collected_at": "2026-04-11T22:09:48"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma 4 26B A4B is still fully capable at 245283/262144 (94%) contex !",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sihwo8/gemma_4_26b_a4b_is_still_fully_capable_at/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-04-11T12:34:56+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sihwo8/gemma_4_26b_a4b_is_still_fully_capable_at/\"> <img alt=\"Gemma 4 26B A4B is still fully capable at 245283/262144 (94%) contex !\" src=\"https://preview.redd.it/x4nv3btr0kug1.png?width=140&amp;height=78&amp;auto=webp&amp;s=faf744134946eea3db9683986d1ad6310de53c76\" title=\"Gemma 4 26B A4B is still fully capable at 245283/262144 (94%) contex !\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.",
+      "extra": {},
+      "collected_at": "2026-04-11T22:09:48"
     }
   ],
-  "updated_at": "2026-04-11T18:39:38.473747+09:00"
+  "updated_at": "2026-04-11T22:09:48.168048+09:00"
 }

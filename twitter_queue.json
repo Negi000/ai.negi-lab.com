@@ -10557,5 +10557,19 @@
     "image_path": "/images/posts/2026-04-11-buildermark-ai-generated-code-detector-review.jpg",
     "created_at": "2026-04-11T18:41:10.841306+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-11-capso-mac-screenshot-recorder-review",
+    "title": "Capso オープンソースで実現するMac向けの軽量・高機能な画面キャプチャ環境",
+    "url": "https://ai.negi-lab.com/posts/capso-mac-screenshot-recorder-review/",
+    "category": "TOOL",
+    "viral_tags": "#Macアプリ #オープンソース",
+    "tweet_text": "Macの画面キャプチャ、結局どれが正解なのか。SIer時代からツールを渡り歩いてきたけど、今一番熱いのは「Capso」かもしれない。\n\n正直、CleanShot Xは最高だけど「そこまで多機能じゃなくていい、でも標準機能は物足りない」という隙間がずっと空いてた。Capsoはそこを完璧に埋めてくれる。完全OSSで無料、しかも動作がめちゃくちゃ軽い。\n\n個人的に一番の衝撃は、余計な「影」を入れずにウィンドウだけを一瞬で抜ける精度。AIエージェントの動作ログを撮ったり、LLMにUIのバグを食わせたりする時に、この「ノイズの少なさ」が効いてくる。\n\n外部サーバーへの自動アップロードもないから、機密情報を扱う開発現場でも安心して使えるのがエンジニア視点ではデカい。RTX 4090の爆速環境でも、外出先のMacBook Airでも、同じ感覚で動く。\n\nこういう「単機能で、透明性が高くて、速い」ツールこそ、僕らが必要としていたものじゃないかな。\n\nMacユーザーの皆さんは、普段キャプチャ後の加工ってどうしてますか？ 僕はそのままLLMに投げる派だけど、おすすめのワークフローあれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-04-11T22:11:08.501506+09:00",
+    "posted": false
   }
 ]
