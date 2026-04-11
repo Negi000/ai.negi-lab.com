@@ -10571,5 +10571,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-04-11T22:11:08.501506+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-12-sam-altman-new-yorker-controversy-ai-governance",
+    "title": "Sam Altmanを襲った物理的攻撃と信頼の失墜。OpenAIが抱える「ガバナンスの時限爆弾」の正体",
+    "url": "https://ai.negi-lab.com/posts/sam-altman-new-yorker-controversy-ai-governance/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #SamAltman",
+    "tweet_text": "OpenAIのSam Altmanを巡る騒動が、いよいよ技術の域を超えて「経営の時限爆弾」になってきました。自宅への物理的攻撃と、New Yorkerによる痛烈な信頼性批判。これに対しAltmanはブログで反論しましたが、開発者として無視できないのはその中身よりも「組織の不透明さ」です。\n\nSIer時代から痛感していますが、トップの個人スキャンダルや強引な政治手法は、そのままサービス停止や仕様の改悪という形で現場に降りかかってきます。今のOpenAIは、非営利のブレーキが完全に外れ、Altman個人の野心に最適化された巨大な「ブラックボックス」に変貌しつつある。\n\nGPT-4oがどんなに安くて速くても、一人のCEOの言動に依存しすぎるのはシステム設計として脆弱すぎます。今こそLangChain等でモデルを抽象化し、ClaudeやLlamaへいつでも逃げられる「マルチLLM戦略」を標準にするべきです。\n\nRTX 4090を2枚挿してローカルLLMを回している身からすると、結局は「自分の手元で動くモデル」が最強のバックアップだと痛感します。皆さんの現場では、特定のAIベンダーへの依存について、BCP（事業継続計画）の観点で議論されていますか？現場の本音を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-12-sam-altman-new-yorker-controversy-ai-governance.jpg",
+    "created_at": "2026-04-12T02:32:50.825318+09:00",
+    "posted": false
   }
 ]
