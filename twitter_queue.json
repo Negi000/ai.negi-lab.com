@@ -10585,5 +10585,19 @@
     "image_path": "/images/posts/2026-04-12-sam-altman-new-yorker-controversy-ai-governance.jpg",
     "created_at": "2026-04-12T02:32:50.825318+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-12-new-yorker-ai-art-failure-analysis",
+    "title": "AI画像生成がプロの現場で「失敗」する理由：ニューヨーカー誌の炎上から学ぶ",
+    "url": "https://ai.negi-lab.com/posts/new-yorker-ai-art-failure-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#画像生成AI #TheNewYorker",
+    "tweet_text": "老舗誌The New Yorkerがサム・アルトマンの特集で「AI生成画像」を使い大炎上。実物を見ましたが、正直これはプロが世に出して良いレベルではありません。\n\nAI特有の「造形の崩れ」をあえて放置したのか、気づかなかったのか。いずれにせよ、メディアの信頼性を著しく削る「ジャンプスケア」状態になっています。\n\n元SIerで毎日RTX 4090を回している身から言わせてもらえば、これはツール側の限界ではなく「使い手の制御不足」と「検品体制の欠如」が招いた事故です。\n\n・拡散モデルが陥る「意味的整合性」の欠如\n・ControlNet等を使わない「プロンプト一発出し」の危うさ\n・AI記事にAIアートは本当に必要なのか？\n\n技術的な背景から、開発者が今すぐ見直すべきワークフローまで深掘りしました。\n\n安易なAI導入がブランドを殺す。この教訓、皆さんはどう感じますか？\n特に商用で画像生成を提案している方々の意見を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-12-new-yorker-ai-art-failure-analysis.jpg",
+    "created_at": "2026-04-12T06:45:15.718607+09:00",
+    "posted": false
   }
 ]
