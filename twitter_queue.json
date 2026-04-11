@@ -10529,5 +10529,33 @@
     "image_path": "/images/posts/2026-04-11-one-percent-better-habit-tracker-api-review.jpg",
     "created_at": "2026-04-11T16:10:32.728247+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-11-sam-altman-house-attack-ai-security-risks",
+    "title": "サム・アルトマン氏宅への火炎瓶投げ込み事件が示すAI開発の物理的リスク",
+    "url": "https://ai.negi-lab.com/posts/sam-altman-house-attack-ai-security-risks/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #SamAltman",
+    "tweet_text": "サム・アルトマン氏の自宅に火炎瓶が投げ込まれたニュース、単なる事件以上の重みを感じます。AI開発が「コードの世界」から、物理的な暴力を伴う「現実社会の闘争」に引きずり出された瞬間です。\n\n犯人の20歳の男は逮捕されましたが、この背景にあるAIへの根深い恐怖や疎外感を無視し続けることはもうできません。SIer時代からセキュリティには関わってきましたが、今のAIリーダーに必要なのはファイアウォールではなく、防弾ガラスと24時間の武装警備。Metaは既に年間35億円もセキュリティに投じています。\n\n今後、AI企業の「要塞化」は避けられず、それは皮肉にも開発の透明性を奪うことになりかねません。RTX 4090を2枚挿しして「AI最高！」と言っていられた気楽な時代は終わりました。技術の進化と社会の受容性の乖離が、物理的な炎となって現れたことに、一人の開発者として強い危機感を覚えます。\n\n皆さんは、この事件を受けてAI開発のあり方が変わると思いますか？それとも、これは一過性の過激な事件に過ぎないと考えますか？開発現場の視点から、皆さんの本音を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-11-sam-altman-house-attack-ai-security-risks.jpg",
+    "created_at": "2026-04-11T18:40:07.939595+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-11-buildermark-ai-generated-code-detector-review",
+    "title": "Buildermark AI生成コードの割合を可視化して技術負債を管理する方法",
+    "url": "https://ai.negi-lab.com/posts/buildermark-ai-generated-code-detector-review/",
+    "category": "TOOL",
+    "viral_tags": "#Buildermark #技術負債",
+    "tweet_text": "SIer時代、誰が書いたか不明な「コピペコード」の山に絶望した経験はありませんか？生成AI時代になり、その問題はさらに深刻化しています。\n\nBuildermarkを試して衝撃を受けたのは、コードの「AI度」を瞬時に数値化できる点。1000ファイルのスキャンがわずか4.2秒。GitHubの履歴に頼らず、ソースそのものの「癖」からAI生成率を導き出します。\n\n正直、個人開発なら「動けば正義」でいい。でもチーム開発は別。AI生成率が80%を超えるファイルが紛れ込んでいるのに、誰も中身を理解していない…そんなサイレントな技術負債を、このツールは可視化してくれます。\n\n「AIを使うな」と制限する時代は終わりました。これからは「AIが書いた箇所を把握し、そこを重点的に人間がレビューする」という守りの戦略が必須。\n\n皆さんの現場では、AI生成コードの割合って把握できていますか？「実は半分以上AIかも…」という予感がある方、数値化してみる勇気はありますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-11-buildermark-ai-generated-code-detector-review.jpg",
+    "created_at": "2026-04-11T18:41:10.841306+09:00",
+    "posted": false
   }
 ]
