@@ -10473,5 +10473,19 @@
     "image_path": "/images/posts/2026-04-11-anthropic-bans-openclaw-creator-platform-risk.jpg",
     "created_at": "2026-04-11T06:51:27.391416+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-11-openai-lawsuit-chatgpt-stalking-safety-failure",
+    "title": "OpenAI提訴の衝撃 ChatGPTがストーカーを助長した責任を問う裁判の論点",
+    "url": "https://ai.negi-lab.com/posts/openai-lawsuit-chatgpt-stalking-safety-failure/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI提訴 #AIセーフティ",
+    "tweet_text": "OpenAIがChatGPTを悪用したストーカー行為を放置したとして提訴されました。驚くべきは「大量殺傷」の内部フラグが立っていたのに、被害者からの警告を3回も無視して利用を継続させた点です。\n\nSIer時代、もし私たちが作ったシステムでこれほどの致命的アラートを見逃していたら、損害賠償で会社が吹き飛ぶレベルの不祥事ですよ。AIはもはや「おもちゃ」ではなく社会インフラ。それなのにOpenAIのサポートや管理体制は、スタートアップのノリから抜け出せていない。\n\n技術的には、単一のプロンプトでは無害に見える「妄想の強化」をどう防ぐかが最大の課題です。Anthropicの憲法AIのような設計思想が、今後デファクトになるかもしれません。\n\n開発者の皆さんも「OpenAIのフィルタリングがあるから大丈夫」と過信するのは今日で終わりにしましょう。自前でLlamaGuardなどの外部モデレーションを組み込み、独自の通報・調査フローを設計しておくことが、自分たちのサービスを守る唯一の手段です。\n\nAI企業の責任範囲はどこまで認められるべきだと思いますか？プラットフォーム側が全ての対話を監視すべきなのか、それともユーザー個人の責任に留めるべきなのか。皆さんの実務的な感覚を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-11-openai-lawsuit-chatgpt-stalking-safety-failure.jpg",
+    "created_at": "2026-04-11T11:53:24.020479+09:00",
+    "posted": false
   }
 ]
