@@ -1,73 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "Apple’s best product ever",
-      "url": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-03T08:52:41-04:00",
-      "summary": "All week, we've been asking you to help us rank the 50 best products Apple ever made, as we mark the company's 50th anniversary. Thanks to everyone who pitched in - we ended up with more than 1.6 million votes! We also have lots of other coverage of Apple's first half century, and you should [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-05T16:12:06"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "PC bottleneck calculator",
-      "url": "https://www.producthunt.com/products/pc-bottleneck-calculator-5",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Check PC performance with our expert Bottleneck Calculator. </p> <p> <a href=\"https://www.producthunt.com/products/pc-bottleneck-calculator-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1116067?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-05T16:12:08"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Shotwell",
-      "url": "https://www.producthunt.com/products/shotwell",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The screenshot editor for iPhone. </p> <p> <a href=\"https://www.producthunt.com/products/shotwell?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082672?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-05T16:12:08"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Gemma 4 26b is the perfect all around local model and I'm surprised how well it does.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1scucfg/gemma_4_26b_is_the_perfect_all_around_local_model/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-05T04:36:07+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I got a 64gb memory mac about a month ago and I've been trying to find a model that is reasonably quick, decently good at coding, and doesn't overload my system. My test I've been running is having it create a doom style raycaster in html and js</p> <p>I've been told qwen 3 coder next was the king, and while its good, the 4bit variant always put my system near the edge. Also I don't know if it was because it was the 4bit variant, but it always would miss tool us",
-      "extra": {},
-      "collected_at": "2026-04-05T16:12:11"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Local Claude Code with Qwen3.5 27B",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1scrnzm/local_claude_code_with_qwen35_27b/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-05T02:19:54+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>after long research, finding best alternative for<br /> <a href=\"https://aayushgarg.dev/posts/2026-03-29-local-llm-opencode/\">Using a local LLM in OpenCode with llama.cpp</a><br /> to use totally local environment for coding tasks<br /> I found this article <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s8l1ef/how_to_connect_claude_code_cli_to_a_local/\">How to connect Claude Code CLI to a local llama.cpp server</a><br /> how to disable telemetry and make",
-      "extra": {},
-      "collected_at": "2026-04-05T16:12:11"
-    },
-    {
       "source": "VentureBeat AI",
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
       "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
@@ -3058,19 +2991,6 @@
       "collected_at": "2026-04-11T18:39:38"
     },
     {
-      "source": "The Verge AI",
-      "title": "How Iran out-shitposted the White House",
-      "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-11T09:00:00-04:00",
-      "summary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-11T22:09:28"
-    },
-    {
       "source": "Product Hunt",
       "title": "Clicky",
       "url": "https://www.producthunt.com/products/clicky-2",
@@ -3379,7 +3299,85 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Commercial use is banned without prior written permission from MiniMax.</p> <p>And their definition of &quot;commercial&quot; is broad - covers paid services, commercial APIs, and even deploying a fine-tuned version for profit. Military use is also explicitly prohibited- interesting.</p> <p>So you can't use the model or any outputs for anything commercial!</p> <p>I'm really starting to hate these &quot;open weights, closed license&quot; models...</p> <p><a href=",
       "extra": {},
       "collected_at": "2026-04-12T14:30:22"
+    },
+    {
+      "source": "Google News",
+      "title": "SoftBank, Others Set Up New Firm to Develop High-Performance AI - 時事通信ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80Zlg5NlJ4Q3Z2azdCUjFfRFdybUlYb2pnM0xRd0Z1Q2lzYno2U0s4ZWx2M1VUcnp1aFRsWDR5YUZ6azZ1emZ4eDkyd2VSRFljY3c?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 12 Apr 2026 03:17:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE80Zlg5NlJ4Q3Z2azdCUjFfRFdybUlYb2pnM0xRd0Z1Q2lzYno2U0s4ZWx2M1VUcnp1aFRsWDR5YUZ6azZ1emZ4eDkyd2VSRFljY3c?oc=5\" target=\"_blank\">SoftBank, Others Set Up New Firm to Develop High-Performance AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
+      "extra": {},
+      "collected_at": "2026-04-12T16:19:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Music Marketplace by Eleven Labs",
+      "url": "https://www.producthunt.com/products/music-marketplace-by-eleven-labs",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create a track. Publish it. Earn when it is used. </p> <p> <a href=\"https://www.producthunt.com/products/music-marketplace-by-eleven-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102577?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-12T16:19:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ClarifierAI for IOS",
+      "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Use AI for writing & translating your messages 10x faster </p> <p> <a href=\"https://www.producthunt.com/products/clarifierai-rewrite-text-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097207?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-12T16:19:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "R0Y",
+      "url": "https://www.producthunt.com/products/r0y-ai-financial-studio",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Natural language to Investing dashboards in seconds. </p> <p> <a href=\"https://www.producthunt.com/products/r0y-ai-financial-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087846?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-12T16:19:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Layered",
+      "url": "https://www.producthunt.com/products/layered-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn your selfies into a personal AI stylist </p> <p> <a href=\"https://www.producthunt.com/products/layered-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1121546?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-12T16:19:08"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Weekend project with Intel B70s",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sj4br3/weekend_project_with_intel_b70s/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-12T04:16:24+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sj4br3/weekend_project_with_intel_b70s/\"> <img alt=\"Weekend project with Intel B70s\" src=\"https://preview.redd.it/pzqttl7hqoug1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=19540aeac89d19672c985adcffd2dc1e0e483586\" title=\"Weekend project with Intel B70s\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>2x Intel Arc B70 GPUs </p> <p>Gigabyte B850 AI Top Motherboard </p> <p>AMD Ryzen 9 9900x</p> <p>Crucial 128 GB DDR5<",
+      "extra": {},
+      "collected_at": "2026-04-12T16:19:11"
     }
   ],
-  "updated_at": "2026-04-12T14:30:22.301314+09:00"
+  "updated_at": "2026-04-12T16:19:11.048710+09:00"
 }
