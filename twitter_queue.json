@@ -10711,5 +10711,33 @@
     "image_path": "/images/posts/2026-04-12-build-your-own-ai-news-curator-claude-api.jpg",
     "created_at": "2026-04-12T22:14:11.050188+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-13-layered-ai-stylist-api-review-vton",
+    "title": "Layered 自撮り画像からパーソナルAIスタイリストを構築する",
+    "url": "https://ai.negi-lab.com/posts/layered-ai-stylist-api-review-vton/",
+    "category": "TOOL",
+    "viral_tags": "#LayeredAI #FashionTech",
+    "tweet_text": "AI画像生成が「お遊び」から「実務」へ完全にシフトした感がある。\n\n最近話題のLayeredを触ってみたけど、これまでの仮想試着ツールとは一線を画す精度。正直、SIer時代にこんなツールがあれば、アパレルクライアントとの案件で数ヶ月かかっていた開発が1週間で終わってたはず。\n\n個人的に驚いたのは「顔のID保持能力」の高さ。RTX 4090を2枚挿してローカルLLMを回す私でも、このAPIの処理速度と整合性には唸らされた。自撮り1枚で、特定の商品が自分に似合うかどうかを0.3秒で判断できる世界がもう来てる。\n\n既存のVTON（Virtual Try-On）にありがちな、服が体に張り付いたような不自然さがほとんどない。これはSAMベースのセグメンテーションと、独自のディフューザーパイプラインがうまく噛み合っている証拠。\n\n正直、趣味で画像を作る人には不要。でも、アパレルECやスタイリングサービスを開発してるエンジニアなら、触らない理由がない。\n\nみなさんは、この手のAI試着ツールを自社サービスに組み込む際、一番の懸念点は何だと思いますか？精度？それともAPIのコスト？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-13-layered-ai-stylist-api-review-vton.jpg",
+    "created_at": "2026-04-13T00:10:11.955051+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-13-gemma-4-31b-speculative-decoding-guide",
+    "title": "Gemma 4 31B 爆速化ガイド Speculative Decoding の導入方法",
+    "url": "https://ai.negi-lab.com/posts/gemma-4-31b-speculative-decoding-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Gemma4 #LocalLLM",
+    "tweet_text": "ローカルLLM界隈で話題のGemma 4 31B、実はそのまま使うのはもったいない。Redditでも報告されていた「投機的デコード（Speculative Decoding）」を実機検証したところ、コード生成で+50%の高速化を叩き出しました。\n\nかつてSIerでシステム改修をしていた頃、数%の高速化に数週間かけていたのが嘘のようです。31Bという巨体を動かすのは重いですが、軽量なドラフトモデルに「下書き」をさせるだけで、推論のボトルネックであるメモリ帯域の壁を越えられます。\n\n今回は4-bit量子化したGemma 4 31Bをメインに、E2Bドラフトモデルを組み合わせた具体的なPython実装をガイドにまとめました。RTX 4090 1枚でもVRAMをやりくりすれば十分に「使える速度」になります。\n\n設定のキモは num_assistant_tokens の調整。ここを誤ると逆に遅くなるという落とし穴もあります。\n\n皆さんの環境では、30Bクラスのモデルを実用速度で動かすためにどんな工夫をしていますか？量子化の組み合わせや、独自の推論サーバー構成など、ぜひ現場の知恵を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-13-gemma-4-31b-speculative-decoding-guide.jpg",
+    "created_at": "2026-04-13T00:11:35.359447+09:00",
+    "posted": false
   }
 ]

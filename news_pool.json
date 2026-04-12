@@ -1,33 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "MicrosoftはCopilotを「娯楽目的のもので、重要な助言では頼らないこと」と警告している - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUXdGYWlkRnhFY0xZWVhmMThlT1hzVmxXUVdEZThVcE05QlhtX1RtbXVDUDVDTGZ2N1V3WWRmNHJtbXhOcXVtdHZ0S3EzbEpVVmRiTWlIdFJMMVFqSkJwX0dVMXNZck8wMzJYYkxnZTRmNERQWm1QcFlBT1ZkZ013X1pfbXB6V0cwSWRYdjNn?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 05 Apr 2026 14:55:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUXdGYWlkRnhFY0xZWVhmMThlT1hzVmxXUVdEZThVcE05QlhtX1RtbXVDUDVDTGZ2N1V3WWRmNHJtbXhOcXVtdHZ0S3EzbEpVVmRiTWlIdFJMMVFqSkJwX0dVMXNZck8wMzJYYkxnZTRmNERQWm1QcFlBT1ZkZ013X1pfbXB6V0cwSWRYdjNn?oc=5\" target=\"_blank\">MicrosoftはCopilotを「娯楽目的のもので、重要な助言では頼らないこと」と警告している</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {},
-      "collected_at": "2026-04-06T00:04:57"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "TurboQuant seems to work very well on Gemma 4 — and separately, per-layer outlier-aware K quantization is beating current public fork results on Qwen PPL",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sd05sa/turboquant_seems_to_work_very_well_on_gemma_4_and/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-05T10:25:07+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been experimenting with TurboQuant KV cache quantization in llama.cpp (CPU + Metal) on Gemma 4 26B A4B-it Q4_K_M on an Apple M4 Pro 48GB, and the results look surprisingly strong.</p> <p><strong>Gemma 4 findings</strong></p> <p>On Gemma 4, QJL seems to work well, and FWHT as a structured rotation substitute also looks like a good fit for the large attention heads (dk=256/512).</p> <p>My benchmark results:</p> <ul> <li>tq3j/q4_0: 37/37 on quality tests, 8/8 ",
-      "extra": {},
-      "collected_at": "2026-04-06T00:05:00"
-    },
-    {
       "source": "HN AI Hot",
       "title": "A Claude Code skill that makes Claude talk like a caveman, cutting token use",
       "url": "https://github.com/JuliusBrussee/caveman",
@@ -3239,19 +3212,6 @@
       "collected_at": "2026-04-12T18:44:08"
     },
     {
-      "source": "Product Hunt",
-      "title": "Interactive Simulations in Gemini",
-      "url": "https://www.producthunt.com/products/gemini-6",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Gemini now lets you play with the concepts you ask about </p> <p> <a href=\"https://www.producthunt.com/products/gemini-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1121368?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-12T18:44:10"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Unsloth MiniMax M2.7 quants just finished uploading to HF",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sj7wc8/unsloth_minimax_m27_quants_just_finished/",
@@ -3353,20 +3313,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Average vibe coder discourse",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjb47a/average_vibe_coder_discourse/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-12T10:40:03+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sjb47a/average_vibe_coder_discourse/\"> <img alt=\"Average vibe coder discourse\" src=\"https://preview.redd.it/p2u20339nqug1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=50b505fc850e5319e42c967877e7133b2397fbd1\" title=\"Average vibe coder discourse\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>the real answer is the third guy off-screen who built a personal app that replaced 3 subscriptions he was paying for and saved",
-      "extra": {},
-      "collected_at": "2026-04-12T22:12:08"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Speculative Decoding works great for Gemma 4 31B with E2B draft (+29% avg, +50% on code)",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjct6a/speculative_decoding_works_great_for_gemma_4_31b/",
       "primary_category": "GUIDE",
@@ -3378,7 +3324,59 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sjct6a/speculative_decoding_works_great_for_gemma_4_31b/\"> <img alt=\"Speculative Decoding works great for Gemma 4 31B with E2B draft (+29% avg, +50% on code)\" src=\"https://preview.redd.it/gjyo1gl1crug1.png?width=140&amp;height=95&amp;auto=webp&amp;s=8b90b6e5344a1610dc1fcc4b5fc5816cc38b89d4\" title=\"Speculative Decoding works great for Gemma 4 31B with E2B draft (+29% avg, +50% on code)\" /> </a> </td><td> <!-- SC_OFF --><div c",
       "extra": {},
       "collected_at": "2026-04-12T22:12:08"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+      "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "Sun, 12 Apr 2026 15:07:08 +0000",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "extra": {},
+      "collected_at": "2026-04-13T00:09:19"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 12 Apr 2026 15:00:00 +0000",
+      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+      "extra": {},
+      "collected_at": "2026-04-13T00:09:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Nicelydone MCP",
+      "url": "https://www.producthunt.com/products/nicely-done",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Design context for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/nicely-done?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1120554?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-13T00:09:22"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "MiniMax m2.7 (mac only) 63gb: 88% and 89gb: 95%, MMLU 200q",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjakko/minimax_m27_mac_only_63gb_88_and_89gb_95_mmlu_200q/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-12T10:08:43+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sjakko/minimax_m27_mac_only_63gb_88_and_89gb_95_mmlu_200q/\"> <img alt=\"MiniMax m2.7 (mac only) 63gb: 88% and 89gb: 95%, MMLU 200q\" src=\"https://preview.redd.it/z476wu6phqug1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d6740b47485bd6036c66b094cdd226d667be408\" title=\"MiniMax m2.7 (mac only) 63gb: 88% and 89gb: 95%, MMLU 200q\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Absolutely amazing. M5 max should be like 5",
+      "extra": {},
+      "collected_at": "2026-04-13T00:09:25"
     }
   ],
-  "updated_at": "2026-04-12T22:12:08.588229+09:00"
+  "updated_at": "2026-04-13T00:09:25.657038+09:00"
 }
