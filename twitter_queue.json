@@ -10739,5 +10739,19 @@
     "image_path": "/images/posts/2026-04-13-gemma-4-31b-speculative-decoding-guide.jpg",
     "created_at": "2026-04-13T00:11:35.359447+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-13-techcrunch-ai-glossary-guide-for-developers",
+    "title": "AI用語の定義のズレが数千万円規模のプロジェクトを破綻させる現状に、TechCrunchが決定的なガイドラインを提示しました。",
+    "url": "https://ai.negi-lab.com/posts/techcrunch-ai-glossary-guide-for-developers/",
+    "category": "NEWS",
+    "viral_tags": "#生成AI #LLM",
+    "tweet_text": "AI業界の「言葉のインフレ」にようやく終止符か。TechCrunchが公開したAI用語ガイド、これ単なる初心者向けじゃないですね。SIer時代に経験した「クラウドの定義が人によって違う地獄」が、今まさにAIの現場で起きています。\n\n「ハルシネーション（幻覚）」を単なる嘘と捉えるか、確率的な出力エラーと捉えるか。この認識のズレが数千万円規模の炎上プロジェクトを生んでいるのが実情です。今回のガイドは、いわばAI開発の標準プロトコル。\n\n特にハルシネーションとグラウンディング（根拠付け）の関係を再整理したのは英断です。RTX 4090を回してローカルLLMを検証していても感じますが、パラメータ数以上に「定義された制約」の中でどう動かすかが実務の肝。\n\nこれからは「AIだから100%正しい」という幻想を捨て、SLAに「ハルシネーション率」を明記する時代が来ます。エンジニアは「マジシャン」ではなく、数字で管理する「技術者」であるべき。\n\n皆さんの現場では、顧客へのハルシネーションの説明、どうやって納得してもらっていますか？RAGでの抑制だけで十分だと感じていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-13-techcrunch-ai-glossary-guide-for-developers.jpg",
+    "created_at": "2026-04-13T02:36:14.444855+09:00",
+    "posted": false
   }
 ]
