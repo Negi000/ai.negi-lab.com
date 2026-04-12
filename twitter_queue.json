@@ -10655,5 +10655,33 @@
     "image_path": "/images/posts/2026-04-12-eleven-labs-music-marketplace-review-monetization.jpg",
     "created_at": "2026-04-12T16:21:35.675103+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-12-railway-secures-100m-series-b-ai-native-cloud",
+    "title": "Railwayが1億ドル調達、AWSの「複雑さ」を破壊するAIネイティブ・インフラの真価",
+    "url": "https://ai.negi-lab.com/posts/railway-secures-100m-series-b-ai-native-cloud/",
+    "category": "NEWS",
+    "viral_tags": "#Railway #CloudNative",
+    "tweet_text": "SIer時代の自分に教えたい。「インフラ構築＝苦行」の時代は、Railwayの1億ドル調達で完全に終わったかもしれません。\n\nAWSのコンソールでIAMポリシーやVPC設定に数時間を溶かし、デプロイが通る頃には日が暮れている……。そんな経験、もう不要です。Railwayは「Dockerfileすら書かなくていい」究極の抽象化を目指しています。\n\n今回1億ドル（約150億円）を調達したRailwayが狙うのは、AI開発における「GPU確保とスケーリングの自動化」。200万人の開発者が広告なしで集まった理由は、実際に触れば分かります。Nixpacksによる自動ビルドは、一度体験すると元に戻れません。\n\nAIアプリの開発で最も価値があるのは「試行回数」です。インフラの儀式に時間を奪われている間に、競合はRailwayで100回テストを終えています。\n\n「インフラを詳しく知らないと危ない」という声もありますが、Pythonを書くのにアセンブラを知る必要がないのと同じ。私たちはインフラ設定ではなく、AIで何を解くかに集中すべきです。\n\nこれからのクラウドは「百貨店」のAWSから「AI専用自販機」のRailwayへ。皆さんの現場では、まだYAML地獄で消耗していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-12-railway-secures-100m-series-b-ai-native-cloud.jpg",
+    "created_at": "2026-04-12T18:45:14.479319+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-12-ray-terminal-cfo-review-for-engineers",
+    "title": "Ray 使い方レビュー ターミナルで完結するエンジニア向け資産管理",
+    "url": "https://ai.negi-lab.com/posts/ray-terminal-cfo-review-for-engineers/",
+    "category": "TOOL",
+    "viral_tags": "#CLIツール #資産管理",
+    "tweet_text": "ターミナルで資産管理を完結させる「Ray」を、AIエンジニアの視点で徹底解剖しました。\n\nマネーフォワード等のSaaSにデータを預けるのは便利ですが、APIが閉じられていたり、独自の分析がしにくかったりと、エンジニアとしてはもどかしい部分が多いですよね。\n\nRayは「Terminal First」を掲げるCFOツール。すべてのデータがローカルのSQLiteに保存されるため、自作のPythonスクリプトや、最近流行りのローカルLLM（Llama 3等）と組み合わせて「完全自動の爆速仕訳システム」を構築できます。\n\n実際に触ってみて驚いたのは、レスポンスの速さ。1,000件程度のデータなら0.05秒で検索が終わります。GUIのロードを待つ時間は、もう必要ありません。\n\nもちろん、銀行との自動連携がないなどの弱点はありますが、それを補って余りあるカスタマイズ性が魅力。SIer時代にExcel管理で消耗していた自分に教えてあげたいツールです。\n\n資産データを自分の手中に取り戻したい、あるいはAIで家計簿をハックしたいエンジニアの皆さん、こういう「不便を楽しむためのツール」の使い心地、どう思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-12-ray-terminal-cfo-review-for-engineers.jpg",
+    "created_at": "2026-04-12T18:47:08.273670+09:00",
+    "posted": false
   }
 ]

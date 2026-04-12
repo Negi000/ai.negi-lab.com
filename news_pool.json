@@ -2,48 +2,6 @@
   "items": [
     {
       "source": "VentureBeat AI",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Thu, 22 Jan 2026 14:00:00 GMT",
-      "summary": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>",
-      "extra": {},
-      "collected_at": "2026-04-05T18:38:16"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Gemma 4 for 16 GB VRAM",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1scw979/gemma_4_for_16_gb_vram/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-05T06:22:04+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I think the <strong>26B A4B</strong> MoE model is superior for 16 GB. I tested many quantizations, but if you want to keep the vision, I think the best one currently is:</p> <p><a href=\"https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF/blob/main/gemma-4-26B-A4B-it-UD-IQ4_XS.gguf\">https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF/blob/main/gemma-4-26B-A4B-it-UD-IQ4_XS.gguf</a></p> <p>(I tested bartowski variants too, but unsloth has better reasoning for",
-      "extra": {},
-      "collected_at": "2026-04-05T18:38:20"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Gemma 4 31B vs Gemma 4 26B-A4B vs Qwen 3.5 27B — 30-question blind eval with Claude Opus 4.6 as judge",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1scwos6/gemma_4_31b_vs_gemma_4_26ba4b_vs_qwen_35_27b/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-05T06:48:04+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just finished a 3-way head-to-head. Sharing the raw results because this sub has been good about poking holes in methodology, and I'd rather get that feedback than pretend my setup is perfect.</p> <p><strong>Setup</strong></p> <ul> <li>30 questions, 6 per category (code, reasoning, analysis, communication, meta-alignment)</li> <li>All three models answer the same question blind — no system prompt differences, same temperature</li> <li>Claude Opus 4.6 judges each",
-      "extra": {},
-      "collected_at": "2026-04-05T18:38:20"
-    },
-    {
-      "source": "VentureBeat AI",
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
       "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "primary_category": "NEWS",
@@ -2844,19 +2802,6 @@
       "collected_at": "2026-04-11T14:03:12"
     },
     {
-      "source": "The Verge AI",
-      "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-10T13:30:00-04:00",
-      "summary": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-11T16:04:54"
-    },
-    {
       "source": "Product Hunt",
       "title": "MolmoWeb",
       "url": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
@@ -3315,19 +3260,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Music Marketplace by Eleven Labs",
-      "url": "https://www.producthunt.com/products/music-marketplace-by-eleven-labs",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Create a track. Publish it. Earn when it is used. </p> <p> <a href=\"https://www.producthunt.com/products/music-marketplace-by-eleven-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102577?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-12T16:19:08"
-    },
-    {
-      "source": "Product Hunt",
       "title": "ClarifierAI for IOS",
       "url": "https://www.producthunt.com/products/clarifierai-rewrite-text-2",
       "primary_category": "TOOL",
@@ -3377,7 +3309,87 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sj4br3/weekend_project_with_intel_b70s/\"> <img alt=\"Weekend project with Intel B70s\" src=\"https://preview.redd.it/pzqttl7hqoug1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=19540aeac89d19672c985adcffd2dc1e0e483586\" title=\"Weekend project with Intel B70s\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>2x Intel Arc B70 GPUs </p> <p>Gigabyte B850 AI Top Motherboard </p> <p>AMD Ryzen 9 9900x</p> <p>Crucial 128 GB DDR5<",
       "extra": {},
       "collected_at": "2026-04-12T16:19:11"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Thu, 22 Jan 2026 14:00:00 GMT",
+      "summary": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.</p><p><a href=\"https://tq.vc/\">TQ Ventures</a> led the round, with participation from <a href=\"https://fpvventures.com/\">FPV Ventures</a>",
+      "extra": {},
+      "collected_at": "2026-04-12T18:44:08"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Fri, 16 Jan 2026 14:01:00 GMT",
+      "summary": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-olson\">$100 million offers</a> seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a <a href=\"https://billboardinsider.com/ai-startup/\">billboard in San Francisco</a> displayi",
+      "extra": {},
+      "collected_at": "2026-04-12T18:44:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ray",
+      "url": "https://www.producthunt.com/products/ray-7",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your personal CFO in the terminal </p> <p> <a href=\"https://www.producthunt.com/products/ray-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1121525?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-12T18:44:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Interactive Simulations in Gemini",
+      "url": "https://www.producthunt.com/products/gemini-6",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Gemini now lets you play with the concepts you ask about </p> <p> <a href=\"https://www.producthunt.com/products/gemini-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1121368?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-12T18:44:10"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Unsloth MiniMax M2.7 quants just finished uploading to HF",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sj7wc8/unsloth_minimax_m27_quants_just_finished/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-12T07:31:52+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>They range from Q1 to BF16.</p> <p>Grab them while they're still hot over at</p> <p><a href=\"https://huggingface.co/unsloth/MiniMax-M2.7-GGUF\">https://huggingface.co/unsloth/MiniMax-M2.7-GGUF</a></p> <p>Thanks to <a href=\"/u/danielhanchen\">u/danielhanchen</a>!</p> <p>Here's the current list:</p> <table><thead> <tr> <th align=\"left\">Bits</th> <th align=\"left\"><strong>Quantization Label</strong></th> <th align=\"left\"><strong>Size</strong></th> </tr> </thead><tbody",
+      "extra": {},
+      "collected_at": "2026-04-12T18:44:13"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "huge improvement after moving from ollama to llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sj6zz8/huge_improvement_after_moving_from_ollama_to/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-12T06:41:22+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Those are tiny robots fighting each other to survive.<br /> Between matches only one class of robots are driven by qwen3 coder generated code and it does improve match after match...<br /> <a href=\"https://www.youtube.com/watch?v=FMspkoXseRw\">https://www.youtube.com/watch?v=FMspkoXseRw</a></p> <p>Is funny to set different parameters and watch it.<br /> Code:<br /> <a href=\"https://github.com/leonardosalvatore/llm-robot-wars\">https://github.com/leonardosalvatore/",
+      "extra": {},
+      "collected_at": "2026-04-12T18:44:13"
     }
   ],
-  "updated_at": "2026-04-12T16:19:11.048710+09:00"
+  "updated_at": "2026-04-12T18:44:13.553001+09:00"
 }
