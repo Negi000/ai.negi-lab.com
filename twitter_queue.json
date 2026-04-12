@@ -10683,5 +10683,33 @@
     "image_path": "/images/posts/2026-04-12-ray-terminal-cfo-review-for-engineers.jpg",
     "created_at": "2026-04-12T18:47:08.273670+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-12-interactive-simulations-in-gemini-full-review",
+    "title": "Interactive Simulations in Gemini 使い方とエンジニア向け実務活用レビュー",
+    "url": "https://ai.negi-lab.com/posts/interactive-simulations-in-gemini-full-review/",
+    "category": "TOOL",
+    "viral_tags": "#GeminiAI #データサイエンス",
+    "tweet_text": "Geminiの新機能「Interactive Simulations」を触り倒しましたが、これまでのLLMとは別次元の体験です。\n\nSIer時代、複雑なアルゴリズムの挙動を確認するために数時間かけてプロトタイプを作っていたのが、今やプロンプト一つで「動くUI付きシミュレーター」として15秒で出てきます。\n単にコードを書くだけならGitHub Copilotで十分ですが、「このパラメータを変えたらどう動くか？」という試行錯誤のターンオーバーが秒単位になる衝撃。\n\nPython歴8年の視点で言わせてもらうと、これは開発効率の向上ではなく、思考プロセスの拡張です。\n特に数理モデルや物理演算を扱うエンジニアは、今すぐGemini Advancedを試すべき。\nただし、計算負荷の高いタスクは依然としてローカルのRTX 4090の方が速いなど、使い分けは必要です。\n\n正直、静的なグラフを生成するだけの時代は終わったと感じます。\nみなさんは、LLMに「実行環境」まで作らせるこの流れ、実務でどう活用しますか？\n私はまず、クライアントへのロジック説明用デモ構築に全振りするつもりです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-12-interactive-simulations-in-gemini-full-review.jpg",
+    "created_at": "2026-04-12T22:12:57.023968+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-12-build-your-own-ai-news-curator-claude-api",
+    "title": "Claude APIで有料AI要約サービスを自作する方法",
+    "url": "https://ai.negi-lab.com/posts/build-your-own-ai-news-curator-claude-api/",
+    "category": "GUIDE",
+    "viral_tags": "#Claude3 #Python入門",
+    "tweet_text": "Redditで話題になっていた「議論ばかりしているエンジニアを横目に、サクッと自作アプリでサブスクを解約する男」の話、これこそがAI時代の生存戦略だと確信しました。\n「動かしてみた」で終わらせず、自分の財布を守るツールに昇華させるのが実務家の流儀です。\n\n月額3,000円のAI要約サービスを解約して、Claude 3.5 SonnetのAPIで自分専用のニュースキュレーターを構築するガイドを書きました。\n実際、API代だけで運用すると月数百円で済みますし、何より「自分が必要な情報だけ」が届く快適さは既製品では味わえません。\n\nエンジニアなら「便利そう」で終わらせず、その手を動かしてコードで解決しましょう。\nSIer時代、仕様書ばかり書いていた自分に教えたい「30分で人生のノイズを減らす方法」です。\n1段落ごとに「なぜその設定にするのか」の実務的理由も添えました。\n皆さんは今、AIでどのサブスクを置き換えようとしていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-12-build-your-own-ai-news-curator-claude-api.jpg",
+    "created_at": "2026-04-12T22:14:11.050188+09:00",
+    "posted": false
   }
 ]
