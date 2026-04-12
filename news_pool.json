@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "Gemma 4 vs Qwen3.5 on SVG style",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1scr78z/gemma_4_vs_qwen35_on_svg_style/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-05T01:56:43+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1scr78z/gemma_4_vs_qwen35_on_svg_style/\"> <img alt=\"Gemma 4 vs Qwen3.5 on SVG style\" src=\"https://preview.redd.it/89qncddj3atg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=8e2a5da148e8b6ddee2255adba86e4a716dc51c1\" title=\"Gemma 4 vs Qwen3.5 on SVG style\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Some quick test using Gemma4-31B and Qwen3.5-27B, both Q4 quants from unsloth.</p> <p>I was already",
-      "extra": {},
-      "collected_at": "2026-04-05T14:20:35"
-    },
-    {
       "source": "The Verge AI",
       "title": "Apple’s best product ever",
       "url": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
@@ -3181,19 +3168,6 @@
       "collected_at": "2026-04-11T22:09:48"
     },
     {
-      "source": "The Verge AI",
-      "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-11T10:00:00-04:00",
-      "summary": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-12T02:31:54"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "DFlash speculative decoding on Apple Silicon : 85 tok/s, 3.3x on Qwen3.5-9B (MLX, M5 Max)",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1simszl/dflash_speculative_decoding_on_apple_silicon_85/",
@@ -3379,7 +3353,33 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sj0b7p/minimaxaiminimaxm27_is_here/\"> <img alt=\"MiniMaxAI/MiniMax-M2.7 is here!\" src=\"https://external-preview.redd.it/eL0U78fND8GlUlviBkP0QxaEppi7Fy4V7DcV-lG8MX8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=70d359cfda93c2d834560235c4170f9f5b4a4d88\" title=\"MiniMaxAI/MiniMax-M2.7 is here!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>FINALLY!!!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www",
       "extra": {},
       "collected_at": "2026-04-12T12:32:35"
+    },
+    {
+      "source": "Google News",
+      "title": "ポリテクニックの学生がAIに関する論文をQ1誌に投稿。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaElTdFhZVDNHbjBWa0tCX1NKTWh2SkEwUXJCdG9OakphUm1EYzJrMU1RZk8teVo5Smo2d3ZLdUJBcmJKaG1UcERWaFNvaDRNSGtPN1oySnFwbTd6LVE4WFBDOTZrTTVLdmlocDMyQmJhU1RiVzVpcld3V0lBSkxUeUl3?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 12 Apr 2026 03:14:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPaElTdFhZVDNHbjBWa0tCX1NKTWh2SkEwUXJCdG9OakphUm1EYzJrMU1RZk8teVo5Smo2d3ZLdUJBcmJKaG1UcERWaFNvaDRNSGtPN1oySnFwbTd6LVE4WFBDOTZrTTVLdmlocDMyQmJhU1RiVzVpcld3V0lBSkxUeUl3?oc=5\" target=\"_blank\">ポリテクニックの学生がAIに関する論文をQ1誌に投稿。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "extra": {},
+      "collected_at": "2026-04-12T14:30:20"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "MiniMax M2.7 is NOT open source - DOA License :(",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sj2oqz/minimax_m27_is_not_open_source_doa_license/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-12T02:55:38+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Commercial use is banned without prior written permission from MiniMax.</p> <p>And their definition of &quot;commercial&quot; is broad - covers paid services, commercial APIs, and even deploying a fine-tuned version for profit. Military use is also explicitly prohibited- interesting.</p> <p>So you can't use the model or any outputs for anything commercial!</p> <p>I'm really starting to hate these &quot;open weights, closed license&quot; models...</p> <p><a href=",
+      "extra": {},
+      "collected_at": "2026-04-12T14:30:22"
     }
   ],
-  "updated_at": "2026-04-12T12:32:35.435377+09:00"
+  "updated_at": "2026-04-12T14:30:22.301314+09:00"
 }
