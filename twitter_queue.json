@@ -10767,5 +10767,19 @@
     "image_path": "/images/posts/2026-04-13-trump-officials-anthropic-mythos-bank-adoption.jpg",
     "created_at": "2026-04-13T06:48:09.552583+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-13-apple-smart-glasses-four-designs-leak-analysis",
+    "title": "Appleスマートグラス試作4種が判明、Vision Proの挫折と「AIの眼鏡」への転換点",
+    "url": "https://ai.negi-lab.com/posts/apple-smart-glasses-four-designs-leak-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#AppleSmartGlasses #AppleIntelligence",
+    "tweet_text": "Appleがスマートグラスの試作4デザインをテスト中との速報。Vision Proの「全部入り」路線から、Meta Ray-Banのような「軽量×AI」への戦略的シフトが見えてきました。SIer時代、要件を詰め込みすぎて重くなったシステムが結局失敗するのを何度も見てきましたが、Appleのこの「引き算」の判断は極めて合理的だと思います。\n\n技術的にはM2/R1チップによる重厚な処理から、iPhoneへのオフロードとApple Intelligenceの連携が核になるはず。4090を2枚挿してローカルLLMを回す身からすると、デバイス側がいかに「センサー」に徹し、推論をどこまでクラウド/iPhoneに逃がせるかの勝負になると感じます。\n\n開発者は今すぐ「App Intents」と向き合うべきです。3Dウィンドウを浮かべる時代は一旦終わり、これからは「意図」をいかに言語と最小限のUIで処理するかのLUI（Language UI）設計が重要になります。\n\n皆さんは眼鏡型デバイスに何を求めますか？\n「圧倒的な没入感」か、それとも「1日中着けていられる軽さと知能」か。\nAppleのこの転換、正直に言って私は「大正解」だと思っています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-13-apple-smart-glasses-four-designs-leak-analysis.jpg",
+    "created_at": "2026-04-13T12:40:08.519642+09:00",
+    "posted": false
   }
 ]
