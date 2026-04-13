@@ -10851,5 +10851,33 @@
     "image_path": "/images/posts/2026-04-13-luma-agents-practical-review-and-tutorial.jpg",
     "created_at": "2026-04-13T19:46:55.820687+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-13-reasy-african-importer-os-review",
+    "title": "REasy アフリカ輸入業務をコードで管理する「サプライチェーンOS」の実践検証",
+    "url": "https://ai.negi-lab.com/posts/reasy-african-importer-os-review/",
+    "category": "TOOL",
+    "viral_tags": "#物流DX #アフリカビジネス",
+    "tweet_text": "アフリカ市場への輸入を「コードで管理する」という発想が面白い。REasyを詳しく調べましたが、これは単なる管理画面ではなく、複雑怪奇な通関・決済・物流を抽象化した「物流OS」です。\n\nSIer時代に苦労した「現地のフォワーダーと連絡が取れない」「着地価格が見積もりと全然違う」という地獄。これがデータ構造化され、APIで叩けるようになるインパクトは計り知れません。特にHSコードに基づいた関税計算の自動化は、実務を知る人間ほど刺さるはず。\n\nもちろん課題もあります。英語ドキュメントのみ、対応地域の限定、エンタープライズ前提のAPI公開範囲など、使い手を選ぶ側面は正直あります。でも「情報の非対称性」を技術で殴るこのアプローチ、個人的には大好きです。\n\nPythonから物流を制御するシミュレーションも書きましたが、供給網の自動補充まで見据えるなら、現時点でこれ以上の選択肢はないでしょう。アフリカ市場、あるいは物流DXに関わっているエンジニアの皆さんは、この「抽象化の粒度」をどう感じますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-13-reasy-african-importer-os-review.jpg",
+    "created_at": "2026-04-13T22:52:40.287702+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-13-local-rag-qwen2-5-32b-ollama-tutorial",
+    "title": "Qwen2.5 32B 使い方 入門：ローカル環境で爆速RAGシステムを構築する方法",
+    "url": "https://ai.negi-lab.com/posts/local-rag-qwen2-5-32b-ollama-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#Ollama #Qwen2",
+    "tweet_text": "ローカルLLMの世界に、ついに実用的な「32B」という黄金のウェイトクラスが定着しましたね。\n以前の70Bは家庭用GPUでは絶望的でしたが、Qwen2.5 32Bなら4-bit量子化でVRAM 24GBにピッタリ収まります。\nSIer時代、これだけの推論環境を構築しようとしたら数百万円のサーバー見積もりが必要でしたが、今は中古のRTX 3090一枚あれば、GPT-4クラスの知能を完全にオフラインで独占できる。\nこの衝撃を形にするために、PDFを読み込んで即戦力で使える「ローカルRAG構築ガイド」を徹底解説しました。\nLangChainとOllamaを組み合わせて、機密情報を一切外に出さない「自分専用の知能」を30分で作る手順です。\n正直、14B以下のモデルで精度に悩んでいた人は、この32Bを試すと戻れなくなると思います。\nレスポンス速度と推論の深さのバランスが、今の技術水準で最も「仕事で使える」レベルに達している。\n皆さんはローカル環境のVRAM、何GBで運用していますか？ 32Bモデルを動かしてみた感想や、推論速度の実測値などぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-13-local-rag-qwen2-5-32b-ollama-tutorial.jpg",
+    "created_at": "2026-04-13T22:53:49.824481+09:00",
+    "posted": false
   }
 ]
