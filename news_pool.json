@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Metoro",
-      "url": "https://www.producthunt.com/products/metoro",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI SRE that detects, root causes & auto-fixes K8s incidents </p> <p> <a href=\"https://www.producthunt.com/products/metoro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1114361?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-06T19:09:13"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Built my 10x NVidia V100 AI Server - 320gb vram - vLLM Testing Linux Headless - Just a Lawyer,Need Tips",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sdovu9/built_my_10x_nvidia_v100_ai_server_320gb_vram/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-06T04:26:20+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just by way of background: I am from the Midwest but I’m lawyer in South Carolina (and I am actually preparing for a trial next week and should be asleep). Have had my own Law firm for 11 years now. </p> <p>About 4 months ago Claude code did some things that were pretty powerful and scared the shit out of me. Since then I’ve probably wasted more time than I gained, but I have been successful in automating a lot of low level paralegal type tasks, and have learned",
-      "extra": {},
-      "collected_at": "2026-04-06T19:09:16"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
       "url": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
@@ -3302,32 +3274,6 @@
       "collected_at": "2026-04-13T14:48:47"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "The largest orbital compute cluster is open for business",
-      "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 13 Apr 2026 07:01:00 +0000",
-      "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
-      "extra": {},
-      "collected_at": "2026-04-13T17:09:38"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Claunnector",
-      "url": "https://www.producthunt.com/products/claunnector",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Connect your Mac's Mail, Calendar, and more to AI </p> <p> <a href=\"https://www.producthunt.com/products/claunnector?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1122283?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-13T17:09:50"
-    },
-    {
       "source": "Product Hunt",
       "title": "VoxCPM2",
       "url": "https://www.producthunt.com/products/minicpm-4-0",
@@ -3391,7 +3337,130 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've spent months building a diagnostic method for large language models. It catches what standard benchmarks miss - distributional collapse inside tensors, not just loss or perplexity.</p> <p><strong>Gemma 4 26B A4B fails it. Qwen 3.5 35B A3B passes.</strong></p> <p>I analyzed <a href=\"https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF/blob/main/gemma-4-26B-A4B-it-Q8_0.gguf\">Gemma 4 26B A4B (Q8_0) quant from Unsloth</a>. Found 29 tensors with distribution d",
       "extra": {},
       "collected_at": "2026-04-13T17:09:53"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Sam Altman reportedly targeted in second attack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-13T05:25:57-04:00",
+      "summary": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects were arrested and charged with negligent discharge, according to a police report on the incident, citing surveillance footage that appears to show a vehicle [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-13T19:44:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Luma Agents",
+      "url": "https://www.producthunt.com/products/luma-agents",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Agents that plan, iterate, + refine w/ full creative context </p> <p> <a href=\"https://www.producthunt.com/products/luma-agents?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1105337?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-13T19:45:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ContextPool",
+      "url": "https://www.producthunt.com/products/contextpool",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Persistent memory for AI coding agents </p> <p> <a href=\"https://www.producthunt.com/products/contextpool?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1122226?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-13T19:45:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Deconflict",
+      "url": "https://www.producthunt.com/products/deconflict",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Plan your WiFi and see through walls </p> <p> <a href=\"https://www.producthunt.com/products/deconflict?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1122414?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-13T19:45:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Skills Janitor",
+      "url": "https://www.producthunt.com/products/skills-janitor",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Find which Claude Code skills you actually use </p> <p> <a href=\"https://www.producthunt.com/products/skills-janitor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1113313?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-13T19:45:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "usememos/memos",
+      "url": "https://github.com/usememos/memos",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
+      "extra": {
+        "stars_today": "37 stars today"
+      },
+      "collected_at": "2026-04-13T19:45:04"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "elementor/elementor",
+      "url": "https://github.com/elementor/elementor",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
+      "extra": {
+        "stars_today": "58 stars today"
+      },
+      "collected_at": "2026-04-13T19:45:04"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I scaled a pure Spiking Neural Network (SNN) to 1.088B parameters from scratch. Ran out of budget, but here is what I found",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sk4ebm/i_scaled_a_pure_spiking_neural_network_snn_to/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-13T08:05:53+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone. I’m an 18yo indie dev, and I’ve been experimenting with Spiking Neural Networks (SNNs) for language modeling. A lot of papers (like SpikeBERT) mention that training 1B+ SNNs directly from random initialization fails due to vanishing gradients, so people usually do ANN-to-SNN conversion or distillation. I wanted to see if I could force it to converge purely in the spike domain. I had to stop at 27k steps because my wallet is literally empty lol, but",
+      "extra": {},
+      "collected_at": "2026-04-13T19:45:05"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "unsloth - MiniMax-M2.7-GGUF in BROKEN (UD-Q4_K_XL) --> avoid usage",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sk6l63/unsloth_minimaxm27gguf_in_broken_udq4_k_xl_avoid/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-13T10:14:53+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sk6l63/unsloth_minimaxm27gguf_in_broken_udq4_k_xl_avoid/\"> <img alt=\"unsloth - MiniMax-M2.7-GGUF in BROKEN (UD-Q4_K_XL) --&gt; avoid usage\" src=\"https://preview.redd.it/aibi9wexnxug1.png?width=140&amp;height=20&amp;auto=webp&amp;s=2072b338ec54aa1010e360faf68a7000bfbbae58\" title=\"unsloth - MiniMax-M2.7-GGUF in BROKEN (UD-Q4_K_XL) --&gt; avoid usage\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I am already sick entire ",
+      "extra": {},
+      "collected_at": "2026-04-13T19:45:05"
     }
   ],
-  "updated_at": "2026-04-13T17:09:53.023486+09:00"
+  "updated_at": "2026-04-13T19:45:05.714720+09:00"
 }

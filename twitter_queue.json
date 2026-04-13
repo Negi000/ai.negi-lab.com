@@ -10823,5 +10823,33 @@
     "image_path": "/images/posts/2026-04-13-claunnector-mac-mcp-claude-integration-review.jpg",
     "created_at": "2026-04-13T17:11:41.653608+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-13-sam-altman-security-attack-openai-risk-analysis",
+    "title": "サム・アルトマン襲撃事件が浮き彫りにしたAI業界の物理的脆弱性とキーマンリスク",
+    "url": "https://ai.negi-lab.com/posts/sam-altman-security-attack-openai-risk-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #SamAltman",
+    "tweet_text": "サム・アルトマン氏が2度目の襲撃を受け、自宅付近で発砲事件が発生したというニュースは、AI業界が抱える「究極の脆弱性」を露呈させました。\n\n一人のリーダーの生命が、時価総額10兆円を超える企業の命運と、世界のAI開発ロードマップを握っている現状。これこそが技術的なバグよりも恐ろしい「シングルポイント・オブ・フェイラー（単一障害点）」です。\n\n元SIerエンジニアの視点で言わせてもらえば、特定のプラットフォームに依存しすぎる設計は、もはや経営リスクでしかありません。今回の事件を受けて、開発者が取るべき行動は「AIの神格化」をやめ、淡々とマルチLLM化とローカル推論の冗長化を進めることです。\n\nOpenAIのガバナンスの歪みと、アルトマン氏への権力集中がもたらす危うさ。そして、物理セキュリティとAI監視の最前線。\n\n3,000文字超で、この事件の裏側と、私たちが今すぐ書き換えるべきコードの優先順位を徹底解説しました。\n\n皆さんは、もし明日からOpenAIのAPIが止まったら、今のプロダクトを何時間で代替環境に移行できますか？実際のBCP対策としてのマルチLLM構成について、皆さんの意見を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-13-sam-altman-security-attack-openai-risk-analysis.jpg",
+    "created_at": "2026-04-13T19:45:43.718153+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-13-luma-agents-practical-review-and-tutorial",
+    "title": "Luma Agents 使い方とマルチモーダル自動化の実践レビュー",
+    "url": "https://ai.negi-lab.com/posts/luma-agents-practical-review-and-tutorial/",
+    "category": "TOOL",
+    "viral_tags": "#LumaAgents #動画生成AI",
+    "tweet_text": "動画生成AIの「ガチャ」を回し続ける作業に疲れていませんか？Luma Agentsを触ってみましたが、これは単なる生成ツールではなく、クリエイティブ専門の自律型エージェントです。\n\n最大の特徴は、エージェントが自ら「今の出力は指示通りか？」を判断し、ダメなら自動でプロンプトを書き換えて再生成するループを持っている点。SIer時代に苦労して組んでいた条件分岐のワークフローが、今やPython数行で完結します。\n\n特にキャラクターやライティングの一貫性維持は、ローカルLLMや単発の動画生成AIとは一線を画す安定感。推論を挟む分、1回の生成に数分かかりますが、100回ガチャを回す手間を考えれば圧倒的に「買い」です。\n\nただ、APIコストの予測がしにくい点は注意が必要。実務で使うなら、あらかじめIteration回数に制限をかける実装が必須ですね。エンジニアとして、この「推論→生成→評価」のサイクルが標準になる未来を確信しました。\n\n映像制作のパイプライン化を考えている方、今のフローで一番工数がかかっている部分はどこですか？リプライで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-13-luma-agents-practical-review-and-tutorial.jpg",
+    "created_at": "2026-04-13T19:46:55.820687+09:00",
+    "posted": false
   }
 ]
