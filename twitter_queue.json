@@ -10795,5 +10795,33 @@
     "image_path": "/images/posts/2026-04-13-humanx-anthropic-claude-vs-gpt4o-review.jpg",
     "created_at": "2026-04-13T14:49:41.048735+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-13-kepler-orbital-gpu-cluster-commercial-launch",
+    "title": "宇宙でデータセンターを稼働させるという試みが、ついに「研究」から「実商用」のフェーズへ突入しました。",
+    "url": "https://ai.negi-lab.com/posts/kepler-orbital-gpu-cluster-commercial-launch/",
+    "category": "NEWS",
+    "viral_tags": "#SpaceTech #EdgeComputing",
+    "tweet_text": "ついに「宇宙データセンター」が商用フェーズに入りました。\nKepler Communicationsが地球周回軌道上で40基のGPUクラスターを稼働開始。\nこれ、単なる実験じゃなくてSophia Spaceという実顧客が既に付いているのがデカい。\n\nSIer時代に僻地の工場データを送るのに苦労した経験がありますが、宇宙はそれ以上の究極の「僻地」。\n数TBの衛星データを細い回線で地上に送るのを待つより、宇宙で推論を回して「結論の数バイト」だけ送る方が圧倒的に速い。\n\n40基という数字は地上の巨大クラスタに比べれば小さいけれど、真空・放射線・排熱不可という地獄のような環境での40基は、地上の1万基に匹敵する技術的偉業。\n「計算パワーの暴力」から「エッジでの知的な節約」へ。\nAI開発の主戦場が変わる予感がします。\n\n皆さんは、もし宇宙の計算リソースが自由に使えるなら、どんな推論を回してみたいですか？\n私は真っ先に、地球全体のリアルタイムな変化差分だけを抽出するエッジ処理を試したいですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-13-kepler-orbital-gpu-cluster-commercial-launch.jpg",
+    "created_at": "2026-04-13T17:10:35.126914+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-13-claunnector-mac-mcp-claude-integration-review",
+    "title": "Claunnector Mac標準アプリとClaudeを繋ぐMCPサーバーの実践検証",
+    "url": "https://ai.negi-lab.com/posts/claunnector-mac-mcp-claude-integration-review/",
+    "category": "TOOL",
+    "viral_tags": "#MCP #Claude3",
+    "tweet_text": "SIer時代の苦労は何だったのか…。当時はカレンダーとメールを往復して調整するだけで1日が終わることもありましたが、ついにAIがMacの「中身」を直接読み取る時代が来ました。\n\n今回試したのはProduct Huntで話題の「Claunnector」。Mac標準のメールやカレンダーをMCP（Model Context Protocol）経由でClaude Desktopに直結させるツールです。\n\n正直、これまでは「AIに文脈を教えるためのコピペ作業」が一番の無駄でした。Claunnectorを使うと「来週の予定から空き時間を探して、〇〇さんへの返信案を作って」の一言で、ローカルデータを参照した正確な回答が0.5秒で返ってきます。\n\nApple Intelligenceも期待されていますが、Claude 3.5 Sonnetの知能を今すぐMacのOSレベルで振り回せるのは、現時点ではこのMCP構成が最強かもしれません。\n\nただ、macOSの権限設定（フルディスクアクセス等）が複数必要なので、そこだけは少し骨が折れます。それでも、手動の転記作業から解放されるメリットの方が圧倒的にデカい。\n\nMac純正アプリ派の皆さんは、もうこの「ローカル直結」の便利さを体験しましたか？それともRaycast等で十分だと感じていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-13-claunnector-mac-mcp-claude-integration-review.jpg",
+    "created_at": "2026-04-13T17:11:41.653608+09:00",
+    "posted": false
   }
 ]
