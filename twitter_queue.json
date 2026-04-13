@@ -10935,5 +10935,33 @@
     "image_path": "/images/posts/2026-04-14-legitify-digital-notarization-guide-for-global-business.jpg",
     "created_at": "2026-04-14T03:04:05.132673+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-14-microsoft-enterprise-agent-vs-openclaw-comparison",
+    "title": "Microsoft Enterprise AgentとOpenClawの決定的な違い",
+    "url": "https://ai.negi-lab.com/posts/microsoft-enterprise-agent-vs-openclaw-comparison/",
+    "category": "NEWS",
+    "viral_tags": "#MicrosoftAI #OpenClaw",
+    "tweet_text": "MicrosoftがOpenClawに対抗する「企業向けAIエージェント」の開発を表明。これ、SIer時代にセキュリティ審査で地獄を見た経験から言わせてもらうと、めちゃくちゃ「分かってる」アップデートです。\n\nこれまでの自律型エージェントは、どれだけプロンプトで縛っても物理的な漏洩リスクをゼロにできなかった。今回のMSの切り口は「プロンプトに頼らないハードガードレール」。Entra IDと直結したサンドボックスでコードを実行させるから、LLMが暴走しても物理的に権限外のデータには触れない。\n\n「自由度が減る」と思うかもしれないけど、実務ではこの「退屈な安心感」こそが導入の決め手になるんですよね。OpenClawのようなOSSの勢いも凄いけど、機密データを扱う基幹業務の自動化は、こういうガチガチのマネージドサービスがかっさらっていく未来が見えます。\n\n皆さんの現場では、エージェントのセキュリティ対策、今どうしてますか？「怖くてまだ手を出せていない」という企業にとっては、これ以上ない朗報になるはずです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-14-microsoft-enterprise-agent-vs-openclaw-comparison.jpg",
+    "created_at": "2026-04-14T06:58:03.180549+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-14-voxcpm2-tts-48khz-full-review",
+    "title": "VoxCPM2 高音質TTSの導入方法と実務での活用法",
+    "url": "https://ai.negi-lab.com/posts/voxcpm2-tts-48khz-full-review/",
+    "category": "TOOL",
+    "viral_tags": "#VoxCPM2 #音声合成",
+    "tweet_text": "ついにオープンソースのTTSもここまで来ましたね。48kHz対応の「VoxCPM2」を自作PCのRTX 4090×2環境で徹底的に回してみました。\n\nこれまでOSS系の音声合成といえば24kHzが限界で、どこか「カサついた音」になりがちだったのが本音。でもVoxCPM2は別格です。10秒の音声が1.2秒で生成され、その質感は有料のElevenLabsに肉薄するレベル。\n\n特筆すべきは「Voice Design」機能。単なるクローンじゃなく、パラメータで声を設計できるから、著作権を回避した「自社専用ボイス」が作れるのが実務的に強すぎます。\n\nSIer時代に高額な音声合成ソフトを触っていた身からすると、これがローカルで、しかも無料で動くのは震えますね。ただしVRAM 12GBは最低でも欲しいところ。\n\n「今のTTSの音質に満足できない」「API代を削ってローカル化したい」というエンジニアには間違いなく刺さるはず。\n\n実際に皆さんがTTSを導入する際、音質と推論速度のどちらを優先しますか？あるいは、日本語のアクセントの自然さはどの程度重視しているでしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-14-voxcpm2-tts-48khz-full-review.jpg",
+    "created_at": "2026-04-14T06:59:14.122820+09:00",
+    "posted": false
   }
 ]
