@@ -10879,5 +10879,33 @@
     "image_path": "/images/posts/2026-04-13-local-rag-qwen2-5-32b-ollama-tutorial.jpg",
     "created_at": "2026-04-13T22:53:49.824481+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-14-vekta-ai-endurance-coaching-review",
+    "title": "Vekta 使い方とレビュー：持久系競技のトレーニングをAIで最適化する",
+    "url": "https://ai.negi-lab.com/posts/vekta-ai-endurance-coaching-review/",
+    "category": "TOOL",
+    "viral_tags": "#Vekta #スポーツテック",
+    "tweet_text": "GarminやApple Watchに溜まった膨大なデータ、ただの「記録」で終わらせていませんか？\nSIer出身のAIオタクとして、持久系スポーツ特化型AIコーチ「Vekta」を徹底的に検証しました。\n\nこのツールの凄さは、単なる練習メニューの生成じゃない。\n昨夜の睡眠不足やHRV（心拍変動）の低下を検知して「今日はインターバルを中止して30分ジョグに切り替えろ」と、データに基づいた論理的なドクターストップをかけてくれる点。\nまさに「24時間、自分のバイタルを見守るデータサイエンティスト」が専属コーチになる感覚です。\n\n実際にドキュメントを読み、API連携の挙動を確認したところ、CTL/ATLといったスポーツ科学の指標がバックエンドでかなり精密に計算されています。\n「根性論」を排除して、RTX 4090を回すように効率的にPBを更新したいエンジニアアスリートには最高の相棒になるはず。\n\nただ、デバイスを24時間つけっぱなしにする覚悟は必要。\n皆さんはトレーニングの負荷管理、どうやってますか？\n「自分の感覚」と「デバイスの数値」、どちらを信じてメニューを決めていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-14-vekta-ai-endurance-coaching-review.jpg",
+    "created_at": "2026-04-14T01:00:33.108936+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-14-minimax-api-python-m25-tutorial",
+    "title": "MiniMax API 使い方 入門 - 高性能モデル M2.5 を Python で動かす方法",
+    "url": "https://ai.negi-lab.com/posts/minimax-api-python-m25-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#MiniMax #LLM",
+    "tweet_text": "MiniMaxのM2.1/M2.5、ライセンス騒動で敬遠してるならもったいない。Ryan Lee氏の投稿を見る限り、ターゲットは「質の低いサービスを提供しているAPIプロバイダー」であって、我々一般の開発者にはむしろ追い風になるアップデートが期待できそう。\n\n実際にAbab 6.5sを叩いてみると、レスポンスの速さに驚く。RTX 4090を2枚挿してローカルLLMを回している私でも、このAPIの「キレ」には納得せざるを得ない。特に100 tokens/secを超える速度と、長文コンテキストでの粘り強さは実務で武器になる。\n\nSIer時代にこういうツールがあれば、あの徹夜続きのデータ整形作業も1時間で終わったはず。今回はPythonでこの高性能モデルを「仕事で使えるレベル」まで叩き起こす実装ガイドを書いた。\n\n結局、LLMは「動かしてみた」で終わらせず、いかに既存のクソみたいな手作業を自動化するかに価値がある。MiniMaxをただの「中国製モデル」と括らず、一つの強力なバックエンドとして評価してみてほしい。\n\nMiniMaxを業務に組み込んでる人、実際のトークン単価と精度のバランスについてどう感じてますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-14-minimax-api-python-m25-tutorial.jpg",
+    "created_at": "2026-04-14T01:02:17.779347+09:00",
+    "posted": false
   }
 ]
