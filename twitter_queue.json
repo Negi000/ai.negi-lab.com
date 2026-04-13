@@ -10781,5 +10781,19 @@
     "image_path": "/images/posts/2026-04-13-apple-smart-glasses-four-designs-leak-analysis.jpg",
     "created_at": "2026-04-13T12:40:08.519642+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-13-humanx-anthropic-claude-vs-gpt4o-review",
+    "title": "HumanXで判明したClaude 3.5独走態勢。GPT-4oを捨ててAnthropicに移行すべき技術的根拠",
+    "url": "https://ai.negi-lab.com/posts/humanx-anthropic-claude-vs-gpt4o-review/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #Claude35Sonnet",
+    "tweet_text": "サンフランシスコで開催されたHumanXカンファレンス。OpenAIのお膝元でありながら、会場の話題を独占したのはAnthropicのClaudeでした。\n\n元SIerエンジニアとして実務視点で断言しますが、もはや「お喋りが上手なGPT」か「仕事が完璧なClaude」かという議論は決着がついています。\n\n決め手はMCP（Model Context Protocol）による圧倒的な外部連携の安定性と、XML構造化プロンプトへの追従性。GPT-4oがマルチモーダルなエンタメ性を追う一方で、Claudeは「エンジニアの最強の右腕」としての地位を確立しました。\n\n実際に私もRTX 4090を回す時間を減らし、API経由でClaude 3.5 Sonnetを叩く時間を増やしています。特にプロンプトの指示無視に悩んでいる開発者は、今すぐAnthropicのDeveloper ConsoleでXMLプロンプトを試すべき。\n\n皆さんは、最近のGPT-4oの出力品質についてどう感じていますか？以前より「指示を適当に流される」感覚、ありませんか？実際の開発現場での体感を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-13-humanx-anthropic-claude-vs-gpt4o-review.jpg",
+    "created_at": "2026-04-13T14:49:41.048735+09:00",
+    "posted": false
   }
 ]

@@ -3189,20 +3189,6 @@
       "collected_at": "2026-04-13T02:35:16"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Apple reportedly testing four designs for upcoming smart glasses",
-      "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Sun, 12 Apr 2026 19:58:42 +0000",
-      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
-      "extra": {},
-      "collected_at": "2026-04-13T06:47:22"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Show HN: Claudraband – Claude Code for the Power User",
       "url": "https://github.com/halfwhey/claudraband",
@@ -3324,7 +3310,49 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sjssyx/mtmd_qwen3_audio_support_qwen3omni_and_qwen3asr/\"> <img alt=\"mtmd: qwen3 audio support (qwen3-omni and qwen3-asr)\" src=\"https://external-preview.redd.it/u1BA3sUjCaB2CzYaQvV5jYs1YLGX-82mYQTDzR0E0O4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=55466c50db2be4e8e3602c1018f24521f0bf759b\" title=\"mtmd: qwen3 audio support (qwen3-omni and qwen3-asr)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><ul> <li>qwen3-omni-moe",
       "extra": {},
       "collected_at": "2026-04-13T12:38:53"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Opus 4.6 accuracy on BridgeBench hallucination test drops from 83% to 68%",
+      "url": "https://twitter.com/bridgemindai/status/2043321284113670594",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 12 Apr 2026 18:53:35 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-13T14:48:41"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma 4 - lazy model or am I crazy? (bit of a rant)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjyzmi/gemma_4_lazy_model_or_am_i_crazy_bit_of_a_rant/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-04-13T03:11:09+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Like it says in the title. Specifically, the 26b MoE.</p> <p>I’ve wanted to like this model, so much. Thought it might replace Qwen 3.5 27b. Keep coming back to it and trying it every time there’s an update, hoping it will have improved.</p> <p>I’m running unsloth UD_Q4_K_XL on llama.cpp. I’m on the latest commits from main. I know about —jinja. I know about the interleaved thinking template. I’m not running low quant KV cache. This is far from the first model I",
+      "extra": {},
+      "collected_at": "2026-04-13T14:48:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "MiniMax-M2.7 NVFP4 on 2x RTX PRO 6000 Blackwell — bench numbers",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjx7kg/minimaxm27_nvfp4_on_2x_rtx_pro_6000_blackwell/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-13T01:48:05+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sjx7kg/minimaxm27_nvfp4_on_2x_rtx_pro_6000_blackwell/\"> <img alt=\"MiniMax-M2.7 NVFP4 on 2x RTX PRO 6000 Blackwell — bench numbers\" src=\"https://preview.redd.it/zxd2awig4vug1.png?width=140&amp;height=62&amp;auto=webp&amp;s=0eedd5e76eb500116c5b30dd5ad309352bdc2924\" title=\"MiniMax-M2.7 NVFP4 on 2x RTX PRO 6000 Blackwell — bench numbers\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/zxd2awi",
+      "extra": {},
+      "collected_at": "2026-04-13T14:48:47"
     }
   ],
-  "updated_at": "2026-04-13T12:38:53.176187+09:00"
+  "updated_at": "2026-04-13T14:48:47.082275+09:00"
 }
