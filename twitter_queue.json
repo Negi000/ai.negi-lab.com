@@ -10907,5 +10907,33 @@
     "image_path": "/images/posts/2026-04-14-minimax-api-python-m25-tutorial.jpg",
     "created_at": "2026-04-14T01:02:17.779347+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-14-vercel-ipo-ai-agent-revenue-surge",
+    "title": "VercelがIPO秒読みへ。AIエージェントによる収益爆増が証明した「フロントエンドの終焉とAI実行基盤への転換」",
+    "url": "https://ai.negi-lab.com/posts/vercel-ipo-ai-agent-revenue-surge/",
+    "category": "NEWS",
+    "viral_tags": "#Vercel #AIエージェント",
+    "tweet_text": "VercelのCEOがIPOへの準備完了を明言しました。注目すべきは、その成長を支えているのが「AIエージェント」による収益爆増だという点です。\n\nかつてSIerでインフラ構築に明け暮れていた私からすると、この変化は衝撃的です。今やVercelは単なるホスティング先ではなく、AI SDKとNext.jsを垂直統合した「AIアプリケーションの実行基盤」へと進化を遂げました。\n\n特に「Generative UI」の仕組みは、AIの推論結果に応じてReactコンポーネントが直接ストリーミングされるという、これまでのWeb開発の常識を覆すものです。従来のJSONをパースしてUIを作る泥臭い実装は、もう過去の遺物になりつつあります。\n\n今回のIPO準備は、開発者がインフラや通信制御に悩むフェーズが終わり、いかにAIをユーザー体験に落とし込むかという「純粋なプロダクト開発」に回帰したことを示唆しています。3ヶ月後にはAIエージェント機能がSaaSの標準装備になっているでしょう。\n\n皆さんの現場では、AIエージェントの実装にどのプラットフォームを検討していますか？Vercelのロックインを懸念してAWS等で自構築するか、それともスピード重視でVercel一択か。実際の現場感を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-14-vercel-ipo-ai-agent-revenue-surge.jpg",
+    "created_at": "2026-04-14T03:01:59.643673+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-14-legitify-digital-notarization-guide-for-global-business",
+    "title": "Legitify 公証手続きを完全にデジタル化しグローバルビジネスを加速させる方法",
+    "url": "https://ai.negi-lab.com/posts/legitify-digital-notarization-guide-for-global-business/",
+    "category": "TOOL",
+    "viral_tags": "#Legitify #リーガルテック",
+    "tweet_text": "海外企業との契約で避けて通れない「公証（Notarization）」の儀式。大使館を予約して、仕事中に数時間抜けて、高い手数料を払う…あの非効率な時代がようやく終わるかもしれません。\n\nProduct Huntで見つけた「Legitify」を徹底的に調べましたが、これぞ「法務のDX」と言える完成度でした。世界50以上の管轄区域に対応し、24時間365日オンラインで公証人とビデオ通話して手続きを完結できます。\n\n元SIerとして感動したのは、単なるWebサービスではなく、法人向けにAPIが提供されている点。Python SDKを使って、自社の契約管理フローに公証プロセスを組み込むシミュレーションをしてみましたが、驚くほどシンプルでした。\n\n「日本語ドキュメントがない」「国内の不動産登記には使えない」といった注意点はありますが、クロスボーダーで戦うスタートアップには強力な武器になります。\n\nかつて物理的な印鑑や国際郵送で数週間溶かしていたプロジェクトマネージャーに教えたい。皆さんの現場では、海外との法的手続きはどう自動化していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-14-legitify-digital-notarization-guide-for-global-business.jpg",
+    "created_at": "2026-04-14T03:04:05.132673+09:00",
+    "posted": false
   }
 ]

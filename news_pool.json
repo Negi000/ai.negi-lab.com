@@ -1,84 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Claude Code Down",
-      "url": "https://news.ycombinator.com/item?id=47662112",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 06 Apr 2026 15:22:41 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-07T02:44:45"
-    },
-    {
-      "source": "Google News",
-      "title": "テンプル大学ジャパンキャンパス、2026年秋学期よりAI学科を新設 - 沖縄タイムス社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wLVBCU1VxSHNMdXlSQWM0NktCZG95RHJ4TWU5TjN2eWtWbGJyU0RSU21EZFduWUdfY1h0YW9jUDFjaGZJTjJsS0ZLWnhLTnlSeHRtUjNZd0d0WExDcHc?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 06 Apr 2026 02:20:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wLVBCU1VxSHNMdXlSQWM0NktCZG95RHJ4TWU5TjN2eWtWbGJyU0RSU21EZFduWUdfY1h0YW9jUDFjaGZJTjJsS0ZLWnhLTnlSeHRtUjNZd0d0WExDcHc?oc=5\" target=\"_blank\">テンプル大学ジャパンキャンパス、2026年秋学期よりAI学科を新設</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
-      "extra": {},
-      "collected_at": "2026-04-07T02:44:47"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Adapted",
-      "url": "https://www.producthunt.com/products/adapted-health",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI Physical Therapy for Athletes </p> <p> <a href=\"https://www.producthunt.com/products/adapted-health?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1090012?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-07T02:44:47"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Mailero",
-      "url": "https://www.producthunt.com/products/mailero",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn support emails into tickets </p> <p> <a href=\"https://www.producthunt.com/products/mailero?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1116551?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-07T02:44:47"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "4Chan data can almost certainly improve model capabilities.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1se2kna/4chan_data_can_almost_certainly_improve_model/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-06T15:45:53+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1se2kna/4chan_data_can_almost_certainly_improve_model/\"> <img alt=\"4Chan data can almost certainly improve model capabilities.\" src=\"https://preview.redd.it/6u0vsqmccltg1.png?width=140&amp;height=74&amp;auto=webp&amp;s=820c3df108268da94c2ff9ed30723c3125d270b0\" title=\"4Chan data can almost certainly improve model capabilities.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The previous post was probably automoded or some",
-      "extra": {},
-      "collected_at": "2026-04-07T02:44:52"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.5-397B is shockingly useful at Q2",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1se4m16/qwen35397b_is_shockingly_useful_at_q2/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-06T16:59:20+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Quick specs, this is a workstation that was morphed into something LocalLLaMa friendly over time:</p> <ul> <li><p>3950x</p></li> <li><p>96GB DDR4 (dual channel, running at 3000mhz)</p></li> <li><p>w6800 + Rx6800 (48GB of VRAM at ~512GB/s)</p></li> <li><p>most tests done with ~20k context; kv-cache at q8_0</p></li> <li><p>llama cpp main branch with ROCM</p></li> </ul> <p>The model used was the <strong>UD_IQ2_M</strong> weights from Unsloth which is <strong>~122GB",
-      "extra": {},
-      "collected_at": "2026-04-07T02:44:52"
-    },
-    {
       "source": "Product Hunt",
       "title": "Predflow AI",
       "url": "https://www.producthunt.com/products/predflow-2",
@@ -3300,19 +3222,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Vekta",
-      "url": "https://www.producthunt.com/products/vekta",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI training and coaching platform for endurance sports </p> <p> <a href=\"https://www.producthunt.com/products/vekta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1122152?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-13T22:50:58"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Legitify",
       "url": "https://www.producthunt.com/products/legitify",
       "primary_category": "TOOL",
@@ -3347,21 +3256,6 @@
       ],
       "published": "2026-04-13T12:48:24+00:00",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sk9twd/kimi_k26_imminent/\"> <img alt=\"Kimi K2.6 imminent\" src=\"https://preview.redd.it/3wr3ia70fyug1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a7ea0a7cd95231cf0939d78df7d15c071cf36ccf\" title=\"Kimi K2.6 imminent\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Deep-Vermicelli-4591\"> /u/Deep-Vermicelli-4591 </a> <br /> <span><a href=\"https://i.redd.it/3wr3ia70fyug1.jpeg\">[link]</a></span",
-      "extra": {},
-      "collected_at": "2026-04-13T22:51:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Ryan Lee from MiniMax posts article on the license stating it's mostly for API providers that did a poor job serving M2.1/M2.5 and may update the license for regular users!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1skabyf/ryan_lee_from_minimax_posts_article_on_the/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-13T13:08:01+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1skabyf/ryan_lee_from_minimax_posts_article_on_the/\"> <img alt=\"Ryan Lee from MiniMax posts article on the license stating it's mostly for API providers that did a poor job serving M2.1/M2.5 and may update the license for regular users!\" src=\"https://preview.redd.it/l7xvpse6iyug1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=65d13821e447a4ce842ff370d992b090f55534d6\" title=\"Ryan Lee from MiniMax posts article on the licens",
       "extra": {},
       "collected_at": "2026-04-13T22:51:01"
     },
@@ -3444,7 +3338,85 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been keeping a personal journal for the past few years. The entire thing is made up of over 100k+ tokens. I noticed that some of the Gemma 4 models support 256k context, so I decided to test the 26B A4B model out by sharing my entire personal journal in the initial prompt and asking for some insights.</p> <p>Obviously, I didn’t simply just say &quot;share your insights, make no mistakes.&quot; I am fully aware of the fact that LLMs have the potential to gla",
       "extra": {},
       "collected_at": "2026-04-14T00:59:29"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-13T12:21:08-04:00",
+      "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-14T03:01:24"
+    },
+    {
+      "source": "Google News",
+      "title": "世界の航空分野における人工知能（AI）市場2026-2030年 - newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mT05wQ3Rqb0k0Nk9fdGlCRGptY00zcEVqa1poVjVMSDhfeHV4MzUxdlVFU0NTN2hieVBSWnZfU0NDTzJSR3Jvd1RVYnN3clk?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 13 Apr 2026 07:09:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mT05wQ3Rqb0k0Nk9fdGlCRGptY00zcEVqa1poVjVMSDhfeHV4MzUxdlVFU0NTN2hieVBSWnZfU0NDTzJSR3Jvd1RVYnN3clk?oc=5\" target=\"_blank\">世界の航空分野における人工知能（AI）市場2026-2030年</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newscast.jp</font>",
+      "extra": {},
+      "collected_at": "2026-04-14T03:01:32"
+    },
+    {
+      "source": "Google News",
+      "title": "企業のAI導入・利用に必要な人権の視点 - dir.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tU2hoN0N2OXBsU3BFX2xzQkpqd1VwdF83UTVDRHNnVmVyNmZWMF92eDI1ZGxaZ09hSEhFTW9lSUxPbEZsXzhNbkVDUEJYb1M1QldJcVlrZ1ZlNllqdk9fWHpPejhlUzBtWTFwcy1CeGhYTE9HMHpzMHhRNkl5ak0?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 10 Apr 2026 12:21:51 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1tU2hoN0N2OXBsU3BFX2xzQkpqd1VwdF83UTVDRHNnVmVyNmZWMF92eDI1ZGxaZ09hSEhFTW9lSUxPbEZsXzhNbkVDUEJYb1M1QldJcVlrZ1ZlNllqdk9fWHpPejhlUzBtWTFwcy1CeGhYTE9HMHpzMHhRNkl5ak0?oc=5\" target=\"_blank\">企業のAI導入・利用に必要な人権の視点</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dir.co.jp</font>",
+      "extra": {},
+      "collected_at": "2026-04-14T03:01:32"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "deckpipe.dev",
+      "url": "https://www.producthunt.com/products/deckpipe-dev",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> agent-first slide renderer </p> <p> <a href=\"https://www.producthunt.com/products/deckpipe-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1121836?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-14T03:01:32"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "WinScript",
+      "url": "https://www.producthunt.com/products/winscript",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AppleScript for Windows for AI desktop control </p> <p> <a href=\"https://www.producthunt.com/products/winscript?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119785?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-14T03:01:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "What Is Elephant-Alpha ???",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1skfknl/what_is_elephantalpha/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-13T16:15:04+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1skfknl/what_is_elephantalpha/\"> <img alt=\"What Is Elephant-Alpha ???\" src=\"https://preview.redd.it/gvmvmvxyfzug1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d13a62dcd6668f9cf7fc65345f3c59c9dc988f2c\" title=\"What Is Elephant-Alpha ???\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/One_Title_3656\"> /u/One_Title_3656 </a> <br /> <span><a href=\"https://i.redd.it/gvmvmvxyfzug1.jpeg\">[link]</",
+      "extra": {},
+      "collected_at": "2026-04-14T03:01:36"
     }
   ],
-  "updated_at": "2026-04-14T00:59:29.465491+09:00"
+  "updated_at": "2026-04-14T03:01:36.578003+09:00"
 }
