@@ -11103,5 +11103,33 @@
     "image_path": "/images/posts/2026-04-15-android-headless-ai-server-ollama-guide.jpg",
     "created_at": "2026-04-15T00:54:29.879527+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-15-science-corp-human-brain-sensor-trial",
+    "title": "Neuralink超えの「治療」特化型BCIが登場。Science Corpが挑む脳内修復の真価",
+    "url": "https://ai.negi-lab.com/posts/science-corp-human-brain-sensor-trial/",
+    "category": "NEWS",
+    "viral_tags": "#BCI #ScienceCorp",
+    "tweet_text": "Neuralinkの元社長が率いるScience Corpが、ついに脳内センサーの人体埋め込み準備に入りました。\n\nこれまでのBCI（脳機インターフェース）は「思考でPCを動かす」といった外部操作ばかりが注目されてきましたが、このプロジェクトの本質はそこではありません。狙いは「脳と脊髄の自己修復」です。\n\n損傷した神経細胞に対して、AIが制御する微弱な電気刺激を送り込み、治癒を直接促すという再生医療的なアプローチ。SIer時代にハードとソフトの統合に苦労した身からすると、脳内という過酷な環境でこれを実現する難易度は想像を絶します。\n\nNeuralinkが「情報の高速化」を目指すなら、Science Corpは「生命の修復」を目指している。この戦略の違いは、今後の投資と開発のトレンドを二分するはずです。\n\nPythonで脳波解析をする際、ノイズに泣かされるのは日常茶飯事ですが、もしデバイス側でS/N比が劇的に改善されれば、僕ら開発者ができることは一気に広がります。\n\n皆さんは、脳にチップを埋め込むなら「能力を上げるため」ですか？それとも「健康を維持するため」ですか？この境界線が曖昧になる日が、すぐそこまで来ています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-15-science-corp-human-brain-sensor-trial.jpg",
+    "created_at": "2026-04-15T03:06:06.377749+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-15-shutup-mcp-filter-tools-performance-review",
+    "title": "shutup-mcp 使い方：肥大化したMCPサーバーを整理してLLMの賢さを取り戻す",
+    "url": "https://ai.negi-lab.com/posts/shutup-mcp-filter-tools-performance-review/",
+    "category": "TOOL",
+    "viral_tags": "#Claude3 #MCP",
+    "tweet_text": "MCPサーバーを入れすぎて、LLMの挙動がおかしくなっていませんか？便利だからとCursorやClaudeにツールを詰め込むと、LLMは「今どれを使うべきか」で迷い始め、推論精度が目に見えて落ちます。これはSIer時代に大量の不要な仕様書を渡されて混乱する現場と同じ状況です。\n\nこの問題を解決するのが「shutup-mcp」。既存のMCPサーバーの前に立ち、不要なツールを99%隠してくれるプロキシです。JSON設定一つで「今のプロジェクトに必要なツール」だけに絞り込めるので、LLMの注意力を100%タスクに向けられます。\n\n実際に試したところ、ツールを3つに絞るだけで、複雑な指示への成功率が劇的に改善しました。レスポンスの遅延も5ms以下で、体感上のデメリットは皆無。RTX 4090環境でのローカルLLM運用でも、この「情報の削ぎ落とし」は必須テクニックだと確信しています。\n\n設定ファイルの管理という手間はありますが、1回数円のAPIコストの無駄打ちや、ツールの誤爆によるストレスを考えれば、導入しない手はありません。皆さんはMCPツールの肥大化、どうやって管理していますか？プロジェクトごとに使い分けている方の運用術、ぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-15-shutup-mcp-filter-tools-performance-review.jpg",
+    "created_at": "2026-04-15T03:07:23.746154+09:00",
+    "posted": false
   }
 ]
