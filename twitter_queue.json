@@ -10991,5 +10991,33 @@
     "image_path": "/images/posts/2026-04-14-stanford-ai-index-2026-public-disconnect-report.jpg",
     "created_at": "2026-04-14T14:31:35.766513+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-14-openai-sam-altman-attack-security-risk",
+    "title": "OpenAIサム・アルトマン襲撃未遂が暴いた「中央集権型AI」の致命的な物理的脆弱性",
+    "url": "https://ai.negi-lab.com/posts/openai-sam-altman-attack-security-risk/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #SamAltman",
+    "tweet_text": "OpenAIのサム・アルトマン襲撃未遂事件。テキサスから「殺害意図」を持って火炎瓶を持参し州をまたぐ移動…。これは単なる事件ではなく、AI開発が抱える「物理的な脆弱性」を突きつけた衝撃的なニュースです。\n\nSIer出身の私から見ると、今のAI開発は「中央集権」すぎる。特定のCEO、特定のオフィス、特定のサーバー群。ここを物理的に叩けば、世界の知能が止まるという構造自体が、現代最大のSPOF（単一障害点）になってしまっています。\n\nザッカーバーグが個人セキュリティに年間20億円以上かけるのは、もはや贅沢ではなく、事業継続のための必須コスト。OpenAIも「最先端の知能」を作る一方で、それを支える「生身の人間」を守る防衛力が追いついていないのが実情でしょう。\n\n皮肉なことに、この事件で「オープンソースLLM」の強みが証明されました。知能が分散していれば、誰もそれを殺せない。手元のRTX 4090でLlamaを回す意味は、自由だけでなく「生存」にも繋がると感じます。\n\n皆さんは、特定のAIプロバイダーが物理的にダウンした時の代替プラン、準備できていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-14-openai-sam-altman-attack-security-risk.jpg",
+    "created_at": "2026-04-14T16:52:57.869473+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-14-elevenagents-guardrails-2-review-and-tutorial",
+    "title": "ElevenAgents Guardrails 2.0 使い方と実務評価",
+    "url": "https://ai.negi-lab.com/posts/elevenagents-guardrails-2-review-and-tutorial/",
+    "category": "TOOL",
+    "viral_tags": "#ElevenAgents #生成AI開発",
+    "tweet_text": "LLMエージェントを本番投入する際、一番怖いのは「プロンプトの隙を突かれた事故」ですよね。\nSIer時代、バリデーションをハードコードして地獄を見た身としては、ElevenAgents Guardrails 2.0の登場はかなり衝撃的でした。\n\nこのツール、要はAIの入出力に「強制的なフィルター」を挟むミドルウェアなんですが、設計がめちゃくちゃエンジニア寄り。\nif文の山を作る代わりに、YAMLやPythonクラスで「何が禁止か」を宣言するだけで、PIIのマスキングから競合他社の言及ブロックまで自動化できます。\n\n実際に触って驚いたのは、オーバーヘッドの少なさ。\n100件回しても0.05秒程度の遅延なので、UXを損なわずに安全性を担保できる。\n正直、プロンプトだけで「機密情報は出さないで」とお願いするのは、もう限界だと思いませんか？\n\nただ、日本語特有のニュアンス検知にはまだカスタマイズが必要な印象。\n本気でB2B案件やるなら、これをベースに自社ルールを組むのが正解になりそう。\n皆さんはエージェントの暴走対策、どうしてますか？\nやっぱりプロンプトで粘る派、それともこういう外部ライブラリ入れる派？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-14-elevenagents-guardrails-2-review-and-tutorial.jpg",
+    "created_at": "2026-04-14T16:54:01.114395+09:00",
+    "posted": false
   }
 ]
