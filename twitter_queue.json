@@ -11075,5 +11075,33 @@
     "image_path": "/images/posts/2026-04-14-minimax-m27-local-llm-code-review-guide.jpg",
     "created_at": "2026-04-14T22:58:52.447465+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-15-strictlyvc-sf-2026-replit-tdk-ai-agent-hardware",
+    "title": "StrictlyVC SF 2026開催：ReplitとTDK Venturesが示す「AIエージェントと物理実装」への投資転換",
+    "url": "https://ai.negi-lab.com/posts/strictlyvc-sf-2026-replit-tdk-ai-agent-hardware/",
+    "category": "NEWS",
+    "viral_tags": "#StrictlyVC #AIエージェント",
+    "tweet_text": "2026年のAIトレンドが完全に見えました。StrictlyVC SFの登壇陣、ReplitのAmjad氏とTDK Venturesの組み合わせは、もはや「AIをどう物理世界に実装し、どう収益化するか」という実利フェーズへの完全移行を意味しています。\n\nSIer時代、インフラの構築やコードのデバッグに数週間かけていたのが嘘のようです。Replitはもはや単なるエディタではなく、自律型コーディングエージェントがアプリを完結させる「自動工場」へと変貌を遂げました。平均推論コストがアプリ1つあたり$1.20という数字は、従来の定額制モデルを完全に破壊しにかかっています。\n\nさらに興味深いのはTDKの動き。私の自宅サーバーでもRTX 4090を2枚挿すと電力消費が凄まじいですが、TDKが注視するのはこの「電力の壁」を突破するエッジAIのハード実装です。ソフトウェアの知能指数競争が落ち着き、これからは「安く、速く、リアルに繋ぐ」ためのマテリアルサイエンスがAIの勝敗を分ける時代になります。\n\nあなたはAIエージェントに「指示を出す側」の準備はできていますか？単なるAPI利用から、エージェント・オーケストレーションへのスキルシフトは、もはや待ったなしの状態です。\n\nこの変革期に、エンジニアが具体的にどう動くべきか、深掘りしてまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-15-strictlyvc-sf-2026-replit-tdk-ai-agent-hardware.jpg",
+    "created_at": "2026-04-15T00:53:31.911363+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-15-android-headless-ai-server-ollama-guide",
+    "title": "Xiaomi 12 Proを24時間稼働のAIサーバーにする手順：Snapdragon 8 Gen 1とOllamaでプライベートLLM環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/android-headless-ai-server-ollama-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLM #AndroidHack",
+    "tweet_text": "古くなったAndroidスマホ、引き出しに眠らせておくのはもったいない。\n\nSnapdragon 8 Gen 1を積んだXiaomi 12 Proを「24時間稼働のAIサーバー」に改造してみました。TermuxとOllamaを組み合わせて、外部からAPIで叩けるプライベートLLM環境の構築手順をまとめました。\n\n実際に運用してみて驚いたのは、その圧倒的な「タイパ」と「コスパ」です。\n・消費電力はアイドル時1〜2W\n・Gemma 2 2Bなら実用的な速度で返ってくる\n・月額数千円のクラウド代が浮く\n\nもちろん、熱対策なしで回すとサーマルスロットリングで激遅になるので、ペルチェクーラーでの物理冷却は必須。でも、この「手元のガジェットを限界まで使い倒す感」は、エンジニアならたまらないはず。\n\nSIer時代、高価なサーバーのセットアップに何日もかけていたのが嘘のようです。今はスマホ一台で自分専用の推論エンドポイントが作れる時代なんですね。\n\nみなさんは、古いスマホをどんな用途で再利用していますか？それとも、フリマアプリで売ってしまう派ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-15-android-headless-ai-server-ollama-guide.jpg",
+    "created_at": "2026-04-15T00:54:29.879527+09:00",
+    "posted": false
   }
 ]
