@@ -11019,5 +11019,33 @@
     "image_path": "/images/posts/2026-04-14-elevenagents-guardrails-2-review-and-tutorial.jpg",
     "created_at": "2026-04-14T16:54:01.114395+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-14-ai-influencers-coachella-lora-technology-analysis",
+    "title": "AIインフルエンサーがコーチェラを席巻、実写と見紛う精度の裏側にあるLoRAと画像生成技術の進化",
+    "url": "https://ai.negi-lab.com/posts/ai-influencers-coachella-lora-technology-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#AIインフルエンサー #StableDiffusion",
+    "tweet_text": "コーチェラにAIインフルエンサーが大量発生。このニュース、単なる「偽物の流行」で片付けるのは危険です。SIer時代にキャスティング調整で死ぬほど苦労した私から見ると、これはマーケティングの構造転換そのもの。\n\n現在の画像生成AIは、LoRAやControlNetの普及で「特定のアイデンティティ」を保ったまま、24時間365日、スキャンダルリスクなしで稼働できるようになっています。宿泊費も航空券も不要。サーバー代の数十円で、セレブと並ぶ完璧な写真が量産される世界。\n\nRTX 4090を回して検証していますが、最新のSDXLベースのワークフローなら毛穴の質感まで再現可能。もはや「AIっぽさ」を消すことが技術者の主戦場になっています。企業のマーケティング担当者は、すでに「予測不能な人間」より「100%制御可能なAI」を選び始めている。\n\nこの流れ、実写との境界線が消えるのは時間の問題ですね。3ヶ月後には、動画でも完璧に「フェスで踊るAI」がSNSを席巻しているでしょう。皆さんはこの「物語のない美」に、どれくらい価値を感じますか？あるいは、広告だと割り切って消費しますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-14-ai-influencers-coachella-lora-technology-analysis.jpg",
+    "created_at": "2026-04-14T19:15:55.341096+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-14-gastos-ai-spending-tracker-review",
+    "title": "Gastos 使い方：マルチモーダル入力による経費管理の自動化と実務効率を検証",
+    "url": "https://ai.negi-lab.com/posts/gastos-ai-spending-tracker-review/",
+    "category": "TOOL",
+    "viral_tags": "#Gastos #経費精算自動化",
+    "tweet_text": "SIer時代、あの忌々しい「経費精算」のために毎月数時間をドブに捨てていた自分に教えたい。Product Huntで見つけた「Gastos」を数日使い倒してみたけど、これは家計簿アプリというより「支出管理の入力インターフェース革命」ですね。\n\n最大の特徴はマルチモーダル入力。レシートを撮るか、スマホにボイスメモを残すだけで、LLMが「金額・店舗・カテゴリ・通貨」を0.8秒で構造化データに変えてくれる。海外出張中の現地通貨も、勝手にその日のレートで計算済み。\n\nPythonエンジニア視点で見ると、この「非構造化データから即座にアクションへ繋げる」設計は、RAGやエージェント構築のUI/UXとして非常に参考になります。手入力の摩擦をゼロにするだけで、これほどまでに継続率が変わるのかと驚かされました。\n\nただ、日本の会計ソフトへの直接連携はまだ弱いので、私はSDK経由でNotionへ飛ばす自作スクリプトで運用中。\n「月末のレシート整理」という概念自体を消し去りたい人、現状の入力体験に満足してますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-14-gastos-ai-spending-tracker-review.jpg",
+    "created_at": "2026-04-14T19:17:00.165927+09:00",
+    "posted": false
   }
 ]
