@@ -11047,5 +11047,33 @@
     "image_path": "/images/posts/2026-04-14-gastos-ai-spending-tracker-review.jpg",
     "created_at": "2026-04-14T19:17:00.165927+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-14-renderr-video-ai-automation-review",
+    "title": "Renderr ショート動画生成AIの使い方と実務での活用限界",
+    "url": "https://ai.negi-lab.com/posts/renderr-video-ai-automation-review/",
+    "category": "TOOL",
+    "viral_tags": "#Renderr #動画生成AI",
+    "tweet_text": "動画編集の「単純作業」に時間を溶かすのはもう終わりにしませんか。\n\n最近検証している「Renderr」が、想像以上に実務で使えるレベルでした。\n長尺動画を放り込むだけで、AIが文脈を理解して「バズるシーン」を自動抽出。\nテロップ、BGM、カット編集までをAPI一発で完結させてくれます。\n\nSIer時代、手動でマニュアル動画を作っていた自分に教えてあげたい。\nPython SDKが優秀で、10分の動画を約120秒で構造化できるスピード感は驚異的です。\nRTX 4090を2枚挿ししている私のローカル環境と組み合わせても、クラウド側の推論効率が良すぎて嫉妬するレベル。\n\nもちろん、日本語フォントの選択肢や複雑な言い回しの要約には課題もありますが、\n「9割の作業をAIに任せて、最後の1割を人間が検品する」\nというワークフローに変えるだけで、制作本数は文字通り桁が変わります。\n\n動画編集の自動化、どこまで進んでいますか？\n特定のシーンだけを抜き出す際の精度や、API連携で困っているポイントがあればぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-14-renderr-video-ai-automation-review.jpg",
+    "created_at": "2026-04-14T22:57:49.658514+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-14-minimax-m27-local-llm-code-review-guide",
+    "title": "Minimax-M2.7をOllamaで動かしてローカル完結の高速コードレビュー環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/minimax-m27-local-llm-code-review-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLM #MinimaxM2",
+    "tweet_text": "2026年4月、ついに「自宅でSonnet 3.5」が現実になりましたね。LocalLLaMAで話題のMinimax-M2.7を試しましたが、2.7Bというサイズからは想像できないほどコードの読解力が高い。\n\nSIer時代、セキュリティの関係でChatGPTが使えず、泣きながら手動で数万行のコードを追っていた自分に教えてあげたい。今はRTX 1枚あれば、完全にオフラインで、しかも爆速のコードレビュー環境が手に入ります。\n\n特にPrismMLの1-bit量子化モデルとの組み合わせが衝撃的で、推論速度は180 tokens/secを超えました。もう「ローカルは遅くて使い物にならない」という時代は完全に終わっています。\n\nみなさんは、この進化をどう感じていますか？\n個人的には、もうクラウドLLMに高い課金をする必要がなくなる層が出てくる気がしてなりません。ローカルLLM、どのモデルをメインに据えていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-14-minimax-m27-local-llm-code-review-guide.jpg",
+    "created_at": "2026-04-14T22:58:52.447465+09:00",
+    "posted": false
   }
 ]
