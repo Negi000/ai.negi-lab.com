@@ -11215,5 +11215,33 @@
     "image_path": "/images/posts/2026-04-15-fathom-3-review-bot-free-meeting-notes.jpg",
     "created_at": "2026-04-15T16:54:23.529150+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-15-chrome-gemini-skills-ai-workflow-automation",
+    "title": "Chrome新機能Gemini Skillsが変える「AI定型業務」の自動化と実務インパクト",
+    "url": "https://ai.negi-lab.com/posts/chrome-gemini-skills-ai-workflow-automation/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleGemini #ChromeSkills",
+    "tweet_text": "SIer時代、ExcelマクロやRPAを必死に組んで「定型業務の自動化」をしていた苦労は何だったのかと思わされる発表が来ました。\n\nChromeの新機能「Skills」が発表。これは単にGeminiとチャットする機能ではありません。お気に入りのプロンプトを「スキル」としてブラウザに保存し、あらゆるWebサイトでワンクリック実行できるという、いわば「AIマクロ」の標準搭載です。\n\n例えば「このニュースを3行で要約して」「このコードをリファクタリングして」という指示を、毎回コピペせず右クリックメニューから呼び出せるようになります。1回数秒の節約ですが、1日100回AIを叩く実務者にとっては、この「摩擦の消失」が決定的な差になります。\n\nこれによって、中途半端なAIブラウザ拡張機能はほぼ不要になるでしょう。ブラウザそのものが「AIエージェントの実行環境」に進化する過程の、非常に重要な一歩だと感じています。\n\n3ヶ月後には、便利なスキルセットをインポートして使うのが当たり前になっているはず。皆さんは、どんなプロンプトを「自分専用スキル」として常駐させたいですか？GitHubのPRレビュー？それともJiraのチケット作成補助？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-15-chrome-gemini-skills-ai-workflow-automation.jpg",
+    "created_at": "2026-04-15T19:17:06.936285+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-15-intent-augment-code-review-ai-agent-development",
+    "title": "Intent (Augment Code) 使い方と実力レビュー：AIが機能をビルドからデプロイまで完結させる",
+    "url": "https://ai.negi-lab.com/posts/intent-augment-code-review-ai-agent-development/",
+    "category": "TOOL",
+    "viral_tags": "#AugmentCode #AIエンジニアリング",
+    "tweet_text": "SIer時代の苦労は何だったのか…。AIが単にコードを書くだけの時代は終わり、これからは「機能を定義すれば、テストを通してデプロイまで完結させる」エージェントの時代。\n\n今回レビューしたIntent（Augment Code）は、既存の数百万行ある巨大リポジトリを瞬時に理解する精度が異次元です。GitHub Copilotでよくある「プロジェクトのルールを無視した勝手な実装」に悩んでいる人には、まさに特効薬。\n\n実際に触ってみて驚いたのは、独自のインデックス技術による検索速度。1万ファイル規模でもレスポンスが0.2秒を切るのは、開発体験として極上です。\n\n正直、小規模なスクリプトを書く人にはオーバースペックですが、複雑な依存関係を持つプロダクトを保守・拡張しているシニアエンジニアなら、この「文脈の深さ」の価値がわかるはず。\n\nCursorとの最大の違いは、エディタとしての機能性よりも、裏側で動く「エンジニアリング・エンジン」の自律性にあります。テストが通るまで勝手に修正を繰り返す姿は、もはや頼もしい同僚。\n\n皆さんは、AIにどこまで「自律」を求めていますか？コードの生成までか、それとも検証・デプロイまで任せたいか、実際の現場での感覚を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-15-intent-augment-code-review-ai-agent-development.jpg",
+    "created_at": "2026-04-15T19:18:10.914150+09:00",
+    "posted": false
   }
 ]
