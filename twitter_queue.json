@@ -11187,5 +11187,33 @@
     "image_path": "/images/posts/2026-04-15-google-chrome-ai-skills-workflow-automation.jpg",
     "created_at": "2026-04-15T14:31:50.962449+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-15-sam-altman-home-attack-ai-safety-crisis",
+    "title": "サム・アルトマン襲撃事件が突きつけるAIセーフティの限界と開発者が背負うべき社会的責任",
+    "url": "https://ai.negi-lab.com/posts/sam-altman-home-attack-ai-safety-crisis/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #AISafety",
+    "tweet_text": "サム・アルトマン氏の自宅に火炎瓶が投げ込まれた。このニュースを聞いた時、ついにAIに対する「実存的な恐怖」がネットの議論を超えて、物理的な暴力に変わったのだと背筋が凍る思いがしました。\n\n犯人の動機はAIによる人類滅絶への懸念。\n私たちがPythonでコードを書き、推論の精度を上げようと腐心している裏側で、社会はその進化速度に耐えきれず軋みを上げています。これまでは「ハルシネーション」や「バイアス」といったソフトウェア的なリスクを議論していれば済みましたが、これからは「社会がいかにAIを受け入れられるか」という物理的、心理的な安全担保が開発者の実務に直結します。\n\nSIer時代、サーバーが落ちることはあっても、CEOが命を狙われるほどの技術を扱っている自覚はありませんでした。しかし、今のAIはそれほどのエネルギーを持ってしまっています。\n\n開発者として今、私たちがすべきことは何でしょうか？単にAPIを叩いて便利なツールを作るだけでなく、その技術が社会に与える影響と、透明性の確保にどう向き合うべきか。皆さんは、今のAI開発のスピード感、社会の受容性とバランスが取れていると感じますか？それとも、一度立ち止まって「安全」を再定義すべき時期に来ていると思いますか？\n\n現場で手を動かしている皆さんの本音をぜひ聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-15-sam-altman-home-attack-ai-safety-crisis.jpg",
+    "created_at": "2026-04-15T16:53:17.460413+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-15-fathom-3-review-bot-free-meeting-notes",
+    "title": "Fathom 3.0 使い方と実務レビュー：会議ボットを排除した次世代議事録AIの衝撃",
+    "url": "https://ai.negi-lab.com/posts/fathom-3-review-bot-free-meeting-notes/",
+    "category": "TOOL",
+    "viral_tags": "#Fathom #AI議事録",
+    "tweet_text": "SIer時代の苦労を思い出すと、正直これをもっと早く使いたかった…。\n会議に「AIボット」が勝手に入ってきて、クライアントに「これ、消していいですか？」と詰められるあの気まずさ。Fathom 3.0はこの問題をデスクトップ録音でスマートに解決してきましたね。\n\n個人的に一番の衝撃は、ChatGPTやClaude 3.5 Sonnetと直接繋げるようになった点。\nこれ、単なる議事録ツールじゃなくて、自分のAIアカウントを「会議の脳」としてパイプライン化できるってことです。\nRTX 4090を2枚挿してローカルLLMを回してる私のような人間からすると、この「データの開放性」はかなり評価が高い。\n\nセットアップは2分。API経由でNotionやSlackに飛ばすコードを書けば、会議終了の瞬間に完璧なMarkdownが生成される。\n「要約が甘いな」と思ったら、自分のプロンプトをいじればいいだけ。\nこの「仕事で本当に使えるか」という基準で見ても、Fathom 3.0は現時点で最強の選択肢の一つだと思います。\n\n皆さんは会議AI、ボット入室させる派ですか？それともステルス派ですか？\n最近のセキュリティ事情含め、実際の現場でどう運用してるか気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-15-fathom-3-review-bot-free-meeting-notes.jpg",
+    "created_at": "2026-04-15T16:54:23.529150+09:00",
+    "posted": false
   }
 ]
