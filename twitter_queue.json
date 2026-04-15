@@ -11271,5 +11271,33 @@
     "image_path": "/images/posts/2026-04-15-llm-intelligence-drop-mitigation-guide.jpg",
     "created_at": "2026-04-15T22:51:36.465623+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-16-allbirds-pivot-to-newbird-ai-edge-inference",
+    "title": "ウールの靴を捨ててAIサーバーへ。Allbirdsが「NewBird AI」へと転身する技術的合理性",
+    "url": "https://ai.negi-lab.com/posts/allbirds-pivot-to-newbird-ai-edge-inference/",
+    "category": "NEWS",
+    "viral_tags": "#NewBirdAI #エッジコンピューティング",
+    "tweet_text": "驚きのニュースが入ってきました。あのAllbirdsが靴事業を売却し、AIインフラ企業「NewBird AI」へ完全転換します。\n\n5,000万ドルの資金を投じて彼らが狙うのは、既存の店舗や倉庫を「推論専用のエッジデータセンター」に変えること。SIer出身の私から見ると、これは極めて合理的な土地資産の再定義です。\n\n注目すべきは、独自API「BirdSeed」が叩き出す圧倒的な低遅延。物理的にユーザーに近い元店舗で計算を行うため、AWS等のクラウド比でRTTを40%削減できるとのこと。2026年の今、AIは「学習」から「推論の効率化」へ戦場が移りましたが、物理拠点を持つ強みがここで効いてくるとは…。\n\nかつての靴箱サイズに収まる液冷サーバー、しかもウールの断熱技術を応用した冷却システムというのも面白い。単なる話題作りではなく、1Mトークン$0.15という破壊的な価格設定に本気を感じます。\n\n皆さんは、身近な店舗がAIサーバー室に変わる未来、どう思いますか？特に低遅延が求められるリアルタイム系開発者の方、この価格とスペックなら乗り換える価値はありそうですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-16-allbirds-pivot-to-newbird-ai-edge-inference.jpg",
+    "created_at": "2026-04-16T00:53:43.430535+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-16-gemma-2-jailbreak-system-prompt-guide",
+    "title": "Gemma 2 使い方 Jailbreakプロンプトでモデルの制限を解除する設定ガイド",
+    "url": "https://ai.negi-lab.com/posts/gemma-2-jailbreak-system-prompt-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Gemma2 #ローカルLLM",
+    "tweet_text": "GoogleのGemma 2って性能は最高なのに、少し踏み込んだ質問をするとすぐ「お答えできません」って言ってくるのが玉にキズですよね。SIer時代、堅牢すぎるセキュリティ規定に阻まれて仕事が進まなかった記憶がフラッシュバックします。\n\n実はローカルで動かすなら、この過剰なガードレールはシステムプロンプト一枚で突破できるんです。Redditで話題になっていた「Gemma 4 Jailbreak」を実際に私のRTX 4090環境で検証しました。\n\nやり方は意外とシンプルで、モデル内部の優先順位を論理的に書き換えるだけ。API経由のChatGPTでは即対策されますが、手元で動かすオープンソースモデルなら自由自在。化学的な理論背景や高度なセキュリティの話題も、定型文の警告なしでサクサク答えてくれるようになります。\n\n llama-cpp-pythonを使った具体的な実装コードと、9B/27Bモデルを効率よく動かすための設定値をまとめました。ローカルLLMの「本当の力」を試してみたい人、実際の精度や回答拒否の回避率ってどの程度だと思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-16-gemma-2-jailbreak-system-prompt-guide.jpg",
+    "created_at": "2026-04-16T00:54:50.673338+09:00",
+    "posted": false
   }
 ]
