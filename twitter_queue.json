@@ -11243,5 +11243,33 @@
     "image_path": "/images/posts/2026-04-15-intent-augment-code-review-ai-agent-development.jpg",
     "created_at": "2026-04-15T19:18:10.914150+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-15-clawtrace-llm-agent-observability-review",
+    "title": "ClawTrace 使い方と実務レベルの評価：LLMエージェントの「トークン漏れ」を防ぐ観測ツール",
+    "url": "https://ai.negi-lab.com/posts/clawtrace-llm-agent-observability-review/",
+    "category": "TOOL",
+    "viral_tags": "#LLMエージェント #ClawTrace",
+    "tweet_text": "AIエージェントの運用で一番怖いのは、バグで無限ループしてトークン代が溶けること。SIer時代に分散システムのデバッグで死ぬほど苦労した身からすると、ClawTraceみたいな「エージェント専用のX線」は本当に救世主に見えますね。\n\n実際に触ってみて驚いたのは、導入の軽さ。pip installから計測開始まで5分。特にEpsillaのベクトルDBと組み合わせると、検索レイテンシとLLMの推論コストを1つの画面で串刺しにして見れるのが強い。\n\nLangSmithほど重厚じゃないけど、その分だけ動作が軽快で「今すぐ現場で使いたい」人には刺さる設計。エージェントが「なぜか遅い」「なぜか回答がズレる」という不透明な状態を、数字とタイムラインで即座に分解できる快感があります。\n\nただ、ドキュメントが英語メインなので、そこだけは気合が必要。Python 3.10以降が必須なのも、古い環境で動かしてる人は注意ですね。\n\nLLMエージェントを「動いてよかった」で終わらせず、商用レベルの安定性とコスト効率を追求したい人は、一度この観測スタックを試してみる価値があると思います。皆さんの現場では、エージェントのコスト管理、どうやって自動化してますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-15-clawtrace-llm-agent-observability-review.jpg",
+    "created_at": "2026-04-15T22:50:33.232022+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-15-llm-intelligence-drop-mitigation-guide",
+    "title": "LLM精度低下の対策ガイド Pythonで品質評価と自動切替を実装する",
+    "url": "https://ai.negi-lab.com/posts/llm-intelligence-drop-mitigation-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#LLM #Python",
+    "tweet_text": "SIer時代の苦労を思い出します。当時は仕様書通りに動かないのがバグでしたが、今は「モデルの更新」で昨日まで賢かったAIが突然、指示を無視する「不機嫌モード」に突入します。Redditでも話題ですが、2026年に入ってから主要モデルの知能低下が顕著だという報告が相次いでいますね。\n\n正直、APIの向こう側で何が起きているかはブラックボックス。だからこそ、私たちは「一つのモデルに依存しない」設計にシフトしなければなりません。\n\nこの記事では、Pythonを使ってLLMの応答品質をリアルタイムでスコアリングし、基準を満たさない場合に自動で別モデルへ切り替える（フォールバック）実装を解説しました。GPT-4oがダメならClaude 3.5へ、それもダメなら自前のLlama 3へ。\n\nRTX 4090を2枚挿してローカルLLMを運用している身としては、この「不変の基準点」を持つ重要性を日々痛感しています。皆さんの環境では、最近AIの挙動が変わったと感じることはありますか？特定のタスクで急に精度が落ちた、などの具体的な体験があればぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-15-llm-intelligence-drop-mitigation-guide.jpg",
+    "created_at": "2026-04-15T22:51:36.465623+09:00",
+    "posted": false
   }
 ]
