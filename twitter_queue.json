@@ -11299,5 +11299,33 @@
     "image_path": "/images/posts/2026-04-16-gemma-2-jailbreak-system-prompt-guide.jpg",
     "created_at": "2026-04-16T00:54:50.673338+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-16-aloe-blacc-biotech-ai-cancer-drug-platform",
+    "title": "バイオテック参入の壁をAIで破壊する？アロー・ブラックが挑む創薬プラットフォームの衝撃",
+    "url": "https://ai.negi-lab.com/posts/aloe-blacc-biotech-ai-cancer-drug-platform/",
+    "category": "NEWS",
+    "viral_tags": "#AI創薬 #バイオテック",
+    "tweet_text": "歌手のアロー・ブラックが癌治療のバイオテック企業を設立し、自腹でブートストラップしているというニュース。これ、単なる有名人の道楽じゃない。今のバイオテックは「実験」から「計算」のフェーズに完全に移行している証拠です。\n\n私がSIer時代に嫌というほど味わった「古い規制と複雑な利権の壁」を、彼はテクノロジーで突破しようとしています。具体的にはAIによるタンパク質構造予測や生成モデルによる分子設計。これ、RTX 4090を積んだPCがあれば個人でも研究に参画できるレベルまで敷居が下がってきているんですよね。\n\nITなら数日でMVPを作れるのに、バイオでは数年かかる。この「ラグ」をAIが埋める瞬間に、私たちは立ち会っています。正直、今のLLMブームの次に来るのは「AI創薬」の爆発だと確信しています。\n\nAPIドキュメントを読み漁るのもいいですが、AlphaFold 3の論文を読んでみてください。トランスフォーマーが「生命の設計図」をどう解釈しているかを知ると、これまでのAI観が変わりますよ。\n\nみなさんは、AIが最も変えるべき「レガシーな業界」はどこだと思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-16-aloe-blacc-biotech-ai-cancer-drug-platform.jpg",
+    "created_at": "2026-04-16T03:05:54.427384+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-16-reka-edge-multimodal-physical-ai-review",
+    "title": "Reka Edge 使い方と実務評価：エッジAIの常識を変える超軽量マルチモーダルモデル",
+    "url": "https://ai.negi-lab.com/posts/reka-edge-multimodal-physical-ai-review/",
+    "category": "TOOL",
+    "viral_tags": "#RekaAI #エッジAI",
+    "tweet_text": "AIを「画面の中」から「物理世界」へ。Reka Edgeを触ってみて、そのレスポンス速度に正直ビビりました。\n\nこれまでのマルチモーダルAIって、画像を送ってから結果が返るまで1〜2秒待つのが当たり前。でもReka Edgeは0.1秒台で初動が返ってくる。この「コンマ数秒」の差が、ロボット制御や自動検知の現場では死活問題になるんですよね。\n\nGoogleやMetaの出身者が作っただけあって、軽量化のセンスが抜群です。特にビデオストリームの理解力が高い。防犯カメラの映像から「今、何が起きたか」をリアルタイムで言語化できるレベル。\n\nSIer時代に「クラウドの遅延が〜」と言い訳してた自分に教えてあげたい。4090クラスのGPUがあれば、もう自宅が最強の推論基地になります。\n\nただ、何でもできる万能薬じゃないです。日本語の長文生成はGPT-4の方が上だし、環境構築もそれなりに骨が折れる。でも、特定用途にハマった時の爆発力は凄まじい。\n\nエッジAI、皆さんは何に使いたいですか？私は自宅の入り口に置いて、Amazonの置き配が来た瞬間に中身を特定させる仕組みを作ろうかと画策中です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-16-reka-edge-multimodal-physical-ai-review.jpg",
+    "created_at": "2026-04-16T03:06:55.446133+09:00",
+    "posted": false
   }
 ]
