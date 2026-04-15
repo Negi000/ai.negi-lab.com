@@ -11173,5 +11173,19 @@
     "image_path": "/images/posts/2026-04-15-openai-vs-anthropic-valuation-investor-shift.jpg",
     "created_at": "2026-04-15T12:27:44.454951+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-15-google-chrome-ai-skills-workflow-automation",
+    "title": "Chrome新機能「AI Skills」発表：ブラウザがAIエージェント化する衝撃",
+    "url": "https://ai.negi-lab.com/posts/google-chrome-ai-skills-workflow-automation/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleChrome #GeminiAI",
+    "tweet_text": "Google Chromeが発表した「AI Skills」が、想像以上にブラウザの定義を書き換えてきました。\n\n今まではAIに「このサイトの情報を〜して」と毎回コピペで指示していましたが、これからは「特定のワークフロー」をスキルとしてブラウザに保存・即実行できるようになります。\n\nSIer時代に苦労した、複数サイトを巡回してデータをExcelにまとめるような「虚無な作業」が、ついにワンクリックで消滅するフェーズに入ったと感じます。\n\n技術的にはGemini Nanoによるローカル推論と、レンダリングエンジンの密結合がキモ。レスポンス0.2秒以下という爆速っぷりは、もはや拡張機能レベルでは太刀打ちできません。\n\nAIチャットはもう終わりです。これからはブラウザに「自分の分身（スキル）」をどれだけ仕込めるかの勝負になります。\n\n皆さんは、ブラウザ上のどんな繰り返し作業を「スキル化」したいですか？\n私はまず、各プラットフォームの技術ドキュメントから「最新の破壊的変更」だけを抜き出すスキルを量産しようと思います。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-15-google-chrome-ai-skills-workflow-automation.jpg",
+    "created_at": "2026-04-15T14:31:50.962449+09:00",
+    "posted": false
   }
 ]
