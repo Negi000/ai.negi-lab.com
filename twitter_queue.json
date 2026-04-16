@@ -11453,5 +11453,33 @@
     "image_path": "/images/posts/2026-04-16-qwen3-6-35b-moe-python-guide.jpg",
     "created_at": "2026-04-16T23:00:55.704962+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-17-windsurf-2-0-review-agentic-ide-tutorial",
+    "title": "Windsurf 2.0 使い方：次世代AI IDEの「Flow」機能とContext理解力を徹底検証",
+    "url": "https://ai.negi-lab.com/posts/windsurf-2-0-review-agentic-ide-tutorial/",
+    "category": "TOOL",
+    "viral_tags": "#Windsurf #AIエディタ",
+    "tweet_text": "AIエディタの進化が、ついに「補完」から「自律」へ到達しました。\n\n最近話題のWindsurf 2.0を数日間、実務レベルのPythonプロジェクトで使い倒してみた感想を書きました。正直、Cursorが出た時以上の衝撃を受けています。\n\n特筆すべきは「Cascade」と呼ばれる推論エンジン。\nこれまでのAI IDEが「指示に対してコードを提案する」ものだったのに対し、Windsurfは「目的のためにエディタとターミナルを自律操作する」というDevinに近い領域に踏み込んでいます。\nエラーログをターミナルから拾い、関連ファイルを全スキャンして、テストコードまで書いて「直しておきました」と報告してくる。この体験は一度味わうと戻れません。\n\nただ、万能ではありません。\n初期設定のコツや、Cursorとの具体的な使い勝手の差、そして「あえて移行しなくていい人」の条件も本音でまとめました。\nRTX 4090を2枚挿してローカルLLMを検証し続けてきた身としても、この「IDEとの統合深度」には脱帽です。\n\n皆さんは今のAI IDEに満足していますか？\nそれとも、もっと「丸投げ」できる環境を求めていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-17-windsurf-2-0-review-agentic-ide-tutorial.jpg",
+    "created_at": "2026-04-17T01:09:40.604790+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-17-local-llm-python-ollama-tutorial",
+    "title": "OllamaとPythonでローカルLLM環境を構築する手順",
+    "url": "https://ai.negi-lab.com/posts/local-llm-python-ollama-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLM #Ollama",
+    "tweet_text": "最近はGPT-5やGeminiの新型を待つより、ローカルLLMを自分の手でこねくり回す方が圧倒的に面白いと感じています。\n\nSIer時代、APIのレートリミットや突然の仕様変更、そして「機密データの送信禁止」という分厚い壁に何度も泣かされてきました。でも今やRTX 4090さえあれば、あるいは普通のノートPCであっても、自分だけの専用知能を「隔離環境」で動かせる時代です。\n\nRedditのLocalLLaMA界隈がこれほど熱狂しているのは、大手企業のさじ加減一つで性格が変わってしまうAPIより、自分で完全にコントロールできるオープンソースモデルの方が、道具としての信頼性が高いからでしょう。\n\n今回はOllamaとPythonを使って、たった30分で「仕事で使える」ローカル推論環境を作るガイドを書きました。\n\n・APIキー不要でコストゼロ\n・外部送信一切なしの完全プライバシー\n・Temperature調整による出力の固定\n\nまずは自分のPCで「AIを飼い慣らす」感覚を味わってみてください。ローカルでLlama 3が爆速で動き出した時のあの高揚感、一度知ると戻れませんよ。\n\n皆さんはローカル環境、何で構築していますか？Ollama以外にllama.cpp直叩き派やLM Studio派の方もいると思いますが、実際の運用での安定性はどうでしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-17-local-llm-python-ollama-tutorial.jpg",
+    "created_at": "2026-04-17T01:10:38.386501+09:00",
+    "posted": false
   }
 ]
