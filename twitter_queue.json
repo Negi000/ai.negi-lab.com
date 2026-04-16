@@ -11397,5 +11397,33 @@
     "image_path": "/images/posts/2026-04-16-resend-cli-2-ai-agent-automation-guide.jpg",
     "created_at": "2026-04-16T16:54:47.868345+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-16-deepl-voice-realtime-translation-launch",
+    "title": "DeepL音声翻訳参入！Zoom会議の壁を壊す「精度特化」の実力",
+    "url": "https://ai.negi-lab.com/posts/deepl-voice-realtime-translation-launch/",
+    "category": "NEWS",
+    "viral_tags": "#DeepL #音声翻訳",
+    "tweet_text": "DeepLが音声翻訳に参入。このニュース、SIer時代に海外ベンダーとの会議で「翻訳ツールの誤訳」に泣かされた経験がある身としては、震えるほどインパクトがあります。\n\nGPT-4oが「人間らしさ」を追求する一方で、DeepLが狙うのは「ビジネスでの絶対的な正確性」。彼らがテキスト翻訳で培った「文脈を読む力」が、ついにZoomやTeamsの会議に実装されます。\n\n技術的に面白いのは、単純なSTT+翻訳の組み合わせではなく、翻訳精度を最大化するために最適化された独自パイプライン。0.2秒の速さより、1つの誤訳を減らすことに命をかけている職人気質を感じます。\n\n正直、今のZoom標準の翻訳機能は「なんとなく意味がわかる」レベルでしたが、DeepL Voiceは「これで契約交渉ができる」レベルを目指しているはず。\n\n言語の壁でキャリアが制限される時代、本当に終わるかもしれませんね。\nみなさんの現場では、今の音声翻訳ツールにどれくらい満足していますか？あるいは、どんな誤訳でヒヤッとした経験がありますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-16-deepl-voice-realtime-translation-launch.jpg",
+    "created_at": "2026-04-16T19:15:59.873484+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-16-workbench-headless-mac-ai-agent-review",
+    "title": "Workbench マシンをAIエージェントの専用操作端末に変えるリモートデスクトップ",
+    "url": "https://ai.negi-lab.com/posts/workbench-headless-mac-ai-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#Workbench #AIエージェント",
+    "tweet_text": "AIエージェントに「Macを操作させる」際の決定版がついに来た感。\nヘッドレス運用のMac miniをAIの専用マシンに変える「Workbench」がかなり実用的です。\n\nこれまでの悩みは、ディスプレイを繋いでいないMacで画面キャプチャが不安定になったり、OSのセキュリティ権限でエージェントが「目隠し」状態になることでした。Workbenchはここを仮想ディスプレイドライバとして解決。\n\n実際に叩いてみると、標準のVNC経由より圧倒的にレスポンスが速い。画像取得からメモリ展開までがスムーズなので、Claude 3.5 SonnetのComputer Useとかを本気で回したい人にはこれ以上ない武器になりますね。\n\nSIer時代にRPAの画面安定性で死ぬほど苦労した身からすると、OSレベルでここまで綺麗に抽象化してくれるのは隔世の感があります。Apple Siliconのユニファイドメモリを活かして、128GB積んだMac Studioをエージェントサーバーにするのが、今のエンジニアの「正解」の一つかもしれません。\n\n皆さんはAIエージェントを動かす時、実行環境の「画面取得」はどうしてますか？Docker内のLinux？それとも手元のMac？実際の運用で困ってることあれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-16-workbench-headless-mac-ai-agent-review.jpg",
+    "created_at": "2026-04-16T19:17:16.603775+09:00",
+    "posted": false
   }
 ]
