@@ -11425,5 +11425,33 @@
     "image_path": "/images/posts/2026-04-16-workbench-headless-mac-ai-agent-review.jpg",
     "created_at": "2026-04-16T19:17:16.603775+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-16-pilot5-ai-multi-llm-comparison-review",
+    "title": "Pilot5.ai レビュー：5つのフロンティアモデルを同時並列で競わせる「合議制AI」の実力",
+    "url": "https://ai.negi-lab.com/posts/pilot5-ai-multi-llm-comparison-review/",
+    "category": "TOOL",
+    "viral_tags": "#Pilot5 #生成AI",
+    "tweet_text": "AIの回答を「信じる」時代は終わりました。これからは「合議」で決める時代です。\n\nProduct Huntで見つけた「Pilot5.ai」が、想像以上にエンジニアの実務に刺さるツールでした。一言で言えば、GPT-4o、Claude 3.5、Gemini 1.5 Pro、Llama 3.1、Mistral Largeの5大モデルを一斉に並列稼働させ、一つのプロンプトを審議させるワークベンチです。\n\nSIer時代、設計書のレビューに数日かけていたのが馬鹿らしくなります。各モデルが互いの「嘘」や「見落とし」を指摘し合う様子は、まさにシニアエンジニア5人を横に並べている感覚。特にコード生成時のエッジケース探しにおいて、Claudeの論理性とGPTの網羅性を同時にぶつけられるのは強烈な体験です。\n\n「どのAIを使えばいいか迷う」という段階を超え、「複数のAIを競わせて正解を抽出する」というフェーズに移行したい人は必見。レスポンスの速さよりも、一発の回答の「純度」を求める現場にこそ導入すべきですね。\n\nみなさん、複数のLLMを同時に使うとき、回答の「食い違い」をどう処理していますか？私は、特定のモデルが少数派の意見を出したときこそ、そこにバグのヒントがあると感じていますが、実際の現場での判断基準が気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-16-pilot5-ai-multi-llm-comparison-review.jpg",
+    "created_at": "2026-04-16T22:59:48.363001+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-16-qwen3-6-35b-moe-python-guide",
+    "title": "Qwen3.6-35B-A3B 使い方 入門：MoEモデルをローカル環境で爆速動作させる方法",
+    "url": "https://ai.negi-lab.com/posts/qwen3-6-35b-moe-python-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen3 #ローカルLLM",
+    "tweet_text": "ローカルLLM界隈に衝撃。Qwen3.6-35B-A3Bがリリースされましたが、これ「仕事で使える」レベルの完成度です。\n\n何が凄いって、Sparse MoE採用で全35Bパラメータありながら、動いているのは実質3B分という点。RTX 4090で回すと笑えるくらい速い。SIer時代にこれがあったら、あの膨大なコードレビューの山を数分で片付けられたのに…と遠い目になります。\n\n今回はllama-cpp-pythonを使って、VRAM 24GB以下の環境でも35Bクラスの知能を爆速で引き出すPythonスクリプトを解説しました。Apache 2.0ライセンスなので、社内のコードを安全に、しかもタダでAIに読ませ放題です。\n\n実際に手元で動かしてみると、密なモデルよりレスポンスが軽快で「AIと対話しながらコードを書く」感覚が一段と強まりますね。特にQ4量子化でのバランスが絶妙。\n\n皆さんはMoEモデル、現場でどう活用していますか？「推論は速いけど知能が落ちる」と感じるか、それとも「この速さこそ正義」と感じるか。実際の使用感やハマったポイントなど、ぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-16-qwen3-6-35b-moe-python-guide.jpg",
+    "created_at": "2026-04-16T23:00:55.704962+09:00",
+    "posted": false
   }
 ]

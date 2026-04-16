@@ -1,146 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "Google makes it easy to deepfake yourself",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-09T06:53:49-04:00",
-      "summary": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught relationship with AI-generated content, adding more generative features while struggling to contain AI slop, deepfake scams, and impersonations. YouTube says the new tool will [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-09T22:54:02"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Claude mixes up who said what and that's not OK",
-      "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 09 Apr 2026 09:25:28 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-09T22:54:06"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Chaterm",
-      "url": "https://www.producthunt.com/products/chaterm",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Deploy, fix, and automate your infra in one terminal </p> <p> <a href=\"https://www.producthunt.com/products/chaterm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1118502?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-09T22:54:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Smuggl",
-      "url": "https://www.producthunt.com/products/smuggl",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Share your localhost as an invite only link </p> <p> <a href=\"https://www.producthunt.com/products/smuggl?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1117913?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-09T22:54:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Morsel",
-      "url": "https://www.producthunt.com/products/morsel-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Strava for cooking </p> <p> <a href=\"https://www.producthunt.com/products/morsel-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119427?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-09T22:54:07"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "extra": {
-        "stars_today": "268 stars today"
-      },
-      "collected_at": "2026-04-09T22:54:10"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "apache/airflow",
-      "url": "https://github.com/apache/airflow",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
-      "extra": {
-        "stars_today": "24 stars today"
-      },
-      "collected_at": "2026-04-09T22:54:10"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "pingcap/tidb",
-      "url": "https://github.com/pingcap/tidb",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.",
-      "extra": {
-        "stars_today": "15 stars today"
-      },
-      "collected_at": "2026-04-09T22:54:10"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "The Mythos Preview \"Safety\" Gaslight: Anthropic is just hiding insane compute costs. Open models are already doing this.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sgoy17/the_mythos_preview_safety_gaslight_anthropic_is/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-09T13:00:17+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sgoy17/the_mythos_preview_safety_gaslight_anthropic_is/\"> <img alt=\"The Mythos Preview &quot;Safety&quot; Gaslight: Anthropic is just hiding insane compute costs. Open models are already doing this.\" src=\"https://preview.redd.it/67o8l7uat5ug1.png?width=140&amp;height=122&amp;auto=webp&amp;s=12f0c53e691cce7fda0b6610a1335631b249f10a\" title=\"The Mythos Preview &quot;Safety&quot; Gaslight: Anthropic is just hiding insane compute",
-      "extra": {},
-      "collected_at": "2026-04-09T22:54:10"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "OpenWork, an opensource Claude Cowork alternative, is silently relicensing under a commercial license",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sgnppg/openwork_an_opensource_claude_cowork_alternative/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-09T12:05:50+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>OpenWork is a locally hosted AI agent harness that was presented as a MIT-licensed opensource Claude Cowork alternative based on opencode.</p> <p>Just a heads up for any user of the app that it has silently relicensed some components under a commercial license and modified the overall project's MIT license to limit its reach (which I am not even sure makes it a MIT license anymore).</p> <p>More details here: <a href=\"https://github.com/different-ai/openwork/issu",
-      "extra": {},
-      "collected_at": "2026-04-09T22:54:10"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
       "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
@@ -3345,19 +3205,6 @@
       "collected_at": "2026-04-16T16:52:40"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "DeepL, known for text translation, now wants to translate your voice",
-      "url": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Thu, 16 Apr 2026 08:00:00 +0000",
-      "summary": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams",
-      "extra": {},
-      "collected_at": "2026-04-16T19:15:18"
-    },
-    {
       "source": "The Verge AI",
       "title": "Google launches a Gemini AI app on Mac",
       "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
@@ -3383,19 +3230,6 @@
       "summary": "",
       "extra": {},
       "collected_at": "2026-04-16T19:15:19"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Workbench",
-      "url": "https://www.producthunt.com/products/workbench-4",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Remote desktop for AI agents running on headless Macs </p> <p> <a href=\"https://www.producthunt.com/products/workbench-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1123029?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-16T19:15:20"
     },
     {
       "source": "Product Hunt",
@@ -3435,7 +3269,214 @@
       "summary": "<p> One workspace for all your AI agents </p> <p> <a href=\"https://www.producthunt.com/products/hiveterm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124796?app_id=339\">Link</a> </p>",
       "extra": {},
       "collected_at": "2026-04-16T19:15:20"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
+      "url": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 16 Apr 2026 13:49:32 +0000",
+      "summary": "Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively. The price of the Meta Quest 3 is going up by $100 to $599.99.",
+      "extra": {},
+      "collected_at": "2026-04-16T22:58:47"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Canva’s AI assistant can now call various tools to make designs for you",
+      "url": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 16 Apr 2026 13:00:00 +0000",
+      "summary": "The latest version of Canva's AI assistant lets users create editable designs with text prompts.",
+      "extra": {},
+      "collected_at": "2026-04-16T22:58:47"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "This simulation startup wants to be the Cursor for physical AI",
+      "url": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 16 Apr 2026 12:30:00 +0000",
+      "summary": "Antioch raised a $8.5 million seed round to create simulation tools for a new generation of robot builders.",
+      "extra": {},
+      "collected_at": "2026-04-16T22:58:47"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "€54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+      "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 16 Apr 2026 12:13:30 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-16T22:58:58"
+    },
+    {
+      "source": "Google News",
+      "title": "人工知能（AI）によって大学図書館における情報リテラシーがどのように変化しているか：世界的な計量書誌学的分析（2020～2025）（文献紹介） - カレントアウェアネス・ポータル",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tQ21xQmhJVXZHaHhBZk9fMVhiV3ZOQThzWnh2aFZJd0E2YzF2QzgzVFEydUJwQkNaQThiVmVWZ002MTlodm9PcmpCYk4?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 16 Apr 2026 08:42:34 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9tQ21xQmhJVXZHaHhBZk9fMVhiV3ZOQThzWnh2aFZJd0E2YzF2QzgzVFEydUJwQkNaQThiVmVWZ002MTlodm9PcmpCYk4?oc=5\" target=\"_blank\">人工知能（AI）によって大学図書館における情報リテラシーがどのように変化しているか：世界的な計量書誌学的分析（2020～2025）（文献紹介）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">カレントアウェアネス・ポータル</font>",
+      "extra": {},
+      "collected_at": "2026-04-16T22:58:59"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Pilot5.ai",
+      "url": "https://www.producthunt.com/products/pilot5-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your question, deliberated by 5 frontier AI models </p> <p> <a href=\"https://www.producthunt.com/products/pilot5-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124733?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-16T22:59:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "deduce",
+      "url": "https://www.producthunt.com/products/deduce",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A daily Wordle-like puzzle for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/deduce?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124540?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-16T22:59:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Avec",
+      "url": "https://www.producthunt.com/products/avec",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Tinder for Email to handle your inbox in seconds </p> <p> <a href=\"https://www.producthunt.com/products/avec?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1120127?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-16T22:59:00"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "calcom/cal.diy",
+      "url": "https://github.com/calcom/cal.diy",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Scheduling infrastructure for absolutely everyone.",
+      "extra": {
+        "stars_today": "125 stars today"
+      },
+      "collected_at": "2026-04-16T22:59:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "GyulyVGC/sniffnet",
+      "url": "https://github.com/GyulyVGC/sniffnet",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+      "extra": {
+        "stars_today": "242 stars today"
+      },
+      "collected_at": "2026-04-16T22:59:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "zigtools/zls",
+      "url": "https://github.com/zigtools/zls",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A language server for Zig supporting developers with features like autocomplete and goto definition",
+      "extra": {
+        "stars_today": "11 stars today"
+      },
+      "collected_at": "2026-04-16T22:59:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "juanfont/headscale",
+      "url": "https://github.com/juanfont/headscale",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "An open source, self-hosted implementation of the Tailscale control server",
+      "extra": {
+        "stars_today": "53 stars today"
+      },
+      "collected_at": "2026-04-16T22:59:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.6-35B-A3B released!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sn3izh/qwen3635ba3b_released/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-04-16T13:27:39+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sn3izh/qwen3635ba3b_released/\"> <img alt=\"Qwen3.6-35B-A3B released!\" src=\"https://preview.redd.it/g6edjlxt0kvg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70f04bae14d0359790b5964a3af6ad55dc5354b5\" title=\"Qwen3.6-35B-A3B released!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀</p> <p>A sparse MoE model, 35B total params, 3B active. Apache 2.0 license.</p> <p>- Agentic codin",
+      "extra": {},
+      "collected_at": "2026-04-16T22:59:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Released Qwen3.6-35B-A3B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sn3ikv/released_qwen3635ba3b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-04-16T13:27:12+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sn3ikv/released_qwen3635ba3b/\"> <img alt=\"Released Qwen3.6-35B-A3B\" src=\"https://preview.redd.it/vgpj8o3l0kvg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=14110a2c6e0690ecd6d8f7fc281d43955d6ac2db\" title=\"Released Qwen3.6-35B-A3B\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://x.com/Alibaba_Qwen/status/2044768734234243427\">https://x.com/Alibaba_Qwen/status/2044768734234243427</a></p> <p><a href=\"ht",
+      "extra": {},
+      "collected_at": "2026-04-16T22:59:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "DeepSeek Updated their repo DeepGEMM testing Mega MoE",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sn0ob0/deepseek_updated_their_repo_deepgemm_testing_mega/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-16T11:24:51+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sn0ob0/deepseek_updated_their_repo_deepgemm_testing_mega/\"> <img alt=\"DeepSeek Updated their repo DeepGEMM testing Mega MoE\" src=\"https://preview.redd.it/vcmqwmvzijvg1.png?width=140&amp;height=128&amp;auto=webp&amp;s=6a801dcc6cb5e9cad6dca26c7163964a5e462b9b\" title=\"DeepSeek Updated their repo DeepGEMM testing Mega MoE\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/deepseek-ai/DeepGEMM/pull/3",
+      "extra": {},
+      "collected_at": "2026-04-16T22:59:02"
     }
   ],
-  "updated_at": "2026-04-16T19:15:22.797487+09:00"
+  "updated_at": "2026-04-16T22:59:02.680573+09:00"
 }
