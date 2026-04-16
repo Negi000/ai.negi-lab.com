@@ -11369,5 +11369,33 @@
     "image_path": "/images/posts/2026-04-16-linkedin-hiring-decline-ai-vs-interest-rates.jpg",
     "created_at": "2026-04-16T14:38:01.853481+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-16-gizmo-ai-learning-13m-users-funding",
+    "title": "Gizmo 1300万人突破に見る「教育AI」の勝機と2200万ドルの資金調達",
+    "url": "https://ai.negi-lab.com/posts/gizmo-ai-learning-13m-users-funding/",
+    "category": "NEWS",
+    "viral_tags": "#EdTech #生成AI",
+    "tweet_text": "教育AIアプリ「Gizmo」が1300万人ユーザー突破＆2200万ドルの資金調達。これ、単なるニュースじゃなくて「教材販売ビジネス」の終焉を意味してます。\n\nSIer時代に苦労して作ったeラーニングシステム、何が一番ダメだったかって「教材を誰が作るか」というコスト問題。Gizmoはそこを生成AIで完全に自動化しました。ノートやPDFを投げるだけで、自分専用の神教材が数秒で出来上がる。\n\nDuolingoは「決まったコンテンツ」で遊ばせますが、Gizmoは「自分の持ち物」を学習データに変える。この「動的生成」の波は教育だけじゃなく、企業のオンボーディングやドキュメント管理も飲み込むはず。\n\n今のLLMならAPI叩けば似た仕組みは作れますが、1300万人の「つまずきデータ」を持ってるのが強すぎ。ハルシネーションをどう制御して学習効率を最大化してるのか、技術的な裏側を2500文字超で徹底解説しました。\n\nみなさんの周りで「AI学習」に切り替えた人っていますか？\n「ぶっちゃけChatGPTで十分」なのか「特化アプリの方が捗る」のか、現場の意見が気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-16-gizmo-ai-learning-13m-users-funding.jpg",
+    "created_at": "2026-04-16T16:53:21.170193+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-16-resend-cli-2-ai-agent-automation-guide",
+    "title": "Resend CLI 2.0 使い方と実務活用ガイド",
+    "url": "https://ai.negi-lab.com/posts/resend-cli-2-ai-agent-automation-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Resend #AIエージェント",
+    "tweet_text": "AIエージェントに「メール送信」という手足を持たせるなら、SDKをこねくり回すよりCLIを叩かせる方が圧倒的に速い。Resend CLI 2.0を試しましたが、これ、開発者体験（DX）が異次元ですね。\n\nSIer時代、SMTPの設定やライブラリの依存関係で数日溶かしていたのが嘘のよう。npm installから送信までマジで2分。レスポンスが最初からJSONで返ってくるので、Pythonのsubprocess経由でAIに結果をパースさせるのも一瞬でした。\n\n特に「AIに実世界への介入権限を与えたい」人には最適。複雑なコードを書かせるより、この一行のコマンドをツールとして渡す方が、生成AIの成功率は劇的に上がります。\n\nただ、Node.jsを環境に入れたくない純粋なPythonistaには少し抵抗があるかも。それでも、CI/CDパイプラインとの親和性を考えれば、入れておく価値は十分にあると感じました。\n\n皆さんはAIエージェントからの外部通知、どう実装していますか？やっぱりSlack連携が主流？それとも、こういう枯れたメールという手段をあえて選びますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-16-resend-cli-2-ai-agent-automation-guide.jpg",
+    "created_at": "2026-04-16T16:54:47.868345+09:00",
+    "posted": false
   }
 ]
