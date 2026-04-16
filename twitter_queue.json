@@ -11341,5 +11341,19 @@
     "image_path": "/images/posts/2026-04-16-openai-agents-sdk-enterprise-update-analysis.jpg",
     "created_at": "2026-04-16T07:00:34.463088+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-16-hightouch-100m-arr-ai-agent-growth",
+    "title": "Reverse ETLの覇者HightouchがARR 1億ドル突破、AIエージェントが20ヶ月で7000万ドルを稼ぎ出した理由",
+    "url": "https://ai.negi-lab.com/posts/hightouch-100m-arr-ai-agent-growth/",
+    "category": "NEWS",
+    "viral_tags": "#Hightouch #データエンジニアリング",
+    "tweet_text": "SIer時代、顧客リストを抽出するだけで1日がかりだった苦労は何だったのか…。\nReverse ETLの覇者HightouchがARR 1億ドル（約150億円）を突破しました。この20ヶ月で積み上げた7000万ドルの原動力は、マーケター向けのAIエージェントプラットフォーム。\n\n従来のCDPのようにデータをツール側にコピーするのではなく「SnowflakeやBigQueryのデータを一歩も動かさずにAIで操る」というComposable CDP戦略が完全に当たっています。\n「30日以内にAを買ったがBを買っていない離脱予備軍」という抽出が、SQL不要で0.3秒。\n\n技術的に興味深いのは、単なるText-to-SQLに留まらず、DWHのスキーマを解釈するセマンティックレイヤーをAIが自律的に構築している点。データのコピーという「負の遺産」をスキップしたからこそのスピード感ですね。\n\n結局、実務で勝つAIは「チャット」ではなく「実行」を自動化するものだと改めて痛感。\n皆さんの現場では、DWHのデータを直接AIに食わせる仕組み、検討していますか？それともまだCSVでインポートしてますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-16-hightouch-100m-arr-ai-agent-growth.jpg",
+    "created_at": "2026-04-16T12:35:09.805952+09:00",
+    "posted": false
   }
 ]

@@ -3349,20 +3349,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Wed, 15 Apr 2026 19:28:36 +0000",
-      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-      "extra": {},
-      "collected_at": "2026-04-16T07:00:00"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
       "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
       "primary_category": "NEWS",
@@ -3426,7 +3412,47 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1smiotb/video_of_how_my_llms_decoder_blocks_changed_while/\"> <img alt=\"Video of how my LLM's decoder blocks changed while training\" src=\"https://external-preview.redd.it/NHZrM2FndmEzZnZnMWE60GVDIa_jxkpn3nCHr0k_vLuzSpUGUiy9oLLQq4BT.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1463898b99acd57fd9c57b8253bde6fcdacc7401\" title=\"Video of how my LLM's decoder blocks changed while training\" /> </a> </td><td> <!-- SC_OFF --><div c",
       "extra": {},
       "collected_at": "2026-04-16T07:00:05"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Wed, 15 Apr 2026 18:38:10 +0000",
+      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+      "extra": {},
+      "collected_at": "2026-04-16T12:34:33"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Gemini Robotics ER 1.6",
+      "url": "https://www.producthunt.com/products/google",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Google's SOTA robotics model for visual & spatial reasoning! </p> <p> <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1123674?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-16T12:34:35"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma4 26b & E4B are crazy good, and replaced Qwen for me!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1smh0ny/gemma4_26b_e4b_are_crazy_good_and_replaced_qwen/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-15T19:56:10+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>My pre-gemma 4 setup was as follows:</p> <p>Llama-swap, open-webui, and Claude code router on 2 RTX 3090s + 1 P40 (My third 3090 died, RIP) and 128gb of system memory</p> <p>Qwen 3.5 4B for semantic routing to the following models, with n_cpu_moe where needed:</p> <p>Qwen 3.5 30b A3B Q8XL - For general chat, basic document tasks, web search, anything huge context that didn't require reasoning. It's also hardcoded to use this model when my latest query contains &",
+      "extra": {},
+      "collected_at": "2026-04-16T12:34:37"
     }
   ],
-  "updated_at": "2026-04-16T07:00:05.036225+09:00"
+  "updated_at": "2026-04-16T12:34:37.967649+09:00"
 }
