@@ -11481,5 +11481,19 @@
     "image_path": "/images/posts/2026-04-17-local-llm-python-ollama-tutorial.jpg",
     "created_at": "2026-04-17T01:10:38.386501+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-17-chrome-ai-mode-side-by-side-release-analysis",
+    "title": "ChromeのAI Modeサイドバイサイド統合がもたらすブラウジングの劇的変化",
+    "url": "https://ai.negi-lab.com/posts/chrome-ai-mode-side-by-side-release-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleChrome #生成AI",
+    "tweet_text": "Chromeのアップデートが、ついに「タブ移動」という苦行を終わらせに来ました。\n\nGoogleが発表したAI Modeのサイドバイサイド統合。AIチャットで出てきたリンクを叩くと、そのまま右側にページが分割表示される。これ、エンジニアならわかるはずですが、仕様書とコードを往復する時の脳の負荷が激減します。\n\nSIer時代、あの大量のタブと格闘していた自分に教えてあげたい。もはやブラウザは「見るための道具」じゃなくて「AIと一緒に作業するOS」に進化しました。\n\nPerplexityやArcが先行していた体験を、GoogleがChromeのレンダリングエンジンレベルでネイティブ実装してきたのがエグい。0.1秒のラグなしで画面が割れる感覚は、拡張機能じゃ逆立ちしても勝てない。\n\n一方で、ウェブメディア側は「AIに引用されるための構造化」が死活問題になりますね。もはやSEOならぬAIOの時代。\n\n皆さんはAIとブラウジング、どう使い分けてますか？「もう検索結果一覧は見なくなった」という人、結構増えてるんじゃないでしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-17-chrome-ai-mode-side-by-side-release-analysis.jpg",
+    "created_at": "2026-04-17T03:08:56.222881+09:00",
+    "posted": false
   }
 ]
