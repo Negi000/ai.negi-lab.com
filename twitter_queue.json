@@ -11551,5 +11551,33 @@
     "image_path": "/images/posts/2026-04-17-sfx-stacks-semantic-audio-search-review.jpg",
     "created_at": "2026-04-17T16:55:17.944522+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-17-physical-intelligence-pi-07-robot-brain-release",
+    "title": "GPT-4oの身体が誕生。Physical Intelligenceのπ0.7がロボット開発をコード不要にする",
+    "url": "https://ai.negi-lab.com/posts/physical-intelligence-pi-07-robot-brain-release/",
+    "category": "NEWS",
+    "viral_tags": "#PhysicalIntelligence #ロボティクス",
+    "tweet_text": "ロボット開発の常識が、本日を境に「座標計算」から「言語指示」へと書き換わりました。\n\nPhysical Intelligenceが発表した汎用ロボット脳「π0.7」の衝撃が凄まじい。元SIerエンジニアとして断言しますが、これまでの苦労が馬鹿らしくなるレベルの進化です。\n\n従来は「洗濯物を畳む」だけでも数万件の特化学習が必要でしたが、π0.7は教わっていないタスクを「物理的な常識」で解決します。つまり、プログラムを1行も書かずに、プロンプトだけでロボットが未知の家事をこなす時代が来たということ。\n\n特筆すべきはマルチハードウェア対応。特定の高額ロボットを買わなくても、既存の安価なアームにこの「脳」を載せるだけで賢くなる。これはロボット界のAndroid、あるいはGPT-4oに身体が与えられたようなものです。\n\nRTX 4090を2枚挿してローカルLLMを回している私の視点で見ても、この推論頻度と汎化性能のバランスは「実務で使える」合格ラインに達しています。\n\n皆さんは、自分のデスクに「言葉で指示するだけで動くアーム」が置かれたら、まず何をさせたいですか？私はとりあえず、溜まった基板のハンダ付けと配線整理を丸投げしたいですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-17-physical-intelligence-pi-07-robot-brain-release.jpg",
+    "created_at": "2026-04-17T19:14:18.256275+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-17-navox-agents-claude-code-review-guide",
+    "title": "Navox Agents レビュー Claude Codeを組織で安全に運用するための特化型エージェント管理",
+    "url": "https://ai.negi-lab.com/posts/navox-agents-claude-code-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#ClaudeCode #NavoxAgents",
+    "tweet_text": "Claude Codeを触ってみて「これ、仕事で使うには自由度が高すぎて怖くないか？」と感じたエンジニアは多いはず。その「怖さ」を解消するNavox Agentsの実践レビューを書きました。\n\nSIer時代、大規模開発で一番苦労したのは技術選定よりも「ガバナンス」でした。NavoxはまさにAIエージェントにそのガバナンスを効かせるためのツールです。ディレクトリ単位の編集制限や、テスト通過をトリガーとした自律修正など、実務で必須となる「ガードレール」を簡単に構築できます。\n\n個人的に熱いのは、MCP（Model Context Protocol）の集約機能。社内DBやドキュメント基盤をAIに安全に繋ぐハブとして機能します。\n\n一方で、APIコストは正直それなりにかかります。適当なループを回すと数分でランチ代が消えるので、予算制限の設定は必須ですね。\n\n自律型AIを「おもちゃ」で終わらせず、開発現場の「戦力」に変えたいテックリードの方には刺さる内容だと思います。実際のPython SDKを使った自動化例も載せています。皆さんの現場では、AIにどこまで「自律権限」を与えていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-17-navox-agents-claude-code-review-guide.jpg",
+    "created_at": "2026-04-17T19:15:20.067817+09:00",
+    "posted": false
   }
 ]
