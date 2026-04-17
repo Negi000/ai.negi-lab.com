@@ -11579,5 +11579,33 @@
     "image_path": "/images/posts/2026-04-17-navox-agents-claude-code-review-guide.jpg",
     "created_at": "2026-04-17T19:15:20.067817+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-17-sharpsana-ai-agent-startup-automation-review",
+    "title": "Sharpsana レビュー：AIエージェントに「スタートアップ運営」を任せられるか",
+    "url": "https://ai.negi-lab.com/posts/sharpsana-ai-agent-startup-automation-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Sharpsana",
+    "tweet_text": "スタートアップの全運営をAIエージェントに任せる「Sharpsana」を徹底検証しました。\n\nSIer時代、これがあればどれだけ楽だったか…。\nCrewAIやAutoGenと似ていますが、決定的な違いは「組織運営」というコンテキストの維持能力です。エージェント間でワークスペースを共有し、開発・マーケ・営業が同期しながら自律稼働する設計は、まさに「デジタルツインの社員」を雇う感覚。\n\n正直、トークン消費は激しいです。1タスクで数百円溶けることもありますが、エンジニアが数時間拘束されるコストを考えれば安すぎる。\nただ、プロンプトの組み方を間違えるとAIがループして無限に課金されるリスクもあるので、導入時のガードレール設計は必須ですね。\n\nPython 3.10環境があれば pip install sharpsana ですぐ試せます。\n一人でSaaS開発してるけど、マーケやドキュメント作成に手が回らない…という人には現状最強の解決策かもしれません。\n\n実際にマルチエージェントを実務に組み込んでいる方、トークン管理や精度維持で工夫しているポイントとかありますか？現場の泥臭い話、ぜひリプライで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-17-sharpsana-ai-agent-startup-automation-review.jpg",
+    "created_at": "2026-04-17T22:42:54.646558+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-17-ternary-bonsai-1-58bit-llm-tutorial-guide",
+    "title": "Ternary Bonsai 使い方：1.58bit量子化LLMをローカルで動かす最短ルート",
+    "url": "https://ai.negi-lab.com/posts/ternary-bonsai-1-58bit-llm-tutorial-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLM #BitNet",
+    "tweet_text": "SIer時代、大規模なLLMを動かすには数百万単位のGPU予算を確保するのが当たり前でした。でもその常識はもう過去のものです。\n\n最近話題の1.58bitモデル「Ternary Bonsai」を実機検証しましたが、控えめに言って革命。7BクラスのモデルがVRAMわずか2.5GBで動きます。4ビット量子化（GGUF）が出た時も驚きましたが、今回は次元が違う。重みを「-1, 0, 1」の3値に絞り込むことで、行列演算から「乗算」を消し去り「加算」だけで推論する。この設計の美しさにエンジニアとして痺れました。\n\nRTX 4090を2枚挿ししている私の環境では、もはや出力速度が速すぎて計測不能なレベル。でも一番の恩恵を受けるのは、数年前のゲーミングノートや、メモリ不足に悩むミニPCユーザーでしょう。\n\n今回はこのTernary Bonsaiを、環境構築からストリーミング推論の実装まで「コピペで動く」レベルのガイドにまとめました。AIの民主化は、モデルの巨大化ではなく、こうした極限の軽量化によって進むのだと確信しています。\n\n実際に動かしてみた方、CPUのみでのレスポンス速度はどうでしたか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-17-ternary-bonsai-1-58bit-llm-tutorial-guide.jpg",
+    "created_at": "2026-04-17T22:44:26.203994+09:00",
+    "posted": false
   }
 ]
