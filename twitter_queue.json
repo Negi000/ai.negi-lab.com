@@ -11635,5 +11635,33 @@
     "image_path": "/images/posts/2026-04-18-qwen3-6-local-python-ollama-guide.jpg",
     "created_at": "2026-04-18T00:43:22.731362+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-18-openai-shopping-spree-anthropic-ai-anxiety-gap",
+    "title": "OpenAIの買収攻勢とAnthropicの「封印されたモデル」が示すAI格差の正体",
+    "url": "https://ai.negi-lab.com/posts/openai-shopping-spree-anthropic-ai-anxiety-gap/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #AIAnxietyGap",
+    "tweet_text": "OpenAIの買収攻勢とAnthropicの「封印されたモデル」のニュースを見て、正直背筋が凍りました。\n\nかつてSIerでシステム統合に明け暮れていた頃、データの重要性は痛いほど理解していましたが、今のOpenAIがやっていることはその比ではありません。財務アプリからメディアまで買い漁り、AIが社会の全データを吸い上げる「垂直統合」が完成しつつあります。\n\n一方でAnthropicは「強力すぎて公開できないモデル」の存在を示唆。これ、単なる煽り抜きに、開発現場と一般社会の「AI格差」が修復不能なレベルまで広がっている証拠です。RTX 4090を2枚回してローカルLLMを検証している私ですら、この進化速度には危機感を覚えます。\n\n実務者が注目すべきは、節約の時代から、大量のトークンを投下して精度を出す「Tokenmaxxing」への転換です。APIの価格比較で一喜一憂するフェーズは終わりました。これからは「推論プロセスをどう設計するか」が開発者の腕の見せ所になります。\n\n皆さんは、この「AI不安格差」をどう感じていますか？\n特に、既存のSaaSがAIに食われる速度について、現場の実感を聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-18-openai-shopping-spree-anthropic-ai-anxiety-gap.jpg",
+    "created_at": "2026-04-18T02:50:44.061882+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-18-agenticlens-visual-debugging-replay-review",
+    "title": "AgenticLensレビュー エージェントの思考を可視化・リプレイする",
+    "url": "https://ai.negi-lab.com/posts/agenticlens-visual-debugging-replay-review/",
+    "category": "TOOL",
+    "viral_tags": "#AgenticLens #AIエージェント",
+    "tweet_text": "AIエージェントの開発で「なぜか思い通りに動かない」と悩む時間はもう終わりにしましょう。\n\nAgenticLensを試して衝撃を受けたのは、その「リプレイ機能」の完成度です。SIer時代、複雑なシステムのバグを追うために数千行のログをgrepしていたあの苦労が、今はGUI上のタイムラインをポチポチするだけで解決します。\n\n特に多段エージェントを組んでいると、特定のステップで思考がループしたり、ツール選択をミスったりすることが多々あります。これまでは最初からやり直してトークン代をドブに捨てていましたが、これなら「失敗した地点」からプロンプトを書き換えて再試行できる。\n\nPython 3.10以降が必要でドキュメントは英語のみですが、実務でCrewAIやLangChainを回しているエンジニアなら、この視認性の高さは手放せなくなるはず。pip installから5分でこの環境が手に入るのは、控えめに言って開発体験が爆上がりします。\n\nエージェント開発で一番時間がかかる「原因特定」を、データに基づいたデバッグ作業に変えてみませんか？みなさんはエージェントの思考プロセス、どうやって追跡していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-18-agenticlens-visual-debugging-replay-review.jpg",
+    "created_at": "2026-04-18T02:52:13.190844+09:00",
+    "posted": false
   }
 ]

@@ -3254,19 +3254,6 @@
       "collected_at": "2026-04-17T19:13:40"
     },
     {
-      "source": "Product Hunt",
-      "title": "Hello Aria",
-      "url": "https://www.producthunt.com/products/hello-aria-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn chats into tasks, reminders & notes — instantly. </p> <p> <a href=\"https://www.producthunt.com/products/hello-aria-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093459?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-17T19:13:40"
-    },
-    {
       "source": "The Verge AI",
       "title": "The ‘AI is inevitable’ trap",
       "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
@@ -3443,19 +3430,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Qwen3.6. This is it.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1so1533/qwen36_this_is_it/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-17T13:33:11+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1so1533/qwen36_this_is_it/\"> <img alt=\"Qwen3.6. This is it.\" src=\"https://preview.redd.it/nxn2rr15vqvg1.png?width=140&amp;height=75&amp;auto=webp&amp;s=ccfe887171610628810e960a85a2cd26376c843c\" title=\"Qwen3.6. This is it.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/nxn2rr15vqvg1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=8ec85d90b1286a6e7813c91a0a83c748e94ca849\">https://preview",
-      "extra": {},
-      "collected_at": "2026-04-18T00:40:13"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Qwen 3.6 is the first local model that actually feels worth the effort for me",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1so2nt9/qwen_36_is_the_first_local_model_that_actually/",
       "primary_category": "GUIDE",
@@ -3467,7 +3441,115 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I spent some time yesterday after work trying out the new qwen3.6-35b-a3b model, and at least for me it's the first time that I actually felt that a local model wasn't more of a pain to use than it was worth.</p> <p>I've been using LLMs in my personal/throwaway projects for a few months, for the kind of code that I don't feel any passion writing (most UI XML in Avalonia, embedded systems C++), and I used to have Sonet and Opus for free thanks to Github's student",
       "extra": {},
       "collected_at": "2026-04-18T00:40:13"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+      "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Fri, 17 Apr 2026 15:57:40 +0000",
+      "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is&#160;too powerful to release publicly&#160;&#8230;but&#160;apparently not&#160;too [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-18T02:50:06"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Are we tokenmaxxing our way to nowhere?",
+      "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Fri, 17 Apr 2026 13:00:00 +0000",
+      "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is&#160;too powerful to release publicly&#160;&#8230;but&#160;apparently not&#160;too [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-18T02:50:06"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Opus 4.7 costs 20–30% more per session",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 17 Apr 2026 15:29:36 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-18T02:50:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AgenticLens",
+      "url": "https://www.producthunt.com/products/agenticlens",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Visual debugging, tracing, and replay for agent workflows </p> <p> <a href=\"https://www.producthunt.com/products/agenticlens?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125852?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-18T02:50:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "The Fabricant Intelligent Tools",
+      "url": "https://www.producthunt.com/products/the-fabricant-intelligent-tools",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AI-powered design suite that lets anyone design fashion </p> <p> <a href=\"https://www.producthunt.com/products/the-fabricant-intelligent-tools?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125460?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-18T02:50:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Hacktron",
+      "url": "https://www.producthunt.com/products/hacktron",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your AI security engineer. Ship fast while staying secure. </p> <p> <a href=\"https://www.producthunt.com/products/hacktron?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125827?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-18T02:50:10"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.6 GGUF Benchmarks",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1so5nrl/qwen36_gguf_benchmarks/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-17T16:17:50+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1so5nrl/qwen36_gguf_benchmarks/\"> <img alt=\"Qwen3.6 GGUF Benchmarks\" src=\"https://preview.redd.it/nwn0vxdgzrvg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=292c384907b1355aa8ba2516bb60737cfe244971\" title=\"Qwen3.6 GGUF Benchmarks\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey guys, we ran Qwen3.6-35B-A3B GGUF KLD performance benchmarks to help you choose the best quant.</p> <p><strong>Unsloth quants have the bes",
+      "extra": {},
+      "collected_at": "2026-04-18T02:50:13"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.6 is incredible with OpenCode!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1so3rsx/qwen36_is_incredible_with_opencode/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-17T15:10:17+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've tried a few different local models in the past (gemma 4 being the latest), but none of them felt as good as this. (Or maybe I just didn't give them a proper chance, you guys let me know). But this genuinely feels like a model I could daily drive for certain tasks instead of reaching for Claude Code.</p> <p>I gave it a fairly complex task of implementing RLS in postgres across a large-ish codebase with multiple services written in rust, typescript and python",
+      "extra": {},
+      "collected_at": "2026-04-18T02:50:13"
     }
   ],
-  "updated_at": "2026-04-18T00:40:13.498852+09:00"
+  "updated_at": "2026-04-18T02:50:13.701560+09:00"
 }
