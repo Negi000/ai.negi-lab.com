@@ -11607,5 +11607,33 @@
     "image_path": "/images/posts/2026-04-17-ternary-bonsai-1-58bit-llm-tutorial-guide.jpg",
     "created_at": "2026-04-17T22:44:26.203994+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-18-hello-aria-3-review-ai-task-automation",
+    "title": "Hello Aria 使い方：チャットを爆速でタスク化するAIアシスタントの実力",
+    "url": "https://ai.negi-lab.com/posts/hello-aria-3-review-ai-task-automation/",
+    "category": "TOOL",
+    "viral_tags": "#Productivity #AIエージェント",
+    "tweet_text": "SIer時代、プロジェクトが炎上する最大の原因は「タスクの転記漏れ」でした。管理ツールに入力する手間って、意外と脳のメモリを食う。\n\n最近チェックした Hello Aria 3 は、この「入力の儀式」をAIが完全に代行してくれるツール。チャットに「明日15時に見積書送る」と投げるだけで、日付と内容を抽出してNotionやTodoistへ自動でぶち込んでくれる。\n\n実際にPython SDKでAPIを叩いてみたけど、自然言語から日時を正規化する精度が異常に高い。自分でdateutil弄って実装するより、これをバックエンドに置いた方が早いレベル。\n\nただ、何でもかんでも自動化すればいいわけじゃない。複雑なガントチャートが必要な現場には向かないし、月額コストも「秘書代」と思えるかどうか。\n\n皆さんは自分のタスク管理、何％くらい自動化できてますか？私は「思い出し作業」をゼロにしたい派なので、こういう特化型AIには投資しちゃいます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-18-hello-aria-3-review-ai-task-automation.jpg",
+    "created_at": "2026-04-18T00:40:41.362332+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-18-qwen3-6-local-python-ollama-guide",
+    "title": "Qwen 3.6 使い方: ローカルLLMで爆速・高精度な推論環境を構築する手順",
+    "url": "https://ai.negi-lab.com/posts/qwen3-6-local-python-ollama-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen3 #ローカルLLM",
+    "tweet_text": "SIer時代、これがあればあの無謀な納期も乗り切れたかもしれません。Qwen 3.6をローカル環境で動かしてみましたが、衝撃的な進化です。\n\n特に256kトークンの処理能力と、日本語の滑らかさが段違い。RTX 4090 2枚挿しの自作サーバーで72Bモデルを回したところ、秒間15トークンという実用的な速度を確認しました。\n\n今回は「ただ動かす」だけでなく、実務で必須となる「構造化データの抽出」にフォーカスしたPythonスクリプトを公開しました。OllamaのJSONモードを使えば、パースエラーに悩まされることもありません。\n\nAPI課金やセキュリティを気にしてクラウドLLMを躊躇していた層にとって、これは決定打になるはず。\n\nみなさんはローカルLLMを実務で使う際、どの程度のパラメータサイズを基準にしていますか？私は精度と速度のバランスから、最近は14B〜32Bあたりの機動力に注目しています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-18-qwen3-6-local-python-ollama-guide.jpg",
+    "created_at": "2026-04-18T00:43:22.731362+09:00",
+    "posted": false
   }
 ]
