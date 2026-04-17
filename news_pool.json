@@ -1,101 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Buddi",
-      "url": "https://www.producthunt.com/products/buddi-living-in-the-notch",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your Claude Code companion, living in the notch. </p> <p> <a href=\"https://www.producthunt.com/products/buddi-living-in-the-notch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119556?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-11T06:50:44"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Complexity Indicator",
-      "url": "https://www.producthunt.com/products/complexity-indicator",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Know when your code becomes unmaintainable </p> <p> <a href=\"https://www.producthunt.com/products/complexity-indicator?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1120065?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-11T06:50:44"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Inbox Autopilot by Dimension",
-      "url": "https://www.producthunt.com/products/dimension-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your inbox, handled </p> <p> <a href=\"https://www.producthunt.com/products/dimension-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119668?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-11T06:50:44"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM 5.1 tops the code arena rankings for open models",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1shq4ty/glm_51_tops_the_code_arena_rankings_for_open/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-10T15:40:17+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shq4ty/glm_51_tops_the_code_arena_rankings_for_open/\"> <img alt=\"GLM 5.1 tops the code arena rankings for open models\" src=\"https://preview.redd.it/ienycmczudug1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=573d99ac13883363685f13b982920998c7bb0e43\" title=\"GLM 5.1 tops the code arena rankings for open models\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Auralore\"> /u/Auralore </a> <br />",
-      "extra": {},
-      "collected_at": "2026-04-11T06:50:47"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "More Gemma4 fixes in the past 24 hours",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1shs6sx/more_gemma4_fixes_in_the_past_24_hours/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-10T16:52:36+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Reasoning budget fix</strong> (merged): <a href=\"https://github.com/ggml-org/llama.cpp/pull/21697\">https://github.com/ggml-org/llama.cpp/pull/21697</a></p> <p><strong>New chat templates from Google to fix tool calling:</strong></p> <p>31B: <a href=\"https://huggingface.co/google/gemma-4-31B-it/blob/main/chat_template.jinja\">https://huggingface.co/google/gemma-4-31B-it/blob/main/chat_template.jinja</a></p> <p>27B: <a href=\"https://huggingface.co/google/gem",
-      "extra": {},
-      "collected_at": "2026-04-11T06:50:47"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "National University of Singapore Presents \"DMax\": A New Paradigm For Diffusion Language Models (dLLMs) Enabling Aggressive Parallel Decoding.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sht2yo/national_university_of_singapore_presents_dmax_a/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-10T17:23:39+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sht2yo/national_university_of_singapore_presents_dmax_a/\"> <img alt=\"National University of Singapore Presents &quot;DMax&quot;: A New Paradigm For Diffusion Language Models (dLLMs) Enabling Aggressive Parallel Decoding.\" src=\"https://external-preview.redd.it/bDAzanRzMWhkZXVnMf4lJz6lDhZUGqzj-n7TS81LbcgwKX5GOZEE6b5miHOs.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a94da35f87e9c54c8c574268c53d3118a76bf89\" title=\"National ",
-      "extra": {},
-      "collected_at": "2026-04-11T06:50:47"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-10T18:23:15+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1shus54/glm_51_crushes_every_other_model_except_opus_in/\"> <img alt=\"GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost\" src=\"https://preview.redd.it/s9lg647zjeug1.png?width=140&amp;height=62&amp;auto=webp&amp;s=b0d653ca733acfd42ba605ee94b679a07fcd489d\" title=\"GLM 5.1 crushes every other model except Opus in agentic benchmark at about 1/3 of the Opus cost\" /> </a> </td><td> <!-- S",
-      "extra": {},
-      "collected_at": "2026-04-11T06:50:47"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "What happened to Deepseek?",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1si1qjk/what_happened_to_deepseek/",
@@ -3444,20 +3349,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-      "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Fri, 17 Apr 2026 15:57:40 +0000",
-      "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is&#160;too powerful to release publicly&#160;&#8230;but&#160;apparently not&#160;too [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-18T02:50:06"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Are we tokenmaxxing our way to nowhere?",
       "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
       "primary_category": "NEWS",
@@ -3482,19 +3373,6 @@
       "summary": "",
       "extra": {},
       "collected_at": "2026-04-18T02:50:08"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AgenticLens",
-      "url": "https://www.producthunt.com/products/agenticlens",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Visual debugging, tracing, and replay for agent workflows </p> <p> <a href=\"https://www.producthunt.com/products/agenticlens?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125852?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T02:50:10"
     },
     {
       "source": "Product Hunt",
@@ -3549,7 +3427,112 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've tried a few different local models in the past (gemma 4 being the latest), but none of them felt as good as this. (Or maybe I just didn't give them a proper chance, you guys let me know). But this genuinely feels like a model I could daily drive for certain tasks instead of reaching for Claude Code.</p> <p>I gave it a fairly complex task of implementing RLS in postgres across a large-ish codebase with multiple services written in rust, typescript and python",
       "extra": {},
       "collected_at": "2026-04-18T02:50:13"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 17 Apr 2026 20:38:17 +0000",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+      "extra": {},
+      "collected_at": "2026-04-18T06:55:41"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 17 Apr 2026 19:17:26 +0000",
+      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
+      "extra": {},
+      "collected_at": "2026-04-18T06:55:41"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 17 Apr 2026 18:42:45 +0000",
+      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
+      "extra": {},
+      "collected_at": "2026-04-18T06:55:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AI Mode in Chrome",
+      "url": "https://www.producthunt.com/products/ai-mode-in-chrome",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Browse and search side-by-side, without switching tabs </p> <p> <a href=\"https://www.producthunt.com/products/ai-mode-in-chrome?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125518?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-18T06:55:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cloudflare Email Service",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn any email inbox into a native interface for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125410?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-18T06:55:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "CalendarPipe",
+      "url": "https://www.producthunt.com/products/calendarpipe",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Programmable calendar sync for humans and AI agents </p> <p> <a href=\"https://www.producthunt.com/products/calendarpipe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125151?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-18T06:55:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Build Check (for Outsiders)",
+      "url": "https://www.producthunt.com/products/build-check-for-outsiders",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Is your app idea actually worth building? </p> <p> <a href=\"https://www.producthunt.com/products/build-check-for-outsiders?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1118208?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-18T06:55:46"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.6 35B crushes Gemma 4 26B on my tests",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1soc98n/qwen_36_35b_crushes_gemma_4_26b_on_my_tests/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-17T20:15:21+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have a personal eval harness: A repo with around 30k lines of code that has 37 intentional issues for LLMs to debug and address through an agentic setup (I use OpenCode)</p> <p>A subset of the harness also has the LLM extract key information from reasonably large PDFs (40-60 pages), summarize and evaluate its findings.</p> <p>Long story short: The harness tests the following LLM attributes: - Agentic capabilities - Coding - Image-to-text synthesis - Instructio",
+      "extra": {},
+      "collected_at": "2026-04-18T06:55:49"
     }
   ],
-  "updated_at": "2026-04-18T02:50:13.701560+09:00"
+  "updated_at": "2026-04-18T06:55:49.802318+09:00"
 }
