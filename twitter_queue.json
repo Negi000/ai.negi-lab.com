@@ -11523,5 +11523,33 @@
     "image_path": "/images/posts/2026-04-17-factory-ai-unicorn-valuation-enterprise-droids.jpg",
     "created_at": "2026-04-17T14:35:42.667421+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-17-luma-ai-production-studio-wonder-project-launch",
+    "title": "Luma AIが映画製作の川上から川下までを垂直統合する「AIスタジオ」への進化を宣言しました。単なる動画生成ツールから、オスカー俳優を起用した商業映画をPrime Videoで配信する「制作インフラ」への昇華は、映像業界のコスト構造を根底から書き換える可能性を秘めています。クリエイターはプロンプトを打つ作業員ではなく、AIを大規模に制御する「オーケストレーター」としての能力が試される時代に突入しました。",
+    "url": "https://ai.negi-lab.com/posts/luma-ai-production-studio-wonder-project-launch/",
+    "category": "NEWS",
+    "viral_tags": "#LumaAI #DreamMachine",
+    "tweet_text": "Luma AIが「AIプロダクションスタジオ」への進化を宣言しましたね。単なる動画生成ツールとしてのフェーズは終わったと感じます。制作会社Wonder Projectと提携し、なんとベン・キングズレー主演の映画をPrime Videoで配信するという具体性。\n\nSIer時代に重いレンダリングサーバーを何台も組んでいた苦労を思うと、Lumaの「Dream Machine」が120秒の動画をほぼ等倍速で生成し、しかも商業映画のパイプラインに直結されるという事実は、もはや魔法に近いものがあります。\n\n注目すべきは、彼らがNeRFなどの3D技術を生成AIと密結合させている点。単なる「プロンプトによる絵出し」ではなく、一貫性を持った「デジタル空間の制御」に軸足を移しています。これ、VFX業界のコスト構造が数ヶ月で数分の一に圧縮される可能性があります。\n\n「AIで作ったから凄い」という時代は終わり、「AIを使って制作費を削ったのに、オスカー俳優の演技が光る最高品質の映画」が勝つ時代。開発者の皆さんは、もうAPI叩いて自分のアセットを動かしてみましたか？この速度感、マジで乗り遅れるとマズいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-17-luma-ai-production-studio-wonder-project-launch.jpg",
+    "created_at": "2026-04-17T16:53:42.907523+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-17-sfx-stacks-semantic-audio-search-review",
+    "title": "SFX Stacks 使い方｜自然言語でローカル音素材を高速検索する",
+    "url": "https://ai.negi-lab.com/posts/sfx-stacks-semantic-audio-search-review/",
+    "category": "TOOL",
+    "viral_tags": "#DTM #セマンティック検索",
+    "tweet_text": "SIer時代に数万件のアセット管理システムを組んでいた身からすると、この進化には隔世の感を禁じ得ない。\n\n音素材の管理、まだファイル名のキーワード検索で消耗していませんか？\nSFX Stacksを使えば「重厚な錆びたドアが閉まる音」といった抽象的な表現で、ローカルにあるTB単位のライブラリから0.2秒で目的の音を掘り当てられます。\n\nCLAPモデルを利用したセマンティック検索の恩恵は、単なる「速さ」だけじゃない。ファイル名に「Crunchy」と入っていなくても、音の質感をAIが理解してリストアップしてくれる。この体験は、過去の「人力タグ付け作業」をすべて無に帰す破壊力があります。\n\nただし、RTX 3060以上のGPUがないとインデックス作成で日が暮れるのも事実。Python 3.9環境が必要で、ドキュメントも硬派な英語のみ。でも、このハードルを越えた先にある「耳を疲れさせない検索体験」は、音響屋にとって最高の武器になるはず。\n\n皆さんは膨大なライブラリ、どう管理してます？やっぱりディレクトリ構造とファイル名頼みですか？それとも独自のDBを組んでますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-17-sfx-stacks-semantic-audio-search-review.jpg",
+    "created_at": "2026-04-17T16:55:17.944522+09:00",
+    "posted": false
   }
 ]
