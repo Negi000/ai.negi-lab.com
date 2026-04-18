@@ -11747,5 +11747,33 @@
     "image_path": "/images/posts/2026-04-18-react-email-6-resend-review-guide.jpg",
     "created_at": "2026-04-18T18:50:17.280515+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-18-claude-code-rendering-no-flicker-review",
+    "title": "Claude Code Renderingの使い方とレビュー：ターミナルのUIストレスをゼロにする",
+    "url": "https://ai.negi-lab.com/posts/claude-code-rendering-no-flicker-review/",
+    "category": "TOOL",
+    "viral_tags": "#ClaudeCode #TerminalUX",
+    "tweet_text": "Claude Code、使っていて「画面のちらつき」や「スクロールのしにくさ」にイラッとしたことありませんか？\nAnthropicの公式CLIは強力ですが、ターミナルでの描画品質にはまだ改善の余地があります。\n\n今回検証した「Claude Code Rendering (No Flicker Mode)」は、まさにその不満を解消する特効薬でした。\n実際に導入して驚いたのは、大規模なコード生成時の安定感。\n差分レンダリングのおかげで、画面全体がリフレッシュされるあの不快な点滅が消え、文字通り「吸い付くような」描画になります。\n\n個人的に最大の収穫はマウスサポートの完全有効化。\nCLIでありながら、IDEのようにホイールでログを遡り、必要な箇所をサッとコピーできる。\nSIer時代に黒い画面と格闘していた自分に教えてあげたいレベルの進化です。\n\nRTX 4090を回すようなローカルLLM環境も最高ですが、結局仕事で一番使うツールこそ、こうしたUXの微調整が効いてきます。\nCLI派の皆さんは、ターミナルの描画設定どうしてますか？\niTerm2やAlacrittyとの相性問題など、皆さんの環境でのハマりポイントもぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-18-claude-code-rendering-no-flicker-review.jpg",
+    "created_at": "2026-04-18T22:14:28.531930+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-18-qwen-2-5-vllm-optimization-performance-guide",
+    "title": "Qwen 2.5をローカル環境で爆速化するvLLM最適化設定ガイド",
+    "url": "https://ai.negi-lab.com/posts/qwen-2-5-vllm-optimization-performance-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen2 #vLLM",
+    "tweet_text": "RedditのLocalLLaMA界隈がQwen 2.5の最適化で盛り上がってますね。私もRTX 4090の2枚挿し環境で色々試しましたが、結論として「vLLMの設定次第で化ける」というのが本音です。\n\n特にQwen 2.5 72Bを24GBのVRAMに収めるためのAWQ量子化と、PagedAttentionのキャッシュ管理を最適化すると、もはやクラウド経由のAPIを使う理由がなくなるレベル。SIer時代にこんなツールがあれば、あの膨大なドキュメント作成作業も一瞬で終わっていたのに…と遠い目になります。\n\n巷では「動かしてみた」系の記事が多いですが、実務で耐えうる「秒間トークン数」を叩き出すための設定を全部まとめました。特にgpu_memory_utilizationの調整や、OpenAI互換サーバーとして立ち上げる手順は、現場で即戦力になるはず。\n\nローカルで動かす最大のメリットは、プライバシーだけでなく「試行錯誤の回数を無限に増やせること」だと思ってます。皆さんの環境では、Qwen 2.5 72Bはどのくらいの速度で回っていますか？4bit量子化の精度、実際の業務で許容できる範囲か気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-18-qwen-2-5-vllm-optimization-performance-guide.jpg",
+    "created_at": "2026-04-18T22:15:33.041820+09:00",
+    "posted": false
   }
 ]
