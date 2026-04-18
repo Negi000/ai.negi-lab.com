@@ -1,33 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "DFlash speculative decoding on Apple Silicon : 85 tok/s, 3.3x on Qwen3.5-9B (MLX, M5 Max)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1simszl/dflash_speculative_decoding_on_apple_silicon_85/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-11T15:56:43+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1simszl/dflash_speculative_decoding_on_apple_silicon_85/\"> <img alt=\"DFlash speculative decoding on Apple Silicon : 85 tok/s, 3.3x on Qwen3.5-9B (MLX, M5 Max)\" src=\"https://external-preview.redd.it/ODAwd290MjYybHVnMcrxHxwOQDOf48JfT0bOKhOuUhAqWVeixcZRZXxppms5.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ae6f0c76121980e9222f769881e2f994828de8b\" title=\"DFlash speculative decoding on Apple Silicon : 85 tok/s, 3.3x on Qwen3.5",
-      "extra": {},
-      "collected_at": "2026-04-12T02:32:20"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Why is my ollama gemma4 replying in Japanese?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sigb2v/why_is_my_ollama_gemma4_replying_in_japanese/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-11T11:15:16+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sigb2v/why_is_my_ollama_gemma4_replying_in_japanese/\"> <img alt=\"Why is my ollama gemma4 replying in Japanese?\" src=\"https://preview.redd.it/8hcs53lcojug1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83258e1698f6590a854176dffc466d9c7a8ec252\" title=\"Why is my ollama gemma4 replying in Japanese?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Do I have to set some parameters or configuration? Sorry, I'm new to this.<",
-      "extra": {},
-      "collected_at": "2026-04-12T02:32:20"
-    },
-    {
       "source": "Google News",
       "title": "ライフサイエンスにおける人工知能（AI）の世界市場（2026年～2032年）、市場規模（ソフトウェア、サービス）・分析レポートを発表 - newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE01bURjaEZicWItcTBKOGpSSkxJdkxLOVNrTS1MUDVDSERHc2dJM0pUdEtrRGhaeGlNbE4wV1ZjbHFjVnE0aWlV?oc=5",
@@ -3372,21 +3345,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "RTX 5070 Ti + 9800X3D running Qwen3.6-35B-A3B at 79 t/s with 128K context, the --n-cpu-moe flag is the most important part.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sor55y/rtx_5070_ti_9800x3d_running_qwen3635ba3b_at_79_ts/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-18T07:40:20+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Spent an evening dialing in Qwen3.6-35B-A3B on consumer hardware. Fun side note: I had <strong>Claude Opus 4.7 (just the $20 sub)</strong> build the config, launch the servers in the background, run the benchmarks, read the VRAM splits from the llama.cpp logs, and iterate on the tuning — basically did the whole thing autonomously. I just told it what hardware I have and what I wanted to run.</p> <p>Sharing because the common <code>--cpu-moe</code> advice is leav",
-      "extra": {},
-      "collected_at": "2026-04-18T18:48:19"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Cloudflare open-sources lossless LLM compression tool",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sor438/cloudflare_opensources_lossless_llm_compression/",
       "primary_category": "GUIDE",
@@ -3472,19 +3430,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "CraftBot",
-      "url": "https://www.producthunt.com/products/craftbot",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Self-hosted proactive AI assistant that lives locally </p> <p> <a href=\"https://www.producthunt.com/products/craftbot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1110300?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-19T00:10:48"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Lounge",
       "url": "https://www.producthunt.com/products/lounge-2",
       "primary_category": "TOOL",
@@ -3535,7 +3480,46 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Some people say that the thinking slows the system down for no real reason.</p> <p>Thinking to me seems like a “to do” list kind of what Claude Code or Codex does. Maybe thinking is better with the AI in a harness that creates this to do list and doesn’t rely solely on the model.</p> <p>And if I want to play with this, i can’t find a way to shut of thinking on LM Studio for this model on my Mac.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://",
       "extra": {},
       "collected_at": "2026-04-19T00:10:52"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Code Opus 4.7 keeps checking on malware",
+      "url": "https://news.ycombinator.com/item?id=47814832",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 18 Apr 2026 10:46:17 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-19T02:37:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "KIMI K2.6 SOON !!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sp10oa/kimi_k26_soon/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-18T15:41:57+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sp10oa/kimi_k26_soon/\"> <img alt=\"KIMI K2.6 SOON !!\" src=\"https://preview.redd.it/ee8dgfvgyyvg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7dcab146b6fd38fd5371793c475234df4f72c155\" title=\"KIMI K2.6 SOON !!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Namra_7\"> /u/Namra_7 </a> <br /> <span><a href=\"https://i.redd.it/ee8dgfvgyyvg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://w",
+      "extra": {},
+      "collected_at": "2026-04-19T02:37:06"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.6-35B-A3B-Uncensored-Wasserstein-GGUF",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sp2l72/qwen3635ba3buncensoredwassersteingguf/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-18T16:42:34+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone. Finally I found a way to fix <em>ssm_conv1d</em> tensor drift in quantized GGUF models via <a href=\"https://en.wikipedia.org/wiki/Wasserstein_metric\">Wasserstein metric (W1).</a> It's a lot better than Kullback Leibler for detecting numerical instability and drift in tensors.</p> <p>All three are <code>ssm_conv1d.weight</code> layers – recurrent state transition layers responsible for long‑context memory. It appears the Qwen team may not be aware",
+      "extra": {},
+      "collected_at": "2026-04-19T02:37:06"
     }
   ],
-  "updated_at": "2026-04-19T00:10:52.683986+09:00"
+  "updated_at": "2026-04-19T02:37:06.569010+09:00"
 }
