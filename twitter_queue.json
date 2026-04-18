@@ -11691,5 +11691,33 @@
     "image_path": "/images/posts/2026-04-18-world-id-tinder-partnership-human-verification.jpg",
     "created_at": "2026-04-18T14:15:31.533387+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-18-cursor-ai-editor-50-billion-valuation-analysis",
+    "title": "Cursor評価額500億ドル突破へ：VS Codeを凌駕する「開発環境の再定義」がもたらす実務への衝撃",
+    "url": "https://ai.negi-lab.com/posts/cursor-ai-editor-50-billion-valuation-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#CursorAI #エンジニアキャリア",
+    "tweet_text": "Cursorの評価額が500億ドル（約7.5兆円）に達するとの報道。GitHub買収額の7倍近いこの数字、最初は「エディタごときに？」と思ったのですが、実際にComposer機能を使い倒すと納得せざるを得ません。\n\nもはやこれは「VS Codeのフォーク」ではなく、ソフトウェア開発のOSを再定義する試みです。\nSIer時代、数日かけていたリファクタリングが、今や「@Codebase 認証方式を移行して」の1行で終わる。この差はもはや技術力の差ではなく、道具の差です。\n\n・コード全体をインデックス化する圧倒的なコンテキスト理解\n・複数ファイルを同時に書き換えるComposerの衝撃\n・月額$20でジュニアエンジニア1人分の生産性\n\n私たちは「コードを書く作業」をAIに譲渡し、設計とレビューに特化するアーキテクトへの進化を迫られています。正直、この流れに乗らないのは、計算機を使わずに手計算で会計業務をするようなものです。\n\n皆さんの現場では、Cursorの導入に際してセキュリティやコストの壁はありますか？それとも既に「Cursorなしでは戻れない」状態でしょうか？実際の導入感や、あえて使わない理由などあれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-18-cursor-ai-editor-50-billion-valuation-analysis.jpg",
+    "created_at": "2026-04-18T16:14:26.910218+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-18-cloudflare-is-your-site-agent-ready-review",
+    "title": "Cloudflare Is Your Site Agent-Ready? 使い方と実務評価",
+    "url": "https://ai.negi-lab.com/posts/cloudflare-is-your-site-agent-ready-review/",
+    "category": "TOOL",
+    "viral_tags": "#Cloudflare #AIエージェント",
+    "tweet_text": "AIエージェントがあなたのサイトを「理解」できているか、確認したことはありますか？\n\nCloudflareが出した「Is Your Site Agent-Ready?」を触ってみましたが、これは全Web担当者が通るべき関門ですね。従来のSEO（人間向け）とは評価軸が全く違います。\n\nPythonでRAGを組む実務をやってると痛感しますが、LLMが情報を拾いやすいサイトと、構造が崩壊していてハルシネーションを誘発するサイトの差はHTMLの「セマンティックさ」にあります。このツールはそれを0.5秒で数値化してくれる。\n\n私の環境（RTX 4090×2）でローカルLLMにスクレイピングさせてみても、このスコアが高いサイトほど要約精度が安定します。逆にdivタグのネストが深すぎるサイトは、トークンをドブに捨てるようなもの。\n\nこれからのWeb制作は「AIに愛される構造」が前提になります。皆さんのサイト、スコア何点でした？SPAだと意外と苦戦するかもしれませんね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-18-cloudflare-is-your-site-agent-ready-review.jpg",
+    "created_at": "2026-04-18T16:15:42.901673+09:00",
+    "posted": false
   }
 ]
