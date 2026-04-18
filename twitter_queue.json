@@ -11775,5 +11775,33 @@
     "image_path": "/images/posts/2026-04-18-qwen-2-5-vllm-optimization-performance-guide.jpg",
     "created_at": "2026-04-18T22:15:33.041820+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-19-craftbot-local-ai-agent-review-and-setup",
+    "title": "CraftBot ローカル環境で完結する自律型AIアシスタントの活用レビュー",
+    "url": "https://ai.negi-lab.com/posts/craftbot-local-ai-agent-review-and-setup/",
+    "category": "TOOL",
+    "viral_tags": "#CraftBot #ローカルLLM",
+    "tweet_text": "クラウドAIに機密データを投げる時代はもう終わりかもしれません。ローカル完結で自律動作するAIエージェント「CraftBot」を徹底検証しました。\n\nSIer時代、セキュリティ制限でAIが使えず歯痒い思いをした経験は誰にでもあるはず。CraftBotはPC内のファイルを監視し、指示される前に自らタスクを片付けるプロアクティブな設計が熱い。\n\nRTX 4090の2枚挿し環境でLlama 3をエンジンに試しましたが、レスポンス0.5秒の爆速で動く自律エージェントはもはや「デジタルな同僚」そのもの。APIの従量課金を気にせず、24時間365日エージェントをループさせ続けられる快感はローカル実行型ならではの特権ですね。\n\n正直、VRAM 12GB以上のGPUがないと厳しい「強者向け」のツールですが、条件を満たすエンジニアなら導入しない理由がない。特定のフォルダに置いたコードを自動レビューさせたり、ログから異常を検知して先回りして調査させたりと、使い道は無限大。\n\n皆さんはローカルLLMを使ってどんな業務を自動化してみたいですか？これならソースコードを外に出せない現場でも導入の余地がありそうです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-19-craftbot-local-ai-agent-review-and-setup.jpg",
+    "created_at": "2026-04-19T00:11:20.469579+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-19-rtx-5070ti-qwen-moe-optimization-guide",
+    "title": "RTX 5070 TiでQwen3.6-35B-A3Bを秒間79トークンで動かすllama.cpp最適化ガイド",
+    "url": "https://ai.negi-lab.com/posts/rtx-5070ti-qwen-moe-optimization-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLM #Qwen3",
+    "tweet_text": "RTX 5070 Tiと9800X3Dの組み合わせで、Qwen3.6-35B-A3Bが秒間79トークンで爆走した。\n以前のSIer時代なら、この性能の推論環境を整えるのに数百万のサーバーを調達して数週間かかっていたけど、今は個人のPCで、しかも1つのフラグ設定だけで実現できてしまう。\n\n秘密はllama.cppの「--n-cpu-moe」フラグ。\n全パラメータをGPUに載せるという固定観念を捨てて、あえてエキスパート計算の一部をCPUに分担させる。\n特にL3キャッシュが巨大なRyzen 9800X3Dとの相性が抜群で、VRAM不足による速度低下を回避しつつ、ハードウェアの限界性能を引き出せている感覚。\n\n12GBというVRAM制限がある5070 Tiユーザーにとって、この「戦略的な逃がし」は必須テクニックだと思う。\nローカルLLMは「動かしてみた」のフェーズから、実務でガンガン「道具として使う」フェーズに完全に移行しましたね。\n\nこの設定を試した方、あるいは他のGPUでのベンチマーク結果を持ってる方、実際のレスポンス速度はどうですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-19-rtx-5070ti-qwen-moe-optimization-guide.jpg",
+    "created_at": "2026-04-19T00:12:18.638270+09:00",
+    "posted": false
   }
 ]
