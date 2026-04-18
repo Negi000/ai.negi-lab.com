@@ -11719,5 +11719,33 @@
     "image_path": "/images/posts/2026-04-18-cloudflare-is-your-site-agent-ready-review.jpg",
     "created_at": "2026-04-18T16:15:42.901673+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-18-tokenmaxxing-developer-productivity-trap",
+    "title": "AIが生成するコードの量が増えるほど開発者の生産性が下がるという逆説的な現象が、現場の深刻な課題として浮上しています。",
+    "url": "https://ai.negi-lab.com/posts/tokenmaxxing-developer-productivity-trap/",
+    "category": "NEWS",
+    "viral_tags": "#生成AI #Tokenmaxxing",
+    "tweet_text": "AIがコードを書けば書くほど、現場が混乱する…。TechCrunchが報じた「Tokenmaxxing」の問題、これ全エンジニアが直面している罠だと思います。\n\n最近はGemini 1.5 Proなどの巨大コンテキスト窓のおかげで、ファイル丸ごとAIに投げて「よしなに直して」ができるようになりました。でも、これってSIer時代の「仕様書丸投げ」と同じなんですよね。AIが無関係なコードまで勝手に書き換えて、それを人間がレビューするのに数倍の時間がかかる。\n\nAPIドキュメントを読み込んでClaude 3.5 SonnetやGPT-4oを使い倒してきましたが、結論として「生成させる量は最小限」に絞るのが、今の実務で一番生産性が高いです。1,000行生成させて喜んでいるうちに、裏では修正コストという負の複利が積み上がっています。\n\n皆さんの現場では、AI生成コードのレビューにどれくらい時間を吸い取られていますか？「全文再生成」と「部分修正」、どちらの指示を出すことが多いでしょうか。実感を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-18-tokenmaxxing-developer-productivity-trap.jpg",
+    "created_at": "2026-04-18T18:49:02.436675+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-18-react-email-6-resend-review-guide",
+    "title": "React Email 6.0 使い方と実務投入の可否を検証した結果",
+    "url": "https://ai.negi-lab.com/posts/react-email-6-resend-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#ReactEmail #WebDevelopment",
+    "tweet_text": "SIer時代、HTMLメールの修正依頼が来るたびに胃が痛くなったのを覚えています。Tableタグを3重にネストし、スペーサー用の透過GIFを1px単位で調整。そんな苦行は、React Email 6.0が過去のものにしてくれました。\n\n今回、Resendが提供するこのツールの最新版を徹底検証しました。結論、Reactエンジニアなら「メール開発をReactコンポーネントで書ける」というだけで導入の価値があります。ホットリロードが0.1秒以下で反映されるプレビュー画面は、開発体験を劇的に変えます。\n\n「Pythonのプロジェクトなんだけど？」という方でも大丈夫。Node.jsでHTMLをビルドして、Python SDKからResend経由で投げる構成なら、デザインとロジックを綺麗に分離できます。複雑なインラインCSSやOutlook向けのハックを自分で書く必要はもうありません。\n\n一方で、ダークモード時の色反転など、まだ「メール特有の面倒臭さ」は残っています。銀の弾丸ではないですが、現時点で最強の武器なのは間違いありません。\n\n皆さんはHTMLメールの開発、どうやって乗り越えてますか？やっぱりまだMJML派ですか？それとも力技のテンプレートエンジン派でしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-18-react-email-6-resend-review-guide.jpg",
+    "created_at": "2026-04-18T18:50:17.280515+09:00",
+    "posted": false
   }
 ]
