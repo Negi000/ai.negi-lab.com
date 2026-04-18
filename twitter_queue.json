@@ -11677,5 +11677,19 @@
     "image_path": "/images/posts/2026-04-18-openai-sora-cancellation-enterprise-pivot.jpg",
     "created_at": "2026-04-18T06:56:26.485960+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-18-world-id-tinder-partnership-human-verification",
+    "title": "TinderとWorldが提携した衝撃｜虹彩認証がボットまみれのWebを変えるか",
+    "url": "https://ai.negi-lab.com/posts/world-id-tinder-partnership-human-verification/",
+    "category": "NEWS",
+    "viral_tags": "#Worldcoin #Tinder",
+    "tweet_text": "Sam AltmanのWorld（旧Worldcoin）がTinderと提携。ついに「虹彩認証で人間を証明する」時代が本格的に始まりました。\n\nSIer時代、認証システムの保守でボットとの不毛な戦いを続けてきましたが、もはやソフトウェアだけでAIを見分けるのは限界。TinderがWorldを選んだのは、生成AIによる偽造プロフィールがそれだけ深刻だからでしょう。\n\n技術的にはゼロ知識証明（ZKP）を使い、生体情報をアプリ側に渡さずに「唯一無二の人間であること」だけを証明します。これ、単なるログイン手段じゃなくて、Web上の信頼基盤をAltmanが独占しにきたってことですよね。\n\nRTX 4090を2枚挿してローカルLLMを触っていると、今のAIの擬態能力には恐怖すら感じます。物理的な「肉体」を確認しない限り、画面の向こう側を信じられない時代。この変化を「不気味」と切り捨てるか、「必須のインフラ」と捉えるか。\n\n皆さんのサービスで、もし「確実に人間であること」を保証しなきゃいけなくなったら、World IDを導入しますか？それとも他の方法を探しますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-18-world-id-tinder-partnership-human-verification.jpg",
+    "created_at": "2026-04-18T14:15:31.533387+09:00",
+    "posted": false
   }
 ]
