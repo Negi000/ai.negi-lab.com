@@ -11831,5 +11831,19 @@
     "image_path": "/images/posts/2026-04-19-lounge-macos-menubar-manager-notch-review.jpg",
     "created_at": "2026-04-19T02:38:29.936352+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-19-tesla-robotaxi-dallas-houston-unveiled",
+    "title": "テスラ無人ロボタクシーがテキサス主要都市で始動、LiDAR不要論の技術的勝機",
+    "url": "https://ai.negi-lab.com/posts/tesla-robotaxi-dallas-houston-unveiled/",
+    "category": "NEWS",
+    "viral_tags": "#TeslaRobotaxi #自動運転",
+    "tweet_text": "テスラがダラスとヒューストンで、ついに「完全無人」のロボタクシーを開始しましたね。\n\nフロントシートに誰もいないテスラが、深夜の市街地を当たり前のように走り抜ける動画を見て、いよいよ時代が動いたと感じました。\n\n特筆すべきは、高価なLiDARを一切使わず、カメラだけの「Vision-only」でこれを実現している点です。競合のWaymoが1台数千万円のセンサー盛り盛り車両で攻める中、テスラは市販車レベルのコストでスケールさせる道を選びました。\n\nSIer時代、ルールベースのシステムで例外処理に苦しんでいた身からすると、数百万行のコードを捨てて「エンドツーエンドのニューラルネット」に全振りしたテスラの決断には震えます。これは単なる自動運転の話ではなく、AIが物理世界をどう理解して制御するかという、ロボティクス全体のパラダイムシフトです。\n\nこれからは「特定の都市しか走れない高精度の地図」より、「どこでも走れる汎用的な視覚AI」が勝つ世界になる。\n\n開発者の皆さんは、もうCARLAなどのシミュレータを回し始めていますか？\nこのスピード感についていかないと、気づいた時にはインフラ自体が塗り替えられているかもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-19-tesla-robotaxi-dallas-houston-unveiled.jpg",
+    "created_at": "2026-04-19T06:49:03.562287+09:00",
+    "posted": false
   }
 ]
