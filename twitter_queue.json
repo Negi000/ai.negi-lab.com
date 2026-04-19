@@ -11985,5 +11985,19 @@
     "image_path": "/images/posts/2026-04-20-llamacpp-speculative-checkpointing-guide.jpg",
     "created_at": "2026-04-20T00:13:28.074699+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-20-palantir-manifesto-denouncing-regressive-ai-culture",
+    "title": "Palantirの「脱ポリコレ」宣言が突きつける、防衛AIと実利主義の冷徹な現実",
+    "url": "https://ai.negi-lab.com/posts/palantir-manifesto-denouncing-regressive-ai-culture/",
+    "category": "NEWS",
+    "viral_tags": "#Palantir #防衛AI",
+    "tweet_text": "Palantirが放った「脱ポリコレ」マニフェスト。これは単なる政治的発言ではなく、AI業界が直面する「実利か、倫理か」という深刻な分断の予兆ですね。\n\nSIer時代、どんなに綺麗な理想論を並べても、現場で「動かない」「責任が取れない」システムは一瞬で捨てられました。Palantirの Alex Karp氏がシリコンバレーの文化を「退行的」と切り捨てた背景には、今のAIが過度なガードレールで「使い物にならない優等生」になっている現状への苛立ちを感じます。\n\n彼らが重視するのは、モデル内部の倫理判断ではなく、厳格なデータ構造（オントロジー）による外部制御。これは開発者にとって、RAGの先にある「制御可能なAI」を構築するための極めて実践的なヒントになります。\n\n汎用AIが「平和なチャット」に終始する一方で、Palantirは戦場やインフラの最前線で「勝つためのAI」を研ぎ澄ましている。この二極化は、3ヶ月後にはエンタープライズ案件の要件定義にも確実に影響を及ぼすはず。\n\n皆さんの現場では、AIの「過剰な安全性」が業務の妨げになった経験はありませんか？例えば「特定の業界用語を差別用語と誤認して回答を拒否された」といった具体的な事例があれば、ぜひリプライで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-20-palantir-manifesto-denouncing-regressive-ai-culture.jpg",
+    "created_at": "2026-04-20T02:36:43.427713+09:00",
+    "posted": false
   }
 ]

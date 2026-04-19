@@ -1,33 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "Audio processing landed in llama-server with Gemma-4",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjhxrw/audio_processing_landed_in_llamaserver_with_gemma4/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-12T15:42:51+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sjhxrw/audio_processing_landed_in_llamaserver_with_gemma4/\"> <img alt=\"Audio processing landed in llama-server with Gemma-4\" src=\"https://preview.redd.it/lsuwsm085sug1.png?width=140&amp;height=107&amp;auto=webp&amp;s=5678e30c11c2a27cd1ea03826d9f37e487b2f901\" title=\"Audio processing landed in llama-server with Gemma-4\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/lsuwsm085sug1.png?width",
-      "extra": {},
-      "collected_at": "2026-04-13T02:35:16"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "mtmd: add Gemma 4 audio conformer encoder support",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjen8d/mtmd_add_gemma_4_audio_conformer_encoder_support/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-12T13:31:35+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sjen8d/mtmd_add_gemma_4_audio_conformer_encoder_support/\"> <img alt=\"mtmd: add Gemma 4 audio conformer encoder support\" src=\"https://external-preview.redd.it/UvHrMaXym8pajiAT0ViBVck01pLyft8yRMEj43hxoV0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9cd19261cfeed261b0fef08712012001aeeba206\" title=\"mtmd: add Gemma 4 audio conformer encoder support\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>audio processing support ",
-      "extra": {},
-      "collected_at": "2026-04-13T02:35:16"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Show HN: Claudraband – Claude Code for the Power User",
       "url": "https://github.com/halfwhey/claudraband",
@@ -3335,19 +3308,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "llama.cpp speculative checkpointing was merged",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sprdm8/llamacpp_speculative_checkpointing_was_merged/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-19T12:16:04+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/ggml-org/llama.cpp/pull/19493\">https://github.com/ggml-org/llama.cpp/pull/19493</a></p> <p>Some prompts get a speedup, others don't (cases of low draft acceptance streak).<br /> Good working params depend on the task type and repetition patterns.<br /> For coding, I got some 0%~50% speedup with these params:</p> <pre><code>--spec-type ngram-mod --spec-ngram-size-n 24 --draft-min 48 --draft-max 64 </code></pre> </div><!-- SC_ON --> &#3",
-      "extra": {},
-      "collected_at": "2026-04-19T22:12:26"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Unweight: how we compressed an LLM 22% without sacrificing quality",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1spnx1l/unweight_how_we_compressed_an_llm_22_without/",
       "primary_category": "GUIDE",
@@ -3358,19 +3318,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spnx1l/unweight_how_we_compressed_an_llm_22_without/\"> <img alt=\"Unweight: how we compressed an LLM 22% without sacrificing quality\" src=\"https://external-preview.redd.it/Cy0aGHhVsXQ7zKhFYWyj5lzI967UaF0i21uoPmLL1BQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7172e9a6555129c975ffc98c4275aec7f5487c98\" title=\"Unweight: how we compressed an LLM 22% without sacrificing quality\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md",
       "extra": {},
       "collected_at": "2026-04-19T22:12:26"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Verdent 2.0",
-      "url": "https://www.producthunt.com/products/verdent-deck",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your AI Technical Cofounder </p> <p> <a href=\"https://www.producthunt.com/products/verdent-deck?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124916?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-20T00:10:40"
     },
     {
       "source": "r/LocalLLaMA",
@@ -3385,7 +3332,74 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spubyp/browser_os_implemented_by_qwen_36_35b_the_best/\"> <img alt=\"&quot;Browser OS&quot; implemented by Qwen 3.6 35B: The best result I ever got from a local model\" src=\"https://external-preview.redd.it/OAXSl8SY6T3JK9MGQyKxkoYbqZ71HQRYXLeB8CV0NXg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f53460a90493497883ab4cacbbb58e2acb464c4\" title=\"&quot;Browser OS&quot; implemented by Qwen 3.6 35B: The best result I ever got fro",
       "extra": {},
       "collected_at": "2026-04-20T00:10:43"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 19 Apr 2026 16:30:00 +0000",
+      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "extra": {},
+      "collected_at": "2026-04-20T02:35:58"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 19 Apr 2026 16:01:00 +0000",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "extra": {},
+      "collected_at": "2026-04-20T02:35:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Assemble",
+      "url": "https://www.producthunt.com/products/assemble-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> One /go command for AI work that remembers — zero runtime </p> <p> <a href=\"https://www.producthunt.com/products/assemble-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1122018?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-20T02:36:07"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "LLM Neuroanatomy III - LLMs seem to think in geometry, not language",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1spy497/llm_neuroanatomy_iii_llms_seem_to_think_in/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-19T16:45:50+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spy497/llm_neuroanatomy_iii_llms_seem_to_think_in/\"> <img alt=\"LLM Neuroanatomy III - LLMs seem to think in geometry, not language\" src=\"https://preview.redd.it/s9r7ro7lc6wg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f9e24058a3505f97ccb1185290193d06edc7390\" title=\"LLM Neuroanatomy III - LLMs seem to think in geometry, not language\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi Reddit!</p> <p>Last month I pos",
+      "extra": {},
+      "collected_at": "2026-04-20T02:36:07"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Same 9B Qwen weights: 19.1% in Aider vs 45.6% with a scaffold adapted to small local models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1spufzz/same_9b_qwen_weights_191_in_aider_vs_456_with_a/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-19T14:27:33+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I spent the past week testing a simple question:</p> <p>Small local models often look weak inside coding agents. But how much of that is actually model weakness, and how much is scaffold mismatch?</p> <p>So I held the model fixed and changed only the scaffold.</p> <p>Same Qwen3.5-9B Q4 weights in both conditions.</p> <p>Same Aider Polyglot benchmark.</p> <p>Full 225 exercises.</p> <p>Results:</p> <p>- vanilla Aider: 19.11%</p> <p>- little-coder: 45.56% mean pass",
+      "extra": {},
+      "collected_at": "2026-04-20T02:36:07"
     }
   ],
-  "updated_at": "2026-04-20T00:10:43.814832+09:00"
+  "updated_at": "2026-04-20T02:36:07.931167+09:00"
 }
