@@ -11929,5 +11929,33 @@
     "image_path": "/images/posts/2026-04-19-nibbo-family-task-gamification-review.jpg",
     "created_at": "2026-04-19T18:49:02.541321+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-19-wyndo-weather-activity-decision-review",
+    "title": "Wyndo レビュー：天候判断を自動化する実用性",
+    "url": "https://ai.negi-lab.com/posts/wyndo-weather-activity-decision-review/",
+    "category": "TOOL",
+    "viral_tags": "#Wyndo #生産性向上",
+    "tweet_text": "気温、風速、湿度...。気象データを見て「結局、外で仕事できるの？」と悩む時間はもう終わりにしませんか。\n\nProduct Huntで見つけた「Wyndo」を実務目線でレビューしました。これ、単なる天気予報アプリじゃないんです。複数の気象パラメータを「アクティビティの可否」という1つのスコアに変換してくれる、意思決定に特化したツールです。\n\n元SIerエンジニアとして、この「認知負荷を削ぎ落とす設計」には痺れました。多機能なツールを作るのは簡単ですが、あえて情報を絞って「結論」を出すのは実は一番難しい。Pythonでロジックを模倣して、スマートホームの自動化に組み込む方法も考察しています。\n\n「Windyは情報が多すぎるし、iPhoneの標準アプリじゃ物足りない」という中級者層に刺さるはず。特に、天候に左右されやすいフリーランスや屋外作業が多い方は必見。\n\nただ、正直なところ「日本独自の局地的な気象モデル」への対応はまだ不透明な部分も。メインで使うよりは、判断を加速させるためのセカンドオピニオンとして運用するのが現状のベストプラクティスですね。\n\n皆さんは、外出の判断をどの数値で決めてますか？風速？それとも直感？リプライで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-19-wyndo-weather-activity-decision-review.jpg",
+    "created_at": "2026-04-19T22:13:01.859795+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-19-ebay-gpu-scam-detection-python-ai-tutorial",
+    "title": "eBay詐欺GPUを画像解析AIで自動検知する方法",
+    "url": "https://ai.negi-lab.com/posts/ebay-gpu-scam-detection-python-ai-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#eBayScam #PythonAI",
+    "tweet_text": "eBayのRTX 3090が13ドル...。Redditで話題の「明らかに怪しいGPU出品」を、指をくわえて見ているのはエンジニアとして勿体ないですね。プラットフォームの対策を待つより、自分のAPIキーで自衛の盾を作る方が圧倒的に速いです。\n\n今回はPythonとGemini 1.5 Proを組み合わせて、商品画像と価格の整合性をAIに多角的に分析させる「詐欺検知スクリプト」の作り方をまとめました。単なるルールベースの判定ではなく、マルチモーダルLLMに「基板のコネクタ構成」や「シリアルシールのフォント」まで凝視させる泥臭いアプローチです。\n\n実際にテストしたところ、画像に映り込んだ古いVGA端子をAIがしっかり指摘して「詐欺確定」と出した時は正直しびれました。人間だと安さに目がくらんで見落とす微細な矛盾も、AIなら冷徹にスコアリングしてくれます。\n\n皆さんは中古パーツを漁る際、自分なりの「これは怪しい」という判断基準はありますか？私はまず価格が相場の3割を切った時点でAIに投げます。自作の検知ツール運用している人、どんなロジック組んでるかぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-19-ebay-gpu-scam-detection-python-ai-tutorial.jpg",
+    "created_at": "2026-04-19T22:14:13.655395+09:00",
+    "posted": false
   }
 ]

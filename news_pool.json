@@ -1,80 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "The AI code wars are heating up",
-      "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-12T08:00:00-04:00",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Writing code was a killer app for AI [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-12T22:11:46"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "Mon, 19 Jan 2026 14:00:00 GMT",
-      "summary": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its <a href=\"https://claude.com/pricing\">pricing</a> — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims",
-      "extra": {},
-      "collected_at": "2026-04-12T22:11:46"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "yt-dlp/yt-dlp",
-      "url": "https://github.com/yt-dlp/yt-dlp",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A feature-rich command-line audio/video downloader",
-      "extra": {
-        "stars_today": "216 stars today"
-      },
-      "collected_at": "2026-04-12T22:12:07"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "sindresorhus/awesome",
-      "url": "https://github.com/sindresorhus/awesome",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "😎 Awesome lists about all kinds of interesting topics",
-      "extra": {
-        "stars_today": "385 stars today"
-      },
-      "collected_at": "2026-04-12T22:12:07"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "pola-rs/polars",
-      "url": "https://github.com/pola-rs/polars",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Extremely fast Query Engine for DataFrames, written in Rust",
-      "extra": {
-        "stars_today": "25 stars today"
-      },
-      "collected_at": "2026-04-12T22:12:07"
-    },
-    {
       "source": "Product Hunt",
       "title": "Nicelydone MCP",
       "url": "https://www.producthunt.com/products/nicely-done",
@@ -2960,20 +2886,6 @@
       "collected_at": "2026-04-18T14:15:03"
     },
     {
-      "source": "The Verge AI",
-      "title": "OpenAI’s former Sora boss is leaving",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-17T17:13:25-04:00",
-      "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes as the company [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-18T16:13:50"
-    },
-    {
       "source": "Product Hunt",
       "title": "Android CLI",
       "url": "https://www.producthunt.com/products/android-cli",
@@ -3308,19 +3220,6 @@
       "collected_at": "2026-04-19T16:24:37"
     },
     {
-      "source": "Product Hunt",
-      "title": "Nibbo",
-      "url": "https://www.producthunt.com/products/nibbo",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Family hub with a 3D pet that grows as you get things done </p> <p> <a href=\"https://www.producthunt.com/products/nibbo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1126625?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-19T16:24:37"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Why isn't ebay doing anything to stop those scams?",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1splwqx/why_isnt_ebay_doing_anything_to_stop_those_scams/",
@@ -3386,7 +3285,132 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spfz31/i_tested_8_llms_as_tabletop_gms_a_27b_model_beat/\"> <img alt=\"I tested 8 LLMs as tabletop GMs - a 27B model beat the 405B on narrative quality\" src=\"https://preview.redd.it/8smrzx58r1wg1.gif?width=640&amp;crop=smart&amp;s=4bda50cb46c4fe852ccae5c8fb947a3f512b471c\" title=\"I tested 8 LLMs as tabletop GMs - a 27B model beat the 405B on narrative quality\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><h1>Sum B+a+c+k+g+r",
       "extra": {},
       "collected_at": "2026-04-19T18:47:25"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "This charming gadget writes bad AI poetry",
+      "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-17T13:30:00-04:00",
+      "summary": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably lo-fi. If I saw it on a store shelf, I'd absolutely pick it up. But aside from obviously appealing, I'm [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-19T22:12:21"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 19 Apr 2026 10:36:29 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-19T22:12:22"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tell",
+      "url": "https://www.producthunt.com/products/tell-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Mac widgets, made fun. </p> <p> <a href=\"https://www.producthunt.com/products/tell-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1127088?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-19T22:12:24"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "extra": {
+        "stars_today": "382 stars today"
+      },
+      "collected_at": "2026-04-19T22:12:26"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "formbricks/formbricks",
+      "url": "https://github.com/formbricks/formbricks",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Open Source Qualtrics Alternative",
+      "extra": {
+        "stars_today": "14 stars today"
+      },
+      "collected_at": "2026-04-19T22:12:26"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "dortania/OpenCore-Legacy-Patcher",
+      "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Experience macOS just like before",
+      "extra": {
+        "stars_today": "20 stars today"
+      },
+      "collected_at": "2026-04-19T22:12:26"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "ajeetdsouza/zoxide",
+      "url": "https://github.com/ajeetdsouza/zoxide",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A smarter cd command. Supports all major shells.",
+      "extra": {
+        "stars_today": "71 stars today"
+      },
+      "collected_at": "2026-04-19T22:12:26"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "llama.cpp speculative checkpointing was merged",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sprdm8/llamacpp_speculative_checkpointing_was_merged/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-19T12:16:04+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/ggml-org/llama.cpp/pull/19493\">https://github.com/ggml-org/llama.cpp/pull/19493</a></p> <p>Some prompts get a speedup, others don't (cases of low draft acceptance streak).<br /> Good working params depend on the task type and repetition patterns.<br /> For coding, I got some 0%~50% speedup with these params:</p> <pre><code>--spec-type ngram-mod --spec-ngram-size-n 24 --draft-min 48 --draft-max 64 </code></pre> </div><!-- SC_ON --> &#3",
+      "extra": {},
+      "collected_at": "2026-04-19T22:12:26"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Unweight: how we compressed an LLM 22% without sacrificing quality",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1spnx1l/unweight_how_we_compressed_an_llm_22_without/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-19T09:06:39+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spnx1l/unweight_how_we_compressed_an_llm_22_without/\"> <img alt=\"Unweight: how we compressed an LLM 22% without sacrificing quality\" src=\"https://external-preview.redd.it/Cy0aGHhVsXQ7zKhFYWyj5lzI967UaF0i21uoPmLL1BQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7172e9a6555129c975ffc98c4275aec7f5487c98\" title=\"Unweight: how we compressed an LLM 22% without sacrificing quality\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md",
+      "extra": {},
+      "collected_at": "2026-04-19T22:12:26"
     }
   ],
-  "updated_at": "2026-04-19T18:47:25.147781+09:00"
+  "updated_at": "2026-04-19T22:12:26.582422+09:00"
 }
