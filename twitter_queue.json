@@ -11873,5 +11873,33 @@
     "image_path": "/images/posts/2026-04-19-app-store-boom-2026-ai-development-shift.jpg",
     "created_at": "2026-04-19T14:36:17.558605+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-19-dram-ram-shortage-ai-2030-impact-analysis",
+    "title": "AI開発の生命線であるDRAM供給が、2027年末までに需要の60%しか満たせないという衝撃的な予測が出ました。",
+    "url": "https://ai.negi-lab.com/posts/dram-ram-shortage-ai-2030-impact-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#半導体不足 #ローカルLLM",
+    "tweet_text": "AI開発の生命線であるDRAM供給が、2027年までに需要の60%しか満たせないという驚愕の予測が出ました。SKハイニックス会長に至っては「不足は2030年まで続く」とまで言い切っています。\n\nこの品薄、ただのパーツ不足とは次元が違います。原因はAI専用の超高性能メモリ「HBM」への極端な生産シフトです。メーカーが儲かるHBMばかり作るせいで、私たちが使うDDR5やLPDDR5のラインが削られているという構造的な問題なんですね。\n\nSIer時代からハードを見てきましたが、ここまで「物理的な壁」がAIの進化を阻む展開は予想外でした。メモリ1GBあたりの単価が2倍近くになる未来も現実味を帯びています。\n\nこれからのエンジニアに求められるのは、潤沢なメモリを前提とした設計ではなく、量子化やモデル軽量化を駆使した「メモリ節約術」への習熟です。私も4090の2枚挿しで四苦八苦していますが、制約があるからこそ磨かれる技術があるのも事実。\n\n皆さんは、このメモリ飢餓時代に向けて何か対策していますか？今のうちに32GBや64GBのメモリを積んでおくのは、実は最も期待値の高い投資かもしれません。実際のところ、今の開発環境でメモリ不足を感じる場面って増えていませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-19-dram-ram-shortage-ai-2030-impact-analysis.jpg",
+    "created_at": "2026-04-19T16:25:07.454276+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-19-avina-ai-gtm-agent-review-and-tutorial",
+    "title": "Avina 使い方とレビュー：AIエージェントによる営業自動化の実力",
+    "url": "https://ai.negi-lab.com/posts/avina-ai-gtm-agent-review-and-tutorial/",
+    "category": "TOOL",
+    "viral_tags": "#Avina #営業自動化",
+    "tweet_text": "SIer時代、営業担当がExcelのリードリストに一行ずつ電話をかける横で「これ自動化できないか」と考えていた。あの時の苦労を過去のものにするツールが出てきました。\n\nAIエージェント「Avina」を徹底検証。これ、単なるリスト作成ツールじゃないですね。\n\nエージェントが自律的にWebを巡回して、ターゲットの「最新ニュース」を読み込み、そこから逆算して刺さる提案書を自動で作ってくれます。昨日の資金調達ニュースをトリガーに今朝メールを送る、なんて芸当がエンジニアの手を借りずにできるのが衝撃。\n\nPython SDKも提供されているので、既存のHubSpot連携なんかも簡単。ただ、日本語の「行間」を読む力はまだ発展途上。海外市場を攻めるなら即戦力ですが、国内の保守的な業界だと調整にコツがいります。\n\n「名簿を買う」時代から「エージェントに市場を監視させる」時代へのシフト。実際に触ってみて、営業組織の構造が根本から変わる予感がしました。\n\nAI営業エージェントを自作しようとしているエンジニアは、まずこれの仕様を見てからでも遅くないはず。皆さんの現場では、営業の自動化どこまで進んでますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-19-avina-ai-gtm-agent-review-and-tutorial.jpg",
+    "created_at": "2026-04-19T16:26:09.383834+09:00",
+    "posted": false
   }
 ]
