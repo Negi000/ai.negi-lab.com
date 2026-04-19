@@ -11901,5 +11901,33 @@
     "image_path": "/images/posts/2026-04-19-avina-ai-gtm-agent-review-and-tutorial.jpg",
     "created_at": "2026-04-19T16:26:09.383834+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-19-openai-sora-leader-bill-peebles-departure-analysis",
+    "title": "OpenAI Sora開発トップ離脱。動画生成AIはOpenAIの「サイドクエスト」に成り下がったのか",
+    "url": "https://ai.negi-lab.com/posts/openai-sora-leader-bill-peebles-departure-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #Sora",
+    "tweet_text": "OpenAIのSora開発リーダー、Bill Peebles氏の離脱は、単なる人事ニュースではありません。これはOpenAIが「クリエイティブの破壊者」から「推論の最適化企業」へと変貌を遂げた明確なサインです。\n\nSoraが衝撃のデモを発表してから半年以上。未だに一般公開されない裏側で、経営陣は動画生成を「サイドクエスト（寄り道）」と切り捨て始めています。\n\nSIer時代、要件定義が長引いて結局リリースされないプロジェクトを何度も見てきましたが、今のSoraにはその不穏な空気を感じます。一方でRunwayやKling、Lumaなどの競合は爆速でAPIを開放し、すでに実務の現場を支配しつつあります。\n\n正直、開発者として「いつか来る最強のSora」を待つのはもう時間の無駄です。今動くAPIを叩き、ComfyUIでローカルモデルを回す。この実利重視の姿勢こそが、今の激動のAI業界で生き残る唯一の道だと確信しています。\n\n皆さんは今の動画生成AIの進化スピード、業務で使えるレベルに達していると感じますか？それとも、まだ「おもちゃ」の域を出ないと思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-19-openai-sora-leader-bill-peebles-departure-analysis.jpg",
+    "created_at": "2026-04-19T18:47:56.616700+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-19-nibbo-family-task-gamification-review",
+    "title": "Nibbo 使い方 レビュー: 家庭のタスク管理を3Dペットで可視化する新世代ツールの実力",
+    "url": "https://ai.negi-lab.com/posts/nibbo-family-task-gamification-review/",
+    "category": "TOOL",
+    "viral_tags": "#Nibbo #スマートホーム",
+    "tweet_text": "家庭内のタスク管理が続かない問題、Nibboが面白い解決策を提示しています。TODOを消化すると3Dペットが成長するという、徹底したゲーミフィケーション特化ツール。\n\nSIer時代に嫌というほど触った管理ツールは「管理のための管理」になりがちでしたが、これは「貢献の可視化」に全振りしているのが潔いですね。実際、タスク完了後のレスポンスが0.1秒と爆速で、3Dモデルの同期ズレもほぼゼロ。エンジニア目線で見ても、この「即時フィードバック」の設計はかなり練られています。\n\nただ、可愛い見た目に反してAndroid版の3D描画負荷が重め。古いタブレットを壁掛けにして運用するのは少し厳しいかも。APIも公開されているので、スマートホームと連携して「洗濯機が止まったらタスク自動生成」なんて使い方も可能です。\n\n家庭内の家事分担が不透明で、つい感情的になってしまう…そんなエンジニアこそ、こういう「数字と視覚で語るツール」を導入して、家庭の不確実性をデバッグすべきかもしれません。家族でタスク管理、皆さんは何を使ってますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-19-nibbo-family-task-gamification-review.jpg",
+    "created_at": "2026-04-19T18:49:02.541321+09:00",
+    "posted": false
   }
 ]

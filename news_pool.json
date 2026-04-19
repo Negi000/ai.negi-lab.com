@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "source": "VentureBeat AI",
-      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Fri, 16 Jan 2026 14:01:00 GMT",
-      "summary": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-olson\">$100 million offers</a> seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a <a href=\"https://billboardinsider.com/ai-startup/\">billboard in San Francisco</a> displayi",
-      "extra": {},
-      "collected_at": "2026-04-12T18:44:08"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Unsloth MiniMax M2.7 quants just finished uploading to HF",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sj7wc8/unsloth_minimax_m27_quants_just_finished/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-12T07:31:52+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>They range from Q1 to BF16.</p> <p>Grab them while they're still hot over at</p> <p><a href=\"https://huggingface.co/unsloth/MiniMax-M2.7-GGUF\">https://huggingface.co/unsloth/MiniMax-M2.7-GGUF</a></p> <p>Thanks to <a href=\"/u/danielhanchen\">u/danielhanchen</a>!</p> <p>Here's the current list:</p> <table><thead> <tr> <th align=\"left\">Bits</th> <th align=\"left\"><strong>Quantization Label</strong></th> <th align=\"left\"><strong>Size</strong></th> </tr> </thead><tbody",
-      "extra": {},
-      "collected_at": "2026-04-12T18:44:13"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "huge improvement after moving from ollama to llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sj6zz8/huge_improvement_after_moving_from_ollama_to/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-12T06:41:22+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Those are tiny robots fighting each other to survive.<br /> Between matches only one class of robots are driven by qwen3 coder generated code and it does improve match after match...<br /> <a href=\"https://www.youtube.com/watch?v=FMspkoXseRw\">https://www.youtube.com/watch?v=FMspkoXseRw</a></p> <p>Is funny to set different parameters and watch it.<br /> Code:<br /> <a href=\"https://github.com/leonardosalvatore/llm-robot-wars\">https://github.com/leonardosalvatore/",
-      "extra": {},
-      "collected_at": "2026-04-12T18:44:13"
-    },
-    {
       "source": "The Verge AI",
       "title": "The AI code wars are heating up",
       "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
@@ -3282,19 +3242,6 @@
       "collected_at": "2026-04-19T06:48:36"
     },
     {
-      "source": "The Verge AI",
-      "title": "The RAM shortage could last years",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-18T17:08:45-04:00",
-      "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. The world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-19T12:37:07"
-    },
-    {
       "source": "Product Hunt",
       "title": "Hipocampus",
       "url": "https://www.producthunt.com/products/hipocampus",
@@ -3333,19 +3280,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I don't know if it's something I am doing horribly wrong or what, but running Open WebUI w/ Terminal on Docker with the models on LM Studio and I am starting to think the community keeps praising the tool calling feature just to cope lol</p> <p>Qwen3.5 27B, 35B, Gemma4 26B, Qwen3.6 35B, GPS-OSS 20B - I have tried them all using the recommended parameters from Unsloth and asking them to create a single file with data is very finicky <strong>when</strong> it works",
       "extra": {},
       "collected_at": "2026-04-19T12:37:21"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Avina",
-      "url": "https://www.producthunt.com/products/avina-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> GTM Agents to Find and Reach Your Next Customer </p> <p> <a href=\"https://www.producthunt.com/products/avina-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1122798?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-19T16:24:37"
     },
     {
       "source": "Product Hunt",
@@ -3398,7 +3332,61 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1splwqx/why_isnt_ebay_doing_anything_to_stop_those_scams/\"> <img alt=\"Why isn't ebay doing anything to stop those scams?\" src=\"https://preview.redd.it/palois64k3wg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2f631011c8931122032f605143bf1ff99ee491d\" title=\"Why isn't ebay doing anything to stop those scams?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>There's no way this is real and ebay is doing nothing to stop",
       "extra": {},
       "collected_at": "2026-04-19T16:24:40"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-17T16:14:21-04:00",
+      "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy new cybersecurity-focused model: Claude Mythos Preview. [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-19T18:47:18"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Paperweight",
+      "url": "https://www.producthunt.com/products/paperweight",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Cleanup your email and manage your digital footprint </p> <p> <a href=\"https://www.producthunt.com/products/paperweight?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119706?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-19T18:47:21"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma 4 - MLX doesn't seem better than GGUF",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1spn7zh/gemma_4_mlx_doesnt_seem_better_than_gguf/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-04-19T08:25:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Going to flag this up front - I know that there are some properly smart people on this sub, please can you correct my noob user errors or misunderstandings and educate my ass.</p> <p><strong>Model</strong>:</p> <p><a href=\"https://lmstudio.ai/models/google/gemma-4-26b-a4b\">google/gemma-4-26b-a4b</a></p> <p><strong>Versions</strong>:</p> <ul> <li>MLX: <a href=\"https://huggingface.co/mlx-community/gemma-4-26b-a4b-it-4bit\">https://huggingface.co/mlx-community/gemma",
+      "extra": {},
+      "collected_at": "2026-04-19T18:47:25"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I tested 8 LLMs as tabletop GMs - a 27B model beat the 405B on narrative quality",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1spfz31/i_tested_8_llms_as_tabletop_gms_a_27b_model_beat/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-19T01:59:17+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spfz31/i_tested_8_llms_as_tabletop_gms_a_27b_model_beat/\"> <img alt=\"I tested 8 LLMs as tabletop GMs - a 27B model beat the 405B on narrative quality\" src=\"https://preview.redd.it/8smrzx58r1wg1.gif?width=640&amp;crop=smart&amp;s=4bda50cb46c4fe852ccae5c8fb947a3f512b471c\" title=\"I tested 8 LLMs as tabletop GMs - a 27B model beat the 405B on narrative quality\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><h1>Sum B+a+c+k+g+r",
+      "extra": {},
+      "collected_at": "2026-04-19T18:47:25"
     }
   ],
-  "updated_at": "2026-04-19T16:24:40.945910+09:00"
+  "updated_at": "2026-04-19T18:47:25.147781+09:00"
 }
