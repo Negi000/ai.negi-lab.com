@@ -11957,5 +11957,33 @@
     "image_path": "/images/posts/2026-04-19-ebay-gpu-scam-detection-python-ai-tutorial.jpg",
     "created_at": "2026-04-19T22:14:13.655395+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-20-verdent-2-review-ai-technical-cofounder",
+    "title": "Verdent 2.0 使い方：非エンジニアがAIを技術責任者にする方法",
+    "url": "https://ai.negi-lab.com/posts/verdent-2-review-ai-technical-cofounder/",
+    "category": "TOOL",
+    "viral_tags": "#Verdent #スタートアップ支援",
+    "tweet_text": "非エンジニアの創業者が一番頭を抱える「技術選定」の正解をAIが叩き出す時代が来ましたね。\n\nVerdent 2.0を触ってみましたが、これは単なるコード生成AIではありません。「技術的共同創業者（Technical Cofounder）」を名乗るだけあって、アイデアを投げるだけでPRD、ER図、インフラ構成、さらには工数見積もりまで数分で仕上げてきます。\n\nSIer時代、要件定義の迷走で数千万単位の予算が溶ける現場を何度も見ましたが、このツールがあれば初期の致命的な設計ミスはほぼ防げるはず。特に「予算内でリアルタイム通信を実装したい」といったトレードオフが絡む意思決定のロジックが驚くほどまともです。\n\nもちろん弱点もあって、現状はモダンな構成（Next.jsやFastAPIなど）に提案が偏りがち。でも「外注に舐められたくない」あるいは「最短で技術的負債のないMVPを立ち上げたい」人にはこれ以上ない武器になります。\n\nエンジニアの皆さんは、自分の仕事が奪われると危惧するより、このAIを「優秀なアーキテクト」として部下に従えるフェーズに入ったと感じます。\n\n皆さんの周りで、技術選定のミスが原因でポシャったプロジェクトってありますか？その時、何が原因だったか知りたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-20-verdent-2-review-ai-technical-cofounder.jpg",
+    "created_at": "2026-04-20T00:11:51.671555+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-20-llamacpp-speculative-checkpointing-guide",
+    "title": "llama.cpp高速化！Speculative Checkpointing設定ガイド",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-speculative-checkpointing-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#llamacpp #ローカルLLM",
+    "tweet_text": "SIer時代、大規模なコンパイルやDBクエリの待ち時間にコーヒーを3杯飲んでいた頃が懐かしい。今は自宅のRTX 4090を2枚挿したサーバーで、LLMをいかに速く、低遅延で動かすかに没頭しています。\n\nllama.cppにマージされた「Speculative Checkpointing」が衝撃的でした。これ、ドラフトモデルなしで推論を高速化できるんです。VRAMがカツカツなローカル環境の救世主。\n\n特にコード生成での恩恵がデカい。if文やimport文みたいな定型パターンをn-gramで先読みしてくれるから、体感速度が1.5倍くらい変わります。導入コストもビルドし直すだけ。\n\n「動かしてみた」で終わらせず、実務で使えるレベルに設定を追い込むプロセスを記事にまとめました。パラメータの `--spec-type ngram-mod` をどう設定すべきか、具体的な数値と一緒に解説しています。\n\n最新のAI技術を「自分の手元」で制御できる快感は、他では味わえません。ローカルLLMを仕事の道具にしている人、実際の推論速度どれくらい出てますか？環境や設定をリプで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-20-llamacpp-speculative-checkpointing-guide.jpg",
+    "created_at": "2026-04-20T00:13:28.074699+09:00",
+    "posted": false
   }
 ]
