@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Show HN: Claudraband – Claude Code for the Power User",
-      "url": "https://github.com/halfwhey/claudraband",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 12 Apr 2026 16:55:20 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-13T06:47:22"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM 5.1 sits alongside frontier models in my social reasoning benchmark",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjm407/glm_51_sits_alongside_frontier_models_in_my/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-12T18:18:29+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sjm407/glm_51_sits_alongside_frontier_models_in_my/\"> <img alt=\"GLM 5.1 sits alongside frontier models in my social reasoning benchmark\" src=\"https://preview.redd.it/sa7avl3ytsug1.png?width=140&amp;height=112&amp;auto=webp&amp;s=5639c06afd759fbe6312256677363edecb5d67d0\" title=\"GLM 5.1 sits alongside frontier models in my social reasoning benchmark\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Still need more matches f",
-      "extra": {},
-      "collected_at": "2026-04-13T06:47:27"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Minimax 2.7 running sub-agents locally",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjkovr/minimax_27_running_subagents_locally/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-04-12T17:25:38+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sjkovr/minimax_27_running_subagents_locally/\"> <img alt=\"Minimax 2.7 running sub-agents locally\" src=\"https://preview.redd.it/8ygus8rumsug1.gif?width=640&amp;crop=smart&amp;s=a39b4ede4c75b07d3f8ae8f652bae48154d79698\" title=\"Minimax 2.7 running sub-agents locally\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I just tried hooking up local Minimax 2.7 to Opencode on my M3 Ultra. I'm pretty impressed that it can run so ma",
-      "extra": {},
-      "collected_at": "2026-04-13T06:47:27"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Is anyone else creating a basic assistant rather than a coding agent?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjm09r/is_anyone_else_creating_a_basic_assistant_rather/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-12T18:14:36+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone, </p> <p>I’ve been thinking and perusing Reddit lately and noticed that most people are using LLMs for agentic coding and such. I’m not much of a coder myself but I do need to have a personal assistant. I’ve had 4 strokes since 2016, I’m disabled and more or less home bound. I can’t get out and make friends, or even hang out with the friends I do have due to living in a small town apartment nearly 150 miles away from everyone. </p> <p>So my questi",
-      "extra": {},
-      "collected_at": "2026-04-13T06:47:27"
-    },
-    {
       "source": "Google News",
       "title": "英中銀、アンソロピック「ミトス」巡り金融機関と協議へ－リスク警戒 - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83bXFmeXVDMmRIRTRNWWJPR2RiVTJyUTNTb3pBT2NrMzAtamYxVV9WMEMwR0M5TmdNNVdubDBUTjZ2WEwwRjBXUnluNEFjaVhsN0N1U3FaVkU1dU54LUdxTURxMkw2ZU9UTVNfMXI3WXNnMkM1VjNj?oc=5",
@@ -3335,19 +3281,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
-      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 19 Apr 2026 16:30:00 +0000",
-      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
-      "extra": {},
-      "collected_at": "2026-04-20T02:35:58"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
       "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
       "primary_category": "NEWS",
@@ -3399,7 +3332,86 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I spent the past week testing a simple question:</p> <p>Small local models often look weak inside coding agents. But how much of that is actually model weakness, and how much is scaffold mismatch?</p> <p>So I held the model fixed and changed only the scaffold.</p> <p>Same Qwen3.5-9B Q4 weights in both conditions.</p> <p>Same Aider Polyglot benchmark.</p> <p>Full 225 exercises.</p> <p>Results:</p> <p>- vanilla Aider: 19.11%</p> <p>- little-coder: 45.56% mean pass",
       "extra": {},
       "collected_at": "2026-04-20T02:36:07"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s existential questions",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 19 Apr 2026 21:24:06 +0000",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "extra": {},
+      "collected_at": "2026-04-20T06:47:40"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The 12-month window",
+      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 19 Apr 2026 19:30:00 +0000",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+      "extra": {},
+      "collected_at": "2026-04-20T06:47:40"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No",
+      "url": "https://news.ycombinator.com/item?id=47825520",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 19 Apr 2026 16:36:09 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-20T06:47:46"
+    },
+    {
+      "source": "Google News",
+      "title": "AIで書いた文学作品は人力より価値が劣るのか？ - アゴラ 言論プラットフォーム",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UTBVSnN5WmVkQTF3Znp3eF9BRUJPVmxmd1Q2RmlzUmN4SkNDRUkweXhZUXg5Tlo1QzBfa05oOXFkcEppUzdyV2FqUlNEU05oMFFIWlNRRV91R2M?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Sun, 19 Apr 2026 21:00:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE43UTBVSnN5WmVkQTF3Znp3eF9BRUJPVmxmd1Q2RmlzUmN4SkNDRUkweXhZUXg5Tlo1QzBfa05oOXFkcEppUzdyV2FqUlNEU05oMFFIWlNRRV91R2M?oc=5\" target=\"_blank\">AIで書いた文学作品は人力より価値が劣るのか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アゴラ 言論プラットフォーム</font>",
+      "extra": {},
+      "collected_at": "2026-04-20T06:47:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Switching from Opus 4.7 to Qwen-35B-A3B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1spz0ck/switching_from_opus_47_to_qwen35ba3b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-19T17:19:16+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey Guys,</p> <p>I am thinking about switching from Opus 4.7 to Qwen-35B-A3B for my daily coding agent driver. </p> <p>Has anyone done this yet? If so, what has your experience been like? </p> <p>I would love to hear the communities take on this. I know Opus may have the edge on complex reasoning, but will Qwen-35B-A3B suffice for most tasks?</p> <p>Running it on an M5 Max 128gb</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/us",
+      "extra": {},
+      "collected_at": "2026-04-20T06:47:50"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "This is how everybody on Twitter sounds like about llms",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sq5ltj/this_is_how_everybody_on_twitter_sounds_like/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-19T21:24:36+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sq5ltj/this_is_how_everybody_on_twitter_sounds_like/\"> <img alt=\"This is how everybody on Twitter sounds like about llms\" src=\"https://preview.redd.it/lovhiq9ls7wg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=168dfd95404a0f9d8e8ad26dd4f37b33bbcefb1c\" title=\"This is how everybody on Twitter sounds like about llms\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Rymssss\"> /u/Rymssss </a> <",
+      "extra": {},
+      "collected_at": "2026-04-20T06:47:50"
     }
   ],
-  "updated_at": "2026-04-20T02:36:07.931167+09:00"
+  "updated_at": "2026-04-20T06:47:50.610144+09:00"
 }
