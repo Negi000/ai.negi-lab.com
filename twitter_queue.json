@@ -12027,5 +12027,33 @@
     "image_path": "/images/posts/2026-04-20-ai-startup-12-month-window-survival-strategy.jpg",
     "created_at": "2026-04-20T14:48:15.154187+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-20-uber-assetmaxxing-ai-strategy-2026",
+    "title": "Uberの「Assetmaxxing」は移動の概念をどう変えるか？AIによる物理資産の最適化がもたらす開発者への商機",
+    "url": "https://ai.negi-lab.com/posts/uber-assetmaxxing-ai-strategy-2026/",
+    "category": "NEWS",
+    "viral_tags": "#UberAI #Assetmaxxing",
+    "tweet_text": "Uberが発表した「Assetmaxxing」戦略、これは単なる配車効率化の話じゃない。物理世界を巨大な計算資源として扱い、AIが1秒、1センチ単位で資産の稼働率をハックする時代の幕開け。\n\nSIer時代、あんなに苦労して組んだ交通シミュレーションが、今やUberのAPI一つで「リアルタイムの予測アクション」として降ってくる。この差に正直、眩暈がしました。\n\n技術的にはMichelangelo 3.0によるGNNの活用がヤバい。街区レベルの需要予測精度が94.5%って、もう「未来が見えてる」のと同義。開発者としては、このデータを自社のサービスにどう流し込むかが勝負。\n\nTeslaの自社生産モデルも強いけど、Uberの「他人の資産をAIで最適化する」というAsset-lightなアプローチの方が、スケールスピードは圧倒的に速い。これこそがソフトウェアが物理世界を飲み込む瞬間だと感じます。\n\n皆さんの周りで、この手のリアルタイム需要予測が活かせそうな業界って他にどこがあると思いますか？個人的にはラストワンマイルの物流はもちろん、飲食店の仕込み予測とかも面白そう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-20-uber-assetmaxxing-ai-strategy-2026.jpg",
+    "created_at": "2026-04-20T17:14:16.615058+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-20-alerts-bar-darknet-monitoring-practical-review",
+    "title": "Alerts Bar 使い方とダークネット監視によるデータ流出対策の実践レビュー",
+    "url": "https://ai.negi-lab.com/posts/alerts-bar-darknet-monitoring-practical-review/",
+    "category": "TOOL",
+    "viral_tags": "#OSINT #CyberSecurity",
+    "tweet_text": "SIer時代、顧客の認証情報がダークネットに流出した際の対応はまさに地獄だった。当時は「漏れた後」にしか気づけなかったが、今はAlerts Barのようなツールで「売買される前」に手を打てる。\n\nこのツールの凄さは、単なるメアド検索じゃなく、感染PCのIPやブラウザ情報まで紐づけて検知できる点。インフォスティーラーによる被害が急増している今、この「デジタル上の死角」を埋める作業は、もはやエンジニアの義務だと思う。\n\n実際にPython SDKを使って、検知から自動アカウントロックまでのフローを想定してみたが、APIの設計がかなり実務的。ドメインを登録しておくだけで、闇マーケットに出回るログを24時間監視してくれるのは、担当者としては精神衛生上かなり助かるはず。\n\nただ、APIコストの設計や日本語圏の網羅性には少しクセがあるのも事実。皆さんの組織では、ダークネット監視はどうしてますか？手動でのOSINTには限界があると感じていませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-20-alerts-bar-darknet-monitoring-practical-review.jpg",
+    "created_at": "2026-04-20T17:15:21.485779+09:00",
+    "posted": false
   }
 ]

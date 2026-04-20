@@ -1,87 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Claude Opus 4.6 accuracy on BridgeBench hallucination test drops from 83% to 68%",
-      "url": "https://twitter.com/bridgemindai/status/2043321284113670594",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 12 Apr 2026 18:53:35 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-13T14:48:41"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Gemma 4 - lazy model or am I crazy? (bit of a rant)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjyzmi/gemma_4_lazy_model_or_am_i_crazy_bit_of_a_rant/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-13T03:11:09+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Like it says in the title. Specifically, the 26b MoE.</p> <p>I’ve wanted to like this model, so much. Thought it might replace Qwen 3.5 27b. Keep coming back to it and trying it every time there’s an update, hoping it will have improved.</p> <p>I’m running unsloth UD_Q4_K_XL on llama.cpp. I’m on the latest commits from main. I know about —jinja. I know about the interleaved thinking template. I’m not running low quant KV cache. This is far from the first model I",
-      "extra": {},
-      "collected_at": "2026-04-13T14:48:47"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "MiniMax-M2.7 NVFP4 on 2x RTX PRO 6000 Blackwell — bench numbers",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjx7kg/minimaxm27_nvfp4_on_2x_rtx_pro_6000_blackwell/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-13T01:48:05+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sjx7kg/minimaxm27_nvfp4_on_2x_rtx_pro_6000_blackwell/\"> <img alt=\"MiniMax-M2.7 NVFP4 on 2x RTX PRO 6000 Blackwell — bench numbers\" src=\"https://preview.redd.it/zxd2awig4vug1.png?width=140&amp;height=62&amp;auto=webp&amp;s=0eedd5e76eb500116c5b30dd5ad309352bdc2924\" title=\"MiniMax-M2.7 NVFP4 on 2x RTX PRO 6000 Blackwell — bench numbers\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/zxd2awi",
-      "extra": {},
-      "collected_at": "2026-04-13T14:48:47"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Krisp Accent Converter for YouTube",
-      "url": "https://www.producthunt.com/products/krisp",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> YouTube, but you clearly understand everyone </p> <p> <a href=\"https://www.producthunt.com/products/krisp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1113299?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-13T17:09:50"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Ably Chat",
-      "url": "https://www.producthunt.com/products/ably-realtime",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The Chat API built for serious scale </p> <p> <a href=\"https://www.producthunt.com/products/ably-realtime?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090724?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-13T17:09:50"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Gemma 4 has a systemic attention failure. Here's the proof.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sk2s46/gemma_4_has_a_systemic_attention_failure_heres/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-13T06:30:26+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've spent months building a diagnostic method for large language models. It catches what standard benchmarks miss - distributional collapse inside tensors, not just loss or perplexity.</p> <p><strong>Gemma 4 26B A4B fails it. Qwen 3.5 35B A3B passes.</strong></p> <p>I analyzed <a href=\"https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF/blob/main/gemma-4-26B-A4B-it-Q8_0.gguf\">Gemma 4 26B A4B (Q8_0) quant from Unsloth</a>. Found 29 tensors with distribution d",
-      "extra": {},
-      "collected_at": "2026-04-13T17:09:53"
-    },
-    {
       "source": "Product Hunt",
       "title": "ContextPool",
       "url": "https://www.producthunt.com/products/contextpool",
@@ -3265,19 +3184,6 @@
       "collected_at": "2026-04-20T02:36:07"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "The 12-month window",
-      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 19 Apr 2026 19:30:00 +0000",
-      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
-      "extra": {},
-      "collected_at": "2026-04-20T06:47:40"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No",
       "url": "https://news.ycombinator.com/item?id=47825520",
@@ -3420,7 +3326,112 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Im using these settings in llama.cpp: --spec-type ngram-map-k --spec-ngram-size-n 24 --draft-min 12 --draft-max 48</p> <p>Whats the real reason for lets say the prompt is for &quot;minor changes in code&quot;, whats differing between models:<br /> Gemma 4 31b: Doubles in tks gen so 100%<br /> Qwen 3.6: Only 40% more speed<br /> Devstrall small: 665% increase in speed (what?)</p> <p>EDIT:</p> <p>added --repeat-penalty 1.0 and --spec-type ngram-mod instead for Qwe",
       "extra": {},
       "collected_at": "2026-04-20T14:47:45"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Anthropic installed a spyware bridge on my machine?",
+      "url": "https://www.thatprivacyguy.com/blog/anthropic-spyware/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 20 Apr 2026 02:41:50 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-20T17:13:39"
+    },
+    {
+      "source": "Google News",
+      "title": "Stanford「AI Index 2026」公開──米中AIモデル性能差は“ほぼ消滅”、2026年時点で差は2.7% - Ledge.ai",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zSURVS1pfd1dzVFNVSV9uUUJhNkpNVHVvNFJaWHRyZnhPR3htd05nX1RveVB2SHVnbmU3VWMyeFpTanppQXdhSzRzUkFyRFdZOHhxSEZRWDZRazBCMDBRTHhyUXduTVNodkd6S3h3dnB3OXdQRlJ1bFpoWFhDQQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 16 Apr 2026 22:59:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5zSURVS1pfd1dzVFNVSV9uUUJhNkpNVHVvNFJaWHRyZnhPR3htd05nX1RveVB2SHVnbmU3VWMyeFpTanppQXdhSzRzUkFyRFdZOHhxSEZRWDZRazBCMDBRTHhyUXduTVNodkd6S3h3dnB3OXdQRlJ1bFpoWFhDQQ?oc=5\" target=\"_blank\">Stanford「AI Index 2026」公開──米中AIモデル性能差は“ほぼ消滅”、2026年時点で差は2.7%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ledge.ai</font>",
+      "extra": {},
+      "collected_at": "2026-04-20T17:13:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Alerts Bar",
+      "url": "https://www.producthunt.com/products/alerts-bar",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Darknet monitoring for infected computers and stolen data </p> <p> <a href=\"https://www.producthunt.com/products/alerts-bar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124859?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-20T17:13:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Getpin",
+      "url": "https://www.producthunt.com/products/getpin",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Pin business, get interest, be found </p> <p> <a href=\"https://www.producthunt.com/products/getpin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124839?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-20T17:13:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GalaxyBrain",
+      "url": "https://www.producthunt.com/products/galaxybrain-com",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> An information operating system powered by local files </p> <p> <a href=\"https://www.producthunt.com/products/galaxybrain-com?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1127498?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-20T17:13:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "intouch",
+      "url": "https://www.producthunt.com/products/intouch-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Daily AI phone conversations for seniors, 24/7 </p> <p> <a href=\"https://www.producthunt.com/products/intouch-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124821?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-20T17:13:41"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Anthropic secretly installs spyware when you install Claude Desktop",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqi70i/anthropic_secretly_installs_spyware_when_you/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-20T07:20:14+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqi70i/anthropic_secretly_installs_spyware_when_you/\"> <img alt=\"Anthropic secretly installs spyware when you install Claude Desktop\" src=\"https://external-preview.redd.it/Uhbhwj-xfJOCyBZRQr8gaXj4xMMcyYVoqmdjNKXnmUQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1b21cd84d243854ecb2a0a198f76ee071e232cac\" title=\"Anthropic secretly installs spyware when you install Claude Desktop\" /> </a> </td><td> <!-- SC_OFF --><div class=\"",
+      "extra": {},
+      "collected_at": "2026-04-20T17:13:44"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Closest replacement for Claude + Claude Code? (got banned, no explanation)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqelfp/closest_replacement_for_claude_claude_code_got/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-20T04:05:02+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was using Claude Pro + Claude Code pretty heavily (terminal workflow, file access, etc.) and my account just got banned with zero explanation.</p> <p>From what I’m seeing, this isn’t that uncommon — people getting flagged without clear reasons or support responses — so I’m trying to move on and rebuild my setup.</p> <p>What I’m looking for is something that actually matches BOTH sides of what Claude gave me:</p> <p><strong>1. Claude-level reasoning / writing</",
+      "extra": {},
+      "collected_at": "2026-04-20T17:13:44"
     }
   ],
-  "updated_at": "2026-04-20T14:47:45.939739+09:00"
+  "updated_at": "2026-04-20T17:13:44.398823+09:00"
 }
