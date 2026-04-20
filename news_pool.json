@@ -1,138 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
-      "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-13T11:41:09-04:00",
-      "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information. The test reportedly comes as part of efforts to make its 365 Copilot AI assistant \"run autonomously around the clock\" while completing tasks on behalf of users. Omar Shahine, Microsoft's corporate vice president, confirmed to [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-14T00:59:15"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Open Comet",
-      "url": "https://www.producthunt.com/products/open-comet",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The autonomous AI browser agent for deep research & tasks </p> <p> <a href=\"https://www.producthunt.com/products/open-comet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1122274?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-14T00:59:25"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "OpenClaw has 250K GitHub stars. The only reliable use case I've found is daily news digests.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1skce14/openclaw_has_250k_github_stars_the_only_reliable/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-13T14:25:22+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So I run cloud infra where people spin up Linux VMs. We made a video a while back showing how to deploy OpenClaw on an isolated VM in like 7 minutes, and it kind of took off. We've had roughly a thousand OpenClaw deploys since then.</p> <p>I've also talked to a bunch of people in my network who went all in on OpenClaw - not weekend tinkerers, people who spent weeks trying to make it actually useful. Engineers, founders, people who really wanted this to work.</p>",
-      "extra": {},
-      "collected_at": "2026-04-14T00:59:29"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Local models are a godsend when it comes to discussing personal matters",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ska9av/local_models_are_a_godsend_when_it_comes_to/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-13T13:05:09+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been keeping a personal journal for the past few years. The entire thing is made up of over 100k+ tokens. I noticed that some of the Gemma 4 models support 256k context, so I decided to test the 26B A4B model out by sharing my entire personal journal in the initial prompt and asking for some insights.</p> <p>Obviously, I didn’t simply just say &quot;share your insights, make no mistakes.&quot; I am fully aware of the fact that LLMs have the potential to gla",
-      "extra": {},
-      "collected_at": "2026-04-14T00:59:29"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-13T12:21:08-04:00",
-      "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, which was viewed by The Verge, repeatedly underlines the importance of building a moat around its AI products, to combat how easy [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-14T03:01:24"
-    },
-    {
-      "source": "Google News",
-      "title": "世界の航空分野における人工知能（AI）市場2026-2030年 - newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mT05wQ3Rqb0k0Nk9fdGlCRGptY00zcEVqa1poVjVMSDhfeHV4MzUxdlVFU0NTN2hieVBSWnZfU0NDTzJSR3Jvd1RVYnN3clk?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 13 Apr 2026 07:09:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mT05wQ3Rqb0k0Nk9fdGlCRGptY00zcEVqa1poVjVMSDhfeHV4MzUxdlVFU0NTN2hieVBSWnZfU0NDTzJSR3Jvd1RVYnN3clk?oc=5\" target=\"_blank\">世界の航空分野における人工知能（AI）市場2026-2030年</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newscast.jp</font>",
-      "extra": {},
-      "collected_at": "2026-04-14T03:01:32"
-    },
-    {
-      "source": "Google News",
-      "title": "企業のAI導入・利用に必要な人権の視点 - dir.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tU2hoN0N2OXBsU3BFX2xzQkpqd1VwdF83UTVDRHNnVmVyNmZWMF92eDI1ZGxaZ09hSEhFTW9lSUxPbEZsXzhNbkVDUEJYb1M1QldJcVlrZ1ZlNllqdk9fWHpPejhlUzBtWTFwcy1CeGhYTE9HMHpzMHhRNkl5ak0?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 10 Apr 2026 12:21:51 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1tU2hoN0N2OXBsU3BFX2xzQkpqd1VwdF83UTVDRHNnVmVyNmZWMF92eDI1ZGxaZ09hSEhFTW9lSUxPbEZsXzhNbkVDUEJYb1M1QldJcVlrZ1ZlNllqdk9fWHpPejhlUzBtWTFwcy1CeGhYTE9HMHpzMHhRNkl5ak0?oc=5\" target=\"_blank\">企業のAI導入・利用に必要な人権の視点</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dir.co.jp</font>",
-      "extra": {},
-      "collected_at": "2026-04-14T03:01:32"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "deckpipe.dev",
-      "url": "https://www.producthunt.com/products/deckpipe-dev",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> agent-first slide renderer </p> <p> <a href=\"https://www.producthunt.com/products/deckpipe-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1121836?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-14T03:01:32"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "WinScript",
-      "url": "https://www.producthunt.com/products/winscript",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The AppleScript for Windows for AI desktop control </p> <p> <a href=\"https://www.producthunt.com/products/winscript?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119785?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-14T03:01:32"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "What Is Elephant-Alpha ???",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1skfknl/what_is_elephantalpha/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-13T16:15:04+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1skfknl/what_is_elephantalpha/\"> <img alt=\"What Is Elephant-Alpha ???\" src=\"https://preview.redd.it/gvmvmvxyfzug1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d13a62dcd6668f9cf7fc65345f3c59c9dc988f2c\" title=\"What Is Elephant-Alpha ???\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/One_Title_3656\"> /u/One_Title_3656 </a> <br /> <span><a href=\"https://i.redd.it/gvmvmvxyfzug1.jpeg\">[link]</",
-      "extra": {},
-      "collected_at": "2026-04-14T03:01:36"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude.ai down",
       "url": "https://status.claude.com/incidents/6jd2m42f8mld",
@@ -3463,19 +3331,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Co-Tasker",
-      "url": "https://www.producthunt.com/products/co-tasker",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Book local pros for quick & affordable help </p> <p> <a href=\"https://www.producthunt.com/products/co-tasker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124864?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-21T00:54:58"
-    },
-    {
-      "source": "Product Hunt",
       "title": "CONA",
       "url": "https://www.producthunt.com/products/cona",
       "primary_category": "TOOL",
@@ -3554,7 +3409,86 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqqasu/hermes_just_mass_emailed_a_bunch_of_accounts_from/\"> <img alt=\"Hermes just mass emailed a bunch of accounts from 2020 with pairing requests.\" src=\"https://preview.redd.it/gzpfozaxqcwg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0498751e7fc43e9a631871e47e15db362535e7e\" title=\"Hermes just mass emailed a bunch of accounts from 2020 with pairing requests.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hermes",
       "extra": {},
       "collected_at": "2026-04-21T00:55:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "It’s not just one thing — it’s another thing",
+      "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 20 Apr 2026 19:37:07 +0000",
+      "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+      "extra": {},
+      "collected_at": "2026-04-21T06:57:12"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+      "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 20 Apr 2026 16:06:21 +0000",
+      "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+      "extra": {},
+      "collected_at": "2026-04-21T06:57:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Auxilius.ai",
+      "url": "https://www.producthunt.com/products/auxilius-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn compliance into code with agentic AI </p> <p> <a href=\"https://www.producthunt.com/products/auxilius-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124855?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-21T06:57:40"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Kimi K2.6",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqswq6/kimi_k26/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-20T15:38:30+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqswq6/kimi_k26/\"> <img alt=\"Kimi K2.6\" src=\"https://preview.redd.it/1ptgthlt7dwg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=30f70c18fc82fd1d7207bb9dd3ffbabdcd133980\" title=\"Kimi K2.6\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Benchmarks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fantastic-Emu-3819\"> /u/Fantastic-Emu-3819 </a> <br /> <span><a href=\"https://i.redd.",
+      "extra": {},
+      "collected_at": "2026-04-21T06:57:43"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Layman's comparison on Qwen3.6 35b-a3b and Gemma4 26b-a4b-it",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqxiz0/laymans_comparison_on_qwen36_35ba3b_and_gemma4/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-20T18:13:06+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqxiz0/laymans_comparison_on_qwen36_35ba3b_and_gemma4/\"> <img alt=\"Layman's comparison on Qwen3.6 35b-a3b and Gemma4 26b-a4b-it\" src=\"https://preview.redd.it/suomxb7xxdwg1.png?width=140&amp;height=66&amp;auto=webp&amp;s=100b57ef8be42fd1ef0b72322e17866851062b52\" title=\"Layman's comparison on Qwen3.6 35b-a3b and Gemma4 26b-a4b-it\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Gemma 4 26b-a4b-it is basically a solid B stu",
+      "extra": {},
+      "collected_at": "2026-04-21T06:57:43"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Why doesn't any OSS tool treat llama.cpp as a first class citizen?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sr140o/why_doesnt_any_oss_tool_treat_llamacpp_as_a_first/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-20T20:02:27+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Be it opencode, VS code copilot extension or whatever &quot;open source&quot; AI tool, I rarely see llama.cpp treated as a first class provider? Every single one of them has ollama and sometimes LMStudio. Engineering wise there's literally 0 effort to have llama.cpp be listed the same as ollama. Or better yet, simply make it a label agnostic openai API compatible endpoint and let me fill in the port number/enpoint.. This is especially annoying as ollama is the s",
+      "extra": {},
+      "collected_at": "2026-04-21T06:57:43"
     }
   ],
-  "updated_at": "2026-04-21T00:55:02.035600+09:00"
+  "updated_at": "2026-04-21T06:57:43.508670+09:00"
 }

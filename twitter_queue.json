@@ -12111,5 +12111,19 @@
     "image_path": "/images/posts/2026-04-21-co-tasker-real-world-api-review-for-ai-developers.jpg",
     "created_at": "2026-04-21T00:55:54.533100+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-21-ai-writing-cliche-not-just-it-is",
+    "title": "AIが書いた文章を1秒で見抜く指標が、単語の頻度から「構文の癖」へと明確にシフトしました。",
+    "url": "https://ai.negi-lab.com/posts/ai-writing-cliche-not-just-it-is/",
+    "category": "NEWS",
+    "viral_tags": "#生成AI #PromptEngineering",
+    "tweet_text": "AIが書いた文章を1秒で見抜く指標が「単語」から「構文」へシフトしています。TechCrunchが指摘した「It’s not just this — it’s that」という強調構文の多用。これ、APIを叩きまくっている人なら「あ、あの感じね」と即座に理解できるはず。\n\n元SIerとして思うのは、この構文って「中身がないのを隠すためのコンサル構文」にそっくりなんですよね。RLHFの過程で、モデルが「賢くて丁寧な回答」を評価され続けた結果、この教訓的なレトリックが骨の髄まで染み込んでしまった。\n\n実はこれ、日本語でも「単に〜だけでなく、〜なのです」という形で頻出します。禁止ワードを設定するだけでは不十分で、論理構造そのものを制御しないと「AI臭さ」は消えません。GPT-4oはこのバイアスが特に強く、逆にClaude 3.5 Sonnetは比較的マシという結果も出ています。\n\n実務でAIライティングを自動化している開発者は、今すぐシステムプロンプトを見直すべき局面。皆さんの環境では、どんな「AI特有の癖」に悩まされていますか？特定の言い回しや、つい出てしまう口癖など、現場での発見をぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-21-ai-writing-cliche-not-just-it-is.jpg",
+    "created_at": "2026-04-21T06:58:22.298632+09:00",
+    "posted": false
   }
 ]
