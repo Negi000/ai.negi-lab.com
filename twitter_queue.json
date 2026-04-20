@@ -12097,5 +12097,19 @@
     "image_path": "/images/posts/2026-04-20-maxhermes-cloud-sandbox-agent-review.jpg",
     "created_at": "2026-04-20T22:56:24.685155+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-21-co-tasker-real-world-api-review-for-ai-developers",
+    "title": "Co-Tasker 使い方と実世界API連携の可能性を評価",
+    "url": "https://ai.negi-lab.com/posts/co-tasker-real-world-api-review-for-ai-developers/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #CoTasker",
+    "tweet_text": "AIエージェントが「物理世界の仕事」を人間に発注する。そんなSFのような仕組みが現実味を帯びてきました。Product Huntで見つけた「Co-Tasker」をエンジニア視点で徹底レビュー。\n\n単なる「便利ツール」としてではなく、現実世界を操作するAPIとしての可能性を掘り下げます。例えば「サーバーの配線ミス」を検知したAIが、現場近くのプロを自動で召喚する。そんな運用が可能な構造化されたタスク設計が面白い。\n\n正直、現状は日本国内での展開が不十分なので今すぐ実務に投入するのは難しいですが、データ構造やマッチングの思想は、自律型AIを作りたい開発者にとって大きなヒントになるはず。\n\nPython歴8年の私が、あえて「物理API」という切り口でこのツールを評価した理由を詳しく書きました。デジタルで完結しない課題を抱えている方にこそ読んでほしい内容です。\n\n皆さんは、AIに「現実世界の何」を代行させたいですか？\n掃除や買い物のような日常系か、あるいはDCの機材調整のような専門系か。\n物理世界の自動化における「ボトルネック」について、ぜひ意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-21-co-tasker-real-world-api-review-for-ai-developers.jpg",
+    "created_at": "2026-04-21T00:55:54.533100+09:00",
+    "posted": false
   }
 ]
