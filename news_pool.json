@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "英中銀、アンソロピック「ミトス」巡り金融機関と協議へ－リスク警戒 - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83bXFmeXVDMmRIRTRNWWJPR2RiVTJyUTNTb3pBT2NrMzAtamYxVV9WMEMwR0M5TmdNNVdubDBUTjZ2WEwwRjBXUnluNEFjaVhsN0N1U3FaVkU1dU54LUdxTURxMkw2ZU9UTVNfMXI3WXNnMkM1VjNj?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 13 Apr 2026 02:11:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE83bXFmeXVDMmRIRTRNWWJPR2RiVTJyUTNTb3pBT2NrMzAtamYxVV9WMEMwR0M5TmdNNVdubDBUTjZ2WEwwRjBXUnluNEFjaVhsN0N1U3FaVkU1dU54LUdxTURxMkw2ZU9UTVNfMXI3WXNnMkM1VjNj?oc=5\" target=\"_blank\">英中銀、アンソロピック「ミトス」巡り金融機関と協議へ－リスク警戒</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
-      "extra": {},
-      "collected_at": "2026-04-13T12:38:49"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I'm a complete noob who bought two Intel Arc Pro B70s for \"research,\" spent a weekend losing my mind over Docker/CCL errors, accidentally discovered llama.cpp Vulkan, and now I'm running a 35B MoE at 128K context like I know what I'm doing.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjxqy2/im_a_complete_noob_who_bought_two_intel_arc_pro/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-13T02:13:07+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>TL;DR: I am not a software engineer. I am an industrial maintenance manager from Ohio who got way too interested in local AI. The B70 is criminally underrated. Intel's Docker stack is criminal for different reasons.</p> <h1>First, some context about who is writing this</h1> <p>My day job is maintaining industrial mail sorting equipment — PLCs, pneumatics, barcode readers. I am not a software person. I got into local LLMs because I wanted to run AI agents for tra",
-      "extra": {},
-      "collected_at": "2026-04-13T12:38:53"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "MiniMax-M2.7 vs Qwen3.5-122B-A10B for 96GB VRAM full offload?!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjsokz/minimaxm27_vs_qwen35122ba10b_for_96gb_vram_full/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-12T22:27:02+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sjsokz/minimaxm27_vs_qwen35122ba10b_for_96gb_vram_full/\"> <img alt=\"MiniMax-M2.7 vs Qwen3.5-122B-A10B for 96GB VRAM full offload?!\" src=\"https://preview.redd.it/4t0gcl7y4uug1.png?width=140&amp;height=74&amp;auto=webp&amp;s=f276a105e887952dc8ef9fce68c8fbd68d5a5b74\" title=\"MiniMax-M2.7 vs Qwen3.5-122B-A10B for 96GB VRAM full offload?!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><h1>tl;dr;</h1> <p>For 96GB VRAM full offlo",
-      "extra": {},
-      "collected_at": "2026-04-13T12:38:53"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Experiment: Olmo 3 7B Instruct Q1_0",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjvg4u/experiment_olmo_3_7b_instruct_q1_0/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-13T00:27:19+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sjvg4u/experiment_olmo_3_7b_instruct_q1_0/\"> <img alt=\"Experiment: Olmo 3 7B Instruct Q1_0\" src=\"https://external-preview.redd.it/1Bbd5k4m2rTPN0RueXXrvZy_3JHUvtRnvjBPLtyKu0k.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e463ffb42ec9c9da106f56fc9f60b4e1f508939c\" title=\"Experiment: Olmo 3 7B Instruct Q1_0\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I tried to quantize OLMo-3 7B Instruct into a Bonsai 1-bit format. ",
-      "extra": {},
-      "collected_at": "2026-04-13T12:38:53"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "mtmd: qwen3 audio support (qwen3-omni and qwen3-asr)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sjssyx/mtmd_qwen3_audio_support_qwen3omni_and_qwen3asr/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-12T22:31:59+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sjssyx/mtmd_qwen3_audio_support_qwen3omni_and_qwen3asr/\"> <img alt=\"mtmd: qwen3 audio support (qwen3-omni and qwen3-asr)\" src=\"https://external-preview.redd.it/u1BA3sUjCaB2CzYaQvV5jYs1YLGX-82mYQTDzR0E0O4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=55466c50db2be4e8e3602c1018f24521f0bf759b\" title=\"mtmd: qwen3 audio support (qwen3-omni and qwen3-asr)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><ul> <li>qwen3-omni-moe",
-      "extra": {},
-      "collected_at": "2026-04-13T12:38:53"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude Opus 4.6 accuracy on BridgeBench hallucination test drops from 83% to 68%",
       "url": "https://twitter.com/bridgemindai/status/2043321284113670594",
@@ -3335,19 +3266,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI’s existential questions",
-      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 19 Apr 2026 21:24:06 +0000",
-      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-      "extra": {},
-      "collected_at": "2026-04-20T06:47:40"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "The 12-month window",
       "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
       "primary_category": "NEWS",
@@ -3411,7 +3329,98 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sq5ltj/this_is_how_everybody_on_twitter_sounds_like/\"> <img alt=\"This is how everybody on Twitter sounds like about llms\" src=\"https://preview.redd.it/lovhiq9ls7wg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=168dfd95404a0f9d8e8ad26dd4f37b33bbcefb1c\" title=\"This is how everybody on Twitter sounds like about llms\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Rymssss\"> /u/Rymssss </a> <",
       "extra": {},
       "collected_at": "2026-04-20T06:47:50"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Cloud development platform Vercel was hacked",
+      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-19T15:54:52-04:00",
+      "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-20T14:47:41"
+    },
+    {
+      "source": "Google News",
+      "title": "米国·EU規制モデルの混在、国内AI企業が直面する現実 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RcVhVTGpuVlg3UzEzeF9PdThrRHQzRnhTQ1cxb0ZxRHlFNVJQSGhIZU5sU1p0RjJnVk54RUlveloyWGk1U0Q0YlY0c1hwb3hmbWc?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 19 Apr 2026 22:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RcVhVTGpuVlg3UzEzeF9PdThrRHQzRnhTQ1cxb0ZxRHlFNVJQSGhIZU5sU1p0RjJnVk54RUlveloyWGk1U0Q0YlY0c1hwb3hmbWc?oc=5\" target=\"_blank\">米国·EU規制モデルの混在、国内AI企業が直面する現実</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+      "extra": {},
+      "collected_at": "2026-04-20T14:47:42"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "To Beat China, Embrace Open-Source AI (WSJ)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqa40j/to_beat_china_embrace_opensource_ai_wsj/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-20T00:37:51+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqa40j/to_beat_china_embrace_opensource_ai_wsj/\"> <img alt=\"To Beat China, Embrace Open-Source AI (WSJ)\" src=\"https://external-preview.redd.it/m-ySIkZW_8uBcUNA8gDCDKtopLFj_sYEnf3S_47tF1w.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4bdefec23d64f52dcbcecd185b49b53e57724bb1\" title=\"To Beat China, Embrace Open-Source AI (WSJ)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rm-rf-rm\"> /u/rm-",
+      "extra": {},
+      "collected_at": "2026-04-20T14:47:45"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Is anyone getting real coding work done with Qwen3.6-35B-A3B-UD-Q4_K_M on a 32GB Mac in opencode, claude code or similar?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sq94qx/is_anyone_getting_real_coding_work_done_with/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-19T23:54:06+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm running Qwen3.6-35B-A3B-UD-Q4_K_M on an M2 Macbook Pro with 32GB of RAM. I'm using quite recent builds of llama.cpp and opencode.</p> <p>To avoid llama-server crashing outright due to memory exhaustion, I have to set the context window to 32768 tokens. This turns out to be important.</p> <p>As a hopefully reasonable test, I gave opencode a task that Claude Code was previously able to complete with Opus 4.7. The project isn't huge, but the task involves rooti",
+      "extra": {},
+      "collected_at": "2026-04-20T14:47:45"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "SK hynix starts mass production of 192GB SOCAMM2 for NVIDIA AI servers",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqap57/sk_hynix_starts_mass_production_of_192gb_socamm2/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-20T01:03:58+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>hynix just started mass producing a 192GB SOCAMM2 memory module aimed at next gen AI servers, and it is basically trying to fix one of the biggest bottlenecks in modern AI systems. Instead of traditional server RAM, it uses LPDDR5X like you would find in phones, which lets it push more than double the bandwidth while cutting power use by over 75 percent compared to RDIMM. It is also being built specifically for NVIDIA’s upcoming Vera Rubin platform, which tells ",
+      "extra": {},
+      "collected_at": "2026-04-20T14:47:45"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "QWEN3.6 + ik_llama is fast af",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sq8q9k/qwen36_ik_llama_is_fast_af/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-19T23:35:51+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sq8q9k/qwen36_ik_llama_is_fast_af/\"> <img alt=\"QWEN3.6 + ik_llama is fast af\" src=\"https://preview.redd.it/p204eyn2g8wg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0db1bdcac41c7a3f27627768df4d06b8bb69c2f\" title=\"QWEN3.6 + ik_llama is fast af\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>running qwen3.6 UD_Q_4_K_M on 16GB vram + 32GB ram with 200k cw @50+ tok/s</p> </div><!-- SC_ON --> &#32; submitted by &#32; ",
+      "extra": {},
+      "collected_at": "2026-04-20T14:47:45"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Speculative decoding question, 665% speed increase",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sq7grd/speculative_decoding_question_665_speed_increase/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-19T22:41:02+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Im using these settings in llama.cpp: --spec-type ngram-map-k --spec-ngram-size-n 24 --draft-min 12 --draft-max 48</p> <p>Whats the real reason for lets say the prompt is for &quot;minor changes in code&quot;, whats differing between models:<br /> Gemma 4 31b: Doubles in tks gen so 100%<br /> Qwen 3.6: Only 40% more speed<br /> Devstrall small: 665% increase in speed (what?)</p> <p>EDIT:</p> <p>added --repeat-penalty 1.0 and --spec-type ngram-mod instead for Qwe",
+      "extra": {},
+      "collected_at": "2026-04-20T14:47:45"
     }
   ],
-  "updated_at": "2026-04-20T06:47:50.610144+09:00"
+  "updated_at": "2026-04-20T14:47:45.939739+09:00"
 }

@@ -12013,5 +12013,19 @@
     "image_path": "/images/posts/2026-04-20-openai-existential-questions-acquisition-strategy.jpg",
     "created_at": "2026-04-20T06:48:24.374678+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-20-ai-startup-12-month-window-survival-strategy",
+    "title": "AIスタートアップの寿命は残り12ヶ月。基盤モデルが「特化型機能」を飲み込む現実",
+    "url": "https://ai.negi-lab.com/posts/ai-startup-12-month-window-survival-strategy/",
+    "category": "NEWS",
+    "viral_tags": "#AIスタートアップ #LLM開発",
+    "tweet_text": "AIスタートアップの「余命」は、私たちが思っている以上に短いかもしれません。\n\nTechCrunchが報じた「12ヶ月の窓」という概念。これは、基盤モデルが未実装の機能をスタートアップが提供できている猶予期間を指します。SIer時代、OSの標準機能が充実するたびに自前実装の価値が消えていく光景を何度も見ましたが、AI業界ではその「破壊」が数ヶ月単位で起きています。\n\n今の基盤モデルはもはや単なるLLMではありません。マルチモーダル、超長文コンテキスト、自律的なツール利用。これらがAPIの「標準引数」になった瞬間、何万行も書いて実装したスタートアップの独自ロジックはただの負債に変わります。\n\n実際、私も最近の案件ではRAGの構築よりも、モデルが触れない「生データ」の構造化や、物理デバイスとの接続に時間を割いています。APIのラッパーを作るだけのフェーズは完全に終わりましたね。\n\n皆さんの開発しているプロダクト、もしGPT-5に「あの機能」が標準搭載されたらどうしますか？12ヶ月後に生き残るための生存戦略、そろそろ本気で話し合う時期だと思います。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-20-ai-startup-12-month-window-survival-strategy.jpg",
+    "created_at": "2026-04-20T14:48:15.154187+09:00",
+    "posted": false
   }
 ]
