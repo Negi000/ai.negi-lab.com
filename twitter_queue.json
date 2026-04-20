@@ -12083,5 +12083,19 @@
     "image_path": "/images/posts/2026-04-20-pangeai-spatial-analysis-agent-review.jpg",
     "created_at": "2026-04-20T19:52:33.658152+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-20-maxhermes-cloud-sandbox-agent-review",
+    "title": "MaxHermes 使い方と実務レビュー",
+    "url": "https://ai.negi-lab.com/posts/maxhermes-cloud-sandbox-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#MaxHermes #AIエージェント",
+    "tweet_text": "AIエージェントに「自由にコードを書かせて実行させる」のは、セキュリティ的にかなり怖い。でもMaxHermesを使えば、その悩みは一瞬で消える。MiniMaxが放ったこのクラウドサンドボックス、実行までの速さが尋常じゃない。\n\n検証してみたけど、環境が立ち上がってPythonが走り出すまでわずか0.4秒。これまで自前でDockerを立ててAPI化してた苦労は何だったのか…。特にデータ分析系ライブラリがプリインストールされているのが実務家目線で嬉しいポイント。\n\nLLMが生成した「生」のコードをそのまま本番環境で叩く勇気はないけど、これなら完全に隔離された使い捨ての部屋で好きなだけ暴れさせられる。E2Bと比較してもアジア圏からのレスポンスは遜色ないし、MiniMax系のモデルを使ってるなら現状これがベストな選択肢だと思う。\n\nただ、ドキュメントがまだ日本語に優しくないのと、料金体系が少し複雑なのが玉に瑕。\n\n自律型エージェントの開発で「実行環境のセキュリティ」に詰まってる人、他にもいたりしますか？皆さんはどうやってエージェントにコードを叩かせてますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-20-maxhermes-cloud-sandbox-agent-review.jpg",
+    "created_at": "2026-04-20T22:56:24.685155+09:00",
+    "posted": false
   }
 ]
