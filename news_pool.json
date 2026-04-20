@@ -1,103 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "ContextPool",
-      "url": "https://www.producthunt.com/products/contextpool",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Persistent memory for AI coding agents </p> <p> <a href=\"https://www.producthunt.com/products/contextpool?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1122226?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-13T19:45:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Deconflict",
-      "url": "https://www.producthunt.com/products/deconflict",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Plan your WiFi and see through walls </p> <p> <a href=\"https://www.producthunt.com/products/deconflict?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1122414?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-13T19:45:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Skills Janitor",
-      "url": "https://www.producthunt.com/products/skills-janitor",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Find which Claude Code skills you actually use </p> <p> <a href=\"https://www.producthunt.com/products/skills-janitor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1113313?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-13T19:45:01"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "usememos/memos",
-      "url": "https://github.com/usememos/memos",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
-      "extra": {
-        "stars_today": "37 stars today"
-      },
-      "collected_at": "2026-04-13T19:45:04"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "elementor/elementor",
-      "url": "https://github.com/elementor/elementor",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
-      "extra": {
-        "stars_today": "58 stars today"
-      },
-      "collected_at": "2026-04-13T19:45:04"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I scaled a pure Spiking Neural Network (SNN) to 1.088B parameters from scratch. Ran out of budget, but here is what I found",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sk4ebm/i_scaled_a_pure_spiking_neural_network_snn_to/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-13T08:05:53+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone. I’m an 18yo indie dev, and I’ve been experimenting with Spiking Neural Networks (SNNs) for language modeling. A lot of papers (like SpikeBERT) mention that training 1B+ SNNs directly from random initialization fails due to vanishing gradients, so people usually do ANN-to-SNN conversion or distillation. I wanted to see if I could force it to converge purely in the spike domain. I had to stop at 27k steps because my wallet is literally empty lol, but",
-      "extra": {},
-      "collected_at": "2026-04-13T19:45:05"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "unsloth - MiniMax-M2.7-GGUF in BROKEN (UD-Q4_K_XL) --> avoid usage",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sk6l63/unsloth_minimaxm27gguf_in_broken_udq4_k_xl_avoid/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-13T10:14:53+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sk6l63/unsloth_minimaxm27gguf_in_broken_udq4_k_xl_avoid/\"> <img alt=\"unsloth - MiniMax-M2.7-GGUF in BROKEN (UD-Q4_K_XL) --&gt; avoid usage\" src=\"https://preview.redd.it/aibi9wexnxug1.png?width=140&amp;height=20&amp;auto=webp&amp;s=2072b338ec54aa1010e360faf68a7000bfbbae58\" title=\"unsloth - MiniMax-M2.7-GGUF in BROKEN (UD-Q4_K_XL) --&gt; avoid usage\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I am already sick entire ",
-      "extra": {},
-      "collected_at": "2026-04-13T19:45:05"
-    },
-    {
       "source": "The Verge AI",
       "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
       "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
@@ -3130,19 +3033,6 @@
       "collected_at": "2026-04-20T00:10:43"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 19 Apr 2026 16:01:00 +0000",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-      "extra": {},
-      "collected_at": "2026-04-20T02:35:58"
-    },
-    {
       "source": "Product Hunt",
       "title": "Assemble",
       "url": "https://www.producthunt.com/products/assemble-2",
@@ -3355,19 +3245,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Alerts Bar",
-      "url": "https://www.producthunt.com/products/alerts-bar",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Darknet monitoring for infected computers and stolen data </p> <p> <a href=\"https://www.producthunt.com/products/alerts-bar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124859?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-20T17:13:41"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Getpin",
       "url": "https://www.producthunt.com/products/getpin",
       "primary_category": "TOOL",
@@ -3431,7 +3308,131 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was using Claude Pro + Claude Code pretty heavily (terminal workflow, file access, etc.) and my account just got banned with zero explanation.</p> <p>From what I’m seeing, this isn’t that uncommon — people getting flagged without clear reasons or support responses — so I’m trying to move on and rebuild my setup.</p> <p>What I’m looking for is something that actually matches BOTH sides of what Claude gave me:</p> <p><strong>1. Claude-level reasoning / writing</",
       "extra": {},
       "collected_at": "2026-04-20T17:13:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "PangeAI",
+      "url": "https://www.producthunt.com/products/pangeai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Instant, agent-driven spatial analysis and decision-making </p> <p> <a href=\"https://www.producthunt.com/products/pangeai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124854?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-20T19:47:49"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Iqana",
+      "url": "https://www.producthunt.com/products/iqana",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Step into the future of digital asset investing </p> <p> <a href=\"https://www.producthunt.com/products/iqana?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124850?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-20T19:47:49"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ona AI",
+      "url": "https://www.producthunt.com/products/ona-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Building digital sign language avatars & inclusive datasets. </p> <p> <a href=\"https://www.producthunt.com/products/ona-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124823?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-20T19:47:49"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Makko AI",
+      "url": "https://www.producthunt.com/products/makko-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Make 2D game art and playable games. No drawing. No coding. </p> <p> <a href=\"https://www.producthunt.com/products/makko-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101123?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-20T19:47:49"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "mnfst/manifest",
+      "url": "https://github.com/mnfst/manifest",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚",
+      "extra": {
+        "stars_today": "497 stars today"
+      },
+      "collected_at": "2026-04-20T19:47:49"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Infisical/infisical",
+      "url": "https://github.com/Infisical/infisical",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Infisical is the open-source platform for secrets, certificates, and privileged access management.",
+      "extra": {
+        "stars_today": "20 stars today"
+      },
+      "collected_at": "2026-04-20T19:47:49"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Master programming by recreating your favorite technologies from scratch.",
+      "extra": {
+        "stars_today": "302 stars today"
+      },
+      "collected_at": "2026-04-20T19:47:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "An isometric room, based on the screenshot. Qwen3.6-35B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqi0pw/an_isometric_room_based_on_the_screenshot/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-20T07:10:12+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqi0pw/an_isometric_room_based_on_the_screenshot/\"> <img alt=\"An isometric room, based on the screenshot. Qwen3.6-35B\" src=\"https://preview.redd.it/o2h6om9qkawg1.png?width=140&amp;height=78&amp;auto=webp&amp;s=523c8a19045cd7d4afc1cfa295eadd7ab204bc66\" title=\"An isometric room, based on the screenshot. Qwen3.6-35B\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/o2h6om9qkawg1.png?width=192",
+      "extra": {},
+      "collected_at": "2026-04-20T19:47:50"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.6 Max Preview just went live on the Qwen Chat website. It currently has the highest AA-Intelligence Index score among Chinese models (52) (Will it be open source?)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqlcan/qwen_36_max_preview_just_went_live_on_the_qwen/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-20T10:26:43+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqlcan/qwen_36_max_preview_just_went_live_on_the_qwen/\"> <img alt=\"Qwen 3.6 Max Preview just went live on the Qwen Chat website. It currently has the highest AA-Intelligence Index score among Chinese models (52) (Will it be open source?)\" src=\"https://preview.redd.it/yi0x7jo3nbwg1.jpg?width=140&amp;height=85&amp;auto=webp&amp;s=04397af16701e8c52b433655df338389438a054f\" title=\"Qwen 3.6 Max Preview just went live on the Qwen C",
+      "extra": {},
+      "collected_at": "2026-04-20T19:47:50"
     }
   ],
-  "updated_at": "2026-04-20T17:13:44.398823+09:00"
+  "updated_at": "2026-04-20T19:47:50.481133+09:00"
 }

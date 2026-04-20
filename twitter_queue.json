@@ -12055,5 +12055,33 @@
     "image_path": "/images/posts/2026-04-20-alerts-bar-darknet-monitoring-practical-review.jpg",
     "created_at": "2026-04-20T17:15:21.485779+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-20-vercel-hacked-shinyhunters-security-incident-analysis",
+    "title": "Vercelハッキング流出被害の全貌とNext.js開発者が負うべき代償",
+    "url": "https://ai.negi-lab.com/posts/vercel-hacked-shinyhunters-security-incident-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#VercelHacked #Nextjs",
+    "tweet_text": "Vercelのハッキング被害、これは想像以上に深刻かもしれません。Next.js開発者の多くが「ここなら安心」と信じ切っていた牙城が崩れた衝撃は計り知れない。攻撃集団ShinyHuntersが関与を主張し、すでに従業員データなどが流出。\n\nSIer時代に大規模障害を何度も経験してきましたが、今回のケースで最も怖いのは「見えない部分の侵害」です。Vercelは利便性のために多くのブラックボックスを抱えています。もしビルドパイプラインの深部まで手が届いていたら、私たちのコードに何が仕込まれてもおかしくない。\n\n今は「公式が大丈夫と言っているから」と静観する時ではありません。環境変数のローテーション、権限の棚卸し、そして「Vercel以外」で動かすための準備を今すぐ始めるべきです。利便性とセキュリティは常にトレードオフ。私たちは少し、利便性に甘えすぎていたのかもしれませんね。\n\nみなさんの現場では、今回の件を受けてどのような対策を取りましたか？「うちはCloudflareに移行するよ」とか「とりあえずAPIキーだけ変えた」など、リアルな状況を教えてください。これからのWeb開発、どう立ち回るべきか真剣に考えるタイミングが来ています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-20-vercel-hacked-shinyhunters-security-incident-analysis.jpg",
+    "created_at": "2026-04-20T19:49:40.955042+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-20-pangeai-spatial-analysis-agent-review",
+    "title": "PangeAI 空間分析と意思決定をAIエージェントで自動化する実力",
+    "url": "https://ai.negi-lab.com/posts/pangeai-spatial-analysis-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#PangeAI #空間分析",
+    "tweet_text": "空間分析をAIエージェントに丸投げできる「PangeAI」を試してみた。\n正直、SIer時代にPostGISのSQLやGeoPandasの座標変換で消耗していた時間は何だったのか。\n\nこのツールの凄みは、単なる可視化じゃなくて「エージェントが最適な空間演算コードを自作して実行する」点にある。\n「このエリアの人口密度をバッファ5kmで出して」と指示すれば、裏でEPSGを合わせ、Shapelyを回し、Foliumで地図を吐き出す。\n従来なら小一時間かかるプロトタイプが、0.3秒のプロンプト入力と数十秒の推論で完結する。\n\nただし、GDAL系の依存関係は相変わらずデリケートだし、座標系の自動推定を盲信するのも危うい。\nでも、物流DXや不動産テックの現場なら、分析のPDCA回す速度が3倍は変わるはず。\nRTX 4090を2枚挿してローカルLLM環境組んでる私から見ても、この「空間情報の抽象化」は筋がいい。\n\nこれ、実際に日本の住所データ（住居表示の揺らぎ）とか国土地理院のフォーマットに食わせた時の挙動、誰か試した人います？\n精度面でどこまで実務に耐えうるか、特に法務・登記関係で使えそうか意見を聞きたい。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-20-pangeai-spatial-analysis-agent-review.jpg",
+    "created_at": "2026-04-20T19:52:33.658152+09:00",
+    "posted": false
   }
 ]
