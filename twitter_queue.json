@@ -12139,5 +12139,19 @@
     "image_path": "/images/posts/2026-04-21-amazon-anthropic-100-billion-cloud-deal-analysis.jpg",
     "created_at": "2026-04-21T12:31:51.530244+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-21-google-chrome-gemini-integration-japan-rollout",
+    "title": "Chromeのアドレスバーが「検索」から「推論」の窓へ変わる歴史的なアップデートが始まりました。",
+    "url": "https://ai.negi-lab.com/posts/google-chrome-gemini-integration-japan-rollout/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleGemini #ChromeUpdate",
+    "tweet_text": "Chromeのアドレスバーが、ついに「推論エンジン」へと進化した。\n\nGoogleが日本を含む7カ国でChromeへのGemini直接統合を開始しましたね。これまでは「AIを使うためにタブを開く」必要があったけど、これからはURLを打つのと同じ感覚で @gemini と入力するだけ。この差は、実務効率を考えると絶望的なまでに大きい。\n\n特筆すべきはレスポンス速度。クラウド型にありがちな「待ち」が、WebGPUの最適化で0.3秒前後にまで短縮されている。サイドバーをいちいち開かなくていい快感は、一度体験すると戻れない。\n\nでも、日本だけiOS版が対象外なのはなぜなのか…。モバイルでのトークン消費量か、あるいは日本語特有の最適化が追いついていないのか。SIer時代にプロキシ設定で頭を抱えていた頃に比べれば、ブラウザ標準でAIが動くなんて魔法みたいだけど、Googleの慎重さが少し歯痒いですね。\n\nみなさんの環境ではもう「@gemini」使えますか？実際の要約精度、今のところChatGPTと比較してどう感じているか教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-21-google-chrome-gemini-integration-japan-rollout.jpg",
+    "created_at": "2026-04-21T14:34:42.850748+09:00",
+    "posted": false
   }
 ]
