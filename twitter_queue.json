@@ -12181,5 +12181,33 @@
     "image_path": "/images/posts/2026-04-21-gladekit-unity-ai-agent-review.jpg",
     "created_at": "2026-04-21T16:59:09.644351+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-21-fermi-ceo-cfo-depart-ai-nuclear-power-struggle",
+    "title": "AI原子力Fermiの経営陣離脱が示す電力2026年問題の深刻さ",
+    "url": "https://ai.negi-lab.com/posts/fermi-ceo-cfo-depart-ai-nuclear-power-struggle/",
+    "category": "NEWS",
+    "viral_tags": "#AI電力問題 #Fermi",
+    "tweet_text": "AI業界の「電力ゴールドラッシュ」が、ついに物理的な限界という壁に激突しました。元米エネルギー長官が設立したAI原子力スタートアップ「Fermi」の経営陣が突如辞任。テキサスでの巨大AI専用原発キャンパス計画が暗礁に乗り上げています。\n\nSIer時代、たった数MWのデータセンターを建てるだけでも電力会社との調整で胃に穴が開く思いをした私からすれば、GW級の原子力をベンチャーの速度で進める無謀さは正直予想通り。でも、これがいよいよ現実になった衝撃は大きいです。\n\nH100やBlackwellを数万枚並べても、それを動かす「ジュース（電気）」がなければただのシリコンの塊。Microsoftがスリーマイル島原発を復活させるという執念を見せる中、新規建設にこだわったFermiの挫折は、AIインフラの「既存資産の再利用」へのシフトを加速させるでしょう。\n\nこれからは「モデルの精度」と同じくらい「推論1回あたりの消費電力」がエンジニアの評価軸になります。APIの値下げ競争は終わり、いかに軽量なローカルLLMを使いこなすかの勝負です。みなさんの現場では、すでに電力コストや推論効率を意識した設計に切り替えていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-21-fermi-ceo-cfo-depart-ai-nuclear-power-struggle.jpg",
+    "created_at": "2026-04-21T19:18:37.834895+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-21-illumi-ai-visual-workspace-review-for-engineers",
+    "title": "illumi 使い方 | 思考をキャンバスで実行可能な成果物に変えるAIワークスペース",
+    "url": "https://ai.negi-lab.com/posts/illumi-ai-visual-workspace-review-for-engineers/",
+    "category": "TOOL",
+    "viral_tags": "#illumi #AIプロダクト",
+    "tweet_text": "最近のAI開発で一番のボトルネックは、チャットUIによる「思考の断片化」だと思う。\n\n複雑な要件をChatGPTに投げても、途中で文脈が崩れたり指示を忘れたりして、結局人間が必死にコピペして調整する羽目になる。SIer時代、Excelの設計書とコードを往復していたあの頃の感覚に近い。\n\nこの問題をキャンバスという「視覚的な構造化」で解決しようとしているのが illumi です。\n\n単なるホワイトボードツールじゃなくて、各ノードが独立したLLMプロンプトとして機能しつつ、ノード間の依存関係を明示的に定義できる。つまり「設計図がそのまま実行プログラムになる」という体験。\n\n実際に触ってみると、CLI連携が思った以上に優秀。ブラウザのキャンバスでざっくり設計して、`illumi-cli pull` 一発でローカルにコードが降ってくる。\n\nただ、ノードが増えると若干重くなるし、使いこなしには「構造化スキル」が求められるのも事実。\n\nみなさんは、AIとのやり取りで「コンテキストが溢れて管理できなくなった時」どう対処してますか？やっぱり泥臭くプロンプトを分割してるんでしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-21-illumi-ai-visual-workspace-review-for-engineers.jpg",
+    "created_at": "2026-04-21T19:19:47.802712+09:00",
+    "posted": false
   }
 ]
