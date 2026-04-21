@@ -12237,5 +12237,19 @@
     "image_path": "/images/posts/2026-04-21-llamacpp-server-local-llm-tutorial-guide.jpg",
     "created_at": "2026-04-21T22:57:34.829771+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-22-apple-books-mcp-claude-setup-guide",
+    "title": "Apple Books MCP 使い方 | Claudeを自分の電子書籍ライブラリと同期させる方法",
+    "url": "https://ai.negi-lab.com/posts/apple-books-mcp-claude-setup-guide/",
+    "category": "TOOL",
+    "viral_tags": "#ClaudeAI #MCP",
+    "tweet_text": "Apple Booksに眠っている大量の技術書やハイライト、死蔵させていませんか？\n\nClaude Desktopの新機能「MCP（Model Context Protocol）」を使って、自分のライブラリをClaudeの外部脳として直結してみました。これ、控えめに言って読書体験の革命です。\n\n今までは「あの本でなんて言ってたっけ？」と思ったら、アプリを開いて検索してコピペして...という手間がありましたが、今はClaudeに「分散システムについての私のハイライトをまとめて」と投げるだけ。0.5秒で自分の過去の知見がリストアップされます。\n\nOSの深い階層にあるSQLiteから直接データを吸い上げる仕組みなので、動作も爆速。MacユーザーかつApple Books派なら、設定ファイルの書き換え3分でこの環境が手に入ります。\n\nただ、Kindle派には厳しいのが現状ですね。皆さんは読書の記録、どうやってAIに食わせていますか？やっぱりReadwise経由が多いんでしょうか。\n\n具体的な設定方法と、実務での活用シナリオを2500字超で徹底レビューしました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-22-apple-books-mcp-claude-setup-guide.jpg",
+    "created_at": "2026-04-22T00:59:47.698706+09:00",
+    "posted": false
   }
 ]

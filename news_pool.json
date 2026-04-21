@@ -1,212 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "Has Google’s AI watermarking system been reverse-engineered?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-14T09:53:53-04:00",
-      "summary": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim that, according to Google, isn't true. The developer, going by the username Aloshdenny, has open-sourced their work on GitHub and documented his process, claiming all it [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-14T22:56:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Relvy",
-      "url": "https://www.producthunt.com/products/relvy",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your AI On-call Engineer </p> <p> <a href=\"https://www.producthunt.com/products/relvy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119155?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-14T22:56:41"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Barometric Pressure Offline",
-      "url": "https://www.producthunt.com/products/barometric-pressure-offline",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Track barometric pressure and altitude without internet </p> <p> <a href=\"https://www.producthunt.com/products/barometric-pressure-offline?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1121820?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-14T22:56:41"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "paperswithbacktest/awesome-systematic-trading",
-      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "extra": {
-        "stars_today": "26 stars today"
-      },
-      "collected_at": "2026-04-14T22:56:43"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "seerr-team/seerr",
-      "url": "https://github.com/seerr-team/seerr",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-      "extra": {
-        "stars_today": "15 stars today"
-      },
-      "collected_at": "2026-04-14T22:56:43"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "goauthentik/authentik",
-      "url": "https://github.com/goauthentik/authentik",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "The authentication glue you need.",
-      "extra": {
-        "stars_today": "25 stars today"
-      },
-      "collected_at": "2026-04-14T22:56:43"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "servo/servo",
-      "url": "https://github.com/servo/servo",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
-      "extra": {
-        "stars_today": "31 stars today"
-      },
-      "collected_at": "2026-04-14T22:56:43"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Updated Qwen3.5-9B Quantization Comparison",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sl59qq/updated_qwen359b_quantization_comparison/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-14T10:55:55+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sl59qq/updated_qwen359b_quantization_comparison/\"> <img alt=\"Updated Qwen3.5-9B Quantization Comparison\" src=\"https://preview.redd.it/6jaxtpefi5vg1.png?width=140&amp;height=87&amp;auto=webp&amp;s=df1f1af7aedbbba6ebafdef973c232b53a0abb59\" title=\"Updated Qwen3.5-9B Quantization Comparison\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This is a KLD eval across community GGUF quants of Qwen3.5-9B, comparing mean KLD to th",
-      "extra": {},
-      "collected_at": "2026-04-14T22:56:44"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "How to Distill from 100B+ to <4B Models",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sl48ew/how_to_distill_from_100b_to_4b_models/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-14T10:01:28+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sl48ew/how_to_distill_from_100b_to_4b_models/\"> <img alt=\"How to Distill from 100B+ to &lt;4B Models\" src=\"https://preview.redd.it/ytl9389gp4vg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=af36ed3eefaa1ca4991c2f3acba86cad8b15745c\" title=\"How to Distill from 100B+ to &lt;4B Models\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cmpatino_\"> /u/cmpatino_ </a> <br /> <span><a href=\"https://i",
-      "extra": {},
-      "collected_at": "2026-04-14T22:56:44"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google brings its Gemini Personal Intelligence feature to India",
-      "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 14 Apr 2026 14:48:34 +0000",
-      "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
-      "extra": {},
-      "collected_at": "2026-04-15T00:52:57"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
-      "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Tue, 14 Apr 2026 14:22:44 +0000",
-      "summary": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
-      "extra": {},
-      "collected_at": "2026-04-15T00:52:57"
-    },
-    {
-      "source": "Google News",
-      "title": "Nissan to Equip 90 Pct of Vehicles with AI for Automated Driving - 時事通信ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mMW5iNWJhS21TeUZVZTVPSEhNc05OMmJXdm94V21BcVRocVNhR3BjbXlVSUlVLTRXcVNXYjhiblRoRTU3UHUtc1pNWEdEbHBldFE?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 14 Apr 2026 10:53:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mMW5iNWJhS21TeUZVZTVPSEhNc05OMmJXdm94V21BcVRocVNhR3BjbXlVSUlVLTRXcVNXYjhiblRoRTU3UHUtc1pNWEdEbHBldFE?oc=5\" target=\"_blank\">Nissan to Equip 90 Pct of Vehicles with AI for Automated Driving</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
-      "extra": {},
-      "collected_at": "2026-04-15T00:53:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Mutiny",
-      "url": "https://www.producthunt.com/products/mutiny",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Create anything customer-facing. Personalized and on-brand. </p> <p> <a href=\"https://www.producthunt.com/products/mutiny?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1123096?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-15T00:53:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Softr AI Co-Builder",
-      "url": "https://www.producthunt.com/products/softr",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Build business apps with AI - that actually work </p> <p> <a href=\"https://www.producthunt.com/products/softr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1123001?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-15T00:53:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "1000 token/s, it's blazing fast!!! Fairl",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sl8a8o/1000_tokens_its_blazing_fast_fairl/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-14T13:10:38+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sl8a8o/1000_tokens_its_blazing_fast_fairl/\"> <img alt=\"1000 token/s, it's blazing fast!!! Fairl\" src=\"https://preview.redd.it/p7n3rx2zn5vg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2a120f806b2bf984c22a0946660be67bc7427d9\" title=\"1000 token/s, it's blazing fast!!! Fairl\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Anxious_Basil8446\"> /u/Anxious_Basil8446 </a> <br /> <span><a href=",
-      "extra": {},
-      "collected_at": "2026-04-15T00:53:04"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude Code Routines",
       "url": "https://code.claude.com/docs/en/routines",
@@ -3441,19 +3235,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Every time a new model comes out, the old one is obsolete of course",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1srhzii/every_time_a_new_model_comes_out_the_old_one_is/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-21T08:51:10+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1srhzii/every_time_a_new_model_comes_out_the_old_one_is/\"> <img alt=\"Every time a new model comes out, the old one is obsolete of course\" src=\"https://preview.redd.it/8z2ldj7ybiwg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4568eadd84abc99701c182339210d7b6ded8ed5\" title=\"Every time a new model comes out, the old one is obsolete of course\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/",
-      "extra": {},
-      "collected_at": "2026-04-21T19:18:00"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Which Gemma model do you want next?",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1srgqk4/which_gemma_model_do_you_want_next/",
       "primary_category": "GUIDE",
@@ -3534,19 +3315,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Magic Lane",
-      "url": "https://www.producthunt.com/products/magic-lane",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Sovereign navigation infrastructure for Europe </p> <p> <a href=\"https://www.producthunt.com/products/magic-lane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124837?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-21T22:54:59"
-    },
-    {
-      "source": "Product Hunt",
       "title": "PageOn.AI 3.0",
       "url": "https://www.producthunt.com/products/pageon-ai",
       "primary_category": "TOOL",
@@ -3613,7 +3381,86 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>It seems to me that OpenClaw and all its clones are almost useless tools for those who know what they're doing.</p> <p>It's kind of impressive for someone who has never used a CLI, Claude Code, Codex, etc. Nor used any workflow tool like 8n8 or make.</p> <p>For these people, asking an AI to create a program or a new tool with a prompt must seem like magic. For those who already use it, it seems like something that simplified the old ones but made them much more ",
       "extra": {},
       "collected_at": "2026-04-21T22:55:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
+      "url": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Tue, 21 Apr 2026 15:24:29 +0000",
+      "summary": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
+      "extra": {},
+      "collected_at": "2026-04-22T00:55:18"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "YouTube expands its AI likeness detection technology to celebrities",
+      "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Tue, 21 Apr 2026 15:02:06 +0000",
+      "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
+      "extra": {},
+      "collected_at": "2026-04-22T00:55:18"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Apple Books MCP",
+      "url": "https://www.producthunt.com/products/apple-books-mcp",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Talk to your Apple Books library with Claude </p> <p> <a href=\"https://www.producthunt.com/products/apple-books-mcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1126871?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-22T00:55:25"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cosmic Agent Marketplace",
+      "url": "https://www.producthunt.com/products/cosmic",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI agents for your team, built into your CMS </p> <p> <a href=\"https://www.producthunt.com/products/cosmic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1127738?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-22T00:55:25"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Pioneer",
+      "url": "https://www.producthunt.com/products/launching-pioneer",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Fine-tune any LLM in minutes, with one prompt </p> <p> <a href=\"https://www.producthunt.com/products/launching-pioneer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1128600?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-22T00:55:25"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "llama.cpp is the linux of llm",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1srgpqp/llamacpp_is_the_linux_of_llm/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-21T07:33:30+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>to put it simply, isn't it like that?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DevelopmentBorn3978\"> /u/DevelopmentBorn3978 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1srgpqp/llamacpp_is_the_linux_of_llm/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1srgpqp/llamacpp_is_the_linux_of_llm/\">[comments]</a></span>",
+      "extra": {},
+      "collected_at": "2026-04-22T00:55:28"
     }
   ],
-  "updated_at": "2026-04-21T22:55:03.515222+09:00"
+  "updated_at": "2026-04-22T00:55:28.684968+09:00"
 }
