@@ -12209,5 +12209,33 @@
     "image_path": "/images/posts/2026-04-21-illumi-ai-visual-workspace-review-for-engineers.jpg",
     "created_at": "2026-04-21T19:19:47.802712+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-21-magic-lane-navigation-sdk-review-guide",
+    "title": "Magic Lane 使い方と欧州発ナビゲーションSDKの全貌",
+    "url": "https://ai.negi-lab.com/posts/magic-lane-navigation-sdk-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#MagicLane #地図SDK",
+    "tweet_text": "SIer時代、Google Maps APIの突然の仕様変更とコスト増に泣かされたエンジニアは多いはず。私もその一人です。今回紹介する「Magic Lane」は、そんなビッグテックへの依存を断ち切るための「主権型ナビゲーションSDK」。\n\n最大の特徴は、C++コアによる超軽量な動作と、完全オフラインでの経路探索。クラウドを介さずローカルで完結するため、レスポンスは0.1秒以下。プライバシー重視の欧州発らしく、ユーザーを追跡しない設計も現代的です。\n\n実際に触ってみると、Mapboxのような華やかさはないものの、質実剛健なエンジニア向けの道具という印象。特に、エッジAIや自律走行ロボットなど、通信が不安定な環境での実装にはこれ以上ない選択肢になります。\n\n一方で、日本国内のデータ精度はOSMベースなので、Google Mapsと比較するとまだ物足りない部分も。国内の住所検索をどこまで許容できるかが採用の分かれ目になりそうです。\n\n皆さんは、APIの従量課金コストをどう抑えていますか？あるいは、プライバシー要件が厳しいプロジェクトでどの地図SDKを使っていますか？実際の運用経験があれば、ぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-21-magic-lane-navigation-sdk-review-guide.jpg",
+    "created_at": "2026-04-21T22:55:32.774039+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-21-llamacpp-server-local-llm-tutorial-guide",
+    "title": "Llama.cppで最新ローカルLLMを即座にAPI化して検証する方法",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-server-local-llm-tutorial-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLaMA #生成AI",
+    "tweet_text": "最新のローカルLLMが出る速度、もはや異常ですよね。昨日の最強モデルが、今日には「コスパの悪い旧世代」扱い。RedditのLocalLLaMA界隈でもこの議論は絶えませんが、実務家としてやるべきことは一つ。どんなモデルでも即座にAPI化して、自分のコードで検証できる基盤を固定することです。\n\n私はLlama.cppのサーバーモードをOpenAI互換APIとして常駐させています。これの何が良いかって、モデルファイルを入れ替えるだけで既存のPythonスクリプトを一切書き換えずに新モデルの精度とTPS（推論速度）を計測できる点。\n\nSIer時代、環境構築だけで丸一日潰していたのが嘘のようです。今は数分で最新SOTAを自分のVRAMに閉じ込められる。この記事では、ビルドの落とし穴から速度計測スクリプトまで、私が現場で使っている手順を全部まとめました。\n\n4bit量子化のQ4_K_Mを選ぶ理由や、VRAMを使い切るための引数設定など、動かしてみた系の記事では触れられない「実務の判断基準」を詰め込んでいます。\n\n皆さんは新モデルが出た時、何を基準に「乗り換え」を判断していますか？ 私は日本語の論理破綻のなさと、15 tokens/sec以上の速度を最低ラインにしています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-21-llamacpp-server-local-llm-tutorial-guide.jpg",
+    "created_at": "2026-04-21T22:57:34.829771+09:00",
+    "posted": false
   }
 ]
