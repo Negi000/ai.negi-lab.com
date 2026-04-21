@@ -12153,5 +12153,33 @@
     "image_path": "/images/posts/2026-04-21-google-chrome-gemini-integration-japan-rollout.jpg",
     "created_at": "2026-04-21T14:34:42.850748+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-21-nsa-anthropic-mythos-classified-ai-model",
+    "title": "NSA採用の極秘AI「Mythos」の実体とAnthropicの変節",
+    "url": "https://ai.negi-lab.com/posts/nsa-anthropic-mythos-classified-ai-model/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #Mythos",
+    "tweet_text": "NSAがAnthropicの極秘モデル「Mythos」を採用したというニュース、これは単なる導入の話じゃない。\n\n私たちが普段使っているClaude 3.5は、いわば「安全という名の足かせ」をはめられた状態。でもNSAが使っているMythosは、そのリミッターを外して諜報・暗号解析に特化させた別次元の知能です。\n\n特筆すべきはGPQAスコア92.4%という異常な数字。これ、人間どころか専門家集団すら凌駕してる。SIer時代にセキュリティ要件定義で苦労してたのが馬鹿らしくなるレベルのパラダイムシフトですよ。\n\n正直、Anthropicの「AIの安全性」という看板は何だったのかという憤りもある。でも技術者としては、リミッターを外したLLMがここまで到達しているという事実に震える。\n\nこれからは「賢いAIを使う」時代から「国家級の知能格差にどう備えるか」というフェーズに入る。ローカルLLMの魔改造や、エアギャップ環境での運用ノウハウが、エンジニアの生き残り戦略として必須になるのは間違いない。\n\n皆さんは、AIに倫理制限をかけるべきだと思いますか？それとも、性能をフルに引き出すために制限を外すべきだと思いますか？現場のリアルな意見が聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-21-nsa-anthropic-mythos-classified-ai-model.jpg",
+    "created_at": "2026-04-21T16:58:07.857317+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-21-gladekit-unity-ai-agent-review",
+    "title": "GladeKit Unity開発を自律型AIエージェントで自動化する方法",
+    "url": "https://ai.negi-lab.com/posts/gladekit-unity-ai-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#Unity3d #AIエージェント",
+    "tweet_text": "Unity開発の「あの面倒な作業」が消える予感。AIエージェントのGladeKitを触ってみましたが、これは単なるコード補完ツールじゃないですね。\n\n「敵を配置してロジックを組んで」と指示するだけで、C#の生成からInspectorの設定、コンポーネントのアタッチまでエージェントが勝手に完結させます。VS CodeとUnityを行き来してポチポチする時間が無くなるのは、控えめに言って革命的。\n\nSIer時代にこういうツールがあれば、退屈なボイラープレート作成に何百時間も溶かさずに済んだのに…と遠い目になります。特にプロトタイピングの速度は2倍どころか、体感3〜4倍は速くなる。\n\nただ、LLM依存なのでトークン代はかかるし、既存の巨大なプロジェクトに突っ込むにはまだコツが必要です。Unity Museとの使い分けも明確になってきましたね。\n\n実際に動かしてみたコード例と、実務で「買い」かどうかの判断基準を詳しくまとめました。UnityエンジニアでAI活用を模索している人、今の開発フローに限界を感じていませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-21-gladekit-unity-ai-agent-review.jpg",
+    "created_at": "2026-04-21T16:59:09.644351+09:00",
+    "posted": false
   }
 ]
