@@ -12251,5 +12251,19 @@
     "image_path": "/images/posts/2026-04-22-apple-books-mcp-claude-setup-guide.jpg",
     "created_at": "2026-04-22T00:59:47.698706+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-22-meta-employee-keystroke-logging-ai-training",
+    "title": "Metaが社員のキー入力をAI学習に利用開始。マウス操作まで吸い上げる「究極のプロセス学習」の衝撃",
+    "url": "https://ai.negi-lab.com/posts/meta-employee-keystroke-logging-ai-training/",
+    "category": "NEWS",
+    "viral_tags": "#MetaAI #AIエージェント",
+    "tweet_text": "Metaが社員の「全操作ログ」をAI学習に使い始めるとの速報。単なるチャット履歴じゃなく、マウスの移動距離からクリックのタイミング、キー入力の迷いまで全てがLlamaの糧になる。\n\nこれ、技術的には「究極の模倣学習」でワクワクする反面、SIer時代にこんな監視ツール入れられたら3日で辞めてた自信がある。AIを「賢い相談相手」から「自分の代わりにPCを叩く部下」に変えるには避けて通れない道だけど、プライバシーの境界線が完全に崩壊した感がある。\n\nテキストデータが枯渇したから、次は人間の「挙動」を食わせるフェーズに入った。GPT-4oやClaude 3.5 Sonnetもエージェント機能を強化してるけど、Metaはこの「生データ収集インフラ」で一気に抜き去るつもりかも。\n\n32GB RAMのミニPCでローカルLLM回してる開発者にとっても、この「Action-to-Data」の流れは無視できない。自分の操作ログを自分で学習させて、自分専用のオートパイロットを作る時代がすぐそこまで来てる。\n\n皆さんは、自分のキー入力がAI学習に使われる代わりに、仕事が半分自動化される環境って受け入れられますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-22-meta-employee-keystroke-logging-ai-training.jpg",
+    "created_at": "2026-04-22T14:33:24.117229+09:00",
+    "posted": false
   }
 ]
