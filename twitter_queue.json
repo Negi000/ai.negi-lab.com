@@ -12335,5 +12335,19 @@
     "image_path": "/images/posts/2026-04-22-nova-recruiter-ai-agent-recruitment-review.jpg",
     "created_at": "2026-04-22T22:57:28.784657+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-23-google-chrome-ai-coworker-gemini-enterprise-automation",
+    "title": "ブラウザが自ら動き出す。Google Chromeの「AI coworker」化が業務フローを根本から破壊する理由",
+    "url": "https://ai.negi-lab.com/posts/google-chrome-ai-coworker-gemini-enterprise-automation/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleChrome #AIエージェント",
+    "tweet_text": "SIer時代、数千万円かけて構築したRPAがサイトのデザイン変更一つで動かなくなった絶望を今でも覚えています。あの「壊れやすい自動化」の時代が、ついに終わるかもしれません。\n\nGoogleがChromeにGeminiを統合した「AI coworker」機能を発表しました。これ、単なるチャットじゃありません。ブラウザが自らDOMを解釈して動き出す「auto browse」が本丸です。リサーチ、データ入力、SaaS間のコピペ...。ブラウザの中で完結する全業務が自動化の対象になります。\n\n技術的に衝撃なのは、画面のスクショを撮るのではなく、ブラウザ内部で「描画される前のデータ」を直接AIが操作する点。ClaudeのComputer Useと比較しても、速度と正確性でGoogleが圧倒的に有利な土俵です。\n\n結局、私たちは1日の大半をChromeという窓の中で過ごしています。その「窓」自体が意思を持ったとき、仕事の定義は「操作」から「検品」へと変わる。導入コストも月額数ドル〜と、既存のRPAツールを完全に殺しにきています。\n\n皆さんの職場にある「ポチポチ作業」、これでもう絶滅させられますか？それとも、AIを管理する側の新たな苦労が始まるのでしょうか。実際の現場でどこまで通用するか、皆さんの率直な感覚を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-23-google-chrome-ai-coworker-gemini-enterprise-automation.jpg",
+    "created_at": "2026-04-23T03:01:44.602092+09:00",
+    "posted": false
   }
 ]
