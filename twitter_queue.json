@@ -12321,5 +12321,19 @@
     "image_path": "/images/posts/2026-04-22-eol-dataset-dependency-lifecycle-management.jpg",
     "created_at": "2026-04-22T19:20:32.977524+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-22-nova-recruiter-ai-agent-recruitment-review",
+    "title": "Nova Recruiter 使い方とAIエージェントによる採用自動化の実力",
+    "url": "https://ai.negi-lab.com/posts/nova-recruiter-ai-agent-recruitment-review/",
+    "category": "TOOL",
+    "viral_tags": "#NovaRecruiter #エンジニア採用",
+    "tweet_text": "採用に時間を取られすぎてコードが書けない...というエンジニアの叫びを何度聞いてきたか。\n\nProduct Huntで見つけた「Nova Recruiter」をドキュメントから読み込んでみましたが、これまでのスカウト補助ツールとは一線を画していますね。単なるキーワード検索ではなく「このリポジトリでこういう貢献をしているから、自社のこの課題に合う」という文脈をAIエージェントが自律的に解析する仕組みです。\n\n実際にPython SDKでシミュレーションしてみましたが、リサーチからスカウト文のドラフト作成までが数分で完結するのは衝撃的。SIer時代にレジュメの束と格闘していた自分に教えてあげたいです。\n\nただし、日本独自の採用プラットフォームとの連携にはまだ課題がありそう。英語圏の技術スタックを追うには最強ですが、国内特化で動くならプロンプトの工夫が必須になります。\n\n100件の候補者抽出がわずか4分。このスピード感、皆さんのチームならどう活用しますか？スカウトの自動化は「諸刃の剣」だと思いますが、どこまでAIに任せられるか意見を聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-22-nova-recruiter-ai-agent-recruitment-review.jpg",
+    "created_at": "2026-04-22T22:57:28.784657+09:00",
+    "posted": false
   }
 ]
