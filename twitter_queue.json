@@ -12265,5 +12265,33 @@
     "image_path": "/images/posts/2026-04-22-meta-employee-keystroke-logging-ai-training.jpg",
     "created_at": "2026-04-22T14:33:24.117229+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-22-anthropic-mythos-cyber-tool-leak-analysis",
+    "title": "Anthropic内部ツールMythos流出報道が突きつけるAIセキュリティの脆弱な現実",
+    "url": "https://ai.negi-lab.com/posts/anthropic-mythos-cyber-tool-leak-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #CyberSecurity",
+    "tweet_text": "Anthropicの隠し球「Mythos」が流出したというニュース、これは想像以上にマズいかもしれません。\n\n元SIerとしてセキュリティ案件を数多くこなしてきましたが、AIによる攻撃の自動化は「時間の問題」だと思っていました。でも、まさか安全性を掲げるAnthropicが自ら育てていた「最強の矛」が外部に漏れる可能性があるとは。\n\nMythosは、私たちが普段使っているお行儀の良いClaudeとは全くの別物でしょう。脆弱性を見つけるまで自律的にコードを書き、実行し、エラーを修正し続ける。この「試行錯誤の自動化」をAIが肩代わりしたとき、既存の防御手法は文字通り無力化されます。\n\nかつてMetasploitが登場したときも業界は騒然としましたが、今回はその比ではありません。「AIが勝手に穴を見つける」時代が、この流出をきっかけに一気に加速する気がしています。\n\n皆さんの現場では、AIによる攻撃を想定したレッドチーミングや対策、すでに始めていますか？「うちはまだ大丈夫」と思っている間に、AIエージェントは静かに、そして確実にバックドアを探し当てているかもしれません。実務者目線で、いま私たちが取るべき防衛策について深く掘り下げてみました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-22-anthropic-mythos-cyber-tool-leak-analysis.jpg",
+    "created_at": "2026-04-22T16:54:46.313555+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-22-fusedframes-ai-agent-context-capture-review",
+    "title": "FusedFrames AIエージェントに視覚と文脈を与えるコンテキストキャプチャの実力を検証",
+    "url": "https://ai.negi-lab.com/posts/fusedframes-ai-agent-context-capture-review/",
+    "category": "TOOL",
+    "viral_tags": "#FusedFrames #AIAgent",
+    "tweet_text": "SIer時代、画面キャプチャをExcelに貼り付けるだけの「証跡職人」を何人も見てきました。当時は笑い話でしたが、今のAIエージェント開発でも同じような問題が起きています。\n\n単純にスクリーンショットを撮ってLLMに投げるだけ。それではエージェントは「画面の裏側」にある構造を理解できません。結局、座標が数ピクセルズレただけでクリックミスを連発し、タスクは失敗する。\n\n最近検証した「FusedFrames」はこの問題をエンジニアリングで解決しています。ピクセルデータとUIの構造化データを、文字通り「融合」させてパッケージ化するアプローチ。\n\n実際に触ってみると、frame.fuse() メソッドによる情報の選別が秀逸。不要なDOMを削ぎ落としてトークンを節約しつつ、AIが次に叩くべき要素のIDを正確に伝えてくれます。\n\nこの「AIに正しく見せる技術」が、今後のエージェント開発の標準になるのは間違いありません。ブラウザ操作の自動化で行き詰まっている方、あるいはローカルLLMでOS操作をさせたい方、このアプローチの精度はどう感じますか？\n\n特にWindowsの複雑なUIツリーをどう扱うか、皆さんの知見も気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-22-fusedframes-ai-agent-context-capture-review.jpg",
+    "created_at": "2026-04-22T16:55:54.205002+09:00",
+    "posted": false
   }
 ]
