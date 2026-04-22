@@ -12293,5 +12293,33 @@
     "image_path": "/images/posts/2026-04-22-fusedframes-ai-agent-context-capture-review.jpg",
     "created_at": "2026-04-22T16:55:54.205002+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-22-spacex-cursor-buyout-60-billion-analysis",
+    "title": "SpaceXによるCursor買収オプション獲得はソフトがハードを支配する時代の決定打になる",
+    "url": "https://ai.negi-lab.com/posts/spacex-cursor-buyout-60-billion-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#CursorAI #SpaceX",
+    "tweet_text": "SpaceXがAIエディタ「Cursor」に600億ドルの買収オプションを提示。このニュース、単なる買収劇じゃありません。イーロン・マスクはTwitter以上の金額を投じて「ソフトウェアの製造ライン」を丸ごと買いに来ました。\n\n元SIerとして言わせてもらえば、開発の最大の敵は「コードの文脈が共有されないこと」でした。Cursorはそれをインデックス技術で解決し、今やSpaceXのロケット設計という、最も複雑な物理現象をコードに落とし込む現場の「OS」になろうとしています。\n\n正直、現状のxAIのモデルではClaudeに勝てないという弱点はあります。でも、ハードウェアとソフトを垂直統合するイーロンのやり方なら、数ヶ月後には「物理法則を理解した最強のコーディングAI」が生まれてもおかしくない。\n\nRTX 4090を2枚回してローカルLLMを検証している身としても、エディタがここまで巨額の戦略兵器になる時代が来るとは胸熱です。皆さんはCursorの「プロジェクト全体を書き換える力」、仕事でどの程度実感していますか？既存のCopilotに戻れない体になってる人、多いんじゃないでしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-22-spacex-cursor-buyout-60-billion-analysis.jpg",
+    "created_at": "2026-04-22T19:19:25.382949+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-22-eol-dataset-dependency-lifecycle-management",
+    "title": "EOL Dataset 依存関係の「賞味期限」を一元管理する方法",
+    "url": "https://ai.negi-lab.com/posts/eol-dataset-dependency-lifecycle-management/",
+    "category": "TOOL",
+    "viral_tags": "#エンジニアリング #SRE",
+    "tweet_text": "SIer時代、OSのEOL（サポート終了）を見逃して、数千万円の緊急予算を計上する現場を何度も見てきました。あの時の絶望感を二度と味わいたくないエンジニアに教えたいのが「EOL Dataset」です。\n\n自社のスタックがいつ「賞味期限切れ」になるか、正確に答えるのは意外と難しいもの。Ubuntu、Python、PostgreSQL、Node.js...。各公式サイトを回らなくても、APIを叩くだけで全プロダクトのEOL日をJSONで取得できます。\n\nAI開発でもPython 3.8のEOLなどで混乱がありましたが、これを使えばCI/CDに「EOLの90日前に警告を出す」仕組みを5分で組み込めます。脆弱性が出てから騒ぐのは三流。寿命を逆算してアップグレード計画を立てるのがプロの仕事です。\n\n認証不要のAPIなので、まずは自分のプロジェクトの主要ライブラリを1つ叩いてみてください。レスポンスの速さに驚くはずです。\n\n皆さんの現場では、EOL管理はどうしていますか？Excel手動管理から脱却できているプロジェクト、どのくらいあるんでしょう。実際の運用事例や「このプロダクトのデータも欲しい」といった要望があれば教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-22-eol-dataset-dependency-lifecycle-management.jpg",
+    "created_at": "2026-04-22T19:20:32.977524+09:00",
+    "posted": false
   }
 ]
