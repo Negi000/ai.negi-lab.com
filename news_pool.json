@@ -1,45 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
-      "url": "https://github.com/gastownhall/gastown/issues/3649",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 15 Apr 2026 20:49:48 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-16T07:00:00"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "How to properly deal with a CLAUDE.md file.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1smgezm/how_to_properly_deal_with_a_claudemd_file/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-15T19:34:54+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1smgezm/how_to_properly_deal_with_a_claudemd_file/\"> <img alt=\"How to properly deal with a CLAUDE.md file.\" src=\"https://preview.redd.it/vlrvbxabpevg1.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=4f7eaecda5d41ad7942e6cf7a4a10b4d1a70918e\" title=\"How to properly deal with a CLAUDE.md file.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/onil_gova\"> /u/onil_gova </a> <br /> <span><a href=\"htt",
-      "extra": {},
-      "collected_at": "2026-04-16T07:00:05"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Video of how my LLM's decoder blocks changed while training",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1smiotb/video_of_how_my_llms_decoder_blocks_changed_while/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-15T20:55:33+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1smiotb/video_of_how_my_llms_decoder_blocks_changed_while/\"> <img alt=\"Video of how my LLM's decoder blocks changed while training\" src=\"https://external-preview.redd.it/NHZrM2FndmEzZnZnMWE60GVDIa_jxkpn3nCHr0k_vLuzSpUGUiy9oLLQq4BT.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1463898b99acd57fd9c57b8253bde6fcdacc7401\" title=\"Video of how my LLM's decoder blocks changed while training\" /> </a> </td><td> <!-- SC_OFF --><div c",
-      "extra": {},
-      "collected_at": "2026-04-16T07:00:05"
-    },
-    {
       "source": "Product Hunt",
       "title": "Gemini Robotics ER 1.6",
       "url": "https://www.producthunt.com/products/google",
@@ -3387,19 +3348,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
-      "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 22 Apr 2026 19:51:51 +0000",
-      "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
-      "extra": {},
-      "collected_at": "2026-04-23T06:59:10"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Google Cloud launches two new AI chips to compete with Nvidia",
       "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
       "primary_category": "NEWS",
@@ -3504,7 +3452,100 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ssw45q/dense_vs_moe_gap_is_shrinking_fast_with_the_3627b/\"> <img alt=\"Dense vs. MoE gap is shrinking fast with the 3.6-27B release\" src=\"https://preview.redd.it/bafc19stpswg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0b0bc5d7eb672e25fac9d2cc59105680a887f868\" title=\"Dense vs. MoE gap is shrinking fast with the 3.6-27B release\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>27B Dense vs. 35B-A3B MoE):</p> <p>- Den",
       "extra": {},
       "collected_at": "2026-04-23T06:59:15"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+      "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 22 Apr 2026 23:56:52 +0000",
+      "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+      "extra": {},
+      "collected_at": "2026-04-23T12:32:48"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google updates Workspace to make AI your new office intern",
+      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 22 Apr 2026 22:44:26 +0000",
+      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+      "extra": {},
+      "collected_at": "2026-04-23T12:32:48"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Hands on with X’s new AI-powered custom feeds",
+      "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 22 Apr 2026 22:25:53 +0000",
+      "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+      "extra": {},
+      "collected_at": "2026-04-23T12:32:48"
+    },
+    {
+      "source": "Google News",
+      "title": "Google Cloud Partner of the Year「Artificial Intelligence: Workplace AI Transformation - Japan」を受賞～生成 AIによる業務変革の実績と、優れた支援体制が評価 - zakⅡ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWSWRieDNzSGg1NFNnS2Raa0M3X3BPRzJpMlhXaTRxcGpySnpQR2Z4UXN5c0NWNVllekJVRXZkYXRKYmd2dmQzX1VJUTliZm9jVkVHdkNBVUtXV19xUnQ5M3lQZW9pOHdsa2hkVkRTOFBMQUFQaGVhU3BEdkNTdw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 23 Apr 2026 02:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBWSWRieDNzSGg1NFNnS2Raa0M3X3BPRzJpMlhXaTRxcGpySnpQR2Z4UXN5c0NWNVllekJVRXZkYXRKYmd2dmQzX1VJUTliZm9jVkVHdkNBVUtXV19xUnQ5M3lQZW9pOHdsa2hkVkRTOFBMQUFQaGVhU3BEdkNTdw?oc=5\" target=\"_blank\">Google Cloud Partner of the Year「Artificial Intelligence: Workplace AI Transformation - Japan」を受賞～生成 AIによる業務変革の実績と、優れた支援体制が評価</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">zakⅡ</font>",
+      "extra": {},
+      "collected_at": "2026-04-23T12:32:51"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Iris Studio",
+      "url": "https://www.producthunt.com/products/iris-studio",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The Swiss Army Knife for AI & Video Creators </p> <p> <a href=\"https://www.producthunt.com/products/iris-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1128704?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-23T12:32:51"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "nlohmann/json",
+      "url": "https://github.com/nlohmann/json",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "JSON for Modern C++",
+      "extra": {
+        "stars_today": "10 stars today"
+      },
+      "collected_at": "2026-04-23T12:32:53"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Forgive my ignorance but how is a 27B model better than 397B?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1st11lp/forgive_my_ignorance_but_how_is_a_27b_model/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-22T22:52:53+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1st11lp/forgive_my_ignorance_but_how_is_a_27b_model/\"> <img alt=\"Forgive my ignorance but how is a 27B model better than 397B?\" src=\"https://preview.redd.it/3ady5t95ntwg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b5985cd66b379be5a1affa0ad00e35b9ff81073d\" title=\"Forgive my ignorance but how is a 27B model better than 397B?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Is Qwen just incredibly good at doing dense ",
+      "extra": {},
+      "collected_at": "2026-04-23T12:32:54"
     }
   ],
-  "updated_at": "2026-04-23T06:59:15.683753+09:00"
+  "updated_at": "2026-04-23T12:32:54.432728+09:00"
 }
