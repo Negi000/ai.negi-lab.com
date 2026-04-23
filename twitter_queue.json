@@ -12475,5 +12475,33 @@
     "image_path": "/images/posts/2026-04-23-deepseek-deepep-v2-tilekernels-tutorial.jpg",
     "created_at": "2026-04-23T22:58:56.096838+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-24-the-autonomous-stack-claude-agent-production-guide",
+    "title": "The Autonomous Stack 使い方 Claude自律エージェントを本番導入するための技術選定",
+    "url": "https://ai.negi-lab.com/posts/the-autonomous-stack-claude-agent-production-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Claude3 #AIエージェント",
+    "tweet_text": "AIエージェントの開発、デモ動画を撮るまでは簡単。でも、そこから「本番環境」に持っていこうとした瞬間に地獄が始まります。ユーザーごとの履歴管理、プロセスが落ちた時のリタイア処理、そして予期せぬループによる高額請求。これらを自前で解決しようとして、数週間溶かした経験はありませんか？\n\n今回レビューした「The Autonomous Stack」は、Claude 3.5 Sonnetの性能を本気で引き出し、プロダクション運用するための「答え」が詰まった構成です。\n\n個人的にシビれたのは、LangGraphをベースにしたチェックポイントの実装。エージェントが思考の途中で止まっても、DBから状態を復元して再開できる。これ、業務システムなら必須ですよね。\n\nCrewAIや単なるLangChainとは一線を画す「堅牢性」重視の設計。正直、初心者にはおすすめしませんが、APIを叩きまくって「使えるAIシステム」を作りたいエンジニアには、これ以上の教科書はありません。\n\n皆さんは、エージェントの暴走やステート管理、どうやって解決してますか？LangGraph派か、それとも自前実装派か。現場の苦労話を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-24-the-autonomous-stack-claude-agent-production-guide.jpg",
+    "created_at": "2026-04-24T01:19:44.323621+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-24-qwen-2-5-27b-local-python-guide",
+    "title": "Qwen 2.5 27B 使い方 入門：24GB VRAMでGPT-4級のコード生成環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/qwen-2-5-27b-local-python-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen2 #ローカルLLM",
+    "tweet_text": "Redditで「Qwen 3.6」と誤記されるほど衝撃を与えた最新モデル、Qwen 2.5 27Bの実力に震えています。\n\nSIer時代にこれがあったら、あの不毛なデバッグ作業がどれほど救われたか…。\nVRAM 24GBという「一般家庭の限界点」にピタリと収まる絶妙なサイズ感。\nそれでいてGPT-4級のコード生成ができる。\n\n正直、これまで「ローカルは70Bクラスじゃないと仕事にならない」と思っていましたが、Qwen 2.5 27Bがその常識を破壊しました。\n特にPySparkやPandasの複雑なデータ変換ロジックをノーミスで吐き出したときは、自宅サーバーのファンが唸る音と共に、時代の変化を確信しました。\n\n今回はこの「27Bの獣」をPythonから制御し、エラー発生時にAIが自動で修正案を提示するオートデバッグ環境の構築ガイドを書きました。\nローカルLLMはもはや趣味ではなく、実務の武器です。\nRTX 3090/4090を死蔵させている人は、今すぐこのモデルをプルしてみてください。\n\n皆さんの環境では、27Bモデルのトークン生成速度はどれくらい出ていますか？\n私の4090環境だと爆速ですが、Laptop版やMacでの使用感も気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-24-qwen-2-5-27b-local-python-guide.jpg",
+    "created_at": "2026-04-24T01:22:07.001529+09:00",
+    "posted": false
   }
 ]
