@@ -12447,5 +12447,33 @@
     "image_path": "/images/posts/2026-04-23-flomcp-secure-mcp-server-development-guide.jpg",
     "created_at": "2026-04-23T19:22:22.433578+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-23-claude-code-ultrareview-parallel-agent-review",
+    "title": "Claude Code /ultrareview 使い方とレビュー：並列エージェント群がコードレビューを自動化する実力を検証",
+    "url": "https://ai.negi-lab.com/posts/claude-code-ultrareview-parallel-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#ClaudeCode #CodeReview",
+    "tweet_text": "SIer時代、深夜3時に目をこすりながら100ファイルのPRレビューをしていた自分に教えてあげたいツールに出会いました。Claude Code /ultrareview、これまでの「AIレビュー」とは次元が違います。\n\n最大の特徴は「役割の違う複数のAIエージェントが並列で議論する」点。\nセキュリティ担当、性能担当、ロジック担当のエージェントがそれぞれの視点でコードを叩き、合意形成が得られたものだけがレポートとして上がってきます。単発のLLMだと見逃しがちな「特定条件下でのデッドロック」や「ORMの非効率なクエリ」を、0.3秒の即答ではなく、3分間じっくり考え抜いて指摘してくる姿勢は、まさに職人。\n\n正直、APIコストは通常ツールの10倍以上かかります。でも、月額数十ドルのコストでシニアエンジニアの貴重な時間を毎日1時間買えるなら、これほど安い投資はないはず。\n\n「AIの指摘は当たり障りないものばかり」と諦めていた人にこそ、このエージェント群による「詰め」を体験してほしいです。\n\n実際に現場で導入する場合、CI/CDとの連携が肝になります。みなさんのチームでは、AIレビューの結果をどこまで自動でマージしていますか？それとも最終的には人間が全確認していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-23-claude-code-ultrareview-parallel-agent-review.jpg",
+    "created_at": "2026-04-23T22:57:52.517927+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-23-deepseek-deepep-v2-tilekernels-tutorial",
+    "title": "DeepSeek-V3の爆速通信を支えるDeepEP V2とTileKernelsの使い方",
+    "url": "https://ai.negi-lab.com/posts/deepseek-deepep-v2-tilekernels-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#DeepSeek #ローカルLLM",
+    "tweet_text": "DeepSeek-V3の圧倒的な推論速度、その「核」となる通信ライブラリが公開されましたね。\n\n公開されたDeepEP V2とTileKernelsを、RTX 4090のマルチGPU環境で実際にビルドして検証しました。SIer時代、分散システムのデータ整合性と格闘していた頃を思い出しますが、今の戦場は「いかにSMを遊ばせずに通信と計算を重ねるか」という極限の低レイヤーに移行しています。\n\n試した結果、標準的なNCCL経由のAll-to-All通信と比較して、MoE特有のワークロードで大幅なレイテンシ削減を確認。特にFP8計算をタイル単位で最適化するTileKernelsの設計は、大規模モデルを本気で運用したい人には避けて通れない技術です。\n\n「モデルが賢い」のは当たり前。それを「実用的な速度で回す」ための泥臭い最適化こそが、今のAI開発の醍醐味だと感じます。これ、自前推論サーバー組んでる人なら触らない理由がないですよ。\n\n皆さんの環境では、マルチGPU間のP2P通信でどれくらいの帯域が出ていますか？NVLinkの有無でDeepEPの効果がどう変わるか、気になるところです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-23-deepseek-deepep-v2-tilekernels-tutorial.jpg",
+    "created_at": "2026-04-23T22:58:56.096838+09:00",
+    "posted": false
   }
 ]
