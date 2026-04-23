@@ -1,72 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "Google launches a Gemini AI app on Mac",
-      "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-15T14:10:15-04:00",
-      "summary": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window. Before sharing your [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-16T19:15:18"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "The local LLM ecosystem doesn’t need Ollama",
-      "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 16 Apr 2026 03:35:11 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-16T19:15:19"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Claude Code Desktop App Redesigned",
-      "url": "https://www.producthunt.com/products/claude-redesigned",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Run parallel coding agents from one desktop workspace </p> <p> <a href=\"https://www.producthunt.com/products/claude-redesigned?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1123805?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-16T19:15:20"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Askiva AI",
-      "url": "https://www.producthunt.com/products/askiva-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your autonomous AI user researcher </p> <p> <a href=\"https://www.producthunt.com/products/askiva-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1122178?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-16T19:15:20"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "HiveTerm",
-      "url": "https://www.producthunt.com/products/hiveterm",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> One workspace for all your AI agents </p> <p> <a href=\"https://www.producthunt.com/products/hiveterm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124796?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-16T19:15:20"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
       "url": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
@@ -3297,19 +3231,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Google updates Workspace to make AI your new office intern",
-      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 22 Apr 2026 22:44:26 +0000",
-      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
-      "extra": {},
-      "collected_at": "2026-04-23T12:32:48"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Hands on with X’s new AI-powered custom feeds",
       "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
       "primary_category": "NEWS",
@@ -3444,19 +3365,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Magic Patterns Agent 2.0",
-      "url": "https://www.producthunt.com/products/magicpatterns",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The best AI design agent to go from idea to production </p> <p> <a href=\"https://www.producthunt.com/products/magicpatterns?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1127525?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-23T17:01:21"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Instamor",
       "url": "https://www.producthunt.com/products/instamor-short-video-dating",
       "primary_category": "TOOL",
@@ -3506,7 +3414,100 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Taken from their <a href=\"https://huggingface.co/Qwen/Qwen3.6-27B\">Huggingface Page:</a></p> <p><em>We recommend using the following set of sampling parameters for generation</em></p> <pre><code>Thinking mode for general tasks: temperature=1.0, top_p=0.95, top_k=20, min_p=0.0, presence_penalty=0.0, repetition_penalty=1.0 Thinking mode for precise coding tasks (e.g. WebDev): temperature=0.6, top_p=0.95, top_k=20, min_p=0.0, presence_penalty=0.0, repetition_penalt",
       "extra": {},
       "collected_at": "2026-04-23T17:01:23"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI now lets teams make custom bots that can do work on their own",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-22T16:09:02-04:00",
+      "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and sends a report in Slack and a sales agent that can [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-23T19:20:42"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "FloMCP",
+      "url": "https://www.producthunt.com/products/flomcp",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ship MCP servers with 32 security checks in under 5 minutes </p> <p> <a href=\"https://www.producthunt.com/products/flomcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1128593?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-23T19:20:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Wellows",
+      "url": "https://www.producthunt.com/products/wellows-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> See how AI talks about your brand — and fix it </p> <p> <a href=\"https://www.producthunt.com/products/wellows-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1129441?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-23T19:20:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Kollab",
+      "url": "https://www.producthunt.com/products/kollab-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Shared workspace where teams work with agents together </p> <p> <a href=\"https://www.producthunt.com/products/kollab-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124020?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-23T19:20:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Public Pages for Confluence",
+      "url": "https://www.producthunt.com/products/atlassian",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn Confluence pages into public SEO-friendly websites </p> <p> <a href=\"https://www.producthunt.com/products/atlassian?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130196?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-23T19:20:48"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen-3.6-27B, llamacpp, speculative decoding - appreciation post",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1stcer1/qwen3627b_llamacpp_speculative_decoding/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-23T08:05:46+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1stcer1/qwen3627b_llamacpp_speculative_decoding/\"> <img alt=\"Qwen-3.6-27B, llamacpp, speculative decoding - appreciation post\" src=\"https://preview.redd.it/btmc03y9dwwg1.png?width=140&amp;height=123&amp;auto=webp&amp;s=17a81be5583b9ced9593e616768209c3abefce58\" title=\"Qwen-3.6-27B, llamacpp, speculative decoding - appreciation post\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>First a little explanation about what is ha",
+      "extra": {},
+      "collected_at": "2026-04-23T19:20:51"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Kimi K2.6 now leads all models in 3D Design",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1stdlhr/kimi_k26_now_leads_all_models_in_3d_design/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-23T09:16:39+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1stdlhr/kimi_k26_now_leads_all_models_in_3d_design/\"> <img alt=\"Kimi K2.6 now leads all models in 3D Design\" src=\"https://preview.redd.it/i3989kdkowwg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4380997808c561f09634f9ddb48d0545b86a9235\" title=\"Kimi K2.6 now leads all models in 3D Design\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>One of the best benchmarks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a hr",
+      "extra": {},
+      "collected_at": "2026-04-23T19:20:51"
     }
   ],
-  "updated_at": "2026-04-23T17:01:23.956843+09:00"
+  "updated_at": "2026-04-23T19:20:51.310133+09:00"
 }

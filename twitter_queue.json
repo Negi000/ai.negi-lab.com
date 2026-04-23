@@ -12419,5 +12419,33 @@
     "image_path": "/images/posts/2026-04-23-magic-patterns-agent-2-review-react-automation.jpg",
     "created_at": "2026-04-23T17:03:26.835434+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-23-x-communities-replaced-by-grok-ai-feeds",
+    "title": "Xのコミュニティ機能廃止とGrokによるAIカスタムフィードへの全面移行は、プラットフォーム上の情報の流れを根本から定義し直す。",
+    "url": "https://ai.negi-lab.com/posts/x-communities-replaced-by-grok-ai-feeds/",
+    "category": "NEWS",
+    "viral_tags": "#Grok #AIカスタムフィード",
+    "tweet_text": "Xが「コミュニティ」機能を廃止し、Grokによる「AIカスタムフィード」へ全面移行することを決めました。正直、これは情報の付き合い方が根本から変わる大きな転換点です。\n\nこれまでのコミュニティは人間が管理する「村」でしたが、これからはAIが全ポストをベクトル化し、リアルタイムで「あなた専用の専門誌」を作り上げます。技術的にはGrokによるセマンティック・インデキシングが肝で、単なるキーワードマッチングの時代は終わりました。\n\nSIer時代に情報の分類で苦労した身からすると、この自動化の威力は凄まじいと感じます。一方で、AIが選別した情報だけに囲まれる「情報のタコツボ化」は避けられません。月額$8で効率を買うか、それともAIのフィルターに抗うか。\n\n発信者側も「AIに正しく認識されるための書き方（AIO）」を意識しないと、誰の目にも触れない暗闇に沈むリスクがあります。Grokに自分の専門性をどう認識させるか、今のうちにテストしておくのが賢明ですね。\n\nみなさんは、このAIによる情報の完全統治、どう感じますか？利便性が勝つのか、それとも手動リストの良さが再評価されるのか。実際にGrokの要約精度を触ってみた感想も気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-23-x-communities-replaced-by-grok-ai-feeds.jpg",
+    "created_at": "2026-04-23T19:21:21.377680+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-23-flomcp-secure-mcp-server-development-guide",
+    "title": "FloMCP 使い方｜セキュアなMCPサーバを5分で構築する",
+    "url": "https://ai.negi-lab.com/posts/flomcp-secure-mcp-server-development-guide/",
+    "category": "TOOL",
+    "viral_tags": "#MCP #FloMCP",
+    "tweet_text": "MCPサーバを自作してClaude Desktopとかに繋ぐとき、地味に怖いのがセキュリティ。プロンプトインジェクションでローカルファイルを抜かれたり、想定外のAPIを叩かれたりするリスク、実は放置されがちです。\n\nProduct Huntで見つけた「FloMCP」を試したけど、これSIer出身の自分からするとかなり刺さる。32項目のセキュリティチェックが最初から組み込まれていて、ディレクトリトラバーサル対策や入力サニタイズをデコレータ1つで自動化できる。\n\n正直、公式SDKをそのまま使うのは、鍵のない家を建てるようなもの。FloMCPなら5分で「鍵付きのバックエンド」が作れる。特にチームでMCPサーバを共有するなら、これくらい堅牢にしないと怖くて本番投入できない。\n\n実際にコードを書いて検証してみたけど、Pydanticベースのバリデーションと相性が良くて開発体験も悪くない。ただ、全部英語なのと、チェックを盛りすぎると若干のオーバーヘッドがあるのは注意点。\n\nMCP開発で「とりあえず動いた」の次を目指す人は、一度ドキュメントを読み込んでおくべきツールですね。皆さんはMCPサーバのセキュリティ、どう担保してますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-23-flomcp-secure-mcp-server-development-guide.jpg",
+    "created_at": "2026-04-23T19:22:22.433578+09:00",
+    "posted": false
   }
 ]
