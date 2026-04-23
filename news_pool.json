@@ -1,85 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Gemini Robotics ER 1.6",
-      "url": "https://www.producthunt.com/products/google",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Google's SOTA robotics model for visual & spatial reasoning! </p> <p> <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1123674?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-16T12:34:35"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Gemma4 26b & E4B are crazy good, and replaced Qwen for me!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1smh0ny/gemma4_26b_e4b_are_crazy_good_and_replaced_qwen/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-15T19:56:10+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>My pre-gemma 4 setup was as follows:</p> <p>Llama-swap, open-webui, and Claude code router on 2 RTX 3090s + 1 P40 (My third 3090 died, RIP) and 128gb of system memory</p> <p>Qwen 3.5 4B for semantic routing to the following models, with n_cpu_moe where needed:</p> <p>Qwen 3.5 30b A3B Q8XL - For general chat, basic document tasks, web search, anything huge context that didn't require reasoning. It's also hardcoded to use this model when my latest query contains &",
-      "extra": {},
-      "collected_at": "2026-04-16T12:34:37"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
-      "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 15 Apr 2026 18:33:20 +0000",
-      "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
-      "extra": {},
-      "collected_at": "2026-04-16T14:36:55"
-    },
-    {
-      "source": "Google News",
-      "title": "2026 Changzhou Artificial Intelligence Terminal Trendy Products Conference Unveils Latest Innovations - 共同通信PRワイヤー",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45UEJnRTR5SDlycUw2NUIxY3ZOVUYwZUFEX1NKWVc3UFctMHpaX3Vhb21KQ2RjREVsRlVjeFk5UFlNUmEwZWdqT1hkOWh3QWZpUHBwZlNORFFpMkE?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 16 Apr 2026 04:09:48 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE45UEJnRTR5SDlycUw2NUIxY3ZOVUYwZUFEX1NKWVc3UFctMHpaX3Vhb21KQ2RjREVsRlVjeFk5UFlNUmEwZWdqT1hkOWh3QWZpUHBwZlNORFFpMkE?oc=5\" target=\"_blank\">2026 Changzhou Artificial Intelligence Terminal Trendy Products Conference Unveils Latest Innovations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">共同通信PRワイヤー</font>",
-      "extra": {},
-      "collected_at": "2026-04-16T14:36:58"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Lexie",
-      "url": "https://www.producthunt.com/products/lexielearn",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Snap your notes and get tested before the exam </p> <p> <a href=\"https://www.producthunt.com/products/lexielearn?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101800?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-16T14:36:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I got it guys, I think I finally understand why you hate censored models",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1smm1dy/i_got_it_guys_i_think_i_finally_understand_why/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-15T23:04:51+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was trying to do an easy task automatically with qwen-code using qwen3.5-122b I can totally do it myself, but I wanted to try, so maybe it could just do it entirely for me? But no, because it refused.</p> <p>This is the whole text translated to English:</p> <blockquote> <p>Can you connect to an FTP if I give you a username/password?</p> </blockquote> <pre><code>✦ I can’t connect to FTP or any other service using credentials you provide. This goes against secur",
-      "extra": {},
-      "collected_at": "2026-04-16T14:37:00"
-    },
-    {
       "source": "The Verge AI",
       "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
       "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
@@ -3455,19 +3376,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
-      "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 22 Apr 2026 23:56:52 +0000",
-      "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
-      "extra": {},
-      "collected_at": "2026-04-23T12:32:48"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Google updates Workspace to make AI your new office intern",
       "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
       "primary_category": "NEWS",
@@ -3545,7 +3453,48 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1st11lp/forgive_my_ignorance_but_how_is_a_27b_model/\"> <img alt=\"Forgive my ignorance but how is a 27B model better than 397B?\" src=\"https://preview.redd.it/3ady5t95ntwg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b5985cd66b379be5a1affa0ad00e35b9ff81073d\" title=\"Forgive my ignorance but how is a 27B model better than 397B?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Is Qwen just incredibly good at doing dense ",
       "extra": {},
       "collected_at": "2026-04-23T12:32:54"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+      "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 23 Apr 2026 04:38:45 +0000",
+      "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+      "extra": {},
+      "collected_at": "2026-04-23T14:37:10"
+    },
+    {
+      "source": "Google News",
+      "title": "グーグル、ＡＩを収益化戦略の要に - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN24wci1WVmlrai1Camp6NWFMc0hLN20xX1QyMWVqVEwtWmFuclNreU1Jc2JrWGVkVm5kVVN1QVZkOHNNbElWTndUUHdISlZmT25xdkNaSUZQYi0tVlB1V2dDbXRzNGtibmdCZERQZUIwZGVodkE3WFJrSUp0SVZDTVE0RFAxMXN5VkhOZA?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 23 Apr 2026 02:10:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNN24wci1WVmlrai1Camp6NWFMc0hLN20xX1QyMWVqVEwtWmFuclNreU1Jc2JrWGVkVm5kVVN1QVZkOHNNbElWTndUUHdISlZmT25xdkNaSUZQYi0tVlB1V2dDbXRzNGtibmdCZERQZUIwZGVodkE3WFJrSUp0SVZDTVE0RFAxMXN5VkhOZA?oc=5\" target=\"_blank\">グーグル、ＡＩを収益化戦略の要に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "extra": {},
+      "collected_at": "2026-04-23T14:37:20"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.6 is actually useful for vibe-coding, and way cheaper than Claude",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1st3m8y/qwen_36_is_actually_useful_for_vibecoding_and_way/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-23T00:43:59+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1st3m8y/qwen_36_is_actually_useful_for_vibecoding_and_way/\"> <img alt=\"Qwen 3.6 is actually useful for vibe-coding, and way cheaper than Claude\" src=\"https://preview.redd.it/k9p4cg806uwg1.png?width=140&amp;height=41&amp;auto=webp&amp;s=95e89525215f2e34deec63ea45c01b83f99dedbf\" title=\"Qwen 3.6 is actually useful for vibe-coding, and way cheaper than Claude\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Launched claude co",
+      "extra": {},
+      "collected_at": "2026-04-23T14:37:23"
     }
   ],
-  "updated_at": "2026-04-23T12:32:54.432728+09:00"
+  "updated_at": "2026-04-23T14:37:23.369349+09:00"
 }

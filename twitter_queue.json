@@ -12377,5 +12377,19 @@
     "image_path": "/images/posts/2026-04-23-tesla-25billion-capex-ai-infrastructure-analysis.jpg",
     "created_at": "2026-04-23T12:33:36.721937+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-23-india-app-market-ai-cost-optimization-slm",
+    "title": "インドAI市場の急成長に潜む罠と低ARPU環境で勝つための技術戦略",
+    "url": "https://ai.negi-lab.com/posts/india-app-market-ai-cost-optimization-slm/",
+    "category": "NEWS",
+    "viral_tags": "#インドAI市場 #ローカルLLM",
+    "tweet_text": "インドのAIアプリ市場が急拡大しているというニュース、表面上の数字以上にエグい現実が見えてきました。ダウンロード数は世界トップクラスなのに、収益の大部分はOpenAIやGoogleなどの米プラットフォームに流出している。まさに「AIの中抜き」が起きている状態です。\n\nSIer時代にインドのチームと組んで感じたのは、彼らの異常なまでの実装スピード。でも、低ARPU（客単価）な市場でGPT-4oなんて使ってたら、API課金で一瞬で死にます。今のインドで起きているのは、いかに「グローバルなAPI依存」から脱却し、Llama 3などの軽量モデルを自前で回してコストを削るかという極限の生存競争。\n\n1トークンあたりのコストを0.01円単位で削るようなエンジニアリングは、実は今後の日本市場でも必須スキルになるはず。高価なAPIを叩くだけの「ラッパーアプリ」の時代は終わりました。独自のトークナイザー最適化やエッジ推論の構成など、実務者目線でこの「インドの罠」をどう突破すべきか深掘りしました。\n\n結局、物理サーバーを自前で持って回せるやつが一番強い。RTX 4090を2枚挿してローカルLLMを検証している身としては、この「低コスト化への執念」こそがAIの真の夜明けだと感じています。\n\n皆さんの開発現場では、APIコストと自社運用の損益分岐点、どのあたりに見積もってますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-23-india-app-market-ai-cost-optimization-slm.jpg",
+    "created_at": "2026-04-23T14:37:50.430423+09:00",
+    "posted": false
   }
 ]
