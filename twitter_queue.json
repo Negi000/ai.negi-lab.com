@@ -12587,5 +12587,33 @@
     "image_path": "/images/posts/2026-04-24-universal-gas-framework-ugf-crosschain-guide.jpg",
     "created_at": "2026-04-24T17:11:54.612269+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-24-strictlyvc-2026-san-francisco-ai-investment-trends",
+    "title": "2026年のAI投資は「サンフランシスコ」へ回帰する。StrictlyVC開催の裏にある地殻変動",
+    "url": "https://ai.negi-lab.com/posts/strictlyvc-2026-san-francisco-ai-investment-trends/",
+    "category": "NEWS",
+    "viral_tags": "#StrictlyVC #AI投資2026",
+    "tweet_text": "2026年のAI投資は、もはや「夢」を語るフェーズを終えていました。\n\n来週サンフランシスコで開催される「StrictlyVC」のチケット販売が始まりましたが、このニュースの裏にある地殻変動が凄まじい。SIer時代からAI実務を見てきた私からすると、今SFに集まるVCたちの視線は、2024年までとは全く別物です。\n\n「APIで何か作った」というスタートアップは完全に淘汰され、今は「推論コストを1/10にした」「エッジでLlama 4級を動かした」「合成データでモデルを劇的に強化した」といった、泥臭い技術的優位性が100億円単位の資金を動かしています。\n\n正直、4090を2枚挿してローカルLLMを回している私の感覚でも、今の技術革新のスピードは「実装」が「開発」を追い越している印象。投資家が求めているのは、綺麗なスライドではなく、現場のワークフローを破壊的に変える「動くエージェント」です。\n\n日本のテックシーンにいると気づきにくいですが、SFでは既に「ポストLLM」の経済圏が形になりつつあります。この差を埋めるには、私たち開発者がAPIの先にあるインフラとデータにどれだけ深く潜れるかにかかっている気がします。\n\nみなさんは今のAIプロジェクトで、1年後も「OpenAIのアップデートに怯えずに済む」自信はありますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-24-strictlyvc-2026-san-francisco-ai-investment-trends.jpg",
+    "created_at": "2026-04-24T19:23:22.819406+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-24-beezi-ai-review-structured-secure-llm-development",
+    "title": "Beezi AI AI開発のガバナンスとコストを統制する管理フレームワーク",
+    "url": "https://ai.negi-lab.com/posts/beezi-ai-review-structured-secure-llm-development/",
+    "category": "TOOL",
+    "viral_tags": "#BeeziAI #LLMOps",
+    "tweet_text": "AIエージェントを作って放置していたら、翌朝のAPI請求額を見て血の気が引いた...。そんな経験があるエンジニアは、今のうちにBeezi AIをチェックしておくべきかもしれません。\n\n元SIerエンジニアとして実務視点で触ってみましたが、これは単なる「便利ツール」ではなく、AI開発をビジネスとして成立させるための「統制OS」という印象です。OpenAIやClaudeを複数使い分けるプロジェクトで、コスト制限や構造化レスポンス、さらには個人情報の自動マスキングまでをコード数行で実装できるのは正直言って強い。\n\n特に感銘を受けたのは、Pydanticを使った構造化出力の強制力。AIの気まぐれな回答でシステムが落ちるリスクを、開発段階で物理的に排除できます。正直、プロトタイプを作るだけなら不要ですが、本番環境で「安全に・安く・堅牢に」運用したいなら、この手のガバナンス層を自前で組むのは時間の無駄。\n\n皆さんはAIのコスト管理やガードレール、どうやって実装していますか？自前でラッパーを書いていますか、それともLangSmithのような外部ツールに寄せていますか？現場のリアルな運用方法、ぜひリプライで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-24-beezi-ai-review-structured-secure-llm-development.jpg",
+    "created_at": "2026-04-24T19:26:06.646902+09:00",
+    "posted": false
   }
 ]
