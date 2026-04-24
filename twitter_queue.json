@@ -12531,5 +12531,33 @@
     "image_path": "/images/posts/2026-04-24-noscroll-ai-agent-doomscrolling-solution.jpg",
     "created_at": "2026-04-24T12:35:49.496617+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-24-openai-gpt-5-5-super-app-analysis",
+    "title": "GPT-5.5リリースで加速するAIスーパーアプリ化の実態と開発者が直面する残酷な二択",
+    "url": "https://ai.negi-lab.com/posts/openai-gpt-5-5-super-app-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#GPT55 #OpenAI",
+    "tweet_text": "OpenAIがGPT-5を飛ばして「GPT-5.5」をぶつけてきた意図がAPIドキュメントから透けて見えます。今回の本質は性能向上ではなく「AIスーパーアプリ」への昇格。\n\n注目すべきは新実装の `autonomous` モード。\nこれ、従来のFunction Callingとは別物です。モデルが信頼環境内でPythonを勝手に実行し、勝手にツールを連鎖させてタスクを完結させる。SIer時代に必死で組んでいたワークフローが、たった1行のAPIコールで消滅する感覚です。\n\n入力トークン単価は$1.25まで下がり、レスポンスは驚異の0.8秒。Claude 3.5 SonnetやGeminiを「速度と実行力」で完全に潰しにきています。\n\n正直、4090を2枚挿してローカルLLMを検証している身としても、このエコシステムの囲い込み速度には危機感を覚えます。開発者は今すぐプロンプトエンジニアリングを捨て、エージェント設計に移行すべき。\n\n皆さんの現場では、この「自律型エージェント」をどの業務から投入しますか？あるいは、まだセキュリティ懸念で様子見ですか？実務者のリアルな声を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-24-openai-gpt-5-5-super-app-analysis.jpg",
+    "created_at": "2026-04-24T14:42:53.080610+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-24-wellows-review-ai-brand-monitoring-geo",
+    "title": "Wellows 使い方と評価：AI回答内での自社ブランドの「誤解」を検出し修正する手法",
+    "url": "https://ai.negi-lab.com/posts/wellows-review-ai-brand-monitoring-geo/",
+    "category": "TOOL",
+    "viral_tags": "#Wellows #AI検索最適化",
+    "tweet_text": "SIer時代、システムリリース後のエゴサはSNSが主戦場でした。でも今は違う。ユーザーは「Google検索」すら飛ばして、ChatGPTやPerplexityに直接評判を聞く時代。ここで自社製品が「バグが多い」「価格が高い」とAIにハルシネーション（幻覚）で語られていたら？これ、従来のSEOツールでは1ミリも検知できません。\n\n今回検証した「Wellows」は、主要なLLMが自社ブランドをどう語っているかを横断的に監視し、誤情報を特定するAI時代の広報・マーケツールです。実際に触ってみて驚いたのは、AIが誤解した原因となる「ソースURL」まで推定してくれる点。ここを修正すれば、AI検索（GEO）での評価をコントロールできる。\n\n月額$50〜の投資で、AIによるサイレントなブランド毀損を防げるなら安いものです。ただ、正直まだブランドが確立されていない初期スタートアップには不要。逆に、B2B SaaSや指名検索が多いサービスの担当者は、今すぐ自社名で「AI監査」をかけるべき。\n\nAIに「自社の正解」を教え込むGEO対策、皆さんのチームではもう始めていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-24-wellows-review-ai-brand-monitoring-geo.jpg",
+    "created_at": "2026-04-24T14:44:19.544105+09:00",
+    "posted": false
   }
 ]
