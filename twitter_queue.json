@@ -12559,5 +12559,33 @@
     "image_path": "/images/posts/2026-04-24-wellows-review-ai-brand-monitoring-geo.jpg",
     "created_at": "2026-04-24T14:44:19.544105+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-24-era-computer-ai-gadget-os-platform-funding",
+    "title": "AIガジェット専用OSの覇権を狙うEraが1100万ドル調達。ポストスマホ時代の開発環境はこう変わる",
+    "url": "https://ai.negi-lab.com/posts/era-computer-ai-gadget-os-platform-funding/",
+    "category": "NEWS",
+    "viral_tags": "#EraAI #AmbientComputing",
+    "tweet_text": "AIガジェット戦国時代に、ついに「本命」のインフラ候補が現れました。元Apple・Googleの精鋭チームEraが、AIハードウェア専用OS構築のために1100万ドルを調達。\n\nRabbit R1やHumaneの失敗から学べるのは、結局「ソフトウェアがゴミだとハードも死ぬ」という残酷な事実です。Androidを無理やり積んでモッサリ動く時代はもう終わり。Eraが狙うのは、メガネや指輪を跨いでユーザーの「意図」を理解するOSレイヤー。\n\nSIer時代にデバイス制御で苦労した身からすると、この「ハードウェアの抽象化」こそが開発者が切望していたもの。特定のデバイスに縛られず、共通APIでAI体験を作れるなら、開発コストは劇的に下がります。\n\nまさにポストスマホ時代のAndroid。これからの主戦場はスペックではなく、どれだけ生活に溶け込めるかの「インターフェース競争」になります。皆さんは、スマホを捨ててスマートグラスや指輪に乗り換える準備、できていますか？個人的には、このOSが普及すれば、AIエージェントが私たちの「五感」を拡張する本当の意味でのパーソナルコンピュータが完成すると期待しています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-24-era-computer-ai-gadget-os-platform-funding.jpg",
+    "created_at": "2026-04-24T17:10:32.337599+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-24-universal-gas-framework-ugf-crosschain-guide",
+    "title": "Universal Gas Framework (UGF) 使い方と実務レビュー",
+    "url": "https://ai.negi-lab.com/posts/universal-gas-framework-ugf-crosschain-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Web3Development #UniversalGasFramework",
+    "tweet_text": "クロスチェーン開発の「ガス代管理」という苦行からようやく解放されそうです。Universal Gas Framework (UGF) を触ってみましたが、これまでのブリッジの概念を過去のものにする破壊力がありますね。\n\nSIer時代に何百行も書いていた複雑なトランザクション制御が、Pythonから数行の「Intent」を投げるだけで完結する時代。特に「ArbitrumのUSDCでBaseのNFTを買う」といった操作を、中間のブリッジ処理を意識せずに実装できるのは革命的です。\n\nRTX 4090を回して自律型AIエージェントを作っている身としては、エージェントに各チェーンのガス代を持たせなくて済むのが最大のメリット。流動性（Liquidity）ではなくアクションをルーティングするという思想、これこそがAIエージェント時代のインフラだと感じます。\n\nただ、ソルバーに依存する部分の透明性や、直接ブリッジする際と比較した手数料の微増は気になるポイント。メインネット投入前にテストネットでの徹底的な検証は必須ですが、開発工数を1/10に削れるメリットは無視できません。\n\nマルチチェーン対応のdAppやAIエージェントを開発している方、現在のガス代管理はどうされていますか？この手の抽象化レイヤーの導入、そろそろ検討時期かもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-24-universal-gas-framework-ugf-crosschain-guide.jpg",
+    "created_at": "2026-04-24T17:11:54.612269+09:00",
+    "posted": false
   }
 ]
