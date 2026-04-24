@@ -1,153 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 17 Apr 2026 15:00:00 +0000",
-      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
-      "extra": {},
-      "collected_at": "2026-04-18T00:39:59"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "We reproduced Anthropic's Mythos findings with public models",
-      "url": "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 17 Apr 2026 14:09:32 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-18T00:40:09"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "gridland",
-      "url": "https://www.producthunt.com/products/gridland",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> React apps that render in the terminal and browser </p> <p> <a href=\"https://www.producthunt.com/products/gridland?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125700?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T00:40:10"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Melo",
-      "url": "https://www.producthunt.com/products/melo-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> One canvas for all your work </p> <p> <a href=\"https://www.producthunt.com/products/melo-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125527?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T00:40:10"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen 3.6 is the first local model that actually feels worth the effort for me",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1so2nt9/qwen_36_is_the_first_local_model_that_actually/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-17T14:30:08+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I spent some time yesterday after work trying out the new qwen3.6-35b-a3b model, and at least for me it's the first time that I actually felt that a local model wasn't more of a pain to use than it was worth.</p> <p>I've been using LLMs in my personal/throwaway projects for a few months, for the kind of code that I don't feel any passion writing (most UI XML in Avalonia, embedded systems C++), and I used to have Sonet and Opus for free thanks to Github's student",
-      "extra": {},
-      "collected_at": "2026-04-18T00:40:13"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Are we tokenmaxxing our way to nowhere?",
-      "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Fri, 17 Apr 2026 13:00:00 +0000",
-      "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is&#160;too powerful to release publicly&#160;&#8230;but&#160;apparently not&#160;too [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-18T02:50:06"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Claude Opus 4.7 costs 20–30% more per session",
-      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 17 Apr 2026 15:29:36 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-18T02:50:08"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "The Fabricant Intelligent Tools",
-      "url": "https://www.producthunt.com/products/the-fabricant-intelligent-tools",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The AI-powered design suite that lets anyone design fashion </p> <p> <a href=\"https://www.producthunt.com/products/the-fabricant-intelligent-tools?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125460?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T02:50:10"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Hacktron",
-      "url": "https://www.producthunt.com/products/hacktron",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your AI security engineer. Ship fast while staying secure. </p> <p> <a href=\"https://www.producthunt.com/products/hacktron?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125827?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T02:50:10"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.6 GGUF Benchmarks",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1so5nrl/qwen36_gguf_benchmarks/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-17T16:17:50+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1so5nrl/qwen36_gguf_benchmarks/\"> <img alt=\"Qwen3.6 GGUF Benchmarks\" src=\"https://preview.redd.it/nwn0vxdgzrvg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=292c384907b1355aa8ba2516bb60737cfe244971\" title=\"Qwen3.6 GGUF Benchmarks\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey guys, we ran Qwen3.6-35B-A3B GGUF KLD performance benchmarks to help you choose the best quant.</p> <p><strong>Unsloth quants have the bes",
-      "extra": {},
-      "collected_at": "2026-04-18T02:50:13"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.6 is incredible with OpenCode!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1so3rsx/qwen36_is_incredible_with_opencode/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-17T15:10:17+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've tried a few different local models in the past (gemma 4 being the latest), but none of them felt as good as this. (Or maybe I just didn't give them a proper chance, you guys let me know). But this genuinely feels like a model I could daily drive for certain tasks instead of reaching for Claude Code.</p> <p>I gave it a fairly complex task of implementing RLS in postgres across a large-ish codebase with multiple services written in rust, typescript and python",
-      "extra": {},
-      "collected_at": "2026-04-18T02:50:13"
-    },
-    {
       "source": "Product Hunt",
       "title": "AI Mode in Chrome",
       "url": "https://www.producthunt.com/products/ai-mode-in-chrome",
@@ -3330,19 +3183,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Spira AI",
-      "url": "https://www.producthunt.com/products/spira-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI Influencer that always on trend, create & grow your brand </p> <p> <a href=\"https://www.producthunt.com/products/spira-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130495?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-24T19:21:31"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Yutori Delegate",
       "url": "https://www.producthunt.com/products/scouts-by-yutori",
       "primary_category": "TOOL",
@@ -3514,7 +3354,124 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sub71w/ds4flash_vs_qwen36/\"> <img alt=\"DS4-Flash vs Qwen3.6\" src=\"https://preview.redd.it/bg8nrvxy14xg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aafc53f41d59620da5cf78d0fff2fcad4a009ad5\" title=\"DS4-Flash vs Qwen3.6\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/flavio_geo\"> /u/flavio_geo </a> <br /> <span><a href=\"https://i.redd.it/bg8nrvxy14xg1.png\">[link]</a></span> &#32; <span><a ",
       "extra": {},
       "collected_at": "2026-04-24T22:48:12"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+      "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 24 Apr 2026 17:45:57 +0000",
+      "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,&#160;handing the reins to hardware chief John Ternus.&#160;&#160; Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;also stepping into&#160;a very different&#160;ecosystem than the one Cook spent decades shaping. The App [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-25T02:51:06"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+      "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 24 Apr 2026 16:42:19 +0000",
+      "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+      "extra": {},
+      "collected_at": "2026-04-25T02:51:06"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+      "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 24 Apr 2026 14:00:00 +0000",
+      "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss operating at scale in the age of AI.",
+      "extra": {},
+      "collected_at": "2026-04-25T02:51:06"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
+      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 24 Apr 2026 15:59:19 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-25T02:51:09"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Codex 3.0 by OpenAI",
+      "url": "https://www.producthunt.com/products/codex-3-0-by-openai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Codex can now build, test & debug on autopilot </p> <p> <a href=\"https://www.producthunt.com/products/codex-3-0-by-openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130897?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-25T02:51:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Nordcraft 2.0",
+      "url": "https://www.producthunt.com/products/toddle",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> I design agent with full HTML/CSS control and SSR </p> <p> <a href=\"https://www.producthunt.com/products/toddle?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130580?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-25T02:51:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "LifeOS",
+      "url": "https://www.producthunt.com/products/lifeos-6",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn your AI chats/memory to intros with real humans </p> <p> <a href=\"https://www.producthunt.com/products/lifeos-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130787?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-25T02:51:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "BAND",
+      "url": "https://www.producthunt.com/products/band",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Coordinate and govern multi-agent work in a single chat </p> <p> <a href=\"https://www.producthunt.com/products/band?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1123814?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-25T02:51:10"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma 4 and Qwen 3.6 with q8_0 and q4_0 KV cache: KL divergence results",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1suh3sz/gemma_4_and_qwen_36_with_q8_0_and_q4_0_kv_cache/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-24T14:19:48+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1suh3sz/gemma_4_and_qwen_36_with_q8_0_and_q4_0_kv_cache/\"> <img alt=\"Gemma 4 and Qwen 3.6 with q8_0 and q4_0 KV cache: KL divergence results\" src=\"https://external-preview.redd.it/oXOAzH-GuUH6lKRA1Z8km-PqYbiOV2-uOmofUyAE5d0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e412cf59a96fad1731859d4dc85b72f3a93380b0\" title=\"Gemma 4 and Qwen 3.6 with q8_0 and q4_0 KV cache: KL divergence results\" /> </a> </td><td> &#32; submitted",
+      "extra": {},
+      "collected_at": "2026-04-25T02:51:13"
     }
   ],
-  "updated_at": "2026-04-24T22:48:12.255003+09:00"
+  "updated_at": "2026-04-25T02:51:13.268094+09:00"
 }
