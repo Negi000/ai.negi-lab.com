@@ -12643,5 +12643,19 @@
     "image_path": "/images/posts/2026-04-25-apple-new-ceo-ternus-cursor-musk-acquisition-ai-coding.jpg",
     "created_at": "2026-04-25T02:52:21.004486+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-25-meta-poaching-thinking-machines-llama-reasoning",
+    "title": "Metaが推論特化AIの開発加速へ。Thinking Machinesとの人材争奪戦が示すLlama 4の進化",
+    "url": "https://ai.negi-lab.com/posts/meta-poaching-thinking-machines-llama-reasoning/",
+    "category": "NEWS",
+    "viral_tags": "#MetaAI #Llama4",
+    "tweet_text": "Metaが推論特化AIスタートアップ「Thinking Machines」からキーマンを次々と引き抜いているというニュース。これ、単なる人材争奪戦じゃないですよ。LLMの戦場が「次トークン予測」から「思考プロセス（Reasoning）」へ完全に移った証拠です。\n\nMetaの狙いは間違いなくLlama 4への推論エンジン実装。OpenAI o1のような「考えながら解く」能力を、OSSとして私たちのローカル環境に落とし込もうとしています。SIer時代、たった1人のアーキテクトがプロジェクトの運命を変えるのを何度も見ましたが、今のMetaはまさにその「勝負手」に出ています。\n\n正直、o1の性能には驚かされましたが、ブラックボックスなのは開発者として使いにくい。Metaがこの技術を民主化してくれれば、RTX 4090でo1級の推論を回せる未来がすぐそこに来ます。APIの課金に怯える日々が終わるかもしれない。\n\n皆さんは、AIの回答を「APIで安く買う」派ですか？それとも「自前GPUで自由に回す」派ですか？私は断然後者なので、この動きは大歓迎です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-25-meta-poaching-thinking-machines-llama-reasoning.jpg",
+    "created_at": "2026-04-25T06:56:38.966508+09:00",
+    "posted": false
   }
 ]

@@ -2,72 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "AI Mode in Chrome",
-      "url": "https://www.producthunt.com/products/ai-mode-in-chrome",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Browse and search side-by-side, without switching tabs </p> <p> <a href=\"https://www.producthunt.com/products/ai-mode-in-chrome?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125518?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T06:55:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Cloudflare Email Service",
-      "url": "https://www.producthunt.com/products/cloudflare",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn any email inbox into a native interface for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125410?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T06:55:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "CalendarPipe",
-      "url": "https://www.producthunt.com/products/calendarpipe",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Programmable calendar sync for humans and AI agents </p> <p> <a href=\"https://www.producthunt.com/products/calendarpipe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125151?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T06:55:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Build Check (for Outsiders)",
-      "url": "https://www.producthunt.com/products/build-check-for-outsiders",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Is your app idea actually worth building? </p> <p> <a href=\"https://www.producthunt.com/products/build-check-for-outsiders?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1118208?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T06:55:46"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen 3.6 35B crushes Gemma 4 26B on my tests",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1soc98n/qwen_36_35b_crushes_gemma_4_26b_on_my_tests/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-17T20:15:21+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have a personal eval harness: A repo with around 30k lines of code that has 37 intentional issues for LLMs to debug and address through an agentic setup (I use OpenCode)</p> <p>A subset of the harness also has the LLM extract key information from reasonably large PDFs (40-60 pages), summarize and evaluate its findings.</p> <p>Long story short: The harness tests the following LLM attributes: - Agentic capabilities - Coding - Image-to-text synthesis - Instructio",
-      "extra": {},
-      "collected_at": "2026-04-18T06:55:49"
-    },
-    {
-      "source": "Product Hunt",
       "title": "DASCA",
       "url": "https://www.producthunt.com/products/dasca",
       "primary_category": "TOOL",
@@ -3357,19 +3291,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
-      "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Fri, 24 Apr 2026 17:45:57 +0000",
-      "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,&#160;handing the reins to hardware chief John Ternus.&#160;&#160; Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;also stepping into&#160;a very different&#160;ecosystem than the one Cook spent decades shaping. The App [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-25T02:51:06"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
       "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
       "primary_category": "NEWS",
@@ -3471,7 +3392,111 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1suh3sz/gemma_4_and_qwen_36_with_q8_0_and_q4_0_kv_cache/\"> <img alt=\"Gemma 4 and Qwen 3.6 with q8_0 and q4_0 KV cache: KL divergence results\" src=\"https://external-preview.redd.it/oXOAzH-GuUH6lKRA1Z8km-PqYbiOV2-uOmofUyAE5d0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e412cf59a96fad1731859d4dc85b72f3a93380b0\" title=\"Gemma 4 and Qwen 3.6 with q8_0 and q4_0 KV cache: KL divergence results\" /> </a> </td><td> &#32; submitted",
       "extra": {},
       "collected_at": "2026-04-25T02:51:13"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta’s loss is Thinking Machines’ gain",
+      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 24 Apr 2026 20:52:07 +0000",
+      "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+      "extra": {},
+      "collected_at": "2026-04-25T06:56:00"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 24 Apr 2026 19:49:35 +0000",
+      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+      "extra": {},
+      "collected_at": "2026-04-25T06:56:00"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 24 Apr 2026 18:00:03 +0000",
+      "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+      "extra": {},
+      "collected_at": "2026-04-25T06:56:00"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 24 Apr 2026 18:23:32 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-25T06:56:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ask Product Hunt AI",
+      "url": "https://www.producthunt.com/products/producthunt",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Find the right product, just ask </p> <p> <a href=\"https://www.producthunt.com/products/producthunt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1129378?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-25T06:56:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Emotional intelligence AI for live calls",
+      "url": "https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Emotional intelligence AI for live sales calls </p> <p> <a href=\"https://www.producthunt.com/products/emotional-intelligence-ai-for-live-calls?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1120877?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-25T06:56:05"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "This is where we are right now, LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1suqfba/this_is_where_we_are_right_now_localllama/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-24T19:58:25+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1suqfba/this_is_where_we_are_right_now_localllama/\"> <img alt=\"This is where we are right now, LocalLLaMA\" src=\"https://preview.redd.it/44f42a2n17xg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=80f5fbe21f2ffbd09efd33d13aeb1f61a1e7cc42\" title=\"This is where we are right now, LocalLLaMA\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>the future is now</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://",
+      "extra": {},
+      "collected_at": "2026-04-25T06:56:06"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Deepseek V4 AGI comfirmed",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1suolda/deepseek_v4_agi_comfirmed/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-24T18:50:27+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1suolda/deepseek_v4_agi_comfirmed/\"> <img alt=\"Deepseek V4 AGI comfirmed\" src=\"https://preview.redd.it/wex0qwlpp6xg1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ff7d0b6acff3b01aa608d9e6fbcbcec11ad981ee\" title=\"Deepseek V4 AGI comfirmed\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Swimming-Sky-7025\"> /u/Swimming-Sky-7025 </a> <br /> <span><a href=\"https://i.redd.it/wex0qwlpp6xg1.jpeg\">",
+      "extra": {},
+      "collected_at": "2026-04-25T06:56:06"
     }
   ],
-  "updated_at": "2026-04-25T02:51:13.268094+09:00"
+  "updated_at": "2026-04-25T06:56:06.937475+09:00"
 }
