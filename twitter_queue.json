@@ -12769,5 +12769,33 @@
     "image_path": "/images/posts/2026-04-25-nous-hermes-2-ollama-agent-tutorial.jpg",
     "created_at": "2026-04-25T22:17:43.334876+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-26-inro-ai-instagram-dm-automation-review",
+    "title": "Inrō AI 使い方：Instagram DM自動化のプロ視点レビュー",
+    "url": "https://ai.negi-lab.com/posts/inro-ai-instagram-dm-automation-review/",
+    "category": "TOOL",
+    "viral_tags": "#InstagramMarketing #AIエージェント",
+    "tweet_text": "SIer時代、InstagramのDM自動化を自前で組もうとしてMeta APIの仕様書と数週間格闘した経験がある私からすると、Inrō AIの登場は正直「あの苦労は何だったのか」と脱力するレベルです。\n\nこれまでのボットは「特定の単語に反応するだけ」の置物でしたが、これはLLMが文脈を読んで接客する本物のエージェント。特にD2Cブランドで深夜の問い合わせを取りこぼしている層には劇的な変化をもたらします。\n\n実際に触ってみて驚いたのは、複雑なWebhook処理をすべて隠蔽しつつ、開発者がプロンプトで挙動を細かく制御できる柔軟性。単なる自動返信ツールではなく、コンバージョンを最大化するための「24時間働く営業マン」を雇う感覚に近いです。\n\n正直、英語ドキュメントメインという壁はありますが、Pythonが少し書ければSDK経由で既存システムとの連携も難しくありません。APIの重厚なボイラープレートコードを自分で書く時代は終わったと感じますね。\n\nInstagramを本気でビジネスに使っている人で、いまだに手動で返信しているなら、このツールで浮いた時間を戦略立案に充てるべき。皆さんの現場では、DM対応の自動化でどんな課題が一番ネックになっていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-26-inro-ai-instagram-dm-automation-review.jpg",
+    "created_at": "2026-04-26T00:23:33.694798+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-26-localllama-reddit-api-filter-tutorial",
+    "title": "r/LocalLLaMA 活用術！最新AI情報を自動収集するフィルター実装ガイド",
+    "url": "https://ai.negi-lab.com/posts/localllama-reddit-api-filter-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLaMA #Python",
+    "tweet_text": "r/LocalLLaMA の週100万人突破＆ルール厳格化。これ、情報収集のやり方を変えるチャンスですね。\n\nSIer時代、毎朝手動で技術ニュースを漁っていましたが、今の時代は「LLMに一次情報を検閲させる」のが正解。Reddit APIとGPT-4o-miniを組み合わせて、ノイズだらけの掲示板から実務で使えるベンチマークや新手法だけを抽出するフィルターを実装しました。\n\n正直、ミームや初歩的な質問を全部手動で弾くのは限界があります。Reddit側も「質の維持」に苦労している今だからこそ、自分専用の「技術査読AI」をコードで組むメリットは大きい。\n\n「100万人が訪れる場所」には、必ず宝とゴミが混在します。その比率が変わったなら、こちらの抽出ロジックもアップデートすべき。\n\nPythonで30分もあれば動くものが作れます。APIキーの扱いから、LLMに技術的価値を判定させるプロンプトのコツまで具体的にまとめました。\n\n皆さんはRedditの情報、どうやってフィルタリングしてますか？「Hot」ソートだけで満足してると、本当に重要な論文実装を見逃してるかもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-26-localllama-reddit-api-filter-tutorial.jpg",
+    "created_at": "2026-04-26T00:24:46.481665+09:00",
+    "posted": false
   }
 ]
