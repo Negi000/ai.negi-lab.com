@@ -12741,5 +12741,33 @@
     "image_path": "/images/posts/2026-04-25-zerohuman-ai-cofounder-openclaw-review.jpg",
     "created_at": "2026-04-25T18:55:03.257581+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-25-xchat-secure-messaging-review-guide",
+    "title": "XChat レビューとエンドツーエンド暗号化通信の実装方法",
+    "url": "https://ai.negi-lab.com/posts/xchat-secure-messaging-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#XChat #セキュリティ",
+    "tweet_text": "Xから独立したメッセージアプリ「XChat」を触ってみましたが、これは単なる「軽量版DM」ではありませんね。\n\nSIer的な視点で見ると、Signalプロトコル準拠のE2EEをXのID基盤に載せてきた点が非常に面白い。従来のDMは「プラットフォーム側に見られている」という前提で使う必要がありましたが、XChatはデバイス間での鍵交換を標準化しようとしています。\n\n実際に触って驚いたのは、そのレスポンス速度。iPhone 15 Proでの計測で、メッセージ画面への遷移が0.6秒。従来のXアプリがいかに重厚長大だったかを痛感します。\n\nただ、エンジニアとして気になるのはソースの非公開性。暗号化を謳うならSignalのようにプロトコルを完全公開してほしいところですが、利便性とのトレードオフでしょうか。\n\n実務で使うなら、CI/CDの異常通知や、自宅サーバーのメトリクス送信先として「既存のXアカウントで即始められるセキュアな窓口」としての価値がありますね。RTX 4090の監視ログを平文のSNSに流すのは抵抗がありますが、これなら「あり」かもしれません。\n\n皆さんはSNSのDMでの機密保持、どうしてますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-25-xchat-secure-messaging-review-guide.jpg",
+    "created_at": "2026-04-25T22:16:17.599550+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-25-nous-hermes-2-ollama-agent-tutorial",
+    "title": "Nous Hermes 2とOllamaで自律型エージェントの基礎を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/nous-hermes-2-ollama-agent-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLM #NousResearch",
+    "tweet_text": "ローカルLLMを「動かして終わり」にするのはもう卒業しませんか。\n\nNous ResearchのAMAが話題ですが、彼らの作る「Nous Hermes 2」はオープンソース界隈では頭一つ抜けた存在です。特に指示追従性と関数呼び出し（Function Calling）の精度が凄まじい。SIer時代、複雑な条件分岐を力技で実装していた苦労を思うと、これがローカルで、しかも無料のモデルで動く時代になったことに震えます。\n\n今回はOllamaを使って、わずか30分で「外部ツールを自律的に呼び出すエージェント」を作るガイドを書きました。Llama 3純正モデルでありがちな「余計な一言」に悩まされている人こそ、Hermesの潔さを体感してほしい。RTX 4090を2枚挿して日々検証していますが、このモデルは「仕事で使える」数少ない選択肢の一つです。\n\n皆さんはローカルLLMをどのような業務（あるいは趣味）に活用していますか？特定のフォーマットで返してくれない時の対策など、皆さんの秘伝のプロンプトもぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-25-nous-hermes-2-ollama-agent-tutorial.jpg",
+    "created_at": "2026-04-25T22:17:43.334876+09:00",
+    "posted": false
   }
 ]
