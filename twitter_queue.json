@@ -12657,5 +12657,19 @@
     "image_path": "/images/posts/2026-04-25-meta-poaching-thinking-machines-llama-reasoning.jpg",
     "created_at": "2026-04-25T06:56:38.966508+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-25-comfyui-500m-valuation-node-based-ai-future",
+    "title": "ComfyUIが評価額5億ドル到達。プロが「使いにくいノードベース」を熱狂的に支持する技術的背景",
+    "url": "https://ai.negi-lab.com/posts/comfyui-500m-valuation-node-based-ai-future/",
+    "category": "NEWS",
+    "viral_tags": "#ComfyUI #生成AI",
+    "tweet_text": "画像生成AI界隈に衝撃。ComfyUIが評価額5億ドルで3000万ドルを調達。\n\nこれ、単なる「便利なツールへの投資」じゃない。AI生成を「ガチャ」から「精密なエンジニアリング」へ変える動きが完全に資本に認められた証拠。\n元SIerの視点で見ると、ComfyUIの凄さは「実行エンジンの徹底的な抽象化」にある。ノードベースの非破壊ワークフローと、VRAMの徹底した管理。12GBのGPUでもSDXLやFLUXを平気で回せる効率性は、他のUIとは比較にならない。\n\nMidjourneyのような「誰でも簡単」な方向とは逆に、あえて「学習コストは高いが自由度が無限」なツールが選ばれた。企業の制作パイプラインに組み込むなら、JSONで完全に再現性を担保できるComfyUI一択なのは自明。\n\n4090を2枚挿して日々検証してるけど、最新論文の実装が数時間でカスタムノードとして流れてくるエコシステムの速度は異常。\nもはやこれはUIではなく「AI時代のOS」になりつつある。\n皆さんの現場では、まだWebUI(A1111)ですか？それともComfyUIに移行しました？正直な移行の壁とか、使い勝手の不満も知りたい。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-25-comfyui-500m-valuation-node-based-ai-future.jpg",
+    "created_at": "2026-04-25T12:20:11.069438+09:00",
+    "posted": false
   }
 ]
