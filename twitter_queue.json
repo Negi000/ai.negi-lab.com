@@ -12797,5 +12797,19 @@
     "image_path": "/images/posts/2026-04-26-localllama-reddit-api-filter-tutorial.jpg",
     "created_at": "2026-04-26T00:24:46.481665+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-26-openai-altman-apology-safety-governance-failure",
+    "title": "OpenAIサム・アルトマン謝罪の深層｜銃乱射事件の兆候を見逃したAI安全性の致命的バグ",
+    "url": "https://ai.negi-lab.com/posts/openai-altman-apology-safety-governance-failure/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #AISafety",
+    "tweet_text": "OpenAIのサム・アルトマンがカナダの銃乱射事件に関連して公式に謝罪しました。このニュース、単なる不手際として片付けるにはあまりに重すぎます。\n\n事件の容疑者がChatGPTなどのサービスを利用していた際、OpenAI側でその危険性を事前に察知し、警察にアラートを飛ばす仕組みが機能していなかったことが露呈。これまでの「不適切な回答をさせない」という静的な安全策から、現実世界の惨劇を防ぐための「動的な介入」へ、AI企業に求められる基準が一段階引き上げられました。\n\nSIer時代、セキュリティ要件定義で散々「責任界界点」を議論しましたが、AIの時代にはその境界線が溶け始めています。APIを使っている開発者側も「OpenAIがモデレーションしてるから安心」という他力本願はもう通用しません。\n\n自分のアプリで「明日の予告」が入力されたとき、システムはどう動くべきか。ログを吐いて終わりか、それとも管理者に即時通知し警察と連携するか。実装レベルでのガバナンスが問われています。\n\n皆さんのサービスでは、重大な脅威検知時のエスカレーションフロー、どう設計していますか？プライバシーとの兼ね合いも含めて、実務的な落とし所を議論したいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-26-openai-altman-apology-safety-governance-failure.jpg",
+    "created_at": "2026-04-26T02:38:26.172663+09:00",
+    "posted": false
   }
 ]

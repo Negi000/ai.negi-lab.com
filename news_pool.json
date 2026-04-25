@@ -2,45 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Claude Code Opus 4.7 keeps checking on malware",
-      "url": "https://news.ycombinator.com/item?id=47814832",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 18 Apr 2026 10:46:17 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-19T02:37:02"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "KIMI K2.6 SOON !!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sp10oa/kimi_k26_soon/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-18T15:41:57+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sp10oa/kimi_k26_soon/\"> <img alt=\"KIMI K2.6 SOON !!\" src=\"https://preview.redd.it/ee8dgfvgyyvg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7dcab146b6fd38fd5371793c475234df4f72c155\" title=\"KIMI K2.6 SOON !!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Namra_7\"> /u/Namra_7 </a> <br /> <span><a href=\"https://i.redd.it/ee8dgfvgyyvg1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://w",
-      "extra": {},
-      "collected_at": "2026-04-19T02:37:06"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.6-35B-A3B-Uncensored-Wasserstein-GGUF",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sp2l72/qwen3635ba3buncensoredwassersteingguf/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-18T16:42:34+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone. Finally I found a way to fix <em>ssm_conv1d</em> tensor drift in quantized GGUF models via <a href=\"https://en.wikipedia.org/wiki/Wasserstein_metric\">Wasserstein metric (W1).</a> It's a lot better than Kullback Leibler for detecting numerical instability and drift in tensors.</p> <p>All three are <code>ssm_conv1d.weight</code> layers – recurrent state transition layers responsible for long‑context memory. It appears the Qwen team may not be aware",
-      "extra": {},
-      "collected_at": "2026-04-19T02:37:06"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Thoughts and feelings around Claude Design",
       "url": "https://samhenri.gold/blog/20260418-claude-design/",
       "primary_category": "NEWS",
@@ -2618,21 +2579,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "r/LocalLLaMa Rule Updates",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1su3ao4/rlocalllama_rule_updates/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-24T02:46:24+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1su3ao4/rlocalllama_rule_updates/\"> <img alt=\"r/LocalLLaMa Rule Updates\" src=\"https://preview.redd.it/izd15089x1xg1.png?width=140&amp;height=78&amp;auto=webp&amp;s=3103cde3bacdfecd32836a07bd17326c063cef66\" title=\"r/LocalLLaMa Rule Updates\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>As the sub has grown (and as AI based tools have gotten better) with <em>over 1M weekly visitors</em>, we've seen a marked increase in sl",
-      "extra": {},
-      "collected_at": "2026-04-24T12:35:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "DeepSeek V4 Flash & Pro Now out on API",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1su3fle/deepseek_v4_flash_pro_now_out_on_api/",
       "primary_category": "GUIDE",
@@ -3271,19 +3217,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Inrō AI",
-      "url": "https://www.producthunt.com/products/inro",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your AI Agent for Instagram Marketing </p> <p> <a href=\"https://www.producthunt.com/products/inro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1129227?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-25T16:22:29"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Euphony",
       "url": "https://www.producthunt.com/products/euphony-2",
       "primary_category": "TOOL",
@@ -3465,7 +3398,73 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Qwen3.6-27B is out for a few days and the NVFP4 with MTP is dropped earlier on HF: <a href=\"https://huggingface.co/sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP\">https://huggingface.co/sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP</a></p> <p>Can follow the same recipe I used for Qwen3.5-27B to achieve ~80 tps on a single RTX 5090 at 218k context window via latest vllm 0.19 builds (vLLM 0.19.1rc1)</p> <p><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sr8gyf/qwen352",
       "extra": {},
       "collected_at": "2026-04-26T00:23:01"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 25 Apr 2026 17:17:56 +0000",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "extra": {},
+      "collected_at": "2026-04-26T02:37:28"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 25 Apr 2026 16:00:00 +0000",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+      "extra": {},
+      "collected_at": "2026-04-26T02:37:28"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "GPT 5.5 biosafety bounty",
+      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 25 Apr 2026 14:17:31 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-26T02:37:36"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Clawdi",
+      "url": "https://www.producthunt.com/products/clawdi",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Best home for all AI agents </p> <p> <a href=\"https://www.producthunt.com/products/clawdi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1128941?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-26T02:37:38"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Decreased Intelligence Density in DeepSeek V4 Pro",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svbmnc/decreased_intelligence_density_in_deepseek_v4_pro/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-25T13:02:55+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svbmnc/decreased_intelligence_density_in_deepseek_v4_pro/\"> <img alt=\"Decreased Intelligence Density in DeepSeek V4 Pro\" src=\"https://preview.redd.it/a6ix6ztc1cxg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=da064524f38a42317ebae7381f27ad16359f71fa\" title=\"Decreased Intelligence Density in DeepSeek V4 Pro\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>In the <code>V3.2</code> paper, they mentioned:</p> <blockquote",
+      "extra": {},
+      "collected_at": "2026-04-26T02:37:41"
     }
   ],
-  "updated_at": "2026-04-26T00:23:01.678604+09:00"
+  "updated_at": "2026-04-26T02:37:41.288113+09:00"
 }
