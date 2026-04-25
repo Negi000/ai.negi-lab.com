@@ -12685,5 +12685,33 @@
     "image_path": "/images/posts/2026-04-25-google-anthropic-investment-mythos-model-analysis.jpg",
     "created_at": "2026-04-25T14:21:42.467869+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-25-mac-mini-shortage-ai-local-inference-reason",
+    "title": "Mac miniがeBayで高騰する異常事態：AIエンジニアがNVIDIAではなくApple Siliconを買い占める理由",
+    "url": "https://ai.negi-lab.com/posts/mac-mini-shortage-ai-local-inference-reason/",
+    "category": "NEWS",
+    "viral_tags": "#Macmini #ローカルLLM",
+    "tweet_text": "Mac miniがeBayで定価超えの「転売祭り」になっている現象、これ単なる在庫不足じゃない。\n\n背景にあるのはAI実務者による「ローカル推論サーバー」としての買い占め。RTX 4090を2枚積んで60万円かけるより、ユニファイドメモリを積んだMac miniで70Bモデルを動かす方が、電気代も騒音もコストも圧倒的に抑えられる事実にみんな気づき始めた。\n\nSIer時代、サーバー調達で数ヶ月待たされるのはザラだったけど、まさかAppleのコンシューマー機がインフラの主役になるとは...。M4 Proモデルのメモリ帯域273GB/sは、もはや「手のひらサイズのA100」と言っても過言じゃない。\n\n個人的には、NVIDIAがコンシューマー向けVRAM容量をケチり続けている間に、Appleが「広帯域VRAMの民主化」を奪い取った形に見える。部屋が暑くならない、無音で大規模モデルが動く快適さを知ると、もう爆音の自作PCには戻れない。\n\nこれ、実際職場でMac miniをAIサーバー化してる人いますか？推論速度（token/s）の体感や、実用性についてぶっちゃけた意見が聞きたい。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-25-mac-mini-shortage-ai-local-inference-reason.jpg",
+    "created_at": "2026-04-25T16:24:05.554567+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-25-gemini-personal-intelligence-google-apps-review",
+    "title": "Gemini Personal Intelligence 使い方とGoogleアプリ連携による業務効率化の実態",
+    "url": "https://ai.negi-lab.com/posts/gemini-personal-intelligence-google-apps-review/",
+    "category": "TOOL",
+    "viral_tags": "#GeminiAI #GoogleWorkspace",
+    "tweet_text": "SIer時代にこれがあったら、膨大なExcel仕様書と格闘する日々は終わっていたかもしれません。Google公式のGemini Personal Intelligenceを実務目線で徹底レビューしました。\n\n結局のところ、僕たちエンジニアが一番時間を溶かしているのは「検索」なんですよね。あの時のメール、あのフォルダのPDF…それらを探す手間をAIが肩代わりしてくれる衝撃。自前でLangChain+ベクトルDBを組むのが趣味だった私も、この「爆速かつ設定ゼロ」の体験には降参です。\n\n特にGemini 1.5 Proの1Mトークンという広大な記憶容量と、Google Workspaceアプリとのダイレクトな統合が強力。API経由でGmailとDriveを横断検索させると、0.3秒で過去の経緯が要約される感覚は一度味わうと戻れません。\n\nもちろん、組織での導入にはセキュリティ設定の壁がありますが、個人や小規模チームなら導入しない手はない。月額$20を高いと感じるか、検索時間を月10時間買うと考えるか。\n\nみなさんはGoogle Driveのファイル整理、AIに任せていますか？それともまだ「手動フォルダ分け」で戦っていますか？実際の使用感、ぜひリプで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-25-gemini-personal-intelligence-google-apps-review.jpg",
+    "created_at": "2026-04-25T16:25:09.577656+09:00",
+    "posted": false
   }
 ]
