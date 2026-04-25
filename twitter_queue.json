@@ -12671,5 +12671,19 @@
     "image_path": "/images/posts/2026-04-25-comfyui-500m-valuation-node-based-ai-future.jpg",
     "created_at": "2026-04-25T12:20:11.069438+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-25-google-anthropic-investment-mythos-model-analysis",
+    "title": "GoogleがAnthropicに400億ドル投資、新モデル「Mythos」で変わるAI開発の力学",
+    "url": "https://ai.negi-lab.com/posts/google-anthropic-investment-mythos-model-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #GoogleCloud",
+    "tweet_text": "GoogleがAnthropicに「400億ドル」という、もはや国家予算レベルの巨額投資を決めましたね。この数字、MSがOpenAIに投じた額を軽く超えています。\n\n注目すべきは同時に限定公開された新モデル「Mythos」。SIer時代にセキュリティ要件定義の地獄を見てきた私からすると、このモデルの脆弱性検知能力は正直言って反則級です。GPT-4oではスルーされるような複雑な論理不備を、平然と指摘してきます。\n\nこれまでAIが書いたコードの品質に懐疑的だった層も、これで黙らざるを得ないかもしれません。\n\nただ、APIコストはGPT-4oの3倍。これを高いと見るか、安心料として安いと見るか。私は、金融や防衛、エンタープライズの現場では「これしか選択肢がない」状態になると確信しています。\n\n自宅のRTX 4090を2枚回しながら最新のAPIを叩いていますが、クラウドとローカルの役割分担がより鮮明になってきましたね。\n\n皆さんの現場では、AIのコード監査にどこまでコストをかけられますか？月額数十万円のAPI利用料を払ってでも「絶対に壊れない安心」を優先しますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-25-google-anthropic-investment-mythos-model-analysis.jpg",
+    "created_at": "2026-04-25T14:21:42.467869+09:00",
+    "posted": false
   }
 ]

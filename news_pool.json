@@ -2,72 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "DASCA",
-      "url": "https://www.producthunt.com/products/dasca",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Real-time visual effects with GLSL Playground </p> <p> <a href=\"https://www.producthunt.com/products/dasca?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125742?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T14:15:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Klippy",
-      "url": "https://www.producthunt.com/products/klippy-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Video editing for creators In your browser </p> <p> <a href=\"https://www.producthunt.com/products/klippy-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125500?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T14:15:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Form Dump",
-      "url": "https://www.producthunt.com/products/form-dump",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The form backend for AI Agents (and Humans) </p> <p> <a href=\"https://www.producthunt.com/products/form-dump?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125155?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T14:15:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Is harness a new buzzword?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1soerpk/is_harness_a_new_buzzword/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-17T21:49:47+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It feels like it became popular only in April.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jacek2023\"> /u/jacek2023 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1soerpk/is_harness_a_new_buzzword/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1soerpk/is_harness_a_new_buzzword/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-04-18T14:15:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Accidentally discovered you can teach frozen MoE models new knowledge by just steering their expert routing — no training needed",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1solnwh/accidentally_discovered_you_can_teach_frozen_moe/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-18T02:55:05+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Was probing Gemma 4's MoE routing patterns out of curiosity and noticed something weird experts route differently when the model &quot;knows&quot; something vs. when it doesn't.</p> <p>So I recorded that difference and replayed it. Called it Adaptive Cognitive Intelligence (ACI).</p> <p>Result: A 154KB file makes Gemma 4 go from &quot;Starfield is NOT available on PS5&quot; (181 words, confidently wrong) → &quot;Starfield released on PS5 in April 2026 with DualS",
-      "extra": {},
-      "collected_at": "2026-04-18T14:15:03"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Android CLI",
       "url": "https://www.producthunt.com/products/android-cli",
       "primary_category": "TOOL",
@@ -3395,19 +3329,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Fri, 24 Apr 2026 19:49:35 +0000",
-      "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-      "extra": {},
-      "collected_at": "2026-04-25T06:56:00"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Google to invest up to $40B in Anthropic in cash and compute",
       "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
       "primary_category": "NEWS",
@@ -3537,7 +3458,33 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>So maybe this is a no-brainer to many experienced local LLM users but it was not obvious for me.</p> <p>I am running a 3070 8gb + 64gb DDR4. Pretty lightweight setup so I chose the smallest Q4 unsloth model <strong>Qwen3.6-35B-A3B-UD-IQ4_XS.gguf</strong> - which is ~18gb. It does run ok, and with some optimizations in llama.cpp I got about 25-30 tokens/s with a 32k context window.</p> <p>I did have some problems with looping during thinking so I tried a bigger Q",
       "extra": {},
       "collected_at": "2026-04-25T12:19:38"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "How Project Maven taught the military to love AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-24T13:00:00-04:00",
+      "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-25T14:21:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I'm glad we have deepseek",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1suyu7a/im_glad_we_have_deepseek/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-25T01:50:40+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>other companies are slowly going away from open weight, not releasing base models, delaying open weight distribution, not releasing top models (this one I think is fair, but still), and I also noticed they stopped publishing research (old Gemma and qwen had detailed papers about the models training and characteristics, now it's replaced by blog posts and model cards)</p> <p>Kimi (no base model for Kimi k2.5), GLM (no base model for glm 5 and 5.1), minimax (delay",
+      "extra": {},
+      "collected_at": "2026-04-25T14:21:10"
     }
   ],
-  "updated_at": "2026-04-25T12:19:38.513446+09:00"
+  "updated_at": "2026-04-25T14:21:10.671483+09:00"
 }
