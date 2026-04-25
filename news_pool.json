@@ -1,45 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Thoughts and feelings around Claude Design",
-      "url": "https://samhenri.gold/blog/20260418-claude-design/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 18 Apr 2026 19:19:24 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-19T06:48:31"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "CapyPlan",
-      "url": "https://www.producthunt.com/products/gentle-daily-planner-capyplan",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your no stress chearleader for tiny tasks </p> <p> <a href=\"https://www.producthunt.com/products/gentle-daily-planner-capyplan?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1126062?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-19T06:48:34"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I made a tiny world model game that runs locally on iPad",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sp91nn/i_made_a_tiny_world_model_game_that_runs_locally/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-18T20:50:10+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sp91nn/i_made_a_tiny_world_model_game_that_runs_locally/\"> <img alt=\"I made a tiny world model game that runs locally on iPad\" src=\"https://external-preview.redd.it/NzUxcmR5emVoMHdnMRHunVYDo6coFActI3QZFhJM9x0bWAYpQPyqlfw5Nv9K.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d91897db75c13683d0fa9cf2272f169ce1193240\" title=\"I made a tiny world model game that runs locally on iPad\" /> </a> </td><td> <!-- SC_OFF --><div class=\"m",
-      "extra": {},
-      "collected_at": "2026-04-19T06:48:36"
-    },
-    {
       "source": "Product Hunt",
       "title": "Hipocampus",
       "url": "https://www.producthunt.com/products/hipocampus",
@@ -3401,19 +3362,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 25 Apr 2026 17:17:56 +0000",
-      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-      "extra": {},
-      "collected_at": "2026-04-26T02:37:28"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Why Cohere is merging with Aleph Alpha",
       "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
       "primary_category": "NEWS",
@@ -3464,7 +3412,60 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svbmnc/decreased_intelligence_density_in_deepseek_v4_pro/\"> <img alt=\"Decreased Intelligence Density in DeepSeek V4 Pro\" src=\"https://preview.redd.it/a6ix6ztc1cxg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=da064524f38a42317ebae7381f27ad16359f71fa\" title=\"Decreased Intelligence Density in DeepSeek V4 Pro\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>In the <code>V3.2</code> paper, they mentioned:</p> <blockquote",
       "extra": {},
       "collected_at": "2026-04-26T02:37:41"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 25 Apr 2026 21:43:37 +0000",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "extra": {},
+      "collected_at": "2026-04-26T06:49:14"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Maine’s governor vetoes data center moratorium",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 25 Apr 2026 20:57:08 +0000",
+      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+      "extra": {},
+      "collected_at": "2026-04-26T06:49:14"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "2x RTX 6000 build during an extended bench test",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svmnra/2x_rtx_6000_build_during_an_extended_bench_test/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-25T20:15:18+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svmnra/2x_rtx_6000_build_during_an_extended_bench_test/\"> <img alt=\"2x RTX 6000 build during an extended bench test\" src=\"https://external-preview.redd.it/bDJlN3lyanI5ZXhnMVwg-4SpilrSgCLD-sEZywzPwbgmSjLx5iQs2ngcIuwK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd99190b33fa96b509be8224bee8ee69d55a73a8\" title=\"2x RTX 6000 build during an extended bench test\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>CPU at 100% a",
+      "extra": {},
+      "collected_at": "2026-04-26T06:49:21"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "GLM 5.1 Locally: 40tps, 2000+ pp/s",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svgtlh/glm_51_locally_40tps_2000_pps/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-25T16:31:16+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>After some sglang patching and countless experiments, managed to get reap-ed nvfp4 version running stable and FAST on 4 x RTX 6000 Pros (limited to 350W). Very happy with performance and quality. Inference software is still under-optimized for those cards. I think we will see their true potential unfold this or early next year.</p> <h1>Throughput by Context Depth</h1> <table><thead> <tr> <th align=\"left\">Prefilled</th> <th align=\"left\">PP@4096</th> <th align=\"le",
+      "extra": {},
+      "collected_at": "2026-04-26T06:49:21"
     }
   ],
-  "updated_at": "2026-04-26T02:37:41.288113+09:00"
+  "updated_at": "2026-04-26T06:49:21.673741+09:00"
 }
