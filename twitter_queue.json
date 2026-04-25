@@ -12713,5 +12713,33 @@
     "image_path": "/images/posts/2026-04-25-gemini-personal-intelligence-google-apps-review.jpg",
     "created_at": "2026-04-25T16:25:09.577656+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-25-project-maven-military-ai-targeting-impact",
+    "title": "米軍のAI「Project Maven」が24時間で1000以上の標的を特定した事実から見る実戦投入の衝撃",
+    "url": "https://ai.negi-lab.com/posts/project-maven-military-ai-targeting-impact/",
+    "category": "NEWS",
+    "viral_tags": "#ProjectMaven #軍事AI",
+    "tweet_text": "米軍のAI「Project Maven」の実戦投入が、想像を絶する段階に達しています。イランへの攻撃で、わずか24時間以内に1,000以上の標的を特定。これは20年前のイラク戦争の2倍という異次元のスピードです。\n\nかつてGoogleが倫理的懸念から撤退したこのプロジェクト、現在はPalantirらが引き継ぎ、コンピュータビジョンとセンサー融合の極致として完成していました。人間が数週間かけていた解析を、AIが数分で終わらせる。これ、単なる「効率化」ではなく、戦争のルールそのものが書き換わったことを意味します。\n\nSIer時代に複雑なシステムの保守をしていた身からすると、戦場という極限の不安定環境で、このレベルのリアルタイム推論を実現しているインフラ設計に震えます。もはやAIはテキストを書く道具ではなく、物理世界を直接操作するOSになりつつある。\n\n皆さんは、AIが「生死に直結する判断」の大部分を肩代わりするこの現状、どう考えますか？人間は本当に「承認ボタン」を拒否できるのでしょうか。現場のエンジニア目線での意見が聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-25-project-maven-military-ai-targeting-impact.jpg",
+    "created_at": "2026-04-25T18:53:10.717314+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-25-zerohuman-ai-cofounder-openclaw-review",
+    "title": "ZeroHuman. 自律型AIエージェントでブラウザ操作とタスク完結を自動化する",
+    "url": "https://ai.negi-lab.com/posts/zerohuman-ai-cofounder-openclaw-review/",
+    "category": "TOOL",
+    "viral_tags": "#ZeroHuman #AIエージェント",
+    "tweet_text": "AIエージェントの進化が止まりません。話題の「ZeroHuman.」を徹底的に触り倒しましたが、これまでの「会話型AI」とは次元が違います。\n\n一言で言えば「ブラウザを自分で操作して仕事を完結させる共同創業者」。OpenClawによる高度なブラウザ認識と、Paperclipによる長期記憶の統合が秀逸です。\n\nSIer時代、数千万円かけて構築した自動化フローが、今や数行のPythonコードとわずかなAPIコストで実現できてしまう事実に、エンジニアとして少し複雑な気持ちになりますね…。\n\nRTX 4090を2枚挿した自宅サーバーでローカルLLM連携も試しましたが、実用性を取るならClaude 3.5 Sonnet一択。ブラウザのDOM構造を正確に捉え、エラーから自己修復する挙動は見ていて飽きません。\n\nただ、自律型ゆえに放置するとAPI請求額が跳ね上がるリスクも。みなさんは自律エージェントを本番環境で回す際、コスト管理や予期せぬ挙動をどう防いでいますか？具体的なガードレールの設計手法について、ぜひ意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-25-zerohuman-ai-cofounder-openclaw-review.jpg",
+    "created_at": "2026-04-25T18:55:03.257581+09:00",
+    "posted": false
   }
 ]

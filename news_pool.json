@@ -1,72 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-17T16:42:47-04:00",
-      "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial scanning orbs through [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-18T18:48:09"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Grok Voice API",
-      "url": "https://www.producthunt.com/products/grok",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Fast, accurate STT and TTS APIs at the best price </p> <p> <a href=\"https://www.producthunt.com/products/grok?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1126543?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T18:48:16"
-    },
-    {
-      "source": "Product Hunt",
-      "title": ".MD This Page",
-      "url": "https://www.producthunt.com/products/md-this-page",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Convert any page to clean Markdown instantly </p> <p> <a href=\"https://www.producthunt.com/products/md-this-page?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125963?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T18:48:16"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ChatGPT Shopping",
-      "url": "https://www.producthunt.com/products/chatgpt-shopping",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Richer, more visually immersive shopping experiences </p> <p> <a href=\"https://www.producthunt.com/products/chatgpt-shopping?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1106266?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-18T18:48:16"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Cloudflare open-sources lossless LLM compression tool",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sor438/cloudflare_opensources_lossless_llm_compression/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-18T07:38:32+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><ul> <li><p>Cloudflare released Unweight, a lossless compression system that reduces LLM size by 15–22% without sacrificing output accuracy.</p></li> <li><p>On Meta's Llama-3.1-8B, the tool saves roughly 3 GB of VRAM by compressing MLP weights on Nvidia H100 GPUs.</p></li> <li><p>Cloudflare open-sourced the GPU kernels on GitHub and published a technical paper, with plans to extend compression to attention weights.</p></li> </ul> </div><!-- SC_ON --> &#32; submitte",
-      "extra": {},
-      "collected_at": "2026-04-18T18:48:19"
-    },
-    {
       "source": "GitHub Trending",
       "title": "rustdesk/rustdesk",
       "url": "https://github.com/rustdesk/rustdesk",
@@ -3185,19 +3119,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-      "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Fri, 24 Apr 2026 16:42:19 +0000",
-      "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-      "extra": {},
-      "collected_at": "2026-04-25T02:51:06"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
       "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
       "primary_category": "NEWS",
@@ -3461,19 +3382,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Gemini Personal Intelligence",
-      "url": "https://www.producthunt.com/products/gemini-personal-intelligence",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Gemini answers with context from your Google apps </p> <p> <a href=\"https://www.producthunt.com/products/gemini-personal-intelligence?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1125494?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-25T16:22:29"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Inrō AI",
       "url": "https://www.producthunt.com/products/inro",
       "primary_category": "TOOL",
@@ -3510,7 +3418,73 @@
       "summary": "<p> Render AI chat data and Codex logs into browsable views </p> <p> <a href=\"https://www.producthunt.com/products/euphony-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1129097?app_id=339\">Link</a> </p>",
       "extra": {},
       "collected_at": "2026-04-25T16:22:29"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-24T08:00:00-04:00",
+      "summary": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether OpenAI defrauded Musk. [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-25T18:52:33"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ZeroHuman.",
+      "url": "https://www.producthunt.com/products/zerohuman",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your AI Co-Founder: OpenClaw x Paperclip x Spud </p> <p> <a href=\"https://www.producthunt.com/products/zerohuman?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1094523?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-25T18:52:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Grok Voice Think Fast 1.0",
+      "url": "https://www.producthunt.com/products/grok-voice-think-fast-1-0",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Our most capable voice agent is now available via API </p> <p> <a href=\"https://www.producthunt.com/products/grok-voice-think-fast-1-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1131239?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-25T18:52:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Architecto",
+      "url": "https://www.producthunt.com/products/architecto",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Design, review, and document cloud architecture with AI </p> <p> <a href=\"https://www.producthunt.com/products/architecto?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1120331?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-25T18:52:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "PromptPaste",
+      "url": "https://www.producthunt.com/products/promptpaste",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your private AI prompt library on Mac, iPhone, and iPad </p> <p> <a href=\"https://www.producthunt.com/products/promptpaste?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1126694?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-25T18:52:35"
     }
   ],
-  "updated_at": "2026-04-25T16:22:31.819095+09:00"
+  "updated_at": "2026-04-25T18:52:37.607811+09:00"
 }
