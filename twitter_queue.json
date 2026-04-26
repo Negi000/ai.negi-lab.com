@@ -12853,5 +12853,33 @@
     "image_path": "/images/posts/2026-04-26-cohere-merging-aleph-alpha-sovereign-ai.jpg",
     "created_at": "2026-04-26T14:46:23.704120+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-26-sushitech-tokyo-2026-physical-ai-engineering",
+    "title": "SusHi Tech Tokyo 2026の実態：開発者が「シリコンバレーではなく東京」を選ぶべき技術的理由",
+    "url": "https://ai.negi-lab.com/posts/sushitech-tokyo-2026-physical-ai-engineering/",
+    "category": "NEWS",
+    "viral_tags": "#SusHiTechTokyo #エッジAI",
+    "tweet_text": "2026年の最重要テック都市は「東京」になる。TechCrunchのこの報道、単なるリップサービスだと思ったら大間違いです。\n\nSusHi Tech Tokyo 2026の核心は、画面の中のAIを街に引きずり出す「フィジカル実装」への強制シフト。GPT-4o以降、LLM単体での差別化は死にました。これからは、複雑な都市インフラとAIをどう結託させるかという、最高に泥臭い「エンジニアの腕の見せ所」がやってきます。\n\nSIer時代、仕様書通りの納品に追われていた私からすれば、この変化は衝撃的。もはやAPIを叩くだけのコードに価値はありません。エッジでの推論、ローカルLLM、都市OSとの連携。これらを自分の手で動かせる人間だけが、世界から集まる2兆円規模の投資マネーの標的になります。\n\n正直、日本のエンジニアが「受託メンタリティ」を捨てられるかが勝負の分かれ目だと思います。お膳立てを待つのではなく、規制の砂箱をハックして勝手に動く。RTX 4090を回して自宅サーバーを組んでいるような「野蛮な開発者」こそ、2026年の主役になるはず。\n\n皆さんは、今のAIブームの次にくる「物理実装」への準備、具体的に何か始めてますか？エッジAIやロボティクス、どこまで手を出しているか教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-26-sushitech-tokyo-2026-physical-ai-engineering.jpg",
+    "created_at": "2026-04-26T16:45:16.595080+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-26-claude-connectors-mcp-practical-guide-review",
+    "title": "Claude Connectors 使い方とデータ連携の自動化を実務目線でレビュー",
+    "url": "https://ai.negi-lab.com/posts/claude-connectors-mcp-practical-guide-review/",
+    "category": "TOOL",
+    "viral_tags": "#Claude #MCP",
+    "tweet_text": "Claudeの新機能「Connectors」を実務に投入して数週間。\n正直、SIer時代の自分に「これを使え」と渡してやりたい。\n\nこれまではリポジトリの全コードをZIPにして投げたり、LangChainで面倒なRAGを組んだりしてましたが、その苦労がJSON数行の設定で終わります。GitHubやDriveを直接マウントし、Claude側から「仕様書とコードの矛盾を探せ」と自律的に動く。\n\n特にMCP（Model Context Protocol）の規格化がエグいですね。\n自分のPythonスクリプトがそのままClaudeの拡張機能になる。\n1段上の自動化が見えてきました。\n\nただし、夢中で使ってるとAPI消費量がとんでもないことになります。\n200kコンテキストは魔法の箱じゃない。\n「何を読ませて、何を無視させるか」のフィルタリングが、これからのエンジニアの腕の見せ所かもしれません。\n\n皆さんはもうMCPサーバー自作してみました？\n接続したときに一番感動したデータソースは何ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-26-claude-connectors-mcp-practical-guide-review.jpg",
+    "created_at": "2026-04-26T16:46:36.188507+09:00",
+    "posted": false
   }
 ]
