@@ -12937,5 +12937,33 @@
     "image_path": "/images/posts/2026-04-26-qwen3-6-27b-vllm-rtx5090-setup-guide.jpg",
     "created_at": "2026-04-26T22:19:33.000737+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-27-pica-macos-native-font-manager-review",
+    "title": "Pica レビュー：macOSフォント管理をネイティブアプリで爆速化する方法",
+    "url": "https://ai.negi-lab.com/posts/pica-macos-native-font-manager-review/",
+    "category": "TOOL",
+    "viral_tags": "#MacOS #FontManagement",
+    "tweet_text": "macOSのフォント管理、まだFont Bookで消耗してませんか？\n仕事で使えるかを基準にする私ですが、Picaを試して驚いたのはその「ネイティブの速さ」です。\n5,000書体あっても検索レスポンスは0.1秒以下。Swift製アプリの良さが詰まってます。\n\nSIer時代から数多くの環境構築をしてきましたが、フォントのプレビュー待ち時間は地味にエンジニアの集中力を削ぐんですよね。\nPicaのスマートタグ機能は、AIが自動でSerifやSansを分類してくれるので、整理の手間がほぼゼロになります。\nElectron製の他ツールと違って、メモリを無駄に食わないのもRTX 4090を回す身としては好印象。\n\nただ、完全にプロ向けの仕様なので、標準フォントしか使わない人には正直オーバースペックかもしれません。\n逆にUI/UXにこだわるフロントエンド勢や、デザインカンプ再現で書体探しに苦労している人には、これ以上の選択肢はないはず。\n\n皆さんはフォント管理に何を使ってますか？\nRightFont派やFontBase派、あるいは「気合でFont Book」派の方も、実際にPicaのネイティブな挙動を触ってみてどう感じたか、ぜひ感想を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-27-pica-macos-native-font-manager-review.jpg",
+    "created_at": "2026-04-27T00:25:24.762834+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-27-python-llm-abliteration-tutorial-uncensored",
+    "title": "LLMの検閲解除手法AbliterationをPythonで実装する方法",
+    "url": "https://ai.negi-lab.com/posts/python-llm-abliteration-tutorial-uncensored/",
+    "category": "GUIDE",
+    "viral_tags": "#LLM #ローカルLLM",
+    "tweet_text": "HauhauCSのコード盗用騒動で話題になった「LLMの検閲解除（Abliteration）」ですが、本質は数学的な重みの直交化にあります。誰かが作った怪しいモデルをダウンロードするより、自分の手で「なぜモデルが拒絶するのか」を特定して除去する方が、技術者として何倍も健全で面白いですよ。\n\nSIer時代、ハードコードされたバリデーションに苦しめられた経験がある人なら、この「モデルの思考回路を直接書き換える」快感はたまらないはず。\n\n今回はPythonとPyTorchを使って、Llama-3などの中間層から「拒絶ベクトル」を抽出し、推論能力を削らずにガードレールだけを外す実践ガイドを書きました。RTX 4090を回して検証した結果、特定の15層程度に干渉するのが最も効率的だと判明。\n\nライセンスを遵守しつつ、自分だけの「正直なAI」を作る方法を詳しく解説しています。\n\n皆さんはローカルLLMの「過剰な拒絶」に遭遇したとき、プロンプトで回避しますか？それとも今回のようなモデル改変まで踏み込みますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-27-python-llm-abliteration-tutorial-uncensored.jpg",
+    "created_at": "2026-04-27T00:27:51.718531+09:00",
+    "posted": false
   }
 ]

@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "\"Browser OS\" implemented by Qwen 3.6 35B: The best result I ever got from a local model",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1spubyp/browser_os_implemented_by_qwen_36_35b_the_best/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-19T14:23:03+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spubyp/browser_os_implemented_by_qwen_36_35b_the_best/\"> <img alt=\"&quot;Browser OS&quot; implemented by Qwen 3.6 35B: The best result I ever got from a local model\" src=\"https://external-preview.redd.it/OAXSl8SY6T3JK9MGQyKxkoYbqZ71HQRYXLeB8CV0NXg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f53460a90493497883ab4cacbbb58e2acb464c4\" title=\"&quot;Browser OS&quot; implemented by Qwen 3.6 35B: The best result I ever got fro",
-      "extra": {},
-      "collected_at": "2026-04-20T00:10:43"
-    },
-    {
       "source": "Product Hunt",
       "title": "Assemble",
       "url": "https://www.producthunt.com/products/assemble-2",
@@ -3274,33 +3260,6 @@
       "collected_at": "2026-04-26T16:44:43"
     },
     {
-      "source": "Product Hunt",
-      "title": "Free chart generator by Embedful",
-      "url": "https://www.producthunt.com/products/embedful",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn CSV & Excel files into charts in seconds </p> <p> <a href=\"https://www.producthunt.com/products/embedful?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1123147?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-26T18:53:47"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.6-27B-INT4 clocking 100 tps with 256k context length on 1x RTX 5090 via vllm 0.19",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sw21op/qwen3627bint4_clocking_100_tps_with_256k_context/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-26T08:37:18+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Thanks to the community the Qwen3.6-27B speed keeps getting better. The following improves upon my recipe from <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sv8eua/qwen3627b_at_80_tps_with_218k_context_window_on/\">yesterday</a> and delivered a whopping 100+ tps (TG).</p> <p>Model: <a href=\"https://huggingface.co/Lorbus/Qwen3.6-27B-int4-AutoRound\">https://huggingface.co/Lorbus/Qwen3.6-27B-int4-AutoRound</a></p> <p>- MTP supported</p> <p>- <a href=\"https:",
-      "extra": {},
-      "collected_at": "2026-04-26T18:53:50"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "New model for detecting and masking PII from OpenAI",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sw000s/new_model_for_detecting_and_masking_pii_from/",
@@ -3368,7 +3327,21 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sw4qku/pocket_llm_v150_is_out_offline_android_llm_chat/\"> <img alt=\"🚀Pocket LLM v1.5.0 is out: offline Android LLM chat with voice, image input, OCR, and camera capture\" src=\"https://preview.redd.it/7pl94288pixg1.gif?width=640&amp;crop=smart&amp;s=63ab2bfd4d3f13d9fc69d1e34929f1c4f0beab98\" title=\"🚀Pocket LLM v1.5.0 is out: offline Android LLM chat with voice, image input, OCR, and camera capture\" /> </a> </td><td> <!-- SC_OFF",
       "extra": {},
       "collected_at": "2026-04-26T22:17:27"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "HauhauCS (of \"Uncensored Aggressive\" fame) published an abliteration package that plagiarizes Heretic without attribution, and violates its license",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sw77p0/hauhaucs_of_uncensored_aggressive_fame_published/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-26T13:13:26+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>HauhauCS (<a href=\"https://www.reddit.com/user/hauhau901\">u/hauhau901</a>) publishes uncensored LLM models on <a href=\"https://huggingface.co/HauhauCS\">HuggingFace</a> with 5M+ combined monthly downloads across 22 models (verified via the HuggingFace API, April 2026). Every model card claims &quot;0/465 refusals, zero capability loss.&quot; When asked about methodology on <a href=\"https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive/dis",
+      "extra": {},
+      "collected_at": "2026-04-27T00:24:24"
     }
   ],
-  "updated_at": "2026-04-26T22:17:27.746856+09:00"
+  "updated_at": "2026-04-27T00:24:24.076463+09:00"
 }
