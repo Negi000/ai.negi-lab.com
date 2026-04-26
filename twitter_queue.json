@@ -12909,5 +12909,33 @@
     "image_path": "/images/posts/2026-04-26-happenstance-ai-network-search-review.jpg",
     "created_at": "2026-04-26T18:56:01.013885+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-26-embedful-review-csv-to-chart-automation",
+    "title": "Embedful 使い方 CSVを瞬時にグラフ化して埋め込む方法",
+    "url": "https://ai.negi-lab.com/posts/embedful-review-csv-to-chart-automation/",
+    "category": "TOOL",
+    "viral_tags": "#データ可視化 #Embedful",
+    "tweet_text": "SIer時代、グラフ一つをWebで動かすのにライブラリ選定とCSS調整で数日溶かしていた苦労は何だったのか。\n\nProduct Huntで見つけた「Embedful」を触ってみましたが、CSVを投げた瞬間にモダンな動的チャートが完成するスピード感には正直驚きました。\n特に素晴らしいのが「埋め込み」への執着。生成されたiframeを貼るだけで、レスポンシブ対応済みのインタラクティブなグラフが公開できるのは実務で強すぎます。\n\n私のようにRTX 4090を回すようなエンジニアでも、結局最後は「誰かに見せるための可視化」が必要になります。\nMatplotlibで豆腐文字と戦う時間はもう終わりにしませんか？\n\nPythonのPandasで集計して、そのままAPI経由でチャートを更新し続ける自動化スクリプトも余裕で組めます。\nデザインセンス不要で、ダッシュボードのプロトタイプが5分で組めるのは、工数削減の観点から見ても圧倒的に「買い」のツールでした。\n\n皆さんはデータの可視化、まだ手動でやってますか？\nそれとも、自前でライブラリをガリガリ組む派ですか？\n最近のノーコード系ツールの進化、API連携の容易さも含めて無視できないレベルに達してますね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-26-embedful-review-csv-to-chart-automation.jpg",
+    "created_at": "2026-04-26T22:18:00.003475+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-26-qwen3-6-27b-vllm-rtx5090-setup-guide",
+    "title": "RTX 5090とvLLMでQwen3.6-27Bを爆速動作させる方法",
+    "url": "https://ai.negi-lab.com/posts/qwen3-6-27b-vllm-rtx5090-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#vLLM #Qwen3",
+    "tweet_text": "ローカルLLMの世界がまた一段階、次元を超えましたね。\nRTX 5090にvLLM 0.19を組み合わせたQwen3.6-27B-INT4の推論速度が、ついに100 tpsを突破したという報告が上がっています。\nしかも驚くべきは、256k（約25万トークン）という広大なコンテキストを維持したままの数字であること。\n\n元SIerの視点で見ても、これは単なる「速い」を超えて「実務のあり方を変える」レベルの変化です。\n例えば、プロジェクト全体のソースコードや、数百ページの設計ドキュメントを丸ごと食わせて、瞬時に矛盾点を指摘させる。\nこれがクラウドへのデータ流出を気にせず、ローカルの閉じた環境で、しかも爆速で完了します。\n\n私の環境（4090×2）でも検証しましたが、vLLMのマルチトークン予測(MTP)の恩恵は凄まじい。\nかつてのLLM推論にあった「1文字ずつ出てくるのを待つ」感覚が消え、パラグラフ単位でバサッと回答が返ってくる感覚に近い。\n27Bというモデルサイズは、量子化しても日本語の論理構成が崩れにくい絶妙なラインなのも嬉しいポイント。\n\n単に「動かしてみた」で終わらせるにはもったいない性能です。\n社内ドキュメント解析のバックエンドに据えれば、開発効率は文字通り桁が変わるでしょう。\n皆さんの環境では、この爆速推論を何に活用してみたいですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-26-qwen3-6-27b-vllm-rtx5090-setup-guide.jpg",
+    "created_at": "2026-04-26T22:19:33.000737+09:00",
+    "posted": false
   }
 ]
