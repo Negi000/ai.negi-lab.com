@@ -1,47 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Assemble",
-      "url": "https://www.producthunt.com/products/assemble-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> One /go command for AI work that remembers — zero runtime </p> <p> <a href=\"https://www.producthunt.com/products/assemble-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1122018?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-20T02:36:07"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "LLM Neuroanatomy III - LLMs seem to think in geometry, not language",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1spy497/llm_neuroanatomy_iii_llms_seem_to_think_in/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-19T16:45:50+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1spy497/llm_neuroanatomy_iii_llms_seem_to_think_in/\"> <img alt=\"LLM Neuroanatomy III - LLMs seem to think in geometry, not language\" src=\"https://preview.redd.it/s9r7ro7lc6wg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f9e24058a3505f97ccb1185290193d06edc7390\" title=\"LLM Neuroanatomy III - LLMs seem to think in geometry, not language\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi Reddit!</p> <p>Last month I pos",
-      "extra": {},
-      "collected_at": "2026-04-20T02:36:07"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Same 9B Qwen weights: 19.1% in Aider vs 45.6% with a scaffold adapted to small local models",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1spufzz/same_9b_qwen_weights_191_in_aider_vs_456_with_a/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-19T14:27:33+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I spent the past week testing a simple question:</p> <p>Small local models often look weak inside coding agents. But how much of that is actually model weakness, and how much is scaffold mismatch?</p> <p>So I held the model fixed and changed only the scaffold.</p> <p>Same Qwen3.5-9B Q4 weights in both conditions.</p> <p>Same Aider Polyglot benchmark.</p> <p>Full 225 exercises.</p> <p>Results:</p> <p>- vanilla Aider: 19.11%</p> <p>- little-coder: 45.56% mean pass",
-      "extra": {},
-      "collected_at": "2026-04-20T02:36:07"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No",
       "url": "https://news.ycombinator.com/item?id=47825520",
@@ -3234,19 +3193,6 @@
       "collected_at": "2026-04-26T16:44:41"
     },
     {
-      "source": "Product Hunt",
-      "title": "Pica",
-      "url": "https://www.producthunt.com/products/pica",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Fully native app for managing your fonts on MacOS </p> <p> <a href=\"https://www.producthunt.com/products/pica?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1131870?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-26T16:44:41"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "The exact KV cache usage of DeepSeek V4",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svzlog/the_exact_kv_cache_usage_of_deepseek_v4/",
@@ -3329,19 +3275,31 @@
       "collected_at": "2026-04-26T22:17:27"
     },
     {
+      "source": "TechCrunch AI",
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 26 Apr 2026 15:30:00 +0000",
+      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "extra": {},
+      "collected_at": "2026-04-27T02:39:02"
+    },
+    {
       "source": "r/LocalLLaMA",
-      "title": "HauhauCS (of \"Uncensored Aggressive\" fame) published an abliteration package that plagiarizes Heretic without attribution, and violates its license",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sw77p0/hauhaucs_of_uncensored_aggressive_fame_published/",
+      "title": "Are Unsloth models as good as I read?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sw8uyf/are_unsloth_models_as_good_as_i_read/",
       "primary_category": "GUIDE",
       "possible_categories": [
-        "TOOL",
-        "GUIDE"
+        "NEWS"
       ],
-      "published": "2026-04-26T13:13:26+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>HauhauCS (<a href=\"https://www.reddit.com/user/hauhau901\">u/hauhau901</a>) publishes uncensored LLM models on <a href=\"https://huggingface.co/HauhauCS\">HuggingFace</a> with 5M+ combined monthly downloads across 22 models (verified via the HuggingFace API, April 2026). Every model card claims &quot;0/465 refusals, zero capability loss.&quot; When asked about methodology on <a href=\"https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive/dis",
+      "published": "2026-04-26T14:22:24+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Has anybody done some comparing between the models that Unsloth offers and their counter part?<br /> For example: I've been using qwen3.6:35b-a3b Q4_K_M , and on my MBP 64GB I get around 39 t/s<br /> Using Unsloth Studio, unsloth/qwen3.6:35b-a3b UD-Q4_K_XL I get around 57 t/s</p> <p>The difference in speed is significant. From what I've understood the Unsloth model runs a per-layer sensitivity analysis and assigns different quantization levels depending on how &",
       "extra": {},
-      "collected_at": "2026-04-27T00:24:24"
+      "collected_at": "2026-04-27T02:39:08"
     }
   ],
-  "updated_at": "2026-04-27T00:24:24.076463+09:00"
+  "updated_at": "2026-04-27T02:39:08.003162+09:00"
 }
