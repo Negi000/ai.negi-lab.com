@@ -3374,19 +3374,6 @@
       "collected_at": "2026-04-26T02:37:41"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Maine’s governor vetoes data center moratorium",
-      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 25 Apr 2026 20:57:08 +0000",
-      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-      "extra": {},
-      "collected_at": "2026-04-26T06:49:14"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "2x RTX 6000 build during an extended bench test",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svmnra/2x_rtx_6000_build_during_an_extended_bench_test/",
@@ -3438,7 +3425,34 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svl1wr/finalbenchdarwin36bopus_hugging_face/\"> <img alt=\"FINAL-Bench/Darwin-36B-Opus · Hugging Face\" src=\"https://external-preview.redd.it/AU0IxMAVASq_ZErqollOjCK4BziDP2TIPPT9Mt8HTGQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=03c11fb31063d0b561e2d65320fda77d55044df1\" title=\"FINAL-Bench/Darwin-36B-Opus · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/bartowski/FINAL-Ben",
       "extra": {},
       "collected_at": "2026-04-26T12:42:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.5/3.6 Coder?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svwbqe/qwen3536_coder/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-26T03:27:31+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>With practically all of LocalLlama glazing Qwen 3.5/3.6 for it's coding skills. Along with the fact that Alibaba themselves are focusing on making Qwen a reliable coding agent, does this rule out the chance for a new Qwen Coder? I wonder if they'd just focus on the vanilla Qwen models to be as capable in all areas very well, including coding, or if they'd double down and release another coder/agent variant... I think if they did, looking at how well Q3CN holds u",
+      "extra": {},
+      "collected_at": "2026-04-26T14:45:54"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Experts-Volunteers needed for Vulkan on ik_llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svy5rj/expertsvolunteers_needed_for_vulkan_on_ik_llamacpp/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-26T05:02:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>ik_llama.cpp is great for both CPU &amp; CUDA. Need legends to make Vulkan better as well.</p> <p><a href=\"https://github.com/ikawrakow/ik_llama.cpp/discussions/590#discussioncomment-16357564\">https://github.com/ikawrakow/ik_llama.cpp/discussions/590#discussioncomment-16357564</a></p> <blockquote> <p>So, after bringing the Vulkan back-end up to speed some time ago, I felt that I simply don't have the bandwidth to also maintain it. In <code>llama.cpp</code> there",
+      "extra": {},
+      "collected_at": "2026-04-26T14:45:54"
     }
   ],
-  "updated_at": "2026-04-26T12:42:02.656755+09:00"
+  "updated_at": "2026-04-26T14:45:54.589296+09:00"
 }
