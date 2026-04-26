@@ -12881,5 +12881,33 @@
     "image_path": "/images/posts/2026-04-26-claude-connectors-mcp-practical-guide-review.jpg",
     "created_at": "2026-04-26T16:46:36.188507+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-26-apple-ceo-transition-john-ternus-ai-hardware-strategy",
+    "title": "Apple新CEO最有力候補ジョン・ターナスが主導する「AIハードウェア垂直統合」への歴史的転換",
+    "url": "https://ai.negi-lab.com/posts/apple-ceo-transition-john-ternus-ai-hardware-strategy/",
+    "category": "NEWS",
+    "viral_tags": "#AppleIntelligence #ジョンターナス",
+    "tweet_text": "Apple次期CEOの最有力、ジョン・ターナス氏への継承がこれほどまでに重要な理由。\n\nそれはAppleが「サプライチェーンの効率化」というティム・クック時代の成功体験を脱ぎ捨て、「AI専用ハードウェアの垂直統合」に会社の運命を懸けたからです。\n\nSIer時代、クラウドの通信遅延と膨大なAPIコストに頭を抱えていた私にとって、Appleが推し進める「オンデバイス推論」への執念はもはや狂気を感じます。M4チップで見せたメモリ帯域の強化や、16GBメモリの標準化。これらはすべて、数億人のポケットの中でLLMを動かすための伏線でした。\n\nクラウドAIが電力不足とコスト増で壁にぶつかる中、Appleはユーザーのデバイスという「最強のエッジノード」を既に手に入れています。\n\n「Appleは出遅れた」と言っていた層は、ハードウェアの物理層で何が起きているかを見誤っている。Core MLやMLXを触れば分かりますが、Appleシリコン上でのLLMの挙動は他とは別次元の最適化に向かっています。\n\nみなさんは、AIを「クラウド」に任せ続けるべきだと思いますか？それとも「ローカル」で完結させるべきだと思いますか？実際にMLXを触ってみた感触など、ぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-26-apple-ceo-transition-john-ternus-ai-hardware-strategy.jpg",
+    "created_at": "2026-04-26T18:54:47.070248+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-26-happenstance-ai-network-search-review",
+    "title": "Happenstance 使い方｜AIで自分の人脈を第2の脳にするレビュー",
+    "url": "https://ai.negi-lab.com/posts/happenstance-ai-network-search-review/",
+    "category": "TOOL",
+    "viral_tags": "#Happenstance #AIツール",
+    "tweet_text": "SIer時代、社内の「Goに詳しい人」を探すだけで半日溶かした経験ありませんか？Excelのスキルマップはゴミになる運命。でも、このHappenstanceは違う。\n\n自分のLinkedIn、Gmail、Xをまるごとベクトルデータベース化して、AIでセマンティック検索できるようにするツール。\n「以前データベースのシャーディングについて話した、シリコンバレー界隈の人」みたいな曖昧な記憶で、0.5秒以内に相手を特定できる。\n\n実際にPython SDKで叩いてみたけど、検索結果に「なぜこの人がマッチしたか」の理由（match_reason）をLLMが添えてくれるのが賢すぎる。\n\n正直、連絡先が少ない人には不要な贅沢品。だけど、1000人超えるネットワークを持っていて「あの人誰だっけ…」が口癖のエンジニアやPMには、まさに「第2の脳」になる。\n\nこれ、自前でRAG組む手間を考えたら、月額払ってでも導入する価値ありますね。皆さんは自分の過去のやり取り、どうやって管理してますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-26-happenstance-ai-network-search-review.jpg",
+    "created_at": "2026-04-26T18:56:01.013885+09:00",
+    "posted": false
   }
 ]
