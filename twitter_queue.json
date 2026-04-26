@@ -12825,5 +12825,19 @@
     "image_path": "/images/posts/2026-04-26-anthropic-agent-on-agent-commerce-marketplace.jpg",
     "created_at": "2026-04-26T06:49:53.241999+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-26-maine-governor-vetoes-data-center-moratorium-ai-impact",
+    "title": "メイン州知事がデータセンター建設凍結を拒否。AI時代のインフラ不足を食い止める「攻め」の判断を読み解く",
+    "url": "https://ai.negi-lab.com/posts/maine-governor-vetoes-data-center-moratorium-ai-impact/",
+    "category": "NEWS",
+    "viral_tags": "#データセンター #AIインフラ",
+    "tweet_text": "メイン州知事、データセンター建設凍結案に「拒否権」を発動。これ、実はAI開発者にとっても対岸の火事じゃない話です。\n\nAIバブルで計算資源の奪い合いが加速する中、全米初となる「州単位の新規建設凍結」が検討されていました。背景にあるのは深刻な電力不足。H100やBlackwellのような高密度チップが並ぶ現代のデータセンターは、もはや発電所を丸ごと一つ食いつぶす勢いで電力を消費します。\n\nSIer時代にサーバーの電源増設で冷や冷やした経験から言えば、今回の「凍結拒否」はインフラの死守であると同時に、グリッド崩壊へのカウントダウンでもあります。知事は経済競争力を取ったけど、2027年までに電力をどう確保するかという難題は残ったまま。\n\n私たち開発者にできるのは、ただAPIを叩くだけじゃなく、量子化や推論効率の最適化を「義務」として捉え直すこと。物理インフラは無限じゃない。この記事では、なぜメイン州がここまで揉めたのか、技術的・政治的な裏側をガッツリ解説しました。\n\n将来的に「リージョン不足でデプロイできない」なんて時代、本気で来るかもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-26-maine-governor-vetoes-data-center-moratorium-ai-impact.jpg",
+    "created_at": "2026-04-26T12:43:14.115303+09:00",
+    "posted": false
   }
 ]
