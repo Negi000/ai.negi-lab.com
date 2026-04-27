@@ -13119,5 +13119,19 @@
     "image_path": "/images/posts/2026-04-28-logic-agent-fleet-management-review.jpg",
     "created_at": "2026-04-28T01:12:22.749498+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-28-openai-aws-microsoft-deal-aws-bedrock-gpt4",
+    "title": "OpenAIのAWS解禁。MS独占終了で変わる企業のマルチクラウド戦略",
+    "url": "https://ai.negi-lab.com/posts/openai-aws-microsoft-deal-aws-bedrock-gpt4/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #AWSBedrock",
+    "tweet_text": "OpenAIがAWSでも使えるようになる。この合意はAIインフラの歴史を変える。\n\nこれまでOpenAIを使いたいがために無理やりAzureを併用していたエンジニアは多いはず。私もSIer時代、AWS環境のシステムからAzure OpenAIを叩くための閉域網構築にどれだけ工数を割かれたか…。あの不毛な「インフラの分断」がようやく終わります。\n\n今回の合意で、OpenAIはMicrosoftの独占から解き放たれ、AWSという巨大なエコシステムにネイティブに組み込まれます。開発者にとっての最大のメリットは「データの近さ」です。S3にあるデータ、Lambdaのロジック、それらがVPCを越えずにGPT-4oと繋がる。このレスポンスの速さとセキュリティの向上は、実務でAIを組み込む上で何物にも代えがたい武器になる。\n\nMicrosoftは独占を捨てる代わりに、AWS経由の売上からも収益を得るという「AIのショバ代」を稼ぐ戦略にシフトしたようです。まさに老獪な判断。\n\n一方で、AWSで唯一無二の存在だったClaude 3にとっては、最強の刺客が同じ土俵に現れたことになります。\n\n皆さんのプロジェクトでは、もしAWSでGPT-4oがネイティブ解禁されたら、即座にAzureから乗り換えますか？それとも既存の安定性を取りますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-28-openai-aws-microsoft-deal-aws-bedrock-gpt4.jpg",
+    "created_at": "2026-04-28T03:04:41.669324+09:00",
+    "posted": false
   }
 ]
