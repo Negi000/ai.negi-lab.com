@@ -1,59 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Auxilius.ai",
-      "url": "https://www.producthunt.com/products/auxilius-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn compliance into code with agentic AI </p> <p> <a href=\"https://www.producthunt.com/products/auxilius-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1124855?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-21T06:57:40"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Kimi K2.6",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqswq6/kimi_k26/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-20T15:38:30+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqswq6/kimi_k26/\"> <img alt=\"Kimi K2.6\" src=\"https://preview.redd.it/1ptgthlt7dwg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=30f70c18fc82fd1d7207bb9dd3ffbabdcd133980\" title=\"Kimi K2.6\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Benchmarks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fantastic-Emu-3819\"> /u/Fantastic-Emu-3819 </a> <br /> <span><a href=\"https://i.redd.",
-      "extra": {},
-      "collected_at": "2026-04-21T06:57:43"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Layman's comparison on Qwen3.6 35b-a3b and Gemma4 26b-a4b-it",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqxiz0/laymans_comparison_on_qwen36_35ba3b_and_gemma4/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-20T18:13:06+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqxiz0/laymans_comparison_on_qwen36_35ba3b_and_gemma4/\"> <img alt=\"Layman's comparison on Qwen3.6 35b-a3b and Gemma4 26b-a4b-it\" src=\"https://preview.redd.it/suomxb7xxdwg1.png?width=140&amp;height=66&amp;auto=webp&amp;s=100b57ef8be42fd1ef0b72322e17866851062b52\" title=\"Layman's comparison on Qwen3.6 35b-a3b and Gemma4 26b-a4b-it\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Gemma 4 26b-a4b-it is basically a solid B stu",
-      "extra": {},
-      "collected_at": "2026-04-21T06:57:43"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Why doesn't any OSS tool treat llama.cpp as a first class citizen?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sr140o/why_doesnt_any_oss_tool_treat_llamacpp_as_a_first/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-20T20:02:27+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Be it opencode, VS code copilot extension or whatever &quot;open source&quot; AI tool, I rarely see llama.cpp treated as a first class provider? Every single one of them has ollama and sometimes LMStudio. Engineering wise there's literally 0 effort to have llama.cpp be listed the same as ollama. Or better yet, simply make it a label agnostic openai API compatible endpoint and let me fill in the port number/enpoint.. This is especially annoying as ollama is the s",
-      "extra": {},
-      "collected_at": "2026-04-21T06:57:43"
-    },
-    {
       "source": "Google News",
       "title": "Canva、Anthropicとの協業を発表し、AI 活用デザインを数百万人に提供へ - Business Wire",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkRWxueDBMZG9yZXdpd1YyTS1oVnJHajZIbzB1QVJVMlZzN0ZQUlA0bkFEQXNxWFF6WGwtOHFRUXZqdHJqaGM2cUk0cGIwaXVxd1o2bGhnSjAteE1sNnhrelZsbHhnVlk?oc=5",
@@ -3117,19 +3064,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 27 Apr 2026 17:40:38 +0000",
-      "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft get more cash in a revenue-share agreement.",
-      "extra": {},
-      "collected_at": "2026-04-28T03:04:08"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
       "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
       "primary_category": "NEWS",
@@ -3182,7 +3116,75 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sx8uok/luce_dflash_qwen3627b_at_up_to_2x_throughput_on_a/\"> <img alt=\"Luce DFlash: Qwen3.6-27B at up to 2x throughput on a single RTX 3090\" src=\"https://preview.redd.it/ppdt7ixx9rxg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d06755cce89fb2051819c71c2246f91d1e7f2630\" title=\"Luce DFlash: Qwen3.6-27B at up to 2x throughput on a single RTX 3090\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey fellow Llamas, your t",
       "extra": {},
       "collected_at": "2026-04-28T03:04:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Brew Finder",
+      "url": "https://www.producthunt.com/products/brew-finder",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Discover the best coffee shops to work at around you </p> <p> <a href=\"https://www.producthunt.com/products/brew-finder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1133074?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-28T07:03:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Vouch API",
+      "url": "https://www.producthunt.com/products/vouch-api",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI equity research that proves it isn't lying </p> <p> <a href=\"https://www.producthunt.com/products/vouch-api?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1132615?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-28T07:03:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "MIMO V2.5 PRO",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxbcyn/mimo_v25_pro/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-27T17:57:51+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sxbcyn/mimo_v25_pro/\"> <img alt=\"MIMO V2.5 PRO\" src=\"https://external-preview.redd.it/8K01bgeN11ty9D-1N7YIFythtEQmCKKip_NRP2uW-UA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9606eff3361d139d7d342d7963215a343f6a18b2\" title=\"MIMO V2.5 PRO\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Namra_7\"> /u/Namra_7 </a> <br /> <span><a href=\"https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro\">[link]</",
+      "extra": {},
+      "collected_at": "2026-04-28T07:03:03"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Microsoft Presents \"TRELLIS.2\": An Open-Source, 4b-Parameter, Image-To-3D Model Producing Up To 1536³ PBR Textured Assets, Built On Native 3D VAES With 16× Spatial Compression, Delivering Efficient, Scalable, High-Fidelity Asset Generation.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxf2u0/microsoft_presents_trellis2_an_opensource/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-27T20:07:01+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sxf2u0/microsoft_presents_trellis2_an_opensource/\"> <img alt=\"Microsoft Presents &quot;TRELLIS.2&quot;: An Open-Source, 4b-Parameter, Image-To-3D Model Producing Up To 1536³ PBR Textured Assets, Built On Native 3D VAES With 16× Spatial Compression, Delivering Efficient, Scalable, High-Fidelity Asset Generation.\" src=\"https://external-preview.redd.it/bzdpejFzMDRpc3hnMUj1pVr9ic5pAnwIro3r3WJwAFSF69m9ynqWWMSNb35T.png?width=640&a",
+      "extra": {},
+      "collected_at": "2026-04-28T07:03:03"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The 4B class of 2026 (benchmark)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxch39/the_4b_class_of_2026_benchmark/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-27T18:36:37+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sxch39/the_4b_class_of_2026_benchmark/\"> <img alt=\"The 4B class of 2026 (benchmark)\" src=\"https://preview.redd.it/fj2b1am41sxg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ce43dcc9d6eba4b1763a5d5e1de8089f72d5901\" title=\"The 4B class of 2026 (benchmark)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Bench 2 from my 18GB M3 Pro. Last week was specialists vs generalists at 7-8B (which I hosed by giving thinking mode",
+      "extra": {},
+      "collected_at": "2026-04-28T07:03:03"
     }
   ],
-  "updated_at": "2026-04-28T03:04:13.700627+09:00"
+  "updated_at": "2026-04-28T07:03:03.626386+09:00"
 }
