@@ -13021,5 +13021,33 @@
     "image_path": "/images/posts/2026-04-27-world-press-photo-ai-standard-c2pa-authenticity.jpg",
     "created_at": "2026-04-27T15:09:36.336686+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-27-claude-code-vs-goose-cost-comparison-mcp",
+    "title": "Claude Codeの月額200ドルは高すぎるか？オープンソースの刺客Gooseが変えるAI開発の採算ライン",
+    "url": "https://ai.negi-lab.com/posts/claude-code-vs-goose-cost-comparison-mcp/",
+    "category": "NEWS",
+    "viral_tags": "#ClaudeCode #GooseAI",
+    "tweet_text": "Claude Codeの月額最大200ドルという価格設定、正直どう思われましたか？私はAPIドキュメントを読んだ瞬間、その性能の高さに興奮した一方で、月3万円近い固定費を個人で払い続けるのは「トークン・スノーボール」の恐怖もあって正直躊躇しました。\n\nそこに現れたBlock社のOSSエージェント「Goose」が面白い。Claude Codeとほぼ同等のことができる上に、モデルが自由に選べる。これ、RTX 4090を回してる身からすると最高なんですよね。DeepSeekを使えばコストは1/10以下、ローカルLLMならゼロ。\n\n結局、僕らエンジニアが求めているのは「公式の安心感」なのか、それとも「ツールを支配する自由」なのか。MCP（Model Context Protocol）の普及で、この戦いはさらに激化しそうです。\n\nSIer時代に高いライセンス料で苦労した経験がある人なら、このGooseの登場がどれだけ救いになるか分かるはず。皆さんは、自律型AIエージェントに月200ドル払う価値があると思いますか？それとも自前で組む派ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-27-claude-code-vs-goose-cost-comparison-mcp.jpg",
+    "created_at": "2026-04-27T17:32:39.095644+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-27-gitbar-3-pull-request-management-review",
+    "title": "GitBarレビュー 複数プラットフォームのPRをメニューバーで一括管理",
+    "url": "https://ai.negi-lab.com/posts/gitbar-3-pull-request-management-review/",
+    "category": "TOOL",
+    "viral_tags": "#GitHub #生産性向上",
+    "tweet_text": "GitHub、GitLab、AzureのPRをmacOSのメニューバーへ集約する「GitBar 3」が、マルチプラットフォームで動くエンジニアにとってかなり実用的です。\n\nSIer時代、複数チームのレビュー待ちで数時間が溶けていた経験がありますが、結局「今、自分が何をすべきか」を把握するためのコンテキストスイッチが最大の敵なんですよね。ブラウザを開くたびに発生する「0.5秒の思考の断絶」が、1日積み重なると馬鹿になりません。\n\nGitBarはメニューバーにアイコンの色と数字だけで状況を表示してくれるので、視界の端でステータスを確認するだけで済みます。CIが落ちた瞬間に気づけるし、承認されたら即マージできる。この「待ち時間」を能動的なアクションに変えられる感覚は、一度慣れると戻れません。\n\nElectron製ではなくネイティブ動作なので、RTX 4090を積んだ自宅サーバーを横目にMacBookで作業していても、メモリを食い潰さないのが嬉しいポイント。\n\nPRの回転率を上げて開発サイクルを爆速にしたい人、通知に振り回される生活を卒業したい人には、導入の価値があると思います。\n\n皆さんはPRのステータス管理、Slack通知派ですか？それとも専用アプリ派ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-27-gitbar-3-pull-request-management-review.jpg",
+    "created_at": "2026-04-27T17:34:19.672520+09:00",
+    "posted": false
   }
 ]
