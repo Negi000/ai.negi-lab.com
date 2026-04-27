@@ -13007,5 +13007,19 @@
     "image_path": "/images/posts/2026-04-27-deepseek-v4-preview-coding-ai-benchmark.jpg",
     "created_at": "2026-04-27T12:48:02.864033+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-27-world-press-photo-ai-standard-c2pa-authenticity",
+    "title": "世界報道写真コンテストが下したAIへの審判と「写真」の再定義",
+    "url": "https://ai.negi-lab.com/posts/world-press-photo-ai-standard-c2pa-authenticity/",
+    "category": "NEWS",
+    "viral_tags": "#WorldPressPhoto #C2PA",
+    "tweet_text": "世界報道写真コンテストが、生成AI画像を「報道写真ではない」と完全排除する基準を打ち出しました。これはAI技術への拒絶ではなく、むしろAI時代における「現実」の再定義です。\n\nかつてSIerでシステムの信頼性を1%上げるのに血眼になっていた私から見ると、この動きは必然。AI検知ツールという「統計的な当て推量」に頼るのではなく、カメラ内部の秘密鍵で署名するC2PA規格で「真正性」を物理的に担保する。この設計思想の転換が非常に合理的です。\n\nこれからの画像データは「誰が、いつ、どの物理センサーで捉えたか」という暗号学的証明がセットでなければゴミ扱いされる時代になります。AI開発者にとっても、合成データによるモデル崩壊を防ぐために「認証済み現実データ」の収集が急務になるでしょう。\n\n皆さんの開発現場や業務で、画像の「出所証明」を求められる機会は増えていますか？あるいは「AI判定ツール」の誤検知に困った経験はありますか？現場のリアルな感覚をぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-27-world-press-photo-ai-standard-c2pa-authenticity.jpg",
+    "created_at": "2026-04-27T15:09:36.336686+09:00",
+    "posted": false
   }
 ]

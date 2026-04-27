@@ -1,84 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "米国·EU規制モデルの混在、国内AI企業が直面する現実 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RcVhVTGpuVlg3UzEzeF9PdThrRHQzRnhTQ1cxb0ZxRHlFNVJQSGhIZU5sU1p0RjJnVk54RUlveloyWGk1U0Q0YlY0c1hwb3hmbWc?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 19 Apr 2026 22:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RcVhVTGpuVlg3UzEzeF9PdThrRHQzRnhTQ1cxb0ZxRHlFNVJQSGhIZU5sU1p0RjJnVk54RUlveloyWGk1U0Q0YlY0c1hwb3hmbWc?oc=5\" target=\"_blank\">米国·EU規制モデルの混在、国内AI企業が直面する現実</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
-      "extra": {},
-      "collected_at": "2026-04-20T14:47:42"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "To Beat China, Embrace Open-Source AI (WSJ)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqa40j/to_beat_china_embrace_opensource_ai_wsj/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-20T00:37:51+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sqa40j/to_beat_china_embrace_opensource_ai_wsj/\"> <img alt=\"To Beat China, Embrace Open-Source AI (WSJ)\" src=\"https://external-preview.redd.it/m-ySIkZW_8uBcUNA8gDCDKtopLFj_sYEnf3S_47tF1w.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4bdefec23d64f52dcbcecd185b49b53e57724bb1\" title=\"To Beat China, Embrace Open-Source AI (WSJ)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rm-rf-rm\"> /u/rm-",
-      "extra": {},
-      "collected_at": "2026-04-20T14:47:45"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Is anyone getting real coding work done with Qwen3.6-35B-A3B-UD-Q4_K_M on a 32GB Mac in opencode, claude code or similar?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sq94qx/is_anyone_getting_real_coding_work_done_with/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-19T23:54:06+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm running Qwen3.6-35B-A3B-UD-Q4_K_M on an M2 Macbook Pro with 32GB of RAM. I'm using quite recent builds of llama.cpp and opencode.</p> <p>To avoid llama-server crashing outright due to memory exhaustion, I have to set the context window to 32768 tokens. This turns out to be important.</p> <p>As a hopefully reasonable test, I gave opencode a task that Claude Code was previously able to complete with Opus 4.7. The project isn't huge, but the task involves rooti",
-      "extra": {},
-      "collected_at": "2026-04-20T14:47:45"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "SK hynix starts mass production of 192GB SOCAMM2 for NVIDIA AI servers",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sqap57/sk_hynix_starts_mass_production_of_192gb_socamm2/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-20T01:03:58+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>hynix just started mass producing a 192GB SOCAMM2 memory module aimed at next gen AI servers, and it is basically trying to fix one of the biggest bottlenecks in modern AI systems. Instead of traditional server RAM, it uses LPDDR5X like you would find in phones, which lets it push more than double the bandwidth while cutting power use by over 75 percent compared to RDIMM. It is also being built specifically for NVIDIA’s upcoming Vera Rubin platform, which tells ",
-      "extra": {},
-      "collected_at": "2026-04-20T14:47:45"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "QWEN3.6 + ik_llama is fast af",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sq8q9k/qwen36_ik_llama_is_fast_af/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-19T23:35:51+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sq8q9k/qwen36_ik_llama_is_fast_af/\"> <img alt=\"QWEN3.6 + ik_llama is fast af\" src=\"https://preview.redd.it/p204eyn2g8wg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0db1bdcac41c7a3f27627768df4d06b8bb69c2f\" title=\"QWEN3.6 + ik_llama is fast af\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>running qwen3.6 UD_Q_4_K_M on 16GB vram + 32GB ram with 200k cw @50+ tok/s</p> </div><!-- SC_ON --> &#32; submitted by &#32; ",
-      "extra": {},
-      "collected_at": "2026-04-20T14:47:45"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Speculative decoding question, 665% speed increase",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sq7grd/speculative_decoding_question_665_speed_increase/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-19T22:41:02+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Im using these settings in llama.cpp: --spec-type ngram-map-k --spec-ngram-size-n 24 --draft-min 12 --draft-max 48</p> <p>Whats the real reason for lets say the prompt is for &quot;minor changes in code&quot;, whats differing between models:<br /> Gemma 4 31b: Doubles in tks gen so 100%<br /> Qwen 3.6: Only 40% more speed<br /> Devstrall small: 665% increase in speed (what?)</p> <p>EDIT:</p> <p>added --repeat-penalty 1.0 and --spec-type ngram-mod instead for Qwe",
-      "extra": {},
-      "collected_at": "2026-04-20T14:47:45"
-    },
-    {
       "source": "HN AI Companies",
       "title": "Anthropic installed a spyware bridge on my machine?",
       "url": "https://www.thatprivacyguy.com/blog/anthropic-spyware/",
@@ -2401,20 +2323,6 @@
     },
     {
       "source": "The Verge AI",
-      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-04-24T05:45:30-04:00",
-      "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI. DeepSeek says V4 marks a major improvement over prior models, especially in coding, a capability that has become central [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-24T19:21:23"
-    },
-    {
-      "source": "The Verge AI",
       "title": "Prestigious photo contest answers ‘what is a photo?’",
       "url": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
       "primary_category": "NEWS",
@@ -3301,7 +3209,21 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1swjxjx/thoughts_on_using_an_amd_alveo_v80_fpga_pci_card/\"> <img alt=\"Thoughts on using an AMD Alveo V80 FPGA PCI card as a poor man’s Taalas HC1 (LLM-burned-onto-a-chip).\" src=\"https://preview.redd.it/z39jahyzplxg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c4285fd63941f47c5c49e41bd599399e6e37f2a\" title=\"Thoughts on using an AMD Alveo V80 FPGA PCI card as a poor man’s Taalas HC1 (LLM-burned-onto-a-chip).\" /> </a> </t",
       "extra": {},
       "collected_at": "2026-04-27T12:47:29"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Fri, 16 Jan 2026 14:01:00 GMT",
+      "summary": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-olson\">$100 million offers</a> seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a <a href=\"https://billboardinsider.com/ai-startup/\">billboard in San Francisco</a> displayi",
+      "extra": {},
+      "collected_at": "2026-04-27T15:08:30"
     }
   ],
-  "updated_at": "2026-04-27T12:47:29.015695+09:00"
+  "updated_at": "2026-04-27T15:08:34.530696+09:00"
 }
