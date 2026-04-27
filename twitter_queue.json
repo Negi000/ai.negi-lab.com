@@ -13105,5 +13105,19 @@
     "image_path": "/images/posts/2026-04-27-build-ai-agent-open-interpreter-manus-alternative.jpg",
     "created_at": "2026-04-27T23:08:40.721515+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-28-logic-agent-fleet-management-review",
+    "title": "Logic 使い方と実務評価：エージェント艦隊を運用するプラットフォームの真価",
+    "url": "https://ai.negi-lab.com/posts/logic-agent-fleet-management-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #LogicAI",
+    "tweet_text": "AIエージェントを「実験室」から「実現場」へ連れ出すための決定打になりそうなツール。Logic（@logic_sh）を徹底的に触ってみました。\n\nこれまでLangChainやCrewAIでエージェントを組んできましたが、一番の悩みはデプロイ後の「運用」でした。APIのレート制限、エラー時のリトライ、並行実行の管理…。こうした泥臭いインフラ周りを、Logicは「フリート（艦隊）」という概念で丸ごと解決してくれます。\n\n実際にSDKを叩いてみましたが、自分のサーバーリソースを気にせず、エージェントをクラウド上にオフロードして並列稼働させられるのは快感。ダッシュボードで思考プロセスがリアルタイムに見えるので、デバッグ作業もSIer時代の苦労が嘘のように捗ります。\n\n正直、一人で一つのエージェントを動かすだけなら不要です。でも、複数のAIを連携させたSaaSを作りたいなら、この「管理基盤」としての価値は計り知れない。\n\nエージェントの運用、皆さんはどうしてますか？自前でFastAPIとかでラップしてDB管理してる方が多いんでしょうか。それともLangSmithのような監視ツールで十分？現場のリアルな構成が気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-28-logic-agent-fleet-management-review.jpg",
+    "created_at": "2026-04-28T01:12:22.749498+09:00",
+    "posted": false
   }
 ]
