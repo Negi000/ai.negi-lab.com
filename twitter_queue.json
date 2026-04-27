@@ -12993,5 +12993,19 @@
     "image_path": "/images/posts/2026-04-27-musk-vs-altman-openai-lawsuit-april-2025-trial.jpg",
     "created_at": "2026-04-27T06:51:28.228841+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-27-deepseek-v4-preview-coding-ai-benchmark",
+    "title": "DeepSeek V4が変える開発現場。Claude 3.5 Sonnet超えを狙う最強のOSS",
+    "url": "https://ai.negi-lab.com/posts/deepseek-v4-preview-coding-ai-benchmark/",
+    "category": "NEWS",
+    "viral_tags": "#DeepSeekV4 #ローカルLLM",
+    "tweet_text": "DeepSeek V4のプレビュー公開。これはもはや「事件」と言っていいレベルの衝撃ですね。SIer時代に必死でコードを書いていた頃、こんなツールがあればどれだけ救われたか。\n\n今回のV4、単にベンチマークスコアが高いだけじゃない。独自のMoEとMulti-Token Prediction（MTP）の磨き上げ方がエグいんです。要するに「コードの先読み能力」が前作V3からさらに進化していて、リファクタリングの精度がClaude 3.5 Sonnetに肉薄しています。\n\nしかもAPI価格はクローズドモデルの約20分の1。RTX 4090を2枚挿してローカルLLMを回している私から見ても、この「圧倒的な性能をオープンな思想で提供する」姿勢は脅威。OpenAIやAnthropicが構築したクローズドな帝国が、ついに根底から揺らぎ始めています。\n\n「中国製だから」と敬遠している間に、隣のエンジニアは1/20のコストであなたの10倍のコードを書くようになるかもしれません。実務でDeepSeekを使っている皆さん、V3からV4への進化、具体的にどのへんで感じますか？リプライで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-27-deepseek-v4-preview-coding-ai-benchmark.jpg",
+    "created_at": "2026-04-27T12:48:02.864033+09:00",
+    "posted": false
   }
 ]
