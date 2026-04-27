@@ -13049,5 +13049,33 @@
     "image_path": "/images/posts/2026-04-27-gitbar-3-pull-request-management-review.jpg",
     "created_at": "2026-04-27T17:34:19.672520+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-27-meta-space-solar-power-deal-ai-energy",
+    "title": "Metaが宇宙太陽光発電を契約 AI電力不足を宇宙から解決する衝撃",
+    "url": "https://ai.negi-lab.com/posts/meta-space-solar-power-deal-ai-energy/",
+    "category": "NEWS",
+    "viral_tags": "#MetaAI #宇宙太陽光発電",
+    "tweet_text": "AI開発の勝負はついに「地球の外」へ。Metaが宇宙太陽光発電スタートアップと電力契約を結んだというニュースを見て、震えています。\n\n元SIerとしてサーバーラックの電源容量に頭を抱えていた頃が、もはや原始時代のように感じますね。Metaが選んだのは、原子力でも蓄電池でもなく「宇宙から24時間マイクロ波で電力をビームする」という物理的な解決策。\n\nAIモデルの巨大化＝電力の爆食い、という図式に対し、もはや地上のインフラでは支えきれないと判断したのでしょう。自前でエネルギー源まで確保し始めたMetaの垂直統合戦略は、もはやテック企業の枠を超えています。\n\nRTX 4090を2枚挿しで回して電気代に一喜一憂している私のような個人勢からすれば、この規模感の差は絶望的ですらありますが、同時にワクワクもします。\n\n「夜だから電気が足りない」という物理の制約をAIが自ら解決しに行く時代。\nこれ、もし数年後にLlama 5の推論コストがこのおかげで激減したら、他のプラットフォームは太刀打ちできるのでしょうか？\n\n皆さんは、この「宇宙からの電力供給」という力技、AIインフラの最適解だと思いますか？それともリスクが高すぎる賭けだと思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-27-meta-space-solar-power-deal-ai-energy.jpg",
+    "created_at": "2026-04-27T20:04:24.960486+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-27-snewpapers-ai-archive-review-api-usage",
+    "title": "SNEWPapers 使い方とAIニュースアーカイブの実務活用レビュー",
+    "url": "https://ai.negi-lab.com/posts/snewpapers-ai-archive-review-api-usage/",
+    "category": "TOOL",
+    "viral_tags": "#SNEWPapers #生成AI",
+    "tweet_text": "AI業界の情報密度、もう人間が追える限界を超えてますね。SIer時代も情報収集は命でしたが、今はその比じゃない。\n\n話題の「SNEWPapers」を徹底的に触ってみました。\nこれ、単なるニュースサイトじゃない。世界中のAI動向を「新聞」形式でアーカイブしてAPIで叩ける、エンジニア向けの知識インフラです。\n\n個人的にシビれたのは独自の「インパクトスコア」。\nSNSのノイズを削ぎ落として、技術的に重要なニュースだけをレスポンス0.4秒で抽出できるのは、RAGのソース構築において圧倒的な武器になります。\n実際、自前でクローラー回してLLMで要約させる手間を考えたら、API代を払う価値は十分にあると感じました。\n\nただ、日本語ソースがまだ弱いのが正直なところ。国内情報をメインに追いたい人には、まだ早いかもしれません。\n\n皆さんは最新のモデル発表や論文、どうやって管理してますか？\n私は自宅の4090サーバーでこのAPIを回して自動集計し始めましたが、他にも「これ一択」というツールがあればぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-27-snewpapers-ai-archive-review-api-usage.jpg",
+    "created_at": "2026-04-27T20:07:05.288809+09:00",
+    "posted": false
   }
 ]
