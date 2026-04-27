@@ -13077,5 +13077,33 @@
     "image_path": "/images/posts/2026-04-27-snewpapers-ai-archive-review-api-usage.jpg",
     "created_at": "2026-04-27T20:07:05.288809+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-27-odyssey-2-max-physical-world-model-review",
+    "title": "Odyssey-2 Max 使い方と物理シミュレーションの実務活用",
+    "url": "https://ai.negi-lab.com/posts/odyssey-2-max-physical-world-model-review/",
+    "category": "TOOL",
+    "viral_tags": "#Odyssey2Max #ワールドモデル",
+    "tweet_text": "動画生成AIの進化を追いかけてきましたが、Odyssey-2 Maxに触れて「生成ビデオ」と「ワールドモデル」の明確な境界線が見えました。\n\nSoraが「最高に美しい嘘」をつくツールだとしたら、これは「物理的に正しい現実」をシミュレートするツールです。重力、摩擦係数、流体密度をパラメータで指定し、生成された映像から各物体の座標や速度ベクトルをJSONで引っこ抜ける。この感覚、AIエンジニアなら鳥肌が立つはず。\n\nSIer時代、シミュレーション用のアセット作成だけで数週間溶かしていた経験からすると、プロンプト一つで「物理定数が通った世界」が出来上がるのは魔法に近い。もちろんRTX 4090を酷使するし、日本語ドキュメントもない。でも、ロボティクスや自動運転の学習データ不足に悩む層には、これしかないという選択肢です。\n\n物理シミュレーションをAIで置き換える流れ、皆さんはどう見ていますか？数値シミュレーターを完全に代替する日は来ると思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-27-odyssey-2-max-physical-world-model-review.jpg",
+    "created_at": "2026-04-27T23:07:10.940816+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-27-build-ai-agent-open-interpreter-manus-alternative",
+    "title": "Open InterpreterでManus級の自律型AIエージェントを自作する方法",
+    "url": "https://ai.negi-lab.com/posts/build-ai-agent-open-interpreter-manus-alternative/",
+    "category": "GUIDE",
+    "viral_tags": "#OpenInterpreter #AIエージェント",
+    "tweet_text": "Metaが20億ドルを積んでも手に入らなかった「Manus」の技術。中国政府のブロックで買収は白紙になりましたが、私たちエンジニアが悲観する必要はありません。\n\nAIエージェントの本質は、LLMによる推論とコード実行のループ。これはOpen Interpreterを使えば、今すぐ自分のPC上に再現可能です。SIer時代、複雑なワークフローをシェルスクリプトで組んでいた苦労を思い出すと、自然言語でOSを操作できる今の環境はまさに魔法のよう。\n\n20億ドルの価値がある「自律性」を、わずか数十行のPythonコードで手に入れる。この実装体験は、今後AIに「使われる側」か「使いこなす側」かを分ける境界線になると確信しています。\n\nAPIコスト数円で、毎日30分のリサーチ作業を自動化する。そんな実戦的なスクリプトを構築するガイドを書きました。\n\n実際に手を動かしてみた方、エージェントにどこまで権限を渡していますか？私は怖くてまだデスクトップ範囲に留めていますが、Docker環境でフル権限運用している猛者がいたら、ぜひその設計思想を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-27-build-ai-agent-open-interpreter-manus-alternative.jpg",
+    "created_at": "2026-04-27T23:08:40.721515+09:00",
+    "posted": false
   }
 ]
