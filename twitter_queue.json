@@ -13203,5 +13203,33 @@
     "image_path": "/images/posts/2026-04-28-couch-critic-netflix-comment-extension-review.jpg",
     "created_at": "2026-04-28T17:31:31.867943+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-28-darpa-aixcc-ai-cybersecurity-vulnerability-automation",
+    "title": "DARPA AIxCCが証明したAI脆弱性検知の衝撃と開発者が直面するセキュリティの新現実",
+    "url": "https://ai.negi-lab.com/posts/darpa-aixcc-ai-cybersecurity-vulnerability-automation/",
+    "category": "NEWS",
+    "viral_tags": "#AIxCC #サイバーセキュリティ",
+    "tweet_text": "SIer時代の苦労は何だったのか…。DARPAが主催したAI Cyber Challenge (AIxCC)の結果が、エンジニアとしての常識を根底から覆しています。\n\nなんと、AIがわずか数時間で5,400万行のコードをスキャンし、埋め込まれた脆弱性を特定。さらに修正パッチまで自律的に作成したとのこと。これ、人間が手作業でやったら数年かかるボリュームですよ。\n\nかつての「脆弱性診断」は、高い金を払って専門家に頼むか、静的解析ツールの誤検知にイライラしながら向き合うものでした。しかし、これからは「AIエージェントがCI/CDの中で勝手に直し続ける」のが当たり前になります。\n\n懸念されるのは、このパワーを攻撃側の「スクリプトキディ」も手にするという点。ゼロデイ攻撃の発見コストがほぼゼロになる未来。私たちは「AIでAIを防ぐ」動的な免疫システムを構築せざるを得ません。\n\nRTX 4090を回してローカルでコード監査を試していますが、LLMの「文脈理解」による指摘の精度は、正直言って並のエンジニアより高いです。皆さんの現場では、AIによるコードレビュー、どこまで自動化できていますか？精度や導入のハードルについて、ぜひ意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-28-darpa-aixcc-ai-cybersecurity-vulnerability-automation.jpg",
+    "created_at": "2026-04-28T20:05:27.268277+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-28-monet-ai-video-image-editing-claude-code",
+    "title": "Monet 使い方・レビュー：Claude Code連携で動画・画像を自動生成",
+    "url": "https://ai.negi-lab.com/posts/monet-ai-video-image-editing-claude-code/",
+    "category": "TOOL",
+    "viral_tags": "#Monet #ClaudeCode",
+    "tweet_text": "動画編集やバナー制作の「ポチポチ作業」に疲弊しているエンジニアは、今すぐMonetをチェックすべきです。\n\nClaude CodeやCodexをバックエンドに使い、自然言語の指示をそのままffmpegやCanvasの実行コードに変換してメディアを生成するツール。\nこれ、「AIが動画を作ってくれる」というレベルじゃなくて「エンジニアリングとしてクリエイティブを扱える」ようになるのが最大の衝撃。\n\nSIer時代、大量の定型動画にテロップを入れる苦行を経験した私からすれば、これが当時あればどれほど救われたか…。\n1分の動画のリサイズと構図調整が、わずか12秒の推論で終わる。このスピード感は異常です。\n\n「1ピクセルの美学」を追求するデザイナーより、「100パターンのバリエーションを1分で生成したい」開発者やマーケターに刺さるはず。\n正直、環境構築はffmpeg必須だったりと硬派な仕様ですが、Pythonが書けるなら使いこなすのは難しくない。\n\nAPIコストはかかるけど、自分の時給を考えれば安すぎる投資。\nUI主導のクリエイティブから、コード主導のクリエイティブへのシフトを肌で感じました。\n皆さんは動画制作の自動化、どこまで進めていますか？具体的な自動化の悩みがあればぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-28-monet-ai-video-image-editing-claude-code.jpg",
+    "created_at": "2026-04-28T20:06:28.454645+09:00",
+    "posted": false
   }
 ]
