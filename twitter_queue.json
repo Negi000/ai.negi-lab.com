@@ -13231,5 +13231,33 @@
     "image_path": "/images/posts/2026-04-28-monet-ai-video-image-editing-claude-code.jpg",
     "created_at": "2026-04-28T20:06:28.454645+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-28-devin-for-terminal-review-autonomous-ai-agent",
+    "title": "Devin for Terminal 使い方と実務における自律型AIの評価",
+    "url": "https://ai.negi-lab.com/posts/devin-for-terminal-review-autonomous-ai-agent/",
+    "category": "TOOL",
+    "viral_tags": "#DevinAI #自律型エージェント",
+    "tweet_text": "SIer時代に欲しかった「夜勤を代わってくれるAI」がついに現実味を帯びてきた。\n\nDevin for Terminalを触ってみたが、これは従来のAIチャットとは別次元の代物。最大の特徴は、Macを閉じて寝ている間に、AIがクラウド上のサンドボックスで勝手に環境構築、デバッグ、テスト完結までやってくれる点にある。\n\nこれまでのAIは「答えを教えてくれる」だけだった。でもDevinは「手を動かして終わらせてくれる」。依存関係がぐちゃぐちゃなレガシープロジェクトのライブラリアップデートを投げたら、エラーと戦いながら自律的に解決していく姿は、もはやジュニアエンジニアそのもの。\n\nただし、爆速でコードを書きたいときはCursorの方がいいし、APIコストも決して安くない。でも「3時間かかる泥臭い修正作業」から解放される価値を考えたら、中級以上のエンジニアにとっては最強の投資になるはず。\n\n皆さんは、自分の代わりにAIに任せたい「一番面倒な作業」って何ですか？私は迷わず「依存関係の解消と環境構築」ですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-28-devin-for-terminal-review-autonomous-ai-agent.jpg",
+    "created_at": "2026-04-28T23:24:47.935935+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-28-qwen-36-27b-gguf-quantization-guide",
+    "title": "Qwen 3.6 27B 使い方 | ローカルLLM環境構築と量子化モデル比較ガイド",
+    "url": "https://ai.negi-lab.com/posts/qwen-36-27b-gguf-quantization-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLM #Qwen3",
+    "tweet_text": "実機検証の結果、Qwen 3.6 27BのQ4量子化が予想以上に実用的であることがわかりました。\nRedditでの検証報告を受けて、私自身のRTX 4090環境でもBF16 vs Q4_K_M vs Q8_0のベンチマークを実施。\n\nSIer時代、これほどの知能をVRAM 20GB弱に押し込めるなんて想像もできませんでした。\nBF16（54GB）とQ4_K_Mをブラインドテストしても、一般的なコーディングや要約タスクではまず差がわかりません。\n一方で、推論速度はQ4にすることで劇的に向上し、24GBのシングルGPUで余裕を持ってコンテキストを維持できます。\n\n「ローカルLLMは精度が低い」という時代は、この27Bクラスの登場で完全に終わりましたね。\n今回はllama.cppをベースに、一瞬でOpenAI互換サーバーを建てる手順をまとめました。\nAPI代を気にせず、自宅サーバーで高性能なLLMを回し続ける快感。\n\n皆さんは20B〜30Bクラスのモデルを動かす時、どの量子化ビット数で運用していますか？\nやはり速度優先でQ4でしょうか、それとも粘ってQ6以上を使いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-28-qwen-36-27b-gguf-quantization-guide.jpg",
+    "created_at": "2026-04-28T23:26:33.221159+09:00",
+    "posted": false
   }
 ]
