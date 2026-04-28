@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "2x 512gb ram M3 Ultra mac studios",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sra4sv/2x_512gb_ram_m3_ultra_mac_studios/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-21T01:58:25+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sra4sv/2x_512gb_ram_m3_ultra_mac_studios/\"> <img alt=\"2x 512gb ram M3 Ultra mac studios\" src=\"https://preview.redd.it/zcdxh4ht9gwg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8cd8cbe5f61f614a8b45e74c57a4655fa6a254e5\" title=\"2x 512gb ram M3 Ultra mac studios\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>$25k in hardware. tell me what you want me to load on them and i'll help test.<br /> i've done deepseek v3.2 Q",
-      "extra": {},
-      "collected_at": "2026-04-21T14:34:05"
-    },
-    {
       "source": "The Verge AI",
       "title": "Silicon Valley has forgotten what normal people want",
       "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
@@ -3022,20 +3009,6 @@
       "collected_at": "2026-04-28T01:11:43"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
-      "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Mon, 27 Apr 2026 16:13:02 +0000",
-      "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
-      "extra": {},
-      "collected_at": "2026-04-28T03:04:08"
-    },
-    {
       "source": "Product Hunt",
       "title": "PlayJoob",
       "url": "https://www.producthunt.com/products/playjoob",
@@ -3198,7 +3171,73 @@
       "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/The_frozen_one\"> /u/The_frozen_one </a> <br /> <span><a href=\"https://talkie-lm.com/introducing-talkie\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sxmvzi/anyone_tried_this_yet_llm_with_knowledge_date_in/\">[comments]</a></span>",
       "extra": {},
       "collected_at": "2026-04-28T12:52:12"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-27T23:39:33-04:00",
+      "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto, who was there at [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-28T15:12:10"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "San Francisco, AI capital of the world, is an economic laggard",
+      "url": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 28 Apr 2026 04:32:42 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-04-28T15:12:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Wafaa.io",
+      "url": "https://www.producthunt.com/products/wafaa-io-beta",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create secure digital contracts in minutes </p> <p> <a href=\"https://www.producthunt.com/products/wafaa-io-beta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1117200?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-28T15:12:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I'm done with using local LLMs for coding",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxqa2c/im_done_with_using_local_llms_for_coding/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-28T03:50:38+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I think gave it a fair shot over the past few weeks, forcing myself to use local models for non-work tech asks. I use Claude Code at my job so that's what I'm comparing to.</p> <p>I used Qwen 27B and Gemma 4 31B, these are considered the best local models under the multi-hundred LLMs. I also tried multiple agentic apps. My verdict is that the loss of productivity is not worth it the advantages.</p> <p>I'll give a brief overview of my main issues.</p> <p><strong>",
+      "extra": {},
+      "collected_at": "2026-04-28T15:12:20"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Duality of r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxs71y/duality_of_rlocalllama/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-28T05:27:57+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sxs71y/duality_of_rlocalllama/\"> <img alt=\"Duality of r/LocalLLaMA\" src=\"https://preview.redd.it/a0r1ptt6avxg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=090fd0ef68c3bac54a42a61ad4a33dc41eac4446\" title=\"Duality of r/LocalLLaMA\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HornyGooner4402\"> /u/HornyGooner4402 </a> <br /> <span><a href=\"https://i.redd.it/a0r1ptt6avxg1.jpeg\">[link]</a><",
+      "extra": {},
+      "collected_at": "2026-04-28T15:12:20"
     }
   ],
-  "updated_at": "2026-04-28T12:52:12.142101+09:00"
+  "updated_at": "2026-04-28T15:12:20.609816+09:00"
 }
