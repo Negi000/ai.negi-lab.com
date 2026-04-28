@@ -13175,5 +13175,33 @@
     "image_path": "/images/posts/2026-04-28-china-blocks-meta-manus-ai-agent-acquisition.jpg",
     "created_at": "2026-04-28T15:12:53.936351+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-28-openai-phone-ai-agent-os-rumor",
+    "title": "OpenAIが「アプリのないスマホ」を開発中か。AIエージェントがOSになる未来の現実味",
+    "url": "https://ai.negi-lab.com/posts/openai-phone-ai-agent-os-rumor/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #AIエージェント",
+    "tweet_text": "OpenAIが独自のAIスマホを開発中というニュース。これ、単なる「ChatGPT入りの端末」じゃないですよ。MediaTekやQualcommと組んで、OSの根本からAIエージェントを据える「アプリのないスマホ」を目指してる。\n\nSIer時代、数多のアプリ開発に携わってきましたが、ついに「アプリを起動する」という概念自体がレガシーになる時が来ました。ユーザーの意図をAIが汲み取り、裏側で勝手にタスクを完遂する。Apple Intelligenceがやろうとしていることを、OpenAIはしがらみなしで、もっと純粋な形で実行しようとしています。\n\nJony Ive氏が関わっているという噂も相まって、ハードウェアとしての完成度にも期待してしまいますが、問題はやはりNPUの電力効率と排熱。RTX 4090を2枚挿しで運用している身からすると、あの計算負荷をどうやってポケットに収めるのか、技術的なブレイクスルーが気になって夜も眠れません。\n\n皆さんは、もし「画面のアイコンが全部消えて、マイクとカメラだけで操作するスマホ」が出たら、今のiPhoneから乗り換えますか？それとも、物理的なUIがないことに不安を感じますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-28-openai-phone-ai-agent-os-rumor.jpg",
+    "created_at": "2026-04-28T17:30:13.599356+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-28-couch-critic-netflix-comment-extension-review",
+    "title": "Couch Critic レビュー：Netflixに「議論」を取り戻す、エンジニア視点での検証と実装シミュレーション",
+    "url": "https://ai.negi-lab.com/posts/couch-critic-netflix-comment-extension-review/",
+    "category": "TOOL",
+    "viral_tags": "#CouchCritic #Netflix",
+    "tweet_text": "Netflixが廃止したあの「レビュー機能」を、強引かつスマートに復活させるツールを見つけました。Couch Critic、正直ただの拡張機能だと思って舐めてましたが、エンジニア視点で見るとかなりエグい実装してますね。\n\nVODのDRMレイヤーを回避しつつ、動画のPlayback Timeとコメントを1対1で同期させる。これ、かつてのニコニコ動画が持っていた「共時性」をNetflixに無理やり移植するような感覚です。\n\nSIer時代、動画配信系の案件で「視聴者の熱量をどう可視化するか」に苦労した経験がある身としては、このDOMインジェクションの手法とデータ構造のシンプルさには唸らされました。\n\n今のところ英語圏のユーザーがメインですが、APIを叩いてローカルLLMに放り込めば、リアルタイム翻訳や特定シーンの感情分析も余裕で組めそうです。Netflixの「孤独な視聴体験」に限界を感じている人は、一回触ってみる価値あります。\n\nただ、NetflixがDOMの難読化を強めた時にどう立ち回るのか、そこだけが技術的な懸念点。現状の仕様ならpip install並みの速さで導入できるし、解析用スクリプトのベースとしても優秀。皆さんはVODのコメント機能、必要だと思いますか？それとも没入感の邪魔だと思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-28-couch-critic-netflix-comment-extension-review.jpg",
+    "created_at": "2026-04-28T17:31:31.867943+09:00",
+    "posted": false
   }
 ]
