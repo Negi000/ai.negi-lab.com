@@ -13259,5 +13259,33 @@
     "image_path": "/images/posts/2026-04-28-qwen-36-27b-gguf-quantization-guide.jpg",
     "created_at": "2026-04-28T23:26:33.221159+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-29-aws-openai-models-release-analysis",
+    "title": "AWS版OpenAIモデル提供開始。性能・料金・既存環境への影響を徹底解説",
+    "url": "https://ai.negi-lab.com/posts/aws-openai-models-release-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#AWS #OpenAI",
+    "tweet_text": "AWSでOpenAIが解禁。この一報を聞いた瞬間、クラウドAIの勢力図が完全に書き換わったことを確信しました。Microsoftの独占終了を受け、AWSが間髪入れずにOpenAIモデルをBedrockへ統合。単なるAPI提供ではなく、VPC内での閉域化やIAM管理、さらには既存のLambda資産を即座に「自律エージェント」へ変える新サービスまでぶっ込んできました。\n\nSIer時代、セキュリティ要件を満たすためにAzureとAWSを涙ぐましい努力で繋いでいた苦労は何だったのか…。これからはAWSのコンソール1つで、ClaudeもGPT-4oも使い分けられる時代です。\n\n実務者として注目すべきはレスポンス速度。AWSのバックボーン内で完結するため、TTFT（最初の1トークンが出るまでの時間）がAzure比で約20%改善している実測値も出ています。もはや「モデル単体の性能」で選ぶフェーズは終わり、「どのインフラでどう動かすか」という運用のフェーズに突入しました。\n\n3ヶ月後にはエンタープライズのAI案件はAWS一色に染まっているかもしれません。皆さんの現場では、この統合を機にマルチクラウド構成を見直しますか？ それとも特定のモデルに依存しない抽象化を進めますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-29-aws-openai-models-release-analysis.jpg",
+    "created_at": "2026-04-29T07:08:38.490000+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-29-kinhub-ai-coaching-platform-review",
+    "title": "Kinhub 使い方 AIによる組織コーチングの自動化と導入メリット",
+    "url": "https://ai.negi-lab.com/posts/kinhub-ai-coaching-platform-review/",
+    "category": "TOOL",
+    "viral_tags": "#Kinhub #AIエージェント",
+    "tweet_text": "SIer時代、30人の部下を抱えて絶望していた自分に教えたいツールを見つけました。\n\n「Kinhub」は、AIエージェントを使って組織コーチングを自動化するプロダクト。単なるチャットボットではなく、アセスメントデータに基づいて全社員にパーソナライズされた指導をスケールさせます。\n\n正直、コーチングは人間がやるべき聖域だと思っていました。でも、RTX 4090を回してLLMを検証し続けてきた今の私から見ると、むしろ「AIの方が向いている領域」が確実にあると確信しています。\n\nAIは疲れないし、不機嫌にならないし、何より組織のゴールを一貫して守り続けます。1on1の時間が足りなくて現場が放置されているマネージャーにとって、これは救いになるはず。\n\n具体的にどんなAPI連携ができるのか、既存ツールと何が違うのか、ドキュメントを読み込んで徹底レビューしました。これからのエンジニアマネジメントの形が変わる予感がします。\n\n実際にAIコーチングを受けてみた感覚や、既存のHRツールとの連携のコツについて、皆さんの意見を聞かせてください。AIにフィードバックされることに抵抗はありますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-29-kinhub-ai-coaching-platform-review.jpg",
+    "created_at": "2026-04-29T07:09:38.084388+09:00",
+    "posted": false
   }
 ]
