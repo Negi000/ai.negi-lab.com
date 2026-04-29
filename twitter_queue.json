@@ -13287,5 +13287,19 @@
     "image_path": "/images/posts/2026-04-29-kinhub-ai-coaching-platform-review.jpg",
     "created_at": "2026-04-29T07:09:38.084388+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-29-musk-vs-openai-trial-agi-impact",
+    "title": "イーロン・マスクがOpenAI裁判で語った「決別の真実」とAGI開発の透明性が問われる理由",
+    "url": "https://ai.negi-lab.com/posts/musk-vs-openai-trial-agi-impact/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI裁判 #イーロンマスク",
+    "tweet_text": "イーロン・マスクがOpenAIとの裁判で、サム・アルトマンとの「友情の終わり」を宣誓証言しました。\nこれ、ただの泥沼劇だと思ったら大間違いです。\n\n技術者として見逃せないのは「AGIの定義」が法廷で争われている点。\nもし裁判所が「今のGPTはすでにAGIだ」と認定すれば、Microsoftとのライセンス契約が根底から崩れます。\nつまり、私たちが当たり前に使っているOpenAI APIの利用条件が、ある日突然、法的な理由で激変するリスクがあるということ。\n\nSIer時代にベンダーロックインで地獄を見た身としては、今のOpenAI依存はかなり危ういと感じます。\n「人類のためのAI」という建前が、巨額の投資と計算リソースの独占によってどう変質したのか。\nマスクがGrokをオープン重みで出したのは、まさにこの「知能の私有化」への強烈なアンチテーゼだったわけです。\n\n正直、APIの便利さに慣れきってしまうのは怖い。\n今のうちにLangChain等でモデルを抽象化し、ローカルLLMへの切り替え手段を確保しておくのが、プロの仕事だと思います。\n\n皆さんは、特定のAPIが明日止まっても、自社サービスを維持できる準備はできていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-29-musk-vs-openai-trial-agi-impact.jpg",
+    "created_at": "2026-04-29T12:49:57.793179+09:00",
+    "posted": false
   }
 ]
