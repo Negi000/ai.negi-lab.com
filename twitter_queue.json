@@ -13371,5 +13371,33 @@
     "image_path": "/images/posts/2026-04-29-open-wearables-review-health-data-integration.jpg",
     "created_at": "2026-04-29T19:56:46.927717+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-29-noirdoc-claude-code-pii-guard-review",
+    "title": "noirdoc 使い方と個人情報漏洩を防ぐClaude Code運用術",
+    "url": "https://ai.negi-lab.com/posts/noirdoc-claude-code-pii-guard-review/",
+    "category": "TOOL",
+    "viral_tags": "#ClaudeCode #AIセキュリティ",
+    "tweet_text": "SIer時代、本番データのマスキング漏れで凍りつく現場を何度も見てきた私からすると、このツールの登場は必然であり救世主。\n\nClaude Codeは爆速でコードを書いてくれますが、怖いのは「無意識のデータ送信」です。プロジェクト内の.envやデバッグログ、顧客情報の断片がコンテキストに含まれた瞬間、企業のコンプライアンス的にはアウト。\n\nそこで「noirdoc」を試しました。これ、ClaudeのAPIへデータが飛ぶ手前でインターセプトしてPII（個人情報）を物理的にマスクするガードレール。正規表現ベースなのでレスポンスへの影響は0.1秒以下。RTX 4090を2枚回すようなヘビーな環境じゃなくても、MacBookでサクサク動くのが実用的です。\n\n正直、日本語の氏名検知にはカスタム設定が必要ですが、自分でルールを書けるエンジニアなら即戦力。\n「便利だけど会社では禁止」と言われる前に、こういうガードツールをセットで提案するのがプロの動き方じゃないでしょうか。\n\n皆さんの現場では、AIエージェントのPII対策ってどうしてますか？ローカルでの検閲、それとも最初から環境を分ける派ですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-29-noirdoc-claude-code-pii-guard-review.jpg",
+    "created_at": "2026-04-29T23:11:04.884301+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-29-how-to-setup-local-llm-qwen-python-ollama",
+    "title": "Qwen 2.5やGemma 2をローカル環境で高速に動かす方法",
+    "url": "https://ai.negi-lab.com/posts/how-to-setup-local-llm-qwen-python-ollama/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen2",
+    "tweet_text": "ローカルLLMの進化が速すぎて、もはや「動けばいい」段階は終わりましたね。今は「仕事でどう使い倒すか」のフェーズです。\n\nQwen 2.5やGemma 2といった最新モデルを、PythonからOllama経由で制御する最短ルートをまとめました。SIer時代、社内サーバーの設定に何日も費やした経験から言えば、1コマンドで環境が整い、RTX 4090で秒間100トークン以上叩き出す今の環境はまさに魔法です。\n\n特にQwen 2.5-Coderのコーディング能力は、特定ドメインのライブラリならGPT-4oに匹敵する感覚があります。これを完全オフライン、APIコストゼロで回せるメリットは計り知れません。\n\n今回は、初心者がハマりやすいストリーミング表示の実装や、文脈維持（履歴管理）の具体コードまで踏み込んで解説しています。とりあえず動かしてみるだけじゃなく、自分のシステムに組み込むための「道具」としてLLMを扱い始めたい人に読んでほしい内容です。\n\n皆さんはローカル環境、何に使ってますか？私は最近、自炊した技術書100冊をRAGで読み込ませて自分専用の技術顧問を作りました。実際のレスポンス速度や活用事例など、ぜひリプライで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-29-how-to-setup-local-llm-qwen-python-ollama.jpg",
+    "created_at": "2026-04-29T23:12:11.558173+09:00",
+    "posted": false
   }
 ]
