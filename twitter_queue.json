@@ -13315,5 +13315,33 @@
     "image_path": "/images/posts/2026-04-29-amazon-ai-audio-qa-join-the-chat-review.jpg",
     "created_at": "2026-04-29T15:07:33.102325+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-29-google-pentagon-ai-contract-gemini-vs-anthropic",
+    "title": "Googleが国防総省と新契約：Anthropicが拒絶した「AI兵器・監視」にGeminiを投入する意味",
+    "url": "https://ai.negi-lab.com/posts/google-pentagon-ai-contract-gemini-vs-anthropic/",
+    "category": "NEWS",
+    "viral_tags": "#GoogleGemini #AI倫理",
+    "tweet_text": "AI業界の倫理観が音を立てて崩れる音がしました。Anthropicが「大量監視や兵器転用」を懸念して断ったペンタゴンとの巨額契約を、Googleが引き受ける形で決着。\n\nかつてProject Mavenで社員が猛反対した歴史を持つGoogleですが、今回は背に腹は代えられないという本音が透けて見えます。Gemini 1.5 Proの「200万トークン」という圧倒的なコンテキスト窓は、戦場のドローン映像を数時間分丸ごと読み込み、標的を炙り出す「究極の監視ツール」として機能することになります。\n\nSIer出身の私から見れば、これは「AIの安全性」が企業のブランディングから、国家間のパワーゲームに完全に移行した瞬間だと感じます。AnthropicのClaudeが守ろうとした『一線』を、Googleはあっさりと越えていきました。\n\n私たちがAPIで叩いているGeminiの裏側で、同じモデルが軍事監視に使われているという現実。開発者として、この「デュアルユース」のジレンマをどう捉えるべきか。\n\n皆さんは、自分のコードが巡り巡って軍事利用される可能性について、どこまで許容できますか？オープンソースへの回帰が加速する気がしてなりません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-29-google-pentagon-ai-contract-gemini-vs-anthropic.jpg",
+    "created_at": "2026-04-29T17:24:13.680467+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-29-plurai-llm-eval-vibe-check-guardrails",
+    "title": "Pluraiレビュー：LLMの「評価」を言語化してガードレール化する実装ガイド",
+    "url": "https://ai.negi-lab.com/posts/plurai-llm-eval-vibe-check-guardrails/",
+    "category": "TOOL",
+    "viral_tags": "#LLMOps #生成AI開発",
+    "tweet_text": "LLMアプリを本番投入した後に一番怖いのは「想定外の変な回答」が出る瞬間。\nSIer時代、手動のテスト仕様書でLLMを評価しようとして絶望した経験がある私からすると、Pluraiのような「Vibeの自動評価」はもはや必須装備だと感じます。\n\nいわゆる「Vibe Check（雰囲気評価）」をミリ秒単位のガードレールに変えるアプローチが面白い。\nGPT-4を判定器にする「LLM-as-a-Judge」は精度こそ高いけど、コストと遅延がネックで本番では使いにくかった。Pluraiはそこを独自の軽量判定モデルで解決しにきています。\n\n特に面白いのは、単なる安全フィルターじゃなくて「自社ブランドらしいトーンか？」みたいな主観的な基準を学習させてガードレールにできる点。\nプロンプトエンジニアリングで解決しようとして沼る前に、こういう評価基盤を1本通しておくのが、令和のAIエンジニアの賢い戦い方かもしれません。\n\nドキュメントを読み込んだ限り、Python SDKの使い勝手もかなりシンプル。\n「動かしてみた」の先にある、品質担保の泥臭い部分を自動化したい人は一読の価値ありです。\n\nみなさんはLLMの出力評価、どう自動化してますか？やっぱりLangSmith一択？それとも自前で判定モデル組んでます？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-29-plurai-llm-eval-vibe-check-guardrails.jpg",
+    "created_at": "2026-04-29T17:25:15.988591+09:00",
+    "posted": false
   }
 ]
