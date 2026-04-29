@@ -13427,5 +13427,33 @@
     "image_path": "/images/posts/2026-04-30-deepseek-v3-multi-gpu-vllm-setup-guide.jpg",
     "created_at": "2026-04-30T01:17:53.117635+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-30-google-photos-ai-clueless-closet-vto",
+    "title": "Google Photos AIで『クルーレス』のクローゼットが現実に。服選びが変わる。",
+    "url": "https://ai.negi-lab.com/posts/google-photos-ai-clueless-closet-vto/",
+    "category": "NEWS",
+    "viral_tags": "#GooglePhotos #生成AI",
+    "tweet_text": "映画『クルーレス』のあのクローゼットが、Google Photos AIで現実になりました。これ、単なる「着せ替え」だと思ったら大間違いです。Googleが狙っているのは、私たちの「物理的な所有物」の完全なインデックス化。\n\n過去10年分の写真から服を勝手に抽出し、明日の天気や予定に合わせて「勝手に」コーディネートを組んでくれる。SIer時代に画像認識を組んでいた身からすると、ゼロショットでここまで正確に衣類をセグメンテーションできるようになった技術の進歩に震えます。\n\n技術的には、GeminiのVLMとしての能力がスマホアプリのUIに完全に溶け込んだ形。自分のクローゼットがデジタルツイン化されるのは便利ですが、同時に「何を持っていて、何回着たか」という究極のプライベートデータをGoogleに差し出すことでもあります。\n\n広告のコンバージョンは爆上がりするでしょうね。「そろそろその服、飽きませんか？」とAIに言われる日は近いです。\n\n皆さんは、自分の持ち物をすべてAIに把握されることに抵抗はありますか？それとも、毎朝の服選びから解放されるメリットの方が大きいと感じますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-30-google-photos-ai-clueless-closet-vto.jpg",
+    "created_at": "2026-04-30T03:12:07.859309+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-30-plannotator-ai-agent-annotation-review",
+    "title": "Plannotator ドキュメントやURLへのアノテーションでAIエージェントの精度を劇的に向上させる方法",
+    "url": "https://ai.negi-lab.com/posts/plannotator-ai-agent-annotation-review/",
+    "category": "TOOL",
+    "viral_tags": "#Plannotator #RAG開発",
+    "tweet_text": "AIエージェントのRAG精度が上がらずに、プロンプトをこねくり回して疲弊している開発者は多いはず。私もSIer時代から「データの前処理こそが本質」と痛感してきましたが、まさにその部分を力技で解決するツール「Plannotator」が面白いです。\n\nこれ、単なる注釈ツールじゃなくて、人間がドキュメントに「AIへのカンニングペーパー」を貼り付けるためのツールなんです。実際に試してみると、検索アルゴリズムをいじるより、重要な20枚のPDFに適切なメタ情報を付加するほうが、レスポンスの質が0.3秒で劇的に変わります。\n\nAPI経由でアノテーションを管理できるので、Git運用との相性も抜群。ただし、UIは英語メインだし、Python環境の構築も必要なので、誰にでもおすすめできるわけじゃない。でも、現場で「AIの誤回答」を絶対に出せない状況に追い込まれているプロフェッショナルには、これ以上ない武器になりますね。\n\n皆さんの現場では、RAGの精度向上に「人間によるメタデータ付与」ってどの程度許容されていますか？自動化を突き詰めるか、手動を混ぜるか、意見が分かれるところだと思います。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-30-plannotator-ai-agent-annotation-review.jpg",
+    "created_at": "2026-04-30T03:13:09.230969+09:00",
+    "posted": false
   }
 ]
