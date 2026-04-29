@@ -13343,5 +13343,33 @@
     "image_path": "/images/posts/2026-04-29-plurai-llm-eval-vibe-check-guardrails.jpg",
     "created_at": "2026-04-29T17:25:15.988591+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-29-scout-ai-100m-funding-war-models-agent",
+    "title": "Scout AIが1億ドル調達！兵士1人でドローン艦隊を操る軍事AIエージェントの衝撃",
+    "url": "https://ai.negi-lab.com/posts/scout-ai-100m-funding-war-models-agent/",
+    "category": "NEWS",
+    "viral_tags": "#ScoutAI #AIエージェント",
+    "tweet_text": "戦場でのAI活用が、想像を超えるスピードで「エージェント化」しています。\n\nScout AIが1億ドルを調達し、取り組んでいるのは「兵士1人でドローン艦隊を指揮する」ための特化型モデル。これ、単なる自動操縦じゃないんです。兵士が自然言語で高次の命令を下すと、AIエージェントがそれを具体的なタスクに分解し、数百台の無人機を同期させて実行する。\n\nSIer時代に大規模システムを触っていた人間として衝撃なのは、この「極限環境でのスケーラビリティ」。通信断絶が当たり前の戦場で、クラウドに頼らずエッジでLLMを動かし、自律分散的に群れを制御する技術スタックは、民間転用されれば災害救助や物流の形を根本から変えるはず。\n\nRTX 4090を回してローカルLLMを触っていると、SLM（小型モデル）の可能性を日々感じますが、まさにその最先端がここにあります。「戦争にAI」という倫理的議論は避けられませんが、技術者としてはこの「1対多」を実現するUI/UXとエージェント設計から目を離せません。\n\n皆さんは、AIに「現場の判断」をどこまで任せられると思いますか？特に通信が途切れるようなクリティカルな場面での信頼性について、どう考えますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-29-scout-ai-100m-funding-war-models-agent.jpg",
+    "created_at": "2026-04-29T19:55:48.055810+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-29-open-wearables-review-health-data-integration",
+    "title": "Open Wearables 使い方：ウェアラブル健康データの統合インフラを徹底解説",
+    "url": "https://ai.negi-lab.com/posts/open-wearables-review-health-data-integration/",
+    "category": "TOOL",
+    "viral_tags": "#OpenWearables #ヘルスケアテック",
+    "tweet_text": "ウェアラブルデバイスのデータ統合で消耗しているエンジニア、正直に手を挙げてください。Apple Watch、Garmin、Oura...各社バラバラなAPIと格闘する時代はもう終わりかもしれません。\n\n今回レビューした「Open Wearables」は、複数の健康データを一つの共通スキーマに統合するオープンインフラ。実際に触ってみて衝撃だったのは、デバイス固有のデータ構造を意識せずに`steps`や`heart_rate`を叩ける快適さ。SIer時代にこれがあったら、あの数週間に及ぶデータ整形地獄はなかったはず。\n\nただ、APIキーの取得やOAuth周りの設定はそれなりに骨が折れます。ドキュメントも全部英語なので、サクッとGUIでやりたい人には向きません。逆に、自前で健康解析AIを組みたい、あるいはデータの透明性を重視したいエンジニアには、これ以上ない武器になります。\n\nRTX 4090でローカルLLMを回している身としては、この「綺麗な入力データ」が手に入る価値は計り知れない。ヘルスケアテックの裏側を作りたい人は、一度READMEを読み込む価値アリです。\n\n今のヘルスケア開発、皆さんはどの統合ツールを使ってますか？自作派とSaaS派、どっちが多いんでしょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-29-open-wearables-review-health-data-integration.jpg",
+    "created_at": "2026-04-29T19:56:46.927717+09:00",
+    "posted": false
   }
 ]
