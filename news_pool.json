@@ -3074,19 +3074,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "What it feels like to have to have Qwen 3.6 or Gemma 4 running locally",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1syt38w/what_it_feels_like_to_have_to_have_qwen_36_or/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-29T08:47:36+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1syt38w/what_it_feels_like_to_have_to_have_qwen_36_or/\"> <img alt=\"What it feels like to have to have Qwen 3.6 or Gemma 4 running locally\" src=\"https://preview.redd.it/maf1pj64d3yg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f90bd80a5404f18fea4b5d3c8bee85b7d825514\" title=\"What it feels like to have to have Qwen 3.6 or Gemma 4 running locally\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Well or pretty close to ",
-      "extra": {},
-      "collected_at": "2026-04-29T19:55:15"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "DeepSeek has began grayscale testing for DeepSeek with Vision",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sysj7u/deepseek_has_began_grayscale_testing_for_deepseek/",
       "primary_category": "GUIDE",
@@ -3152,19 +3139,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "noirdoc",
-      "url": "https://www.producthunt.com/products/noirdoc",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> PII guard for Claude Code to keep client data out of context </p> <p> <a href=\"https://www.producthunt.com/products/noirdoc?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1134435?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-29T23:10:12"
-    },
-    {
-      "source": "Product Hunt",
       "title": "KarmaBox",
       "url": "https://www.producthunt.com/products/karmabox-2",
       "primary_category": "TOOL",
@@ -3215,7 +3189,113 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I tested two llama.cpp builds on the same <strong>Qwen3.6-27B-NVFP4</strong> model.</p> <p><code>llama-bench</code> reports the model label as <code>qwen35 27B NVFP4</code>, but the actual tested model is <strong>Qwen3.6-27B-NVFP4</strong>.</p> <h1>Test platform</h1> <ul> <li><strong>GPU:</strong> NVIDIA GeForce RTX 5090</li> <li><strong>CPU:</strong> AMD Ryzen 9 9950X3D</li> <li><strong>RAM:</strong> 128 GB DDR5 5600 CL36</li> <li><strong>Backend:</strong> CUDA",
       "extra": {},
       "collected_at": "2026-04-29T23:10:15"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google Photos launches an AI try-on feature for clothes you already have",
+      "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-29T12:00:00-04:00",
+      "summary": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends. A video shared by Google shows how [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-04-30T01:16:11"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Picsart CLI",
+      "url": "https://www.producthunt.com/products/picsart",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Picsart's power right from your AI chat box </p> <p> <a href=\"https://www.producthunt.com/products/picsart?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1134390?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-30T01:16:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Netlify Database",
+      "url": "https://www.producthunt.com/products/netlify",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ship data-driven apps without breaking flow </p> <p> <a href=\"https://www.producthunt.com/products/netlify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1133514?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-30T01:16:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Gro v2",
+      "url": "https://www.producthunt.com/products/gro-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Spot signals, trigger outreach - turn posts into pipeline </p> <p> <a href=\"https://www.producthunt.com/products/gro-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1134040?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-30T01:16:15"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "16x DGX Sparks - What should I run?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sz0lyk/16x_dgx_sparks_what_should_i_run/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-29T14:34:17+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sz0lyk/16x_dgx_sparks_what_should_i_run/\"> <img alt=\"16x DGX Sparks - What should I run?\" src=\"https://preview.redd.it/8dzi7jpk45yg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7769be6471eec3da80b7761daec827e8e34bb52\" title=\"16x DGX Sparks - What should I run?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Let’s build the biggest ever DGX Spark Cluster at home. This is going into my home lab server rack, 2TB of ",
+      "extra": {},
+      "collected_at": "2026-04-30T01:16:18"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "mistralai/Mistral-Medium-3.5-128B · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sz1qer/mistralaimistralmedium35128b_hugging_face/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-04-29T15:14:40+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sz1qer/mistralaimistralmedium35128b_hugging_face/\"> <img alt=\"mistralai/Mistral-Medium-3.5-128B · Hugging Face\" src=\"https://external-preview.redd.it/KaOYMEDdsghOL1VAlwe5jqGy3uvXgcbl5z0st_4p90k.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=44f23ca67a800a8dc2b449fa5c138278161e88ee\" title=\"mistralai/Mistral-Medium-3.5-128B · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/un",
+      "extra": {},
+      "collected_at": "2026-04-30T01:16:18"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "AMA with Nous Research -- Ask Us Anything!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sz2y76/ama_with_nous_research_ask_us_anything/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-04-29T15:57:39+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, emozilla here (<a href=\"/u/emozilla\">u/emozilla</a>), co-founder and CTO of Nous Research. We're the makers of <a href=\"https://hermes-agent.nousresearch.com\">Hermes Agent</a>. Happy to be here and talk all things local models, Hermes, or anything else you may have questions on!</p> <p>Some of the Nous people who will be answering questions:</p> <ul> <li><a href=\"/u/emozilla\">u/emozilla</a> -- co-founder, cto</li> <li><a href=\"/u/teknium-official\">",
+      "extra": {},
+      "collected_at": "2026-04-30T01:16:18"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Introducing the IBM Granite 4.1 family of models (3B/8B/30B)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sz23wn/introducing_the_ibm_granite_41_family_of_models/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-04-29T15:27:58+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sz23wn/introducing_the_ibm_granite_41_family_of_models/\"> <img alt=\"Introducing the IBM Granite 4.1 family of models (3B/8B/30B)\" src=\"https://external-preview.redd.it/yeaQTeOal7My__q9AE7W8NdFi8DrCGZ0Y2YsP9fy7z8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9c780c5d82002d6688303d641eea63c77983ac5\" title=\"Introducing the IBM Granite 4.1 family of models (3B/8B/30B)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"http",
+      "extra": {},
+      "collected_at": "2026-04-30T01:16:18"
     }
   ],
-  "updated_at": "2026-04-29T23:10:15.038687+09:00"
+  "updated_at": "2026-04-30T01:16:18.372853+09:00"
 }

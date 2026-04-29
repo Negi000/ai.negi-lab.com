@@ -13399,5 +13399,33 @@
     "image_path": "/images/posts/2026-04-29-how-to-setup-local-llm-qwen-python-ollama.jpg",
     "created_at": "2026-04-29T23:12:11.558173+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-30-picsart-cli-image-processing-automation-guide",
+    "title": "Picsart CLI 画像編集の自動化とAPI活用の実践ガイド",
+    "url": "https://ai.negi-lab.com/posts/picsart-cli-image-processing-automation-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Picsart #画像処理",
+    "tweet_text": "画像編集の自動化、まだ自前でモデル立てて消耗してる？\nPicsart CLIを数日触ってみたけど、結論「餅は餅屋」だなと痛感した。\n\nSIer時代にこれがあったら、あの1万枚の背景削除案件は30分で終わってたはず。\nPython SDK経由で背景削除、アップスケール、インペインティングが数行で完結。\nRTX 4090を2枚挿してる僕でも、この「精度と手軽さ」はAPIに頼りたくなるレベル。\n\n特に髪の毛の切り抜き精度。\nOSSのrembgで妥協してたプロジェクトは、一度PicsartのAPI叩いて比較してみてほしい。\n1枚数秒、数円のコストで「手作業の修正」が消えるなら、エンジニアの工数単価的に余裕でペイする。\n\nAPIキー取得からバッチ処理の実装まで、実際に動かしたコードベースで解説。\n大量のAI生成画像を扱ってる人や、ECサイトの画像運用に課題がある人には刺さるはず。\n\n皆さんは画像処理の自動化、ローカル派？それともAPI活用派？\n精度とコストのバランス、どこで線引きしてるか教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-30-picsart-cli-image-processing-automation-guide.jpg",
+    "created_at": "2026-04-30T01:16:47.047282+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-30-deepseek-v3-multi-gpu-vllm-setup-guide",
+    "title": "DeepSeek-V3をマルチGPU環境で構築して実用レベルの推論速度を実現する方法",
+    "url": "https://ai.negi-lab.com/posts/deepseek-v3-multi-gpu-vllm-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#DeepSeek #ローカルLLM",
+    "tweet_text": "Redditで話題になっていた「16x DGX Sparks」の衝撃。自宅にDGXラックを組むような猛者が現れる時代、我々エンジニアが今すぐ手元で動かすべきはDeepSeek-V3一択でしょう。\n\n正直、GPT-4oを常用していた身としても、このモデルをローカルのマルチGPU環境で走らせた時のレスポンスには震えました。SIer時代、巨大なサーバーラックの前で環境構築に四苦八苦していた頃の苦労が嘘のようです。今はRTX 4090数枚あれば、あの頃のスパコン並みの知能が自分のデスクで24時間動き続けます。\n\n今回はvLLMを使って、DeepSeek-V3をFP8量子化で実用速度まで引き上げる具体的な構築ガイドを書きました。単に動かすだけじゃなく、NCCLの最適化やTensor Parallelの設定など、現場でハマるポイントを実体験ベースで詰め込んでいます。\n\nクラウドAPIの「検閲」や「従量課金」に疲れてきた方、そろそろ本気でローカル回帰しませんか？ 実際に複数GPUで運用している方の構成や、推論速度のベンチマーク結果など、ぜひリプライで教えてください。特にNCCL周りのトラブル、皆さんどう解決してます？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-30-deepseek-v3-multi-gpu-vllm-setup-guide.jpg",
+    "created_at": "2026-04-30T01:17:53.117635+09:00",
+    "posted": false
   }
 ]
