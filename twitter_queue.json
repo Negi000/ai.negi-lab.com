@@ -13469,5 +13469,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-04-30T07:09:15.898236+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-30-aws-earnings-ai-capital-spending-surge",
+    "title": "AWS収益17%増でも投資額が「異常」な理由｜Amazonが描くAI独占の青写真",
+    "url": "https://ai.negi-lab.com/posts/aws-earnings-ai-capital-spending-surge/",
+    "category": "NEWS",
+    "viral_tags": "#AWS #生成AI",
+    "tweet_text": "AWSの決算を読み解くと、Amazonが描く「AI独占」のシナリオが透けて見えます。売上17%成長という数字以上に衝撃的なのが、年間11兆円を超える設備投資。これ、単にH100を買い占めるための資金じゃない。\n\n私がドキュメントを読み込んで確信したのは、彼らが「NVIDIA依存」から本気で脱却しようとしている点です。自社製チップのTrainium2やInferentia2への投資が、今後AWSユーザーに「圧倒的な安さ」という形で還元されるはず。\n\nSIer時代、インフラのサイジングに頭を悩ませましたが、今は「どのマネージドサービスをどう組み合わせるか」がスキルの境界線。特にBedrock経由でClaude 3.5 Sonnetを自社チップ上で動かす構成は、コスト効率で他を圧倒し始めています。\n\n「AIはクラウドで動かすと高い」というのはもう古い常識。自社チップとNitro Systemの垂直統合が進めば、ローカルLLMで頑張るよりも、AWSの専用インスタンスを叩く方が1トークンあたりのコストが安くなる逆転現象が起きるでしょう。\n\n皆さんの現場では、推論コストの削減にどの程度向き合っていますか？自社チップへの移行、検討している方いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-30-aws-earnings-ai-capital-spending-surge.jpg",
+    "created_at": "2026-04-30T12:51:07.163906+09:00",
+    "posted": false
   }
 ]
