@@ -2,97 +2,6 @@
   "items": [
     {
       "source": "The Verge AI",
-      "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
-      "url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-22T16:29:05-04:00",
-      "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbilt Policy Accelerator event in Washington, DC on Wednesday. Warren warned of what she called \"striking\" parallels to [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-23T17:00:10"
-    },
-    {
-      "source": "r/MachineLearning",
-      "title": "[D] Self-Promotion Thread",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1sa4rlx/d_selfpromotion_thread/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-02T02:15:24+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your personal projects, startups, product placements, collaboration needs, blogs etc.</p> <p>Please mention the payment and pricing requirements for products and services.</p> <p>Please do not post link shorteners, link aggregator websites , or auto-subscribe links.</p> <p>--</p> <p>Any abuse of trust will lead to bans.</p> <p>Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so kee",
-      "extra": {},
-      "collected_at": "2026-04-23T17:01:20"
-    },
-    {
-      "source": "Google News",
-      "title": "Google Cloud Partner of the Year 「Artificial Intelligence: Workplace AI Transformation - Japan」を受賞 ～生成 AIによる業務変革の実績と、優れた支援体制が評価 - newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sLTJnYXBrNUt2UVBadGdJMFpraG5scE1TZ0VobGlzZVVickhaWmRYT3NsVmNkV2szdFViaTRkSml2RTFyNmhNaUZ3MEFaaHc?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 23 Apr 2026 02:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sLTJnYXBrNUt2UVBadGdJMFpraG5scE1TZ0VobGlzZVVickhaWmRYT3NsVmNkV2szdFViaTRkSml2RTFyNmhNaUZ3MEFaaHc?oc=5\" target=\"_blank\">Google Cloud Partner of the Year 「Artificial Intelligence: Workplace AI Transformation - Japan」を受賞 ～生成 AIによる業務変革の実績と、優れた支援体制が評価</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newscast.jp</font>",
-      "extra": {},
-      "collected_at": "2026-04-23T17:01:20"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Instamor",
-      "url": "https://www.producthunt.com/products/instamor-short-video-dating",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Video-first partner matching per your personal vibe </p> <p> <a href=\"https://www.producthunt.com/products/instamor-short-video-dating?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130162?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-23T17:01:21"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Skill Inspector",
-      "url": "https://www.producthunt.com/products/snyk",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Audit your AI agent skills to avoid malware </p> <p> <a href=\"https://www.producthunt.com/products/snyk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1127955?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-23T17:01:21"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Gemini Enterprise Agent Platform",
-      "url": "https://www.producthunt.com/products/google",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Google's platform to run AI agents at enterprise scale </p> <p> <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130026?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-23T17:01:21"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Note the new recommended sampling parameters for Qwen3.6 27B",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1st5627/note_the_new_recommended_sampling_parameters_for/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-23T01:54:39+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Taken from their <a href=\"https://huggingface.co/Qwen/Qwen3.6-27B\">Huggingface Page:</a></p> <p><em>We recommend using the following set of sampling parameters for generation</em></p> <pre><code>Thinking mode for general tasks: temperature=1.0, top_p=0.95, top_k=20, min_p=0.0, presence_penalty=0.0, repetition_penalty=1.0 Thinking mode for precise coding tasks (e.g. WebDev): temperature=0.6, top_p=0.95, top_k=20, min_p=0.0, presence_penalty=0.0, repetition_penalt",
-      "extra": {},
-      "collected_at": "2026-04-23T17:01:23"
-    },
-    {
-      "source": "The Verge AI",
       "title": "OpenAI now lets teams make custom bots that can do work on their own",
       "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
       "primary_category": "NEWS",
@@ -3096,19 +3005,6 @@
       "collected_at": "2026-04-30T12:50:35"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-      "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Thu, 30 Apr 2026 03:58:22 +0000",
-      "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
-      "extra": {},
-      "collected_at": "2026-04-30T15:10:05"
-    },
-    {
       "source": "Product Hunt",
       "title": "Redesign by Nodewave",
       "url": "https://www.producthunt.com/products/redesign-by-nodewave",
@@ -3133,7 +3029,125 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1szgjd7/you_should_probably_disable_algif_kernel_module/\"> <img alt=\"You should probably disable algif kernel module this second if you run linux.\" src=\"https://external-preview.redd.it/xR1BVLJ-UOa32LSwe-lNVLIwLMisVmkcmCZ7JUMWu54.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ff5ce5b60dee5b047f1e6c4f0121f79d4d390b9a\" title=\"You should probably disable algif kernel module this second if you run linux.\" /> </a> </td><td> &#32",
       "extra": {},
       "collected_at": "2026-04-30T15:10:30"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta is still burning money on AR/VR",
+      "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 29 Apr 2026 23:58:26 +0000",
+      "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+      "extra": {},
+      "collected_at": "2026-04-30T17:26:12"
+    },
+    {
+      "source": "r/MachineLearning",
+      "title": "[D] Self-Promotion Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1sa4rlx/d_selfpromotion_thread/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-02T02:15:24+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your personal projects, startups, product placements, collaboration needs, blogs etc.</p> <p>Please mention the payment and pricing requirements for products and services.</p> <p>Please do not post link shorteners, link aggregator websites , or auto-subscribe links.</p> <p>--</p> <p>Any abuse of trust will lead to bans.</p> <p>Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so kee",
+      "extra": {},
+      "collected_at": "2026-04-30T17:26:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tinfoil",
+      "url": "https://www.producthunt.com/products/tinfoil-private-ai-chat",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI chat and API that keeps your conversations fully private </p> <p> <a href=\"https://www.producthunt.com/products/tinfoil-private-ai-chat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1134594?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-30T17:26:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Voice Agent API",
+      "url": "https://www.producthunt.com/products/assemblyai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> One API to build production-ready voice agents </p> <p> <a href=\"https://www.producthunt.com/products/assemblyai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1135365?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-30T17:26:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tabstack",
+      "url": "https://www.producthunt.com/products/tabstack",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Extract web data and automate browsers, no scraper required. </p> <p> <a href=\"https://www.producthunt.com/products/tabstack?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1133444?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-30T17:26:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Basedash Dashboard Agent",
+      "url": "https://www.producthunt.com/products/basedash",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Describe a dashboard. Get a dashboard. </p> <p> <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1135601?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-04-30T17:26:21"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "DeepSeek V4 isn't beating Opus, but it doesn't need to",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sznao3/deepseek_v4_isnt_beating_opus_but_it_doesnt_need/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-30T05:49:28+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>DeepSeek V4 is not in the same league as GPT-5.5 or Opus 4.7. Benchmarks put it slightly below both of those, roughly on par with Opus 4.6. You can check the numbers yourself here: <a href=\"https://www.reddit.com/r/singularity/s/jIsNEK6Rrm\">https://www.reddit.com/r/singularity/s/jIsNEK6Rrm</a></p> <p>And yes, benchmarks only tell part of the story. In real-world usage, my experience is that V4 performs at around GPT-5.2 level, solid, consistent, and the best ope",
+      "extra": {},
+      "collected_at": "2026-04-30T17:26:24"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Where the goblins came from",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sznfue/where_the_goblins_came_from/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-30T05:57:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://openai.com/index/where-the-goblins-came-from/\">https://openai.com/index/where-the-goblins-came-from/</a></p> <p>Something actually good from OpenAI.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Successful_Bowl2564\"> /u/Successful_Bowl2564 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sznfue/where_the_goblins_came_from/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.",
+      "extra": {},
+      "collected_at": "2026-04-30T17:26:24"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.6-27B-Q6_K - images",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1szp96f/qwen3627bq6_k_images/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-04-30T07:38:54+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1szp96f/qwen3627bq6_k_images/\"> <img alt=\"Qwen3.6-27B-Q6_K - images\" src=\"https://preview.redd.it/dvzeh3pq6ayg1.png?width=140&amp;height=99&amp;auto=webp&amp;s=e3cecc372869efb021ce63f8b78e5aa27264623e\" title=\"Qwen3.6-27B-Q6_K - images\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Settings:</p> <p>temperature=0.6, top_p=0.95, top_k=20, min_p=0.0, presence_penalty=0.0, repetition_penalty=1.0</p> <p>Prompts:</p> <p>- Crea",
+      "extra": {},
+      "collected_at": "2026-04-30T17:26:24"
     }
   ],
-  "updated_at": "2026-04-30T15:10:30.165842+09:00"
+  "updated_at": "2026-04-30T17:26:24.339070+09:00"
 }

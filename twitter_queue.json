@@ -13497,5 +13497,33 @@
     "image_path": "/images/posts/2026-04-30-softbank-robotics-datacenter-construction-ipo.jpg",
     "created_at": "2026-04-30T15:10:58.452562+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-30-anthropic-50b-fundraising-900b-valuation-impact",
+    "title": "Anthropicが時価総額135兆円へ、500億ドルの超巨額調達が示唆する「AI格差」の完成",
+    "url": "https://ai.negi-lab.com/posts/anthropic-50b-fundraising-900b-valuation-impact/",
+    "category": "NEWS",
+    "viral_tags": "#Anthropic #Claude4",
+    "tweet_text": "Anthropicが評価額135兆円（9000億ドル）で、500億ドルの調達を画策しているという速報。もはやスタートアップの域を超えて、一つの国家並みの資金力ですね。\n\nSIer時代、数千万円のサーバー導入で胃を痛めていたのが嘘のよう。今は「数兆円」をキャッシュで用意してGPUと電力を買い占めた企業だけがAGIへの挑戦権を得る、剥き出しの物理戦フェーズに突入しています。\n\n今回の調達が完了すれば、AmazonやGoogleの影響下を離れ、Anthropicが独自の「計算資源帝国」を築くことになります。開発者にとっての恩恵は、おそらくClaude 4世代での圧倒的なスループット向上とトークン単価の破壊。でも、その裏で進む「計算資源の独占」がもたらす中央集権化には強い危機感を持っています。\n\nモデルの賢さだけを見て喜ぶ時期は終わりましたね。これからは「どのベンダーが最も安定して電気とシリコンを確保できるか」という、インフラ的な視点で付き合うAIを選ぶ必要があります。\n\nみなさんの開発現場では、すでに特定のベンダー依存から脱却する動きは始めていますか？マルチモデル運用を前提にした設計、今やっておかないと数ヶ月後に後悔するかもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-30-anthropic-50b-fundraising-900b-valuation-impact.jpg",
+    "created_at": "2026-04-30T17:26:53.905049+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-30-tinfoil-private-ai-api-review-usage",
+    "title": "Tinfoil レビュー 使い方：機密情報をAIに渡さない新基準",
+    "url": "https://ai.negi-lab.com/posts/tinfoil-private-ai-api-review-usage/",
+    "category": "TOOL",
+    "viral_tags": "#TinfoilAI #プライベートLLM",
+    "tweet_text": "SIer時代、AI導入の最大の壁は「セキュリティ部門への説明」でした。\n「データは学習に使われないか」「ログの保存期間はどうなっているか」\nこの問いに技術レベルで回答し、法務を納得させるのは並大抵の苦労ではありません。\n\n今回レビューした「Tinfoil」は、その不毛な議論を終わらせるためのプライバシー特化型AI APIです。\nOpenAI互換のインターフェースを持ちながら、データのゼロリテンションを構造的に担保。\n実際にSDKを触ってみましたが、pip installから2分でセキュアな推論環境が整うのは衝撃的です。\n\n自前でRTX 4090を回すコストや、Llama 3のデプロイに追われる日々を考えれば、こうしたマネージドなプライベートAIという選択肢は「買い」だと確信しています。\n特に金融・医療系など、1バイトの漏洩も許されない現場の開発者には刺さるはず。\n\n皆さんの現場では、AIのセキュリティチェックにどれくらいの時間をかけていますか？\nあるいは「結局、怖くてChatGPT禁止のまま」という状況だったりしますか？\n現場のリアルな障壁について、ぜひコメントで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-30-tinfoil-private-ai-api-review-usage.jpg",
+    "created_at": "2026-04-30T17:27:57.413495+09:00",
+    "posted": false
   }
 ]
