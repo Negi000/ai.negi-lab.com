@@ -13483,5 +13483,19 @@
     "image_path": "/images/posts/2026-04-30-aws-earnings-ai-capital-spending-surge.jpg",
     "created_at": "2026-04-30T12:51:07.163906+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-30-softbank-robotics-datacenter-construction-ipo",
+    "title": "ソフトバンクがデータセンター建設ロボット新会社を設立、1000億ドルのIPOを狙うAIインフラの勝算",
+    "url": "https://ai.negi-lab.com/posts/softbank-robotics-datacenter-construction-ipo/",
+    "category": "NEWS",
+    "viral_tags": "#ソフトバンク #AIインフラ",
+    "tweet_text": "ソフトバンクがまた、とんでもない「大風呂敷」を広げてきましたね。AIとロボットでデータセンターを自動建設する新会社を設立、15兆円規模のIPOを目指すとのこと。\n\nこれ、SIer時代に物理サーバーの配線やラッキングで徹夜していた身からすると、半分は「正気か？」と思うし、もう半分は「これこそが必要な革命だ」と興奮しています。今のAIブームの最大の弱点は、GPUを置く「箱」を作るスピードが遅すぎること。\n\n孫さんは、Armのチップで頭脳を作り、ロボットでその体（インフラ）を作ろうとしています。まさにAIがAIを作る「自己増殖型」のサイクル。技術的には配線の自動化やデジタルツインの精度が壁になるはずですが、ここを突破できれば計算リソースの価格破壊が起きる。\n\n開発者としても、インフラをTerraformで定義する感覚で物理空間を定義する時代が来るのかも。皆さんは、自分のコードが動く「物理的な箱」をロボットが建てると聞いて、どう感じますか？ メンテナンスまで自動化できると思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-30-softbank-robotics-datacenter-construction-ipo.jpg",
+    "created_at": "2026-04-30T15:10:58.452562+09:00",
+    "posted": false
   }
 ]
