@@ -13553,5 +13553,33 @@
     "image_path": "/images/posts/2026-04-30-wootrack-woocommerce-poas-review-profit-tracking.jpg",
     "created_at": "2026-04-30T19:57:01.837700+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-30-astrogrid-universe-engine-3d-review-guide",
+    "title": "AstroGrid - Universe Engineは、ウェブブラウザ上で数十億光年規模の宇宙空間をシームレスに描画し、エンジニアがプログラムから制御できる「宇宙専用の3D物理レンダリングエンジン」です。",
+    "url": "https://ai.negi-lab.com/posts/astrogrid-universe-engine-3d-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#AstroGrid #WebGPU",
+    "tweet_text": "ブラウザ上で数十億光年規模の宇宙をシームレスに描画する「AstroGrid - Universe Engine」を検証しました。\n\n正直、これまでThree.jsで太陽系規模の描画をしようとして座標のガタつき（Z-fighting）に絶望してきた開発者にとって、このエンジンは救世主かもしれません。独自の座標管理システムにより、地球の地表から銀河系の果てまで、1つのカメラで破綻なく移動できるのは驚異的。\n\nSIer時代に3Dシミュレーターの構築で、浮動小数点数の精度不足に1週間溶かした苦い記憶が蘇りました…。これがあれば、あの時の苦労は数時間で終わっていたはず。\n\n中身を調べると、WebGPUを優先的に叩く設計になっていて、RTX 4090環境では100万個の天体を配置しても90fpsを維持。もはやブラウザの限界を超えてますね。\n\nただ、APIが天文学の専門用語のオンパレードなので、エンジニアでも「AU」や「パーセク」の感覚がないと使いこなしに苦労するかも。\n\nWebで宇宙開発シミュレーターを作っている人や、衛星データの可視化に挑んでいる人、現状のライブラリに限界を感じていませんか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-30-astrogrid-universe-engine-3d-review-guide.jpg",
+    "created_at": "2026-04-30T23:08:48.198347+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-30-qwen-scope-official-sae-tutorial-guide",
+    "title": "Qwen-Scope 使い方 | 公式SAEでQwen2.5の思考を解釈する方法",
+    "url": "https://ai.negi-lab.com/posts/qwen-scope-official-sae-tutorial-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen #AI解釈性",
+    "tweet_text": "Qwen 2.5の「脳内」が公式に解禁されましたね。今回リリースされたQwen-Scope（公式SAE）を早速4090環境で検証しました。\n\nこれ、単なる「動かしてみた」系のニュースじゃありません。AIがなぜその回答をしたのかを、数万個の概念レベルで解釈し、さらにその思考を「物理的に操作」できる実務ツールです。SIer時代、クライアントに「なぜAIがこう言ったのか？」と詰められて言葉に詰まった経験がある人なら、この技術の破壊力がわかるはず。\n\n記事では、特定の層から特徴（Feature）を抽出し、数値を書き換えてモデルの出力を操作するまでの実装コードをまとめました。プロンプトエンジニアリングの限界を感じている人や、AIの透明性を本気で担保したい開発者には、間違いなく今の最前線です。\n\n3万個以上の特徴から「数学」「皮肉」「コーディング」などのレバーを見つけ出し、推論時に動的にブーストする。この「ステアリング」技術が広まれば、AIの制御方法は根本から変わると思います。\n\nQwen 2.5を使っている皆さん、内部の特徴量操作による精度改善、どれくらい試されていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-30-qwen-scope-official-sae-tutorial-guide.jpg",
+    "created_at": "2026-04-30T23:09:54.067829+09:00",
+    "posted": false
   }
 ]
