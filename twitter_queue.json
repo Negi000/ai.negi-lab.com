@@ -13637,5 +13637,19 @@
     "image_path": "/images/posts/2026-05-01-wonder-ai-design-agent-review.jpg",
     "created_at": "2026-05-01T03:10:47.330369+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-01-legora-valuation-5-billion-legal-ai-war",
+    "title": "Legoraが56億ドルの評価額を叩き出した事実は、汎用LLMの時代が終わり、特定のドメインに特化した「垂直統合型AI」が市場を支配するフェーズに入ったことを示しています。",
+    "url": "https://ai.negi-lab.com/posts/legora-valuation-5-billion-legal-ai-war/",
+    "category": "NEWS",
+    "viral_tags": "#LegalAI #生成AI実務",
+    "tweet_text": "法務AIのLegoraが56億ドルの評価額に到達。これ、単なる「スタートアップが儲かった」というニュースじゃありません。AI界隈が「汎用モデル万能説」から、特定の専門領域を深掘りする「垂直統合型AI」の勝利へ、明確に舵を切った瞬間です。\n\nSIer時代、法務チェックを数週間待たされるのは日常茶飯事でしたが、Legoraのようなエージェントはそれを0.3秒で終わらせ、かつ人間以上の精度で判例を照合します。Harveyとのバチバチの広告合戦も含め、ここまで実利が見える領域は他にありません。\n\n技術的にはRAGの進化形である「マルチホップ推論」と「自己検証ループ」が鍵。GPT-4oをそのまま使うと平気で嘘をつく法務領域で、いかにハルシネーションを2%以下に抑え込むか。4090を2枚挿してローカルLLMを回している身としても、この「検証パイプラインの設計」には凄みを感じます。\n\n皆さんの現場では、LLMのハルシネーション対策にどんな「泥臭い工夫」をしてますか？プロンプトで頑張るより、データ構造を見直す方が近道な気がしているのですが、実際のところどうでしょう？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-01-legora-valuation-5-billion-legal-ai-war.jpg",
+    "created_at": "2026-05-01T07:05:42.741535+09:00",
+    "posted": false
   }
 ]
