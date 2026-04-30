@@ -13581,5 +13581,33 @@
     "image_path": "/images/posts/2026-04-30-qwen-scope-official-sae-tutorial-guide.jpg",
     "created_at": "2026-04-30T23:09:54.067829+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-01-gemini-deep-research-agent-mcp-review",
+    "title": "Gemini Deep Research Agent 使い方：WebとMCPを統合した調査自動化の真価",
+    "url": "https://ai.negi-lab.com/posts/gemini-deep-research-agent-mcp-review/",
+    "category": "TOOL",
+    "viral_tags": "#GeminiAPI #AIエージェント",
+    "tweet_text": "SIer時代、新人に数日かけてやらせていた「技術動向と既存コードの互換性調査」が、Gemini Deep Research Agentなら数分で終わる。この現実に、正直震えてます。\n\n単なるWeb検索AIじゃない。MCP（Model Context Protocol）対応が肝で、Google検索の圧倒的な網羅性と、ローカルのGitHubリポジトリやDBをシームレスに繋げられるのが最大の武器。2Mトークンの窓があるから、ドキュメントを丸ごと食わせた上での「深い調査」ができる。\n\n実際に触ってみると、Google検索のグラウンディング（根拠提示）が強力すぎて、ハルシネーションに怯える時間が激減したのが最大の収穫。ただし、自律的にループを回すとAPIコストが跳ね上がるので、開発者はmax_iterationsの制御が必須ですね。\n\nPythonエンジニアなら、google-generativeai SDKのアップデートを即座に確認すべき。これ、B2Bの調査自動化ツールを作ってる人には、現時点で最強の選択肢になるはず。\n\nみなさんは、AIエージェントに「Web検索」だけでなく「自社データの書き込み」まで許可する勇気、ありますか？実際の運用でのセキュリティ設計、どう考えてるか気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-01-gemini-deep-research-agent-mcp-review.jpg",
+    "created_at": "2026-05-01T01:06:44.494439+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-01-deepseek-thinking-with-visual-primitives-tutorial",
+    "title": "DeepSeek Thinking-with-Visual-Primitives 使い方：視覚的思考でVLMの精度を極限まで高める実装ガイド",
+    "url": "https://ai.negi-lab.com/posts/deepseek-thinking-with-visual-primitives-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#DeepSeek #VLM",
+    "tweet_text": "DeepSeekから出た「Thinking-with-Visual-Primitives（TwVP）」が、現場で使えるVLMの決定打になる予感。\n\n従来の画像認識って、実は「なんとなく」で答えてる部分が多かったんです。SIer時代、検品システムの精度が出なくて頭を抱えた経験がありますが、当時の自分にこのフレームワークを教えてあげたい。\n\nTwVPは、回答の前に座標や領域といった「視覚的な下書き」をモデル自身に書かせる手法。暗算じゃなくて、一度メモを取ってから解かせるイメージですね。これにより空間認識のハルシネーションが激減します。\n\n実際にPythonで組んで試してみましたが、0-1000の正規化座標を自ら定義して推論するプロセスは、これまでのプロンプトエンジニアリングとは一線を画す安定感があります。\n\n特に「数え間違い」や「位置の誤認」に悩んでいる開発者は、この『視覚的思考』を実装に組み込むべき。座標パース用の正規表現を含む実用スクリプトをまとめました。\n\n皆さんの現場では、画像認識の精度不足をどう解決していますか？RAGとの組み合わせや、タイリング処理など、実務的な工夫をぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-01-deepseek-thinking-with-visual-primitives-tutorial.jpg",
+    "created_at": "2026-05-01T01:07:50.801497+09:00",
+    "posted": false
   }
 ]
