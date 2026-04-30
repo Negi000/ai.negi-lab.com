@@ -13525,5 +13525,33 @@
     "image_path": "/images/posts/2026-04-30-tinfoil-private-ai-api-review-usage.jpg",
     "created_at": "2026-04-30T17:27:57.413495+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-04-30-elon-musk-openai-lawsuit-agi-impact",
+    "title": "イーロン・マスクがOpenAIを「解体」しようと法廷で証言した事実は、我々が日々利用しているAPIの永続性が、一企業の経営陣の気まぐれではなく「法的な定義」によって根底から覆るリスクを浮き彫りにしました。",
+    "url": "https://ai.negi-lab.com/posts/elon-musk-openai-lawsuit-agi-impact/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI訴訟 #ローカルLLM",
+    "tweet_text": "イーロン・マスクが証言台でOpenAIを猛批判。2026年になってもこのバトルが続いている事実に戦慄しますが、これは単なる喧嘩ではありません。\n\n焦点は「GPT-4はすでにAGIなのか？」という点。\n\nもし法廷がAGIだと認定すれば、Microsoftの独占ライセンスは消滅し、OpenAIのビジネスモデルは根底から崩壊します。SIer時代、ベンダーのライセンス変更でシステムが死ぬのを何度も見てきましたが、AIの世界でも同じことが起きようとしています。\n\n実務者が今すべきは「OpenAI心中」を避けること。LangChain等で抽象化し、Llama 3やClaude 3.5へ10分で切り替えられる設計にしておかないと、ある日突然APIが牙を剥くかもしれません。\n\n「AGIの定義権」を特定企業に握らせないためのマスクの狂気は、結果としてOSS界隈には追い風になる。RTX 4090を2枚回しながら、ローカルLLMの比重を上げる準備を始めています。\n\n皆さんの現場では、特定のモデルへの依存度、どの程度まで許容していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-30-elon-musk-openai-lawsuit-agi-impact.jpg",
+    "created_at": "2026-04-30T19:56:01.038877+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-04-30-wootrack-woocommerce-poas-review-profit-tracking",
+    "title": "WooTrackでWooCommerceの純利益を可視化する",
+    "url": "https://ai.negi-lab.com/posts/wootrack-woocommerce-poas-review-profit-tracking/",
+    "category": "TOOL",
+    "viral_tags": "#WooCommerce #POAS",
+    "tweet_text": "WooCommerceで広告運用してるなら、売上（ROAS）を見るのはもうやめにしませんか。\n\nSIer時代、数多くのECサイトの裏側を見てきましたが「売れてるのに利益が出ない」最大の理由は、広告の教師データが「売上金額」だからです。仕入れ原価、決済手数料、送料、そして税金。これらを引いた「真の利益」でGoogle広告を最適化しないと、AIは赤字商品を平気で爆売りしてきます。\n\nWooTrackを試したところ、導入から設定完了まで30分。Stripeの手数料を1円単位で差し引いて、Google Adsに利益値をダイレクトに返せるのが強すぎます。レスポンスも0.5秒以下で、REST API経由でのデータ抽出も容易。\n\nPythonで自前実装するのも手ですが、サーバーサイドからコンバージョン値を動的に書き換える工数を考えれば、月数ドルの投資は一瞬で回収できます。特に粗利50%を切る商材を扱っているなら、これを使わない手はありません。\n\n結局のところ、データサイエンスも広告運用も「ゴミを入れたらゴミが出てくる」の原則は同じ。まずは利益という質の高いデータをGoogleのアルゴリズムに食わせることから始めましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-04-30-wootrack-woocommerce-poas-review-profit-tracking.jpg",
+    "created_at": "2026-04-30T19:57:01.837700+09:00",
+    "posted": false
   }
 ]
