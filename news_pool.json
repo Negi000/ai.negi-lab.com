@@ -1,102 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Another customer of troubled startup Delve suffered a big security incident",
-      "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 23 Apr 2026 14:00:00 +0000",
-      "summary": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
-      "extra": {},
-      "collected_at": "2026-04-24T01:19:05"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "USVC by AngelList",
-      "url": "https://www.producthunt.com/products/usvc-by-angellist",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Back the companies building the future. Before it’s obvious. </p> <p> <a href=\"https://www.producthunt.com/products/usvc-by-angellist?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130053?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-24T01:19:14"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Talk to Review",
-      "url": "https://www.producthunt.com/products/talk-to-review",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> Real reviews in 10 seconds. </p> <p> <a href=\"https://www.producthunt.com/products/talk-to-review?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1129782?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-24T01:19:14"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "FocuSee 2.0",
-      "url": "https://www.producthunt.com/products/focusee",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> Record screen to get polished demos & tutorials </p> <p> <a href=\"https://www.producthunt.com/products/focusee?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1128797?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-24T01:19:14"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "calcom/cal.diy",
-      "url": "https://github.com/calcom/cal.diy",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Scheduling infrastructure for absolutely everyone.",
-      "extra": {
-        "stars_today": "138 stars today"
-      },
-      "collected_at": "2026-04-24T01:19:16"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "An Overnight Stack for Qwen3.6–27B: 85 TPS, 125K Context, Vision — on One RTX 3090 | by Wasif Basharat | Apr, 2026",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1stjx29/an_overnight_stack_for_qwen3627b_85_tps_125k/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-23T14:11:44+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1stjx29/an_overnight_stack_for_qwen3627b_85_tps_125k/\"> <img alt=\"An Overnight Stack for Qwen3.6–27B: 85 TPS, 125K Context, Vision — on One RTX 3090 | by Wasif Basharat | Apr, 2026\" src=\"https://external-preview.redd.it/6swYotUIFYiOruavOH097wqxDeYu6d-hAsHYYSqRfqI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=74f0a8c93cbf09bb379053a09bdf5372a35962b4\" title=\"An Overnight Stack for Qwen3.6–27B: 85 TPS, 125K Context, Vision — ",
-      "extra": {},
-      "collected_at": "2026-04-24T01:19:17"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Been using PI Coding Agent with local Qwen3.6 35b for a while now and its actually insane",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1stjwg5/been_using_pi_coding_agent_with_local_qwen36_35b/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-04-23T14:11:06+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So ive been running PI Coding Agent with a the Qwen3.6 35b a3b q4_k_xl model for some real projects and honestly didn't expect it to work this good.</p> <p>The real game changer was the plan-first skill file i created. Like it actualy follows what you say and does everything step by step without going off the rails. Used it on actual production stuff and it held up.</p> <p>Here's the skill file if anyone wants to try it:</p> <pre><code>--- name: plan-first descr",
-      "extra": {},
-      "collected_at": "2026-04-24T01:19:17"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
       "url": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
@@ -3153,19 +3057,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Gemini Deep Research Agent",
-      "url": "https://www.producthunt.com/products/gemini-deep-research",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Web and MCP research agents, now in Gemini API </p> <p> <a href=\"https://www.producthunt.com/products/gemini-deep-research?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1129120?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-05-01T01:06:14"
-    },
-    {
-      "source": "Product Hunt",
       "title": "SuperMind",
       "url": "https://www.producthunt.com/products/supermind-2",
       "primary_category": "TOOL",
@@ -3176,21 +3067,6 @@
       "summary": "<p> Business that Runs Itself </p> <p> <a href=\"https://www.producthunt.com/products/supermind-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1135645?app_id=339\">Link</a> </p>",
       "extra": {},
       "collected_at": "2026-05-01T01:06:14"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "DeepSeek released 'Thinking-with-Visual-Primitives' framework",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1szwi1d/deepseek_released_thinkingwithvisualprimitives/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-30T13:43:54+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1szwi1d/deepseek_released_thinkingwithvisualprimitives/\"> <img alt=\"DeepSeek released 'Thinking-with-Visual-Primitives' framework\" src=\"https://preview.redd.it/47r9qee44cyg1.png?width=140&amp;height=45&amp;auto=webp&amp;s=af5a4968d1ae7052f67d020d912d471f559c5123\" title=\"DeepSeek released 'Thinking-with-Visual-Primitives' framework\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/47r9qee44c",
-      "extra": {},
-      "collected_at": "2026-05-01T01:06:16"
     },
     {
       "source": "r/LocalLLaMA",
@@ -3205,7 +3081,112 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Previously a model could only be present in a single group. Now you can create whatever groups you want: one for big models that should run on their own, a group for STT + bigger model, a group for RAG usages, etc. It'll intelligently unload models based on &quot;cost&quot; of doing so.</p> <p>Check out the config: <a href=\"https://github.com/mostlygeek/llama-swap/blob/main/config.example.yaml\">llama-swap/config.example.yaml at main · mostlygeek/llama-swap</a></",
       "extra": {},
       "collected_at": "2026-05-01T01:06:16"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 30 Apr 2026 18:03:57 +0000",
+      "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+      "extra": {},
+      "collected_at": "2026-05-01T03:09:09"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+      "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 30 Apr 2026 17:53:53 +0000",
+      "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+      "extra": {},
+      "collected_at": "2026-05-01T03:09:09"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+      "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 30 Apr 2026 17:46:54 +0000",
+      "summary": "Google announced on Thursday that it will begin rolling out Gemini to cars with Google built-in, marking a significant upgrade from the current Google Assistant. The move signals Google’s push to bring more advanced, conversational AI into the driving experience. The announcement follows closely behind news from General Motors, which revealed yesterday that Gemini is [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-05-01T03:09:09"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Wonder",
+      "url": "https://www.producthunt.com/products/wonder-public-alpha",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AI design agent that works on your canvas </p> <p> <a href=\"https://www.producthunt.com/products/wonder-public-alpha?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1134873?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-01T03:09:11"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mintlify Editor",
+      "url": "https://www.producthunt.com/products/mintlify",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI-native collaborative editor </p> <p> <a href=\"https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1134689?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-01T03:09:11"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "VideoOS by Jupitrr AI",
+      "url": "https://www.producthunt.com/products/jupitrr",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your all-in-one video workflow </p> <p> <a href=\"https://www.producthunt.com/products/jupitrr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100364?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-01T03:09:11"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "AMD in-house ryzen 395 box coming in June",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t038g7/amd_inhouse_ryzen_395_box_coming_in_june/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-04-30T17:37:23+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t038g7/amd_inhouse_ryzen_395_box_coming_in_june/\"> <img alt=\"AMD in-house ryzen 395 box coming in June\" src=\"https://preview.redd.it/rlwfreg56dyg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28bfb7d54150fa5f85ec929d66c33ef811665e8b\" title=\"AMD in-house ryzen 395 box coming in June\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Don't know if the date was released yet, but this was just said a few moments ago at AM",
+      "extra": {},
+      "collected_at": "2026-05-01T03:09:13"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Are Qwen 3.6 27B and 35B making other ~30B models obsolete?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t00d2m/are_qwen_36_27b_and_35b_making_other_30b_models/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-04-30T15:54:59+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Have Qwen 3.6 27B and Qwen 3.6 35B basically made most of the older ~30B models irrelevant?</p> <p>They seem to beat stuff like Qwen coder 30B, GPT OSS 20B, Gemma models, especially for coding and agent workflows.</p> <p>At this point I’m not really finding a reason to keep the older ones around.</p> <p>Anyone still using them for something specific?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nikhilprasanth\"> /u/nikhil",
+      "extra": {},
+      "collected_at": "2026-05-01T03:09:13"
     }
   ],
-  "updated_at": "2026-05-01T01:06:16.244390+09:00"
+  "updated_at": "2026-05-01T03:09:13.849710+09:00"
 }

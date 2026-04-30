@@ -13609,5 +13609,33 @@
     "image_path": "/images/posts/2026-05-01-deepseek-thinking-with-visual-primitives-tutorial.jpg",
     "created_at": "2026-05-01T01:07:50.801497+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-01-grok-trained-on-openai-models-distillation-issue",
+    "title": "GrokはGPTのコピーか？イーロン・マスクが認めたOpenAIモデルによる学習の真実と「蒸留」の罠",
+    "url": "https://ai.negi-lab.com/posts/grok-trained-on-openai-models-distillation-issue/",
+    "category": "NEWS",
+    "viral_tags": "#Grok #OpenAI",
+    "tweet_text": "イーロン・マスク氏が、Grokの学習にOpenAIのモデル出力を利用していたことを法廷で証言しました。これはAI業界にとって極めて深刻な事態です。\n\nこれまで「Xの独自データ」を強調してきたxAIですが、実際には「蒸留」という手法を使ってGPT-4などの知能を模倣していたことになります。SIer時代、他社の設計書をコピペして納品するような行為が現場でどれほど忌み嫌われていたかを思い出しますが、それを世界トップのAI企業が公式に認めた形です。\n\nこの手法は、短期的な性能向上には寄与しますが、OpenAIの利用規約に真っ向から抵触する可能性が高い。開発者として気になるのは「Grokの知能は本物なのか？」という点です。他社の回答をなぞるだけのモデルに、本当の意味でのブレイクスルーは期待できるのでしょうか。\n\n今後、OpenAIによる訴訟リスクやモデルの再学習が現実味を帯びてきました。私たちが作るシステムが「規約違反の疑いがあるモデル」に依存することのリスクを、今一度冷静に評価する必要があります。皆さんは、今回の「蒸留」の事実についてどう感じますか？ 独自性を謳う企業のこの手法は、ビジネスとして許容される範囲だと思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-01-grok-trained-on-openai-models-distillation-issue.jpg",
+    "created_at": "2026-05-01T03:09:43.383259+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-01-wonder-ai-design-agent-review",
+    "title": "Wonder 使い方：キャンバス上で自律的に動くAIデザインエージェントを評価",
+    "url": "https://ai.negi-lab.com/posts/wonder-ai-design-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#WonderAI #AIエージェント",
+    "tweet_text": "SIer時代、画面仕様書の1pxのズレを指摘されて発狂しそうになった記憶が蘇りました。あの頃にこれがあれば…。\n\n今回検証したのは、キャンバス上で自律的に動くAIデザインエージェント「Wonder」。これ、単なる「画像生成」とは次元が違います。キャンバスの構造をベクターデータとして理解し、人間と同じようにプロパティを書き換える。\n\nPython SDK経由でデザインを操作できるのがエンジニア的に激アツ。`agent.plan()` で変更箇所をプレビューしてから適用できる安心感は、実務をわかってる設計ですね。\n\nただ、トークン消費はそれなりに激しい。複雑なレイアウトだと1リクエスト数十円単位で溶ける可能性も。それでも、デザイナーとの往復が減るコストメリットを考えれば安いものか。\n\nデザインを「絵」ではなく「構造化データ」として扱う時代がいよいよ本格化してきた印象。UIの実装とデザインの境界線が、このエージェントで消えるかもしれません。\n\n皆さんは、デザインの微調整をAIに任せる際、どの程度の精度があれば「実戦投入」できると考えますか？ピクセルパーフェクトを求めるか、それとも8割の完成度でスピードを取るか。意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-01-wonder-ai-design-agent-review.jpg",
+    "created_at": "2026-05-01T03:10:47.330369+09:00",
+    "posted": false
   }
 ]
