@@ -13763,5 +13763,33 @@
     "image_path": "/images/posts/2026-05-01-multi-node-llm-cluster-vllm-ray-guide.jpg",
     "created_at": "2026-05-01T22:39:44.428351+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-02-nudge-ai-auto-scheduler-practical-review",
+    "title": "nudge 使い方と実務レビュー：AIによる自動スケジューリングの限界と可能性",
+    "url": "https://ai.negi-lab.com/posts/nudge-ai-auto-scheduler-practical-review/",
+    "category": "TOOL",
+    "viral_tags": "#nudge #生産性向上",
+    "tweet_text": "カレンダーの空き枠を手動で埋める時代は終わったかもしれない。\n\n最近検証している「nudge」が、タスク管理の常識を地味に塗り替えてる。\nこれ、単なるToDoリストじゃない。タスクを「いつやるか」の意思決定をAIが肩代わりしてくれるツール。\n\nSIer時代、突発的な会議で予定が崩れるたびにリスケして脳が疲弊してたけど、nudgeならドラッグ＆ドロップすら不要。タスクを放り込めば、既存の予定の隙間にAIが「ここなら集中できるでしょ？」ってスロットを確保してくれる。\n\n実際に触って感じたのは、レスポンスの速さとUIの潔さ。\n0.5秒で1週間分を再構成するスピード感は、まさにローカルLLMをぶん回してる時のような快感がある。\nただし、Jiraみたいなガチガチの依存関係管理を期待すると肩透かしを食らうかも。\n\n「管理すること自体が仕事」になってるエンジニアやフリーランスは、この「脳の外部化」試してみる価値あり。\n皆さんはスケジュールの自動化、どこまで信頼してますか？\n個人的には、クリエイティブな作業ほどAIに時間を確保させるべきだと思ってます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-02-nudge-ai-auto-scheduler-practical-review.jpg",
+    "created_at": "2026-05-02T00:35:46.067343+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-02-qwen-vs-gemma-local-llm-pacman-tutorial",
+    "title": "Qwen 3.6 27B と Gemma 4 31B 使い方比較！Pythonでパックマンを作る方法",
+    "url": "https://ai.negi-lab.com/posts/qwen-vs-gemma-local-llm-pacman-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLaMA #Qwen",
+    "tweet_text": "ローカルLLMの進化が速すぎて、ついに30Bクラスのモデルで「パックマン」が1発完走するレベルに到達しました。\n\nQwen 3.6 27B と Gemma 4 31B を RTX 4090 環境で直接対決。\nSIer時代、要件定義から実装まで数日かけていたものが、今や適切なプロンプト1つ、わずか60秒で動くコードとして出力されます。\n\nQwenの爆速な開発力と、GemmaのGoogle譲りの堅牢な論理。\n実際にPygameを使ってゲームを1から構築させたところ、意外な「得意不得意」が見えてきました。\n特に衝突判定やゴーストの追跡AIの書き方には、両モデルの思想の違いが色濃く出ています。\n\n「もうAPI料金を気にしながらコードを書く時代じゃない」\n自宅サーバーで4090を回している身としては、この精度が手元で動く事実に震えます。\n皆さんはローカルLLMでコードを書かせる際、どのモデルの挙動が一番しっくりきていますか？\n特にGemma系の論理構成の強さを実感している方、具体的なユースケースをぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-02-qwen-vs-gemma-local-llm-pacman-tutorial.jpg",
+    "created_at": "2026-05-02T00:36:55.784058+09:00",
+    "posted": false
   }
 ]
