@@ -13819,5 +13819,33 @@
     "image_path": "/images/posts/2026-05-02-zed-editor-1-0-review-rust-high-performance.jpg",
     "created_at": "2026-05-02T03:00:43.475032+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-02-pentagon-ai-deal-nvidia-ms-aws-analysis",
+    "title": "ペンタゴンがAnthropicを切り捨ててNvidiaらと結んだ契約は「AIの軍事利用」における倫理の敗北と実利の勝利を意味しています。",
+    "url": "https://ai.negi-lab.com/posts/pentagon-ai-deal-nvidia-ms-aws-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#軍事AI #NvidiaNIM",
+    "tweet_text": "ペンタゴンがAnthropicを切り捨ててNvidia、Microsoft、AWSと手を組んだ。このニュース、単なる契約変更じゃない。AIの「軍事利用」というタブーを巡る、倫理と実利の最終決戦の結果です。\n\nAnthropicは「殺傷兵器への加担」を拒む規約を譲らず、軍は「言うことを聞かないAI」を排除した。結果として勝ったのは、誰の思想にも染まらない「ハードウェアと推論スタック」を持つNvidia。\n\nSIer時代に官公庁案件を触っていた身からすると、この「機密ネットワーク（エアギャップ環境）へのデプロイ」がどれだけ地獄か想像に難くない。ネット接続なしでGPT-4級を動かす技術が、今や国家の最高機密。\n\nこれからのエンジニアに求められるのは、APIを叩く力じゃない。物理サーバーにモデルを叩き込み、限界まで最適化して、オフラインで知能を稼働させる力。\n\n皆さんは「API利用」と「ローカル自炊」、どちらに軸足を置いてますか？最近のLlama 3やNIMの進化を見てると、私は完全に後者が正解だと感じてます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-02-pentagon-ai-deal-nvidia-ms-aws-analysis.jpg",
+    "created_at": "2026-05-02T06:59:58.587436+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-02-bitgrain-lightweight-design-tool-review",
+    "title": "Bitgrain 使い方と実務レビュー：FigmaとCanvaの隙間を埋める超軽量レイアウトエディタの実力",
+    "url": "https://ai.negi-lab.com/posts/bitgrain-lightweight-design-tool-review/",
+    "category": "TOOL",
+    "viral_tags": "#Bitgrain #デザインツール",
+    "tweet_text": "デザインツール界隈に激震。Figmaの重さに耐えかねている全エンジニアに伝えたいのが「Bitgrain」の実力です。\n\nSIerからフリーランスを経て、数多のデザインツールを触ってきましたが、これほど「開発者フレンドリー」な設計は珍しい。Figmaの多機能さとCanvaの手軽さ、その隙間を完璧に埋めています。\n\n個人的に衝撃だったのは、メモリ消費量がFigmaの3割程度という軽さ。M2 Macで読み込み0.8秒。これ、1日に何度もツールを行き来する身としては、生産性が直感的に変わるレベルです。\n\nレイアウトの概念がFlexboxに近いので、CSSがわかる人なら10分で使いこなせます。API経由での画像生成も爆速。ブログのOGP自動生成をPythonで組んでみましたが、レスポンスがFigma APIの比じゃない。\n\nもちろん日本語フォントの少なさなど課題はあるけど、個人開発やモック作成ならこれで十分、いやこれが最適解まである。\n\nみなさん、デザインツールの「重さ」で作業が止まること、ありませんか？FigmaのAuto Layoutにイラついた経験がある人は、一度これ触ってみる価値あります。実際の使用感やAPI連携のコード例、記事にまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-02-bitgrain-lightweight-design-tool-review.jpg",
+    "created_at": "2026-05-02T07:01:06.004176+09:00",
+    "posted": false
   }
 ]
