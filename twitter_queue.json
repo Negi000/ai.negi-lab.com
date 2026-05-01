@@ -13707,5 +13707,33 @@
     "image_path": "/images/posts/2026-05-01-postiz-agentic-social-media-scheduler-review.jpg",
     "created_at": "2026-05-01T17:17:55.073887+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-01-gpt-5-5-cyber-openai-restrict-access-security-analysis",
+    "title": "GPT-5.5 Cyber vs Anthropic Mythos 比較とアクセス制限が示すAI兵器化の現実",
+    "url": "https://ai.negi-lab.com/posts/gpt-5-5-cyber-openai-restrict-access-security-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #GPT5",
+    "tweet_text": "AIが「ツール」から「兵器」に変わる境界線を見てしまった気がします。OpenAIが発表したGPT-5.5 Cyber、その驚異的な脆弱性検知能力以上に衝撃的なのが「特定の防御者以外はアクセス禁止」という厳しい制限です。\n\nかつてAnthropicの制限を批判していたOpenAIが、自らも「知能の検閲」に踏み切らざるを得なかった。これは言い換えれば、RLHFなどの既存の安全策では、AIによる自動攻撃を技術的に防げない段階に達したという敗北宣言に近い。\n\n実務者としてAPIドキュメントを追う限り、バイナリを直接解析して数秒で攻撃コード（PoC）を生成する精度は、もはや人間が太刀打ちできるレベルを超えています。\n\n今後は「AIを使える人」と「AIから拒絶される人」の間で、セキュリティ格差が致命的なほど広がっていくでしょう。私たちはOpenAIという一企業に、世界の安全性を委ねる決断を迫られています。\n\n皆さんは、AIの強力すぎる知能を一部の組織だけに独占させる今の流れについて、どう考えますか？自衛のためにローカルLLMを強化すべき時期が、想定より早く来たのかもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-01-gpt-5-5-cyber-openai-restrict-access-security-analysis.jpg",
+    "created_at": "2026-05-01T19:22:58.065153+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-01-montage-ui-agentic-framework-review",
+    "title": "Montage UI操作のコストを10分の1に削るエンジニア向けエージェントフレームワーク",
+    "url": "https://ai.negi-lab.com/posts/montage-ui-agentic-framework-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Montage",
+    "tweet_text": "UI操作AI（エージェント）を実務で使おうとして、API代の高さに絶望した経験はありませんか？\n\n話題の「Montage」を触ってみましたが、これはブラウザ操作系の開発における「劇薬」になりそうです。\n\n従来のAgentフレームワークは、HTMLを丸ごとLLMに投げたり、何度もスクショを撮ったりする「富豪的アプローチ」が主流でした。でもこれだと、1アクション数十円かかるし遅い。\n\nMontageが賢いのは、UI要素をセマンティックに構造化してLLMに渡す「情報圧縮」を徹底している点。\n\n検証した結果、トークン消費を従来の1/10近くまで削れるケースもありました。\nRTX 4090 2枚挿しの自作環境でも動かしてみましたが、ローカルLLMとの相性も期待できそう。\n\n正直、ドキュメントが英語だけなのとPlaywrightの扱いに慣れが必要ですが、SaaS自動化をプロダクトに組み込むなら現時点でこれ以上の選択肢は少ないはず。\n\n「動いて楽しい」から「仕事で稼げる」AIエージェントへ。\n\n皆さんはブラウザ操作の自動化、何のツールで組んでますか？\nSkyvernやMultiOnとの使い分け、どう考えているか気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-01-montage-ui-agentic-framework-review.jpg",
+    "created_at": "2026-05-01T19:24:01.990217+09:00",
+    "posted": false
   }
 ]
