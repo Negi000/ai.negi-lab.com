@@ -13679,5 +13679,33 @@
     "image_path": "/images/posts/2026-05-01-anthropic-900b-valuation-fundraising-impact.jpg",
     "created_at": "2026-05-01T15:22:08.392413+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-01-apple-mac-ai-demand-supply-constraints",
+    "title": "M4世代Macが供給不足へ：Appleも予測できなかった「AI開発需要」の正体",
+    "url": "https://ai.negi-lab.com/posts/apple-mac-ai-demand-supply-constraints/",
+    "category": "NEWS",
+    "viral_tags": "#AppleSilicon #LocalLLM",
+    "tweet_text": "AppleがMac miniやStudioの供給不足を認めましたね。驚くべきはその理由。Apple自身が「AI開発者によるMac需要」を完全に読み違えていたと。\n\n元SIerの視点で見ると、この状況は必然です。今のAI開発、特にローカルLLM環境では「VRAM容量」がすべて。RTX 4090を何枚も刺すより、192GBのユニファイドメモリを積んだMac Studioの方が、1GBあたりのコストも電気代も圧倒的に安い。まさに「計算資源としてのMac」という新ジャンルが確立されました。\n\n特に新型「Neo」の供給制約は、これからAIを本格化させる企業にとって大打撃になるはず。24時間ファンを回し続けても静かなMacは、デスクトップ型AIサーバーとして最強の選択肢ですから。\n\nSIer時代の苦労を思い出すと、数百万のGPUサーバーの稟議を書くより、100万以下のMac Studioをポチる方が遥かに合理的。この「ハードウェアの民主化」がAI開発の速度を一段階引き上げたのは間違いありません。\n\n皆さんの周りでも、研究用や開発用にMacをバルク買いする動き、増えていませんか？現場でのMac Studio活用術や、メモリ不足の悩みなど、ぜひリプ欄で教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-01-apple-mac-ai-demand-supply-constraints.jpg",
+    "created_at": "2026-05-01T17:16:47.873551+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-01-postiz-agentic-social-media-scheduler-review",
+    "title": "Postiz 使い方：AIエージェント搭載のオープンソースSNSスケジューラーを検証",
+    "url": "https://ai.negi-lab.com/posts/postiz-agentic-social-media-scheduler-review/",
+    "category": "TOOL",
+    "viral_tags": "#Postiz #オープンソース",
+    "tweet_text": "SNS運用を「人間がポチポチ予約する」時代はもう終わるかもしれません。\n\nProduct Huntで注目を集めている「Postiz」を、公式ドキュメントとGitHubソースから徹底的に掘り下げました。これ、単なるスケジューラーじゃなくて、AIエージェント（OpenClaw等）が投稿を自律生成するための「受け皿」として設計されています。\n\nSIer時代、手動のSNS告知作業に時間を溶かしていた自分に教えたい。Docker一発で自前インフラにデプロイできるOSSなので、データの主権を握りつつ、RTX 4090などのローカル資産でLLMを回している層にはたまらない仕様です。\n\nAPI経由でエージェントから指示を飛ばせば、各SNSに最適化された投稿が自動で積み上がっていく。既存のBufferやHootsuiteに月額課金し続けるのが馬鹿らしくなるレベルの自由度がありますね。\n\nとはいえ、セットアップにはそれなりの知識が必要。\n「エンジニアのためのSNS自動化基地」として、どこまで実戦投入できるか本音で評価しました。\n\n皆さんはSNS運用にAIエージェントを導入していますか？あるいは、まだ「人間による手動投稿」が最適解だと思いますか？現場のリアルな意見を聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-01-postiz-agentic-social-media-scheduler-review.jpg",
+    "created_at": "2026-05-01T17:17:55.073887+09:00",
+    "posted": false
   }
 ]
