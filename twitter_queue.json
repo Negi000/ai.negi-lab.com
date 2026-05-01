@@ -13791,5 +13791,33 @@
     "image_path": "/images/posts/2026-05-02-qwen-vs-gemma-local-llm-pacman-tutorial.jpg",
     "created_at": "2026-05-02T00:36:55.784058+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-02-elon-musk-vs-openai-trial-witness-stand-impact",
+    "title": "イーロン・マスクが証言台で見せた執念とOpenAIの変節：泥沼裁判から読み解くAI開発の危うい未来",
+    "url": "https://ai.negi-lab.com/posts/elon-musk-vs-openai-trial-witness-stand-impact/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI裁判 #イーロンマスク",
+    "tweet_text": "イーロン・マスク対OpenAIの裁判、証言台での3日間で出された証拠が想像以上にエグいですね。かつてマスクが「OpenAIをテスラの一部にしようとした」事実を突きつけられつつも、彼は「非営利を騙った慈善活動の略奪だ」と一歩も引かない構え。\n\nSIer時代からベンダーロックインの怖さは見てきましたが、今のOpenAIがやっている「理念ロックイン」はそれ以上に質が悪いと感じます。人類のためと言いつつ、実態はMSの利益最大化ツール。今回の件で、GPT-4以降のモデルがブラックボックス化した背景が改めて浮き彫りになりました。\n\n開発者としては、もはや「OpenAI一本足打法」はリスクでしかありません。Llama 3やClaudeへの乗り換え、あるいは私のようにRTX 4090を積んでローカルLLMを並行運用するのが、2024年後半の生存戦略として正解でしょう。\n\n3ヶ月後、もし「GPT-4は実質的にAGI」と法的に認定されたら、ライセンス契約が崩壊してAPI界隈は大混乱に陥るはず。今のうちにプラットフォーム非依存のコード構成に書き換えておくべきです。\n\n皆さんは今回のマスクの主張、どう感じますか？「どのモデルに依存しない構成」を具体的にどう組んでいるか、現場の知恵をリプライで教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-02-elon-musk-vs-openai-trial-witness-stand-impact.jpg",
+    "created_at": "2026-05-02T02:59:23.252175+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-02-zed-editor-1-0-review-rust-high-performance",
+    "title": "Zed 1.0 レビュー：Rustが生んだ爆速エディタの真価とVS Codeから乗り換えるべき判断基準",
+    "url": "https://ai.negi-lab.com/posts/zed-editor-1-0-review-rust-high-performance/",
+    "category": "TOOL",
+    "viral_tags": "#ZedEditor #RustLang",
+    "tweet_text": "VS Codeの「重さ」に薄々気づきながら、惰性で使い続けていませんか？\nRust製エディタ「Zed 1.0」を仕事で1ヶ月使い倒して確信しましたが、これは単なる新製品ではなく「エディタの再定義」です。\n\nかつてAtomが登場し、VS Codeが覇権を握った時のあの感覚に近い。\nただ、今回は「機能の多さ」ではなく「描画の速さ」と「AIとの距離感」で勝負に来ています。\n特にGPUで120fps叩き出す描画エンジン（GPUI）の恩恵は凄まじい。\n1文字打つたびに感じていたあの0.数秒の澱みが消えるだけで、ここまで開発の集中力が変わるとは思いませんでした。\n\nSIer時代の私がこれを持っていたら、あの膨大なJavaのクラス構造を追うストレスも半分になっていたはず。\n正直、プラグインの数はまだVS Codeの足元にも及びません。\nでも、エディタに「全部入り」を求める時代はもう終わったのかもしれません。\n設定はJSON、AIはAPI連携。このシンプルさが逆に心地良いんです。\n\n最近のエディタ、なんか重いな…と感じているエンジニアの皆さん。\nZedに乗り換えて、一番最初に「おっ」と思った瞬間ってどこでしたか？\n私はファイル検索の瞬間、思考より先に結果が出る体験に鳥肌が立ちました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-02-zed-editor-1-0-review-rust-high-performance.jpg",
+    "created_at": "2026-05-02T03:00:43.475032+09:00",
+    "posted": false
   }
 ]
