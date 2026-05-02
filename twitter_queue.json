@@ -13931,5 +13931,33 @@
     "image_path": "/images/posts/2026-05-02-breaks-pomodoro-timer-minimalist-review.jpg",
     "created_at": "2026-05-02T18:59:13.101820+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-02-google-stitch-design-md-ai-review",
+    "title": "DESIGN.md 使い方とレビュー AI開発を加速するデザイン仕様の標準化",
+    "url": "https://ai.negi-lab.com/posts/google-stitch-design-md-ai-review/",
+    "category": "TOOL",
+    "viral_tags": "#DesignSystem #AI開発",
+    "tweet_text": "SIer時代の苦労は何だったのか…。昔は分厚いExcelの設計書を読み込んでUIを作っていましたが、今は「AIに読ませるための仕様書」を1枚置くだけで済む時代になりました。\n\nGoogle Stitchが提案する「DESIGN.md」を試しましたが、これ単なるドキュメントじゃないですね。AIエージェントに対する「デザインの強制ギプス」です。\n\nCursorやWindsurfを使っていて、AIが勝手にブランド外の色を使ったり、独自のボタンコンポーネントを無視してHTMLのbuttonタグを生成したりする現象に悩んでいる人は多いはず。\nDESIGN.mdにルールを構造化して記述しておけば、AIのハルシネーションを物理的に抑制できます。\n\n実際に触ってみて感じたのは、これからは「人間向けのドキュメント」と「AI向けの仕様書」の分離が加速するということ。\n1段落2〜3文で構成されたMarkdownは、LLMのコンテキストウィンドウに最適化されています。\n\nFigmaとの自動同期フローまで組めば、デザイナーが色を変えた瞬間にAIの生成コードが変わる環境が作れる。\nAI駆動開発の「打率」を上げたいチームは、今すぐチェックしておくべき技術スタックだと確信しました。\n皆さんの現場では、AIにデザインルールをどう伝えていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-02-google-stitch-design-md-ai-review.jpg",
+    "created_at": "2026-05-02T22:23:18.815432+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-02-deepseek-local-setup-security-audit-guide",
+    "title": "DeepSeek-V3をローカルで動かして「脅威」の正体を技術的に検証する方法",
+    "url": "https://ai.negi-lab.com/posts/deepseek-local-setup-security-audit-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#DeepSeek #ローカルLLM",
+    "tweet_text": "中国製AIに対するネガティブキャンペーンが不透明な資金で行われているというRedditの投稿、界隈ではかなりの衝撃ですね。\nDeepSeekの実力がOpenAIを脅かすレベルまで来たからこその「政治的ノイズ」が混じり始めています。\n\nSIer時代、根拠のない「セキュリティ懸念」で便利なツールが禁止されるのを何度も見てきました。\nでも、技術者なら他人のプロパガンダに踊らされる前に、まずは自分の手元でコードを動かして確かめるべきです。\n\n今回はOllamaを使ってDeepSeek-R1（Distill版）を完全にローカルで動かし、かつ推論中に不審な通信が発生していないかをPythonで監視する検証環境の作り方をまとめました。\n8BモデルならRTX 3060クラスのVRAM 8GB環境でもサクサク動きます。\n\n実際に動かしてみると、その「思考プロセス」の透明性と推論能力の高さに驚くはずです。\n米国製モデルの過剰なガードレールに疲弊しているエンジニアほど、この「素の知能」の衝撃は大きいかもしれません。\n皆さんはDeepSeekを実際に触ってみて、バックドアや検閲の気配を感じましたか？それとも単なる高性能なツールだと感じましたか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-02-deepseek-local-setup-security-audit-guide.jpg",
+    "created_at": "2026-05-02T22:24:26.665067+09:00",
+    "posted": false
   }
 ]
