@@ -13987,5 +13987,33 @@
     "image_path": "/images/posts/2026-05-03-qwen36-ollama-local-agentic-search-guide.jpg",
     "created_at": "2026-05-03T00:28:26.199349+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-03-best-ai-dictation-apps-2025-whisper-ranking",
+    "title": "2025年最新AI音声入力アプリ徹底比較！実務で使える「Whisper超え」の選択肢と技術背景",
+    "url": "https://ai.negi-lab.com/posts/best-ai-dictation-apps-2025-whisper-ranking/",
+    "category": "NEWS",
+    "viral_tags": "#Whisper #音声入力AI",
+    "tweet_text": "2025年、音声入力は「ただの文字起こし」から「思考を直接形にするツール」に化けました。TechCrunchの最新ランキングを読み解き、RTX 4090を2枚挿してローカルLLMを検証し続けている私の視点で、実務にどう効くかを深掘りしました。\n\nSIer時代の苦労を知っている身からすると、Whisper Large v3をベースにしたオンデバイス推論の進化には目を見張るものがあります。レスポンス0.2秒、誤字率2%以下。この数字が意味するのは、もはやキーボードを叩くよりも音声でドラフトを作る方が圧倒的に速いという現実です。\n\n個人的に衝撃だったのは、単なる書き起こしではなく、クリップボードの文脈を読んで専門用語を補完する「コンテキスト注入」の精度。メール返信だけでなく、プログラミングのロジックを口頭で説明してコード化するワークフローが実用レベルに達しています。\n\n開発者の皆さんは、まだ「外で喋るのは恥ずかしい」なんて言ってる場合じゃないですよ。この速度差はそのままアウトプットの差になります。\n\n皆さんは音声入力、どのツールで、どんな場面で使っていますか？私はブログの下書きを散歩中に終わらせるのが定番ですが、おすすめの設定や活用術があればぜひ教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-03-best-ai-dictation-apps-2025-whisper-ranking.jpg",
+    "created_at": "2026-05-03T02:43:48.655996+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-03-schole-ai-learning-review-guide",
+    "title": "Scholé 使い方 レビュー：日常業務を学習資産に変えるAIの実力を検証",
+    "url": "https://ai.negi-lab.com/posts/schole-ai-learning-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Schole #生産性向上",
+    "tweet_text": "SIer時代の自分に教えたい。技術ドキュメントを読み漁っても、一週間後には内容を忘れてまた検索窓を叩く。あの不毛な「再検索の時間」をゼロにできるツールが出てきました。\n\nProduct Huntで見つけたScholé。これ、単なる作業ログツールじゃない。\nブラウザやエディタでの動きをAIが監視して、今まさに仕事で使った知識を「自分専用の教科書」に自動変換してくれます。\nコードを書いて、ドキュメントを読んだ瞬間に、復習用のクイズや要約が生成される。\nインプットとアウトプットの境界線が完全に消えますね。\n\nPython SDKも用意されていて、昨日の作業ログから技術ブログの草案を自動生成するなんてことも余裕。\n正直、日本語の解析精度にはまだ課題を感じるけど、英語の公式ドキュメントを読みこなす層なら即戦力。\n\n「動かしてみた」で終わらせず、自分の血肉に変えたいエンジニアには最高の投資になるはず。\nRTX 4090をぶん回すのも楽しいけど、こういう「個人の知能を外部化する」仕組み作りこそ、AI時代の生存戦略だと思う。\n皆さんは作業ログ、どうやって資産化してますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-03-schole-ai-learning-review-guide.jpg",
+    "created_at": "2026-05-03T02:44:49.264383+09:00",
+    "posted": false
   }
 ]
