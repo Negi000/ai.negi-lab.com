@@ -13875,5 +13875,33 @@
     "image_path": "/images/posts/2026-05-02-meta-buys-assured-robot-intelligence-humanoid-ai-ambitions.jpg",
     "created_at": "2026-05-02T14:43:36.422617+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-02-musk-vs-altman-openai-lawsuit-agi-impact",
+    "title": "マスクvsアルトマン裁判の証拠メールが暴露したOpenAI「営利化」の裏側とAGIの定義",
+    "url": "https://ai.negi-lab.com/posts/musk-vs-altman-openai-lawsuit-agi-impact/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI裁判 #AGIの定義",
+    "tweet_text": "イーロン・マスクが証言台に立ったOpenAI裁判の展開が、想像以上に生々しいですね。法廷で公開された内部メールを読むと、設立当初の「オープンな理想」がMicrosoftの巨大資本と引き換えに、いかにして「クローズドな独占」へ変貌していったのか、その舞台裏が手に取るようにわかります。\n\nSIer時代、不透明なベンダーロックインに苦しんだ経験がある身としては、今のOpenAIのやり方は既視感しかありません。非営利を掲げて人材を集め、成果が出たら「計算資源が必要だから」と営利化して技術をブラックボックス化する。これは技術の民主化ではなく、資本による知能の囲い込みです。\n\n実務者として気になるのは「AGIの定義」が法廷で争われている点。Microsoftとの契約にある「AGI達成でライセンス終了」という条項を巡る駆け引きは、私たちが明日叩くコードや、選ぶべきAPIの未来に直結します。もはやOpenAI一極集中の時代は終わりました。\n\nLlama 3.1のようなオープンなモデルを自前で動かすスキル、そして複数のLLMを柔軟に使い分ける「マルチモデル戦略」は、もはや教養ではなく生存戦略です。この裁判は、AIが誰のものかを決める歴史の転換点。あなたはまだ、一つのAPIに依存し続けますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-02-musk-vs-altman-openai-lawsuit-agi-impact.jpg",
+    "created_at": "2026-05-02T16:49:37.657291+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-02-ara-100x-ide-review-usage-guide",
+    "title": "Ara 使い方 レビュー：テキスト入力のみでビジネスを構築する「100x IDE」の実力",
+    "url": "https://ai.negi-lab.com/posts/ara-100x-ide-review-usage-guide/",
+    "category": "TOOL",
+    "viral_tags": "#AraIDE #AIエージェント",
+    "tweet_text": "SIer時代の苦労は何だったのか…。テキストだけでビジネスロジックからインフラまで構築する「Ara（Dereference）」を丸一日触り倒しました。\n\nこれ、単なる「コード補完」じゃないですね。\n「Stripe連携して、在庫減ったらSlack通知して」とチャットするだけで、バックエンドの整合性を保ったままデプロイまで完結します。\n\n特に驚いたのがコンテキストの理解度。0.3秒のレスポンスで、既存コードとの依存関係を解決しながらファイルを書き換えていく様は、まさに100x IDEの名の通り。\n\n正直、英語ドキュメントのみで、たまに生成コードが1ファイルに肥大化する弱点もありますが、MVP開発の速度は他のツールを圧倒しています。Cursorとの使い分けが、これからのエンジニアの生存戦略になりそう。\n\n皆さんは、AIに「設計」まで任せる派ですか？それとも「実装の補助」に留める派ですか？実際のプロジェクトでAIエージェントにどこまで権限を渡しているか、率直な意見を聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-02-ara-100x-ide-review-usage-guide.jpg",
+    "created_at": "2026-05-02T16:50:38.387960+09:00",
+    "posted": false
   }
 ]
