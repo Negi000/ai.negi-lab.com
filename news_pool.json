@@ -2,33 +2,6 @@
   "items": [
     {
       "source": "r/LocalLLaMA",
-      "title": "2x RTX 6000 build during an extended bench test",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svmnra/2x_rtx_6000_build_during_an_extended_bench_test/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-25T20:15:18+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1svmnra/2x_rtx_6000_build_during_an_extended_bench_test/\"> <img alt=\"2x RTX 6000 build during an extended bench test\" src=\"https://external-preview.redd.it/bDJlN3lyanI5ZXhnMVwg-4SpilrSgCLD-sEZywzPwbgmSjLx5iQs2ngcIuwK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cd99190b33fa96b509be8224bee8ee69d55a73a8\" title=\"2x RTX 6000 build during an extended bench test\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>CPU at 100% a",
-      "extra": {},
-      "collected_at": "2026-04-26T06:49:21"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GLM 5.1 Locally: 40tps, 2000+ pp/s",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svgtlh/glm_51_locally_40tps_2000_pps/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-25T16:31:16+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>After some sglang patching and countless experiments, managed to get reap-ed nvfp4 version running stable and FAST on 4 x RTX 6000 Pros (limited to 350W). Very happy with performance and quality. Inference software is still under-optimized for those cards. I think we will see their true potential unfold this or early next year.</p> <h1>Throughput by Context Depth</h1> <table><thead> <tr> <th align=\"left\">Prefilled</th> <th align=\"left\">PP@4096</th> <th align=\"le",
-      "extra": {},
-      "collected_at": "2026-04-26T06:49:21"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "I can’t believe I can say “ugh I don’t feel like fixing this function, it’s too complex” and I can literally just tell my computer to fix it for me. I didn’t understand what they meant by “people will start paying for intelligence” but now I do.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svu9xe/i_cant_believe_i_can_say_ugh_i_dont_feel_like/",
       "primary_category": "GUIDE",
@@ -2809,19 +2782,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Scholé",
-      "url": "https://www.producthunt.com/products/schole-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn everyday work into personalized AI learning </p> <p> <a href=\"https://www.producthunt.com/products/schole-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1129347?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-05-02T18:57:39"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Microsoft Copilot Health",
       "url": "https://www.producthunt.com/products/copilot-health",
       "primary_category": "TOOL",
@@ -2918,19 +2878,6 @@
       "collected_at": "2026-05-03T00:26:41"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "The best AI dictation apps, tested and ranked",
-      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sat, 02 May 2026 16:00:00 +0000",
-      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-      "extra": {},
-      "collected_at": "2026-05-03T02:43:16"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Bruh",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1u6e7/bruh/",
@@ -2942,7 +2889,20 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t1u6e7/bruh/\"> <img alt=\"Bruh\" src=\"https://preview.redd.it/9qld8gx11ryg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7856ad7f86bfb45396f6b9d9f296d4f329ae30ad\" title=\"Bruh\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Do reporting bots even do anything?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Icy_Butterscotch6661\"> /u/Icy_Butterscotch6661 </a> <br /> <span><a href=\"",
       "extra": {},
       "collected_at": "2026-05-03T02:43:20"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I built a transformer in C++17 from scratch — no PyTorch, no BLAS, no dependencies. Trains on CPU. 0.83M params, full analytical backprop, 76 min to val loss 1.64.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1x9jv/i_built_a_transformer_in_c17_from_scratch_no/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-05-02T18:11:34+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>For the past few months I've been working on Quadtrix.cpp — a complete GPT-style language model implemented in C++17. No PyTorch. No LibTorch. No BLAS. No auto-differentiation library of any kind. The only dependency is the C++17 standard library and POSIX sockets.</p> <p>Repo: <a href=\"https://github.com/Eamon2009/Quadtrix.cpp\">https://github.com/Eamon2009/Quadtrix.cpp</a></p> <p>Everything is hand-written: the tensor library, all forward pass operations, and t",
+      "extra": {},
+      "collected_at": "2026-05-03T06:54:20"
     }
   ],
-  "updated_at": "2026-05-03T02:43:20.729549+09:00"
+  "updated_at": "2026-05-03T06:54:20.166745+09:00"
 }

@@ -14015,5 +14015,19 @@
     "image_path": "/images/posts/2026-05-03-schole-ai-learning-review-guide.jpg",
     "created_at": "2026-05-03T02:44:49.264383+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-03-elon-musk-openai-court-battle-agi-definition",
+    "title": "イーロン対OpenAI訴訟が泥沼化｜開発者が知るべきAGI定義の罠",
+    "url": "https://ai.negi-lab.com/posts/elon-musk-openai-court-battle-agi-definition/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #AGI定義",
+    "tweet_text": "イーロン・マスク vs OpenAIの裁判が予想以上に泥沼化していますね。\n\n法廷で公開された過去のメールを見ると、イーロン自身が「営利化」や「数十億ドルの資金調達」を提案していた事実が露呈。正直、今の彼の「非営利の理念を守れ」という主張には無理があると感じます。\n\nでも、この裁判で本当に注目すべきは泥仕合の行方ではなく「AGIの法的定義」です。Microsoftとの契約にある「AGI達成でライセンス終了」という条項を巡って、GPT-4がすでにAGIなのかという議論が法廷でなされています。\n\nSIer時代から多くのシステムを見てきましたが、これほど「契約書の1行」が世界の技術動向を左右するケースは稀。開発者は単にAPIを使うだけでなく、この「AGIトリガー」によるプラットフォーム崩壊のリスクを真剣に考える時期に来ています。\n\n特定の企業に依存するのはもう危険すぎます。私は自宅のRTX 4090を2枚挿しでぶん回してローカルLLMを検証していますが、これからは「いつでも乗り換えられる」構成で設計するのがエンジニアの生存戦略。\n\n皆さんは、この訴訟が自分の開発環境に影響を与えると思いますか？それとも単なる金持ちの喧嘩だと割り切っていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-03-elon-musk-openai-court-battle-agi-definition.jpg",
+    "created_at": "2026-05-03T06:54:52.991208+09:00",
+    "posted": false
   }
 ]
