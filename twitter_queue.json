@@ -13903,5 +13903,33 @@
     "image_path": "/images/posts/2026-05-02-ara-100x-ide-review-usage-guide.jpg",
     "created_at": "2026-05-02T16:50:38.387960+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-02-musk-v-altman-openai-trial-evidence-analysis",
+    "title": "イーロン・マスク対サム・アルトマン裁判で暴かれたOpenAI「非営利」の虚像とエンジニアが直視すべきプラットフォームリスク",
+    "url": "https://ai.negi-lab.com/posts/musk-v-altman-openai-trial-evidence-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #ElonMusk",
+    "tweet_text": "OpenAI設立当初の生々しい内部メールが、裁判資料としてついに公開されました。\n\nこれを読むと、私たちが信じてきた「非営利の理念」が、実は初期段階から「Googleへの対抗」と「人材確保」のための高度なマーケティング戦略だった可能性が浮き彫りになります。イリヤ氏が2016年に「AIが進化すればオープンにする必要はない」と発言し、マスク氏もそれに同意していた事実は、今のクローズドなOpenAIが「変節」ではなく「予定通り」だったことを示唆しています。\n\nSIer時代に見てきた「大人の事情による仕様変更」の巨大版を見ているようで、正直背筋が凍ります。エンジニアとして、特定の企業の善意に依存することの危うさを改めて突きつけられました。\n\nこれからの開発者に必要なのは、APIを盲信することではなく、Llama 3のようなローカルLLMを並行して運用し、いつでも「梯子を外せる」状態を作っておくリスク管理です。私はRTX 4090を回し続けますが、皆さんは現在のOpenAIの姿勢をどう感じていますか？このまま一強時代が続くと思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-02-musk-v-altman-openai-trial-evidence-analysis.jpg",
+    "created_at": "2026-05-02T18:58:12.063859+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-02-breaks-pomodoro-timer-minimalist-review",
+    "title": "Breaks メニューバーに常駐する最小主義ポモドーロタイマー",
+    "url": "https://ai.negi-lab.com/posts/breaks-pomodoro-timer-minimalist-review/",
+    "category": "TOOL",
+    "viral_tags": "#ポモドーロテクニック #生産性向上",
+    "tweet_text": "エンジニアの集中力を削ぐ最大の要因って、実は「便利すぎるツール」の通知だったりしませんか？\n\n最近見つけた「Breaks」というポモドーロタイマーが、そのあたりの塩梅が絶妙すぎて驚きました。メニューバーに常駐するだけで、余計なタスク入力も、派手なポップアップも一切なし。ただ静かに残り時間を教えてくれるだけのツールです。\n\nかつてSIerで15分単位の工数管理に追われていた身からすると、こういう「記録のための作業」を徹底的に排除したツールは救いですね。RTX 4090を2枚回してディープワークに没頭している時、通知センターから「休憩してください！」とデカデカと邪魔されるストレスから解放されました。\n\nVS Codeの画面を1ピクセルも無駄にしたくない、でもポモドーロの規律は欲しい。そんなニッチな需要に突き刺さる設計。統計機能とかはいらないから、とにかく「静かに見守ってほしい」派の人にはこれ以上ない選択肢だと思います。\n\n皆さんは集中力を維持するために、タイマーアプリの「通知」はどう設定していますか？あえて音を鳴らす派か、それとも視覚情報だけにする派か、実際の運用術を聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-02-breaks-pomodoro-timer-minimalist-review.jpg",
+    "created_at": "2026-05-02T18:59:13.101820+09:00",
+    "posted": false
   }
 ]
