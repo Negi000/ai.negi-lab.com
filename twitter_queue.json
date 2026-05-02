@@ -13959,5 +13959,33 @@
     "image_path": "/images/posts/2026-05-02-deepseek-local-setup-security-audit-guide.jpg",
     "created_at": "2026-05-02T22:24:26.665067+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-03-pentagon-classified-ai-deals-openai-nvidia-anthropic-exclusion",
+    "title": "ペンタゴンが機密情報を扱うAI基盤としてOpenAIやNvidiaを選定し、これまで協力関係にあったAnthropicを事実上排除したことは、軍事AIのフェーズが「検証」から「実戦配備」へ移行したことを意味します。",
+    "url": "https://ai.negi-lab.com/posts/pentagon-classified-ai-deals-openai-nvidia-anthropic-exclusion/",
+    "category": "NEWS",
+    "viral_tags": "#DefenseTech #OpenAI",
+    "tweet_text": "ペンタゴンがOpenAIやNvidia、xAIらと「機密AI契約」を締結。衝撃的なのは、これまで政府案件に強かったAnthropicがリストから消えた事実です。軍事レベルのImpact Level 6（IL6）という最高機密環境でAIを動かすフェーズに入った今、AIに求められるのは「過剰な倫理」ではなく「命令への忠実さ」と「完全閉鎖環境での圧倒的レスポンス」だったということ。\n\nSIer時代、セキュリティ要件でクラウドが使えず苦労した経験がありますが、今回のニュースはその壁が「モデルのウェイトごと機密環境へ持ち込む」という力技で突破されたことを意味します。Nvidiaが直接契約に入っているのも示唆的。クラウドベンダーを介さず、チップレベルで軍専用のAIインフラを構築する動きが加速しています。\n\n結局、実務で勝つのは「賢いけど使いにくいAI」ではなく「現場の制約に最適化できるAI」なのかもしれません。Anthropicのガードレール、軍事利用には固すぎたんでしょうか。\n\nこの「機密環境へのデプロイ」という流れ、金融や製造のエンタープライズ領域にも間違いなく波及します。API叩くだけのエンジニアから、インフラと推論最適化まで握れるエンジニアへの転換が急務ですね。\n\nみなさん、自分の開発環境を「完全オフライン」で構築するとしたら、どのモデルをどのGPUで回しますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-03-pentagon-classified-ai-deals-openai-nvidia-anthropic-exclusion.jpg",
+    "created_at": "2026-05-03T00:27:20.112869+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-03-qwen36-ollama-local-agentic-search-guide",
+    "title": "Qwen3.6-27BとOllamaで高精度なローカル検索AIを作る方法",
+    "url": "https://ai.negi-lab.com/posts/qwen36-ollama-local-agentic-search-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLM #Ollama",
+    "tweet_text": "ローカルLLMでここまで来たか…という衝撃。\nRTX 3090/4090を1枚用意するだけで、精度95.7%の自律型検索AI（Agentic Search）が自分のPC内で完結します。Qwen3.6-27BをOllamaで回してみたけど、情報の抽出と統合能力が8Bクラスとは別次元。\n\nこれ、SIer時代に何千万もかけて組んでいた検索システムが、今やPython数行とオープンモデルで、しかも「完全オフライン・データ漏洩リスクゼロ」で実現できてしまうんですよね。正直、機密情報を扱うリサーチ業務なら、月額課金のSaaSよりこっちの方が遥かに実用的。\n\n実際に動かしてみて驚いたのが、情報の矛盾を指摘する能力の高さ。適当な検索結果を与えても「このソースAとBで数字が食い違っています」と自ら気づいて再検索をかけるループを回せます。自宅サーバーにRTX 4090を2枚挿して検証していますが、1枚でも十分爆速。\n\nエンジニアなら「動かしてみた」で終わらせるのは勿体ない。実務のワークフローに組み込むための具体的なスクリプトと、24GB VRAMを使い切る設定を記事にまとめました。\n\nローカルLLM、皆さんはどのサイズのモデルをメインで使っていますか？27Bクラスが家庭用GPUで常用できるようになった今の環境、どう感じてます？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-03-qwen36-ollama-local-agentic-search-guide.jpg",
+    "created_at": "2026-05-03T00:28:26.199349+09:00",
+    "posted": false
   }
 ]
