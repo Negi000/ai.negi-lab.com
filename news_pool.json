@@ -1,46 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Tell HN: Claude 4.7 is ignoring stop hooks",
-      "url": "https://news.ycombinator.com/item?id=47895029",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 24 Apr 2026 19:55:09 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-25T12:19:34"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Haiker",
-      "url": "https://www.producthunt.com/products/haiker",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Hacker News App for non-native english speaker </p> <p> <a href=\"https://www.producthunt.com/products/haiker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130748?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-25T12:19:36"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.6-35B-A3B - even in VRAM limited scenarios it can be better to use bigger quants than you'd expect!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sutct2/qwen3635ba3b_even_in_vram_limited_scenarios_it/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-24T21:49:56+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So maybe this is a no-brainer to many experienced local LLM users but it was not obvious for me.</p> <p>I am running a 3070 8gb + 64gb DDR4. Pretty lightweight setup so I chose the smallest Q4 unsloth model <strong>Qwen3.6-35B-A3B-UD-IQ4_XS.gguf</strong> - which is ~18gb. It does run ok, and with some optimizations in llama.cpp I got about 25-30 tokens/s with a 32k context window.</p> <p>I did have some problems with looping during thinking so I tried a bigger Q",
-      "extra": {},
-      "collected_at": "2026-04-25T12:19:38"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "I'm glad we have deepseek",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1suyu7a/im_glad_we_have_deepseek/",
@@ -2856,19 +2816,6 @@
       "collected_at": "2026-05-02T00:34:59"
     },
     {
-      "source": "Product Hunt",
-      "title": "Bitgrain",
-      "url": "https://www.producthunt.com/products/bitgrain",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Design studio lighter than Figma & more flexible than Canva </p> <p> <a href=\"https://www.producthunt.com/products/bitgrain?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1133944?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-05-02T00:35:00"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "PFlash: 10x prefill speedup over llama.cpp at 128K on a RTX 3090",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t0vp3w/pflash_10x_prefill_speedup_over_llamacpp_at_128k/",
@@ -2896,19 +2843,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/z-lab/gemma-4-31B-it-DFlash\">https://huggingface.co/z-lab/gemma-4-31B-it-DFlash</a></p> <p>I guess we'll have to wait until this PR is merged before we can test it.</p> <p><a href=\"https://github.com/ggml-org/llama.cpp/pull/22105\">https://github.com/ggml-org/llama.cpp/pull/22105</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Total-Resort-3120\"> /u/Total-Resort-3120 </a> <br /> <span><a h",
       "extra": {},
       "collected_at": "2026-05-02T00:35:02"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 01 May 2026 16:02:36 +0000",
-      "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
-      "extra": {},
-      "collected_at": "2026-05-02T02:58:48"
     },
     {
       "source": "TechCrunch AI",
@@ -3017,7 +2951,100 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t0ucxj/github_intelautoround_a_sota_quantization/\"> <img alt=\"GitHub - intel/auto-round: A SOTA quantization algorithm for high-accuracy low-bit LLM inference, seamlessly optimized for CPU/XPU/CUDA, with multi-datatype support and full compatibility with vLLM, SGLang, and Transformers.\" src=\"https://external-preview.redd.it/sCP_02y2AMAeVNz3y1FJb8vi1vyBfbch8HhSGH5P8MU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de3d6ab76",
       "extra": {},
       "collected_at": "2026-05-02T06:59:29"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 01 May 2026 23:06:50 +0000",
+      "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
+      "extra": {},
+      "collected_at": "2026-05-02T12:34:47"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 01 May 2026 22:13:27 +0000",
+      "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "extra": {},
+      "collected_at": "2026-05-02T12:34:47"
+    },
+    {
+      "source": "r/MachineLearning",
+      "title": "[D] Self-Promotion Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1t1d2m0/d_selfpromotion_thread/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-05-02T02:15:08+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Please post your personal projects, startups, product placements, collaboration needs, blogs etc.</p> <p>Please mention the payment and pricing requirements for products and services.</p> <p>Please do not post link shorteners, link aggregator websites , or auto-subscribe links.</p> <p>--</p> <p>Any abuse of trust will lead to bans.</p> <p>Encourage others who create new posts for questions to post here instead!</p> <p>Thread will stay alive until next one so kee",
+      "extra": {},
+      "collected_at": "2026-05-02T12:35:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ghosted: Smart Presence",
+      "url": "https://www.producthunt.com/products/ghosted-smart-presence",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Pause media or lock your screen when you step away </p> <p> <a href=\"https://www.producthunt.com/products/ghosted-smart-presence?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1136089?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-02T12:35:05"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "New rules 1 week check-in",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1a3j7/new_rules_1_week_checkin/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-05-01T23:57:41+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Its been 1 week since we announced new rules: <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1su3ao4/rlocalllama_rule_updates/\">https://www.reddit.com/r/LocalLLaMA/comments/1su3ao4/rlocalllama_rule_updates/</a></p> <p>We'd like to check in to see how the community is liking them so far. We are specifically interested in long time contributors and those who sort by new (which is the area that was most impacted by slop/spam) </p> <p>On the stats side that w",
+      "extra": {},
+      "collected_at": "2026-05-02T12:35:07"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Been using Qwen-3.6-27B-q8_k_xl + VSCode + RTX 6000 Pro As Daily Driver",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t19iil/been_using_qwen3627bq8_k_xl_vscode_rtx_6000_pro/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-05-01T23:31:32+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So in response to the Great Token Reconning of 2026, I decided to try out Qwen 3.6 as a daily driver, and although it's only been about a day, I have to say I'm thoroughly impressed.</p> <p>I had to download the VSCode insiders edition and set up the local models to support - super easy. Then I messed around with Gemma 4 and Qwen 3.6 (served with LM Studio) while performing typical tasks as I build out an app that does a lot of data mining and web scraping.</p> ",
+      "extra": {},
+      "collected_at": "2026-05-02T12:35:07"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.6-27B-NVFP4 - images",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t1a8gf/qwen3627bnvfp4_images/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-02T00:03:16+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t1a8gf/qwen3627bnvfp4_images/\"> <img alt=\"Qwen3.6-27B-NVFP4 - images\" src=\"https://preview.redd.it/6gzm34b53myg1.png?width=140&amp;height=91&amp;auto=webp&amp;s=ca302b3c3f02d13a1d918c75e3164755622979ac\" title=\"Qwen3.6-27B-NVFP4 - images\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>Model:</strong> Abiray-Qwen3.6-27B-NVFP4.gguf<br /> <strong>Specs:</strong></p> <p>- Legion 7i Gen10 - NVIDIA GeForce RTX™ 5090</p",
+      "extra": {},
+      "collected_at": "2026-05-02T12:35:07"
     }
   ],
-  "updated_at": "2026-05-02T06:59:29.130858+09:00"
+  "updated_at": "2026-05-02T12:35:07.670445+09:00"
 }
