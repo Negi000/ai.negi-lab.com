@@ -14113,5 +14113,33 @@
     "image_path": "/images/posts/2026-05-03-pandaprobe-ai-agent-evaluation-review.jpg",
     "created_at": "2026-05-03T19:05:27.709998+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-03-huddle01-vms-review-ai-agent-infrastructure",
+    "title": "Huddle01 VMs 使い方：AIエージェントに「実体」を与える専用インフラを実務レビュー",
+    "url": "https://ai.negi-lab.com/posts/huddle01-vms-review-ai-agent-infrastructure/",
+    "category": "TOOL",
+    "viral_tags": "#AIAgent #Huddle01",
+    "tweet_text": "AIエージェントの「脳」はGPT-4やClaude 3で進化しましたが、実は「体（実行環境）」の構築が一番の地獄だったりします。SIer時代、ブラウザ自動化の環境構築で数日溶かした経験がある身としては、このツールは衝撃的でした。\n\nHuddle01 VMsは、AIエージェント専用の仮想マシンをAPI一発でデプロイできるインフラです。単なるブラウザ操作だけでなく、マイクやカメラの仮想デバイスが完備されているのがエグい。Google Meetに勝手に参加して議事録を取るボットや、100並列でWeb操作する自律エージェントが、インフラ管理不要でサクッと作れます。\n\n実際触ってみると、VMの起動は10秒前後と爆速。秒単位課金なので、検証で何回回しても財布に優しい。正直、自前でEC2立ててヘッドレスブラウザの依存関係に悩む時代は終わったと感じますね。\n\n皆さんはAIエージェントの実行環境、どうしてますか？ローカルで回す限界や、サーバーサイドでのブラウザ挙動の不安定さに悩んでる人、意外と多いんじゃないでしょうか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-03-huddle01-vms-review-ai-agent-infrastructure.jpg",
+    "created_at": "2026-05-03T22:22:22.700011+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-03-qwen3-coder-next-local-git-review",
+    "title": "Qwen3.6-27BとCoder-Nextをローカル環境で動かしてGit Diffから自動レビューを行うスクリプトを作る方法",
+    "url": "https://ai.negi-lab.com/posts/qwen3-coder-next-local-git-review/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLM #Qwen3",
+    "tweet_text": "RedditのLocalLLaMAで話題になっていたQwen3.6-27BとCoder-Nextの比較。Blackwell搭載マシンで20時間回したベンチマーク結果が興味深かったので、私なりに「実務でどう使い倒すか」を検証してみました。\n\n結論、ローカル環境でGit Diffを食わせる「専属レビュアー」を作るなら今が最高のタイミングです。SIer時代、数千行のクソコードを泣きながら手動レビューしていた自分に、このスクリプトを届けてあげたい…。\n\n27Bクラスを4-bit量子化してVRAM 16GB〜24GBに押し込むと、実用的な速度でシニア級の指摘が返ってきます。特にQwenの論理的整合性は、以前の14Bモデルとは別次元。\n\nこの記事では、Ollamaを使って推論サーバーを立て、Pythonから差分を自動解析するまでの手順をまとめました。APIコストもセキュリティも気にせず、ローカルGPUのファンを回してコードを磨く。これこそエンジニアの醍醐味ですね。\n\n皆さんの環境だと、Qwen2.5系と今回のQwen3.6、実際の「バグ発見率」の体感はどうですか？私はエッジケースの指摘でQwen3系に軍配が上がる気がしています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-03-qwen3-coder-next-local-git-review.jpg",
+    "created_at": "2026-05-03T22:23:26.474268+09:00",
+    "posted": false
   }
 ]
