@@ -1,33 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.5/3.6 Coder?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svwbqe/qwen3536_coder/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-26T03:27:31+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>With practically all of LocalLlama glazing Qwen 3.5/3.6 for it's coding skills. Along with the fact that Alibaba themselves are focusing on making Qwen a reliable coding agent, does this rule out the chance for a new Qwen Coder? I wonder if they'd just focus on the vanilla Qwen models to be as capable in all areas very well, including coding, or if they'd double down and release another coder/agent variant... I think if they did, looking at how well Q3CN holds u",
-      "extra": {},
-      "collected_at": "2026-04-26T14:45:54"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Experts-Volunteers needed for Vulkan on ik_llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svy5rj/expertsvolunteers_needed_for_vulkan_on_ik_llamacpp/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-26T05:02:12+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>ik_llama.cpp is great for both CPU &amp; CUDA. Need legends to make Vulkan better as well.</p> <p><a href=\"https://github.com/ikawrakow/ik_llama.cpp/discussions/590#discussioncomment-16357564\">https://github.com/ikawrakow/ik_llama.cpp/discussions/590#discussioncomment-16357564</a></p> <blockquote> <p>So, after bringing the Vulkan back-end up to speed some time ago, I felt that I simply don't have the bandwidth to also maintain it. In <code>llama.cpp</code> there",
-      "extra": {},
-      "collected_at": "2026-04-26T14:45:54"
-    },
-    {
       "source": "Product Hunt",
       "title": "QuickCompare by Trismik",
       "url": "https://www.producthunt.com/products/quickcompare-by-trismik",
@@ -2865,19 +2838,6 @@
       "collected_at": "2026-05-03T06:54:20"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 02 May 2026 21:54:58 +0000",
-      "summary": "Bad news for Tilly Norwood.",
-      "extra": {},
-      "collected_at": "2026-05-03T12:56:53"
-    },
-    {
       "source": "HN AI Hot",
       "title": "The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious",
       "url": "https://www.dailygrail.com/2026/05/the-claude-delusion-richard-dawkins-believes-his-female-ai-chatbot-is-conscious/",
@@ -2942,7 +2902,47 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/\">https://www.reddit.com/r/LocalLLaMA/comments/1p0lnlo/make_your_ai_talk_like_a_caveman_and_decrease/</a></p> <p>In the middle of a project I'm working on, I got this output from GPT 5.5-medium via codex:</p> <p>Implemented the narrower fix in Homm3ImportUnitPreviewModelHook.cs? Need absolute path. Need know cwd absolute. v:... Use markdown. final with pat",
       "extra": {},
       "collected_at": "2026-05-03T12:56:59"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 03 May 2026 04:05:28 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-03T15:10:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.6-27B vs Coder-Next",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2ab5y/qwen3627b_vs_codernext/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-03T03:30:43+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t2ab5y/qwen3627b_vs_codernext/\"> <img alt=\"Qwen3.6-27B vs Coder-Next\" src=\"https://preview.redd.it/7zc03aciduyg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2221a0b92a121ff222bb2b4b276630558443fd87\" title=\"Qwen3.6-27B vs Coder-Next\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Burned about 20 hours of side-by-side compute on my two RTX PRO 6000 Blackwells trying to get a definitive answer on which of these two mo",
+      "extra": {},
+      "collected_at": "2026-05-03T15:10:36"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Karpathy's MicroGPT running at 50,000 tps on an FPGA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t28bfj/karpathys_microgpt_running_at_50000_tps_on_an_fpga/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-05-03T01:54:42+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Sure, it's only 4,192 parameters, but it's a start. Project write-up here: <a href=\"https://v2.talos.wtf/\">https://v2.talos.wtf/</a> and github repository here: <a href=\"https://github.com/Luthiraa/TALOS-V2\">https://github.com/Luthiraa/TALOS-V2</a> </p> <p>Some of the speed comes from having the weights onboard, rather than in external memory. Onboard ROM means with 16 bit weights current FPGAs max out at 20-30 million parameters, but maybe this and Taalas (<a h",
+      "extra": {},
+      "collected_at": "2026-05-03T15:10:36"
     }
   ],
-  "updated_at": "2026-05-03T12:56:59.122315+09:00"
+  "updated_at": "2026-05-03T15:10:36.331705+09:00"
 }
