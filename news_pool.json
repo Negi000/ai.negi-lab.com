@@ -1,32 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "QuickCompare by Trismik",
-      "url": "https://www.producthunt.com/products/quickcompare-by-trismik",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Compare LLMs on your data, measure, and pick the best. </p> <p> <a href=\"https://www.producthunt.com/products/quickcompare-by-trismik?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1131574?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-26T16:44:41"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "The exact KV cache usage of DeepSeek V4",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1svzlog/the_exact_kv_cache_usage_of_deepseek_v4/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-26T06:19:09+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Figure 1 of DSV4 paper seems to imply that DSV3.2 uses ~50GB at 1m context and DSV4 uses</p> <p>~5GB:</p> <p><a href=\"https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf\">https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf</a></p> <p>From my own calculations, the correct FP16 KV cache at 1m context should be:</p> <table><thead> <tr> <th align=\"left\">Model</th> <th align=\"left\">Params</th> <th align=\"left\">128k</t",
-      "extra": {},
-      "collected_at": "2026-04-26T16:44:43"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "New model for detecting and masking PII from OpenAI",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sw000s/new_model_for_detecting_and_masking_pii_from/",
@@ -2363,19 +2337,6 @@
     },
     {
       "source": "The Verge AI",
-      "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-05-01T09:25:25-04:00",
-      "summary": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, many of these gig workers have embraced the technology in order to meet clients' demands. These workers' profiles emphasize that they can quickly [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-05-01T22:37:50"
-    },
-    {
-      "source": "The Verge AI",
       "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
       "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
       "primary_category": "NEWS",
@@ -2942,7 +2903,59 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Sure, it's only 4,192 parameters, but it's a start. Project write-up here: <a href=\"https://v2.talos.wtf/\">https://v2.talos.wtf/</a> and github repository here: <a href=\"https://github.com/Luthiraa/TALOS-V2\">https://github.com/Luthiraa/TALOS-V2</a> </p> <p>Some of the speed comes from having the weights onboard, rather than in external memory. Onboard ROM means with 16 bit weights current FPGAs max out at 20-30 million parameters, but maybe this and Taalas (<a h",
       "extra": {},
       "collected_at": "2026-05-03T15:10:36"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Radar",
+      "url": "https://www.producthunt.com/products/radar-7",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The missing open-source Kubernetes UI </p> <p> <a href=\"https://www.producthunt.com/products/radar-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130618?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-03T17:05:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "PandaProbe",
+      "url": "https://www.producthunt.com/products/pandaprobe",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> open source agent engineering platform </p> <p> <a href=\"https://www.producthunt.com/products/pandaprobe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1135327?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-03T17:05:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Rosentic",
+      "url": "https://www.producthunt.com/products/rosentic",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Catch when coding agents break each other before merge </p> <p> <a href=\"https://www.producthunt.com/products/rosentic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119656?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-03T17:05:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Huddle01 VMs",
+      "url": "https://www.producthunt.com/products/huddle01-cloud-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Virtual Machines for Your Agents </p> <p> <a href=\"https://www.producthunt.com/products/huddle01-cloud-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1132321?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-03T17:05:04"
     }
   ],
-  "updated_at": "2026-05-03T15:10:36.331705+09:00"
+  "updated_at": "2026-05-03T17:05:06.434780+09:00"
 }

@@ -14057,5 +14057,33 @@
     "image_path": "/images/posts/2026-05-03-fiverr-ai-bible-videos-slop-creators.jpg",
     "created_at": "2026-05-03T15:11:07.705357+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-03-microsoft-word-legal-agent-workflow-analysis",
+    "title": "Microsoft Wordに法務特化AIエージェントが統合、弁護士の仕事を奪うか共生か",
+    "url": "https://ai.negi-lab.com/posts/microsoft-word-legal-agent-workflow-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#MicrosoftWord #リーガルテック",
+    "tweet_text": "MicrosoftがWordに「法務特化型AIエージェント」を直接ぶっ込んできました。これは単なるCopilotの機能拡張ではありません。\n\n注目すべきは、汎用LLMへの丸投げをやめ、法務実務に基づいた「構造化されたワークフロー」をAIに持たせた点。契約書の修正や交渉履歴の照合など、プロンプトだけでは限界があった「正確性と整合性」がWord内で完結します。\n\n元SIerエンジニアの視点で言わせてもらえば、これ、中途半端なリーガルテック企業を壊滅させる破壊力があります。データの入り口であるWordを握っているMicrosoftが、そのまま「専門家の思考プロセス」まで自動化し始めたわけですから。\n\n技術的にはRAGの進化とWord内部データへのネイティブアクセスが肝。APIドキュメントを読み込む限り、SharePoint上の過去の全契約書をコンテキストに含める動きが加速しています。もはや「AIを何に使うか」ではなく「AIをどこで、どのワークフローに組み込むか」という勝負に完全に移行しました。\n\n法務関係者や開発者の皆さん、この「垂直統合型エージェント」の登場で、既存の業務フローはどう変わると思いますか？特に交渉履歴の自動管理、実務でどこまで任せられるでしょうか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-03-microsoft-word-legal-agent-workflow-analysis.jpg",
+    "created_at": "2026-05-03T17:05:32.743629+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-03-radar-kubernetes-ui-review-and-usage",
+    "title": "Radar：軽量さと実用性を両立した「ちょうどいい」Kubernetes UI",
+    "url": "https://ai.negi-lab.com/posts/radar-kubernetes-ui-review-and-usage/",
+    "category": "TOOL",
+    "viral_tags": "#Kubernetes #RadarUI",
+    "tweet_text": "Kubernetes管理ツールの「重さ」に疲弊している人、多いですよね。私もSIer時代からLensを愛用してきましたが、最近のメモリ消費量とサブスク推しには正直閉口していました。\n\nそこで見つけたのが、オープンソースの「Radar」。これ、一言で言うと「爆速のK8sダッシュボード」です。\n\nLensのように数秒待たされることもなく、ブラウザから一瞬で全リソースの状態を可視化。特にAI系のワークロードでGPUノードの死活確認を繰り返す私にとって、この軽さは救いです。Helmでサクッと入るし、RBACの泥沼にハマることもありません。\n\nもちろん、マニフェストのバリバリな編集には向きませんが、「今、現場で何が起きているか」を把握するスピードはピカイチ。開発環境のDXを上げたいなら、重いデスクトップアプリを捨てる時期かもしれません。\n\n皆さんはK8sのGUI、何を使ってますか？Lensを使い続ける理由や、逆にK9sから戻れない理由など、現場の本音を教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-03-radar-kubernetes-ui-review-and-usage.jpg",
+    "created_at": "2026-05-03T17:06:31.360145+09:00",
+    "posted": false
   }
 ]
