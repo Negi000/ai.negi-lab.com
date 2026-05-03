@@ -14169,5 +14169,33 @@
     "image_path": "/images/posts/2026-05-04-hugging-face-model-visualizer-hfviewer-guide.jpg",
     "created_at": "2026-05-04T00:26:58.255090+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-04-dualshot-recorder-app-store-ranking-tech-review",
+    "title": "DualShot Recorderが1位。AI時代のカメラアプリに求められる「引き算」の正体",
+    "url": "https://ai.negi-lab.com/posts/dualshot-recorder-app-store-ranking-tech-review/",
+    "category": "NEWS",
+    "viral_tags": "#DualShotRecorder #AIカメラアプリ",
+    "tweet_text": "iPhone 17 ProのNPUは、LLMを動かすためだけに積まれているわけじゃない。\n\nリスの動画で有名なインフルエンサーが作った「DualShot Recorder」がApp Storeで1位を独走中。これ、単なる有名人アプリだと思ったら大間違いです。SIer時代に数千万かけて組んでいた「マルチカム同時収録・合成システム」が、わずか5ドルのアプリに凝縮されている。\n\n一番の衝撃は、4Kデュアルストリームを回しながら「AIがリアルタイムで画角を最適化」する処理。背面カメラの被写体と、前面カメラの撮影者をAIが追跡し、録画終了と同時にSNS投稿可能なPOV動画が完成する。編集ソフトに素材を放り込んで、ポチポチとワイプの位置を調整していた時間は一体何だったのか。\n\n既存のカメラアプリが「設定の多さ」で競う中、このアプリは「何もしなくていい」ことで勝利した。AI時代のツール開発に必要なのは、機能の追加ではなく、ワークフローの徹底的な破壊と再構築ですね。RTX 4090を2枚挿して動画を書き出している私でさえ、この「5ドルの魔法」には白旗を上げざるを得ない。\n\n皆さんは、高機能だけど手間のかかるプロツールと、単機能だけど一瞬で終わるAIツール、現場で本当に必要なのはどちらだと思いますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-04-dualshot-recorder-app-store-ranking-tech-review.jpg",
+    "created_at": "2026-05-04T02:48:09.388798+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-04-aximote-in-car-app-obd2-python-review",
+    "title": "Aximote In-Car App 使い方と実務における車両データ解析の自動化レビュー",
+    "url": "https://ai.negi-lab.com/posts/aximote-in-car-app-obd2-python-review/",
+    "category": "TOOL",
+    "viral_tags": "#Aximote #車両診断",
+    "tweet_text": "愛車のコンディションを「フィットネス」として管理する。Aximote In-Car Appをドキュメントレベルで深掘りしました。\n\nSIer時代、サーバーの監視ダッシュボードを組んでいた時の感覚に近い。車両のCANバスから流れるPIDsをPython SDKで叩き、0.1秒間隔でデータを吸い出す。単なる「故障診断」ではなく、吸気効率やバッテリーの劣化度（SoH）を時系列で追えるのが、エンジニアとしてはたまらない。\n\n正直、1,000円のOBD-IIスキャナで満足している人には不要。でも、走行データをInfluxDBに突っ込んで、Grafanaでエンジンの熱ダレ予兆を可視化したいような層には、これ以上の武器はないですね。Parquet形式でのエクスポート対応など、データ分析基盤への組み込みが考慮されている点も好印象。\n\n皆さんは車のデータ、どう管理してますか？\n個人的には、メーカー標準アプリの「おまけ程度の燃費計」にはもう戻れそうにありません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-04-aximote-in-car-app-obd2-python-review.jpg",
+    "created_at": "2026-05-04T02:49:11.566281+09:00",
+    "posted": false
   }
 ]

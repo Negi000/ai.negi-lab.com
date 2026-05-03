@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "Are Unsloth models as good as I read?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sw8uyf/are_unsloth_models_as_good_as_i_read/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-26T14:22:24+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Has anybody done some comparing between the models that Unsloth offers and their counter part?<br /> For example: I've been using qwen3.6:35b-a3b Q4_K_M , and on my MBP 64GB I get around 39 t/s<br /> Using Unsloth Studio, unsloth/qwen3.6:35b-a3b UD-Q4_K_XL I get around 57 t/s</p> <p>The difference in speed is significant. From what I've understood the Unsloth model runs a per-layer sensitivity analysis and assigns different quantization levels depending on how &",
-      "extra": {},
-      "collected_at": "2026-04-27T02:39:08"
-    },
-    {
       "source": "Google News",
       "title": "AI専用パソコン「NVIDIA DGX Spark」、70万円以上という値付けは妥当か - 日経クロステック",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UUEpzTEkwV1VwbE9hdXdDTFFyYW9zanFjYXhCU1c5cTdxUXFjeVUxWnU5UFF3MWl4WmRBaDNuLUNXRUdjLWYtU0t0dFVuRlBoTzhNNm1qRU1XaWxnRGJHS3A1WndSb0pkVmJLUw?oc=5",
@@ -2716,20 +2703,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "I made a visualizer for Hugging Face models",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t24y4p/i_made_a_visualizer_for_hugging_face_models/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-02T23:18:20+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t24y4p/i_made_a_visualizer_for_hugging_face_models/\"> <img alt=\"I made a visualizer for Hugging Face models\" src=\"https://preview.redd.it/6sr5z6ys4tyg1.gif?width=640&amp;crop=smart&amp;s=9aa1b37d959a78afde70311177a687611053b055\" title=\"I made a visualizer for Hugging Face models\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I built <a href=\"http://hfviewer.com\">hfviewer.com</a>, a small tool for visually exploring Hug",
-      "extra": {},
-      "collected_at": "2026-05-03T12:56:59"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Qwen3.6-27B vs 35B, I prefer 35B but more people here post about 27B...",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t25ohs/qwen3627b_vs_35b_i_prefer_35b_but_more_people/",
       "primary_category": "GUIDE",
@@ -2820,19 +2793,6 @@
       "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> released <a href=\"https://claude.com/blog/cowork-research-preview\">Cowork</a> on Monday, a new AI agent capability that extends the power of its wildly successful <a href=\"https://claude.com/product/claude-code\">Claude Code</a> tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.</p><p>The launch marks a major inflection point i",
       "extra": {},
       "collected_at": "2026-05-03T19:03:50"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Mockin 2.0",
-      "url": "https://www.producthunt.com/products/mockin-for-product-designers",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Ultimate career toolkit for UX/UI & Product designers </p> <p> <a href=\"https://www.producthunt.com/products/mockin-for-product-designers?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130473?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-05-03T19:03:58"
     },
     {
       "source": "Product Hunt",
@@ -2957,7 +2917,34 @@
       "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ayake_ayake\"> /u/ayake_ayake </a> <br /> <span><a href=\"https://dl.acm.org/doi/pdf/10.1145/3748173.3779189\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t2kpzn/paper_on_hummingbird_lowcost_fpgas_for_llm/\">[comments]</a></span>",
       "extra": {},
       "collected_at": "2026-05-04T00:25:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Open Weights Models Hall of Fame",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2lwn0/open_weights_models_hall_of_fame/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-05-03T13:45:55+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I read a lot of &quot;whengguf&quot; type posts. I think we should sometimes stop and be grateful.</p> <p>I want to say big thanks to all of the people and companies who gave us so much fun and productivity, sacrificing a lot sometimes; but also to companies who gave us models as by-product of their strategy, too.</p> <p>I can miss a lot (I want to update this list if you point me at what I miss), but If I would build hall of fame, then I will put these people, ",
+      "extra": {},
+      "collected_at": "2026-05-04T02:47:37"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Does the \"6 months gap\" still hold?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2gu2h/does_the_6_months_gap_still_hold/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-05-03T09:32:33+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi. It is quite a consensus that the &quot;jump&quot; in quality of agentic development happened sometime in December 2025, transforming from &quot;nice to have&quot;, to actually performing. </p> <p>It was also long discussed that open source models lag the state of the art by 6 to 12 months. </p> <p>Now, does it mean that to get the equivalence of Dec 2025 frontier performance (Opus 4.5?) from Open source models, we should still wait a few months? What has you",
+      "extra": {},
+      "collected_at": "2026-05-04T02:47:37"
     }
   ],
-  "updated_at": "2026-05-04T00:25:32.362541+09:00"
+  "updated_at": "2026-05-04T02:47:37.528728+09:00"
 }
