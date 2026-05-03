@@ -2782,20 +2782,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Qwen3.6-27B vs Coder-Next",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2ab5y/qwen3627b_vs_codernext/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-03T03:30:43+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t2ab5y/qwen3627b_vs_codernext/\"> <img alt=\"Qwen3.6-27B vs Coder-Next\" src=\"https://preview.redd.it/7zc03aciduyg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2221a0b92a121ff222bb2b4b276630558443fd87\" title=\"Qwen3.6-27B vs Coder-Next\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Burned about 20 hours of side-by-side compute on my two RTX PRO 6000 Blackwells trying to get a definitive answer on which of these two mo",
-      "extra": {},
-      "collected_at": "2026-05-03T15:10:36"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Karpathy's MicroGPT running at 50,000 tps on an FPGA",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t28bfj/karpathys_microgpt_running_at_50000_tps_on_an_fpga/",
       "primary_category": "GUIDE",
@@ -2817,19 +2803,6 @@
       ],
       "published": "",
       "summary": "<p> Catch when coding agents break each other before merge </p> <p> <a href=\"https://www.producthunt.com/products/rosentic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1119656?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-05-03T17:05:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Huddle01 VMs",
-      "url": "https://www.producthunt.com/products/huddle01-cloud-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Virtual Machines for Your Agents </p> <p> <a href=\"https://www.producthunt.com/products/huddle01-cloud-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1132321?app_id=339\">Link</a> </p>",
       "extra": {},
       "collected_at": "2026-05-03T17:05:04"
     },
@@ -2958,7 +2931,33 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have snobbishly long felt that the local models were not 'up to my standards' for local development, or otherwise able to compete with GHCP, Claude Code, Cursor etc.</p> <p>Boy was I wrong. With the rapid increase of usage constraints and enshittification of plans all the cloud providers are starting to enact, I finally downloaded Opencode and got it setup with llama-server + Qwen3.6-27B at a reasonable quant (Q5_K_P) with 128K context (unsure if I could push ",
       "extra": {},
       "collected_at": "2026-05-03T22:21:55"
+    },
+    {
+      "source": "Google News",
+      "title": "中国で労働者がAIによる代替勤務をめぐる画期的な訴訟に勝訴しました - Bitcoin News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd1JLLVJKWWh2VDJ1V09mbjM3ZTZUVlZOOEl5dzdRSlJ2WHNLYTJ5YzhkMm9UcWFrM1h0Qm52QTF5NUdJVjRHX2twTEV3bTc3WlRnMWJDN0FJd1A5UjBoRWc4aVB6dXNZUFN1OHlvNWpFRTRQbDd0REh5TjNRUzNiZnp4ZExrM3dqN056QkJxNXdRN29PVE9CbTk2Q0FJY182eTFNWkNEb3Q5NjJ1MGdYZWRGeWYtNi1JbWR2OGg2TXNWMDBWYW5j?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 03 May 2026 12:45:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNd1JLLVJKWWh2VDJ1V09mbjM3ZTZUVlZOOEl5dzdRSlJ2WHNLYTJ5YzhkMm9UcWFrM1h0Qm52QTF5NUdJVjRHX2twTEV3bTc3WlRnMWJDN0FJd1A5UjBoRWc4aVB6dXNZUFN1OHlvNWpFRTRQbDd0REh5TjNRUzNiZnp4ZExrM3dqN056QkJxNXdRN29PVE9CbTk2Q0FJY182eTFNWkNEb3Q5NjJ1MGdYZWRGeWYtNi1JbWR2OGg2TXNWMDBWYW5j?oc=5\" target=\"_blank\">中国で労働者がAIによる代替勤務をめぐる画期的な訴訟に勝訴しました</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitcoin News</font>",
+      "extra": {},
+      "collected_at": "2026-05-04T00:25:30"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "[Paper on Hummingbird+: low-cost FPGAs for LLM inference] Qwen3-30B-A3B Q4 at 18 t/s token-gen, 24GB, expected $150 mass production cost",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2kpzn/paper_on_hummingbird_lowcost_fpgas_for_llm/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-05-03T12:55:26+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ayake_ayake\"> /u/ayake_ayake </a> <br /> <span><a href=\"https://dl.acm.org/doi/pdf/10.1145/3748173.3779189\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t2kpzn/paper_on_hummingbird_lowcost_fpgas_for_llm/\">[comments]</a></span>",
+      "extra": {},
+      "collected_at": "2026-05-04T00:25:32"
     }
   ],
-  "updated_at": "2026-05-03T22:21:55.002029+09:00"
+  "updated_at": "2026-05-04T00:25:32.362541+09:00"
 }

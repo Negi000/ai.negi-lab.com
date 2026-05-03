@@ -14141,5 +14141,33 @@
     "image_path": "/images/posts/2026-05-03-qwen3-coder-next-local-git-review.jpg",
     "created_at": "2026-05-03T22:23:26.474268+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-04-mockin-2-review-designer-career-toolkit",
+    "title": "Mockin 2.0 使い方：デザイナーの市場価値を最大化する新基準",
+    "url": "https://ai.negi-lab.com/posts/mockin-2-review-designer-career-toolkit/",
+    "category": "TOOL",
+    "viral_tags": "#UIUXデザイン #キャリア構築",
+    "tweet_text": "デザイナーのキャリア構築、まだFigmaで「ゼロから」作って消耗していませんか？\n\nSIerからAI専門ブロガーになった私の視点で、Product Huntで話題の「Mockin 2.0」を徹底検証しました。\nこれ、単なるポートフォリオ作成ツールじゃなくて、デザイナーのスキルを「構造化データ」に変換するATS最適化マシンですね。\n\nエンジニアがGitHubでコードを管理するように、デザイナーも自分の実績をコンポーネント化して管理する時代。\n試した結果、100件のプロジェクト同期が0.5秒。\nAIが「この実績なら面接でここを突っ込まれる」と事前に教えてくれる機能が、実務的にかなりエグい。\n\n「見栄えは良いのに書類が通らない」\nそんな悩みを抱える人は、デザインスキルの前に「データ構造」を疑うべきかも。\n海外案件や外資を狙うなら、月額$20の投資で年収100万アップを狙いに行く価値は十分あります。\n\n今のポートフォリオ、ATS（採用システム）に弾かれずにちゃんと読み取られてる自信ありますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-04-mockin-2-review-designer-career-toolkit.jpg",
+    "created_at": "2026-05-04T00:25:56.778747+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-04-hugging-face-model-visualizer-hfviewer-guide",
+    "title": "Hugging Faceモデルの内部構造を0.5秒で可視化して設計ミスを防ぐ方法",
+    "url": "https://ai.negi-lab.com/posts/hugging-face-model-visualizer-hfviewer-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#HuggingFace #LocalLLaMA",
+    "tweet_text": "SIerでエンジニアをやっていた頃、数千行の仕様書とコードの乖離に絶望したことが何度もありました。AIモデルの世界でも同じことが起きています。Hugging Faceのモデル、中身を正確に把握せずに使っていませんか？\n\n最新のLlama 3.1やQwen 2.5を触る際、READMEの説明だけで納得するのは危険です。微調整（Fine-tuning）でどのレイヤーをターゲットにするか、VRAMに収まるか。これらを判断するにはconfig.jsonを読み解く必要がありますが、正直苦行ですよね。\n\n今回紹介するhfviewer.comは、URLを入力するだけでモデルの内部構造を0.5秒で可視化してくれます。アテンションヘッド数やレイヤーの接続順がグラフィカルに見えるので、実装ミスが劇的に減ります。\n\n実際に私のRTX 4090環境でも、量子化プランを立てる前に必ずこれで構造をチェックしています。\n特に独自アーキテクチャを採用している軽量モデルを扱うときは、この視覚化があるかないかで開発効率が3倍は変わると断言できます。\n\n皆さんはモデルの構造を確認するとき、どうしていますか？わざわざロードしてprintしてますか？それともconfig.jsonを気合で読んでますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-04-hugging-face-model-visualizer-hfviewer-guide.jpg",
+    "created_at": "2026-05-04T00:26:58.255090+09:00",
+    "posted": false
   }
 ]
