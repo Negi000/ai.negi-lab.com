@@ -14085,5 +14085,33 @@
     "image_path": "/images/posts/2026-05-03-radar-kubernetes-ui-review-and-usage.jpg",
     "created_at": "2026-05-03T17:06:31.360145+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-03-listen-labs-ai-customer-interview-69m-funding",
+    "title": "Listen Labsが6900万ドルもの巨額資金を調達した事実は、プロダクト開発における「ユーザーインタビュー」という属人的でスケーラビリティのなかった工程が、ついにAIによる自動化のフェーズに入ったことを意味しています。",
+    "url": "https://ai.negi-lab.com/posts/listen-labs-ai-customer-interview-69m-funding/",
+    "category": "NEWS",
+    "viral_tags": "#ListenLabs #UXリサーチ",
+    "tweet_text": "看板1枚の求人から100億円調達。Listen Labsの快挙は、プロダクト開発の「常識」が書き換わる瞬間を象徴しています。\n\n私がSIer時代に最も苦労したのがユーザーインタビューでした。10人の生の声を聞くだけで日程調整から分析まで数週間。でも、このAIインタビューなら数千人規模の「深掘り調査」が数分で終わります。\n\n技術的な核心は、単なる返答ではなく「聞き出す」ことに特化した自律エージェントの設計。回答の具体性が低ければ、AIが自発的に「なぜそう思いましたか？」と深掘りする。Google Formsのような静的なアンケートでは絶対に得られなかった、熱量のある定性データが民主化されます。\n\n1件あたり数十万円かかっていた専門調査が、数ドルのAPIコストに化けるインパクト。これは「安くなった」という話ではなく「リサーチの頻度を100倍にできる」という革命です。\n\n一方で、LLM特有の誘導バイアスをどう防ぐかは実務上の大きな課題。ただ、開発サイクルに「リアルタイムのユーザーの声」を組み込めるメリットが圧倒的に勝ります。\n\n皆さんの現場では、ユーザーインタビューの工数、どう確保していますか？AIに任せられるなら、どんな質問を投げてみたいですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-03-listen-labs-ai-customer-interview-69m-funding.jpg",
+    "created_at": "2026-05-03T19:04:29.677051+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-03-pandaprobe-ai-agent-evaluation-review",
+    "title": "PandaProbe AIエージェント評価プラットフォームの使い方と実務での活用レビュー",
+    "url": "https://ai.negi-lab.com/posts/pandaprobe-ai-agent-evaluation-review/",
+    "category": "TOOL",
+    "viral_tags": "#PandaProbe #AIエージェント",
+    "tweet_text": "AIエージェント開発で一番キツいのは、プロンプトを直した瞬間に別の場所が壊れる「デグレード」ですよね。SIer時代に何百項目も手動テストした苦行を思い出しますが、そんな時代はPandaProbeで終わりました。\n\nこのOSS、エージェントの思考プロセスを定量化して評価できるのが強すぎる。100件のテストケースが1分で終わる快感は、一度味わうと手動には戻れません。\n\n個人的に熱いのは、OSSだから自宅のRTX 4090環境でローカルLLMを使って評価を回せる点。データのプライバシーも守れるし、何よりAPI代を気にせずベンチマークを叩きまくれる。\n\nただ、日本語ドキュメントがないので最初はソースコードと格闘することになります。でも、Pythonが書けるエンジニアなら数時間で使いこなせるはず。\n\n皆さんはエージェントの精度評価、どうしてますか？「勘」でやってるプロジェクト、そろそろ限界じゃないですかね？実際の現場での導入障壁とか、もし使ってる人いたら運用コスト感とか教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-03-pandaprobe-ai-agent-evaluation-review.jpg",
+    "created_at": "2026-05-03T19:05:27.709998+09:00",
+    "posted": false
   }
 ]

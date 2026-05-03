@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "New model for detecting and masking PII from OpenAI",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sw000s/new_model_for_detecting_and_masking_pii_from/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-26T06:40:55+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sw000s/new_model_for_detecting_and_masking_pii_from/\"> <img alt=\"New model for detecting and masking PII from OpenAI\" src=\"https://external-preview.redd.it/nMPRfjaoZsIHDPqT4DEeCX4HQSHJobjU8afcVy-rVq0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c9474a5b7a17cbb66a650f2d3da6a3725cf796a\" title=\"New model for detecting and masking PII from OpenAI\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/us",
-      "extra": {},
-      "collected_at": "2026-04-26T18:53:50"
-    },
-    {
       "source": "GitHub Trending",
       "title": "donnemartin/system-design-primer",
       "url": "https://github.com/donnemartin/system-design-primer",
@@ -2336,20 +2323,6 @@
       "collected_at": "2026-05-01T19:22:31"
     },
     {
-      "source": "The Verge AI",
-      "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
-      "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-05-01T07:18:54-04:00",
-      "summary": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts. \"Instead of relying on general AI models to interpret commands, the agent follows structured workflows shaped by real legal practice, managing [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-05-01T22:37:50"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Apple accidentally left Claude.md files Apple Support app",
       "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
@@ -2906,19 +2879,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Radar",
-      "url": "https://www.producthunt.com/products/radar-7",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The missing open-source Kubernetes UI </p> <p> <a href=\"https://www.producthunt.com/products/radar-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130618?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-05-03T17:05:04"
-    },
-    {
-      "source": "Product Hunt",
       "title": "PandaProbe",
       "url": "https://www.producthunt.com/products/pandaprobe",
       "primary_category": "TOOL",
@@ -2955,7 +2915,61 @@
       "summary": "<p> Virtual Machines for Your Agents </p> <p> <a href=\"https://www.producthunt.com/products/huddle01-cloud-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1132321?app_id=339\">Link</a> </p>",
       "extra": {},
       "collected_at": "2026-05-03T17:05:04"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+      "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "Mon, 12 Jan 2026 11:30:00 GMT",
+      "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> released <a href=\"https://claude.com/blog/cowork-research-preview\">Cowork</a> on Monday, a new AI agent capability that extends the power of its wildly successful <a href=\"https://claude.com/product/claude-code\">Claude Code</a> tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.</p><p>The launch marks a major inflection point i",
+      "extra": {},
+      "collected_at": "2026-05-03T19:03:50"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mockin 2.0",
+      "url": "https://www.producthunt.com/products/mockin-for-product-designers",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ultimate career toolkit for UX/UI & Product designers </p> <p> <a href=\"https://www.producthunt.com/products/mockin-for-product-designers?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130473?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-03T19:03:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Aximote In-Car App",
+      "url": "https://www.producthunt.com/products/aximote-in-car-app",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The fitness tracker for your car </p> <p> <a href=\"https://www.producthunt.com/products/aximote-in-car-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1136016?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-03T19:03:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Solidity",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2gdi9/solidity/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-05-03T09:05:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey all!</p> <p>I have spent the last few evenings building a modern solidity LM with sota CoT/tool calling runs in the later stages.</p> <p>Question: what are you all using for solidity or smart contract development? I find the current SOTA models don’t have a tremendous amount of training data in this small niche language, especially vulnerability’s and economic attacks, which is understandable. </p> <p>Any local models out there that are half decent or should",
+      "extra": {},
+      "collected_at": "2026-05-03T19:04:01"
     }
   ],
-  "updated_at": "2026-05-03T17:05:06.434780+09:00"
+  "updated_at": "2026-05-03T19:04:01.083301+09:00"
 }
