@@ -14253,5 +14253,33 @@
     "image_path": "/images/posts/2026-05-04-ai-music-flooding-streaming-services-problem.jpg",
     "created_at": "2026-05-04T15:20:19.030583+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-04-salesforce-new-slackbot-ai-agent-launch",
+    "title": "Slackbot AIが「動くエージェント」へ進化：Data Cloud連携でCopilotを猛追",
+    "url": "https://ai.negi-lab.com/posts/salesforce-new-slackbot-ai-agent-launch/",
+    "category": "NEWS",
+    "viral_tags": "#Slack #Agentforce",
+    "tweet_text": "SIer時代、情報を探すためだけに5つのシステムをハシゴして1日が終わった苦い記憶があります…。あの不毛な時間が、ようやく過去のものになるかもしれません。\n\nSalesforceが発表した新型Slackbot、これはもう「通知ツール」ではありません。Data Cloudと直結し、社内のあらゆるCRMデータやドキュメントを読み解いて、ユーザーの代わりに商談更新やタスク実行までこなす、完全な「AIエージェント」です。\n\n正直、これまでのSalesforceのAIは機能が分散しすぎていて「結局何ができるの？」という印象でしたが、今回は違います。SlackというUIを「業務の入り口」ではなく「業務の完結場所」に変えようという執念を感じます。\n\nMicrosoft Copilotとの最大の違いは、やはり「Salesforceという業務の真実（SSOT）」に直接手を突っ込める点。ドキュメントを作るのがCopilotなら、ビジネスプロセスを回すのがSlackbot。そんな住み分けが見えてきました。\n\nただ、気になるのはData Cloud込みのライセンス設計…。これ、現場レベルで使い倒すにはコストの壁が高すぎませんか？導入を検討している方、あるいは既にAgentforce触り始めている方の本音が知りたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-04-salesforce-new-slackbot-ai-agent-launch.jpg",
+    "created_at": "2026-05-04T17:34:55.621609+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-04-sleek-analytics-ios-review-ga4-alternative",
+    "title": "Sleek Analytics for iOS 使い方と実務レビュー：GA4の肥大化に疲弊した開発者への解",
+    "url": "https://ai.negi-lab.com/posts/sleek-analytics-ios-review-ga4-alternative/",
+    "category": "TOOL",
+    "viral_tags": "#SleekAnalytics #個人開発",
+    "tweet_text": "GA4の重すぎるモバイルアプリ、もう限界じゃないですか？私は限界でした。\n\n今日紹介する Sleek Analytics for iOS を試してみたんですが、正直「解析はこれで十分」という結論です。\n\nエンジニアとして特に刺さったのが、サイトに埋め込むスクリプトがわずか1KB未満だということ。GA4のタグがLighthouseのスコアを削っていくのを眺める日々はもう終わりです。iPhoneアプリの挙動もネイティブなので爆速。0.5秒で今のリアルタイム訪問者がわかります。\n\nSIer時代、数時間かけて作っていたアクセス報告書が馬鹿らしくなるほど、情報の取捨選択が上手いツールです。\n\n「誰が使うべきか？」\n・iPhoneで1日に何度もアクセスを見ちゃう個人開発者\n・サイトの読み込み速度を1msでも削りたいエンジニア\n・Cookie同意バナーでUIを汚したくない人\n\n「使わなくていい人」\n・Androidユーザー（アプリがありません）\n・複雑な属性分析が必要なプロマーケター\n\nコード1行で導入できるし、FastAPI等と連携してサーバーサイドのイベントを追うのもPythonで数行書くだけ。\n皆さんはアクセス解析、何を使ってますか？GA4の複雑さに耐えてるのか、それともUmami等で自作してるのか、意見を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-04-sleek-analytics-ios-review-ga4-alternative.jpg",
+    "created_at": "2026-05-04T17:35:58.055782+09:00",
+    "posted": false
   }
 ]

@@ -1,73 +1,6 @@
 {
   "items": [
     {
-      "source": "VentureBeat AI",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "Tue, 13 Jan 2026 13:00:00 GMT",
-      "summary": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.</p><p>The new Slackbot, now generally available to <a",
-      "extra": {},
-      "collected_at": "2026-04-27T17:30:56"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
-      "url": "https://github.com/evanklem/evanflow",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 27 Apr 2026 01:56:39 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-27T17:30:57"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Atech",
-      "url": "https://www.producthunt.com/products/atech",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Snap-together electronics built from a chat </p> <p> <a href=\"https://www.producthunt.com/products/atech?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1132869?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-27T17:30:59"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "VIDEO AI ME",
-      "url": "https://www.producthunt.com/products/video-ai-me",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Create videos with AI actors that sound and look real </p> <p> <a href=\"https://www.producthunt.com/products/video-ai-me?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1132963?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-27T17:30:59"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Anthropic's Claude remote uses GLM-4.7",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1swr135/anthropics_claude_remote_uses_glm47/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-27T02:35:10+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just noticed this after a bug wasn't getting fixed. If you start a Claude code remote environment the default model (hidden on mobile) is glm 4.7 I assumed anthropic only used their own models for everything so it was interesting to me that they are actually serving open weights models (which I assume they have accused of distilling from their own proprietary models)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bobbies",
-      "extra": {},
-      "collected_at": "2026-04-27T17:31:02"
-    },
-    {
       "source": "The Verge AI",
       "title": "The AI-designed car is taking shape",
       "url": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
@@ -2714,20 +2647,6 @@
       "collected_at": "2026-05-03T19:04:01"
     },
     {
-      "source": "The Verge AI",
-      "title": "AI music is flooding streaming services — but who wants it?",
-      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-05-03T08:00:00-04:00",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of generative AI [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-05-03T22:21:49"
-    },
-    {
       "source": "GitHub Trending",
       "title": "hyprwm/Hyprland",
       "url": "https://github.com/hyprwm/Hyprland",
@@ -2928,7 +2847,87 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I keep hearing the model is good, I don't have the hardware for it, and I will wait to the end of the year for the hardware to evolve.</p> <p>But, I still need coding, people are saying qwen3.6 35b a3b is good, so the question is now how much will it cost me to host it somwhere until I get new hardware.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Euphoric_North_745\"> /u/Euphoric_North_745 </a> <br /> <span><a href=\"http",
       "extra": {},
       "collected_at": "2026-05-04T15:19:51"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "Tue, 13 Jan 2026 13:00:00 GMT",
+      "summary": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.</p><p>The new Slackbot, now generally available to <a",
+      "extra": {},
+      "collected_at": "2026-05-04T17:33:45"
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "Tue, 28 Apr 2026 16:00:00 +0000",
+      "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
+      "extra": {},
+      "collected_at": "2026-05-04T17:34:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Sleek Analytics for iOS",
+      "url": "https://www.producthunt.com/products/sleek-analytics",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your website analytics in your pocket </p> <p> <a href=\"https://www.producthunt.com/products/sleek-analytics?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1137964?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-04T17:34:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Claude Code & Codex Usage Trading Cards",
+      "url": "https://www.producthunt.com/products/rudel",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Get your trading card based on your CC & codex usage </p> <p> <a href=\"https://www.producthunt.com/products/rudel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1135782?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-04T17:34:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Panels Store",
+      "url": "https://www.producthunt.com/products/panels-store",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Buy DRM-free comics and read them instantly in Panels </p> <p> <a href=\"https://www.producthunt.com/products/panels-store?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1137077?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-04T17:34:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mindra",
+      "url": "https://www.producthunt.com/products/mindra",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Agent Teams You Can Actually Delegate To </p> <p> <a href=\"https://www.producthunt.com/products/mindra?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130040?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-04T17:34:04"
     }
   ],
-  "updated_at": "2026-05-04T15:19:51.056201+09:00"
+  "updated_at": "2026-05-04T17:34:07.730262+09:00"
 }
