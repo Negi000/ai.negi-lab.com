@@ -14211,5 +14211,33 @@
     "image_path": "/images/posts/2026-05-04-artisan-ai-stolen-art-controversy-this-is-fine.jpg",
     "created_at": "2026-05-04T06:56:05.998595+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-04-harvard-study-ai-emergency-room-diagnosis-accuracy",
+    "title": "ハーバード大の研究が示したER診断の残酷な真実。AIが医師を精度で凌駕した理由",
+    "url": "https://ai.negi-lab.com/posts/harvard-study-ai-emergency-room-diagnosis-accuracy/",
+    "category": "NEWS",
+    "viral_tags": "#医療AI #LLM診断",
+    "tweet_text": "ハーバード大学がER（救急外来）で行った、LLM vs 医師の診断対決の結果が衝撃的です。\n\n実際の症例を用いたブラインドテストで、AIが医師2人の合議を精度で上回りました。SIer時代、複雑なシステムの切り分けで「ベテランの勘」に頼らざるを得なかった場面を思い出しますが、医療のような極限の推論現場でも、AIの「バイアスのなさ」が人間の経験値を凌駕し始めています。\n\n診断精度92.4% vs 83.9%。この8.5ポイントの差を「誤差」と見るか「救える命の差」と見るか。\n\nエンジニア視点で興味深いのは、単なる知識量ではなく、汚い非構造化データから「臨床推論」を組み立てる力が飛躍的に向上している点。Chain-of-Thoughtや自己修正プロセスの進化が、専門職の聖域を確実に変えています。\n\nRTX 4090を2枚挿してローカル医療LLMを検証している身としては、病院内の閉域網で爆速推論する診断エージェントが、標準装備される日はもう数ヶ月先だと確信しています。\n\n医療系開発に関わっている方、あるいは自分の専門性がAIにどう影響されるか不安な方、この「知能の冗長化」という流れをどう受け止めますか？現場でのAI活用、どこまで許容できるか意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-04-harvard-study-ai-emergency-room-diagnosis-accuracy.jpg",
+    "created_at": "2026-05-04T12:54:50.288925+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-04-rosentic-review-ai-coding-agent-collision-prevention",
+    "title": "Rosentic 使い方：コーディングAI同士の衝突を防ぐ新機軸の検証ツール",
+    "url": "https://ai.negi-lab.com/posts/rosentic-review-ai-coding-agent-collision-prevention/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #ソフトウェアテスト",
+    "tweet_text": "AIエージェントが複数でコードを書き始めた瞬間に発生する「AI同士の衝突」問題。これ、マジで笑えないレベルで現場を混乱させます。\n\nエージェントAがリファクタして、エージェントBが古い前提でコードを書く。git mergeは通るけど実行時に死ぬ。この「論理的矛盾」をマージ前に防ぐRosenticを試しました。\n\nSIer時代、大規模開発で「隣のチームが勝手にAPI仕様変えた」って絶望した経験がある人なら、このツールの重要性が痛いほどわかるはず。人間がやってた「ブランチ間の整合性チェック」を、AIが肩代わりしてくれる時代です。\n\n実際にCursorやDevinを並列で動かしてみると、いかにAIが「横のつながり」を無視してコードを量産しているかが可視化されて面白い。単なるLinterじゃなくて、オーケストレーターとしての価値を感じますね。\n\n月額コストはかかりますが、マージ後の手戻りを1回防ぐだけでお釣りが来ます。皆さんのチームでは、AIが書いたPRのレビュー、どうやって捌いてますか？自動化の限界について意見を聞きたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-04-rosentic-review-ai-coding-agent-collision-prevention.jpg",
+    "created_at": "2026-05-04T12:55:49.058725+09:00",
+    "posted": false
   }
 ]

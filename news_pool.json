@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "AMD Hipfire - a new inference engine optimized for AMD GPU's",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1swpsv0/amd_hipfire_a_new_inference_engine_optimized_for/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-27T01:36:53+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Came across hipfire the other day. It's a brand new inference engine focused on all AMD GPU's (not just the latest).</p> <p><a href=\"https://github.com/Kaden-Schutt/hipfire\">Github.</a></p> <p>It uses a special mq4 quantization method. The hipfire creator is pumping out <a href=\"https://huggingface.co/schuttdev\">models on huggingface.</a></p> <p>I don't know enough about quantization to know how good these quants are in terms of quality, but as an RDNA3 aficiona",
-      "extra": {},
-      "collected_at": "2026-04-27T12:47:29"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Thoughts on using an AMD Alveo V80 FPGA PCI card as a poor man’s Taalas HC1 (LLM-burned-onto-a-chip).",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1swjxjx/thoughts_on_using_an_amd_alveo_v80_fpga_pci_card/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-26T21:18:44+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1swjxjx/thoughts_on_using_an_amd_alveo_v80_fpga_pci_card/\"> <img alt=\"Thoughts on using an AMD Alveo V80 FPGA PCI card as a poor man’s Taalas HC1 (LLM-burned-onto-a-chip).\" src=\"https://preview.redd.it/z39jahyzplxg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c4285fd63941f47c5c49e41bd599399e6e37f2a\" title=\"Thoughts on using an AMD Alveo V80 FPGA PCI card as a poor man’s Taalas HC1 (LLM-burned-onto-a-chip).\" /> </a> </t",
-      "extra": {},
-      "collected_at": "2026-04-27T12:47:29"
-    },
-    {
       "source": "VentureBeat AI",
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
       "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
@@ -2867,19 +2839,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "‘This is fine’ creator says AI startup stole his art",
-      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 03 May 2026 20:16:51 +0000",
-      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
-      "extra": {},
-      "collected_at": "2026-05-04T06:55:35"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
       "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
       "primary_category": "NEWS",
@@ -2929,7 +2888,60 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1eb6to7/llama_405b_q4_k_m_quantization_running_locally/\">https://www.reddit.com/r/LocalLLaMA/comments/1eb6to7/llama_405b_q4_k_m_quantization_running_locally/</a></p> <p><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ebbgkr/llama_31_405b_q5_k_m_running_on_amd_epyc_9374f/\">https://www.reddit.com/r/LocalLLaMA/comments/1ebbgkr/llama_31_405b_q5_k_m_running_on_amd_epyc_9374f/</a> </p> <p>Llama405b q4 at 1.2",
       "extra": {},
       "collected_at": "2026-05-04T06:55:39"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "url": "https://github.com/aattaran/deepclaude",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 03 May 2026 22:13:20 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-04T12:54:16"
+    },
+    {
+      "source": "Google News",
+      "title": "AI（人工知能）の歴史について年表を活用しながら時系列で簡単に紹介 - AIsmiley",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUV92MmhVbGxkbmlNSU54YjNyNngtQjNJcHJuSFFRRk1GMXRhQktkanZTSl9OZ0R1Q3ZGZlVVdXZsNEhqRTc5ZWdmRlVaRWJyYmNwNENXei1KNUlDSmp0OHVUNXNGZTdSZ2JzdFFQTFJ2dXRlQXBVenlZNDllUmtZTzRlUndIWDh5UlBQZ0RtYmRSYzZybk1CZXA0YklUV0lKd1lv?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQUV92MmhVbGxkbmlNSU54YjNyNngtQjNJcHJuSFFRRk1GMXRhQktkanZTSl9OZ0R1Q3ZGZlVVdXZsNEhqRTc5ZWdmRlVaRWJyYmNwNENXei1KNUlDSmp0OHVUNXNGZTdSZ2JzdFFQTFJ2dXRlQXBVenlZNDllUmtZTzRlUndIWDh5UlBQZ0RtYmRSYzZybk1CZXA0YklUV0lKd1lv?oc=5\" target=\"_blank\">AI（人工知能）の歴史について年表を活用しながら時系列で簡単に紹介</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AIsmiley</font>",
+      "extra": {},
+      "collected_at": "2026-05-04T12:54:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "AMD Strix Halo refresh with 192gb!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2ywn7/amd_strix_halo_refresh_with_192gb/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-05-03T21:59:45+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t2ywn7/amd_strix_halo_refresh_with_192gb/\"> <img alt=\"AMD Strix Halo refresh with 192gb!\" src=\"https://external-preview.redd.it/xeqO7LhR-ATnojXO21377f3VA5rIhio8Xcix3awjGmQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f70271b4d67401fe37670e192af9960f9d10fbd3\" title=\"AMD Strix Halo refresh with 192gb!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Looks like the next strix halo, the Gorgon halo 495 max will have mor",
+      "extra": {},
+      "collected_at": "2026-05-04T12:54:19"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "\"Second Thoughts\" Been playing with adding a small transformer that reads output near the end of generation, and feeds it back near the top as a refinement loop. A quick test of 1.7B model showed drastic improvement in focused tasks (like coding)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t33mlw/second_thoughts_been_playing_with_adding_a_small/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-05-04T01:26:59+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A 1.7B model can actually turn out some code, so I'm running the training for a 9B model, then will re-run HumanEval (a full one this time). I've shown most of my homework in the article, but will be posting to github after I clean things up.</p> <p>It was inspired by Repeat Yourself's <a href=\"https://dnhkng.github.io/posts/rys/\"><strong>dnhkng.github.io/posts/rys/</strong></a> neuroanatomy findings... this gave me a start and end point to attach my &quot;rever",
+      "extra": {},
+      "collected_at": "2026-05-04T12:54:19"
     }
   ],
-  "updated_at": "2026-05-04T06:55:39.722127+09:00"
+  "updated_at": "2026-05-04T12:54:19.981963+09:00"
 }
