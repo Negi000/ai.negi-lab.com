@@ -1,101 +1,6 @@
 {
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "The AI-designed car is taking shape",
-      "url": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-27T07:00:00-04:00",
-      "summary": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless iteration and refinement from all angles before being turned into 3D models by hand, some dying in the digital world, others sculpted into [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-27T20:03:34"
-    },
-    {
-      "source": "Google News",
-      "title": "AIカメラの世界市場規模は2032年に53740百万米ドルへ、成長基調続く - アットプレス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYNHlYWWVrUUxxMUpraXFHTXpDZ0F2azdvSWtMdzFuQk0wQ0pRMzJpeVR1QTBMT01XUVBtbzRJdnpvMUFFMTB3MHdXTUFocEk?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 27 Apr 2026 08:45:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYNHlYWWVrUUxxMUpraXFHTXpDZ0F2azdvSWtMdzFuQk0wQ0pRMzJpeVR1QTBMT01XUVBtbzRJdnpvMUFFMTB3MHdXTUFocEk?oc=5\" target=\"_blank\">AIカメラの世界市場規模は2032年に53740百万米ドルへ、成長基調続く</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
-      "extra": {},
-      "collected_at": "2026-04-27T20:03:42"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Jet AI Agents",
-      "url": "https://www.producthunt.com/products/jet-admin",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Build business AI agents in minutes </p> <p> <a href=\"https://www.producthunt.com/products/jet-admin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1131445?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-27T20:03:43"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Orange Slice",
-      "url": "https://www.producthunt.com/products/orange-slice",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Automate any sales task with AI </p> <p> <a href=\"https://www.producthunt.com/products/orange-slice?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1131691?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-27T20:03:43"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "immich-app/immich",
-      "url": "https://github.com/immich-app/immich",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "High performance self-hosted photo and video management solution.",
-      "extra": {
-        "stars_today": "82 stars today"
-      },
-      "collected_at": "2026-04-27T20:03:45"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "NixOS/nixpkgs",
-      "url": "https://github.com/NixOS/nixpkgs",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Nix Packages collection & NixOS",
-      "extra": {
-        "stars_today": "29 stars today"
-      },
-      "collected_at": "2026-04-27T20:03:45"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "To 16GB VRAM users, plug in your old GPU",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1swzjnu/to_16gb_vram_users_plug_in_your_old_gpu/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-27T10:20:14+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>For those who want to run latest dense ~30b models and only have 16GB VRAM, if you have a old card with 6GB VRAM or more, plug it in.</p> <p>It matters that everything fits on the VRAM, even on 2 cards. Even if one of them is quite weak.</p> <p>I have a 5070Ti 16GB and a old 2060 6GB. The common idea is you need 2 same GPU to maximize performance. But one day I was strike by the idea, why not give it a try?</p> <p>Let's see, if you did not bought a mother board ",
-      "extra": {},
-      "collected_at": "2026-04-27T20:03:46"
-    },
-    {
       "source": "Google News",
       "title": "ディープシーク新ＡＩモデル、市場の反応控えめ 中国競合との優位性薄れる - Reuters",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNODVyZnJoSFMtaW1YTkJHOG9YcUNCUnFOLTRNVDRUVmhMVkNITHlmYjdwSG5WTXpIeE1rMUg3dHFUUXR0MV9RMjhGNGd6Um5VT3VWZEhsVTBRcDRqRS1kamZLUWw1eEw4NllqT3FNUUFrcHpHWnplNk1yeHpaNUE4ZQ?oc=5",
@@ -2849,21 +2754,6 @@
       "collected_at": "2026-05-04T15:19:51"
     },
     {
-      "source": "VentureBeat AI",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "Tue, 13 Jan 2026 13:00:00 GMT",
-      "summary": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.</p><p>The new Slackbot, now generally available to <a",
-      "extra": {},
-      "collected_at": "2026-05-04T17:33:45"
-    },
-    {
       "source": "Google AI Blog",
       "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
       "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
@@ -2875,19 +2765,6 @@
       "summary": "The Google Translate logo sits in the middle of colorful illustrated scenes, including people translating live conversations and a birthday cake topped by candles with the numeral 20",
       "extra": {},
       "collected_at": "2026-05-04T17:34:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Sleek Analytics for iOS",
-      "url": "https://www.producthunt.com/products/sleek-analytics",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your website analytics in your pocket </p> <p> <a href=\"https://www.producthunt.com/products/sleek-analytics?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1137964?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-05-04T17:34:04"
     },
     {
       "source": "Product Hunt",
@@ -2927,7 +2804,133 @@
       "summary": "<p> Agent Teams You Can Actually Delegate To </p> <p> <a href=\"https://www.producthunt.com/products/mindra?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130040?app_id=339\">Link</a> </p>",
       "extra": {},
       "collected_at": "2026-05-04T17:34:04"
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 27 Apr 2026 13:00:00 +0000",
+      "summary": "A web next to a laptop",
+      "extra": {},
+      "collected_at": "2026-05-04T20:04:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Aaavatar",
+      "url": "https://www.producthunt.com/products/aaavatar",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Branded team headshots in one drop </p> <p> <a href=\"https://www.producthunt.com/products/aaavatar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1138321?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-04T20:05:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Manex",
+      "url": "https://www.producthunt.com/products/manex",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Preserve useful answers, corrections, and context as memory </p> <p> <a href=\"https://www.producthunt.com/products/manex?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1137365?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-04T20:05:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The Free Software Media System - Server Backend & API",
+      "extra": {
+        "stars_today": "35 stars today"
+      },
+      "collected_at": "2026-05-04T20:05:02"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "NetHack/NetHack",
+      "url": "https://github.com/NetHack/NetHack",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Official NetHack Git Repository",
+      "extra": {
+        "stars_today": "30 stars today"
+      },
+      "collected_at": "2026-05-04T20:05:02"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "extra": {
+        "stars_today": "30 stars today"
+      },
+      "collected_at": "2026-05-04T20:05:02"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "mnfst/manifest",
+      "url": "https://github.com/mnfst/manifest",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Smart Model Routing for Agents. Cut Costs up to 70% 🦚",
+      "extra": {
+        "stars_today": "182 stars today"
+      },
+      "collected_at": "2026-05-04T20:05:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "it's time to update your Gemma 4 GGUFs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3dfvp/its_time_to_update_your_gemma_4_ggufs/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-05-04T10:12:15+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Chat Template was fixed a few days ago</p> <p>choose your fav dealer:</p> <p><a href=\"https://huggingface.co/bartowski/google_gemma-4-31B-it-GGUF\">https://huggingface.co/bartowski/google_gemma-4-31B-it-GGUF</a></p> <p><a href=\"https://huggingface.co/bartowski/google_gemma-4-26B-A4B-it-GGUF\">https://huggingface.co/bartowski/google_gemma-4-26B-A4B-it-GGUF</a></p> <p><a href=\"https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF\">https://huggingface.co/bartow",
+      "extra": {},
+      "collected_at": "2026-05-04T20:05:03"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Open source models are going to be the future on Cursor, OpenCode etc.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3bxrv/open_source_models_are_going_to_be_the_future_on/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-05-04T08:46:41+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just wanted to share my experience. At work we have Cursor with the Enterprise tier. Today I burned 10$ with 2 prompts, one on gpt-5.5 and one on claude-opus-4.6-thinking. Last month I burned 80$ in one week with claude-opus-4.7 even with the 50% off they had with the launch. If they continue with this outrageous pricing (which is necessary since they can't subsidize anymore) the only solution will be to use comparable open-source models that cost 5x-10x less.",
+      "extra": {},
+      "collected_at": "2026-05-04T20:05:03"
     }
   ],
-  "updated_at": "2026-05-04T17:34:07.730262+09:00"
+  "updated_at": "2026-05-04T20:05:03.618360+09:00"
 }

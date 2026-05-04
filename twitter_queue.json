@@ -14281,5 +14281,33 @@
     "image_path": "/images/posts/2026-05-04-sleek-analytics-ios-review-ga4-alternative.jpg",
     "created_at": "2026-05-04T17:35:58.055782+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-04-claude-cowork-desktop-agent-local-file-interaction",
+    "title": "Claude Cowork発表。ローカルファイルを直接操る「非エンジニア向け」エージェントの実力",
+    "url": "https://ai.negi-lab.com/posts/claude-cowork-desktop-agent-local-file-interaction/",
+    "category": "NEWS",
+    "viral_tags": "#ClaudeCowork #Anthropic",
+    "tweet_text": "Anthropicが放った新機能「Cowork」が、私の作業環境を根本から変えようとしています。これは単なるチャット機能の追加ではなく、デスクトップ上のローカルファイルをAIエージェントが直接、かつ自律的に操作できるという革命です。\n\n驚くべきは、この機能自体が「Claude Code」を使って、たった1.5週間で開発されたという事実。AIがAIの機能を爆速で作るサイクルが、もう実用レベルで回っています。\n\n今まで10個のPDFをアップロードして分析させていた手間が、フォルダを指定するだけの「ゼロ秒」になります。エンジニア向けのClaude Codeを、非エンジニアでも使えるGUIに落とし込んできたAnthropicの戦略は極めて賢い。\n\n一方で、ローカルファイルへのアクセス権限をどこまで預けるかという、実務者ならではのセキュリティ上の悩みも正直あります。皆さんは自分のメインPCのファイル操作、AIにどこまで任せられますか？あるいは「怖くて手が出せない」と感じる部分などはありますか？\n\n実務で使えるかという視点で、技術的な仕組みと競合比較を深掘りしました。AIエージェントがOSの一部になる未来は、もう数ヶ月先ではなく「今」始まっています。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-04-claude-cowork-desktop-agent-local-file-interaction.jpg",
+    "created_at": "2026-05-04T20:05:32.250801+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-04-mindra-ai-agent-team-review-guide",
+    "title": "Mindra 使い方：AIエージェントチームに実務を「丸投げ」する手法",
+    "url": "https://ai.negi-lab.com/posts/mindra-ai-agent-team-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#Mindra #AIエージェント",
+    "tweet_text": "AIに「指示」する時代はもう古い。これからは「委譲」する時代。\n\nProduct Huntで見つけたMindra、触ってみて正直震えました。従来のLangChainやCrewAIのような「開発者がフローを全部書く」スタイルから、エージェントに「目的」を伝えてあとは任せるスタイルへの転換が凄まじい。\n\n特に驚いたのが自律的なリトライ能力。外部APIの形式が変わってエラーになっても、エージェント同士で「あれ、おかしいね」「じゃあ別のツールで試すわ」と会話して解決してしまう。SIer時代、深夜までエラーハンドリングのコードを書いていた苦労は何だったのか…。\n\nただし、自律性が高い分、トークン消費量はエグいです。GPT-4oを適当に回すと一瞬でランチ代が消えます。RTX 4090などのローカル環境とどう使い分けるかが、エンジニアの腕の見せ所ですね。\n\n「AIを部下としてチーム運用したい」と考えている人には、間違いなく今一番触るべきツール。皆さんは、AIエージェントを実務に投入する際、どの程度の「自律性」を許容しますか？承認なしでメール送信まで任せられる派？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-04-mindra-ai-agent-team-review-guide.jpg",
+    "created_at": "2026-05-04T20:06:37.152126+09:00",
+    "posted": false
   }
 ]
