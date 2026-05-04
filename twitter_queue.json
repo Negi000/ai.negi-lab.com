@@ -14309,5 +14309,33 @@
     "image_path": "/images/posts/2026-05-04-mindra-ai-agent-team-review-guide.jpg",
     "created_at": "2026-05-04T20:06:37.152126+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-04-manex-ai-memory-management-review",
+    "title": "Manexレビュー：LLMに長期記憶と修正履歴を実装する実務的アプローチ",
+    "url": "https://ai.negi-lab.com/posts/manex-ai-memory-management-review/",
+    "category": "TOOL",
+    "viral_tags": "#LLM #Manex",
+    "tweet_text": "AIエージェントを作っていて一番萎えるのが「さっき教えたルールを忘れる」こと。\n\nSIer時代からドキュメント管理には苦しんできましたが、LLM時代の記憶管理はもっと泥臭い。LangChainのWindowBufferだけでは限界があるし、かといって全文RAGはノイズが多すぎるんですよね。\n\n最近試した「Manex」というライブラリが、この辺の痒いところに手が届く設計でした。\n最大の特徴は、単なる履歴保存ではなく「ユーザーによる修正」を検知して、優先的に記憶へ定着させる点。\n\n例えば「命名規則はキャメルケースで」という修正を一度投げれば、それを重要なコンテキストとして永続化してくれます。内部で修正の価値を判定してから保存するので、トークンの節約にもなる。\n\nRTX 4090環境でローカルLLMと組み合わせてみましたが、抽出のオーバーヘッドも最小限。使い込むほど「自分専用」に育つ感覚は、これからのAI開発で必須の体験になりそうです。\n\n皆さんはAIの長期記憶、どう管理してますか？\nMem0やZepとの使い分け、あるいは自作ロジック派の意見も聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-04-manex-ai-memory-management-review.jpg",
+    "created_at": "2026-05-04T23:13:47.616238+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-04-gemma-4-gguf-chat-template-fix-setup",
+    "title": "Gemma 4 GGUF 使い方 入門：最新モデルと修正版チャットテンプレートの導入手順",
+    "url": "https://ai.negi-lab.com/posts/gemma-4-gguf-chat-template-fix-setup/",
+    "category": "GUIDE",
+    "viral_tags": "#Gemma4 #LocalLLM",
+    "tweet_text": "ローカルLLM勢にとって「チャットテンプレートの不備」は、最高級の食材を泥水で煮るような絶望感がありますよね。\n\n先日登場したGemma 4 31Bも、初期のGGUF変換ではテンプレートが壊れていて、本来のポテンシャルを全く発揮できていませんでした。\n「返答が止まらない」「タグが露出する」といった挙動に悩まされていた方も多いはず。\n\nついにbartowski氏らによって修正版GGUFが公開されました。\n早速、私のRTX 4090 2枚挿し環境で検証しましたが、修正前とは比較にならないほど出力の安定感が増しています。\n\nSIer時代、数ミリ秒のレスポンス改善に血眼になっていた頃を思い出しますが、LLMの世界でもこうした「低レイヤーの不備」に気づけるかどうかが、実務で使えるツールになるかどうかの分かれ道です。\n\n今回はPythonを使って、この最新Gemma 4を100%の精度で動かすための具体的な実装手順をまとめました。\n単に「動いた」で終わらせず、実務で戦えるレベルのスクリプトをコピペで構築できます。\n\nみなさんは今回のGemma 4、どの量子化サイズがコスパ最強だと感じていますか？\n31Bを24GBのVRAMに収めるのが現状の最適解だと思っているのですが、他の構成の方の意見も気になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-04-gemma-4-gguf-chat-template-fix-setup.jpg",
+    "created_at": "2026-05-04T23:15:00.227131+09:00",
+    "posted": false
   }
 ]
