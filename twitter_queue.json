@@ -14505,5 +14505,33 @@
     "image_path": "/images/posts/2026-05-06-flowstep-1-editable-ui-design-engineer-review.jpg",
     "created_at": "2026-05-06T03:13:24.577741+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-06-ios-27-apple-ai-model-choose-your-own-adventure",
+    "title": "iOS 27でAppleが「AIモデルの自由選択」を解禁。OSレベルの推論エンジン開放がもたらす開発環境の激変",
+    "url": "https://ai.negi-lab.com/posts/ios-27-apple-ai-model-choose-your-own-adventure/",
+    "category": "NEWS",
+    "viral_tags": "#AppleIntelligence #iOS27",
+    "tweet_text": "AppleがiOS 27で「AIモデルの選択制」を導入するというTechCrunchの報道、これは開発環境のルールが根本から変わる衝撃的なニュースですね。\n\n今まではApple Intelligenceを使うか、アプリ内で個別にAPIを叩くかの二択でした。しかし、これからはOSの推論エンジンそのものをChatGPTやClaude、あるいはLlamaベースの自作モデルへ差し替えられるようになります。\n\nSIer時代にベンダーロックインで苦しんだ身としては、この「プラットフォームのハブ化」は拍手喝采です。AppleはAIの百貨店になる道を選びました。\n\n具体的には「Unified Intelligence Gateway」のような抽象化レイヤーが導入され、開発者はモデルに依存しない「App Intents」の実装が最優先事項になります。RTX 4090を2枚挿してローカルLLMを検証している立場から見ても、iPhoneで他社製オンデバイスモデルがネイティブ動作する可能性にはワクワクが止まりません。\n\n皆さんは、iPhoneのメインAIをChatGPTに変えたいですか？それともプライバシー重視で完全ローカルなLlama系を使い倒したいですか？ぜひ開発者目線での意見を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-06-ios-27-apple-ai-model-choose-your-own-adventure.jpg",
+    "created_at": "2026-05-06T07:10:13.740434+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-06-velo-2-ai-video-recording-review",
+    "title": "Velo 2.0 使い方とAI動画共有の効率化レビュー",
+    "url": "https://ai.negi-lab.com/posts/velo-2-ai-video-recording-review/",
+    "category": "TOOL",
+    "viral_tags": "#Velo2 #AIプロダクティビティ",
+    "tweet_text": "SIer時代、1枚のスクショを撮ってExcelに貼り付け、説明文を打つのに10分以上浪費していた苦い記憶があります。\nそんな「ドキュメント作成の呪い」を解いてくれるのが、新しく出たVelo 2.0。\n\n画面録画を終えた瞬間に、AIが勝手にタイトル、要約、チャプターを生成。\n動画の中身をわざわざテキストで説明する手間が完全に消滅しました。\nこれ、単なる録画ツールじゃなくて「喋るだけでドキュメントが完成する」自動化ツールですね。\n\n特に刺さったのが、無音部分や言い淀みをAIが自動でカットする機能。\n噛んでも撮り直す必要がない。これだけで収録時間が3分の1になります。\n開発現場の非同期コミュニケーションは、もはや「文字」より「AI要約付き動画」の方が圧倒的に速い。\n\n自作のWhisperスクリプトを回すより、このスピード感に課金した方が生産性は高まると判断しました。\n皆さんのチームでは、仕様説明やバグ報告にどれくらい時間をかけていますか？\n動画で送る文化、浸透していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-06-velo-2-ai-video-recording-review.jpg",
+    "created_at": "2026-05-06T07:11:45.856988+09:00",
+    "posted": false
   }
 ]
