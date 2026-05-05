@@ -14421,5 +14421,33 @@
     "image_path": "/images/posts/2026-05-05-intuned-agent-ai-browser-automation-review.jpg",
     "created_at": "2026-05-05T17:17:19.797278+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-05-sierra-ai-950m-funding-enterprise-agent-analysis",
+    "title": "Sierraが9.5億ドルの巨額調達。エンタープライズAIの勝負は「会話」から「自律的な実行」へ完全に移行しました。",
+    "url": "https://ai.negi-lab.com/posts/sierra-ai-950m-funding-enterprise-agent-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#SierraAI #AIエージェント",
+    "tweet_text": "Sierraの9.5億ドル調達、これはAI業界の「潮目」が変わった瞬間ですね。\n\n元SIerエンジニアとして断言しますが、これまでの「質問に答えるだけのチャットボット」はもう終わりです。評価額45億ドルの理由は、単なるAIの賢さではなく、在庫管理や返品処理といった「実務」を自律的に完結させる圧倒的な信頼性にあります。\n\nOpenAI議長のBret Taylor氏が狙うのは、SaaSの次の形。もはやAIはツールではなく、企業の業務プロセスそのもの。APIを介してシステムを操作し、ポリシーを遵守しながら24時間365日働き続ける「エージェント」が標準になります。\n\n正直、これまで数千万円かけてRAGを構築してきた苦労が、Sierraのようなプラットフォームで「YAML定義一つ」に置き換えられる未来が見えて震えてます。\n\nこれからのエンジニアに必要なのは、コードを書く力以上に「AIにどの権限を与え、どう安全に実行させるか」というガバナンス設計の能力。\n\n皆さんの現場では、AIにどこまでの「権限」を渡せそうですか？「返品ボタン」をAIに押させる覚悟、できてますか？リプライで本音を聞かせてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-05-sierra-ai-950m-funding-enterprise-agent-analysis.jpg",
+    "created_at": "2026-05-05T19:46:32.375616+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-05-ghostwriter-v5-ai-social-media-automation-review",
+    "title": "Ghostwriter LinkedInとXの投稿生成から配信までを一元化するAIツール",
+    "url": "https://ai.negi-lab.com/posts/ghostwriter-v5-ai-social-media-automation-review/",
+    "category": "TOOL",
+    "viral_tags": "#GhostwriterAI #エンジニアのキャリア",
+    "tweet_text": "技術ブログを書いた後、SNS用の要約を作るだけで疲弊していませんか？\nSIerからフリーランスを経て痛感したのは「エンジニアこそ発信効率を上げないと詰む」という事実。\n今回検証したGhostwriter 5は、まさにその「文脈変換」の苦痛をゼロにするツールでした。\n\n正直、AI生成の文章なんて…と侮っていましたが、LinkedIn向けのフォーマルな論調と、X向けの鋭いフックを同時に叩き出すスピードには脱帽です。\n特にV5で実装された「Idea Lab」の抽出精度が高く、READMEのURLを投げるだけで週刊アップデート案が3秒で仕上がります。\n\nもちろん完璧ではなく、日本語の微調整は2割ほど必要。\nでも、白紙から30分悩むのと、AIの案を2分で直すのでは、1年後の生存率が全く変わるはず。\nRTX 4090を2枚回してローカルLLMを組むのも楽しいですが、こういうSaaSを賢く組み込むのが、今の開発者に求められる「現場の合理性」だと思います。\n\n皆さんは、技術発信の「リライト作業」にどのくらい時間を割いていますか？\n自動化したいけど、AI臭さが気になって踏み切れないという方の本音も聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-05-ghostwriter-v5-ai-social-media-automation-review.jpg",
+    "created_at": "2026-05-05T19:47:41.203654+09:00",
+    "posted": false
   }
 ]
