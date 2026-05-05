@@ -2,72 +2,6 @@
   "items": [
     {
       "source": "The Verge AI",
-      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
-      "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-27T23:39:33-04:00",
-      "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors already have an opinion about Elon Musk, and it's not a good one. The Verge reporter Elizabeth Lopatto, who was there at [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-28T15:12:10"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "San Francisco, AI capital of the world, is an economic laggard",
-      "url": "https://www.economist.com/finance-and-economics/2026/04/26/san-francisco-ai-capital-of-the-world-is-an-economic-laggard",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 28 Apr 2026 04:32:42 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-28T15:12:16"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Wafaa.io",
-      "url": "https://www.producthunt.com/products/wafaa-io-beta",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Create secure digital contracts in minutes </p> <p> <a href=\"https://www.producthunt.com/products/wafaa-io-beta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1117200?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-28T15:12:17"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I'm done with using local LLMs for coding",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxqa2c/im_done_with_using_local_llms_for_coding/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-28T03:50:38+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I think gave it a fair shot over the past few weeks, forcing myself to use local models for non-work tech asks. I use Claude Code at my job so that's what I'm comparing to.</p> <p>I used Qwen 27B and Gemma 4 31B, these are considered the best local models under the multi-hundred LLMs. I also tried multiple agentic apps. My verdict is that the loss of productivity is not worth it the advantages.</p> <p>I'll give a brief overview of my main issues.</p> <p><strong>",
-      "extra": {},
-      "collected_at": "2026-04-28T15:12:20"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Duality of r/LocalLLaMA",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1sxs71y/duality_of_rlocalllama/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-04-28T05:27:57+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1sxs71y/duality_of_rlocalllama/\"> <img alt=\"Duality of r/LocalLLaMA\" src=\"https://preview.redd.it/a0r1ptt6avxg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=090fd0ef68c3bac54a42a61ad4a33dc41eac4446\" title=\"Duality of r/LocalLLaMA\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HornyGooner4402\"> /u/HornyGooner4402 </a> <br /> <span><a href=\"https://i.redd.it/a0r1ptt6avxg1.jpeg\">[link]</a><",
-      "extra": {},
-      "collected_at": "2026-04-28T15:12:20"
-    },
-    {
-      "source": "The Verge AI",
       "title": "Google is testing AI chatbot search for YouTube",
       "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
       "primary_category": "NEWS",
@@ -2727,20 +2661,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Image AI models now drive app growth, beating chatbot upgrades",
-      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Mon, 04 May 2026 19:12:49 +0000",
-      "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-      "extra": {},
-      "collected_at": "2026-05-05T07:11:23"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
       "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
       "primary_category": "NEWS",
@@ -2903,7 +2823,127 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t3zuvy/mtplx_224x_faster_tps_the_native_mtp_inference/\"> <img alt=\"MTPLX | 2.24x faster TPS | The native MTP inference engine for Apple Silicon\" src=\"https://preview.redd.it/erim8d4rq7zg1.png?width=140&amp;height=78&amp;auto=webp&amp;s=9fb5a27506c7358a29c36331bcbbd9c2fd6ac10f\" title=\"MTPLX | 2.24x faster TPS | The native MTP inference engine for Apple Silicon\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><h1>TLDR: 28 tok",
       "extra": {},
       "collected_at": "2026-05-05T14:49:07"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI’s president does ‘all the things,’ except answer a question",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-05-04T19:49:33-04:00",
+      "summary": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual way - he was cross-examined first, followed by a direct examination - and he had some serious high school debate club [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-05-05T17:15:11"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 05 May 2026 04:09:17 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-05T17:15:17"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Intuned Agent",
+      "url": "https://www.producthunt.com/products/intuned",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Production browser automation, built and maintained by AI </p> <p> <a href=\"https://www.producthunt.com/products/intuned?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1136917?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-05T17:15:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "PaceBar",
+      "url": "https://www.producthunt.com/products/pacebar",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A quiet pace instrument for your Mac </p> <p> <a href=\"https://www.producthunt.com/products/pacebar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1136959?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-05T17:15:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tollecode",
+      "url": "https://www.producthunt.com/products/tollecode",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A local AI coding assistant to delegate tasks to AI agents </p> <p> <a href=\"https://www.producthunt.com/products/tollecode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1138725?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-05T17:15:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ghostwriter",
+      "url": "https://www.producthunt.com/products/ghostwriter-5",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Write and publish posts on LinkedIn & X </p> <p> <a href=\"https://www.producthunt.com/products/ghostwriter-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102911?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-05T17:15:19"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.6 27B FP8 runs with 200k tokens of BF16 KV cache at 80 TPS on a single RTX 5000 PRO 48GB",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t46klu/qwen36_27b_fp8_runs_with_200k_tokens_of_bf16_kv/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-05-05T05:46:22+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>----START HUMAN TEXT----</p> <p>Hi all,</p> <p>I've seen a bunch of posts about squeezing 27B onto a 24GB card and all the quantization tricks involved in doing so. It's all amazing work, but at the end of the day a quantized model with quantized KV will inevitably compound errors faster than non-quantized ones, which noticeably impacts agentic coding.</p> <p>I figured a 48GB GPU offered just enough VRAM to avoid most of the quantization nastiness with genuinely",
+      "extra": {},
+      "collected_at": "2026-05-05T17:15:21"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "DeepSeek V4 Pro matches GPT-5.2 on FoodTruck Bench, our agentic benchmark — 10 weeks later, ~17× cheaper",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t47qbw/deepseek_v4_pro_matches_gpt52_on_foodtruck_bench/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-05T06:51:49+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t47qbw/deepseek_v4_pro_matches_gpt52_on_foodtruck_bench/\"> <img alt=\"DeepSeek V4 Pro matches GPT-5.2 on FoodTruck Bench, our agentic benchmark — 10 weeks later, ~17× cheaper\" src=\"https://preview.redd.it/fx89f3w5n9zg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bdf2c9a4d9b4e42faed78e9a7a4f52db71ba35e8\" title=\"DeepSeek V4 Pro matches GPT-5.2 on FoodTruck Bench, our agentic benchmark — 10 weeks later, ~17× cheaper\" /> </a",
+      "extra": {},
+      "collected_at": "2026-05-05T17:15:21"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "As MTP prepares to land in llama.cpp, Models that support MTP",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t46o09/as_mtp_prepares_to_land_in_llamacpp_models_that/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-05-05T05:51:38+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>DeepSeekv3 OG</p> <p>DeepSeekv3.2/4</p> <p>Qwen3.5</p> <p>GLM4.5+</p> <p>MiniMax2.5+</p> <p>Step3.5Flash</p> <p>Mimo v2+</p> <p>Until we get mtp weights, you need to download HF weights and convert to gguf. I think I'm going to try either qwen3.5-122b or glm4.5-air first.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/segmond\"> /u/segmond </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t46o09/as_mt",
+      "extra": {},
+      "collected_at": "2026-05-05T17:15:21"
     }
   ],
-  "updated_at": "2026-05-05T14:49:07.494067+09:00"
+  "updated_at": "2026-05-05T17:15:21.786577+09:00"
 }

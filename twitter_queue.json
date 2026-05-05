@@ -14393,5 +14393,33 @@
     "image_path": "/images/posts/2026-05-05-image-ai-drives-app-growth-revenue-challenge-2026.jpg",
     "created_at": "2026-05-05T14:49:43.894472+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-05-openai-trial-stuart-russell-agi-arms-race",
+    "title": "OpenAI裁判で露呈したAGI軍拡競争。スチュアート・ラッセルが危惧する制御不能な未来",
+    "url": "https://ai.negi-lab.com/posts/openai-trial-stuart-russell-agi-arms-race/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI裁判 #AGI軍拡競争",
+    "tweet_text": "AIの教科書を書いた「あの」スチュアート・ラッセル教授が、ついにOpenAI裁判の証言台に立ちますね。\n\nイーロン・マスク側の証人として、今のAGI開発が「制御不能な軍拡競争」に陥っていると警鐘を鳴らしたニュース、正直震えました。SIer時代、たった一つのバグでシステムが止まる恐怖と戦ってきましたが、今のLLM開発はその比じゃないリスクを「スピード」の名の下に飲み込んでいます。\n\nラッセル教授が危惧しているのは、単なる契約違反の話ではありません。\n「相手より先にAGIを作らないと死ぬ」という企業の強迫観念が、本来必要な安全性検証をコストとして切り捨てさせている現状です。\n\n私もRTX 4090を2枚挿してローカルLLMを回していますが、中央集権AIへの依存はもはやリスクでしかないと感じる場面が増えました。APIの裏側がブラックボックス化する今、私たちは「制御可能な知能」をどう確保すべきか。\n\nみなさんは、今のAI開発スピードに恐怖を感じますか？それとも期待が勝りますか？現場でガードレール実装に苦労している方の本音も聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-05-openai-trial-stuart-russell-agi-arms-race.jpg",
+    "created_at": "2026-05-05T17:16:14.727971+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-05-intuned-agent-ai-browser-automation-review",
+    "title": "Intuned Agent 使い方と実務投入に向けたエンジニア目線の徹底検証",
+    "url": "https://ai.negi-lab.com/posts/intuned-agent-ai-browser-automation-review/",
+    "category": "TOOL",
+    "viral_tags": "#Intuned #スクレイピング",
+    "tweet_text": "スクレイピングの保守、まだセレクタの書き直しで消耗してませんか？\nSIer時代、サイト更新のたびに深夜に叩き起こされたあの苦痛。Intuned Agentを触ってみて、ついにあの負の連鎖が終わる確信が持てました。\n\nこのツールの凄さは、CSSセレクタを書かずに「抽出したいデータの構造（Schema）」をAIに渡すだけで、サイトのデザインが変わっても勝手に追従してくれるセルフヒーリング能力。\nPlaywrightで必死に「nth-child」や「div > span」を追いかけていた時間が馬鹿らしくなります。\n\nレスポンスに数秒のAI解析時間は乗るものの、100件のデータを安定して抜き続ける堅牢性はプロダクション環境では代えがたい。\n月額コストと相談にはなるけど、エンジニアの工数を10時間削れるなら余裕で「買い」の判断。\n\n特に動的なクラス名を生成するモダンなフロントエンドには特効薬ですね。\nただ、すべてをAI任せにするとトークン代が跳ね上がるから、どこまでを従来の手続きで書き、どこをAIに任せるかの境界線設計が腕の見せ所になりそう。\n\n皆さんの現場では、スクレイピングの保守に月どれくらい工数取られてますか？\nAI化でその時間は何に使いたいですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-05-intuned-agent-ai-browser-automation-review.jpg",
+    "created_at": "2026-05-05T17:17:19.797278+09:00",
+    "posted": false
   }
 ]
