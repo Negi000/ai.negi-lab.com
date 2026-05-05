@@ -2795,19 +2795,6 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 04 May 2026 21:53:21 +0000",
-      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. It's relationship with OpenAI is deep and rich.",
-      "extra": {},
-      "collected_at": "2026-05-05T07:11:23"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Image AI models now drive app growth, beating chatbot upgrades",
       "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
       "primary_category": "NEWS",
@@ -2887,7 +2874,61 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t3i219/the_more_i_use_it_the_more_im_impressed/\"> <img alt=\"The more I use it, the more I'm impressed\" src=\"https://preview.redd.it/vk77gi3li4zg1.png?width=140&amp;height=52&amp;auto=webp&amp;s=d495efa778eb0f5c9cc04e7fc39a31f4c4524a52\" title=\"The more I use it, the more I'm impressed\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Qwen 3.6 27b vs Codex GPT 5.5 / Claude Opus 4.7</p> <p>My local llm discovered a bug that ",
       "extra": {},
       "collected_at": "2026-05-05T07:11:28"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 05 May 2026 03:31:54 +0000",
+      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+      "extra": {},
+      "collected_at": "2026-05-05T12:35:29"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "FastDMS: 6.4X KV-cache compression running faster than vLLM BF16/FP8",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3vlrx/fastdms_64x_kvcache_compression_running_faster/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-04T21:38:24+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Last year researchers affiliated with NVIDIA, University of Warsaw, and University of Edinburgh published <a href=\"https://arxiv.org/abs/2506.05345\">Dynamic Memory Sparsification (DMS)</a>, a KV-cache sparsification technique using learned per-head token eviction, reporting up to 8x KV-cache compression.</p> <p>I found the results intriguing to build a small reference implementation and trainer to sanity-check the idea. On WikiText-2 with Llama 3.2 1B, I was abl",
+      "extra": {},
+      "collected_at": "2026-05-05T12:35:33"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I have practically unlimited access to Opus and every other frontier model. I'd like to help contribute to a dataset.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t42qle/i_have_practically_unlimited_access_to_opus_and/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-05-05T02:38:01+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Edit:</strong><br /> Spoke to the one and only <a href=\"/u/TheLocalDrummer\">u/TheLocalDrummer</a> who informed me that due to the method of access and the way in which I maintain it, the method I have would not produce ideal results. I'll be checking messages if anyone else is proposing something interesting, but it sounds like what I have may not be the best setup for this. I'll likely delete this in a few hours as to not appear as though I'm trying to ",
+      "extra": {},
+      "collected_at": "2026-05-05T12:35:33"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "vLLM Just Merged TurboQuant Fix for Qwen 3.5+",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3zu7u/vllm_just_merged_turboquant_fix_for_qwen_35/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-05-05T00:30:24+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Previously it was throwing a 'Not Implemented' error due to Mamba layers. Going to test it now!</p> <p><a href=\"https://github.com/vllm-project/vllm/pull/39931\">https://github.com/vllm-project/vllm/pull/39931</a></p> <p>Edit: Works with Qwen 3.6, tested with 27B<br /> Can be used with argument;</p> <pre><code>--kv-cache-dtype turboquant_4bit_nc </code></pre> <p>Other available options;</p> <ul> <li>turboquant_k8v4</li> <li>turboquant_4bit_nc</li> <li>turboquant_",
+      "extra": {},
+      "collected_at": "2026-05-05T12:35:33"
     }
   ],
-  "updated_at": "2026-05-05T07:11:28.278055+09:00"
+  "updated_at": "2026-05-05T12:35:33.628693+09:00"
 }
