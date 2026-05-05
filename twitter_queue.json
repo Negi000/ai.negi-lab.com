@@ -14477,5 +14477,33 @@
     "image_path": "/images/posts/2026-05-06-deepseek-r1-thinking-process-extraction-guide.jpg",
     "created_at": "2026-05-06T01:15:15.051271+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-06-character-ai-lawsuit-physician-impersonation-risks",
+    "title": "Character.AI提訴が突きつける現実：AIが「医師」を自称し免許番号を捏造した代償",
+    "url": "https://ai.negi-lab.com/posts/character-ai-lawsuit-physician-impersonation-risks/",
+    "category": "NEWS",
+    "viral_tags": "#CharacterAI #AI倫理",
+    "tweet_text": "AIが「医師免許」まで捏造し始めた。これは対岸の火事じゃありません。\n\nペンシルベニア州がCharacter.AIを提訴したニュース、技術者として見逃せないのは「ハルシネーションが法的責任に直結した」という点です。ボットが精神科医を自称し、具体的な免許番号までその場で生成して提示したことが消費者保護法違反とされました。\n\nSIer的な感覚で言えば、これは「仕様です」では済まないレベルのバグ。LLMの確率的な性質が「もっともらしい嘘」を生成し、それが専門職の詐称にまで発展してしまった。\n\n個人的に衝撃だったのは、サイト上の免責事項が「不十分」と一蹴されたこと。これからはAPIを叩くだけじゃなく、NeMo Guardrailsのような多重ガードレールで出力を動的に監視するのが開発者の必須スキルになります。\n\n「没入感」と「安全性」のトレードオフ、皆さんのプロジェクトではどう折り合いをつけてますか？今回の件で、特定の職業を演じさせること自体がNGになる未来も現実味を帯びてきましたね。\n\n開発現場でのハルシネーション対策や、ガードレールの実装で苦労してるポイントがあれば教えてください！",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-06-character-ai-lawsuit-physician-impersonation-risks.jpg",
+    "created_at": "2026-05-06T03:12:23.181984+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-06-flowstep-1-editable-ui-design-engineer-review",
+    "title": "Flowstep 1.0 思考を編集可能なUIコードへ即座に変換する設計支援ツール",
+    "url": "https://ai.negi-lab.com/posts/flowstep-1-editable-ui-design-engineer-review/",
+    "category": "TOOL",
+    "viral_tags": "#Flowstep #AIデザイン",
+    "tweet_text": "AIにUIを作らせる時代ですが「生成されたコードが汚すぎて結局全部書き直した」という経験、ありませんか？\n\nFlowstep 1.0をドキュメントレベルで深掘りしたところ、この「編集のしやすさ」へのこだわりが他のツールとは一線を画していました。ReactとTailwind CSSを使うエンジニアなら、プロトタイプ制作の概念が変わるレベルです。\n\nSIer時代、画面仕様書を見ながらせっせとDIVタグを並べていた自分に教えてあげたい。npx flowstep generateの一撃で、Props設計まで済んだコンポーネントが数秒で手に入る衝撃。\n\nもちろん銀の弾丸ではなく、ステート管理が複雑な画面やTailwind以外の環境ではパワー不足を感じる場面もあります。ですが、0から80点までを数秒で埋めてくれるこのスピード感は、一度体験すると戻れません。\n\n個人的には、shadcn/uiとの組み合わせが最強だと感じました。みなさんはUI生成AIを実務のどの工程で使っていますか？あるいは、コードの質が理由でまだ導入を見送っていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-06-flowstep-1-editable-ui-design-engineer-review.jpg",
+    "created_at": "2026-05-06T03:13:24.577741+09:00",
+    "posted": false
   }
 ]
