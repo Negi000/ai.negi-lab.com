@@ -14449,5 +14449,33 @@
     "image_path": "/images/posts/2026-05-05-ghostwriter-v5-ai-social-media-automation-review.jpg",
     "created_at": "2026-05-05T19:47:41.203654+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-06-openclick-macos-gui-automation-agent-review",
+    "title": "Openclick レビュー：プロンプトをmacOSのクリック操作に変換する自動化エージェントの実力",
+    "url": "https://ai.negi-lab.com/posts/openclick-macos-gui-automation-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#Openclick #AIエージェント",
+    "tweet_text": "SIer時代、GUIの自動化といえば地獄のAppleScriptや座標指定のPythonスクリプト。アプリが1ミリ更新されただけで壊れるあの絶望感、エンジニアなら分かりますよね。\n\nOpenclickを試してみましたが、これは「GUI操作のパラダイムシフト」と言っていい。LLMが画面を視覚的に理解して、プロンプトから直接クリックやタイピングを生成します。もはやXPathや要素IDを探す必要はありません。\n\nもちろん銀の弾丸ではなく、1アクションごとに数秒の推論待ちがあるし、API料金もバカにならない。でも「APIが公開されていないレガシーな業務ソフト」を強引に自動化できる破壊力は凄まじいです。\n\nプライバシー重視ならローカルLLM連携が課題ですが、Macユーザーのルーチンワークを消し飛ばす可能性は十分。皆さんはGUI自動化に何を使ってますか？やはりPlaywrightなどのコードベースが安定ですかね？それともこの手のエージェントに移行しつつありますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-06-openclick-macos-gui-automation-agent-review.jpg",
+    "created_at": "2026-05-06T01:14:09.988289+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-06-deepseek-r1-thinking-process-extraction-guide",
+    "title": "DeepSeek-R1の思考プロセスを抽出して制御するPython実装ガイド",
+    "url": "https://ai.negi-lab.com/posts/deepseek-r1-thinking-process-extraction-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#DeepSeekR1 #ローカルLLM",
+    "tweet_text": "DeepSeek-R1の登場でLLMの使い方が根本から変わりましたね。\n\nSIer時代、AIの回答がなぜそうなったのかを顧客に説明するのに苦労しましたが、今の「推論型モデル」なら思考プロセスが丸見えです。ただ、APIを叩くと思考ログと回答が混ざって返ってくるのが難点。\n\nそこで、Pythonを使ってリアルタイムに「思考」と「結論」を分離して表示する実用的なスクリプトを組んでみました。\nDeepSeek公式APIのreasoning_contentだけでなく、Ollama等でのタグ抽出にも応用できる設計にしています。\n\n思考プロセスをパースできれば、論理矛盾を検知して自己修正させるエージェントも作れます。RTX 4090 2枚挿し環境で色々試しましたが、思考ログをログとして保存しておくだけでも、プロンプトのデバッグ効率が3倍は変わります。\n\n皆さんは、モデルの思考プロセスをそのままユーザーに見せていますか？それとも裏側でログとして活用していますか？実際のプロダクトでの見せ方について、現場の意見を聞いてみたいです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-06-deepseek-r1-thinking-process-extraction-guide.jpg",
+    "created_at": "2026-05-06T01:15:15.051271+09:00",
+    "posted": false
   }
 ]
