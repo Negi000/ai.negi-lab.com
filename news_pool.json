@@ -1,73 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "We decreased our LLM costs with Opus",
-      "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 29 Apr 2026 00:57:12 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-04-29T12:49:25"
-    },
-    {
-      "source": "Google News",
-      "title": "週刊生成AI with AWS – 2026/4/20 週 - Amazon Web Services",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BWTVqOVYxblkyNGwzZDFnVWNvcGVoVHU2LW9MOE1UZTk0d0NxaV9lbFhBdFlraFFIRzRYdXhlTmVFZkhxZXFicW05NHJ6bUxWSkwzSXFUM0pFeDFjS0E4T2VDUzFfMm1YN3R3?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Mon, 27 Apr 2026 06:02:51 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5BWTVqOVYxblkyNGwzZDFnVWNvcGVoVHU2LW9MOE1UZTk0d0NxaV9lbFhBdFlraFFIRzRYdXhlTmVFZkhxZXFicW05NHJ6bUxWSkwzSXFUM0pFeDFjS0E4T2VDUzFfMm1YN3R3?oc=5\" target=\"_blank\">週刊生成AI with AWS – 2026/4/20 週</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amazon Web Services</font>",
-      "extra": {},
-      "collected_at": "2026-04-29T12:49:26"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "OrcaSheets AI Reports",
-      "url": "https://www.producthunt.com/products/orcasheets",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Query data to build dashboards and generate detailed reports </p> <p> <a href=\"https://www.producthunt.com/products/orcasheets?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1132742?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-29T12:49:26"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Famnest",
-      "url": "https://www.producthunt.com/products/famnest",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Private family hub for schedules, health, and shared bills </p> <p> <a href=\"https://www.producthunt.com/products/famnest?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1129322?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-29T12:49:26"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Why isn’t LLM reasoning done in vector space instead of natural language?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1syjidd/why_isnt_llm_reasoning_done_in_vector_space/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-29T00:42:31+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Why don’t LLMs use explicit vector-based reasoning instead of language-based chain-of-thought? What would happen if they did?</strong></p> <p>Most LLM reasoning we see is expressed through language: step-by-step text, explanations, chain-of-thought style outputs, etc. But internally, models already operate on high-dimensional vectors.</p> <p>So my question is:</p> <p>Why don’t we have models that reason more explicitly in latent/vector space instead of p",
-      "extra": {},
-      "collected_at": "2026-04-29T12:49:28"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Lovable launches its vibe-coding app on iOS and Android",
       "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
@@ -2811,19 +2744,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Velo 2.0",
-      "url": "https://www.producthunt.com/products/velo-4",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Instantly turn your voice and screen into shareable videos </p> <p> <a href=\"https://www.producthunt.com/products/velo-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1138905?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-05-06T03:11:42"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Breathwrk",
       "url": "https://www.producthunt.com/products/breathwrk",
       "primary_category": "TOOL",
@@ -2862,20 +2782,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>recently <a href=\"https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates\">froggeric</a> and <a href=\"https://github.com/allanchan339/vLLM-Qwen3-3.5-3.6-chat-template-fix\">allanchan339</a> released enhanced/fixed template for Qwen3.6 each one addressing different topics.<br /> I didn't know which one to use so I merged both with the help of Claude Opus to have the best of both.</p> <p>I've uploaded it to this gist<br /> <a href=\"https://gist.github",
       "extra": {},
       "collected_at": "2026-05-06T03:11:45"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Tue, 05 May 2026 20:56:41 +0000",
-      "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
-      "extra": {},
-      "collected_at": "2026-05-06T07:09:35"
     },
     {
       "source": "TechCrunch AI",
@@ -2944,7 +2850,59 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m not a coder, but I run local models. I gave in to agent hype (I was building my own, but there is so much to do) and installed Hermes. Running with Qwen-397b out of a 2 spark cluster.<br /> So…I asked Hermes today to tally the token count, and the result…200 million tokens. In 5 days.</p> <p>At this rate, using an agent for tasks like installing software and debugging things I want to try out, what is the cost I am saving? Artificial Analysis says the price ",
       "extra": {},
       "collected_at": "2026-05-06T07:09:40"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 05 May 2026 23:50:10 +0000",
+      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+      "extra": {},
+      "collected_at": "2026-05-06T12:50:42"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+      "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 05 May 2026 22:57:41 +0000",
+      "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying data siloed across spreadsheets and legacy systems.",
+      "extra": {},
+      "collected_at": "2026-05-06T12:50:42"
+    },
+    {
+      "source": "Google News",
+      "title": "米政府、Google・Microsoft・xAIのAIモデルを公開前に審査へ：「国家安全保障テスト」体制の全貌 - XenoSpectrum",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWxMTU9tbHVxYTM4LW15cnBIc0NfV3dpcWE3Qk9oZ2JKWkdUSUROMERaUml4dXNVa3ZVUVZFbVR2aUx5dmRlNjhVdUl6MTNITjhzaFNlYWtNSW4yS01KRkhCbVpLdVMyLUl5eUh2N3QxaUdia24wcWNYM3QxTFJRWUlDaTNVZ3M0NXVOUHZYSVdFQzFqdzlFWHNn?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 05 May 2026 21:54:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWxMTU9tbHVxYTM4LW15cnBIc0NfV3dpcWE3Qk9oZ2JKWkdUSUROMERaUml4dXNVa3ZVUVZFbVR2aUx5dmRlNjhVdUl6MTNITjhzaFNlYWtNSW4yS01KRkhCbVpLdVMyLUl5eUh2N3QxaUdia24wcWNYM3QxTFJRWUlDaTNVZ3M0NXVOUHZYSVdFQzFqdzlFWHNn?oc=5\" target=\"_blank\">米政府、Google・Microsoft・xAIのAIモデルを公開前に審査へ：「国家安全保障テスト」体制の全貌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
+      "extra": {},
+      "collected_at": "2026-05-06T12:50:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I know this isn’t technically an LLM but OmniVoice is FUCKING AMAZING.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t4rst5/i_know_this_isnt_technically_an_llm_but_omnivoice/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-05-05T20:41:56+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Literally one shot voice cloning and it’s literally so easy. What the FUCK. It’s everything I’ve ever dreamed of.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Borkato\"> /u/Borkato </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t4rst5/i_know_this_isnt_technically_an_llm_but_omnivoice/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t4rst5/i_know_this_isnt_tec",
+      "extra": {},
+      "collected_at": "2026-05-06T12:50:53"
     }
   ],
-  "updated_at": "2026-05-06T07:09:40.327247+09:00"
+  "updated_at": "2026-05-06T12:50:53.775399+09:00"
 }
