@@ -14449,5 +14449,19 @@
     "image_path": "/images/posts/2026-05-05-ghostwriter-v5-ai-social-media-automation-review.jpg",
     "created_at": "2026-05-05T19:47:41.203654+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-05-07-local-deep-research-hardware-guide-rtx-mac",
+    "title": "ローカルLLMで「Deep Research（深層リサーチ）」を完結させる時代が来ました。",
+    "url": "https://ai.negi-lab.com/posts/local-deep-research-hardware-guide-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "ローカルLLMでDeep Researchを完結させる時代。GitHubで話題のlocal-deep-research、SimpleQA正答率95%は驚異的。\n実務で使うならVRAM 24GBのRTX 3090/4090かMac 64GB以上が必須。8GB/12GB環境で妥協すると推論ミスで時間を溶かします。\nプライバシー死守しつつarXivやPubMedをAIに深掘りさせるなら、今こそGPU投資の時。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-07-local-deep-research-hardware-guide-rtx-mac.jpg",
+    "created_at": "2026-05-07T07:05:36.777407+09:00",
+    "posted": false
   }
 ]
