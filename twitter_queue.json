@@ -14561,5 +14561,33 @@
     "image_path": "/images/posts/2026-05-06-altara-secures-7m-bridge-physical-science-data-gap.jpg",
     "created_at": "2026-05-06T15:11:31.114460+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-06-qutwo-peter-sarlin-sovereign-ai-valuation",
+    "title": "AMDにSilo AIを6億6500万ドルで売却した直後のPeter Sarlinが、新会社「QuTwo」でエンジェルラウンドにして3億8000万ドルの時価総額を叩き出した事実は、現在のAI投資が「モデルの性能」から「主権とハードウェアの統合」へシフトしたことを意味しています。",
+    "url": "https://ai.negi-lab.com/posts/qutwo-peter-sarlin-sovereign-ai-valuation/",
+    "category": "NEWS",
+    "viral_tags": "#QuTwo #SovereignAI",
+    "tweet_text": "AI業界の評価軸が「モデルの賢さ」から「技術的主権」へ明確にシフトしましたね。\n\nAMDにSilo AIを売却した直後のPeter Sarlinが、新会社「QuTwo」で時価総額3.8億ドルを叩き出しました。しかもこれ、製品前のエンジェルラウンドの話です。\n\n単なるLLMブームの再来ではありません。核心は「量子コンピューティング × 欧州製AIスタック」。米中ビッグテックに依存し切った今の開発環境に対し、ハードウェアレベルで主権を取り戻そうとする極めて政治的かつ技術的な挑戦です。\n\nSIer時代、海外製ツールの仕様変更一つに振り回された経験がある身としては、この「主権的AI」というキーワードは他人事とは思えません。NVIDIAのGPUを並べるだけの物量作戦から、アルゴリズムの効率で殴り勝つフェーズへ。\n\n今のうちに量子・古典ハイブリッドの概念を頭に入れておかないと、数年後の開発スタンダードから置いていかれる予感がしています。\n\n皆さんは、自社のデータやプロダクトが特定の海外プラットフォームに依存しすぎている現状を、どうリスク評価していますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-06-qutwo-peter-sarlin-sovereign-ai-valuation.jpg",
+    "created_at": "2026-05-06T17:31:48.703943+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-06-moar-ai-document-parser-review",
+    "title": "moar 使い方と実務評価：RAGの精度を劇的に変えるドキュメント構造化ツール",
+    "url": "https://ai.negi-lab.com/posts/moar-ai-document-parser-review/",
+    "category": "TOOL",
+    "viral_tags": "#LLM #RAG",
+    "tweet_text": "RAGの精度が上がらないと悩んでいるなら、LLMのモデルを変える前に「PDFのパース方法」を見直すべきです。\n最近検証した「moar」というツールが、ドキュメントの構造化において非常に優秀でした。\n\nSIer時代、PDFの表組みが崩れて正規表現で格闘していた自分に教えてあげたい…。\n多くのライブラリが「テキストを抜き出すだけ」なのに対し、moarはレイアウトを解析して完璧なMarkdownを吐き出します。\n特にテーブル抽出の精度が異次元で、結合セルも崩れずにLLMへ渡せるのが強み。\n\nRAGの回答精度は、検索エンジンの性能よりも、結局は「どれだけ綺麗なデータをベクトルDBに入れたか」で決まります。\n月額コストはかかりますが、エンジニアの数週間分の工数を数秒のAPIコールで代替できると考えれば、実務的には「買い」の一択。\n\n中級以上のエンジニア向けに、具体的なPythonでの実装例と比較レビューをまとめました。\n複雑な仕様書やマニュアルをAIに読み込ませたい方は、一度パース結果を比較してみることをおすすめします。\nみなさんはドキュメントのパース、どのツールで落ち着いていますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-06-moar-ai-document-parser-review.jpg",
+    "created_at": "2026-05-06T17:32:50.237127+09:00",
+    "posted": false
   }
 ]
