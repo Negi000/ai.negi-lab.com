@@ -4,10 +4,11 @@ Negi AI Lab - Auto Article Generator
 =====================================
 AIトレンド特化型の全自動ニュースサイト記事生成エンジン
 
-カテゴリー構成比率:
-  - NEWS (速報): 40%
-  - TOOL (ツール検証): 40%
-  - GUIDE (解説/ガイド): 20%
+カテゴリー構成比率（2026-05 収益重視へ再設計）:
+    - MONEY (購買・比較・収益記事): 最優先
+    - GUIDE (ローカルLLM/AI開発の実践ガイド): SEO資産
+    - TOOL (AI開発ツール検証): 準収益記事
+    - NEWS (速報): 話題化・内部リンク用に限定
 
 フォールバック機能により、ネタ不足時は次カテゴリーで補填し、
 必ず指定された合計記事数を確保する。
@@ -40,8 +41,6 @@ import requests
 from bs4 import BeautifulSoup
 
 import google.generativeai as genai
-from google import genai as genai_new
-from google.genai import types as genai_types
 
 # Twitter投稿用 (オプション)
 try:
@@ -64,18 +63,19 @@ except Exception:
 
 JST = timezone(timedelta(hours=9))
 SLEEP_SECONDS_PER_ARTICLE = 30
-DEFAULT_TOTAL_ARTICLES = 2  # 1回の実行で2記事生成
+DEFAULT_TOTAL_ARTICLES = 1  # 量産より収益意図と品質を優先
 SITE_BASE_URL = "https://ai.negi-lab.com"
 
 # 日次リセット時刻（JST 02:00 = 海外速報をキャッチしやすい時間）
 DAILY_RESET_HOUR = 2
 
 # 1日の目標記事数（カテゴリー別）
-# 8回実行 × 2記事 = 16記事/日（5M imp目標達成のため増量）
+# 月3万円の収益化を優先し、NEWS量産から購買意図の強いMONEY/GUIDEへ寄せる。
 DAILY_TARGETS = {
-    "NEWS": 7,   # 速報ニュース（鮮度重視・最もインプ稼げる）
-    "TOOL": 5,   # ツール紹介
-    "GUIDE": 4,  # 解説記事（SEOロングテール流入用）
+    "MONEY": 2,  # 楽天/Amazon導線のある比較・購入前ガイド
+    "GUIDE": 2,  # ローカルLLM/AI開発のSEOロングテール資産
+    "TOOL": 2,   # AI開発ツールの実務レビュー
+    "NEWS": 1,   # 話題化・内部リンク用。収益記事へ送客する燃料
 }
 
 # ============================================================
@@ -116,6 +116,15 @@ PERSONA = {
 # 選定基準：実績データで平均imp60以上のタグを優先
 # 低パフォーマー削除: #DX推進(22), #エンジニアと繋がりたい(17), #スタートアップ(24)
 NICHE_HASHTAGS_STR = {
+    "MONEY": [
+        "#ローカルLLM",
+        "#個人開発",
+        "#エンジニア",
+        "#業務効率化",
+        "#生産性向上",
+        "#機械学習",
+        "#リモートワーク",
+    ],
     "NEWS": [
         "#AppleIntelligence",  # 平均imp=91
         "#機械学習",            # 平均imp=84
@@ -148,8 +157,8 @@ NICHE_HASHTAGS_STR = {
     ],
 }
 
-# 固定タグ（全投稿に付与）
-# #個人開発(平均imp=57) + #エンジニア(平均imp=64) が実績上位
+# 固定タグ（補完用。URL直貼りだけの投稿を避け、最大2個に抑える）
+# 実績: #個人開発/#エンジニア/#ローカルLLM が高相性
 FIXED_HASHTAGS = ["#個人開発", "#エンジニア"]
 
 # ============================================================
@@ -179,6 +188,8 @@ PRIMARY_NEWS_FEEDS = [
 HACKER_NEWS_FEEDS = [
     {"url": "https://hnrss.org/newest?q=GPT+OR+LLM+OR+Claude+OR+Gemini&points=50", "name": "HN AI Hot", "min_points": 50},
     {"url": "https://hnrss.org/newest?q=OpenAI+OR+Anthropic+OR+AI+agent&points=30", "name": "HN AI Companies", "min_points": 30},
+    {"url": "https://hnrss.org/newest?q=Ollama+OR+llama.cpp+OR+local+LLM+OR+MLX&points=20", "name": "HN Local AI", "min_points": 20},
+    {"url": "https://hnrss.org/newest?q=Claude+Code+OR+Cursor+OR+Aider+OR+agentic+engineering&points=20", "name": "HN AI Coding", "min_points": 20},
 ]
 
 # Reddit（トレンド・コミュニティ）
@@ -186,6 +197,9 @@ REDDIT_FEEDS = [
     {"url": "https://www.reddit.com/r/MachineLearning/hot/.rss", "name": "r/MachineLearning", "category": "NEWS"},
     {"url": "https://www.reddit.com/r/artificial/hot/.rss", "name": "r/artificial", "category": "NEWS"},
     {"url": "https://www.reddit.com/r/LocalLLaMA/hot/.rss", "name": "r/LocalLLaMA", "category": "GUIDE"},
+    {"url": "https://www.reddit.com/r/LocalLLaMA/top/.rss?t=week", "name": "r/LocalLLaMA Weekly", "category": "MONEY"},
+    {"url": "https://www.reddit.com/r/ollama/hot/.rss", "name": "r/ollama", "category": "MONEY"},
+    {"url": "https://www.reddit.com/r/LocalLLM/hot/.rss", "name": "r/LocalLLM", "category": "MONEY"},
     {"url": "https://www.reddit.com/r/ChatGPT/hot/.rss", "name": "r/ChatGPT", "category": "NEWS"},
     {"url": "https://www.reddit.com/r/singularity/hot/.rss", "name": "r/singularity", "category": "NEWS"},
 ]
@@ -197,6 +211,21 @@ PRESS_RELEASE_KEYWORDS = [
     "ニフティニュース", "VOI.id", "excite.co.jp",
 ]
 
+# 収益化・検索意図が強いテーマ。自前CSV（ローカルLLM/RTXが高CTR）と
+# GitHub Trending/HNで強いAI Agent・AI Coding・オンデバイスAIを合わせて採用。
+REVENUE_INTENT_KEYWORDS = [
+    "local llm", "ローカルllm", "ollama", "llama.cpp", "mlx", "gguf", "qwen", "gemma",
+    "vram", "rtx", "gpu", "nvidia", "apple silicon", "macbook", "mac studio", "m5", "m4",
+    "claude code", "cursor", "aider", "cline", "github copilot", "ai coding", "agentic engineering",
+    "ai agent", "agent", "rag", "vector database", "embedding", "音声認識", "tts", "video ai",
+    "料金", "価格", "月額", "無料", "比較", "おすすめ", "レビュー", "使い方", "導入", "構築",
+]
+
+LOW_REVENUE_NEWS_KEYWORDS = [
+    "funding", "資金調達", "raises", "raised", "ipo", "買収", "acquisition",
+    "lawsuit", "訴訟", "regulation", "規制", "policy", "人事", "ceo", "politics",
+]
+
 # 時間帯別優先度（JST時刻 → 優先カテゴリーリスト）
 # 深夜2時: 海外速報キャッチでNEWS最優先
 # 朝8時: 通勤時間、NEWS + TOOL
@@ -205,12 +234,12 @@ PRESS_RELEASE_KEYWORDS = [
 # 夕方18時: 帰宅時間、NEWS + TOOL
 # 夜21時: じっくり読むGUIDE
 TIME_SLOT_PRIORITIES = {
-    2:  ["NEWS", "TOOL", "GUIDE"],   # 海外速報優先
-    8:  ["NEWS", "TOOL", "GUIDE"],   # 朝はNEWS
-    12: ["TOOL", "NEWS", "GUIDE"],   # 昼はTOOL
-    15: ["TOOL", "NEWS", "GUIDE"],   # 午後はTOOL
-    18: ["NEWS", "TOOL", "GUIDE"],   # 夕方はNEWS
-    21: ["GUIDE", "TOOL", "NEWS"],   # 夜はGUIDE
+    2:  ["MONEY", "GUIDE", "TOOL", "NEWS"],  # 海外トレンドを収益記事へ変換
+    8:  ["MONEY", "GUIDE", "TOOL", "NEWS"],  # 朝は保存される実用記事
+    12: ["TOOL", "MONEY", "GUIDE", "NEWS"],  # 昼はツール・比較
+    15: ["GUIDE", "MONEY", "TOOL", "NEWS"],  # 午後はHow-to
+    18: ["MONEY", "TOOL", "GUIDE", "NEWS"],  # 帰宅時間は購買/比較導線
+    21: ["GUIDE", "MONEY", "TOOL", "NEWS"],  # 夜はじっくり読む導入記事
 }
 
 # ネタプールの保持期間（日数）
@@ -242,12 +271,21 @@ PRODUCT_MAPPINGS = {
     },
     # ローカルLLM関連 - ミニPC需要高い
     "local_llm": {
-        "keywords": ["ollama", "llama", "ローカルllm", "local llm", "llama.cpp", "gguf", "量子化"],
+        "keywords": ["ollama", "llama", "ローカルllm", "local llm", "llama.cpp", "gguf", "量子化", "qwen", "gemma", "mlx"],
         "products": [
-            {"name": "MINISFORUM UM780 XTX", "search": "MINISFORUM UM780 XTX", "desc": "Ryzen7・32GB RAM・ローカルLLM最適"},
-            {"name": "Intel NUC 13 Pro", "search": "Intel NUC 13 Pro ミニPC", "desc": "コンパクト＆高性能"},
+            {"name": "MINISFORUM UM790 Pro", "search": "MINISFORUM UM790 Pro 64GB", "desc": "省スペースでOllama検証を始めやすい"},
+            {"name": "RTX 4060 Ti 16GB", "search": "RTX 4060 Ti 16GB", "desc": "VRAM 16GBで9B〜14B級LLMの入門に現実的"},
         ],
         "category": "ミニPC"
+    },
+    # Apple Silicon/MLX - ローカルAI需要が強い
+    "apple_silicon": {
+        "keywords": ["apple silicon", "mlx", "macbook", "mac studio", "m4", "m5", "unified memory", "統一メモリ"],
+        "products": [
+            {"name": "Mac mini 32GB", "search": "Mac mini 32GB Apple Silicon", "desc": "MLX/Ollama入門に扱いやすい省電力Mac"},
+            {"name": "MacBook Pro 36GB", "search": "MacBook Pro 36GB", "desc": "外出先でもローカルAI検証を回しやすい"},
+        ],
+        "category": "Apple Silicon"
     },
     # Python/プログラミング - 周辺機器が売れる
     "python": {
@@ -296,12 +334,30 @@ PRODUCT_MAPPINGS = {
     },
     # エージェント/自動化 - 作業効率化
     "agent": {
-        "keywords": ["agent", "エージェント", "autogpt", "crew", "自動化", "ワークフロー", "mcp"],
+        "keywords": ["agent", "エージェント", "autogpt", "crew", "自動化", "ワークフロー", "mcp", "claude code", "cursor", "aider", "cline"],
         "products": [
             {"name": "Logicool MX Master 3S", "search": "Logicool MX Master 3S", "desc": "ジェスチャー＋静音・作業効率UP"},
             {"name": "ウルトラワイドモニター", "search": "LG 34WQ75C-B 34インチ", "desc": "マルチウィンドウ作業が捗る"},
         ],
         "category": "効率化ガジェット"
+    },
+    # AIコーディング/開発環境 - 保存・比較・購入意図が強い
+    "ai_coding": {
+        "keywords": ["claude code", "cursor", "github copilot", "aider", "cline", "devin", "ai coding", "コーディングエージェント"],
+        "products": [
+            {"name": "Dell U2723QE", "search": "Dell U2723QE 27インチ 4K", "desc": "AIレビューとコードを並べるなら4Kが効く"},
+            {"name": "HHKB Type-S", "search": "HHKB Professional HYBRID Type-S", "desc": "長時間のAIコーディング作業に向く定番"},
+        ],
+        "category": "AI開発環境"
+    },
+    # AI動画/音声 - クリエイター・副業導線
+    "ai_media": {
+        "keywords": ["動画生成", "video ai", "sora", "runway", "pika", "pixverse", "音声合成", "tts", "文字起こし", "whisper"],
+        "products": [
+            {"name": "SHURE MV7+", "search": "SHURE MV7+ USB マイク", "desc": "音声AI/収録/文字起こしの入力品質を上げる"},
+            {"name": "Samsung T7 Shield", "search": "Samsung T7 Shield 2TB", "desc": "動画生成素材と出力の保存先に高速SSD"},
+        ],
+        "category": "AIメディア制作"
     },
     # クラウド/インフラ - サーバー機材
     "cloud": {
@@ -346,6 +402,7 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 
 
 class Category(Enum):
+    MONEY = "MONEY"
     NEWS = "NEWS"
     TOOL = "TOOL"
     GUIDE = "GUIDE"
@@ -369,9 +426,11 @@ def get_current_priority() -> List[Category]:
         next_slot = slots[(i + 1) % len(slots)]
         if slot <= hour < next_slot or (next_slot < slot and (hour >= slot or hour < next_slot)):
             priority_strs = TIME_SLOT_PRIORITIES[slot]
-            return [Category(s) for s in priority_strs]
+            priority = [Category(s) for s in priority_strs]
+            return priority + [cat for cat in Category if cat not in priority]
     priority_strs = TIME_SLOT_PRIORITIES[slots[0]]
-    return [Category(s) for s in priority_strs]
+    priority = [Category(s) for s in priority_strs]
+    return priority + [cat for cat in Category if cat not in priority]
 
 
 @dataclass
@@ -454,6 +513,17 @@ class DailyStatsStore:
                 print(f"  [INFO] New day detected (reset at 02:00 JST), resetting daily stats")
                 self._data = self._new_day_data()
                 self._dirty = True
+            else:
+                # カテゴリー構成変更（MONEY追加など）に追従
+                self._data.setdefault("generated", {})
+                self._data.setdefault("targets", {})
+                for cat, target in DAILY_TARGETS.items():
+                    if cat not in self._data["generated"]:
+                        self._data["generated"][cat] = 0
+                        self._dirty = True
+                    if self._data["targets"].get(cat) != target:
+                        self._data["targets"][cat] = target
+                        self._dirty = True
         except Exception:
             self._data = self._new_day_data()
         return self._data
@@ -461,7 +531,7 @@ class DailyStatsStore:
     def _new_day_data(self) -> Dict:
         return {
             "date": get_daily_date(),
-            "generated": {"NEWS": 0, "TOOL": 0, "GUIDE": 0},
+            "generated": {cat: 0 for cat in DAILY_TARGETS},
             "targets": DAILY_TARGETS.copy(),
         }
 
@@ -470,7 +540,7 @@ class DailyStatsStore:
         if not self._data:
             self.load()
         remaining = {}
-        for cat in ["NEWS", "TOOL", "GUIDE"]:
+        for cat in DAILY_TARGETS:
             target = self._data["targets"].get(cat, 0)
             generated = self._data["generated"].get(cat, 0)
             remaining[cat] = max(0, target - generated)
@@ -480,9 +550,10 @@ class DailyStatsStore:
         """カテゴリーの生成数を+1"""
         if not self._data:
             self.load()
-        if category in self._data["generated"]:
-            self._data["generated"][category] += 1
-            self._dirty = True
+        self._data.setdefault("generated", {})
+        self._data["generated"].setdefault(category, 0)
+        self._data["generated"][category] += 1
+        self._dirty = True
 
     def save(self) -> None:
         if self._dirty:
@@ -499,7 +570,7 @@ class DailyStatsStore:
             self.load()
         gen = self._data["generated"]
         tgt = self._data["targets"]
-        return f"NEWS {gen['NEWS']}/{tgt['NEWS']}, TOOL {gen['TOOL']}/{tgt['TOOL']}, GUIDE {gen['GUIDE']}/{tgt['GUIDE']}"
+        return ", ".join(f"{cat} {gen.get(cat, 0)}/{tgt.get(cat, 0)}" for cat in DAILY_TARGETS)
 
 
 # ============================================================
@@ -633,7 +704,8 @@ class NewsPool:
 
     def get_pool_stats(self) -> Dict[str, int]:
         """プール内の各カテゴリーのアイテム数を返す"""
-        stats = {"NEWS": 0, "TOOL": 0, "GUIDE": 0, "total": len(self._items)}
+        stats = {cat.value: 0 for cat in Category}
+        stats["total"] = len(self._items)
         for item in self._items:
             for cat in item.get("possible_categories", []):
                 if cat in stats:
@@ -667,6 +739,7 @@ class NewsCollector:
         "比較", "comparison", "レビュー", "review", "まとめ",
         "ベストプラクティス", "best practice", "活用", "utilize",
     ]
+    MONEY_KEYWORDS = [kw.lower() for kw in REVENUE_INTENT_KEYWORDS]
 
     def __init__(self, processed_store: ProcessedURLStore, pool: Optional[NewsPool] = None) -> None:
         self.processed_store = processed_store
@@ -710,14 +783,20 @@ class NewsCollector:
             "Product Hunt": "TOOL",
             "GitHub Trending": "TOOL",
             "Reddit": "GUIDE",
+            "r/LocalLLaMA Weekly": "MONEY",
+            "r/ollama": "MONEY",
+            "r/LocalLLM": "MONEY",
         }
         
         # キーワードマッチでカテゴリー判定
         news_score = sum(1 for kw in self.NEWS_KEYWORDS if kw.lower() in text)
         tool_score = sum(1 for kw in self.TOOL_KEYWORDS if kw.lower() in text)
         guide_score = sum(1 for kw in self.GUIDE_KEYWORDS if kw.lower() in text)
+        money_score = sum(1 for kw in self.MONEY_KEYWORDS if kw in text)
         
         # スコアが1以上ならカテゴリーに追加
+        if money_score >= 1:
+            categories.append("MONEY")
         if news_score >= 1:
             categories.append("NEWS")
         if tool_score >= 1:
@@ -731,6 +810,63 @@ class NewsCollector:
             categories.append(default)
         
         return categories
+
+    def _score_revenue_intent(self, title: str, summary: str = "", source: str = "") -> int:
+        """購買・保存・検索意図が強いネタを優先するための簡易スコア。"""
+        text = f"{title} {summary} {source}".lower()
+        score = 0
+
+        for keyword in REVENUE_INTENT_KEYWORDS:
+            if keyword.lower() in text:
+                score += 3
+
+        for keyword in ["比較", "おすすめ", "選び方", "価格", "料金", "review", "benchmark", "setup", "install"]:
+            if keyword.lower() in text:
+                score += 2
+
+        for keyword in LOW_REVENUE_NEWS_KEYWORDS:
+            if keyword.lower() in text:
+                score -= 2
+
+        if "github" in source.lower() or "hacker news" in source.lower() or source.lower().startswith("hn "):
+            score += 1
+        if "localllama" in source.lower() or "ollama" in source.lower():
+            score += 2
+
+        return score
+
+    def _rank_items(self, items: List[NewsItem], min_score: Optional[int] = None) -> List[NewsItem]:
+        """重複を落とし、収益意図スコア順に並べ替える。"""
+        deduped: List[NewsItem] = []
+        seen: set[str] = set()
+        for item in items:
+            key = item.url or item.title.lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            score = self._score_revenue_intent(item.title, item.summary, item.source)
+            item.extra.setdefault("revenue_score", score)
+            if min_score is not None and score < min_score:
+                continue
+            deduped.append(item)
+
+        return sorted(deduped, key=lambda item: item.extra.get("revenue_score", 0), reverse=True)
+
+    def _clone_for_category(self, item: NewsItem, category: Category) -> NewsItem:
+        """同じ素材を別カテゴリの記事として使うためにカテゴリだけ差し替える。"""
+        possible = list(item.possible_categories or [])
+        if category.value not in possible:
+            possible.insert(0, category.value)
+        return NewsItem(
+            source=item.source,
+            title=item.title,
+            url=item.url,
+            category=category,
+            published=item.published,
+            summary=item.summary,
+            extra=dict(item.extra),
+            possible_categories=possible,
+        )
 
     def _add_to_pool(self, item: NewsItem) -> None:
         """プールにアイテムを追加"""
@@ -766,8 +902,9 @@ class NewsCollector:
             items.extend(google_items)
             print(f"  [INFO] Google News (filtered): {len(google_items)} items")
         
+        items = self._rank_items(items)
         print(f"  [INFO] NEWS total: {len(items)} items")
-        return items
+        return items[:max_items]
 
     def _is_press_release(self, title: str, summary: str = "") -> bool:
         """プレスリリース系の低品質記事かどうか判定"""
@@ -879,7 +1016,7 @@ class NewsCollector:
                         category=Category.NEWS,
                         published=published,
                         summary="",
-                        possible_categories=[Category.NEWS],
+                        possible_categories=self._detect_possible_categories(title, "", name),
                     )
                     results.append(item)
                     self._add_to_pool(item)
@@ -932,7 +1069,7 @@ class NewsCollector:
                         category=Category.NEWS,
                         published=published,
                         summary=summary[:500],
-                        possible_categories=[Category.NEWS],
+                        possible_categories=self._detect_possible_categories(title, summary, name),
                     )
                     results.append(item)
                     self._add_to_pool(item)
@@ -1020,6 +1157,7 @@ class NewsCollector:
         items.extend(reddit_items)
         print(f"  [INFO] TOOL from Reddit: {len(reddit_items)} items")
         
+        items = self._rank_items(items)
         print(f"  [INFO] TOOL total: {len(items)} items")
 
         return items[:max_items]
@@ -1095,7 +1233,8 @@ class NewsCollector:
         # AI関連キーワードでフィルタ (拡張)
         ai_keywords = ["ai", "gpt", "llm", "machine learning", "ml", "neural",
                        "copilot", "chatbot", "automation", "generative", "assistant",
-                       "intelligence", "bot", "agent", "model", "transformer", "language"]
+                       "intelligence", "bot", "agent", "model", "transformer", "language",
+                       "local", "ollama", "mlx", "rag", "mcp", "coding", "developer", "video", "audio"]
 
         results: List[NewsItem] = []
         skipped_ai = 0
@@ -1140,7 +1279,7 @@ class NewsCollector:
 
     def _collect_github_trending(self, max_items: int) -> List[NewsItem]:
         """GitHub Trending (machine-learning) をスクレイピング"""
-        url = "https://github.com/trending?since=daily&spoken_language_code=en"
+        url = "https://github.com/trending/python?since=daily"
 
         resp = self._fetch_with_retry(url)
         if not resp:
@@ -1183,6 +1322,9 @@ class NewsCollector:
                 # クロスカテゴリー判定
                 possible_cats = self._detect_possible_categories(repo_name, description, "GitHub Trending")
 
+                if self._score_revenue_intent(repo_name, description, "GitHub Trending") < 1:
+                    continue
+
                 item = NewsItem(
                     source="GitHub Trending",
                     title=repo_name,
@@ -1224,8 +1366,93 @@ class NewsCollector:
             items.extend(fallback_items)
             print(f"  [INFO] GUIDE fallback topics: {len(fallback_items)} items")
 
+        items = self._rank_items(items)
         print(f"  [INFO] GUIDE total: {len(items)} items")
         return items[:max_items]
+
+    def collect_money(self, max_items: int = 20) -> List[NewsItem]:
+        """MONEY カテゴリー: 購買・比較・収益意図の強いネタを収集"""
+        items: List[NewsItem] = []
+
+        # Local LLM/AI Coding/Agent系の話題から、比較・購入ガイドに変換しやすいものを集める
+        hn_items = [self._clone_for_category(item, Category.MONEY) for item in self._collect_hacker_news(max_items)]
+        items.extend(hn_items)
+        print(f"  [INFO] MONEY from HN: {len(hn_items)} items")
+
+        reddit_items = [self._clone_for_category(item, Category.MONEY) for item in self._collect_reddit_money(max_items)]
+        items.extend(reddit_items)
+        print(f"  [INFO] MONEY from Reddit: {len(reddit_items)} items")
+
+        gh_items = [self._clone_for_category(item, Category.MONEY) for item in self._collect_github_trending(max_items)]
+        items.extend(gh_items)
+        print(f"  [INFO] MONEY from GitHub: {len(gh_items)} items")
+
+        items = self._rank_items(items, min_score=1)
+
+        if len(items) < max_items:
+            fallback_items = self._generate_money_topics(max_items - len(items))
+            items.extend(fallback_items)
+            print(f"  [INFO] MONEY fallback topics: {len(fallback_items)} items")
+
+        print(f"  [INFO] MONEY total: {len(items)} items")
+        return items[:max_items]
+
+    def _collect_reddit_money(self, max_items: int) -> List[NewsItem]:
+        """Redditから購入前ガイド化しやすいローカルAI系トピックを収集"""
+        results: List[NewsItem] = []
+
+        for feed_info in REDDIT_FEEDS:
+            if feed_info.get("category") != "MONEY":
+                continue
+            if len(results) >= max_items:
+                break
+
+            url = feed_info["url"]
+            name = feed_info["name"]
+
+            try:
+                resp = self._fetch_with_retry(url)
+                if not resp:
+                    continue
+
+                feed = feedparser.parse(resp.content)
+                entries = getattr(feed, "entries", []) or []
+
+                for entry in entries[:8]:
+                    if len(results) >= max_items:
+                        break
+
+                    entry_url = (getattr(entry, "link", "") or "").strip()
+                    title = (getattr(entry, "title", "") or "").strip()
+                    published = (getattr(entry, "published", "") or "").strip()
+                    summary = self._normalize_text(getattr(entry, "summary", "") or "")
+
+                    if not entry_url or not title:
+                        continue
+                    if not self._is_fresh(entry_url):
+                        continue
+
+                    possible_cats = self._detect_possible_categories(title, summary, name)
+                    if "MONEY" not in possible_cats:
+                        possible_cats.insert(0, "MONEY")
+
+                    item = NewsItem(
+                        source=name,
+                        title=title,
+                        url=entry_url,
+                        category=Category.MONEY,
+                        published=published,
+                        summary=summary[:500],
+                        possible_categories=possible_cats,
+                    )
+                    results.append(item)
+                    self._add_to_pool(item)
+
+            except Exception as e:
+                print(f"  [!] {name} fetch failed: {e}")
+                continue
+
+        return results
 
     def _collect_reddit_guides(self, max_items: int) -> List[NewsItem]:
         """Reddit AI関連サブレディットからガイド・チュートリアル系を収集"""
@@ -1348,21 +1575,16 @@ class NewsCollector:
     def _generate_guide_topics(self, count: int) -> List[NewsItem]:
         """定番ガイドトピック（フォールバック用）"""
         topics = [
-            ("ローカルLLMのセットアップガイド（2024年版）", "local-llm-setup"),
-            ("Ollama + Open WebUIで自宅AIチャットを構築する方法", "ollama-webui-setup"),
-            ("RAGパイプラインの基礎と実装入門", "rag-pipeline-intro"),
-            ("LoRAファインチューニング完全ガイド", "lora-finetuning-guide"),
-            ("LangChainでエージェントを作る方法", "langchain-agent-tutorial"),
-            ("Hugging Face Transformersクイックスタート", "hf-transformers-quickstart"),
-            ("GPT-4 APIのベストプラクティス", "gpt4-api-best-practices"),
-            ("Stable Diffusion XLプロンプトエンジニアリング", "sdxl-prompt-engineering"),
-            ("LLMのコンテキスト長を最大限活用するテクニック", "llm-context-length-tips"),
-            ("AIコーディングアシスタント徹底比較", "ai-coding-assistant-comparison"),
-            ("Gemini API入門：最初のアプリを作る", "gemini-api-getting-started"),
-            ("Claude APIの使い方とTips", "claude-api-tips"),
+            ("Ollama + Open WebUIでローカルLLM環境を作る方法", "ollama-webui-setup"),
+            ("MLXでApple SiliconローカルLLMを動かす入門", "mlx-local-llm-guide"),
+            ("Claude CodeとCursorを併用するAIコーディング環境", "claude-code-cursor-workflow"),
+            ("RAGパイプラインの基礎とローカル検索の実装", "rag-local-search-intro"),
+            ("llama.cppとGGUF量子化の基本", "llamacpp-gguf-guide"),
+            ("AIエージェントを安全に試すサンドボックス構築", "agent-sandbox-guide"),
+            ("Whisper系文字起こしをローカルで回す方法", "local-whisper-guide"),
+            ("AI動画生成ワークフローの始め方", "ai-video-workflow-guide"),
             ("ベクトルデータベース選定ガイド", "vector-db-comparison"),
             ("プロンプトインジェクション対策入門", "prompt-injection-defense"),
-            ("マルチモーダルAIの活用事例集", "multimodal-ai-use-cases"),
         ]
 
         random.shuffle(topics)
@@ -1381,7 +1603,43 @@ class NewsCollector:
                 url=fake_url,
                 category=Category.GUIDE,
                 summary="",
-                extra={"is_generated_topic": True},
+                extra={"is_generated_topic": True, "revenue_score": self._score_revenue_intent(title)},
+            ))
+
+        return results
+
+    def _generate_money_topics(self, count: int) -> List[NewsItem]:
+        """収益記事用の定番トピック（楽天/Amazon導線を作りやすい）"""
+        topics = [
+            ("ローカルLLM用GPUおすすめ比較：RTX 4060 Ti 16GBは買いか", "local-llm-gpu-rtx4060ti"),
+            ("Ollama用PCの選び方：VRAMとメモリで失敗しない構成", "ollama-pc-buying-guide"),
+            ("Mac miniでローカルLLMを始めるならメモリ何GBが正解か", "mac-mini-local-llm-memory"),
+            ("Claude Code/Cursor向け開発環境のおすすめ周辺機器", "ai-coding-desk-setup"),
+            ("AI動画生成を始める前に必要なSSD・GPU・マイク比較", "ai-video-hardware-guide"),
+            ("Whisper文字起こし用マイクおすすめと失敗しない選び方", "whisper-mic-buying-guide"),
+            ("RAG検証用ミニPCとNASの選び方", "rag-mini-pc-nas-guide"),
+            ("Apple Silicon vs NVIDIA GPU：ローカルAI環境の買い分け", "apple-silicon-vs-nvidia-local-ai"),
+            ("AIコーディング作業を速くする4Kモニターとキーボード選び", "ai-coding-monitor-keyboard"),
+            ("個人開発者向けAIサブスク費用の整理と節約ライン", "ai-subscription-cost-guide"),
+        ]
+
+        random.shuffle(topics)
+        results: List[NewsItem] = []
+
+        for title, slug in topics[:count]:
+            fake_url = f"money://{slug}-{uuid.uuid4().hex[:6]}"
+
+            if not self._is_fresh(fake_url):
+                continue
+
+            results.append(NewsItem(
+                source="Negi Lab Money",
+                title=title,
+                url=fake_url,
+                category=Category.MONEY,
+                summary="楽天/Amazon導線を前提にした購入前比較トピック",
+                extra={"is_generated_topic": True, "revenue_score": self._score_revenue_intent(title)},
+                possible_categories=["MONEY", "GUIDE"],
             ))
 
         return results
@@ -1392,78 +1650,50 @@ class NewsCollector:
 # ============================================================
 
 # Geminiプロンプト共通: ツイート生成メタデータ指示
-# アナリティクス分析（2026年1-2月 449ツイートのデータ）に基づく最適化
+# 2026-02〜04の729投稿分析 + 外部トレンド（Local LLM/AI Agent/AI Coding）に基づく最適化
 TWEET_METADATA_INSTRUCTIONS = """
 ---
 ### 【重要】メタデータ出力
 記事執筆後、以下を記事の末尾に追記してください。
 
 **1. X投稿用ツイート本文 (TWEET_TEXT)**
-記事への誘導ツイートを400〜600文字で作成。Premiumプランのため文字数制限なし。
-※URLとハッシュタグはシステムが自動付加するため、ツイート本文には含めないこと。
+X用のネイティブ投稿文を120〜220文字で作成。
+※URLとハッシュタグはシステムが必要な場合だけ自動付加するため、本文には含めないこと。
 
-【最重要: Xアルゴリズム最適化】
-Xの推薦アルゴリズム(Phoenix)のスコアリング基準：
-- P(dwell): 滞在時間 → 400-600字でじっくり読ませる（★最重要★ インプレッション直結）
-- P(favorite): いいね → 共感・驚き・有益情報で獲得
-- P(reply): リプライ → 具体的な意見や体験を問う（Yes/No質問は禁止）
-- P(repost): リポスト → 他人に教えたくなる発見や数字
-- P(click): URLクリック → 「もっと詳しく知りたい」を自然に引き出す
-- ⚠️ BOT検出信号 → テンプレ感・繰り返しパターンがあると即死（imp=1-5に激減）
+【今回の実データからの鉄則】
+- URL直貼り投稿は平均impが大きく低下。本文だけで価値が伝わる投稿にする。
+- 伸びた/クリックされたテーマは「ローカルLLM」「RTX/VRAM」「Apple Silicon」「実機検証」「料金・比較」。
+- ただのAI企業ニュース、資金調達、買収、訴訟は収益に弱い。書くなら開発者の意思決定に接続する。
+- 疑問文で始める投稿は弱い傾向。冒頭は結論・数字・具体的な違和感で入る。
 
-【データ実証済み高パフォーマンスパターン（200-434 imp達成）】
-以下は実際に高インプレッションを達成したツイートのエッセンス。
-丸コピーせず、エッセンスだけ吸収して毎回全く新しいツイートを生成すること：
+【良い構成】
+1. 冒頭: 数字・具体的な環境・結論で入る
+2. 中盤: 読者が保存したくなる判断基準を1〜3個
+3. 終盤: 無理に質問しない。必要なら「買う前にここを見る」など行動に落とす
 
-パターンA「ニュース速報＋個人的衝撃」(imp 300-434):
-→ 具体的な事実の提示 + 自分がなぜ驚いたかの理由 + 箇条書き3点で要点
-→ 例のエッセンス: "車内のSiriがChatGPTに化ける日が来るかも..." → 具体的な変化を簡潔に
+【優先テーマ】
+- ローカルLLM / Ollama / llama.cpp / MLX / Qwen / Gemma
+- RTX / VRAM / GPU / MacBook / Mac Studio / Apple Silicon
+- Claude Code / Cursor / Aider / Cline / GitHub Copilot
+- RAG / AI Agent / Agent Sandbox / on-device AI
+- AI動画・音声・文字起こしの実務導入
 
-パターンB「SIer時代の苦労との対比」(imp 200-270):
-→ 過去の苦労 → このツール/技術で解決 → 具体的なメリット
-→ 例のエッセンス: "SIer時代の苦労は何だったのか…。" → 過去→現在の対比が共感を生む
-
-パターンC「個人的レビュー・体験談」(imp 150-250):
-→ 実際に触った感想 + 期待を超えた点 + 読者の環境での活用可能性
-→ 例のエッセンス: "Geminiの豹変に困惑...今こそローカルLLMへの切り替え時かも。" → 問題意識の共有
-
-パターンD「具体的な数字＋驚き」(imp 150-250):
-→ 衝撃的な数字やデータで入る + なぜそれが重要かを解説
-→ 例のエッセンス: "3000億ドルの評価額って桁が違いすぎますね..." → 数字の衝撃がフックになる
-
-【⛔ ブラックリスト: 使用禁止フレーズ（実データで1-5 impを記録）】
-以下のフレーズやパターンは絶対に使わないこと。BOT判定されてインプレッション=1になる：
-- "最初は「また便利ツールか」と思ったけど" ← imp=1
-- "正直期待してなかったけど、使ってみたら想像以上だった" ← imp=1
-- "特に○○の部分がヤバい" ← imp=1（プレースホルダーが残っている）
-- "最初は「また新しいの出たか」くらいだったけど" ← imp=1
-- "業界的にかなりインパクトある発表だと思う" ← imp=1
-- "導入コストと効果を具体的に計算してみた" ← imp=5
-- "「本当に使えるの？」って思う人多いと思う" ← imp=2
-- "使い方のコツも紹介してるので参考にどうぞ！" ← imp=1
-- "実際に触ってみた感想も書いてます。" ← imp=1
-- "○○" や "〜〜" 等のプレースホルダー ← 絶対禁止
-- 箇条書き(・)で始まるツイート ← テンプレ判定される
-- 「↓」「👇」等のスレッド誘導 ← 低評価
-- "知らないと損するやつ" ← 煽り系で低評価
-- "開発者全員見て。これ神。" ← 命令口調で最低評価
-- "巨大AI企業の〜" ← 大仰な表現で低評価
-
-【ツイート構成の鉄則】
-1. 冒頭1行: 具体的な事実か個人的感情で入る（テンプレ的な入りは絶対にしない）
-2. 中盤: 記事の核心的な情報を2-3点（箇条書きにする場合は中盤のみ、冒頭は文章で）
-3. 終盤: 具体的な質問で締める（「○○使ってる人、実際の精度どうですか？」など具体的に）
-4. 全体: 400-600文字（滞在時間＝インプレッションの最大要因）
-5. 絵文字は0〜2個（入れすぎは逆効果、入れなくてもOK）
-6. 前回・前々回と同じ構造にしない（入り方・展開・締め方を毎回変える）
+【禁止】
+- URLを本文に入れる
+- 「詳しくはこちら」「記事にまとめました」「参考にどうぞ」
+- 「最初はまた便利ツールかと思った」系のテンプレ
+- 「知らないと損」「神ツール」「ガチでヤバい」だけで押す煽り
+- 箇条書きだけの量産感ある投稿
+- #AI #生成AI #AIツール のような薄いタグ指定
 
 - フォーマット:
 [TWEET_TEXT_START]
-ツイート本文をここに記述（複数行OK、400〜600文字、URLやハッシュタグは含めない）
+ツイート本文をここに記述（120〜220文字、URLやハッシュタグは含めない）
 [TWEET_TEXT_END]
 
 **2. アフィリエイト商品情報 (AFFILIATE_CONTEXT)**
-記事を読んだ人が「実際に試したい」と思ったときに役立つ関連ハードウェアやガジェットを提案。
+記事を読んだ人が「実際に試したい」「買う前に比較したい」と思ったときに役立つ関連ハードウェアやガジェットを提案。
+楽天を主導線、Amazonを補助導線として使うため、楽天/Amazon両方で検索しやすい具体的な型番・商品名を選ぶ。
 記事内容と直接関連する商品がない場合は「なし」と出力すること。無理に推薦しない。
 
 出力には以下を3つ含める：
@@ -1471,16 +1701,19 @@ Xの推薦アルゴリズム(Phoenix)のスコアリング基準：
 - product_name: 商品名（短く）
 - reason: なぜこの記事の読者におすすめなのか（50文字以内、記事内容とのつながりを示す）
 
-- 良い例: `[AFFILIATE_CONTEXT: search=MINISFORUM UM780 XTX | name=MINISFORUM UM780 XTX | reason=ローカルLLMを試すならRyzen7+32GB RAMのミニPCが最適]`
-- 良い例: `[AFFILIATE_CONTEXT: search=Raspberry Pi 5 スターターキット | name=Raspberry Pi 5 | reason=自宅でAIエッジ推論を試す入門機として最適]`
+- 良い例: `[AFFILIATE_CONTEXT: search=RTX 4060 Ti 16GB | name=RTX 4060 Ti 16GB | reason=VRAM 16GBでローカルLLM入門に現実的]`
+- 良い例: `[AFFILIATE_CONTEXT: search=Mac mini 32GB Apple Silicon | name=Mac mini 32GB | reason=MLX/Ollama検証用の省電力Macとして扱いやすい]`
+- 良い例: `[AFFILIATE_CONTEXT: search=Dell U2723QE 27インチ 4K | name=Dell U2723QE | reason=AIレビューとコードを並べる開発環境に向く]`
 - 関連商品なし: `[AFFILIATE_CONTEXT: なし]`
 - ダメ例: 記事が「資金調達ニュース」なのに「マウス」を推薦 → 無関係すぎる
 
 - フォーマット: `[AFFILIATE_CONTEXT: search=検索ワード | name=商品名 | reason=おすすめ理由]` または `[AFFILIATE_CONTEXT: なし]`
 
 **3. SNS拡散用ハッシュタグ (HASHTAGS)**
-エンゲージメント狙いのタグを2つ（ビッグワード＋ニッチの組み合わせ）
-- ダメ例: #AI #生成AI #LLM（ビッグワードだけは禁止）
+エンゲージメント狙いのタグを最大2つ（記事固有タグ＋コミュニティタグ）
+- 良い例: #ローカルLLM #個人開発
+- 良い例: #エンジニア #業務効率化
+- ダメ例: #AI #生成AI #AIツール（薄すぎる）
 - フォーマット: `[HASHTAGS: #タグ1 #タグ2]`
 
 **4. SEOタグ (SEO_TAGS)**
@@ -1572,12 +1805,123 @@ class ArticleGenerator:
     def _build_prompt(self, item: NewsItem) -> str:
         """カテゴリーに応じたプロンプトを構築"""
 
-        if item.category == Category.NEWS:
+        if item.category == Category.MONEY:
+            return self._build_money_prompt(item)
+        elif item.category == Category.NEWS:
             return self._build_news_prompt(item)
         elif item.category == Category.TOOL:
             return self._build_tool_prompt(item)
         else:  # GUIDE
             return self._build_guide_prompt(item)
+
+    def _build_money_prompt(self, item: NewsItem) -> str:
+        is_generated = item.extra.get("is_generated_topic", False)
+        topic_info = f"- トピック: {item.title}" if is_generated else f'''- タイトル: {item.title}
+- URL: {item.url}
+- 出典: {item.source}
+{f"- 内容: {item.summary}" if item.summary else ""}'''
+
+        return f'''あなたは「ねぎ」という名前のAI専門ブロガーです。
+
+【あなたのペルソナ】
+{PERSONA["background"]}
+
+【文章スタイル】
+{PERSONA["writing_style"]}
+
+【トピック情報】
+{topic_info}
+
+【記事の目的】
+この記事は月3万円の収益化を狙う「購入前ガイド・比較記事」です。読者が楽天/Amazonで商品を探す直前に読む記事として書いてください。
+対象読者は、AI開発・ローカルLLM・AIコーディング・業務効率化に投資したいエンジニア/個人開発者です。
+
+【最重要方針】
+- ただのニュース解説ではなく「何を買う/選ぶべきか」「買わなくてよい条件」を明確にする
+- 楽天で価格比較しやすい型番・商品カテゴリを本文に自然に入れる
+- Amazonでも購入される可能性を考え、型番検索しやすい表記にする
+- 読者の失敗回避に寄せる（VRAM不足、メモリ不足、端子不足、サブスク費用、商用利用制限など）
+- 本文は3500〜5000文字。薄い紹介ではなく、比較表・チェックリスト・用途別おすすめを必ず入れる
+- 根拠のない断定は禁止。不確かな最新情報は「公開情報ベース」「検証環境による」と明記する
+
+【最近のトレンドを必ず反映】
+- ローカルLLM/Ollama/llama.cpp/MLX/Qwen/Gemma
+- RTX/VRAM/Apple Silicon/統一メモリ
+- Claude Code/Cursor/Aider/Cline/GitHub CopilotなどAIコーディング
+- Agent Sandbox/RAG/ローカル検索/オンデバイスAI
+- AI動画・音声・文字起こしの実務導入
+
+【SEO最適化】
+- タイトル: 「おすすめ」「比較」「選び方」「買う前に」「ローカルLLM」「RTX」「Mac」「Claude Code」など購買/比較キーワードを自然に入れる。32〜40文字程度。
+- 3行要約: 検索結果でクリックされるよう、誰向け・結論・注意点を具体的に書く
+- 見出し: 「用途別おすすめ」「買う前のチェックリスト」「楽天/Amazonで見るべき型番」など検索意図に直結させる
+- 本文: 商品名・型番・用途キーワードを自然に複数回入れる。ただしキーワード詰め込みは禁止
+
+【出力形式】必ず以下のMarkdown構造で出力すること。
+
+1行目: タイトル（装飾なし。「おすすめ」「比較」「選び方」など購買意図を含める）
+
+## 3行要約
+
+- 要約1（この記事の結論。誰が何を選ぶべきか）
+- 要約2（価格・性能・用途の判断軸）
+- 要約3（買う前に失敗しやすい注意点）
+
+## 結論: まず選ぶべき構成
+
+（最初に結論を出す。読者の用途別に「これで十分」「ここから上は趣味/業務用」と切り分ける。300文字以上）
+
+## 用途別おすすめ
+
+| 用途 | 推奨構成/商品カテゴリ | 理由 | 注意点 |
+|------|----------------------|------|--------|
+| 入門 | ... | ... | ... |
+| 本格運用 | ... | ... | ... |
+| 仕事用 | ... | ... | ... |
+
+（表の後に、どの読者がどれを選ぶべきかを具体的に説明。500文字以上）
+
+## 買う前のチェックリスト
+
+- チェック1: （例: VRAM容量、メモリ、端子、商用利用、月額費用）
+- チェック2:
+- チェック3:
+- チェック4:
+
+（各チェック項目を実務者目線で解説。600文字以上）
+
+## 楽天/Amazonで見るべき検索キーワード
+
+（楽天で価格比較しやすい具体的な型番・商品カテゴリを3〜5個挙げる。Amazonでも検索しやすい表記にする）
+
+| 検索キーワード | 向いている人 | 避けた方がいい人 |
+|----------------|--------------|------------------|
+| ... | ... | ... |
+
+## 代替案と妥協ライン
+
+（高い商品を無理に買わせない。中古・型落ち・クラウド利用・無料ツールなどの代替案を提示し、どこまで妥協できるかを説明。500文字以上）
+
+## 私ならこう選ぶ
+
+（「ねぎ」として明確に選定する。楽天で価格を見るなら何を最初に検索するか、Amazonで買うなら何を確認するかまで具体化。400文字以上）
+
+## よくある質問
+
+### Q1: （購入前に最も迷う質問）
+
+（簡潔で具体的な回答。100文字程度）
+
+### Q2: （スペック・料金・代替に関する質問）
+
+（簡潔で具体的な回答。100文字程度）
+
+### Q3: （将来性・買い時に関する質問）
+
+（簡潔で具体的な回答。100文字程度）
+
+{TWEET_METADATA_INSTRUCTIONS}
+'''
 
     def _build_news_prompt(self, item: NewsItem) -> str:
         return f'''あなたは「ねぎ」という名前のAI専門ブロガーです。
@@ -1595,19 +1939,19 @@ class ArticleGenerator:
 {f"- 要約: {item.summary}" if item.summary else ""}
 
 【指示】
-速報ニュース記事を書いてください。**本文は2500〜3500文字程度**で、密度の高い解説をすること。
+速報ニュース記事を書いてください。**本文は1200〜1800文字程度**で、短くても判断材料の濃い解説にすること。
 - 何が発表されたか（詳細に）
 - 競合（ChatGPT, Claude等）との違いは何か
 - 技術的な仕組みや背景
-- 業界への影響を論理的に解説
+- 業界への影響を論理的に解説し、関連するMONEY/GUIDE記事へ読者が進みたくなる論点を入れる
 - 一人称は「私」を使い、読者に語りかける口調で
 
 【記事品質ガイドライン ★最重要★】
 - 冒頭: 自己紹介で始めるのは禁止。「このニュースが重要な理由」を冒頭1文で示す
 - 独自視点: 公式発表の要約ではなく「だから何なのか」「開発者にどう影響するのか」を深掘り
 - 本音: 「革命的」「画期的」等の空虚な形容詞は禁止。代わりに「GPT-4oより速くなった」「料金が半額になった」等の具体的事実で語る
-- 比較: 必ず既存サービスとの定量比較を含める（性能、価格、対応言語数など数値で）
-- 実務者目線: 「触ってみた」「APIドキュメントを読んだ」等、実際に確認したかのような視点で書く
+- 比較: 公開情報で確認できる範囲で既存サービスとの比較を含める（性能、価格、対応言語数など。推測なら推測と明記）
+- 実務者目線: 公開情報・APIドキュメントを確認した前提で、開発者の意思決定にどう効くかを書く
 - 段落: 1段落2〜3文。長文は分割する
 - 定型文禁止: 「〜ではないでしょうか」「注目が集まっています」「AI業界に激震」等のクリシェは絶対に使わない
 - 予測: 記事の最後に「3ヶ月後にどうなっているか」の具体的予測を入れる
@@ -1630,11 +1974,11 @@ class ArticleGenerator:
 
 ## 何が起きたのか
 
-（冒頭で「なぜこのニュースが重要か」を示してから、詳細を展開。発表内容だけでなく、その背景（なぜ今このタイミングなのか、どんな問題を解決するのか）を掘り下げる。500文字以上）
+（冒頭で「なぜこのニュースが重要か」を示してから、詳細を展開。発表内容だけでなく、その背景（なぜ今このタイミングなのか、どんな問題を解決するのか）を掘り下げる。300文字以上）
 
 ## 技術的に何が新しいのか
 
-（公式発表の受け売りではなく、技術的な仕組みを自分の言葉で噛み砕いて説明。「従来は○○だったが、今回は△△」の構造で書く。コード例や設定例があれば含める。500文字以上）
+（公式発表の受け売りではなく、技術的な仕組みを自分の言葉で噛み砕いて説明。「従来は○○だったが、今回は△△」の構造で書く。コード例や設定例があれば含める。300文字以上）
 
 ## 数字で見る競合比較
 
@@ -1646,11 +1990,11 @@ class ArticleGenerator:
 
 ## 開発者が今すぐやるべきこと
 
-（読者が記事を読んだ後に取れる具体的なアクションを3つ以上列挙。「注目しましょう」ではなく「APIキーを取得する」「既存コードの○○を書き換える」「ベンチマークを取る」等の実行可能なアクション。300文字以上）
+（読者が記事を読んだ後に取れる具体的なアクションを3つ以上列挙。「注目しましょう」ではなく「APIキーを取得する」「既存コードの○○を書き換える」「ベンチマークを取る」「必要スペックを確認する」等の実行可能なアクション。250文字以上）
 
 ## 私の見解
 
-（「ねぎ」としての本音。ここでは遠慮しない。明確に賛成/反対/懐疑を表明し、その理由を具体的に述べる。毎回「一方で〜」と両論併記にしない。ポジションを取る。300文字以上）
+（「ねぎ」としての本音。ここでは遠慮しない。明確に賛成/反対/懐疑を表明し、その理由を具体的に述べる。最後に、より詳しく調べるべきスペック・料金・代替案を示す。250文字以上）
 
 ## よくある質問
 
@@ -1694,6 +2038,7 @@ class ArticleGenerator:
 ★重要★ 以下の2点を厳守:
 1. シミュレーションコードは「公式ドキュメントに基づいた使用例」として書く（架空のAPIや存在しないメソッドは使わない。OSSならGitHubのREADMEに実際にありそうなAPI形式で書く）
 2. 「誰が使うべきで、誰が使わなくてよいか」を明確にする
+3. 価格・無料枠・商用利用・代替ツール・必要スペックを必ず確認する。ハードウェアや開発環境が必要ならAFFILIATE_CONTEXTを出す
 
 一人称は「私」を使い、実際にドキュメントを読んで評価した体験談として書く。
 
@@ -1705,6 +2050,7 @@ class ArticleGenerator:
 - 行動指針: 読者が「今日から使える」具体的な手順を含める
 - 対象読者: 中級エンジニア（Python基礎はわかる人）向け
 - 代替ツール: 必ず1つ以上の代替手段に触れる（「○○の方が合う人もいる」）
+- 収益導線: 必要なPC/GPU/モニター/マイク/SSDなどがある場合は、本文中で「買う前に見るべき型番」を自然に紹介する
 - 定型文禁止: 「注目されています」「ぜひ試してみてください」「いかがでしたか」は使わない
 
 【SEO最適化 ★重要★】
@@ -1779,6 +2125,10 @@ print(result)
 
 （どのツールをどんな場面で選ぶべきかを具体的に）
 
+## 料金・必要スペック・導入前の注意点
+
+（無料枠、商用利用、ローカル実行に必要なPC/GPU/メモリ、クラウド費用を整理する。ハードウェアが絡む場合は楽天/Amazonで検索しやすい型番も自然に触れる。300文字以上）
+
 ## 私の評価
 
 （★評価（5段階）と、その理由。「万人におすすめ」ではなく「こういうプロジェクトなら使う、そうでなければ使わない」と具体的に。300文字以上）
@@ -1819,13 +2169,14 @@ print(result)
 {topic_info}
 
 【指示】
-実践的なガイド記事を書いてください。**本文は2500〜4000文字程度**。
+実践的なガイド記事を書いてください。**本文は3000〜4500文字程度**。
 この記事のゴールは「読者が記事を読みながら手を動かして、最後には動くものが一つできている」こと。
 
 ★重要★
 - 抽象的な解説ではなく、「コピペして動かせる」レベルの具体性
 - 「なぜその設定にするのか」の理由を毎回添える（表面的な手順書にしない）
 - 初心者がハマるポイントを先回りして「落とし穴」として明示する
+- 必要なPC/GPU/メモリ/周辺機器/有料ツールがある場合は、購入前チェックリストとAFFILIATE_CONTEXTを必ず入れる
 - 一人称は「私」
 
 【記事品質ガイドライン ★最重要★】
@@ -1853,6 +2204,10 @@ print(result)
 - 完成形を具体的に示す（「○○ができるPythonスクリプト」等）
 - 前提知識（「Pythonの基礎がわかること」等）
 - 必要なもの（APIキー、ハードウェア等）
+
+## 先に確認するスペック・料金
+
+（ローカルLLM/GPU/Mac/AIツール/API料金など、始める前に詰まりやすい条件を整理する。買う前に見るべき型番や、買わずに済む代替案も書く。300文字以上）
 
 ## なぜこの方法を選ぶのか
 
@@ -2170,12 +2525,12 @@ print(result)
             # Gemini生成のコンテキストがある場合（新形式） - カード型UI
             affiliate_html = f'''{{{{< rawhtml >}}}}
 <div style="border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin:20px 0;background:#fafafa">
-<p style="margin:0 0 4px;font-size:13px;color:#888">📦 この記事に関連する商品</p>
+<p style="margin:0 0 4px;font-size:13px;color:#888">📦 この記事に関連する商品（楽天メインで価格確認）</p>
 <strong style="font-size:16px">{product_name}</strong>
 <p style="color:#555;margin:8px 0;font-size:14px">{reason}</p>
 <div style="display:flex;gap:8px;flex-wrap:wrap">
-<a href="{amazon_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#ff9900;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">Amazonで見る</a>
-<a href="{rakuten_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#bf0000;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">楽天で見る</a>
+<a href="{rakuten_url}" target="_blank" rel="noopener sponsored" style="padding:10px 18px;background:#bf0000;color:#fff;text-decoration:none;border-radius:4px;font-size:14px;font-weight:bold">楽天で価格を見る</a>
+<a href="{amazon_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#ff9900;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">Amazonでも確認</a>
 </div>
 <p style="margin:8px 0 0;font-size:11px;color:#aaa">※アフィリエイトリンクを含みます</p>
 </div>
@@ -2201,12 +2556,12 @@ print(result)
             if product_name:
                 affiliate_html = f'''{{{{< rawhtml >}}}}
 <div style="border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin:20px 0;background:#fafafa">
-<p style="margin:0 0 4px;font-size:13px;color:#888">📦 関連商品</p>
+<p style="margin:0 0 4px;font-size:13px;color:#888">📦 関連商品（楽天メインで価格確認）</p>
 <strong style="font-size:16px">{product_name}</strong>
 <p style="color:#555;margin:8px 0;font-size:14px">{reason}</p>
 <div style="display:flex;gap:8px;flex-wrap:wrap">
-<a href="{amazon_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#ff9900;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">Amazonで見る</a>
-<a href="{rakuten_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#bf0000;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">楽天で見る</a>
+<a href="{rakuten_url}" target="_blank" rel="noopener sponsored" style="padding:10px 18px;background:#bf0000;color:#fff;text-decoration:none;border-radius:4px;font-size:14px;font-weight:bold">楽天で価格を見る</a>
+<a href="{amazon_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#ff9900;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">Amazonでも確認</a>
 </div>
 <p style="margin:8px 0 0;font-size:11px;color:#aaa">※アフィリエイトリンクを含みます</p>
 </div>
@@ -2217,8 +2572,8 @@ print(result)
 <div style="border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin:20px 0;background:#fafafa">
 <p style="margin:0 0 8px;font-size:13px;color:#888">🔎 関連商品を探す</p>
 <div style="display:flex;gap:8px;flex-wrap:wrap">
-<a href="{amazon_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#ff9900;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">Amazonで「{shopping_keyword}」を検索</a>
-<a href="{rakuten_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#bf0000;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">楽天で検索</a>
+<a href="{rakuten_url}" target="_blank" rel="noopener sponsored" style="padding:10px 18px;background:#bf0000;color:#fff;text-decoration:none;border-radius:4px;font-size:14px;font-weight:bold">楽天で「{shopping_keyword}」を検索</a>
+<a href="{amazon_url}" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#ff9900;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">Amazonでも確認</a>
 </div>
 <p style="margin:8px 0 0;font-size:11px;color:#aaa">※アフィリエイトリンクを含みます</p>
 </div>
@@ -2390,6 +2745,7 @@ class ImageHandler:
 
     def _generate_image_prompt(self, title: str, body: str, category: Category) -> str:
         style_hint = {
+            Category.MONEY: "premium AI workstation, GPU, laptop, buying guide style, no text",
             Category.NEWS: "news broadcast, breaking news style, professional, no text",
             Category.TOOL: "software interface, tech product, modern UI, no text",
             Category.GUIDE: "tutorial, educational diagram, clean design, no text",
@@ -2483,11 +2839,12 @@ class TwitterPoster:
         question_text: Optional[str] = None,
         image_path: Optional[str] = None,
         static_dir: Optional[Path] = None,
+        include_url: Optional[bool] = None,
     ) -> bool:
         """
-        記事をTwitterに単一ツイートで投稿する（Premiumプラン対応）。
+        記事をTwitterに単一ツイートで投稿する（URL添付は収益意図で制御）。
         
-        Geminiが生成したtweet_textをそのまま使用し、URLとハッシュタグを付加。
+        Geminiが生成したtweet_textをそのまま使用し、必要な場合のみURLとハッシュタグを付加。
         tweet_textがない場合（後方互換）はhook_text + summary_textでフォールバック。
         画像がある場合はメディア付きツイートとして投稿（インプレッション2-3倍）。
 
@@ -2496,12 +2853,13 @@ class TwitterPoster:
             url: 記事のURL
             category: 記事カテゴリー
             viral_tags: Geminiが選んだSNS拡散用ハッシュタグ
-            tweet_text: Gemini生成の完全なツイート本文（400-600文字）
+            tweet_text: Gemini生成の完全なツイート本文（120-220文字）
             hook_text: 冒頭のフック文（後方互換用フォールバック）
             summary_text: 3行要点（後方互換用フォールバック）
             question_text: リプライ誘発の質問文（後方互換用フォールバック）
             image_path: 画像パス（/images/posts/xxx.jpg）
             static_dir: staticディレクトリのパス
+            include_url: Noneならカテゴリ/本文から自動判定
 
         Returns:
             投稿成功時True
@@ -2536,13 +2894,20 @@ class TwitterPoster:
                     tags_list.append(fixed_tag)
             
             tag_str = ' '.join(tags_list[:2])
+            if include_url is None:
+                include_url = should_include_article_url(category, title, tweet_text, viral_tags)
 
             # ===== ツイート本文構成（Gemini生成 or フォールバック） =====
             if tweet_text:
-                # Gemini生成のtweet_textをそのまま使用 + URL + ハッシュタグ
-                full_tweet = f"{tweet_text}\n\n{url}\n\n{tag_str}"
+                # Gemini生成のtweet_textをそのまま使用 + 必要な場合だけURL + ハッシュタグ
+                parts = [tweet_text.strip()]
+                if include_url:
+                    parts.append(url)
+                if tag_str:
+                    parts.append(tag_str)
+                full_tweet = "\n\n".join(parts)
             else:
-                # 後方互換フォールバック: hook + summary + URL + ハッシュタグ
+                # 後方互換フォールバック: hook + summary + 必要な場合だけURL + ハッシュタグ
                 hook = hook_text or title[:50]
                 summary = summary_text or ""
                 question = question_text or ""
@@ -2552,10 +2917,14 @@ class TwitterPoster:
                     parts.append(summary)
                 if question:
                     parts.append(question)
-                parts.append(url)
-                parts.append(tag_str)
+                if include_url:
+                    parts.append(url)
+                if tag_str:
+                    parts.append(tag_str)
                 
                 full_tweet = '\n\n'.join(parts)
+
+            print(f"  [Twitter] URL included: {'yes' if include_url else 'no'}")
 
             # ===== メディアアップロード（画像付きツイート） =====
             media_ids = None
@@ -2597,6 +2966,58 @@ def is_twitter_configured() -> bool:
         "TWITTER_ACCESS_TOKEN_SECRET",
     ]
     return all(os.getenv(key) for key in required)
+
+
+def calculate_revenue_intent_score(
+    title: str,
+    tweet_text: Optional[str] = None,
+    category: Optional[Category] = None,
+    viral_tags: Optional[str] = None,
+) -> int:
+    """XでURLを付ける価値があるか判定するための収益意図スコア。"""
+    text = f"{title} {tweet_text or ''} {viral_tags or ''}".lower()
+    score = 0
+
+    category_weights = {
+        Category.MONEY: 8,
+        Category.GUIDE: 4,
+        Category.TOOL: 3,
+        Category.NEWS: 0,
+    }
+    if category:
+        score += category_weights.get(category, 0)
+
+    for keyword in REVENUE_INTENT_KEYWORDS:
+        if keyword.lower() in text:
+            score += 2
+
+    for keyword in ["おすすめ", "比較", "選び方", "価格", "料金", "買う", "購入", "レビュー", "導入", "構築", "スペック", "vram"]:
+        if keyword.lower() in text:
+            score += 3
+
+    for keyword in LOW_REVENUE_NEWS_KEYWORDS:
+        if keyword.lower() in text:
+            score -= 3
+
+    return score
+
+
+def should_include_article_url(
+    category: Category,
+    title: str,
+    tweet_text: Optional[str] = None,
+    viral_tags: Optional[str] = None,
+) -> bool:
+    """URL直貼りを収益意図の高い投稿に限定する。"""
+    score = calculate_revenue_intent_score(title, tweet_text, category, viral_tags)
+
+    if category == Category.MONEY:
+        return True
+    if category == Category.GUIDE:
+        return score >= 8
+    if category == Category.TOOL:
+        return score >= 9
+    return score >= 12
 
 
 def build_article_url(base_url: str, article_id: str, slug: Optional[str] = None) -> str:
@@ -2833,6 +3254,7 @@ def write_hugo_markdown(
 
     # カテゴリー名をHugo用に変換
     category_map = {
+        Category.MONEY: "AI Buyer Guide",
         Category.NEWS: "AI News",
         Category.TOOL: "AI Tools",
         Category.GUIDE: "AI Guide",
@@ -2886,7 +3308,7 @@ class TwitterQueueItem:
     article_id: str
     title: str
     url: str
-    category: str  # "NEWS", "TOOL", "GUIDE"
+    category: str  # "MONEY", "NEWS", "TOOL", "GUIDE"
     viral_tags: Optional[str]
     tweet_text: Optional[str] = None  # Gemini生成の完全なツイート本文
     hook_text: Optional[str] = None  # 後方互換用
@@ -2937,6 +3359,39 @@ class TwitterPostingQueue:
         if not self._queue:
             self.load()
         return [item for item in self._queue if not item.get("posted", False)]
+
+    def prune_old_pending(self, max_age_hours: int = 36) -> int:
+        """古い未投稿アイテムをキューから削除する（API停止時のバックログ対策）。"""
+        if not self._queue:
+            self.load()
+
+        now = datetime.now(JST)
+        cutoff = now - timedelta(hours=max_age_hours)
+        kept: List[Dict] = []
+        removed = 0
+
+        for item in self._queue:
+            if item.get("posted", False):
+                kept.append(item)
+                continue
+
+            created_str = item.get("created_at", "")
+            try:
+                created = datetime.fromisoformat(created_str)
+            except Exception:
+                removed += 1
+                continue
+
+            if created < cutoff:
+                removed += 1
+            else:
+                kept.append(item)
+
+        if removed:
+            self._queue = kept
+            self._save()
+
+        return removed
 
     def mark_posted(self, article_id: str) -> None:
         if not self._queue:
@@ -3011,6 +3466,7 @@ def post_single_article_to_twitter(article_id: str) -> int:
         
         # カテゴリー文字列をEnumに変換
         category_map = {
+            "MONEY": Category.MONEY,
             "NEWS": Category.NEWS,
             "TOOL": Category.TOOL,
             "GUIDE": Category.GUIDE,
@@ -3052,98 +3508,121 @@ def post_single_article_to_twitter(article_id: str) -> int:
 
 def post_all_pending_to_twitter() -> int:
     """
-    キュー内の未投稿記事をすべてXに投稿する。
-    直近24時間以内に作成された記事のみ対象とする。
-    
+    キュー内の未投稿記事から、収益意図が高いものだけXに投稿する。
+    古い未投稿は削除し、API停止期間のバックログを一気に流さない。
+
     投稿管理:
     - daily_stats.jsonで1日の投稿数を追跡
-    - MAX_TWEETS_PER_DAY(デフォルト100)まで投稿可能
-    - 画像付きツイートでインプレッション最大化
-    
+    - MAX_TWEETS_PER_DAY(デフォルト2)まで投稿可能
+    - MAX_TWEETS_PER_RUN(デフォルト1)で1回の投稿数を制限
+    - MAX_URL_TWEETS_PER_DAY(デフォルト1)でURL直貼りを抑制
+    - MONEY/GUIDE/TOOLの収益意図順に選ぶ
+
     Usage: python auto_generate.py --post-all-twitter
     """
     print("=" * 60)
     print("Negi AI Lab - Post All Pending to X")
     print("=" * 60)
 
-    # 1日の最大投稿数（基本的に全記事投稿。クレジットは必要に応じて追加する方針）
-    MAX_TWEETS_PER_DAY = int(os.environ.get("MAX_TWEETS_PER_DAY", "100"))
-    # 画像アップロード有効（画像付きツイートはインプレッション2〜3倍）
-    ENABLE_IMAGE_UPLOAD = os.environ.get("ENABLE_IMAGE_UPLOAD", "true").lower() == "true"
+    max_tweets_per_day = int(os.environ.get("MAX_TWEETS_PER_DAY", "2"))
+    max_tweets_per_run = int(os.environ.get("MAX_TWEETS_PER_RUN", "1"))
+    max_url_tweets_per_day = int(os.environ.get("MAX_URL_TWEETS_PER_DAY", "1"))
+    stale_pending_hours = int(os.environ.get("STALE_PENDING_HOURS", "36"))
+    enable_image_upload = os.environ.get("ENABLE_IMAGE_UPLOAD", "true").lower() == "true"
 
     repo_root = Path(__file__).resolve().parent
-    
-    # 今日の投稿数を取得
     stats_path = repo_root / "daily_stats.json"
     today_str = get_daily_date()
-    daily_stats = {}
+    daily_stats: Dict[str, object] = {}
     if stats_path.exists():
         try:
             daily_stats = json.loads(stats_path.read_text(encoding="utf-8"))
         except Exception:
             daily_stats = {}
-    
-    today_posted = daily_stats.get(today_str, {}).get("tweets_posted", 0)
-    remaining_budget = MAX_TWEETS_PER_DAY - today_posted
-    
+
+    today_entry = daily_stats.get(today_str, {}) if isinstance(daily_stats.get(today_str, {}), dict) else {}
+    today_posted = int(today_entry.get("tweets_posted", 0))
+    today_url_posted = int(today_entry.get("url_tweets_posted", 0))
+    remaining_budget = min(max_tweets_per_day - today_posted, max_tweets_per_run)
+    remaining_url_budget = max(0, max_url_tweets_per_day - today_url_posted)
+
     if remaining_budget <= 0:
-        print(f"Daily tweet limit reached ({MAX_TWEETS_PER_DAY}/day). Skipping.")
+        print(f"Daily tweet limit reached ({max_tweets_per_day}/day). Skipping.")
         return 0
 
     queue = TwitterPostingQueue(repo_root / "twitter_queue.json")
-    all_pending = queue.get_pending()
+    removed_old = queue.prune_old_pending(stale_pending_hours)
+    if removed_old:
+        print(f"Removed {removed_old} stale pending queue items older than {stale_pending_hours}h.")
 
-    if not all_pending:
-        print("No pending articles to post.")
-        return 0
-
-    # 直近24時間以内の記事のみ対象
-    now = datetime.now(JST)
-    cutoff = now - timedelta(hours=24)
-    
-    pending = []
-    for item in all_pending:
-        created_str = item.get("created_at", "")
-        try:
-            created = datetime.fromisoformat(created_str)
-            if created > cutoff:
-                pending.append(item)
-            else:
-                # 24時間以上前の未投稿記事は自動でposted=trueにする
-                queue.mark_posted(item["article_id"])
-                print(f"  [SKIP] Old article marked as posted: {item['title'][:30]}...")
-        except Exception:
-            # パースできない場合はスキップ
-            pass
-
+    pending = queue.get_pending()
     if not pending:
-        print("No recent pending articles to post (all older than 24 hours).")
+        print("No recent pending articles to post.")
         return 0
 
-    # 予算内に収まるように厳選（tweet_textがある記事を優先）
-    # 優先順位: tweet_text有り > hook_text有り > その他
-    def tweet_quality_score(item):
-        score = 0
+    category_map = {
+        "MONEY": Category.MONEY,
+        "NEWS": Category.NEWS,
+        "TOOL": Category.TOOL,
+        "GUIDE": Category.GUIDE,
+    }
+
+    def tweet_quality_score(item: Dict) -> int:
+        category = category_map.get(item.get("category"), Category.NEWS)
+        score = calculate_revenue_intent_score(
+            item.get("title", ""),
+            item.get("tweet_text"),
+            category,
+            item.get("viral_tags"),
+        ) * 10
         if item.get("tweet_text"):
-            score += 100  # Gemini生成tweet_textがある = 高品質
-            # 長いtweet_textはさらに高スコア
-            score += min(len(item["tweet_text"]), 500) // 10
+            score += 60
+            text_len = len(item["tweet_text"])
+            if 80 <= text_len <= 240:
+                score += 20
         elif item.get("hook_text"):
-            score += 50
+            score += 20
         if item.get("image_path") and item["image_path"] != "/images/og-default.png":
-            score += 20  # 固有画像がある記事
+            score += 10
         return score
-    
+
     pending.sort(key=tweet_quality_score, reverse=True)
-    selected = pending[:remaining_budget]
-    skipped = pending[remaining_budget:]
-    
-    print(f"Found {len(pending)} pending articles. Will post {len(selected)} (budget: {remaining_budget} remaining today).")
-    if skipped:
-        for item in skipped:
-            queue.mark_posted(item["article_id"])
-            print(f"  [BUDGET SKIP] {item['title'][:40]}...")
+    selected: List[Dict] = []
+    include_url_by_id: Dict[str, bool] = {}
+    url_slots_used = 0
+
+    for item in pending:
+        if len(selected) >= remaining_budget:
+            break
+
+        category = category_map.get(item.get("category"), Category.NEWS)
+        include_url = should_include_article_url(
+            category,
+            item.get("title", ""),
+            item.get("tweet_text"),
+            item.get("viral_tags"),
+        )
+
+        if include_url:
+            if url_slots_used >= remaining_url_budget:
+                continue
+            url_slots_used += 1
+
+        selected.append(item)
+        include_url_by_id[item["article_id"]] = include_url
+
+    print(
+        f"Found {len(pending)} pending articles. Will post {len(selected)} "
+        f"(run budget: {remaining_budget}, URL budget: {remaining_url_budget})."
+    )
+    skipped_count = max(0, len(pending) - len(selected))
+    if skipped_count:
+        print(f"  [INFO] {skipped_count} pending items kept for later or stale-prune, not mass-posted.")
     print()
+
+    if not selected:
+        print("No selected articles after URL/throttle rules.")
+        return 0
 
     if not is_twitter_configured() or not TWEEPY_AVAILABLE:
         print("[ERROR] Twitter not configured or tweepy not installed.")
@@ -3152,24 +3631,19 @@ def post_all_pending_to_twitter() -> int:
     poster = TwitterPoster()
     success_count = 0
     failed_count = 0
+    successful_url_count = 0
 
     for item in selected:
         print(f"Posting: {item['title'][:40]}...")
-        
-        category_map = {
-            "NEWS": Category.NEWS,
-            "TOOL": Category.TOOL,
-            "GUIDE": Category.GUIDE,
-        }
-        category = category_map.get(item["category"], Category.NEWS)
 
-        # slugがある場合は正しいURLに補正
+        category = category_map.get(item.get("category"), Category.NEWS)
+
         article_url = resolve_article_url(repo_root, item["article_id"], SITE_BASE_URL, item.get("url"))
         if article_url != item.get("url"):
             queue.update_url(item["article_id"], article_url)
 
-        # 画像パス（画像付きツイートでインプレッション最大化）
-        image_path_for_post = item.get("image_path") if ENABLE_IMAGE_UPLOAD else None
+        image_path_for_post = item.get("image_path") if enable_image_upload else None
+        include_url = include_url_by_id.get(item["article_id"], False)
 
         if poster.post_article(
             title=item["title"],
@@ -3182,30 +3656,38 @@ def post_all_pending_to_twitter() -> int:
             question_text=item.get("question_text"),
             image_path=image_path_for_post,
             static_dir=repo_root / "static",
+            include_url=include_url,
         ):
             queue.mark_posted(item["article_id"])
-            print(f"  ✓ Posted!")
+            print("  ✓ Posted!")
             success_count += 1
+            if include_url:
+                successful_url_count += 1
         else:
-            print(f"  ✗ Failed")
+            print("  ✗ Failed")
             failed_count += 1
-        
-        # レート制限対策
+
         time.sleep(5)
 
-    # 今日の投稿数を更新
-    if today_str not in daily_stats:
+    if today_str not in daily_stats or not isinstance(daily_stats.get(today_str), dict):
         daily_stats[today_str] = {}
     daily_stats[today_str]["tweets_posted"] = today_posted + success_count
-    # 古いデータを削除（7日分のみ保持）
+    daily_stats[today_str]["url_tweets_posted"] = today_url_posted + successful_url_count
+
     cutoff_date = (datetime.now(JST) - timedelta(days=7)).strftime("%Y-%m-%d")
-    daily_stats = {k: v for k, v in daily_stats.items() if k >= cutoff_date}
+    daily_stats = {
+        k: v for k, v in daily_stats.items()
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(k)) or k >= cutoff_date
+    }
     stats_path.write_text(json.dumps(daily_stats, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     print()
-    print(f"Posted {success_count}/{len(selected)} articles. (Total today: {today_posted + success_count}/{MAX_TWEETS_PER_DAY})")
-    
-    # 一部成功していれば成功扱い（重複エラー等は許容）
+    print(
+        f"Posted {success_count}/{len(selected)} articles. "
+        f"(Total today: {today_posted + success_count}/{max_tweets_per_day}, "
+        f"URL today: {today_url_posted + successful_url_count}/{max_url_tweets_per_day})"
+    )
+
     return 0
 
 
@@ -3437,28 +3919,23 @@ def calculate_targets_with_fallback(
     """
     # 1日の残り枠（指定がなければ無制限）
     if daily_remaining is None:
-        remaining = {cat: 999 for cat in ["NEWS", "TOOL", "GUIDE"]}
+        remaining = {cat.value: 999 for cat in Category}
     else:
         remaining = daily_remaining.copy()
 
-    print(f"  [DEBUG] Daily remaining: NEWS={remaining.get('NEWS', 0)}, TOOL={remaining.get('TOOL', 0)}, GUIDE={remaining.get('GUIDE', 0)}")
+    print("  [DEBUG] Daily remaining: " + ", ".join(f"{cat.value}={remaining.get(cat.value, 0)}" for cat in Category))
 
     # プールからの補充可能数を加算
     pool_available = {cat: 0 for cat in Category}
     if pool:
         pool_stats = pool.get_pool_stats()
-        pool_available = {
-            Category.NEWS: pool_stats.get("NEWS", 0),
-            Category.TOOL: pool_stats.get("TOOL", 0),
-            Category.GUIDE: pool_stats.get("GUIDE", 0),
-        }
-        print(f"  [DEBUG] Pool available: NEWS={pool_available[Category.NEWS]}, TOOL={pool_available[Category.TOOL]}, GUIDE={pool_available[Category.GUIDE]}")
+        pool_available = {cat: pool_stats.get(cat.value, 0) for cat in Category}
+        print("  [DEBUG] Pool available: " + ", ".join(f"{cat.value}={pool_available[cat]}" for cat in Category))
 
     # 各カテゴリーの実際の上限 = min(残り枠, フィード+プール)
     effective_available = {
-        Category.NEWS: min(remaining.get("NEWS", 0), available.get(Category.NEWS, 0) + pool_available[Category.NEWS]),
-        Category.TOOL: min(remaining.get("TOOL", 0), available.get(Category.TOOL, 0) + pool_available[Category.TOOL]),
-        Category.GUIDE: min(remaining.get("GUIDE", 0), available.get(Category.GUIDE, 0) + pool_available[Category.GUIDE]),
+        cat: min(remaining.get(cat.value, 0), available.get(cat, 0) + pool_available.get(cat, 0))
+        for cat in Category
     }
 
     # 時間帯に応じた優先順位を取得
@@ -3467,7 +3944,7 @@ def calculate_targets_with_fallback(
     print(f"  [DEBUG] Current hour: {current_hour}:00 JST, Priority: {[c.value for c in priority_order]}")
 
     # ラウンドロビン方式：優先順位順に各カテゴリーから1つずつ取る
-    final = {Category.NEWS: 0, Category.TOOL: 0, Category.GUIDE: 0}
+    final = {cat: 0 for cat in Category}
     slots_left = total
     round_num = 0
     
@@ -3578,7 +4055,8 @@ def main() -> int:
     news_pool = NewsPool(repo_root / "news_pool.json", processed_store)
     news_pool.load()
     pool_stats = news_pool.get_pool_stats()
-    print(f"[INFO] News pool: {pool_stats['total']} items (NEWS:{pool_stats['NEWS']}, TOOL:{pool_stats['TOOL']}, GUIDE:{pool_stats['GUIDE']})")
+    pool_summary = ", ".join(f"{cat.value}:{pool_stats.get(cat.value, 0)}" for cat in Category)
+    print(f"[INFO] News pool: {pool_stats['total']} items ({pool_summary})")
 
     # API Key check (dry-run以外で必須)
     api_key = os.environ.get("GEMINI_API_KEY", "")
@@ -3592,22 +4070,24 @@ def main() -> int:
     print("[Step 1] Collecting news items...")
     collector = NewsCollector(processed_store, pool=news_pool)
 
-    news_items = collector.collect_news(max_items=total * 3)  # プール蓄積のため多めに
-    tool_items = collector.collect_tools(max_items=total * 3)
-    guide_items = collector.collect_guides(max_items=total * 3)
+    collect_count = max(total * 3, 3)
+    money_items = collector.collect_money(max_items=collect_count)
+    news_items = collector.collect_news(max_items=collect_count)  # プール蓄積のため多めに
+    tool_items = collector.collect_tools(max_items=collect_count)
+    guide_items = collector.collect_guides(max_items=collect_count)
     
     # プールを保存（新しいアイテムを蓄積）
     news_pool.save()
 
     available = {
+        Category.MONEY: len(money_items),
         Category.NEWS: len(news_items),
         Category.TOOL: len(tool_items),
         Category.GUIDE: len(guide_items),
     }
 
-    print(f"  NEWS:  {available[Category.NEWS]} items found")
-    print(f"  TOOL:  {available[Category.TOOL]} items found")
-    print(f"  GUIDE: {available[Category.GUIDE]} items found")
+    for cat in get_current_priority():
+        print(f"  {cat.value:<5}: {available.get(cat, 0)} items found")
     print()
 
     # -------------------------
@@ -3617,9 +4097,8 @@ def main() -> int:
     daily_remaining = daily_stats.get_remaining()
     targets = calculate_targets_with_fallback(total, available, daily_remaining, pool=news_pool)
 
-    print(f"  NEWS:  {targets[Category.NEWS]} (daily remaining: {daily_remaining['NEWS']})")
-    print(f"  TOOL:  {targets[Category.TOOL]} (daily remaining: {daily_remaining['TOOL']})")
-    print(f"  GUIDE: {targets[Category.GUIDE]} (daily remaining: {daily_remaining['GUIDE']})")
+    for cat in get_current_priority():
+        print(f"  {cat.value:<5}: {targets[cat]} (daily remaining: {daily_remaining.get(cat.value, 0)})")
     print(f"  Total: {sum(targets.values())}")
     print()
 
@@ -3627,34 +4106,28 @@ def main() -> int:
     # Build final item list (フィードから優先、足りなければプールから)
     # -------------------------
     final_items: List[NewsItem] = []
-    
-    # NEWS
-    news_needed = targets[Category.NEWS]
-    final_items.extend(news_items[:news_needed])
-    if len(news_items) < news_needed:
-        # プールから補充
-        pool_news = news_pool.get_items_for_category(Category.NEWS, news_needed - len(news_items), fresh_first=True)
-        final_items.extend(pool_news)
-        if pool_news:
-            print(f"  [INFO] NEWS: {len(pool_news)} items from pool")
-    
-    # TOOL
-    tool_needed = targets[Category.TOOL]
-    final_items.extend(tool_items[:tool_needed])
-    if len(tool_items) < tool_needed:
-        pool_tools = news_pool.get_items_for_category(Category.TOOL, tool_needed - len(tool_items), fresh_first=True)
-        final_items.extend(pool_tools)
-        if pool_tools:
-            print(f"  [INFO] TOOL: {len(pool_tools)} items from pool")
-    
-    # GUIDE
-    guide_needed = targets[Category.GUIDE]
-    final_items.extend(guide_items[:guide_needed])
-    if len(guide_items) < guide_needed:
-        pool_guides = news_pool.get_items_for_category(Category.GUIDE, guide_needed - len(guide_items), fresh_first=False)  # GUIDEは古いのから消化
-        final_items.extend(pool_guides)
-        if pool_guides:
-            print(f"  [INFO] GUIDE: {len(pool_guides)} items from pool")
+
+    items_by_category = {
+        Category.MONEY: money_items,
+        Category.NEWS: news_items,
+        Category.TOOL: tool_items,
+        Category.GUIDE: guide_items,
+    }
+
+    for cat in get_current_priority():
+        needed = targets[cat]
+        direct_items = items_by_category.get(cat, [])[:needed]
+        final_items.extend(direct_items)
+
+        if len(direct_items) < needed:
+            pool_items = news_pool.get_items_for_category(
+                cat,
+                needed - len(direct_items),
+                fresh_first=(cat != Category.GUIDE),
+            )
+            final_items.extend(pool_items)
+            if pool_items:
+                print(f"  [INFO] {cat.value}: {len(pool_items)} items from pool")
 
     # -------------------------
     # Dry-run: Show simulation and exit
