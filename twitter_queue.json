@@ -14589,5 +14589,33 @@
     "image_path": "/images/posts/2026-05-06-moar-ai-document-parser-review.jpg",
     "created_at": "2026-05-06T17:32:50.237127+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-06-marc-lore-wonder-ai-restaurant-factory",
+    "title": "Wonderが狙う「プロンプトで開店」するAIレストラン工場の全貌",
+    "url": "https://ai.negi-lab.com/posts/marc-lore-wonder-ai-restaurant-factory/",
+    "category": "NEWS",
+    "viral_tags": "#WonderAI #フードテック",
+    "tweet_text": "飲食業界の風景が、コード1行で変わる時代が来ました。\n\nMarc Loreが率いるWonderが発表した「AIレストラン工場」の構想が、エンジニア目線で見るとあまりに合理的で衝撃的です。\nプロンプト一つでバーチャルブランドを即座にデプロイし、AIとロボットが調理を代行する。\nSIer時代、工場のライン制御を1mm単位で調整するのに半年かけていた苦労は何だったのか…。\n\n技術の核心は「レシピのコンパイル」です。\nマルチモーダルAIがテキストを物理的な動作命令に変換し、デジタルツインでシミュレートしてから実機のロボットを動かす。\nこのフローが確立されると、飲食業の参入障壁は「調理技術」から「データ構造化」と「ブランド設計」へ完全に移行します。\n\nもはや料理は「家事」ではなく、リソースとして呼び出す「API」になるのかもしれません。\nこれからは「秘伝のタレ」を隠すより、レシピをいかにJSONで精緻に記述できるかがシェフのスキルになるはず。\n\n皆さんは、自分の「理想の味」をプロンプトだけで再現できるとしたら、どんな店をデプロイしたいですか？\n物理世界のSaaS化、このスピード感に付いていけてますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-06-marc-lore-wonder-ai-restaurant-factory.jpg",
+    "created_at": "2026-05-06T20:07:38.787927+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-06-paysh-autonomous-ai-agent-api-payment-review",
+    "title": "pay.sh 使い方と評価：AIエージェントが自律的にAPIを選択・決済する未来",
+    "url": "https://ai.negi-lab.com/posts/paysh-autonomous-ai-agent-api-payment-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Solana",
+    "tweet_text": "AIエージェントに「財布」を持たせる時代が本格的に来ました。pay.shを使ってみましたが、これは単なる決済ツールではなく、エージェントの自律性を定義し直すインフラですね。\n\n今までLangChainとかでエージェント組むとき、一番面倒だったのがAPIキーの管理と各サービスのサブスク登録。あれだけで開発の手が止まる。pay.shはSolanaを使って1リクエスト単位で即時決済するから、エージェントが「あ、このタスクにはあの有料APIが必要だ」と判断した瞬間に、人間を介さず勝手に支払って結果を持ってきます。\n\nSIer時代にAPIの承認フローで数日待たされていた経験からすると、0.3秒で決済が終わるこのスピード感はもはや魔法。SOLで払うので、0.1円以下のマイクロペイメントが実用レベルなのが強い。\n\nただ、正直なところ日本の法人だと税務処理がカオスになりそうなので、まずは個人開発や海外ターゲットのプロダクトから導入するのが現実的。でも「APIキーを環境変数に詰め込む」っていう今の常識は、1年後には古くなっているかもしれません。\n\n皆さんはAIにどこまで予算の権限を委ねられますか？「1日1ドルまでなら勝手に使っていいよ」という設定、意外とアリじゃないですか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-06-paysh-autonomous-ai-agent-api-payment-review.jpg",
+    "created_at": "2026-05-06T20:08:38.167159+09:00",
+    "posted": false
   }
 ]
