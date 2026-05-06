@@ -14617,5 +14617,33 @@
     "image_path": "/images/posts/2026-05-06-paysh-autonomous-ai-agent-api-payment-review.jpg",
     "created_at": "2026-05-06T20:08:38.167159+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-06-chatgpt-ads-practical-guide-review",
+    "title": "Ads in ChatGPT 使い方：会話型AI広告の運用と効果測定を実践レビュー",
+    "url": "https://ai.negi-lab.com/posts/chatgpt-ads-practical-guide-review/",
+    "category": "TOOL",
+    "viral_tags": "#SearchGPT #デジタルマーケティング",
+    "tweet_text": "ついに「AIの回答の隙間」を奪い合う時代が来た。\nGoogle検索のシェアが削られる中、マーケターが次に戦う場所はChatGPTの中です。\n\nAds in ChatGPTを実際に触ってみて驚いたのは、そのターゲティングの深さ。\n従来の「キーワード」はもう古い。\nこれからは、ユーザーとAIの「会話の文脈（コンテキスト）」を直接買い取る形になります。\n\n例えば、ユーザーが業務効率化に悩んでいる「その瞬間」に、自社の自動化ツールをAIに提案させる。\nしかも、RTX 4090環境で検証したところ、インテント解析の精度がめちゃくちゃ高い。\n冷やかしクリックを弾く `intensity_threshold` 設定は、SIer時代に欲しかった機能そのものですね。\n\n正直、少額予算で回す個人にはまだ早い。\nでも、B2B SaaSや専門サービスをやってるなら、今のCPCが安いうちに枠を抑えるべき。\nこれ、放置してたらGoogle Adsの初期みたいに、後から参入しても高騰して手が出せなくなりますよ。\n\n実際のSDKの挙動や、LLM特有の計測の落とし穴についても詳しくまとめました。\nこれからの「CEO（Chat Engine Optimization）」を勝ち抜くための具体的な手順、置いておきます。\nAI広告、皆さんの周りではどれくらい意識されてますか？",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-06-chatgpt-ads-practical-guide-review.jpg",
+    "created_at": "2026-05-06T23:29:49.286486+09:00",
+    "posted": false
+  },
+  {
+    "article_id": "2026-05-06-qwen-36-27b-mtp-local-inference-guide",
+    "title": "Qwen 3.6 27BのMTPモデルを爆速で動かす！ローカルコーディング環境構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/qwen-36-27b-mtp-local-inference-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#LocalLLaMA #QwenAI",
+    "tweet_text": "ローカルLLMの進化速度が、私のSIer時代の常識を完全に破壊しにきています。\nQwen 3.6 27BにMTP（Multi-Token Prediction）を適用した結果、推論速度が従来の2.5倍に跳ね上がりました。\n正直、机の下のRTX 4090 2枚挿しマシンが、そこら辺のシニアエンジニアより速く正確なコードを吐き出しています。\n特に衝撃的なのが、48GBのVRAMで262kものコンテキストを維持できる点。\nこれ、プロジェクトの全ファイルを一度に読み込ませて「影響範囲を全部洗い出して」という無茶振りがローカルで完結するということなんです。\n課金もプライバシーも気にせず、最強のコーディングエージェントを自分専用に飼える時代。\n実際に llama.cpp でビルドして動かすまでの手順を、ハマりどころも含めて徹底解説しました。\n皆さんはローカルLLMを実務で使う際、速度と精度のどちらを優先していますか？実際の使用感や不満点など教えてください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-06-qwen-36-27b-mtp-local-inference-guide.jpg",
+    "created_at": "2026-05-06T23:30:59.228567+09:00",
+    "posted": false
   }
 ]

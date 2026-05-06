@@ -1,85 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Firestorm Labs raises $82M to take drone factories into the field",
-      "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 29 Apr 2026 13:10:57 +0000",
-      "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
-      "extra": {},
-      "collected_at": "2026-04-29T23:10:07"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
-      "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Wed, 29 Apr 2026 13:00:00 +0000",
-      "summary": "Think Discord chats, but with AI characters in addition to humans.",
-      "extra": {},
-      "collected_at": "2026-04-29T23:10:07"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Larry’s risky business",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-04-29T09:57:16-04:00",
-      "summary": "If you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle. That's right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthropic, [&#8230;]",
-      "extra": {},
-      "collected_at": "2026-04-29T23:10:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "KarmaBox",
-      "url": "https://www.producthunt.com/products/karmabox-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Run your own Claude Code in your pocket. </p> <p> <a href=\"https://www.producthunt.com/products/karmabox-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130700?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-04-29T23:10:12"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen Introduced FlashQLA",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1syx4sg/qwen_introduced_flashqla/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-04-29T12:18:22+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1syx4sg/qwen_introduced_flashqla/\"> <img alt=\"Qwen Introduced FlashQLA\" src=\"https://preview.redd.it/7l3v03pbg4yg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a529b478376800094120038c98acb74e12d6a345\" title=\"Qwen Introduced FlashQLA\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Introducing FlashQLA: high-performance linear attention kernels built on TileLang.</p> <p>2–3× forward speedup. 2× backward speedup.</p> ",
-      "extra": {},
-      "collected_at": "2026-04-29T23:10:15"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "llama.cpp benchmark native vs. non native NVFP4 on Blackwell - summary",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1syxckc/llamacpp_benchmark_native_vs_non_native_nvfp4_on/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-04-29T12:27:37+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I tested two llama.cpp builds on the same <strong>Qwen3.6-27B-NVFP4</strong> model.</p> <p><code>llama-bench</code> reports the model label as <code>qwen35 27B NVFP4</code>, but the actual tested model is <strong>Qwen3.6-27B-NVFP4</strong>.</p> <h1>Test platform</h1> <ul> <li><strong>GPU:</strong> NVIDIA GeForce RTX 5090</li> <li><strong>CPU:</strong> AMD Ryzen 9 9950X3D</li> <li><strong>RAM:</strong> 128 GB DDR5 5600 CL36</li> <li><strong>Backend:</strong> CUDA",
-      "extra": {},
-      "collected_at": "2026-04-29T23:10:15"
-    },
-    {
       "source": "The Verge AI",
       "title": "Google Photos launches an AI try-on feature for clothes you already have",
       "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
@@ -2623,32 +2544,6 @@
       "collected_at": "2026-05-06T15:10:58"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
-      "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 06 May 2026 06:34:32 +0000",
-      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
-      "extra": {},
-      "collected_at": "2026-05-06T17:30:29"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "pay.sh",
-      "url": "https://www.producthunt.com/products/solanafndn",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Discover, access, and pay for any API autonomously </p> <p> <a href=\"https://www.producthunt.com/products/solanafndn?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1136774?app_id=339\">Link</a> </p>",
-      "extra": {},
-      "collected_at": "2026-05-06T17:30:36"
-    },
-    {
       "source": "Product Hunt",
       "title": "Gyro Autopilot",
       "url": "https://www.producthunt.com/products/gyro-autopilot",
@@ -2811,7 +2706,114 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><blockquote> <p><strong>WARNING: wait before download from HF: I just realised my upload of the new versions with the additional fix in the chat template has not completed yet. I will remove this warning once done</strong></p> </blockquote> <p>The recent PR to llama.cpp bring MTP support to Qwen 3.6 27B. This uses the built-in tensor layers for speculative decoding. None of the existing GGUF have it, as they need to be converted with this PR.</p> <p>I have tested i",
       "extra": {},
       "collected_at": "2026-05-06T20:07:09"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 06 May 2026 14:00:00 +0000",
+      "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
+      "extra": {},
+      "collected_at": "2026-05-06T23:26:25"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI boom pushes Samsung to $1T",
+      "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 06 May 2026 13:54:09 +0000",
+      "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+      "extra": {},
+      "collected_at": "2026-05-06T23:26:25"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google&#8217;s AI search summaries will now quote Reddit",
+      "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-05-06T09:00:30-04:00",
+      "summary": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search queries with online conversations around similar topics. [&#8230;]",
+      "extra": {},
+      "collected_at": "2026-05-06T23:26:25"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ads in ChatGPT",
+      "url": "https://www.producthunt.com/products/chatgpt",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create, manage, and measure your ChatGPT ad campaigns </p> <p> <a href=\"https://www.producthunt.com/products/chatgpt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140101?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-06T23:26:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Knowly 1.0",
+      "url": "https://www.producthunt.com/products/knowly-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> LLM Wiki + NotebookLM, in one closed-loop Proactive AI </p> <p> <a href=\"https://www.producthunt.com/products/knowly-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140122?app_id=339\">Link</a> </p>",
+      "extra": {},
+      "collected_at": "2026-05-06T23:26:29"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Bad news: Apple drops high-memory Mac Studio configs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t59rda/bad_news_apple_drops_highmemory_mac_studio_configs/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-06T11:13:02+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t59rda/bad_news_apple_drops_highmemory_mac_studio_configs/\"> <img alt=\"Bad news: Apple drops high-memory Mac Studio configs\" src=\"https://external-preview.redd.it/52vUbMMQc7is-aNzzgL7XAZIrZoghfbf04gNtjrUQqc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a88e0780fe8c5c36298cb903c596158b9688c6c\" title=\"Bad news: Apple drops high-memory Mac Studio configs\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Looks like Apple",
+      "extra": {},
+      "collected_at": "2026-05-06T23:26:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.6-27B with MTP grafted on Unsloth UD XL: 2.5x throughput via unmerged llama.cpp PR",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t5ageq/qwen3627b_with_mtp_grafted_on_unsloth_ud_xl_25x/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-05-06T11:45:46+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I've been working on getting Multi-Token Prediction (MTP) working with quantized GGUFs for Qwen3-27B and the results are pretty impressive. Here's what I put together: <a href=\"https://huggingface.co/havenoammo/Qwen3.6-27B-MTP-UD-GGUF\">https://huggingface.co/havenoammo/Qwen3.6-27B-MTP-UD-GGUF</a></p> <p>These are Unsloth's UD XL quantizations of Qwen3-27B with the MTP draft heads grafted on top in Q8_0. The base model stays in its usual low-bit qua",
+      "extra": {},
+      "collected_at": "2026-05-06T23:26:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Decoupled Attention from Weights - Gemma 4 26B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t5ap0y/decoupled_attention_from_weights_gemma_4_26b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-05-06T11:56:45+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Absolutely unbelievably exciting work, split attention (i.e. a couple of GB) onto local machine and the weights onto another local machine (say a cheap Xeon) to basically bypass the scale issue with local LLMs completely!! Repo with functional code: <a href=\"https://github.com/chrishayuk/larql\">https://github.com/chrishayuk/larql</a></p> <p>edit: just found <a href=\"https://www.youtube.com/watch?v=1jGR4zqpyKA\">https://www.youtube.com/watch?v=1jGR4zqpyKA</a> for ",
+      "extra": {},
+      "collected_at": "2026-05-06T23:26:32"
     }
   ],
-  "updated_at": "2026-05-06T20:07:09.923373+09:00"
+  "updated_at": "2026-05-06T23:26:32.414667+09:00"
 }
