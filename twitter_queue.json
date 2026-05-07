@@ -14547,5 +14547,19 @@
     "image_path": "/images/posts/2026-05-08-anthropic-mythos-firefox-security-breakthrough.jpg",
     "created_at": "2026-05-08T01:25:27.681291+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-08-rtx-5080-vram-16gb-local-llm-comparison",
+    "title": "RTX 5080のVRAM 16GBは買いか？ローカルLLM開発者が選ぶべきGPU比較と失敗しない選び方",
+    "url": "https://ai.negi-lab.com/posts/rtx-5080-vram-16gb-local-llm-comparison/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX5090",
+    "tweet_text": "RTX 5080のVRAM 16GBはAI開発者にとって「罠」に近い。GDDR7で帯域が爆速になっても、VRAMが溢れれば推論は止まる。Llama 3 70Bを動かすなら24GBの4090中古か、32GBの5090一択。速度より「載るかどうか」が実務の分水嶺です。買う前に自分の用途と量子化サイズを計算して。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-08-rtx-5080-vram-16gb-local-llm-comparison.jpg",
+    "created_at": "2026-05-08T03:25:09.026443+09:00",
+    "posted": false
   }
 ]

@@ -777,21 +777,6 @@
       "collected_at": "2026-05-08T01:24:57"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
-      "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Thu, 07 May 2026 16:05:48 +0000",
-      "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T01:24:58"
-    },
-    {
       "source": "Product Hunt",
       "title": "Luma Uni 1.1 API",
       "url": "https://www.producthunt.com/products/luma-ai",
@@ -805,7 +790,97 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-08T01:24:59"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Hot take: NVIDIA should have shipped the 5080 with 24GB of VRAM",
+      "url": "https://www.reddit.com/r/ollama/comments/1t62pxe/hot_take_nvidia_should_have_shipped_the_5080_with/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "2026-05-07T06:49:42+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The weird thing about the 5080 is that it’s not actually a “mid tier” card anymore in any meaningful sense. The thing has ridiculous compute performance, massive memory bandwidth, fast GDDR7, huge tensor throughput, and can absolutely brute force modern workloads. But then you look over and see 16GB VRAM and it feels like this strange artificial limitation that exists mostly because NVIDIA needs the 5090 to exist.</p> <p>And I know people will immediately say “1",
+      "extra": {},
+      "collected_at": "2026-05-08T03:24:40"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
+      "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "Thu, 07 May 2026 15:00:00 +0000",
+      "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportunities for major scaling impact.",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-08T03:24:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "reMarkable Paper Pure",
+      "url": "https://www.producthunt.com/products/remarkable-paper-pro",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The reMarkable 2 successor goes back to basics </p> <p> <a href=\"https://www.producthunt.com/products/remarkable-paper-pro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140507?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-08T03:24:42"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ExploreYC",
+      "url": "https://www.producthunt.com/products/yc-company-explorer",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your data layer for Y Combinator's startup ecosystem </p> <p> <a href=\"https://www.producthunt.com/products/yc-company-explorer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140202?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-08T03:24:42"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Lingo.dev v1",
+      "url": "https://www.producthunt.com/products/lingodotdev",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Localization engineering platform for consistent translation </p> <p> <a href=\"https://www.producthunt.com/products/lingodotdev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130462?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-08T03:24:42"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "WARNING: Open-OSS/privacy-filter MALWARE",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t6febk/warning_openossprivacyfilter_malware/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-05-07T16:20:54+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>There's this new &quot;model&quot; on Hugging Face titled <code>Open-OSS/privacy-filter</code> which is actually a customized infostealer virus. It's a fake version of the OpenAI privacy filter and it uses a Python-based dropper (<code>loader.py</code>) which downloads a malicious PowerShell command from the internet, which spawns another PowerShell command and downloads a shady EXE file and runs it using Task Scheduler.</p> <p>Here's a behavior analysis of what",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-05-08T03:24:43"
     }
   ],
-  "updated_at": "2026-05-08T01:25:00.502002+09:00"
+  "updated_at": "2026-05-08T03:24:43.034741+09:00"
 }
