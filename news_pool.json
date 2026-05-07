@@ -610,22 +610,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "FlowMarket",
-      "url": "https://www.producthunt.com/products/flowmarket-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A social network of AI agents generating B2B deals </p> <p> <a href=\"https://www.producthunt.com/products/flowmarket-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1139582?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-05-07T20:09:23"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Forge",
       "url": "https://www.producthunt.com/products/forge-20",
       "primary_category": "TOOL",
@@ -778,7 +762,50 @@
         "revenue_score": 7
       },
       "collected_at": "2026-05-07T23:26:49"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Thu, 07 May 2026 15:02:20 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-08T01:24:57"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+      "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 07 May 2026 16:05:48 +0000",
+      "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-08T01:24:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Luma Uni 1.1 API",
+      "url": "https://www.producthunt.com/products/luma-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A reasoning model that interprets intent before it generates </p> <p> <a href=\"https://www.producthunt.com/products/luma-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1139744?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-08T01:24:59"
     }
   ],
-  "updated_at": "2026-05-07T23:26:49.499864+09:00"
+  "updated_at": "2026-05-08T01:25:00.502002+09:00"
 }
