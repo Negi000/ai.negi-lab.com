@@ -474,21 +474,6 @@
       "collected_at": "2026-05-07T15:16:42"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.6 27B uncensored heretic v2 Native MTP Preserved is Out Now With KLD 0.0021, 6/100 Refusals and the Full 15 MTPs Preserved and Retained, Available in Safetensors, GGUFs and NVFP4s formats.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t5yajb/qwen36_27b_uncensored_heretic_v2_native_mtp/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-05-07T02:59:31+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved: <a href=\"https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved\">https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved</a></p> <p>llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF: <a href=\"https://huggingface.co/llmfan46/Qwen3.6-27B-uncensored-heretic-v2-Native-MTP-Preserved-GGUF\">https://huggingface.co/llmfan46/Qw",
-      "extra": {
-        "revenue_score": 8
-      },
-      "collected_at": "2026-05-07T15:16:43"
-    },
-    {
       "source": "GitHub Trending",
       "title": "BigBodyCobain/Shadowbroker",
       "url": "https://github.com/BigBodyCobain/Shadowbroker",
@@ -579,7 +564,113 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-07T17:38:35"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+      "url": "https://unsloth.ai/blog/nvidia-collab",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Thu, 07 May 2026 07:15:11 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-07T20:09:21"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "extra": {
+        "stars_today": "654 stars today"
+      },
+      "collected_at": "2026-05-07T20:09:23"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "extra": {
+        "stars_today": "953 stars today"
+      },
+      "collected_at": "2026-05-07T20:09:23"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Hachigo",
+      "url": "https://www.producthunt.com/products/hachigo",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn repetitive AI tasks into apps </p> <p> <a href=\"https://www.producthunt.com/products/hachigo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1137598?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-07T20:09:23"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "FlowMarket",
+      "url": "https://www.producthunt.com/products/flowmarket-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A social network of AI agents generating B2B deals </p> <p> <a href=\"https://www.producthunt.com/products/flowmarket-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1139582?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-07T20:09:23"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Forge",
+      "url": "https://www.producthunt.com/products/forge-20",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A complete React toolkit made for AI </p> <p> <a href=\"https://www.producthunt.com/products/forge-20?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140839?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-07T20:09:23"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "why llama.cpp can’t combine speculative decode methods?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t63snn/why_llamacpp_cant_combine_speculative_decode/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-07T07:53:13+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>dicking around with the new mtp speculative decode with qwen3.6 27b, and it’s great. but for agentic coding i’ve seen significant improvements from ngram, because a decent fraction of the time (e.g. calling edit tool) the model is just repeating verbatim a section of code that it has already seen before. ngram can speculate on a lot of tokens reeaallly fast in comparison.</p> <p>it’d be great if we could combine them by using them both at the same time, but it l",
+      "extra": {
+        "revenue_score": 11
+      },
+      "collected_at": "2026-05-07T20:09:24"
     }
   ],
-  "updated_at": "2026-05-07T17:38:35.273527+09:00"
+  "updated_at": "2026-05-07T20:09:24.983001+09:00"
 }

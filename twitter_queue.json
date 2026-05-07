@@ -14505,5 +14505,19 @@
     "image_path": "/images/posts/2026-05-07-qwen3-6-27b-uncensored-mtp-setup-guide.jpg",
     "created_at": "2026-05-07T17:39:03.722020+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-07-gemma-4-mtp-local-llm-gpu-guide",
+    "title": "Gemma 4 MTP比較と選び方！ローカルLLM向けRTX・Mac購入ガイド",
+    "url": "https://ai.negi-lab.com/posts/gemma-4-mtp-local-llm-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #Gemma4",
+    "tweet_text": "GoogleのGemma 4 MTPが登場。31Bモデルをローカルで動かすなら、もはやVRAM 24GBは「推奨」ではなく「最低ライン」です。MTPによる推論のキレを体感するには、RTX 4090かMacメモリ64GB以上が必須。16GB以下で妥協すると、一番美味しい高速化の恩恵を捨てているのと同じ。今すぐハードウェア構成を見直すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-07-gemma-4-mtp-local-llm-gpu-guide.jpg",
+    "created_at": "2026-05-07T20:09:50.985273+09:00",
+    "posted": false
   }
 ]
