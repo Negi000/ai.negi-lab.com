@@ -147,21 +147,6 @@
     },
     {
       "source": "r/LocalLLaMA Weekly",
-      "title": "Gemma 4 MTP released",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t4jq6h/gemma_4_mtp_released/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-05-05T16:01:17+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Blog post:</p> <p><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/\">https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</a></p> <p>MTP draft models:</p> <p><a href=\"https://huggingface.co/google/gemma-4-31B-it-assistant\">https://huggingface.co/google/gemma-4-31B-it-assistant</a></p> <p><a href=\"https://huggingface.co/google/gemma-4-26B-A4B-it-assistant\">https:",
-      "extra": {},
-      "collected_at": "2026-05-07T01:38:49"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
       "title": "AMD in-house ryzen 395 box coming in June",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t038g7/amd_inhouse_ryzen_395_box_coming_in_june/",
       "primary_category": "MONEY",
@@ -670,7 +655,130 @@
         "revenue_score": 11
       },
       "collected_at": "2026-05-07T20:09:24"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "AMD Halo Box (Ryzen 395 128GB) photos",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t09hyw/amd_halo_box_ryzen_395_128gb_photos/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-04-30T21:23:50+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t09hyw/amd_halo_box_ryzen_395_128gb_photos/\"> <img alt=\"AMD Halo Box (Ryzen 395 128GB) photos\" src=\"https://preview.redd.it/qa6gztojaeyg1.jpg?width=140&amp;height=105&amp;auto=webp&amp;s=53b08de6d0ac405842ca9feb12c19082085b19ac\" title=\"AMD Halo Box (Ryzen 395 128GB) photos\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This demo unit was running Ubuntu and the light strip is apparently programmable.</p> </div><!-- SC_O",
+      "extra": {},
+      "collected_at": "2026-05-07T23:26:46"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale",
+      "url": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 07 May 2026 14:24:54 +0000",
+      "summary": "Self-driving has been &#8220;almost here&#8221; for over a decade. But somewhere between DARPA&#160;challenges&#160;and a handful of driverless trucks hauling freight between Dallas and Houston, Aurora&#160;co-founder and&#160;CEO&#160;Chris Urmson’s story&#160;changed.&#160;The self-driving truck&#160;company&#160;started commercial driverless operations last April and is now scaling from a handful of trucks to hundreds this year.&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;pod",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-05-07T23:26:47"
+    },
+    {
+      "source": "Google News",
+      "title": "米AnthropicのClaude、金融特化のAIエージェント10種を発表 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yTzNqLUh6ZjRmSHdaZlZ5YW1tVXFva3lJY2I0YVlwUUQ2WlVkR0FRbmhDR0x5NEZBOEM3b09YZG10U1FaUHZnV3VYbWpsLXM?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 07 May 2026 08:24:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yTzNqLUh6ZjRmSHdaZlZ5YW1tVXFva3lJY2I0YVlwUUQ2WlVkR0FRbmhDR0x5NEZBOEM3b09YZG10U1FaUHZnV3VYbWpsLXM?oc=5\" target=\"_blank\">米AnthropicのClaude、金融特化のAIエージェント10種を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ビジネス+IT</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-07T23:26:48"
+    },
+    {
+      "source": "Google News",
+      "title": "OpenAI o1は電子カルテと看護師からのわずか数文の情報だけで従来モデルと人間の医師の両方を大きく上回る正確な診断ができたという研究結果 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MUkgzd2hPenJsQ29hWUx0a0dETTVWVHFLeXJuTDNNMlZvRXNwekl3VFZ4bUR6WWFzLTdFcHdIczFlaUQyUERENXBoOFJ3Z0ZTVm9kSG9tOG5COFlaTkxRSmlMVHU?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 07 May 2026 10:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MUkgzd2hPenJsQ29hWUx0a0dETTVWVHFLeXJuTDNNMlZvRXNwekl3VFZ4bUR6WWFzLTdFcHdIczFlaUQyUERENXBoOFJ3Z0ZTVm9kSG9tOG5COFlaTkxRSmlMVHU?oc=5\" target=\"_blank\">OpenAI o1は電子カルテと看護師からのわずか数文の情報だけで従来モデルと人間の医師の両方を大きく上回る正確な診断ができたという研究結果</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-07T23:26:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ClearMesh",
+      "url": "https://www.producthunt.com/products/clearmesh",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A Git-like platform for datasets, models, and binary folders </p> <p> <a href=\"https://www.producthunt.com/products/clearmesh?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140807?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-07T23:26:48"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "AMD Intros Instinct MI350P Accelerator: CDNA 4 Comes to PCIe Cards",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t6b2x8/amd_intros_instinct_mi350p_accelerator_cdna_4/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-05-07T13:47:49+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t6b2x8/amd_intros_instinct_mi350p_accelerator_cdna_4/\"> <img alt=\"AMD Intros Instinct MI350P Accelerator: CDNA 4 Comes to PCIe Cards\" src=\"https://preview.redd.it/tcd7csafzpzg1.png?width=140&amp;height=78&amp;auto=webp&amp;s=fbce938331399eb65607f932cd35cf6a15064c6d\" title=\"AMD Intros Instinct MI350P Accelerator: CDNA 4 Comes to PCIe Cards\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.servethehome.",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-07T23:26:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "DeepSeek nears $45bn valuation as China’s ‘Big Fund’ leads investment talks",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t66dau/deepseek_nears_45bn_valuation_as_chinas_big_fund/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-05-07T10:21:50+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t66dau/deepseek_nears_45bn_valuation_as_chinas_big_fund/\"> <img alt=\"DeepSeek nears $45bn valuation as China’s ‘Big Fund’ leads investment talks\" src=\"https://preview.redd.it/by7i0mm0yozg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6b4b6a94d5b261f7bbb6156e1311b03c8d6999d9\" title=\"DeepSeek nears $45bn valuation as China’s ‘Big Fund’ leads investment talks\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>From:<br />",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-07T23:26:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "feat: Add Mimo v2.5 model support by AesSedai · Pull Request #22493 · ggml-org/llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t67lvx/feat_add_mimo_v25_model_support_by_aessedai_pull/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-07T11:23:28+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t67lvx/feat_add_mimo_v25_model_support_by_aessedai_pull/\"> <img alt=\"feat: Add Mimo v2.5 model support by AesSedai · Pull Request #22493 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/obkOwhD5BZKXQlVroQs_l1aDFht2vcn9I07quGq3xnQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=52b3c7e0f19c24bcc7af49b5c40aece10d330506\" title=\"feat: Add Mimo v2.5 model support by AesSedai · Pull Request #22493 · ggml-org/llama.cpp\"",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-05-07T23:26:49"
     }
   ],
-  "updated_at": "2026-05-07T20:09:24.983001+09:00"
+  "updated_at": "2026-05-07T23:26:49.499864+09:00"
 }
