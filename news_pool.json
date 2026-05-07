@@ -70,21 +70,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "LearningCircuit/local-deep-research",
-      "url": "https://github.com/LearningCircuit/local-deep-research",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
-      "extra": {
-        "stars_today": "532 stars today"
-      },
-      "collected_at": "2026-05-07T01:32:25"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "primary_category": "TOOL",
@@ -357,7 +342,70 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-07T07:05:13"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "cheahjs/free-llm-api-resources",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A list of free LLM inference resources accessible via API.",
+      "extra": {
+        "stars_today": "198 stars today"
+      },
+      "collected_at": "2026-05-07T12:49:31"
+    },
+    {
+      "source": "Google News",
+      "title": "「サム・アルトマンCEOはAIモデルの安全基準について社内でウソをついた」と元OpenAI幹部が証言 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JZmJrcUlQR0VGUExGTmZnbkdJSGdsanlGMlBCVUgyQWR3VGh0QVhsdXE5NWhHMnBlc0hOMkc5cEVTU0FqRl9aZVAxTVJQMXhMY0xXcF9iUDJHSHo0dHpVUTYwQkFlTHdiX0hZ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 07 May 2026 02:45:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9JZmJrcUlQR0VGUExGTmZnbkdJSGdsanlGMlBCVUgyQWR3VGh0QVhsdXE5NWhHMnBlc0hOMkc5cEVTU0FqRl9aZVAxTVJQMXhMY0xXcF9iUDJHSHo0dHpVUTYwQkFlTHdiX0hZ?oc=5\" target=\"_blank\">「サム・アルトマンCEOはAIモデルの安全基準について社内でウソをついた」と元OpenAI幹部が証言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-05-07T12:49:32"
+    },
+    {
+      "source": "Google News",
+      "title": "AI内在化企業で売上成長鮮明に - CHOSUNBIZ - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SenFYS0tZR1VnZG5GMHc0NG0wbHdYSUw0RE5GQzVra3dLUlJCc09jOURycXdmTmRhcHI1UFA1Sko1dXlmN1A3YWl0VG5LVUZkMFFYQldWZldRUGY1Uk1VVktfWFUzVWI3ZTRtaS1waHV4ZmhQbkM0aWZ30gGOAUFVX3lxTE9TY0NNOWZPTkF6bkN5VnpnZVg1T0dnM3Z4WENfU3AzWU9iQ3ZzbzV1blVXRF81djVXdnVtZkktbTU5RVROVXpjWnVoTVlEd2R0NjFYOGMtcWpOYmNQTWNRM0tkT2dxcmthZklrSGFfejFCOFFKOWdlTGJ4eTdaWURBZlg5S3hUOXJTR1lmaGc?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 07 May 2026 01:19:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1SenFYS0tZR1VnZG5GMHc0NG0wbHdYSUw0RE5GQzVra3dLUlJCc09jOURycXdmTmRhcHI1UFA1Sko1dXlmN1A3YWl0VG5LVUZkMFFYQldWZldRUGY1Uk1VVktfWFUzVWI3ZTRtaS1waHV4ZmhQbkM0aWZ30gGOAUFVX3lxTE9TY0NNOWZPTkF6bkN5VnpnZVg1T0dnM3Z4WENfU3AzWU9iQ3ZzbzV1blVXRF81djVXdnVtZkktbTU5RVROVXpjWnVoTVlEd2R0NjFYOGMtcWpOYmNQTWNRM0tkT2dxcmthZklrSGFfejFCOFFKOWdlTGJ4eTdaWURBZlg5S3hUOXJTR1lmaGc?oc=5\" target=\"_blank\">AI内在化企業で売上成長鮮明に - CHOSUNBIZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cho",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-07T12:49:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Get faster qwen 3.6 27b",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t5tnzl/get_faster_qwen_36_27b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-06T23:33:07+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Using 100k context with 3090 with MTP GGUF and getting 50 t/s on llama.cpp</p> <p>Thought I would knowledge share</p> <p>Use <a href=\"https://huggingface.co/RDson/Qwen3.6-27B-MTP-Q4_K_M-GGUF\">https://huggingface.co/RDson/Qwen3.6-27B-MTP-Q4_K_M-GGUF</a></p> <p>And am17an commit - <a href=\"https://github.com/ggml-org/llama.cpp/pull/22673\">https://github.com/ggml-org/llama.cpp/pull/22673</a> How to apply - Steps</p> <p>```bash cd path/to/llama.cpp</p> <p>git fetch ",
+      "extra": {
+        "revenue_score": 11
+      },
+      "collected_at": "2026-05-07T12:49:33"
     }
   ],
-  "updated_at": "2026-05-07T07:05:13.265050+09:00"
+  "updated_at": "2026-05-07T12:49:33.022049+09:00"
 }

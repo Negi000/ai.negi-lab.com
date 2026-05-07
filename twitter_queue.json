@@ -14463,5 +14463,19 @@
     "image_path": "/images/posts/2026-05-07-local-deep-research-hardware-guide-rtx-mac.jpg",
     "created_at": "2026-05-07T07:05:36.777407+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-05-07-tabpfn-tabular-foundation-model-review",
+    "title": "TabPFN 使い方と実務におけるFoundation Modelの衝撃",
+    "url": "https://ai.negi-lab.com/posts/tabpfn-tabular-foundation-model-review/",
+    "category": "TOOL",
+    "viral_tags": "#TabPFN #機械学習",
+    "tweet_text": "テーブルデータの機械学習で、もうチューニングに時間を溶かすのは終わり。TabPFNが異次元すぎる。\n\n特徴量エンジニアリング不要、ハイパラ探索不要、学習プロセスすら飛ばして「fitした瞬間に推論完了」。\nTransformerベースのFoundation Modelが、小〜中規模データならXGBoostを精度で圧倒する。\n\n実務エンジニアが真っ先に試すべき「魔法の杖」の正体。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-07-tabpfn-tabular-foundation-model-review.jpg",
+    "created_at": "2026-05-07T12:49:59.263732+09:00",
+    "posted": false
   }
 ]
