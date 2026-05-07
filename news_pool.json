@@ -792,20 +792,6 @@
       "collected_at": "2026-05-08T01:24:59"
     },
     {
-      "source": "r/ollama",
-      "title": "Hot take: NVIDIA should have shipped the 5080 with 24GB of VRAM",
-      "url": "https://www.reddit.com/r/ollama/comments/1t62pxe/hot_take_nvidia_should_have_shipped_the_5080_with/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "2026-05-07T06:49:42+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The weird thing about the 5080 is that it’s not actually a “mid tier” card anymore in any meaningful sense. The thing has ridiculous compute performance, massive memory bandwidth, fast GDDR7, huge tensor throughput, and can absolutely brute force modern workloads. But then you look over and see 16GB VRAM and it feels like this strange artificial limitation that exists mostly because NVIDIA needs the 5090 to exist.</p> <p>And I know people will immediately say “1",
-      "extra": {},
-      "collected_at": "2026-05-08T03:24:40"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
       "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
@@ -880,7 +866,109 @@
         "revenue_score": 2
       },
       "collected_at": "2026-05-08T03:24:43"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 07 May 2026 17:54:02 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-08T07:11:49"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "DeepSeek V4 being 17x cheaper got me to actually measure what I send to cloud vs what I could run locally. the results are stupid.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t4s6g2/deepseek_v4_being_17x_cheaper_got_me_to_actually/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-05T20:55:56+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>That foodtruck bench post showing deepseek v4 matching gpt-5.2 at 17x cheaper got me thinking. if frontier cloud models are that overpriced for equivalent quality, how much of my daily work even needs cloud at all?</p> <p>Ran my normal coding workflow for 10 days. every task got logged: what it was, tokens in/out, whether local qwen 3.6 27b (on a 3090) could have done it. didn't use benchmarks, just re-ran a random sample of 150 tasks on both.</p> <p>results:</p",
+      "extra": {},
+      "collected_at": "2026-05-08T07:11:51"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Ollama Cloud noticeable response speed change",
+      "url": "https://www.reddit.com/r/ollama/comments/1t69rfn/ollama_cloud_noticeable_response_speed_change/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-05-07T12:56:36+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have been running Openclaw with Ollama Cloud for a couple of months now. </p> <p>And I noticed recently that Ollama got a lot slower with responses. </p> <p>I compacted, reset, started new sessions, doesn’t matter. Every response takes 30+ seconds. I tested different LLMs, but mostly the big ones, Kiki, GLM, etc. </p> <p>Any suggestions? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tasty_Action5073\"> /u/Tasty_Action50",
+      "extra": {},
+      "collected_at": "2026-05-08T07:11:52"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 07 May 2026 21:02:11 +0000",
+      "summary": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-08T07:11:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "DevPass by LLM Gateway",
+      "url": "https://www.producthunt.com/products/devpass-by-llm-gateway",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> One key to access every coding model in 3 flat prices </p> <p> <a href=\"https://www.producthunt.com/products/devpass-by-llm-gateway?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1139858?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-08T07:11:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Saydi",
+      "url": "https://www.producthunt.com/products/saydi",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Live voice translation to hear the conversation instantly </p> <p> <a href=\"https://www.producthunt.com/products/saydi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140378?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-08T07:11:54"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "AMD to release slottable GPU",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t6gcw0/amd_to_release_slottable_gpu/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "2026-05-07T16:54:57+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Might be another option of us local LLM folks. I am very curious on the price. </p> <p><a href=\"https://www.theregister.com/ai-and-ml/2026/05/07/amd-takes-aim-at-enterprise-ai-with-pcie-based-instinct-gpus/5231481\">https://www.theregister.com/ai-and-ml/2026/05/07/amd-takes-aim-at-enterprise-ai-with-pcie-based-instinct-gpus/5231481</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/running101\"> /u/running101 </a> <br /> <sp",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-05-08T07:11:55"
     }
   ],
-  "updated_at": "2026-05-08T03:24:43.034741+09:00"
+  "updated_at": "2026-05-08T07:11:55.193232+09:00"
 }
