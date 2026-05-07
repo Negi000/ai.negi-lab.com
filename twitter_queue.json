@@ -14491,5 +14491,19 @@
     "image_path": "/images/posts/2026-05-07-qwen-3-6-27b-mtp-llamacpp-speedup-guide.jpg",
     "created_at": "2026-05-07T15:17:06.765992+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-07-qwen3-6-27b-uncensored-mtp-setup-guide",
+    "title": "Qwen3.6 27B Uncensoredをローカルで動かし制限なしの高度な推論環境を作る方法",
+    "url": "https://ai.negi-lab.com/posts/qwen3-6-27b-uncensored-mtp-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen3",
+    "tweet_text": "Qwen3.6 27B Uncensoredを検証。KLD 0.0021という低数値が示す通り、ベースモデルの知能を維持したまま検閲だけが消えてる。特筆すべきはMTP（マルチトークン予測）が保持されている点。RTX 4090ならQ4量子化で爆速。16GB VRAMでも工夫次第で実用圏内。ローカルLLMで「忖度なしの思考」を求めるなら現時点でこれが最適解。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-07-qwen3-6-27b-uncensored-mtp-setup-guide.jpg",
+    "created_at": "2026-05-07T17:39:03.722020+09:00",
+    "posted": false
   }
 ]

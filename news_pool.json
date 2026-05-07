@@ -374,24 +374,6 @@
       "collected_at": "2026-05-07T12:49:32"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "Get faster qwen 3.6 27b",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t5tnzl/get_faster_qwen_36_27b/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-06T23:33:07+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Using 100k context with 3090 with MTP GGUF and getting 50 t/s on llama.cpp</p> <p>Thought I would knowledge share</p> <p>Use <a href=\"https://huggingface.co/RDson/Qwen3.6-27B-MTP-Q4_K_M-GGUF\">https://huggingface.co/RDson/Qwen3.6-27B-MTP-Q4_K_M-GGUF</a></p> <p>And am17an commit - <a href=\"https://github.com/ggml-org/llama.cpp/pull/22673\">https://github.com/ggml-org/llama.cpp/pull/22673</a> How to apply - Steps</p> <p>```bash cd path/to/llama.cpp</p> <p>git fetch ",
-      "extra": {
-        "revenue_score": 11
-      },
-      "collected_at": "2026-05-07T12:49:33"
-    },
-    {
       "source": "HN AI Companies",
       "title": "SpaceXAI will provide Anthropic with access to Colossus 1",
       "url": "https://twitter.com/xai/status/2052060350770515978",
@@ -505,7 +487,99 @@
         "revenue_score": 8
       },
       "collected_at": "2026-05-07T15:16:43"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "BigBodyCobain/Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "extra": {
+        "stars_today": "42 stars today"
+      },
+      "collected_at": "2026-05-07T17:38:33"
+    },
+    {
+      "source": "Google News",
+      "title": "Anthropicが金融・保険業界向けClaudeエージェントを発表、資料作成・監査準備・AML調査などを業務フローに沿って支援 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGtEaTh4ODB3RDB6VWdWYnJxZUxZSzF6VkwtaW80QnMxRmF6alpYYjlSLVBQeVRORDQ5TkN5ejgwZ1Y2MFZGbHI1U2JTWUoxMlZTV1dHaUZvaHV3cTEwSTRuZE4wVkNWVzZWOUhFYklmNjYwX2lwY0FjazBYSkJ1YQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 07 May 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGtEaTh4ODB3RDB6VWdWYnJxZUxZSzF6VkwtaW80QnMxRmF6alpYYjlSLVBQeVRORDQ5TkN5ejgwZ1Y2MFZGbHI1U2JTWUoxMlZTV1dHaUZvaHV3cTEwSTRuZE4wVkNWVzZWOUhFYklmNjYwX2lwY0FjazBYSkJ1YQ?oc=5\" target=\"_blank\">Anthropicが金融・保険業界向けClaudeエージェントを発表、資料作成・監査準備・AML調査などを業務フローに沿って支援</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-07T17:38:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Memory Tags",
+      "url": "https://www.producthunt.com/products/memory-tags",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Scan text to make flashcards and improve your memory </p> <p> <a href=\"https://www.producthunt.com/products/memory-tags?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130783?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-07T17:38:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "MESA",
+      "url": "https://www.producthunt.com/products/mesa",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Describe your Shopify workflow. MESA builds it. </p> <p> <a href=\"https://www.producthunt.com/products/mesa?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130071?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-07T17:38:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Phrony",
+      "url": "https://www.producthunt.com/products/phrony",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ship AI agents without the operational burden </p> <p> <a href=\"https://www.producthunt.com/products/phrony?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140614?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-07T17:38:34"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t5x5s0/paroquant_pairwise_rotation_quantization_for/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-07T02:07:48+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t5x5s0/paroquant_pairwise_rotation_quantization_for/\"> <img alt=\"ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference\" src=\"https://preview.redd.it/9gim2lznimzg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=167f4b64648af771b89b54e696183b3786b8da5a\" title=\"ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-07T17:38:35"
     }
   ],
-  "updated_at": "2026-05-07T15:16:43.537721+09:00"
+  "updated_at": "2026-05-07T17:38:35.273527+09:00"
 }
