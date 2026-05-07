@@ -14477,5 +14477,19 @@
     "image_path": "/images/posts/2026-05-07-tabpfn-tabular-foundation-model-review.jpg",
     "created_at": "2026-05-07T12:49:59.263732+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-05-07-qwen-3-6-27b-mtp-llamacpp-speedup-guide",
+    "title": "Qwen 3.6 27Bをllama.cppで高速化して50 t/sを叩き出す方法",
+    "url": "https://ai.negi-lab.com/posts/qwen-3-6-27b-mtp-llamacpp-speedup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "RTX 3090/4090ユーザーは今すぐ試すべき。Qwen 3.6 27BがMTPパッチ適用済みのllama.cppで50 t/sを超えました。\n\n27Bクラスでこのレスポンス速度は異次元。100kコンテキストを確保してもFlash Attention併用でVRAM 24GBに収まります。ローカルLLM特有の「もっさり感」が消え、実務で使える道具に化けます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-07-qwen-3-6-27b-mtp-llamacpp-speedup-guide.jpg",
+    "created_at": "2026-05-07T15:17:06.765992+09:00",
+    "posted": false
   }
 ]
