@@ -14617,5 +14617,19 @@
     "image_path": "/images/posts/2026-05-08-llamacpp-mtp-gemma2-speedup-guide.jpg",
     "created_at": "2026-05-08T16:46:47.549872+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-08-skymizer-htx301-large-llm-setup-guide",
+    "title": "Skymizer HTX301活用ガイド 384GB VRAMで巨大LLMを動かす環境構築",
+    "url": "https://ai.negi-lab.com/posts/skymizer-htx301-large-llm-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Skymizer",
+    "tweet_text": "Llama-3-405Bを1枚のカードで動かす時代の幕開け。台湾SkymizerのHTX301、384GB VRAMで240Wは衝撃のスペックです。RTX 4090を8枚並べる電力とコストの呪縛から解放される。まずはllama.cppで巨大モデルを制御する環境を構築し、この化け物カードを迎える準備をしましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-08-skymizer-htx301-large-llm-setup-guide.jpg",
+    "created_at": "2026-05-08T19:24:36.094195+09:00",
+    "posted": false
   }
 ]
