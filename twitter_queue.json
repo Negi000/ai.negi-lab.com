@@ -14479,34 +14479,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-07-qwen-3-6-27b-mtp-llamacpp-speedup-guide",
-    "title": "Qwen 3.6 27Bをllama.cppで高速化して50 t/sを叩き出す方法",
-    "url": "https://ai.negi-lab.com/posts/qwen-3-6-27b-mtp-llamacpp-speedup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "RTX 3090/4090ユーザーは今すぐ試すべき。Qwen 3.6 27BがMTPパッチ適用済みのllama.cppで50 t/sを超えました。\n\n27Bクラスでこのレスポンス速度は異次元。100kコンテキストを確保してもFlash Attention併用でVRAM 24GBに収まります。ローカルLLM特有の「もっさり感」が消え、実務で使える道具に化けます。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-07-qwen-3-6-27b-mtp-llamacpp-speedup-guide.jpg",
-    "created_at": "2026-05-07T15:17:06.765992+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-07-qwen3-6-27b-uncensored-mtp-setup-guide",
-    "title": "Qwen3.6 27B Uncensoredをローカルで動かし制限なしの高度な推論環境を作る方法",
-    "url": "https://ai.negi-lab.com/posts/qwen3-6-27b-uncensored-mtp-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen3",
-    "tweet_text": "Qwen3.6 27B Uncensoredを検証。KLD 0.0021という低数値が示す通り、ベースモデルの知能を維持したまま検閲だけが消えてる。特筆すべきはMTP（マルチトークン予測）が保持されている点。RTX 4090ならQ4量子化で爆速。16GB VRAMでも工夫次第で実用圏内。ローカルLLMで「忖度なしの思考」を求めるなら現時点でこれが最適解。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-07-qwen3-6-27b-uncensored-mtp-setup-guide.jpg",
-    "created_at": "2026-05-07T17:39:03.722020+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-07-gemma-4-mtp-local-llm-gpu-guide",
     "title": "Gemma 4 MTP比較と選び方！ローカルLLM向けRTX・Mac購入ガイド",
     "url": "https://ai.negi-lab.com/posts/gemma-4-mtp-local-llm-gpu-guide/",
@@ -14602,7 +14574,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-08-anthropic-financial-services-claude-review.jpg",
     "created_at": "2026-05-08T14:35:20.395194+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-08-llamacpp-mtp-gemma2-speedup-guide",
