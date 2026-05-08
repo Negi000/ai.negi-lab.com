@@ -14645,5 +14645,19 @@
     "image_path": "/images/posts/2026-05-08-why-philosophy-majors-excel-in-ai-era.jpg",
     "created_at": "2026-05-08T23:02:35.036873+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-09-aidlc-workflows-ai-agent-pc-guide",
+    "title": "AIエージェント自律化時代のPC選び：awslabs/aidlc-workflowsを実戦投入するための比較ガイド",
+    "url": "https://ai.negi-lab.com/posts/aidlc-workflows-ai-agent-pc-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #AIコーディング",
+    "tweet_text": "AIエージェントを自律させるawslabs/aidlc-workflowsが熱い。だが、これを本格運用するならAPI代かハードウェアへの投資が不可避。\n結論、VRAM 24GBのRTX 4090か、メモリ128GBのMacBook Pro M4 Maxが仕事での終着点になる。\n16GB未満のPCを買うのは今の時代、失敗の第一歩。買う前に見るべきスペックの境界線を実務目線でまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-09-aidlc-workflows-ai-agent-pc-guide.jpg",
+    "created_at": "2026-05-09T03:11:05.858503+09:00",
+    "posted": false
   }
 ]
