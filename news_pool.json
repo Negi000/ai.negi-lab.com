@@ -1209,22 +1209,6 @@
       "collected_at": "2026-05-08T23:01:56"
     },
     {
-      "source": "Google News",
-      "title": "AIは哲学専攻の学生に新たな可能性を切り開く - Business Insider Japan",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3ZLNnNwOC0zbWR1S0ZJWHVZLWVsMFVJUVNtdXJwLVh3ZzRpQkQyLUxzSWw1VlpEQnVIVHFUQnljUnBXUmdwcnhJZWx4azIzajNRdmFjOWRKT0ZSNTBmcjlBQnFyb1g4b25XdEpteFM5U0lyQlVza1BfbnJYVTV2VFRWaE5oWjVkMlRFZkE2Q0JLYTBoTlF0aVVwaEZMSzg1OXc?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Fri, 08 May 2026 02:15:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3ZLNnNwOC0zbWR1S0ZJWHVZLWVsMFVJUVNtdXJwLVh3ZzRpQkQyLUxzSWw1VlpEQnVIVHFUQnljUnBXUmdwcnhJZWx4azIzajNRdmFjOWRKT0ZSNTBmcjlBQnFyb1g4b25XdEpteFM5U0lyQlVza1BfbnJYVTV2VFRWaE5oWjVkMlRFZkE2Q0JLYTBoTlF0aVVwaEZMSzg1OXc?oc=5\" target=\"_blank\">AIは哲学専攻の学生に新たな可能性を切り開く</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-08T23:01:57"
-    },
-    {
       "source": "Product Hunt",
       "title": "Sendly",
       "url": "https://www.producthunt.com/products/sendly-2",
@@ -1300,7 +1284,68 @@
         "revenue_score": 2
       },
       "collected_at": "2026-05-08T23:01:58"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The “people’s airline” and the enterprise AI gold rush",
+      "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Fri, 08 May 2026 15:46:17 +0000",
+      "summary": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and OpenAI announcing new joint ventures&#160;targeting enterprise AI deployment to&#160;SAP dropping $1B&#160;on German AI startup Prior Labs,&#160;it&#8217;s&#160;becoming clear that if&#160;you&#8217;re&#160;a startup building enterprise tools,&#160;you&#8217;re&#160;likely an&#160;acquisition target.&#160; On this episode of TechCrunch&#8217;s&#160;Eq",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-05-09T01:01:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Flare",
+      "url": "https://www.producthunt.com/products/flare-9",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI-native voice-first social app for GenZ </p> <p> <a href=\"https://www.producthunt.com/products/flare-9?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1139661?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-09T01:01:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ElevenCreative Flows",
+      "url": "https://www.producthunt.com/products/elevencreative-flows",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Node-based creative pipelines, now with real-time collab </p> <p> <a href=\"https://www.producthunt.com/products/elevencreative-flows?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1136689?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-09T01:01:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma 4 26B Hits 600 Tok/s on One RTX 5090",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t796qe/gemma_4_26b_hits_600_toks_on_one_rtx_5090/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-05-08T14:13:52+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I ran a benchmark to see how much DFlash speculative decoding actually helps in vLLM.</p> <p>Setup:</p> <ul> <li>GPU: RTX 5090, 32GB VRAM</li> <li>vLLM: 0.19.2rc1</li> <li>Main model: cyankiwi/gemma-4-26B-A4B-it-AWQ-4bit</li> <li>Draft model: z-lab/gemma-4-26B-A4B-it-DFlash</li> <li>Workload: random dataset, 256 input tokens, 1024 output tokens</li> <li>Concurrency: 1</li> <li>Request rate: 1</li> <li>Tested num_speculative_tokens from 0 to 15</li> </ul> <p>The ",
+      "extra": {
+        "revenue_score": 18
+      },
+      "collected_at": "2026-05-09T01:01:59"
     }
   ],
-  "updated_at": "2026-05-08T23:01:58.722776+09:00"
+  "updated_at": "2026-05-09T01:01:59.412588+09:00"
 }
