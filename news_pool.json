@@ -881,21 +881,6 @@
       "collected_at": "2026-05-08T07:11:49"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "DeepSeek V4 being 17x cheaper got me to actually measure what I send to cloud vs what I could run locally. the results are stupid.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t4s6g2/deepseek_v4_being_17x_cheaper_got_me_to_actually/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-05T20:55:56+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>That foodtruck bench post showing deepseek v4 matching gpt-5.2 at 17x cheaper got me thinking. if frontier cloud models are that overpriced for equivalent quality, how much of my daily work even needs cloud at all?</p> <p>Ran my normal coding workflow for 10 days. every task got logged: what it was, tokens in/out, whether local qwen 3.6 27b (on a 3090) could have done it. didn't use benchmarks, just re-ran a random sample of 150 tasks on both.</p> <p>results:</p",
-      "extra": {},
-      "collected_at": "2026-05-08T07:11:51"
-    },
-    {
       "source": "r/ollama",
       "title": "Ollama Cloud noticeable response speed change",
       "url": "https://www.reddit.com/r/ollama/comments/1t69rfn/ollama_cloud_noticeable_response_speed_change/",
@@ -968,7 +953,112 @@
         "revenue_score": 8
       },
       "collected_at": "2026-05-08T07:11:55"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Hardening Firefox with Claude Mythos Preview",
+      "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "Thu, 07 May 2026 16:05:33 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-08T12:40:59"
+    },
+    {
+      "source": "r/ollama",
+      "title": "🚀 I built \"Qwen Orchestrator\": A 22-Agent Team for Qwen Code",
+      "url": "https://www.reddit.com/r/ollama/comments/1t6smhx/i_built_qwen_orchestrator_a_22agent_team_for_qwen/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-08T00:38:21+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1t6smhx/i_built_qwen_orchestrator_a_22agent_team_for_qwen/\"> <img alt=\"🚀 I built &quot;Qwen Orchestrator&quot;: A 22-Agent Team for Qwen Code\" src=\"https://external-preview.redd.it/klu0DuddPWCAVNp3_HGsq0hMKQMHiyAuZ5jWw2dK9Fk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e982c4ae74bfe9d95fe0314d0f4f98166142495e\" title=\"🚀 I built &quot;Qwen Orchestrator&quot;: A 22-Agent Team for Qwen Code\" /> </a> </td><td> <!-- SC_OFF --><div ",
+      "extra": {},
+      "collected_at": "2026-05-08T12:41:01"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Thu, 07 May 2026 22:24:50 +0000",
+      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-08T12:41:02"
+    },
+    {
+      "source": "Google News",
+      "title": "AIは哲学専攻の学生に新たな可能性を切り開く - Business Insider Japan",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWxIUnFBYkl2bHFFemg4TG5vMHJtNGNkWEw2SmxuQXYxS2k5eXdSRzBXNktfcWFZM016T1ZQN2NKSmZzTzc2WGFwdXpuMGxfWTN1OEk5d3lJXzhCaUMwRDdPa1N6NEVJY3YtTUJEYUhwNE1kRUJTY3UzN3NnRWtvSEZB?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 08 May 2026 02:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQLWxIUnFBYkl2bHFFemg4TG5vMHJtNGNkWEw2SmxuQXYxS2k5eXdSRzBXNktfcWFZM016T1ZQN2NKSmZzTzc2WGFwdXpuMGxfWTN1OEk5d3lJXzhCaUMwRDdPa1N6NEVJY3YtTUJEYUhwNE1kRUJTY3UzN3NnRWtvSEZB?oc=5\" target=\"_blank\">AIは哲学専攻の学生に新たな可能性を切り開く</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-08T12:41:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "MultiChat",
+      "url": "https://www.producthunt.com/products/multichat",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The only messaging app you'll ever need. </p> <p> <a href=\"https://www.producthunt.com/products/multichat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1098809?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-08T12:41:03"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Collected the infinity stones",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t6pw92/collected_the_infinity_stones/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-05-07T22:39:57+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t6pw92/collected_the_infinity_stones/\"> <img alt=\"Collected the infinity stones\" src=\"https://preview.redd.it/vf2d4tkimszg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fc5faeba9ef6f19d307ae923379c54b8f93bc2b8\" title=\"Collected the infinity stones\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>2.3 TB of ram in here. 400+ vCores. All thats left is plugging it to the blackwell with the driver to do RDMA, and it’s ov",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-08T12:41:04"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Taiwanese company Skymizer announces HTX301 - PCIE inference card with 384GB of Memory at ~240 Watts",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t6tvfw/taiwanese_company_skymizer_announces_htx301_pcie/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-05-08T01:36:22+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t6tvfw/taiwanese_company_skymizer_announces_htx301_pcie/\"> <img alt=\"Taiwanese company Skymizer announces HTX301 - PCIE inference card with 384GB of Memory at ~240 Watts\" src=\"https://external-preview.redd.it/oePjHj-fWifByTxTBbF_peQ6bFhfm08Vxg8KJjd_1LE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9f759bc25987091e2c236557478c0a82b40dafc8\" title=\"Taiwanese company Skymizer announces HTX301 - PCIE inference card with 384GB",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-05-08T12:41:04"
     }
   ],
-  "updated_at": "2026-05-08T07:11:55.193232+09:00"
+  "updated_at": "2026-05-08T12:41:04.368850+09:00"
 }
