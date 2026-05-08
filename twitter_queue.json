@@ -14659,5 +14659,19 @@
     "image_path": "/images/posts/2026-05-09-aidlc-workflows-ai-agent-pc-guide.jpg",
     "created_at": "2026-05-09T03:11:05.858503+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-05-09-local-llm-ai-agent-gpu-guide",
+    "title": "ローカルLLMとAIエージェントの落とし穴：安全に動かすためのPC構成と推奨GPU比較",
+    "url": "https://ai.negi-lab.com/posts/local-llm-ai-agent-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #ClaudeCode",
+    "tweet_text": "AIエージェントにBashを丸投げして事故る事例が増えています。隔離環境なしの実行は、新人エンジニアにroot権限を渡すより危険。\n\n今、投資するならVRAM 16GB以上のRTX 40シリーズか、メモリ24GB以上のMacが最低ライン。リソースの余力が「AIの暴走」を防ぐサンドボックス構築の鍵になります。壊れてもいい環境こそが、開発効率を最大化する。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-09-local-llm-ai-agent-gpu-guide.jpg",
+    "created_at": "2026-05-09T07:08:28.542858+09:00",
+    "posted": false
   }
 ]
