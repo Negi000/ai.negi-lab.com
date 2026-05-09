@@ -40,20 +40,6 @@
       "collected_at": "2026-05-07T01:32:21"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "One bash permission slipped...",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t2uk1m/one_bash_permission_slipped/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-03T19:12:19+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t2uk1m/one_bash_permission_slipped/\"> <img alt=\"One bash permission slipped...\" src=\"https://preview.redd.it/pi6uio5c1zyg1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ed21ca1ca48045f5a07e5d0bd5944a94a1fa3226\" title=\"One bash permission slipped...\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>How? It kept getting chained bash commands wrong, with wrong escapes. So it created many bad directories, and tried &quot;",
-      "extra": {},
-      "collected_at": "2026-05-07T01:32:22"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums",
       "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
@@ -1470,7 +1456,160 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-09T07:08:02"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Teaching Claude Why",
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 08 May 2026 17:59:41 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-09T12:41:32"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Computron — self-hosted AI assistant now with full Google Workspace integration (Gmail, Calendar, Drive, Contacts)",
+      "url": "https://www.reddit.com/r/ollama/comments/1t7quky/computron_selfhosted_ai_assistant_now_with_full/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-09T01:25:45+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1t7quky/computron_selfhosted_ai_assistant_now_with_full/\"> <img alt=\"Computron — self-hosted AI assistant now with full Google Workspace integration (Gmail, Calendar, Drive, Contacts)\" src=\"https://external-preview.redd.it/OXB5bnU4d21rMDBoMSI6_OvZ8PrHmkniNAzQWQ7MDr4XKQxVPCAChvG0_KF6.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e2916b6232de43dd88c85074e53113462a9182f\" title=\"Computron — self-hosted AI assistant now with full ",
+      "extra": {},
+      "collected_at": "2026-05-09T12:41:34"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 08 May 2026 22:59:05 +0000",
+      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-09T12:41:35"
+    },
+    {
+      "source": "Google News",
+      "title": "南アフリカ政府、AI政策草案を撤回 参考文献に架空情報源、担当相が「信頼性を損なった」と説明 - Ledge.ai",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBROHl0N0FjaURJVzVRYU5SdUcwV0RObjB0RlZsTVNnb0x5VTJGeU10X2FiZHBXQ1FCZGFVb0VTZm84T2lONTlxWFltSVpJVFF5S0dESUd1NjhCYVpfVUZRTWdkU0JoQnhZYXlCQ1dTZi1TVUxySDY5UGtjY1E?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 09 May 2026 03:05:20 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBROHl0N0FjaURJVzVRYU5SdUcwV0RObjB0RlZsTVNnb0x5VTJGeU10X2FiZHBXQ1FCZGFVb0VTZm84T2lONTlxWFltSVpJVFF5S0dESUd1NjhCYVpfVUZRTWdkU0JoQnhZYXlCQ1dTZi1TVUxySDY5UGtjY1E?oc=5\" target=\"_blank\">南アフリカ政府、AI政策草案を撤回 参考文献に架空情報源、担当相が「信頼性を損なった」と説明</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ledge.ai</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-09T12:41:35"
+    },
+    {
+      "source": "Google News",
+      "title": "AIの国際会議、AAAI-26がシンガポールで開催。3万件以上の応募論文をレビューする生成AIレビューを紹介 - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SZEN3SjZ6Wlk4VjN0dXBTYnhCYWNrY18xTkNKeUFkWVZhNTNUZ3hCQ1FqeW1iQzR1SDBmcHZBYkUtR2RaMnNPNGtsTQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "Fri, 08 May 2026 10:13:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SZEN3SjZ6Wlk4VjN0dXBTYnhCYWNrY18xTkNKeUFkWVZhNTNUZ3hCQ1FqeW1iQzR1SDBmcHZBYkUtR2RaMnNPNGtsTQ?oc=5\" target=\"_blank\">AIの国際会議、AAAI-26がシンガポールで開催。3万件以上の応募論文をレビューする生成AIレビューを紹介</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thinkit.co.jp</font>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-09T12:41:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GlowIsland",
+      "url": "https://www.producthunt.com/products/glowisland-evolve-your-mac-s-notch",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn your Mac notch into an interactive utility ribbon. </p> <p> <a href=\"https://www.producthunt.com/products/glowisland-evolve-your-mac-s-notch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1141500?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-09T12:41:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cardamom",
+      "url": "https://www.producthunt.com/products/cardamom-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI phone ordering for takeout-heavy restaurants </p> <p> <a href=\"https://www.producthunt.com/products/cardamom-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1141822?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-09T12:41:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Finlingo",
+      "url": "https://www.producthunt.com/products/finlingo",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your own AI CFO, watching your money on autopilot </p> <p> <a href=\"https://www.producthunt.com/products/finlingo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1139979?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-09T12:41:35"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Shel Silverstein predicts LLM's (and its hallucinations), cira 1981",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t7s9n4/shel_silverstein_predicts_llms_and_its/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-05-09T02:32:07+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t7s9n4/shel_silverstein_predicts_llms_and_its/\"> <img alt=\"Shel Silverstein predicts LLM's (and its hallucinations), cira 1981\" src=\"https://preview.redd.it/vwylxs5pv00h1.png?width=140&amp;height=140&amp;auto=webp&amp;s=d69897002ac295a2b64427480267f40ef42a3ae7\" title=\"Shel Silverstein predicts LLM's (and its hallucinations), cira 1981\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Ran across this cartoon / poem on acci",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-09T12:41:36"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.6 35B A3B uncensored heretic Native MTP Preserved is Out Now With KLD 0.0015, 10/100 Refusals and the Full 19 MTPs Preserved and Retained, Available in Safetensors, GGUFs. NVFP4, NVFP4 GGUFs and GPTQ-Int4 Formats",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t7qfaq/qwen36_35b_a3b_uncensored_heretic_native_mtp/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-05-09T01:06:22+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved: <a href=\"https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved\">https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved</a></p> <p>llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-GGUF: <a href=\"https://huggingface.co/llmfan46/Qwen3.6-35B-A3B-uncensored-heretic-Native-MTP-Preserved-GGUF\">https://huggingface.co/llmfan",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-05-09T12:41:36"
     }
   ],
-  "updated_at": "2026-05-09T07:08:02.356531+09:00"
+  "updated_at": "2026-05-09T12:41:36.900039+09:00"
 }
