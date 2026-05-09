@@ -14521,20 +14521,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-08-llamacpp-mtp-gemma2-speedup-guide",
-    "title": "llama.cppでMulti-Token Predictionを導入してGemma 2の推論速度を40%向上させる方法",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-mtp-gemma2-speedup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llamacpp",
-    "tweet_text": "llama.cppにMTP（Multi-Token Prediction）が実装され、Gemma 2の推論速度が実測で約40%向上しました。RTX 4090環境なら9Bモデルが50 tok/s超えで爆速。投機的サンプリングより設定が楽で、実務への導入ハードルがぐっと下がっています。ローカルLLMの「遅さ」を理由に導入を迷っていた人は、今すぐビルドし直す価値あり。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-08-llamacpp-mtp-gemma2-speedup-guide.jpg",
-    "created_at": "2026-05-08T16:46:47.549872+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-08-skymizer-htx301-large-llm-setup-guide",
     "title": "Skymizer HTX301活用ガイド 384GB VRAMで巨大LLMを動かす環境構築",
     "url": "https://ai.negi-lab.com/posts/skymizer-htx301-large-llm-setup-guide/",
@@ -14602,7 +14588,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-09-ai-trader-hku-agent-trading-review.jpg",
     "created_at": "2026-05-09T12:41:59.719681+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-09-dflash-block-diffusion-llm-inference-review",
