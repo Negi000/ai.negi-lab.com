@@ -14687,5 +14687,19 @@
     "image_path": "/images/posts/2026-05-09-qwen3-6-35b-uncensored-mtp-setup-guide.jpg",
     "created_at": "2026-05-09T17:01:12.627808+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-09-qwen-2-5-coder-local-python-guide",
+    "title": "Qwen2.5をローカル環境で動かし、API料金を気にせずコード生成を自動化するPythonスクリプトを作る方法",
+    "url": "https://ai.negi-lab.com/posts/qwen-2-5-coder-local-python-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "ローカルLLMの「Qwen2.5-Coder」が想像以上に仕事で使えます。RTX 4090で回すとコード生成が0.5秒。API課金も情報漏洩リスクもゼロ。\n特に32Bモデルの修正能力は、もはやGPT-4oと遜色ないレベルまで来ていますね。\nPythonからOllamaを叩けば、社内専用の爆速デバッグ環境が30分で構築可能です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-09-qwen-2-5-coder-local-python-guide.jpg",
+    "created_at": "2026-05-09T19:05:21.658297+09:00",
+    "posted": false
   }
 ]
