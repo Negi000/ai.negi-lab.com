@@ -14507,62 +14507,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-08-anthropic-mythos-firefox-security-breakthrough",
-    "title": "Anthropic Mythosが暴いたFirefoxの深層脆弱性：AIセキュリティの新基準",
-    "url": "https://ai.negi-lab.com/posts/anthropic-mythos-firefox-security-breakthrough/",
-    "category": "NEWS",
-    "viral_tags": "#Anthropic #サイバーセキュリティ",
-    "tweet_text": "Anthropicの「Mythos」がFirefoxから深刻なバグを次々発見。特筆すべきはFP率4.1%という驚異的な精度。従来のAIが苦手だったC++の複雑なメモリ管理や論理矛盾を自律的に特定しており、もはや「AI監査」は実務の必須工程。15ステップ以上の深い推論はGPT-4oを圧倒している。バグハンターの役割が根本から変わる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-08-anthropic-mythos-firefox-security-breakthrough.jpg",
-    "created_at": "2026-05-08T01:25:27.681291+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-08-rtx-5080-vram-16gb-local-llm-comparison",
-    "title": "RTX 5080のVRAM 16GBは買いか？ローカルLLM開発者が選ぶべきGPU比較と失敗しない選び方",
-    "url": "https://ai.negi-lab.com/posts/rtx-5080-vram-16gb-local-llm-comparison/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX5090",
-    "tweet_text": "RTX 5080のVRAM 16GBはAI開発者にとって「罠」に近い。GDDR7で帯域が爆速になっても、VRAMが溢れれば推論は止まる。Llama 3 70Bを動かすなら24GBの4090中古か、32GBの5090一択。速度より「載るかどうか」が実務の分水嶺です。買う前に自分の用途と量子化サイズを計算して。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-08-rtx-5080-vram-16gb-local-llm-comparison.jpg",
-    "created_at": "2026-05-08T03:25:09.026443+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-08-deepseek-v4-vs-local-llm-gpu-guide",
-    "title": "ローカルLLMとクラウドどっちが買い？DeepSeek V4台頭で変わるAI開発PCの選び方と比較ガイド",
-    "url": "https://ai.negi-lab.com/posts/deepseek-v4-vs-local-llm-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "DeepSeek V4がクラウドで17倍安くなっても、実務勢が「ローカルLLM環境」に投資すべき理由は明確。日常タスクの80%はQwen 2.5 27B等で完結し、APIのレイテンシと課金を気にせず「思考の試行回数」を無限にできるメリットがデカすぎる。買うならVRAM 16GB以上。8GBはマジで後悔するから避けて。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-08-deepseek-v4-vs-local-llm-gpu-guide.jpg",
-    "created_at": "2026-05-08T07:12:22.644303+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-08-pageindex-vectorless-reasoning-based-rag-review",
-    "title": "PageIndex 使い方 レビュー：ベクトル検索を使わない推論型RAGの実力と実装",
-    "url": "https://ai.negi-lab.com/posts/pageindex-vectorless-reasoning-based-rag-review/",
-    "category": "TOOL",
-    "viral_tags": "#PageIndex #RAG",
-    "tweet_text": "RAGの「チャンク分割で文脈が死ぬ問題」に終止符。VectifyAIのPageIndexは、ベクトル検索に頼らずページ単位の推論でドキュメントを抽出する。\n100枚のPDFから必要な1行を探すなら、Embeddingを調整するよりこれを導入した方が速い。\nAPIコストは増えるが、RTX 4090 24GB等のローカル環境があれば精度とプライバシーを両立できる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-08-pageindex-vectorless-reasoning-based-rag-review.jpg",
-    "created_at": "2026-05-08T12:41:27.832768+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-08-anthropic-financial-services-claude-review",
     "title": "anthropic/financial-services 金融実務におけるClaude 3活用の公式リファレンス",
     "url": "https://ai.negi-lab.com/posts/anthropic-financial-services-claude-review/",
@@ -14644,7 +14588,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-09-local-llm-ai-agent-gpu-guide.jpg",
     "created_at": "2026-05-09T07:08:28.542858+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-09-ai-trader-hku-agent-trading-review",
