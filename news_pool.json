@@ -1841,7 +1841,54 @@
         "revenue_score": 3
       },
       "collected_at": "2026-05-10T00:32:27"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Anyone else finding DeepSeek V4 Pro unbearably slow on Ollama Cloud?",
+      "url": "https://www.reddit.com/r/ollama/comments/1t89854/anyone_else_finding_deepseek_v4_pro_unbearably/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-09T16:13:41+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been using the Ollama Cloud subscription and DeepSeek V4 Pro is painfully slow right now. Requests take ages to complete — way worse than before. Is this a capacity issue on their end, or is there some throttling happening with the cloud tier? My local setups are faster than this.</p> <p>Anyone else experiencing this? Any workarounds?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Swimming_Power_2960\"> /u/Swimming_Pow",
+      "extra": {},
+      "collected_at": "2026-05-10T02:51:42"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ClawTick",
+      "url": "https://www.producthunt.com/products/clawtick",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Cron jobs for AI agents w/ one command, zero infrastructure </p> <p> <a href=\"https://www.producthunt.com/products/clawtick?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140343?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-10T02:51:44"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "BeeLlama.cpp: advanced DFlash & TurboQuant with support of reasoning and vision. Qwen 3.6 27B Q5 with 200k context on 3090, 2-3x faster than baseline (peak 135 tps!)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t88zvv/beellamacpp_advanced_dflash_turboquant_with/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-09T16:05:05+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t88zvv/beellamacpp_advanced_dflash_turboquant_with/\"> <img alt=\"BeeLlama.cpp: advanced DFlash &amp; TurboQuant with support of reasoning and vision. Qwen 3.6 27B Q5 with 200k context on 3090, 2-3x faster than baseline (peak 135 tps!)\" src=\"https://external-preview.redd.it/t3DTJ8K2TE17BAIjuHqbfP3ERS-kc9mK_NReW9wVrps.png?width=140&amp;height=70&amp;auto=webp&amp;s=e1e30da26a19da15d08cd0427314e5a0caa96968\" title=\"BeeLlama.cpp: ",
+      "extra": {
+        "revenue_score": 10
+      },
+      "collected_at": "2026-05-10T02:51:45"
     }
   ],
-  "updated_at": "2026-05-10T00:32:28.651048+09:00"
+  "updated_at": "2026-05-10T02:51:45.228222+09:00"
 }

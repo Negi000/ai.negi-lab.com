@@ -14715,5 +14715,19 @@
     "image_path": "/images/posts/2026-05-09-oracle-layoff-remote-worker-legal-risk.jpg",
     "created_at": "2026-05-09T22:27:14.290443+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-10-deepseek-v4-ollama-cloud-slow-gpu-guide",
+    "title": "DeepSeek V4 Proが遅い？ローカルLLM環境への移行と失敗しないGPU選び",
+    "url": "https://ai.negi-lab.com/posts/deepseek-v4-ollama-cloud-slow-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #GPU選び",
+    "tweet_text": "Ollama CloudのDeepSeek V4が遅いと感じたら、それはリソース共有の限界。AIを仕事で使うなら月額$20のサブスクよりVRAM 16GB以上のローカル環境へ投資すべき。RTX 4060 Ti 16GBなら20万円以下、4090なら世界が変わる速度に。待機時間はコストそのもの。買う前にVRAM容量と電源だけは死守してください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-10-deepseek-v4-ollama-cloud-slow-gpu-guide.jpg",
+    "created_at": "2026-05-10T02:52:12.711753+09:00",
+    "posted": false
   }
 ]
