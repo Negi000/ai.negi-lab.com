@@ -14673,5 +14673,19 @@
     "image_path": "/images/posts/2026-05-10-deepseek-v4-ollama-cloud-slow-gpu-guide.jpg",
     "created_at": "2026-05-10T02:52:12.711753+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-10-ios-on-device-llm-healthkit-ollama-guide",
+    "title": "iPhoneでローカルLLMを動かす！HealthKit連携アプリ登場で変わるハードウェア選びと注意点",
+    "url": "https://ai.negi-lab.com/posts/ios-on-device-llm-healthkit-ollama-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #オンデバイスAI",
+    "tweet_text": "iOSでHealthKit連携のオンデバイスLLMが実現。llama.cppとOllamaを使い分け、プライバシーを保ったまま体調解析が可能に。実用にはiPhone 15 Pro以降のRAM 8GBが必須。本格運用なら自宅にVRAM 16GB以上のGPUを積んだOllamaサーバーを立てるのが正解。安物買いのメモリ不足で失敗する前に、推奨スペックを確認してください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-10-ios-on-device-llm-healthkit-ollama-guide.jpg",
+    "created_at": "2026-05-10T06:57:04.343660+09:00",
+    "posted": false
   }
 ]
