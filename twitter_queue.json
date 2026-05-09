@@ -14673,5 +14673,19 @@
     "image_path": "/images/posts/2026-05-09-dflash-block-diffusion-llm-inference-review.jpg",
     "created_at": "2026-05-09T14:53:50.043194+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-09-qwen3-6-35b-uncensored-mtp-setup-guide",
+    "title": "Qwen3.6 35B Uncensored 使い方：MTPを維持した最強の検閲なしローカルLLM環境構築",
+    "url": "https://ai.negi-lab.com/posts/qwen3-6-35b-uncensored-mtp-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "RTX 3090/4090のVRAM 24GBを使い切る価値があるモデルが出た。Qwen3.6 35Bの検閲なし版、かつMTP（複数トークン予測）を完全維持。KLD 0.0015という驚異の低数値で、元モデルの賢さを保ったままガードレールを突破。創作やロールプレイでの一貫性が段違い。ローカルLLMの本気がここにある。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-09-qwen3-6-35b-uncensored-mtp-setup-guide.jpg",
+    "created_at": "2026-05-09T17:01:12.627808+09:00",
+    "posted": false
   }
 ]
