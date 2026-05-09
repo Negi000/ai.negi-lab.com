@@ -14659,5 +14659,19 @@
     "image_path": "/images/posts/2026-05-09-ai-trader-hku-agent-trading-review.jpg",
     "created_at": "2026-05-09T12:41:59.719681+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-09-dflash-block-diffusion-llm-inference-review",
+    "title": "dflash 使い方と性能レビュー 推論速度を3倍にするBlock Diffusionの衝撃",
+    "url": "https://ai.negi-lab.com/posts/dflash-block-diffusion-llm-inference-review/",
+    "category": "TOOL",
+    "viral_tags": "#ローカルLLM #推論高速化",
+    "tweet_text": "RTX 4090を2枚挿してLlama-3を回しているが、dflashの「Block Diffusion」による推論高速化が強烈だ。従来の推測デコードより効率的な並列検証で、生成速度が実測3倍以上に跳ね上がる。VRAM 24GB以上を積んだローカル環境で、レスポンスの壁を突破したいエンジニアは試す価値がある。環境構築はシビアだが、見返りは大きい。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-09-dflash-block-diffusion-llm-inference-review.jpg",
+    "created_at": "2026-05-09T14:53:50.043194+09:00",
+    "posted": false
   }
 ]
