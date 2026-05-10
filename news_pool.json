@@ -1827,23 +1827,6 @@
       "collected_at": "2026-05-10T02:51:44"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "BeeLlama.cpp: advanced DFlash & TurboQuant with support of reasoning and vision. Qwen 3.6 27B Q5 with 200k context on 3090, 2-3x faster than baseline (peak 135 tps!)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t88zvv/beellamacpp_advanced_dflash_turboquant_with/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-09T16:05:05+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t88zvv/beellamacpp_advanced_dflash_turboquant_with/\"> <img alt=\"BeeLlama.cpp: advanced DFlash &amp; TurboQuant with support of reasoning and vision. Qwen 3.6 27B Q5 with 200k context on 3090, 2-3x faster than baseline (peak 135 tps!)\" src=\"https://external-preview.redd.it/t3DTJ8K2TE17BAIjuHqbfP3ERS-kc9mK_NReW9wVrps.png?width=140&amp;height=70&amp;auto=webp&amp;s=e1e30da26a19da15d08cd0427314e5a0caa96968\" title=\"BeeLlama.cpp: ",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-05-10T02:51:45"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
       "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -2025,7 +2008,54 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-10T17:10:59"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AgentPeek",
+      "url": "https://www.producthunt.com/products/agentpeek",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Claude Code and Codex in your Mac notch </p> <p> <a href=\"https://www.producthunt.com/products/agentpeek?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1143278?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-10T19:14:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Notion 3.4",
+      "url": "https://www.producthunt.com/products/notion-3-4",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> New dashboards, connectors, sidebar & smarter AI agents </p> <p> <a href=\"https://www.producthunt.com/products/notion-3-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1111280?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-10T19:14:21"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Hello from 10KM high! - Thanks to Qwen 3.6 35b a3b!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t92hff/hello_from_10km_high_thanks_to_qwen_36_35b_a3b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-05-10T09:43:47+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Typing this on a cramped flight, but I was having issues connecting to the plane's wifi on my ubuntu laptop, when it was effortless on my phone. </p> <p>The issue I was having was the Laptop WiFi connected to the plane wifi network, but captive portal wouldn't load. Turns out systemd-resolved was using Docker's DNS instead of the network gateway. Luckily I brought Qwen with me, the agent found a nmcli fix in seconds, and the portal loaded soon after! Could this ",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-05-10T19:14:21"
     }
   ],
-  "updated_at": "2026-05-10T17:11:00.184654+09:00"
+  "updated_at": "2026-05-10T19:14:21.820459+09:00"
 }
