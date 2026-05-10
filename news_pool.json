@@ -2042,22 +2042,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "jundot/omlx",
-      "url": "https://github.com/jundot/omlx",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "extra": {
-        "stars_today": "187 stars today"
-      },
-      "collected_at": "2026-05-10T22:39:09"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "lsdefine/GenericAgent",
       "url": "https://github.com/lsdefine/GenericAgent",
       "primary_category": "TOOL",
@@ -2161,7 +2145,39 @@
         "revenue_score": 10
       },
       "collected_at": "2026-05-11T02:52:57"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Get ready for the whisper-filled office of the future",
+      "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 10 May 2026 21:15:30 +0000",
+      "summary": "How will work setups change if we spend more and more time talking to our computers?",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-05-11T06:57:55"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Running Qwen3.6 35b a3b on 8gb vram and 32gb ram ~190k context",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9eo83/running_qwen36_35b_a3b_on_8gb_vram_and_32gb_ram/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-05-10T18:24:29+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>If anyone is looking for a good high-speed setup with ~190k context, this config has been working insanely well for me.</p> <p>I’m using my laptop as a server over Tailscale. Installed Linux on it and running:</p> <p>- Qwen3.6 35B A3B</p> <p>- RTX 4060 8GB VRAM</p> <p>- 32GB DDR5 5600MHz RAM</p> <p>- Q5 quant models</p> <p>Current models tested:</p> <p>- `mudler/Qwen3.6-35B-A3B-APEX-GGUF`</p> <p>- ~40 tok/sec → 37 tok/sec</p> <p>- `hesamation/Qwen3.6-35B-A3B-Cla",
+      "extra": {
+        "revenue_score": 18
+      },
+      "collected_at": "2026-05-11T06:57:56"
     }
   ],
-  "updated_at": "2026-05-11T02:52:57.492011+09:00"
+  "updated_at": "2026-05-11T06:57:56.837186+09:00"
 }
