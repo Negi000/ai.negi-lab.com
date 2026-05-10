@@ -1767,23 +1767,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "80 tok/sec and 128K context on 12GB VRAM with Qwen3.6 35B A3B and llama.cpp MTP",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t82zxv/80_toksec_and_128k_context_on_12gb_vram_with/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-09T11:57:52+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just wanted to share my config in hopes of helping other 12GB GPU owners achieve what I see as very respectable token generation speeds with modest VRAM. Using the latest llama.cpp build + MTP PR, I got over 80 tok/sec with 80%+ draft acceptance rate on the benchmark found here: <a href=\"https://gist.githubusercontent.com/am17an/228edfb84ed082aa88e3865d6fa27090/raw/7a2cee40ee1e2ca5365f4cef93632193d7ad852a/mtp-bench.py\">https://gist.githubusercontent.com/am17an/2",
-      "extra": {
-        "revenue_score": 16
-      },
-      "collected_at": "2026-05-09T22:26:48"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Pi and Qwen3.6 27B make setting up Archlinux really easy.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t81dq7/pi_and_qwen36_27b_make_setting_up_archlinux/",
       "primary_category": "GUIDE",
@@ -1984,7 +1967,65 @@
         "revenue_score": 5
       },
       "collected_at": "2026-05-10T12:58:41"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Gemini API File Search is now multimodal",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sun, 10 May 2026 03:22:02 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-10T17:10:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "LumiChats Offline",
+      "url": "https://www.producthunt.com/products/lumichats-offline",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your AI, fully offline with Zero data collection & 100% free </p> <p> <a href=\"https://www.producthunt.com/products/lumichats-offline?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140273?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-10T17:10:59"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tailgrids 3.0",
+      "url": "https://www.producthunt.com/products/tailgrids",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Open-source React UI library for Tailwind and AI Workflow </p> <p> <a href=\"https://www.producthunt.com/products/tailgrids?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1137273?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-10T17:10:59"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Adject 2.0",
+      "url": "https://www.producthunt.com/products/adject",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create hyperrealistic product visuals with AI </p> <p> <a href=\"https://www.producthunt.com/products/adject?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1142580?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-10T17:10:59"
     }
   ],
-  "updated_at": "2026-05-10T15:17:53.667411+09:00"
+  "updated_at": "2026-05-10T17:11:00.184654+09:00"
 }

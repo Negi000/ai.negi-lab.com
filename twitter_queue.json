@@ -14701,5 +14701,19 @@
     "image_path": "/images/posts/2026-05-10-llamacpp-mtp-qwen-35b-high-speed-tutorial.jpg",
     "created_at": "2026-05-10T15:18:26.443383+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-10-beellamacpp-qwen-high-speed-200k-tutorial",
+    "title": "BeeLlama.cppでQwenを高速化して200kコンテキストを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/beellamacpp-qwen-high-speed-200k-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "RTX 3090/4090ユーザーは必見。BeeLlama.cppでQwen 27B/32Bを動かしたら、ピーク135 tpsという異次元の速度を叩き出した。DFlashとTurboQuantの効果が凄まじく、200kトークンの超ロングコンテキストでも推論が重くならない。もはやRAGを組むより「全部プロンプトに入れる」方が速くて正確。この爆速体験は一度味わうと戻れない。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-10-beellamacpp-qwen-high-speed-200k-tutorial.jpg",
+    "created_at": "2026-05-10T17:11:28.199379+09:00",
+    "posted": false
   }
 ]
