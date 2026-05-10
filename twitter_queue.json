@@ -14743,5 +14743,19 @@
     "image_path": "/images/posts/2026-05-10-maryland-data-center-power-grid-cost-conflict.jpg",
     "created_at": "2026-05-10T22:39:34.591919+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-11-omlx-apple-silicon-local-llm-ssd-caching-guide",
+    "title": "ローカルLLMをMacで動かすならomlxが正解か？メモリ不足を救うSSDキャッシュの実力とおすすめMac比較",
+    "url": "https://ai.negi-lab.com/posts/omlx-apple-silicon-local-llm-ssd-caching-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple Siliconで巨大LLMを動かす救世主「omlx」が凄い。SSDキャッシュ機能で、メモリ容量を超えるLlama 3 70B級もロード可能に。実務で使うならMacBook Proのメモリ64GB以上が分岐点。RTX 4090環境と比較しても、統一メモリの安定感は捨てがたい。AIコーディングをローカルで完結させたいエンジニアは、Mac Studioの128GB構成を狙うのが現状の最適解です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-11-omlx-apple-silicon-local-llm-ssd-caching-guide.jpg",
+    "created_at": "2026-05-11T02:53:20.864148+09:00",
+    "posted": false
   }
 ]
