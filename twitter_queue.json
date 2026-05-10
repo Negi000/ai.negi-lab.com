@@ -14687,5 +14687,19 @@
     "image_path": "/images/posts/2026-05-10-hello-agents-github-review-tutorial.jpg",
     "created_at": "2026-05-10T12:59:07.090243+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-10-llamacpp-mtp-qwen-35b-high-speed-tutorial",
+    "title": "Qwen 35B A3Bを12GB VRAMで高速化！llama.cpp MTP 使い方",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-mtp-qwen-35b-high-speed-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llama_cpp",
+    "tweet_text": "12GB VRAMで35BクラスのLLMを動かす時代。最新llama.cppのMTP（Multi-Token Prediction）を検証したら、Qwen 35B A3Bで80 tok/sec超えを記録。128KコンテキストもKVキャッシュ量子化で現実的に。ミドルGPUユーザーは今すぐビルドし直すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-10-llamacpp-mtp-qwen-35b-high-speed-tutorial.jpg",
+    "created_at": "2026-05-10T15:18:26.443383+09:00",
+    "posted": false
   }
 ]
