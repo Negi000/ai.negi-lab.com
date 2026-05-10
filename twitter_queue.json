@@ -14521,34 +14521,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-08-skymizer-htx301-large-llm-setup-guide",
-    "title": "Skymizer HTX301活用ガイド 384GB VRAMで巨大LLMを動かす環境構築",
-    "url": "https://ai.negi-lab.com/posts/skymizer-htx301-large-llm-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Skymizer",
-    "tweet_text": "Llama-3-405Bを1枚のカードで動かす時代の幕開け。台湾SkymizerのHTX301、384GB VRAMで240Wは衝撃のスペックです。RTX 4090を8枚並べる電力とコストの呪縛から解放される。まずはllama.cppで巨大モデルを制御する環境を構築し、この化け物カードを迎える準備をしましょう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-08-skymizer-htx301-large-llm-setup-guide.jpg",
-    "created_at": "2026-05-08T19:24:36.094195+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-08-why-philosophy-majors-excel-in-ai-era",
-    "title": "AI時代に哲学専攻がエンジニアを凌駕する理由：論理的思考が最強のプロンプトになる",
-    "url": "https://ai.negi-lab.com/posts/why-philosophy-majors-excel-in-ai-era/",
-    "category": "NEWS",
-    "viral_tags": "#AIキャリア #プロンプトエンジニアリング",
-    "tweet_text": "AI時代、ついに「哲学」が実学の頂点に立つ。OpenAI o1のような推論型モデルの登場で、コードを書くスキルより「厳密な論理を言語化する力」の価値が逆転した。曖昧な指示ではAIは動かない。数千年にわたり論理の整合性を追求してきた哲学徒が、最強のHuman APIとして現場を支配し始めている。実装屋から思考の設計者へ、今こそ武器を持ち替える時だ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-08-why-philosophy-majors-excel-in-ai-era.jpg",
-    "created_at": "2026-05-08T23:02:35.036873+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-09-aidlc-workflows-ai-agent-pc-guide",
     "title": "AIエージェント自律化時代のPC選び：awslabs/aidlc-workflowsを実戦投入するための比較ガイド",
     "url": "https://ai.negi-lab.com/posts/aidlc-workflows-ai-agent-pc-guide/",
@@ -14589,20 +14561,6 @@
     "image_path": "/images/posts/2026-05-09-ai-trader-hku-agent-trading-review.jpg",
     "created_at": "2026-05-09T12:41:59.719681+09:00",
     "posted": true
-  },
-  {
-    "article_id": "2026-05-09-dflash-block-diffusion-llm-inference-review",
-    "title": "dflash 使い方と性能レビュー 推論速度を3倍にするBlock Diffusionの衝撃",
-    "url": "https://ai.negi-lab.com/posts/dflash-block-diffusion-llm-inference-review/",
-    "category": "TOOL",
-    "viral_tags": "#ローカルLLM #推論高速化",
-    "tweet_text": "RTX 4090を2枚挿してLlama-3を回しているが、dflashの「Block Diffusion」による推論高速化が強烈だ。従来の推測デコードより効率的な並列検証で、生成速度が実測3倍以上に跳ね上がる。VRAM 24GB以上を積んだローカル環境で、レスポンスの壁を突破したいエンジニアは試す価値がある。環境構築はシビアだが、見返りは大きい。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-09-dflash-block-diffusion-llm-inference-review.jpg",
-    "created_at": "2026-05-09T14:53:50.043194+09:00",
-    "posted": false
   },
   {
     "article_id": "2026-05-09-qwen3-6-35b-uncensored-mtp-setup-guide",
@@ -14756,6 +14714,6 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-11-omlx-apple-silicon-local-llm-ssd-caching-guide.jpg",
     "created_at": "2026-05-11T02:53:20.864148+09:00",
-    "posted": false
+    "posted": true
   }
 ]
