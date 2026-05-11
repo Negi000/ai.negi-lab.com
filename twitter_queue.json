@@ -14729,5 +14729,19 @@
     "image_path": "/images/posts/2026-05-11-generic-agent-self-evolving-skill-tree-review.jpg",
     "created_at": "2026-05-11T13:09:49.805648+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-11-local-llm-tokens-per-second-simulator-python",
+    "title": "ローカルLLMの推論速度を体感するシミュレーター自作ガイド",
+    "url": "https://ai.negi-lab.com/posts/local-llm-tokens-per-second-simulator-python/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Python",
+    "tweet_text": "ローカルLLM構築で最も後悔するのは「速度のミスマッチ」です。10 tokens/secという数字が、自分の作業に耐える速さか判断できていますか？\n\nこの数値をPythonで擬似的に再現するシミュレーターを作りました。RTX 4090の爆速から、エントリー機の低速までを体感。VRAM課金前に自分の「許容速度」を知るのが一番の節約になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-11-local-llm-tokens-per-second-simulator-python.jpg",
+    "created_at": "2026-05-11T15:48:22.098426+09:00",
+    "posted": false
   }
 ]
