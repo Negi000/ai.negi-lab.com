@@ -2227,22 +2227,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Warp Open-Source",
-      "url": "https://www.producthunt.com/products/warp",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Agentic development environment built with the community </p> <p> <a href=\"https://www.producthunt.com/products/warp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1141439?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-11T18:45:59"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Bruin",
       "url": "https://www.producthunt.com/products/bruin",
       "primary_category": "TOOL",
@@ -2306,7 +2290,99 @@
         "revenue_score": 8
       },
       "collected_at": "2026-05-11T18:46:00"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Stable Diffusion web UI",
+      "extra": {
+        "stars_today": "29 stars today"
+      },
+      "collected_at": "2026-05-11T21:10:14"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "The agent that grows with you",
+      "extra": {
+        "stars_today": "1,496 stars today"
+      },
+      "collected_at": "2026-05-11T21:10:14"
+    },
+    {
+      "source": "Google News",
+      "title": "東芝が九州大学と共同研究 波形で可視化する異常検知AI「反事実波形生成技術」を開発 - ロボスタ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rN1QyNk9XYWpMb1pPX2FGdlFDaEtobVU5WlpnV3lXSjlfUk41blBsZjlTS2lqWHkzRVdOU2ZwOWpjR254R0hfUDFsdGdDVFREOFVQV2lDSVB3REVxU3JxQUxMQWE?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 11 May 2026 07:30:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rN1QyNk9XYWpMb1pPX2FGdlFDaEtobVU5WlpnV3lXSjlfUk41blBsZjlTS2lqWHkzRVdOU2ZwOWpjR254R0hfUDFsdGdDVFREOFVQV2lDSVB3REVxU3JxQUxMQWE?oc=5\" target=\"_blank\">東芝が九州大学と共同研究 波形で可視化する異常検知AI「反事実波形生成技術」を開発</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロボスタ</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-11T21:10:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ChatGPT for Google Sheets",
+      "url": "https://www.producthunt.com/products/chatgpt-for-google-sheets",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Chat with your spreadsheet, edit cell with natural language </p> <p> <a href=\"https://www.producthunt.com/products/chatgpt-for-google-sheets?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140142?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-11T21:10:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Suprbox",
+      "url": "https://www.producthunt.com/products/suprbox",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Box for AI agents to secure enterprise data storage </p> <p> <a href=\"https://www.producthunt.com/products/suprbox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1143852?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 9
+      },
+      "collected_at": "2026-05-11T21:10:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Weavable",
+      "url": "https://www.producthunt.com/products/weavable",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Give every AI agent persistent work context </p> <p> <a href=\"https://www.producthunt.com/products/weavable?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1131047?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-11T21:10:14"
     }
   ],
-  "updated_at": "2026-05-11T18:46:00.652428+09:00"
+  "updated_at": "2026-05-11T21:10:15.632063+09:00"
 }

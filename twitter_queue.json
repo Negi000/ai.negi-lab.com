@@ -14757,5 +14757,19 @@
     "image_path": "/images/posts/2026-05-11-warp-open-source-agentic-terminal-review.jpg",
     "created_at": "2026-05-11T18:46:25.928226+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-11-qwen-36-35b-local-llm-code-review-guide",
+    "title": "Qwen 3.6 35B A3B 使い方 | ローカルLLMでプロ級のコード解析環境を作る方法",
+    "url": "https://ai.negi-lab.com/posts/qwen-36-35b-local-llm-code-review-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "ローカルLLMのQwen 3.6 35B A3Bが、ニッチなコード理解においてClaude 3.5超えの挙動を見せている。MoE採用でActive 3Bという軽さながら、3090/4090環境なら一瞬でプロ級のコードレビューが返ってくる。VRAM 20GBあればQ4量子化で実用圏内。秘匿性の高い研究用コードを解析させるなら、今はこのモデル一択です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-11-qwen-36-35b-local-llm-code-review-guide.jpg",
+    "created_at": "2026-05-11T21:10:55.928797+09:00",
+    "posted": false
   }
 ]
