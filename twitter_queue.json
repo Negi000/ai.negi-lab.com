@@ -14743,5 +14743,19 @@
     "image_path": "/images/posts/2026-05-11-local-llm-tokens-per-second-simulator-python.jpg",
     "created_at": "2026-05-11T15:48:22.098426+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-11-warp-open-source-agentic-terminal-review",
+    "title": "Warp Open-Source ターミナル一体型AIエージェントの性能と実務導入の判断基準",
+    "url": "https://ai.negi-lab.com/posts/warp-open-source-agentic-terminal-review/",
+    "category": "TOOL",
+    "viral_tags": "#Warp #AIエージェント",
+    "tweet_text": "ターミナルとAIエージェントが融合したWarp Open-Sourceを検証。Claude 3.5 Sonnetと連携させると、依存エラーの解消から環境構築まで自動で完遂。\nCursorはエディタだが、Warpはターミナル層を自動化する。\nAPI代は月$20程度かかるが、環境構築のデバッグに30分溶かしている人は、これを導入するだけで一瞬で元が取れる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-11-warp-open-source-agentic-terminal-review.jpg",
+    "created_at": "2026-05-11T18:46:25.928226+09:00",
+    "posted": false
   }
 ]

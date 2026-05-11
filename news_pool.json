@@ -2103,22 +2103,6 @@
       "collected_at": "2026-05-11T02:52:55"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "Getting a feel for how fast X tokens/second really is.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t99upf/getting_a_feel_for_how_fast_x_tokenssecond_really/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-10T15:23:08+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I love following all your adventures with local LLM setups. Quality and size of the models are important, but so is performance. Numbers don't really convey the experienced speed well, however.</p> <p>If someone claims they run Qwen 3.6-27B at 21 tokens/second, how fast is that? Is 10 tokens/second unusable? I find these numbers objective but meaningless.</p> <p>I built a script that helps me get a subjective feel for these objective numbers.</p> <p>It supports ",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-05-11T02:52:57"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Get ready for the whisper-filled office of the future",
       "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
@@ -2240,7 +2224,89 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-11T15:47:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Warp Open-Source",
+      "url": "https://www.producthunt.com/products/warp",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Agentic development environment built with the community </p> <p> <a href=\"https://www.producthunt.com/products/warp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1141439?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-11T18:45:59"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Bruin",
+      "url": "https://www.producthunt.com/products/bruin",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AI data agent that collaborates with your team </p> <p> <a href=\"https://www.producthunt.com/products/bruin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1143047?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-11T18:45:59"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "MiroMiro v2",
+      "url": "https://www.producthunt.com/products/miromiro",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Inspect, edit, and export any website's design </p> <p> <a href=\"https://www.producthunt.com/products/miromiro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140367?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-11T18:45:59"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "ExLlamaV3 Major Updates!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9voxs/exllamav3_major_updates/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-11T07:05:47+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t9voxs/exllamav3_major_updates/\"> <img alt=\"ExLlamaV3 Major Updates!\" src=\"https://preview.redd.it/3xgpoqggjg0h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d5413051ce79f195e44c045baa7e63a3c2488a1\" title=\"ExLlamaV3 Major Updates!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Turboderp has a been on <a href=\"https://github.com/turboderp-org/exllamav3/commits/dev\">an absolute tear</a> recently, in the endless batt",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-11T18:46:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The Qwen 3.6 35B A3B hype is real!!!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9whrt/the_qwen_36_35b_a3b_hype_is_real/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-05-11T07:51:34+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>My personal test for small local LLM intelligence is to check whether a model has any ability to understand the code that I write for my own academic research. My research is on some pretty niche topics and I doubt that anything like it is substantively present in the training sets for LLMs. A few months ago, small local models' ability to understand my code was nominal at best with <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ry93gz/devstral_small_2_2",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-05-11T18:46:00"
     }
   ],
-  "updated_at": "2026-05-11T15:47:53.383641+09:00"
+  "updated_at": "2026-05-11T18:46:00.652428+09:00"
 }
