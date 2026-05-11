@@ -14729,5 +14729,19 @@
     "image_path": "/images/posts/2026-05-12-claudecode-adamsreview-hardware-guide.jpg",
     "created_at": "2026-05-12T02:10:58.857033+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-12-local-llm-pc-selection-guide-rtx-vs-mac",
+    "title": "ローカルLLM用PCの選び方比較：RTX 4090かMac Studioか？後悔しないVRAM選定ガイド",
+    "url": "https://ai.negi-lab.com/posts/local-llm-pc-selection-guide-rtx-vs-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "ローカルLLM環境、VRAM 8GBはすでに人権がありません。実務でLlama 3.1やQwen2.5を快適に回すなら、RTX 4060 Ti 16GBが最低ライン。70Bクラスを狙うなら4090の2枚挿し48GBか、Mac Studio 128GBの二択です。電源容量と騒音を無視して自作に走ると後悔します。まずはAPI利用料と比較して、月3万円超えるなら実機投資が正解。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-12-local-llm-pc-selection-guide-rtx-vs-mac.jpg",
+    "created_at": "2026-05-12T03:59:03.822014+09:00",
+    "posted": false
   }
 ]
