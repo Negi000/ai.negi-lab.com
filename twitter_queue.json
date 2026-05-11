@@ -14563,76 +14563,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-09-qwen-2-5-coder-local-python-guide",
-    "title": "Qwen2.5をローカル環境で動かし、API料金を気にせずコード生成を自動化するPythonスクリプトを作る方法",
-    "url": "https://ai.negi-lab.com/posts/qwen-2-5-coder-local-python-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "ローカルLLMの「Qwen2.5-Coder」が想像以上に仕事で使えます。RTX 4090で回すとコード生成が0.5秒。API課金も情報漏洩リスクもゼロ。\n特に32Bモデルの修正能力は、もはやGPT-4oと遜色ないレベルまで来ていますね。\nPythonからOllamaを叩けば、社内専用の爆速デバッグ環境が30分で構築可能です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-09-qwen-2-5-coder-local-python-guide.jpg",
-    "created_at": "2026-05-09T19:05:21.658297+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-09-oracle-layoff-remote-worker-legal-risk",
-    "title": "Oracle解雇騒動が教える「フルリモート」の法的リスクと契約書の落とし穴",
-    "url": "https://ai.negi-lab.com/posts/oracle-layoff-remote-worker-legal-risk/",
-    "category": "NEWS",
-    "viral_tags": "#エンジニアキャリア #リモートワーク",
-    "tweet_text": "Oracleのレイオフで判明した「リモートワークの罠」が恐ろしすぎる。勤務地が自宅だと、大規模解雇時の法的保護（WARN法）から外されるリスク。企業にとってリモートはもはや福利厚生ではなく、解雇コストを削るための「データ属性」。AI投資を加速する裏で、エンジニアの法的地位がハックされている。契約書の「勤務地」フラグ、今すぐ確認したほうがいい。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-09-oracle-layoff-remote-worker-legal-risk.jpg",
-    "created_at": "2026-05-09T22:27:14.290443+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-10-deepseek-v4-ollama-cloud-slow-gpu-guide",
-    "title": "DeepSeek V4 Proが遅い？ローカルLLM環境への移行と失敗しないGPU選び",
-    "url": "https://ai.negi-lab.com/posts/deepseek-v4-ollama-cloud-slow-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #GPU選び",
-    "tweet_text": "Ollama CloudのDeepSeek V4が遅いと感じたら、それはリソース共有の限界。AIを仕事で使うなら月額$20のサブスクよりVRAM 16GB以上のローカル環境へ投資すべき。RTX 4060 Ti 16GBなら20万円以下、4090なら世界が変わる速度に。待機時間はコストそのもの。買う前にVRAM容量と電源だけは死守してください。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-10-deepseek-v4-ollama-cloud-slow-gpu-guide.jpg",
-    "created_at": "2026-05-10T02:52:12.711753+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-10-ios-on-device-llm-healthkit-ollama-guide",
-    "title": "iPhoneでローカルLLMを動かす！HealthKit連携アプリ登場で変わるハードウェア選びと注意点",
-    "url": "https://ai.negi-lab.com/posts/ios-on-device-llm-healthkit-ollama-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #オンデバイスAI",
-    "tweet_text": "iOSでHealthKit連携のオンデバイスLLMが実現。llama.cppとOllamaを使い分け、プライバシーを保ったまま体調解析が可能に。実用にはiPhone 15 Pro以降のRAM 8GBが必須。本格運用なら自宅にVRAM 16GB以上のGPUを積んだOllamaサーバーを立てるのが正解。安物買いのメモリ不足で失敗する前に、推奨スペックを確認してください。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-10-ios-on-device-llm-healthkit-ollama-guide.jpg",
-    "created_at": "2026-05-10T06:57:04.343660+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-10-hello-agents-github-review-tutorial",
-    "title": "datawhalechina/hello-agents で学ぶ「中身のわかる」AIエージェント構築術",
-    "url": "https://ai.negi-lab.com/posts/hello-agents-github-review-tutorial/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #Python",
-    "tweet_text": "AIエージェントがブラックボックス化してデバッグに苦戦しているなら「hello-agents」が刺さる。LangChainを使わず、ReActの思考ループやツール実行をPythonで1から実装する教育用リポジトリ。\n1日1,100スター超えの勢いで、DeepSeek等の格安APIを活用する実務的な視点が鋭い。中身を理解して「設計」したいエンジニアは必修。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-10-hello-agents-github-review-tutorial.jpg",
-    "created_at": "2026-05-10T12:59:07.090243+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-10-llamacpp-mtp-qwen-35b-high-speed-tutorial",
     "title": "Qwen 35B A3Bを12GB VRAMで高速化！llama.cpp MTP 使い方",
     "url": "https://ai.negi-lab.com/posts/llamacpp-mtp-qwen-35b-high-speed-tutorial/",
@@ -14714,7 +14644,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-11-claude-code-academic-research-hardware-guide.jpg",
     "created_at": "2026-05-11T06:58:18.159855+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-11-generic-agent-self-evolving-skill-tree-review",
