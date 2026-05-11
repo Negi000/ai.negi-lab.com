@@ -14715,5 +14715,19 @@
     "image_path": "/images/posts/2026-05-11-claude-code-academic-research-hardware-guide.jpg",
     "created_at": "2026-05-11T06:58:18.159855+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-11-generic-agent-self-evolving-skill-tree-review",
+    "title": "GenericAgent 自身でスキルを拡張する「自己進化型」AIエージェントの実力",
+    "url": "https://ai.negi-lab.com/posts/generic-agent-self-evolving-skill-tree-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #GenericAgent",
+    "tweet_text": "AIエージェントの「トークン浪費」に終止符。GenericAgentは実行過程を「スキル」として自己学習し、2回目以降は思考をスキップ。従来比6倍のトークン効率を実現。3.3K行の軽量シードからPCフル操作まで拡張する設計が合理的。RTX 4090環境でのローカルLLM運用とも相性抜群。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-11-generic-agent-self-evolving-skill-tree-review.jpg",
+    "created_at": "2026-05-11T13:09:49.805648+09:00",
+    "posted": false
   }
 ]

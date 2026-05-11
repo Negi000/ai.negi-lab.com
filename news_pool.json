@@ -2103,19 +2103,6 @@
       "collected_at": "2026-05-11T00:33:19"
     },
     {
-      "source": "HN AI Hot",
-      "title": "Academic Research Skills for Claude Code",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Sun, 10 May 2026 13:42:00 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-11T02:52:54"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
       "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
@@ -2177,7 +2164,54 @@
         "revenue_score": 18
       },
       "collected_at": "2026-05-11T06:57:56"
+    },
+    {
+      "source": "Google News",
+      "title": "ヒンドゥー教・シーク教・モルモン教などの指導者とAnthropicやOpenAIなどのAI企業が会合、AIモデルに倫理と道徳を組み込む方法に関する原則を策定へ - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsRnFSYTVKaUFMaXN3cDBsT29Jc2p1Mko2akRmdklVaDJHYUpFb00tZmhOYlNmYk1wQkZnOGZ6Si03M3VwUGNyNVpGdVVkcDRwS0l6cGdRWWtLN3g0aDBSanotREYyaWhmS1ZjdHpUVEdmWTdCRDlrZw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 11 May 2026 03:26:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBsRnFSYTVKaUFMaXN3cDBsT29Jc2p1Mko2akRmdklVaDJHYUpFb00tZmhOYlNmYk1wQkZnOGZ6Si03M3VwUGNyNVpGdVVkcDRwS0l6cGdRWWtLN3g0aDBSanotREYyaWhmS1ZjdHpUVEdmWTdCRDlrZw?oc=5\" target=\"_blank\">ヒンドゥー教・シーク教・モルモン教などの指導者とAnthropicやOpenAIなどのAI企業が会合、AIモデルに倫理と道徳を組み込む方法に関する原則を策定へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-11T13:09:24"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I Think I Spent Way Too Much Time Messing with Local LLMs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9jyfu/i_think_i_spent_way_too_much_time_messing_with/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-05-10T21:46:45+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Guys, I'm hearing coil whine in my sleep. Help<br /> <span class=\"md-spoiler-text\">/s</span></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MrChilliBalls\"> /u/MrChilliBalls </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t9jyfu/i_think_i_spent_way_too_much_time_messing_with/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t9jyfu/i_think_i_spent_way_too_much_tim",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-05-11T13:09:26"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "MTP benchmark results: the nature of the generative task dictates whether you will benefit (coding) or get slower inference (creative) from speculative inference. No other factor comes close.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9gcar/mtp_benchmark_results_the_nature_of_the/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-10T19:25:50+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I recently published <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t57xuu/25x_faster_inference_with_qwen_36_27b_using_mtp/\">MTP quants of Qwen 3.6 27B</a> and I was suprised by the reports here on reddit, and on HF, of users who were experiencing worst speed with speculative inference than without. This did not match what I was seeing, but when I tried to reproduce their exact usage, it confirmed what they were experiencing.</p> <p>I tried to analyse th",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-05-11T13:09:26"
     }
   ],
-  "updated_at": "2026-05-11T06:57:56.837186+09:00"
+  "updated_at": "2026-05-11T13:09:26.316668+09:00"
 }
