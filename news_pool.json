@@ -969,21 +969,6 @@
       "collected_at": "2026-05-08T12:41:03"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "Collected the infinity stones",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t6pw92/collected_the_infinity_stones/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-05-07T22:39:57+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t6pw92/collected_the_infinity_stones/\"> <img alt=\"Collected the infinity stones\" src=\"https://preview.redd.it/vf2d4tkimszg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fc5faeba9ef6f19d307ae923379c54b8f93bc2b8\" title=\"Collected the infinity stones\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>2.3 TB of ram in here. 400+ vCores. All thats left is plugging it to the blackwell with the driver to do RDMA, and it’s ov",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-08T12:41:04"
-    },
-    {
       "source": "r/ollama",
       "title": "Questions regarding running claude code on ollama",
       "url": "https://www.reddit.com/r/ollama/comments/1t6xhx1/questions_regarding_running_claude_code_on_ollama/",
@@ -2585,7 +2570,110 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-12T03:58:35"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Forget the AI job apocalypse. AIs real threat is worker control and surveillance",
+      "url": "https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 11 May 2026 12:06:02 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-12T07:15:45"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
+      "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 11 May 2026 11:05:04 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-12T07:15:45"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "A.I. note takers are making lawyers nervous",
+      "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 11 May 2026 10:04:47 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-12T07:15:45"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Ollama Cloud with Deepseek rate limit",
+      "url": "https://www.reddit.com/r/ollama/comments/1ta3mpv/ollama_cloud_with_deepseek_rate_limit/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-11T13:40:00+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I join Ollama Cloud Pro recently because of GitHub Copilot changed their game.</p> <p>And I found if I use some large model like Deepseek V4 Pro, it easily keeps show &quot;Server overloaded, please retry shortly&quot; / &quot;Rate limit exceeded&quot; error message, even my Session usage / Weekly usage is way below 100%.</p> <p>Is their infrastructure cannot fulfill the user, or there is another &quot;hidden limit&quot; like GitHub do?</p> </div><!-- SC_ON --> ",
+      "extra": {},
+      "collected_at": "2026-05-12T07:15:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Graphbit PRFlow",
+      "url": "https://www.producthunt.com/products/graphbit",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> AI code reviewer that catches what others miss </p> <p> <a href=\"https://www.producthunt.com/products/graphbit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1052099?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-05-12T07:15:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Computer build using Intel Optane Persistent Memory - Can run 1 trillion parameter model at over 4 tokens/sec",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1taeg8h/computer_build_using_intel_optane_persistent/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-11T19:54:25+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1taeg8h/computer_build_using_intel_optane_persistent/\"> <img alt=\"Computer build using Intel Optane Persistent Memory - Can run 1 trillion parameter model at over 4 tokens/sec\" src=\"https://preview.redd.it/na7zo7lmck0h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fdf142fa749e9c2ad8acbc9569895f0df6504761\" title=\"Computer build using Intel Optane Persistent Memory - Can run 1 trillion parameter model at over 4 tokens/sec\"",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-12T07:15:48"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I catalogued every way local models break JSON output and built a repair library, here's what I found across 288 model calls",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tagtpv/i_catalogued_every_way_local_models_break_json/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-05-11T21:17:18+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been running structured output prompts through a bunch of models on OpenRouter for the past few months — Llama 3, Mistral, Command R, DeepSeek, Qwen, and every other model on OpenRouter — alongside the usual closed-source suspects. 288 calls total. I wanted to know what actually breaks, how often, and whether open models fail differently from the API-only ones.</p> <p>Short answer: not really. The failure modes are almost identical across the board. The <em",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-05-12T07:15:48"
     }
   ],
-  "updated_at": "2026-05-12T03:58:35.025733+09:00"
+  "updated_at": "2026-05-12T07:15:48.368232+09:00"
 }
