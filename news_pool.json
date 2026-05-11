@@ -2275,23 +2275,6 @@
       "collected_at": "2026-05-11T18:46:00"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "The Qwen 3.6 35B A3B hype is real!!!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9whrt/the_qwen_36_35b_a3b_hype_is_real/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-05-11T07:51:34+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>My personal test for small local LLM intelligence is to check whether a model has any ability to understand the code that I write for my own academic research. My research is on some pretty niche topics and I doubt that anything like it is substantively present in the training sets for LLMs. A few months ago, small local models' ability to understand my code was nominal at best with <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ry93gz/devstral_small_2_2",
-      "extra": {
-        "revenue_score": 8
-      },
-      "collected_at": "2026-05-11T18:46:00"
-    },
-    {
       "source": "GitHub Trending",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
@@ -2382,7 +2365,124 @@
         "revenue_score": 6
       },
       "collected_at": "2026-05-11T21:10:14"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Software engineering may no longer be a lifetime career",
+      "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 11 May 2026 14:34:08 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-12T00:21:54"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 11 May 2026 07:26:54 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-12T00:21:54"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+      "url": "https://matt.might.net/articles/implementing-a-programming-language/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 11 May 2026 04:34:40 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-12T00:21:54"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+      "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 11 May 2026 13:00:00 +0000",
+      "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-05-12T00:21:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Web Speed",
+      "url": "https://www.producthunt.com/products/web-speed",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Kill the 'Token Tax.' 90% cheaper agents. </p> <p> <a href=\"https://www.producthunt.com/products/web-speed?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1143252?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-12T00:21:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Connector.wtf",
+      "url": "https://www.producthunt.com/products/connector-wtf",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Plug Google Ads, Meta & LinkedIn into your AI chat. Free </p> <p> <a href=\"https://www.producthunt.com/products/connector-wtf?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1142963?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-12T00:21:56"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "MTP on Unsloth",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ta4rvs/mtp_on_unsloth/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-11T14:21:30+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ta4rvs/mtp_on_unsloth/\"> <img alt=\"MTP on Unsloth\" src=\"https://preview.redd.it/7qopol51pi0h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=418901d4d8c8ab626b111a6d34319eeee4ae10d1\" title=\"MTP on Unsloth\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/unsloth/Qwen3.6-27B-GGUF-MTP\">https://huggingface.co/unsloth/Qwen3.6-27B-GGUF-MTP</a></p> <p><a href=\"https://huggingface.co/unsloth/Qwe",
+      "extra": {
+        "revenue_score": 10
+      },
+      "collected_at": "2026-05-12T00:21:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "New GGUF uploads on HF nearly doubled in 2 months",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9zmbb/new_gguf_uploads_on_hf_nearly_doubled_in_2_months/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-11T10:47:57+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t9zmbb/new_gguf_uploads_on_hf_nearly_doubled_in_2_months/\"> <img alt=\"New GGUF uploads on HF nearly doubled in 2 months\" src=\"https://preview.redd.it/4l2hajm0nh0h1.jpg?width=140&amp;height=88&amp;auto=webp&amp;s=ba99b9612bc64cfd206b49e0ca5677a557bcfc22\" title=\"New GGUF uploads on HF nearly doubled in 2 months\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>From clem on 𝕏: <a href=\"https://x.com/ClementDelangue/status/20",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-05-12T00:21:57"
     }
   ],
-  "updated_at": "2026-05-11T21:10:15.632063+09:00"
+  "updated_at": "2026-05-12T00:21:57.633278+09:00"
 }
