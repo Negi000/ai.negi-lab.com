@@ -14743,5 +14743,19 @@
     "image_path": "/images/posts/2026-05-12-unsloth-mtp-llamacpp-fast-inference-guide.jpg",
     "created_at": "2026-05-12T07:16:13.381856+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-12-suprbox-ai-agent-secure-storage-review",
+    "title": "Suprboxレビュー：AIエージェントのデータ操作を隔離・保護するセキュアなストレージ",
+    "url": "https://ai.negi-lab.com/posts/suprbox-ai-agent-secure-storage-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントにファイル操作をさせるなら「Suprbox」が面白い。ホスト環境から隔離されたサンドボックス・ストレージをAPI数行で構築できる。\nLLMに直接os.remove()されるリスクを消せるのはデカい。E2Bよりデータ保護に寄った設計で、エンタープライズのRAG開発には必須級。開発者の精神衛生に効く。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-12-suprbox-ai-agent-secure-storage-review.jpg",
+    "created_at": "2026-05-12T12:53:43.174183+09:00",
+    "posted": false
   }
 ]

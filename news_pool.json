@@ -2423,22 +2423,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "MTP on Unsloth",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ta4rvs/mtp_on_unsloth/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-11T14:21:30+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ta4rvs/mtp_on_unsloth/\"> <img alt=\"MTP on Unsloth\" src=\"https://preview.redd.it/7qopol51pi0h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=418901d4d8c8ab626b111a6d34319eeee4ae10d1\" title=\"MTP on Unsloth\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/unsloth/Qwen3.6-27B-GGUF-MTP\">https://huggingface.co/unsloth/Qwen3.6-27B-GGUF-MTP</a></p> <p><a href=\"https://huggingface.co/unsloth/Qwe",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-05-12T00:21:57"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "New GGUF uploads on HF nearly doubled in 2 months",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9zmbb/new_gguf_uploads_on_hf_nearly_doubled_in_2_months/",
       "primary_category": "GUIDE",
@@ -2673,7 +2657,82 @@
         "revenue_score": 5
       },
       "collected_at": "2026-05-12T07:15:48"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Platform on AWS",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Tue, 12 May 2026 01:24:29 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-12T12:53:12"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 12 May 2026 00:09:01 +0000",
+      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-05-12T12:53:15"
+    },
+    {
+      "source": "Google News",
+      "title": "OpenAIが攻撃者より先に脆弱性を検知・修正するセキュリティAI「Daybreak」を発表 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HZXpFX05uQzJRaDd3OUdMR1p0M2VtdF9xcjNWd2d5bFd0QnBhTldWN0hQWUhXaFEwVjNoUFpNMkx3bm84WFVTTnZSbTdPOHNrd0FNbWhYdmVzaHBlRnZxRg?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 12 May 2026 01:38:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HZXpFX05uQzJRaDd3OUdMR1p0M2VtdF9xcjNWd2d5bFd0QnBhTldWN0hQWUhXaFEwVjNoUFpNMkx3bm84WFVTTnZSbTdPOHNrd0FNbWhYdmVzaHBlRnZxRg?oc=5\" target=\"_blank\">OpenAIが攻撃者より先に脆弱性を検知・修正するセキュリティAI「Daybreak」を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-12T12:53:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Known Agents",
+      "url": "https://www.producthunt.com/products/known-agents",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Track the bots and AI agents crawling your website </p> <p> <a href=\"https://www.producthunt.com/products/known-agents?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1134590?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-12T12:53:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Found a way to cool the DGX",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tansuo/found_a_way_to_cool_the_dgx/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-12T02:05:50+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tansuo/found_a_way_to_cool_the_dgx/\"> <img alt=\"Found a way to cool the DGX\" src=\"https://preview.redd.it/pmlz1ysv5m0h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d3d9daae7ffd235313db05ae43cb493e87be5cb\" title=\"Found a way to cool the DGX\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Tap water keeps the temperature below 68 degree Celsius at 95% GPU utilization running Qwen3.5-122b-a10B Q6_K precision. 110 GB ",
+      "extra": {
+        "revenue_score": 10
+      },
+      "collected_at": "2026-05-12T12:53:18"
     }
   ],
-  "updated_at": "2026-05-12T07:15:48.368232+09:00"
+  "updated_at": "2026-05-12T12:53:18.227169+09:00"
 }
