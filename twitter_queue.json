@@ -14757,5 +14757,19 @@
     "image_path": "/images/posts/2026-05-12-suprbox-ai-agent-secure-storage-review.jpg",
     "created_at": "2026-05-12T12:53:43.174183+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-12-high-end-llm-cooling-setup-guide",
+    "title": "Qwen2.5-122Bクラスの巨大なローカルLLMを、サーマルスロットリング（熱による速度低下）を起こさずに安定稼働させるための推論環境を構築します。",
+    "url": "https://ai.negi-lab.com/posts/high-end-llm-cooling-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #GPU",
+    "tweet_text": "VRAM 110GBを要求するQwen 122B級モデルを自宅で回す。Redditで話題のDGX水道水冷却は極端だが、GPU温度を75度以下に保つ「ソフトウェア・スロットリング」の実装は現実解だ。1段落24GBの壁を5枚のRTX 3090で突破し、温度監視付きのPythonラッパーで24時間安定稼働させる。熱暴走でハードを殺す前にこの構成を試してほしい。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-12-high-end-llm-cooling-setup-guide.jpg",
+    "created_at": "2026-05-12T15:20:26.553893+09:00",
+    "posted": false
   }
 ]

@@ -2306,22 +2306,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Suprbox",
-      "url": "https://www.producthunt.com/products/suprbox",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Box for AI agents to secure enterprise data storage </p> <p> <a href=\"https://www.producthunt.com/products/suprbox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1143852?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 9
-      },
-      "collected_at": "2026-05-11T21:10:14"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Weavable",
       "url": "https://www.producthunt.com/products/weavable",
       "primary_category": "TOOL",
@@ -2732,7 +2716,53 @@
         "revenue_score": 10
       },
       "collected_at": "2026-05-12T12:53:18"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 12 May 2026 04:52:35 +0000",
+      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-12T15:19:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "RPCForge",
+      "url": "https://www.producthunt.com/products/rpcforge-own-your-rpc",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Multi-chain Ethereum RPC you own and control </p> <p> <a href=\"https://www.producthunt.com/products/rpcforge-own-your-rpc?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1143661?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-12T15:19:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Drastically improve prompt processing speed for --n-cpu-moe partially offloaded models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tany5t/drastically_improve_prompt_processing_speed_for/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-12T02:12:28+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tany5t/drastically_improve_prompt_processing_speed_for/\"> <img alt=\"Drastically improve prompt processing speed for --n-cpu-moe partially offloaded models\" src=\"https://preview.redd.it/s750judj7m0h1.png?width=140&amp;height=98&amp;auto=webp&amp;s=ba17aa18d81a31b298d7fc9c38586c139dc09cdb\" title=\"Drastically improve prompt processing speed for --n-cpu-moe partially offloaded models\" /> </a> </td><td> <!-- SC_OFF --><div class=",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-12T15:19:58"
     }
   ],
-  "updated_at": "2026-05-12T12:53:18.227169+09:00"
+  "updated_at": "2026-05-12T15:19:58.913389+09:00"
 }
