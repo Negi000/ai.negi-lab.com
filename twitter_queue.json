@@ -14757,5 +14757,19 @@
     "image_path": "/images/posts/2026-05-13-local-llm-gpu-mac-comparison-guide.jpg",
     "created_at": "2026-05-13T03:56:48.327603+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-13-local-llm-1trillion-parameter-intel-optane-build",
+    "title": "ローカルLLMで1兆パラメータを動かす選び方｜Intel OptaneとGPUどっちを買うべきか比較",
+    "url": "https://ai.negi-lab.com/posts/local-llm-1trillion-parameter-intel-optane-build/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLMで1兆パラメータ級を動かすならGPU増設より「Intel Optane PMem」が実は低コスト。第2世代Xeon環境が必要だけど、1TB超のメモリを数十万円で構築できるメリットはデカい。推論速度4トークン/秒は思考型AIの検証なら実用レベル。RTX 4090を並べる予算がない層の生存戦略として中古サーバー＋Optane構成はアリですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-13-local-llm-1trillion-parameter-intel-optane-build.jpg",
+    "created_at": "2026-05-13T07:20:49.687864+09:00",
+    "posted": false
   }
 ]
