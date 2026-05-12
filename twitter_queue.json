@@ -14563,34 +14563,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-10-beellamacpp-qwen-high-speed-200k-tutorial",
-    "title": "BeeLlama.cppでQwenを高速化して200kコンテキストを動かす方法",
-    "url": "https://ai.negi-lab.com/posts/beellamacpp-qwen-high-speed-200k-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "RTX 3090/4090ユーザーは必見。BeeLlama.cppでQwen 27B/32Bを動かしたら、ピーク135 tpsという異次元の速度を叩き出した。DFlashとTurboQuantの効果が凄まじく、200kトークンの超ロングコンテキストでも推論が重くならない。もはやRAGを組むより「全部プロンプトに入れる」方が速くて正確。この爆速体験は一度味わうと戻れない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-10-beellamacpp-qwen-high-speed-200k-tutorial.jpg",
-    "created_at": "2026-05-10T17:11:28.199379+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-10-agentpeek-mac-notch-claude-code-review",
-    "title": "AgentPeek MacのノッチからClaude Codeを即座に呼び出すAIエージェント・インターフェース",
-    "url": "https://ai.negi-lab.com/posts/agentpeek-mac-notch-claude-code-review/",
-    "category": "TOOL",
-    "viral_tags": "#ClaudeCode #Mac活用術",
-    "tweet_text": "MacのノッチからClaude Codeを召喚する「AgentPeek」を検証。ターミナルを開いてcdして起動…という地味な15秒をゼロにする快感。CLIエージェントの力は、アクセスの速さで決まる。Apple Silicon搭載Macで、エディタを問わずAIを溶け込ませたいエンジニアには最高の時短投資になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-10-agentpeek-mac-notch-claude-code-review.jpg",
-    "created_at": "2026-05-10T19:14:49.430342+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-10-maryland-data-center-power-grid-cost-conflict",
     "title": "AIデータセンター急拡大のツケを誰が払うか？送電網コスト2500億円の波紋",
     "url": "https://ai.negi-lab.com/posts/maryland-data-center-power-grid-cost-conflict/",
@@ -14631,34 +14603,6 @@
     "image_path": "/images/posts/2026-05-11-claude-code-academic-research-hardware-guide.jpg",
     "created_at": "2026-05-11T06:58:18.159855+09:00",
     "posted": true
-  },
-  {
-    "article_id": "2026-05-11-generic-agent-self-evolving-skill-tree-review",
-    "title": "GenericAgent 自身でスキルを拡張する「自己進化型」AIエージェントの実力",
-    "url": "https://ai.negi-lab.com/posts/generic-agent-self-evolving-skill-tree-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #GenericAgent",
-    "tweet_text": "AIエージェントの「トークン浪費」に終止符。GenericAgentは実行過程を「スキル」として自己学習し、2回目以降は思考をスキップ。従来比6倍のトークン効率を実現。3.3K行の軽量シードからPCフル操作まで拡張する設計が合理的。RTX 4090環境でのローカルLLM運用とも相性抜群。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-11-generic-agent-self-evolving-skill-tree-review.jpg",
-    "created_at": "2026-05-11T13:09:49.805648+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-11-local-llm-tokens-per-second-simulator-python",
-    "title": "ローカルLLMの推論速度を体感するシミュレーター自作ガイド",
-    "url": "https://ai.negi-lab.com/posts/local-llm-tokens-per-second-simulator-python/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Python",
-    "tweet_text": "ローカルLLM構築で最も後悔するのは「速度のミスマッチ」です。10 tokens/secという数字が、自分の作業に耐える速さか判断できていますか？\n\nこの数値をPythonで擬似的に再現するシミュレーターを作りました。RTX 4090の爆速から、エントリー機の低速までを体感。VRAM課金前に自分の「許容速度」を知るのが一番の節約になります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-11-local-llm-tokens-per-second-simulator-python.jpg",
-    "created_at": "2026-05-11T15:48:22.098426+09:00",
-    "posted": false
   },
   {
     "article_id": "2026-05-11-warp-open-source-agentic-terminal-review",
@@ -14714,7 +14658,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-12-claudecode-adamsreview-hardware-guide.jpg",
     "created_at": "2026-05-12T02:10:58.857033+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-12-local-llm-pc-selection-guide-rtx-vs-mac",
