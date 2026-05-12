@@ -2879,22 +2879,6 @@
       "collected_at": "2026-05-12T20:21:23"
     },
     {
-      "source": "Google News",
-      "title": "Japan's Takaichi Urges Govt to Take Cybersecurity Measures - 時事通信ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ydkRQbDlZWkpxN0NFQ3lQVE4wUHIxYnB2U082XzJKbEwzb0M5WW5kamtEa2JBcE9rdzd2STJBOWgwaXZkWi1Ba0RDejQtSS1hSUE?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Tue, 12 May 2026 10:12:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ydkRQbDlZWkpxN0NFQ3lQVE4wUHIxYnB2U082XzJKbEwzb0M5WW5kamtEa2JBcE9rdzd2STJBOWgwaXZkWi1Ba0RDejQtSS1hSUE?oc=5\" target=\"_blank\">Japan's Takaichi Urges Govt to Take Cybersecurity Measures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-12T20:21:24"
-    },
-    {
       "source": "Product Hunt",
       "title": "Whale Starts",
       "url": "https://www.producthunt.com/products/whale-starts",
@@ -2956,7 +2940,70 @@
         "revenue_score": 7
       },
       "collected_at": "2026-05-12T20:21:25"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Dessn raises $6M for its production focused design tool",
+      "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Tue, 12 May 2026 13:00:00 +0000",
+      "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+      "extra": {
+        "revenue_score": -4
+      },
+      "collected_at": "2026-05-12T23:34:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "zubhai",
+      "url": "https://www.producthunt.com/products/zubhai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> LeetCode for AI Skills </p> <p> <a href=\"https://www.producthunt.com/products/zubhai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1137819?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-12T23:34:54"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Stop wasting electricity",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tayu5t/stop_wasting_electricity/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-12T11:32:23+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tayu5t/stop_wasting_electricity/\"> <img alt=\"Stop wasting electricity\" src=\"https://preview.redd.it/qrrwj5lhzo0h1.png?width=140&amp;height=83&amp;auto=webp&amp;s=5add7a044950b478dca91e7af8127f31ed2afe38\" title=\"Stop wasting electricity\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Run on my rtx4090</p> <p>llama.cpp params:</p> <pre><code>llama-server -m ~/Projects/llm/models/Qwen3.6-27B-UD-Q4_K_XL.gguf --flash-attn on",
+      "extra": {
+        "revenue_score": 16
+      },
+      "collected_at": "2026-05-12T23:34:55"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "examples : add llama-eval by ggerganov · Pull Request #21152 · ggml-org/llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb0uln/examples_add_llamaeval_by_ggerganov_pull_request/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-12T12:57:10+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tb0uln/examples_add_llamaeval_by_ggerganov_pull_request/\"> <img alt=\"examples : add llama-eval by ggerganov · Pull Request #21152 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/sVrKFWlZw1Wn0xp-cveiGwMP8_UbhQPJwSHrl63r5mQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d6ecce0b5e045f66cf69383102d687b692e15221\" title=\"examples : add llama-eval by ggerganov · Pull Request #21152 · ggml-org/llama.cpp\" /> </a> </td>",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-05-12T23:34:55"
     }
   ],
-  "updated_at": "2026-05-12T20:21:25.643573+09:00"
+  "updated_at": "2026-05-12T23:34:55.613431+09:00"
 }
