@@ -2702,22 +2702,6 @@
       "collected_at": "2026-05-12T12:53:17"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "Found a way to cool the DGX",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tansuo/found_a_way_to_cool_the_dgx/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-12T02:05:50+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tansuo/found_a_way_to_cool_the_dgx/\"> <img alt=\"Found a way to cool the DGX\" src=\"https://preview.redd.it/pmlz1ysv5m0h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d3d9daae7ffd235313db05ae43cb493e87be5cb\" title=\"Found a way to cool the DGX\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Tap water keeps the temperature below 68 degree Celsius at 95% GPU utilization running Qwen3.5-122b-a10B Q6_K precision. 110 GB ",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-05-12T12:53:18"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Thinking Machines wants to build an AI that actually listens while it talks",
       "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
@@ -2762,7 +2746,83 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-12T15:19:58"
+    },
+    {
+      "source": "Google News",
+      "title": "Japan's Takaichi Urges Govt to Take Cybersecurity Measures - 時事通信ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqQzhYZi1oZWUtNnpBWTFZVzBfS1hoUlBaN1NtYnFHYi1aSjdNWVNRTjB0blUxeTZPcFphSlNTd2xzM1VwS1hSNU1rd3JPb1llaGc?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 12 May 2026 02:17:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqQzhYZi1oZWUtNnpBWTFZVzBfS1hoUlBaN1NtYnFHYi1aSjdNWVNRTjB0blUxeTZPcFphSlNTd2xzM1VwS1hSNU1rd3JPb1llaGc?oc=5\" target=\"_blank\">Japan's Takaichi Urges Govt to Take Cybersecurity Measures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-12T17:44:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "knooth",
+      "url": "https://www.producthunt.com/products/knooth",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Screen recording with AI-powered editing for Mac </p> <p> <a href=\"https://www.producthunt.com/products/knooth?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1144389?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-12T17:44:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "FileFlan",
+      "url": "https://www.producthunt.com/products/fileflan",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Instant private universal file sharing </p> <p> <a href=\"https://www.producthunt.com/products/fileflan?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1144488?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-12T17:44:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "DeepFrame",
+      "url": "https://www.producthunt.com/products/deepframe",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Serious security before public exposure </p> <p> <a href=\"https://www.producthunt.com/products/deepframe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1144406?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-12T17:44:10"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "500k context on 48gb VRAM!! - 21tok/s (coding)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tag1ks/500k_context_on_48gb_vram_21toks_coding/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-11T20:49:36+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I found this model hiding in the corner of huggingface: <a href=\"https://huggingface.co/Max-and-Omnis/Nemotron-3-Super-64B-A12B-Math-REAP-GGUF\">https://huggingface.co/Max-and-Omnis/Nemotron-3-Super-64B-A12B-Math-REAP-GGUF</a></p> <p>Looks to be tuned specifically for math but i thought i'd give it a try since i cant run the full 120b nemotron super and it seem to hold up like a champ in agentic coding for some odd reason. been using it to code all my projects fo",
+      "extra": {
+        "revenue_score": 11
+      },
+      "collected_at": "2026-05-12T17:44:11"
     }
   ],
-  "updated_at": "2026-05-12T15:19:58.913389+09:00"
+  "updated_at": "2026-05-12T17:44:11.559944+09:00"
 }

@@ -14771,5 +14771,19 @@
     "image_path": "/images/posts/2026-05-12-high-end-llm-cooling-setup-guide.jpg",
     "created_at": "2026-05-12T15:20:26.553893+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-12-hermes-agent-local-llm-tutorial-review",
+    "title": "hermes-agent 使い方 | 自律型AIをローカルで育てる",
+    "url": "https://ai.negi-lab.com/posts/hermes-agent-local-llm-tutorial-review/",
+    "category": "TOOL",
+    "viral_tags": "#ローカルLLM #AIエージェント",
+    "tweet_text": "ローカルLLMで「本当に動くエージェント」を作りたいなら、NousResearchのhermes-agentは外せない。\nRTX 4090×2の環境でHermes 3 70Bを回すと、思考(Thinking)と行動の分離が美しく、GPT-4並みの安定感。\nLangChainほど肥大化せず、モデルのポテンシャルを直叩きできるのがエンジニア向き。VRAM 48GB積んでるなら今すぐ試すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-12-hermes-agent-local-llm-tutorial-review.jpg",
+    "created_at": "2026-05-12T17:44:35.430155+09:00",
+    "posted": false
   }
 ]
