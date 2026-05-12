@@ -14799,5 +14799,19 @@
     "image_path": "/images/posts/2026-05-12-japan-active-cyber-defense-takaichi-strategy.jpg",
     "created_at": "2026-05-12T20:22:39.545725+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-13-local-llm-gpu-mac-comparison-guide",
+    "title": "ローカルLLMの「嘘」を克服する機材選び｜RTX 4090からMac Studioまで実務者が比較",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "1981年の詩がLLMのハルシネーションを予言していた話が深い。結局、AIの「もっともらしい嘘」を仕事で制御するには、機材への投資が最短ルート。\n\n実務でローカルLLMを回すなら、VRAM 16GB未満はもはや非推奨。RTX 4060 Ti 16GBなら10万円以下、究極は4090かMac Studio 64GB。\n\n動くかどうかで悩む時間は、VRAM容量で解決するのが一番安上がりです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-13-local-llm-gpu-mac-comparison-guide.jpg",
+    "created_at": "2026-05-13T03:56:48.327603+09:00",
+    "posted": false
   }
 ]
