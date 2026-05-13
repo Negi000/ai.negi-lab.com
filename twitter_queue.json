@@ -14827,5 +14827,19 @@
     "image_path": "/images/posts/2026-05-13-claude-legal-ai-solution-anthropic-release.jpg",
     "created_at": "2026-05-13T23:46:19.259615+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-14-claude-code-vs-qwen-local-gpu-guide",
+    "title": "Claude CodeとローカルQwen比較！AIコーディング最強環境の選び方とおすすめGPU",
+    "url": "https://ai.negi-lab.com/posts/claude-code-vs-qwen-local-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #AIコーディング",
+    "tweet_text": "Claude Codeか、ローカルQwenか。AI開発の現場は「API課金」か「GPU投資」かの二択を迫られています。結論、毎日数千行書くならRTX 4090（VRAM 24GB）への投資が1年でペイします。逆にたまの利用ならAPI経由のClaude 3.7が最強。VRAM不足で後悔する前に、自分の開発頻度とAPIコストを計算して判断すべきですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-14-claude-code-vs-qwen-local-gpu-guide.jpg",
+    "created_at": "2026-05-14T02:01:40.069761+09:00",
+    "posted": false
   }
 ]

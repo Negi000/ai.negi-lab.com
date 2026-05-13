@@ -2,202 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "GPT‑5.5 Instant",
-      "url": "https://openai.com/index/gpt-5-5-instant/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 05 May 2026 17:02:23 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-07T01:32:21"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "SubQ: a sub-quadratic LLM with 12M-token context",
-      "url": "https://subq.ai/introducing-subq",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 05 May 2026 14:37:12 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-07T01:32:21"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Train Your Own LLM from Scratch",
-      "url": "https://github.com/angelos-p/llm-from-scratch",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 05 May 2026 04:09:17 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-07T01:32:21"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums",
-      "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 06 May 2026 15:49:39 +0000",
-      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-07T01:32:25"
-    },
-    {
-      "source": "Google News",
-      "title": "米ＡＭＤ、第2四半期売上高見通しが予想超え ＡＩでＣＰＵ需要好調 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaU1wOGJad2pCY0xOelMxLTNmUmZ3QUJtS2VReGtocVRvMFQ2dG5WSm5VakVYUXptVW95SERZSmxQTS16TGRUdnVVTmRaM3BGNlRNd0hPenJibHlUUnB4TXVlWUVsd3QxUHlzVVdTbjdwcFhKQ3BJSFFuMzkzTzBSV1ZUbWFndzc5VGJr?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Wed, 06 May 2026 02:32:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaU1wOGJad2pCY0xOelMxLTNmUmZ3QUJtS2VReGtocVRvMFQ2dG5WSm5VakVYUXptVW95SERZSmxQTS16TGRUdnVVTmRaM3BGNlRNd0hPenJibHlUUnB4TXVlWUVsd3QxUHlzVVdTbjdwcFhKQ3BJSFFuMzkzTzBSV1ZUbWFndzc5VGJr?oc=5\" target=\"_blank\">米ＡＭＤ、第2四半期売上高見通しが予想超え ＡＩでＣＰＵ需要好調</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-07T01:32:27"
-    },
-    {
-      "source": "Google News",
-      "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfdkU0TnFMV1gwMG9zYkM5dm51eE93ckZCTWJTMzN4ZGVjemtWdnZpbU5XMndXWGFvSDZYOS10cklLV1JPZXFjdExxYVFMRVRnS2dFejVham9mRGU0dlZZT1lHZXBHYnQ1Z2dCag?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Tue, 05 May 2026 22:53:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBfdkU0TnFMV1gwMG9zYkM5dm51eE93ckZCTWJTMzN4ZGVjemtWdnZpbU5XMndXWGFvSDZYOS10cklLV1JPZXFjdExxYVFMRVRnS2dFejVham9mRGU0dlZZT1lHZXBHYnQ1Z2dCag?oc=5\" target=\"_blank\">Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-07T01:32:27"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Custom Integrations by Databox",
-      "url": "https://www.producthunt.com/products/databox",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Bring missing data into Databox without writing code </p> <p> <a href=\"https://www.producthunt.com/products/databox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1134331?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-07T01:32:27"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "damnlines.com",
-      "url": "https://www.producthunt.com/products/damnlines-com",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> No one likes waiting in a damn line. </p> <p> <a href=\"https://www.producthunt.com/products/damnlines-com?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1139171?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-07T01:32:27"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "AMD in-house ryzen 395 box coming in June",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t038g7/amd_inhouse_ryzen_395_box_coming_in_june/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-04-30T17:37:23+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t038g7/amd_inhouse_ryzen_395_box_coming_in_june/\"> <img alt=\"AMD in-house ryzen 395 box coming in June\" src=\"https://preview.redd.it/rlwfreg56dyg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28bfb7d54150fa5f85ec929d66c33ef811665e8b\" title=\"AMD in-house ryzen 395 box coming in June\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Don't know if the date was released yet, but this was just said a few moments ago at AM",
-      "extra": {},
-      "collected_at": "2026-05-07T01:38:49"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Shadow 2.0",
-      "url": "https://www.producthunt.com/products/shadow-6",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The work your meetings create, done before they end </p> <p> <a href=\"https://www.producthunt.com/products/shadow-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1136553?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-07T01:38:53"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Bad news: Apple drops high-memory Mac Studio configs",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t59rda/bad_news_apple_drops_highmemory_mac_studio_configs/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-06T11:13:02+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t59rda/bad_news_apple_drops_highmemory_mac_studio_configs/\"> <img alt=\"Bad news: Apple drops high-memory Mac Studio configs\" src=\"https://external-preview.redd.it/52vUbMMQc7is-aNzzgL7XAZIrZoghfbf04gNtjrUQqc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a88e0780fe8c5c36298cb903c596158b9688c6c\" title=\"Bad news: Apple drops high-memory Mac Studio configs\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Looks like Apple",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-05-07T01:38:55"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "None of this will ever get stolen",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t5f97q/none_of_this_will_ever_get_stolen/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-05-06T14:53:07+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t5f97q/none_of_this_will_ever_get_stolen/\"> <img alt=\"None of this will ever get stolen\" src=\"https://preview.redd.it/ln5useqj5jzg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=63cafd6e8635e30404c49f7cf0b885730eb9c079\" title=\"None of this will ever get stolen\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>It's crazy that they're thinking of doing this. There are problems with people stealing catalytic converters of",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-07T01:38:55"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Quality comparison between Qwen 3.6 27B quantizations (BF16, Q8_0, Q6_K, Q5_K_XL, Q4_K_XL, IQ4_XS, IQ3_XXS,...)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-06T05:10:27+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t53dhp/quality_comparison_between_qwen_36_27b/\"> <img alt=\"Quality comparison between Qwen 3.6 27B quantizations (BF16, Q8_0, Q6_K, Q5_K_XL, Q4_K_XL, IQ4_XS, IQ3_XXS,...)\" src=\"https://preview.redd.it/6lsfvzy8wfzg1.png?width=140&amp;height=140&amp;auto=webp&amp;s=402390b430a99e66da354bdfa4689f6a68dc03b6\" title=\"Quality comparison between Qwen 3.6 27B quantizations (BF16, Q8_0, Q6_K, Q5_K_XL, Q4_K_XL, IQ4_XS, IQ3_XXS,...)\" />",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-05-07T01:38:55"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Higher usage limits for Claude and a compute deal with SpaceX",
       "url": "https://www.anthropic.com/news/higher-limits-spacex",
       "primary_category": "NEWS",
@@ -3498,23 +3302,6 @@
       "collected_at": "2026-05-13T23:45:39"
     },
     {
-      "source": "Google News",
-      "title": "AIで法務を効率化するためのClaude連携アプリをAnthropicがリリース、取引・雇用・訴訟などあらゆる法務に対応 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GRU03ZjlaYXJhb2ZRRC12MDZ2TG5RRUY2Z0xKTFUzNG8ySExjVWpqQ1JXWkx2MVM5dHlzQ3djWlpnWXRQd2hETnF1cHRNQW9zSnZteGlQSWJuUWgzS012c0UwWFItTlJyNkNDSGFRNlhUMGd3LWFZ?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Wed, 13 May 2026 06:31:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5GRU03ZjlaYXJhb2ZRRC12MDZ2TG5RRUY2Z0xKTFUzNG8ySExjVWpqQ1JXWkx2MVM5dHlzQ3djWlpnWXRQd2hETnF1cHRNQW9zSnZteGlQSWJuUWgzS012c0UwWFItTlJyNkNDSGFRNlhUMGd3LWFZ?oc=5\" target=\"_blank\">AIで法務を効率化するためのClaude連携アプリをAnthropicがリリース、取引・雇用・訴訟などあらゆる法務に対応</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {
-        "revenue_score": 1
-      },
-      "collected_at": "2026-05-13T23:45:39"
-    },
-    {
       "source": "Product Hunt",
       "title": "Frontdesk AI",
       "url": "https://www.producthunt.com/products/frontdesk-ai",
@@ -3579,7 +3366,85 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-13T23:45:41"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Who trusts Sam Altman?",
+      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 13 May 2026 16:31:04 +0000",
+      "summary": "\"I believe I am an honest and trustworthy business person,\" Altman testified in federal court.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-14T02:01:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "RescueTime for iOS & Android",
+      "url": "https://www.producthunt.com/products/rescuetime",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Automatic time tracking, now better than ever in your pocket </p> <p> <a href=\"https://www.producthunt.com/products/rescuetime?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1128216?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-14T02:01:06"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "BossHogg",
+      "url": "https://www.producthunt.com/products/bosshogg",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Agent-first CLI for PostHog analytics and feature flags </p> <p> <a href=\"https://www.producthunt.com/products/bosshogg?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1145680?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-14T02:01:06"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Glosso",
+      "url": "https://www.producthunt.com/products/glosso",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Learn a language to unlock social media </p> <p> <a href=\"https://www.producthunt.com/products/glosso?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1145500?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-14T02:01:06"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "llama.cpp docker images to run MTP models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tc132c/llamacpp_docker_images_to_run_mtp_models/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-05-13T14:20:07+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is follow up from previous post: <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t5ageq/\">https://www.reddit.com/r/LocalLLaMA/comments/1t5ageq/</a></p> <p>There have been many improvements to the MTP pull request and the llama.cpp main branch, such as image support and various bug fixes. I recently made a new build for my local machine, but keeping guides up to date is an issue, so I built Docker images to make running them easier. If you are already",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-05-14T02:01:07"
     }
   ],
-  "updated_at": "2026-05-13T23:45:41.110115+09:00"
+  "updated_at": "2026-05-14T02:01:07.342171+09:00"
 }
