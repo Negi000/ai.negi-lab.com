@@ -14757,5 +14757,19 @@
     "image_path": "/images/posts/2026-05-13-local-llm-1trillion-parameter-intel-optane-build.jpg",
     "created_at": "2026-05-13T07:20:49.687864+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-13-fish-speech-sota-tts-review-local-setup",
+    "title": "fish-speech 実用レベルの音声合成をローカル環境で構築する方法",
+    "url": "https://ai.negi-lab.com/posts/fish-speech-sota-tts-review-local-setup/",
+    "category": "TOOL",
+    "viral_tags": "#音声合成 #ローカルLLM",
+    "tweet_text": "ローカルTTSの決定版 fish-speech を検証。RTX 4090環境で100文字0.8秒の爆速推論。わずか5秒の参照音声で、本人と聞き間違えるレベルのクローンが作れる。LLMベースの構造により、感情表現の解像度が既存のOSSとは別次元。VRAM 12GB以上のGPUがあるなら、ElevenLabsからの乗り換えも現実的。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-13-fish-speech-sota-tts-review-local-setup.jpg",
+    "created_at": "2026-05-13T13:02:38.215641+09:00",
+    "posted": false
   }
 ]

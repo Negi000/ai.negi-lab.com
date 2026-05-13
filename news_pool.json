@@ -2580,23 +2580,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Computer build using Intel Optane Persistent Memory - Can run 1 trillion parameter model at over 4 tokens/sec",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1taeg8h/computer_build_using_intel_optane_persistent/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-11T19:54:25+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1taeg8h/computer_build_using_intel_optane_persistent/\"> <img alt=\"Computer build using Intel Optane Persistent Memory - Can run 1 trillion parameter model at over 4 tokens/sec\" src=\"https://preview.redd.it/na7zo7lmck0h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fdf142fa749e9c2ad8acbc9569895f0df6504761\" title=\"Computer build using Intel Optane Persistent Memory - Can run 1 trillion parameter model at over 4 tokens/sec\"",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-12T07:15:48"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "I catalogued every way local models break JSON output and built a repair library, here's what I found across 288 model calls",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tagtpv/i_catalogued_every_way_local_models_break_json/",
       "primary_category": "GUIDE",
@@ -3229,7 +3212,82 @@
         "revenue_score": 5
       },
       "collected_at": "2026-05-13T07:20:23"
+    },
+    {
+      "source": "r/ollama",
+      "title": "The models are overloaded ...",
+      "url": "https://www.reddit.com/r/ollama/comments/1tbfdzz/the_models_are_overloaded/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-05-12T21:29:22+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Today, it has been long day for me. I have been switching models, Kimi k2.6, Deepseek v4 flash, and others ..... the warning has popped out consistently ' overloaded'.<br /> Is it just me or other people experienced the same with me.<br /> BTW in UK. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Party_Heat1614\"> /u/Party_Heat1614 </a> <br /> <span><a href=\"https://www.reddit.com/r/ollama/comments/1tbfdzz/the_models_are_o",
+      "extra": {},
+      "collected_at": "2026-05-13T13:02:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Wed, 13 May 2026 00:26:48 +0000",
+      "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-13T13:02:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Long Horizon",
+      "url": "https://www.producthunt.com/products/long-horizon",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your coding agent writes the feature and runs the tests </p> <p> <a href=\"https://www.producthunt.com/products/long-horizon?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140512?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-13T13:02:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Whisper Island by Coddo",
+      "url": "https://www.producthunt.com/products/coddo",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Voice transcription lives in the Mac notch </p> <p> <a href=\"https://www.producthunt.com/products/coddo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1144658?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-13T13:02:04"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I got a real transformer language model running locally on a stock Game Boy Color!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbi2n3/i_got_a_real_transformer_language_model_running/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-12T23:15:42+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tbi2n3/i_got_a_real_transformer_language_model_running/\"> <img alt=\"I got a real transformer language model running locally on a stock Game Boy Color!\" src=\"https://preview.redd.it/1hl9id7ghs0h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=328dc45a685b189cdeb7cc58830b464723f7a10e\" title=\"I got a real transformer language model running locally on a stock Game Boy Color!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-13T13:02:05"
     }
   ],
-  "updated_at": "2026-05-13T07:20:23.928967+09:00"
+  "updated_at": "2026-05-13T13:02:05.869808+09:00"
 }
