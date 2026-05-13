@@ -14605,20 +14605,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-11-qwen-36-35b-local-llm-code-review-guide",
-    "title": "Qwen 3.6 35B A3B 使い方 | ローカルLLMでプロ級のコード解析環境を作る方法",
-    "url": "https://ai.negi-lab.com/posts/qwen-36-35b-local-llm-code-review-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "ローカルLLMのQwen 3.6 35B A3Bが、ニッチなコード理解においてClaude 3.5超えの挙動を見せている。MoE採用でActive 3Bという軽さながら、3090/4090環境なら一瞬でプロ級のコードレビューが返ってくる。VRAM 20GBあればQ4量子化で実用圏内。秘匿性の高い研究用コードを解析させるなら、今はこのモデル一択です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-11-qwen-36-35b-local-llm-code-review-guide.jpg",
-    "created_at": "2026-05-11T21:10:55.928797+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-12-toshiba-counterfactual-waveform-anomaly-detection",
     "title": "東芝が「納得感」のある異常検知を可視化、製造現場のAIブラックボックス問題を解決する新技術",
     "url": "https://ai.negi-lab.com/posts/toshiba-counterfactual-waveform-anomaly-detection/",
@@ -14645,48 +14631,6 @@
     "image_path": "/images/posts/2026-05-12-claudecode-adamsreview-hardware-guide.jpg",
     "created_at": "2026-05-12T02:10:58.857033+09:00",
     "posted": true
-  },
-  {
-    "article_id": "2026-05-12-local-llm-pc-selection-guide-rtx-vs-mac",
-    "title": "ローカルLLM用PCの選び方比較：RTX 4090かMac Studioか？後悔しないVRAM選定ガイド",
-    "url": "https://ai.negi-lab.com/posts/local-llm-pc-selection-guide-rtx-vs-mac/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLM環境、VRAM 8GBはすでに人権がありません。実務でLlama 3.1やQwen2.5を快適に回すなら、RTX 4060 Ti 16GBが最低ライン。70Bクラスを狙うなら4090の2枚挿し48GBか、Mac Studio 128GBの二択です。電源容量と騒音を無視して自作に走ると後悔します。まずはAPI利用料と比較して、月3万円超えるなら実機投資が正解。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-12-local-llm-pc-selection-guide-rtx-vs-mac.jpg",
-    "created_at": "2026-05-12T03:59:03.822014+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-12-unsloth-mtp-llamacpp-fast-inference-guide",
-    "title": "UnslothのMTP対応モデルでローカルLLMの推論速度を2倍にする方法",
-    "url": "https://ai.negi-lab.com/posts/unsloth-mtp-llamacpp-fast-inference-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Unsloth",
-    "tweet_text": "ローカルLLMの推論速度を2倍にする「MTP」が身近になりました。Unsloth公開のQwen2.5-27B-MTPをllama.cppで動かすと、RTX 4090単体で60 token/s超えを記録。投機的サンプリングと違い、単一モデルで完結するのが強み。VRAM 24GB環境ならQ4_K_M量子化で爆速開発環境が手に入ります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-12-unsloth-mtp-llamacpp-fast-inference-guide.jpg",
-    "created_at": "2026-05-12T07:16:13.381856+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-12-suprbox-ai-agent-secure-storage-review",
-    "title": "Suprboxレビュー：AIエージェントのデータ操作を隔離・保護するセキュアなストレージ",
-    "url": "https://ai.negi-lab.com/posts/suprbox-ai-agent-secure-storage-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #Python",
-    "tweet_text": "AIエージェントにファイル操作をさせるなら「Suprbox」が面白い。ホスト環境から隔離されたサンドボックス・ストレージをAPI数行で構築できる。\nLLMに直接os.remove()されるリスクを消せるのはデカい。E2Bよりデータ保護に寄った設計で、エンタープライズのRAG開発には必須級。開発者の精神衛生に効く。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-12-suprbox-ai-agent-secure-storage-review.jpg",
-    "created_at": "2026-05-12T12:53:43.174183+09:00",
-    "posted": false
   },
   {
     "article_id": "2026-05-12-high-end-llm-cooling-setup-guide",
@@ -14840,6 +14784,6 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-14-claude-code-vs-qwen-local-gpu-guide.jpg",
     "created_at": "2026-05-14T02:01:40.069761+09:00",
-    "posted": false
+    "posted": true
   }
 ]
