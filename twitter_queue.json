@@ -14771,5 +14771,19 @@
     "image_path": "/images/posts/2026-05-13-fish-speech-sota-tts-review-local-setup.jpg",
     "created_at": "2026-05-13T13:02:38.215641+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-13-needle-26m-tool-calling-tutorial-local-llm",
+    "title": "Needle 使い方 入門｜26Mの超軽量モデルで爆速ツール呼び出しを実現する方法",
+    "url": "https://ai.negi-lab.com/posts/needle-26m-tool-calling-tutorial-local-llm/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AIエージェント",
+    "tweet_text": "26Mパラメータという衝撃的な小ささ。Gemini 1.5 Proのツール呼び出し能力を蒸留した「Needle」を試しました。VRAM 100MB以下、デコード1200 tok/s超え。巨大モデルを回す前に、この「超軽量ルーター」を通すだけでエージェントの反応速度が劇的に変わる。実務でのモデル分業化、これが正解かもしれません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-13-needle-26m-tool-calling-tutorial-local-llm.jpg",
+    "created_at": "2026-05-13T15:32:01.128706+09:00",
+    "posted": false
   }
 ]
