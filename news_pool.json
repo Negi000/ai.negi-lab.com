@@ -3182,22 +3182,6 @@
       "collected_at": "2026-05-13T07:20:23"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "Needle: We Distilled Gemini Tool Calling Into a 26M Model",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb9b0r/needle_we_distilled_gemini_tool_calling_into_a/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-12T17:56:09+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.</p> <p>We were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-05-13T07:20:23"
-    },
-    {
       "source": "r/ollama",
       "title": "The models are overloaded ...",
       "url": "https://www.reddit.com/r/ollama/comments/1tbfdzz/the_models_are_overloaded/",
@@ -3318,7 +3302,81 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-13T15:31:32"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Tue, 12 May 2026 18:03:11 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-13T17:48:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Fide Shopify App",
+      "url": "https://www.producthunt.com/products/shoppable-videos-ugc",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Show shoppable UGC videos on your Shopify store </p> <p> <a href=\"https://www.producthunt.com/products/shoppable-videos-ugc?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1145635?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-13T17:48:11"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "IndexedAI",
+      "url": "https://www.producthunt.com/products/indexedai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your site scores X/100 for AI agents with next steps </p> <p> <a href=\"https://www.producthunt.com/products/indexedai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1142670?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-13T17:48:11"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Pipecat",
+      "url": "https://www.producthunt.com/products/pipecat-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build AI workflows and assistants for your business </p> <p> <a href=\"https://www.producthunt.com/products/pipecat-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1145403?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-13T17:48:11"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "My First Official AI Research Paper Accepted on SSRN",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tbht4h/my_first_official_ai_research_paper_accepted_on/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-05-12T23:04:46+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tbht4h/my_first_official_ai_research_paper_accepted_on/\"> <img alt=\"My First Official AI Research Paper Accepted on SSRN\" src=\"https://preview.redd.it/oz4vpoxdfs0h1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=bc5bd2c5e7235a547a700f29e042c40d23d6e695\" title=\"My First Official AI Research Paper Accepted on SSRN\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/oz4vpox",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-13T17:48:12"
     }
   ],
-  "updated_at": "2026-05-13T15:31:33.207121+09:00"
+  "updated_at": "2026-05-13T17:48:12.718121+09:00"
 }
