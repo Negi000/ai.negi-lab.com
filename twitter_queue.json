@@ -14785,5 +14785,19 @@
     "image_path": "/images/posts/2026-05-14-local-llm-gpu-comparison-rtx4090-mac.jpg",
     "created_at": "2026-05-14T03:56:51.538446+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-14-amd-mi50-qwen-vllm-setup-guide",
+    "title": "AMD MI50でQwen 2.5 27Bを爆速化してローカルLLMサーバーを構築する方法",
+    "url": "https://ai.negi-lab.com/posts/amd-mi50-qwen-vllm-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "中古3万円台のAMD MI50でQwen 2.5 27Bを動かしたら52.8 tpsを叩き出した。RTX 4090超えのVRAM 32GBとHBM2の帯域は伊達じゃない。ROCmの設定に癖はあるが、vLLMを使えば爆速のOpenAI互換APIサーバーが安価に手に入る。RAGやマルチエージェントを自前でぶん回したいなら、この「魔改造」環境は最強の選択肢になる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-14-amd-mi50-qwen-vllm-setup-guide.jpg",
+    "created_at": "2026-05-14T07:22:02.581103+09:00",
+    "posted": false
   }
 ]

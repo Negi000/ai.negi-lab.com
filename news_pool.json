@@ -1,94 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-      "url": "https://www.anthropic.com/news/higher-limits-spacex",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 06 May 2026 16:17:33 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-07T07:05:08"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 06 May 2026 21:57:56 +0000",
-      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-05-07T07:05:11"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Magic",
-      "url": "https://www.producthunt.com/products/magic-13",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Blend your content into real-world locations </p> <p> <a href=\"https://www.producthunt.com/products/magic-13?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1105213?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-07T07:05:11"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "DevAlly",
-      "url": "https://www.producthunt.com/products/devally",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI powered accessibility compliance for teams who ship fast </p> <p> <a href=\"https://www.producthunt.com/products/devally?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1139962?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-07T07:05:11"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Gas City 1.0",
-      "url": "https://www.producthunt.com/products/gas-city",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> build your own software factory </p> <p> <a href=\"https://www.producthunt.com/products/gas-city?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1137156?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-07T07:05:11"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "ZAYA1-8B: Frontier intelligence density, trained on AMD",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t5nll0/zaya18b_frontier_intelligence_density_trained_on/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-05-06T19:43:52+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t5nll0/zaya18b_frontier_intelligence_density_trained_on/\"> <img alt=\"ZAYA1-8B: Frontier intelligence density, trained on AMD\" src=\"https://external-preview.redd.it/i4WJfW6p4Uj9gIVSsX0OO33lOO35GrZY_skMyQ-4Cyo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9dd9ac4fef8ca24e3960106eba28b77c1b992f67\" title=\"ZAYA1-8B: Frontier intelligence density, trained on AMD\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.r",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-07T07:05:13"
-    },
-    {
       "source": "GitHub Trending",
       "title": "cheahjs/free-llm-api-resources",
       "url": "https://github.com/cheahjs/free-llm-api-resources",
@@ -2729,22 +2641,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Stop wasting electricity",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tayu5t/stop_wasting_electricity/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-12T11:32:23+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tayu5t/stop_wasting_electricity/\"> <img alt=\"Stop wasting electricity\" src=\"https://preview.redd.it/qrrwj5lhzo0h1.png?width=140&amp;height=83&amp;auto=webp&amp;s=5add7a044950b478dca91e7af8127f31ed2afe38\" title=\"Stop wasting electricity\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Run on my rtx4090</p> <p>llama.cpp params:</p> <pre><code>llama-server -m ~/Projects/llm/models/Qwen3.6-27B-UD-Q4_K_XL.gguf --flash-attn on",
-      "extra": {
-        "revenue_score": 16
-      },
-      "collected_at": "2026-05-12T23:34:55"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "examples : add llama-eval by ggerganov · Pull Request #21152 · ggml-org/llama.cpp",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb0uln/examples_add_llamaeval_by_ggerganov_pull_request/",
       "primary_category": "GUIDE",
@@ -3460,7 +3356,96 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-14T03:56:23"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: Reducing LLM input tokens by 70%",
+      "url": "https://adola.app/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 12 May 2026 15:18:33 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-14T07:21:32"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Ollama Cloud Pro vs Opencode Go vs Codex Plus ?",
+      "url": "https://www.reddit.com/r/ollama/comments/1tc51q3/ollama_cloud_pro_vs_opencode_go_vs_codex_plus/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-13T16:36:54+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm a former GitHub Copilot $10/month user.</p> <p>I recently subscribed to <strong>Opencode Go</strong> for their first-month promotional offer at $5, and I've been enjoying it without any model or speed issues. However, the usage limits feel too low for my workflow—I'd like at least double the quota. Unfortunately, there's no $20 tier available for Opencode Go.</p> <p>I'm also currently using the free trial month of <strong>OpenAI Codex Plus</strong>. It works",
+      "extra": {},
+      "collected_at": "2026-05-14T07:21:33"
+    },
+    {
+      "source": "r/ollama",
+      "title": "We built a tool that installs frameworks like ComfyUI, Ollama, OpenWebUI etc on any cloud GPU in one command and saves your whole setup between sessions",
+      "url": "https://www.reddit.com/r/ollama/comments/1tcd7cs/we_built_a_tool_that_installs_frameworks_like/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-13T21:17:33+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We kept running into the same problem every time we rented a GPU to run Ollama + OpenWebUI or ComfyUI, we'd spend the first 45 minutes reinstalling everything. Custom nodes, models, configs, all of it. Docker images went stale fast, different providers had different base images, and nothing was truly portable. We got sick of it and built swm.</p> <p>Here's what it does for ComfyUI users specifically:</p> <p>swm gpus -g a100 --max-price 2.00 --sort price shows yo",
+      "extra": {},
+      "collected_at": "2026-05-14T07:21:33"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Notion just turned its workspace into a hub for AI agents",
+      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "Wed, 13 May 2026 21:45:09 +0000",
+      "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-14T07:21:34"
+    },
+    {
+      "source": "Google News",
+      "title": "あるビットコイナーが古いコンピューターのファイルをClaude AIに投入し、2015年から行方不明になっていた5BTCを取り戻しました - Bitcoin News",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNalktbzNHRFRxU2xjdkxnWUpqRERMbGlqbXNuaW1MSXRGWUQ4V2tiY19JMHFPMHJUZFV4M3k1X014clp4NU9CcWxnTnBwLWlZdnN4WjA2SF9XRWFqTXJId2pScUJycld4MTBPb1FRRjNmU0Nab0ppclVsTDRZSTlWY3RpMWpYSENMZDB5TXczVnZFdlo4TFJLcHdoZ1dLdVRiUERQVWZNR3k5RTV3b2pYeC1VWmFSUENLOWJEZFNqd3FxZnNhb0lFUENxQmNlUUozVV9IcFhvem02R1FPMTFQTFBibmFoQ0I0NGZVa1VlZlZmRGh3SndZ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 13 May 2026 20:27:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNalktbzNHRFRxU2xjdkxnWUpqRERMbGlqbXNuaW1MSXRGWUQ4V2tiY19JMHFPMHJUZFV4M3k1X014clp4NU9CcWxnTnBwLWlZdnN4WjA2SF9XRWFqTXJId2pScUJycld4MTBPb1FRRjNmU0Nab0ppclVsTDRZSTlWY3RpMWpYSENMZDB5TXczVnZFdlo4TFJLcHdoZ1dLdVRiUERQVWZNR3k5RTV3b2pYeC1VWmFSUENLOWJEZFNqd3FxZnNhb0lFUENxQmNlUUozVV9IcFhvem02R1FPMTFQTFBibmFoQ0I0NGZVa1VlZlZmRGh3SndZ?oc=5\" target=\"_blank\">あるビットコイナーが古いコンピューターのファイルをClaude AIに投入し、2015年から行方不明になっていた5BTCを取り戻しました</a>&nbsp;&nbsp;<font color",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-14T07:21:34"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "MI50s Qwen 3.6 27B @52.8 tps TG @1569 tps PP (no MTP, no Quant)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tc9j6u/mi50s_qwen_36_27b_528_tps_tg_1569_tps_pp_no_mtp/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-13T19:08:24+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tc9j6u/mi50s_qwen_36_27b_528_tps_tg_1569_tps_pp_no_mtp/\"> <img alt=\"MI50s Qwen 3.6 27B @52.8 tps TG @1569 tps PP (no MTP, no Quant)\" src=\"https://preview.redd.it/qddw1tgccy0h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f018608c25539f2d6dc668cf68053c04545e9b2\" title=\"MI50s Qwen 3.6 27B @52.8 tps TG @1569 tps PP (no MTP, no Quant)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>TL;DR</strong> Results from t",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-05-14T07:21:35"
     }
   ],
-  "updated_at": "2026-05-14T03:56:23.444172+09:00"
+  "updated_at": "2026-05-14T07:21:35.781308+09:00"
 }
