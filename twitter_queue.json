@@ -14785,5 +14785,19 @@
     "image_path": "/images/posts/2026-05-14-amd-mi50-qwen-vllm-setup-guide.jpg",
     "created_at": "2026-05-14T07:22:02.581103+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-14-cloakbrowser-stealth-chromium-review-playwright",
+    "title": "CloakBrowserでbot検知を完全回避。Playwrightをソースレベルで強化する実力",
+    "url": "https://ai.negi-lab.com/posts/cloakbrowser-stealth-chromium-review-playwright/",
+    "category": "TOOL",
+    "viral_tags": "#Webスクレイピング #Playwright",
+    "tweet_text": "Playwrightの検知回避に悩む全エンジニアへ。CloakBrowserが凄まじい。従来のJS偽装ではなく、Chromiumをソースレベルでパッチ。CreepJS含む30項目のテストを完全突破。Playwrightのパスを書き換えるだけで実戦投入できる。Cloudflareの壁で止まっていたスクレイピング案件、これで解決します。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-14-cloakbrowser-stealth-chromium-review-playwright.jpg",
+    "created_at": "2026-05-14T13:02:13.908856+09:00",
+    "posted": false
   }
 ]
