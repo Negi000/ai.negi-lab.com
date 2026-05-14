@@ -14799,5 +14799,19 @@
     "image_path": "/images/posts/2026-05-15-nvidia-video-search-blueprints-gpu-guide.jpg",
     "created_at": "2026-05-15T03:54:43.606905+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-15-local-llm-hardware-guide-ollama-gpu-mac",
+    "title": "ローカルLLM環境の選び方と失敗しないGPU・Mac比較！Ollama開発者が報われた理由から考える",
+    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-ollama-gpu-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLM環境、VRAM 8GBで妥協すると後悔します。Llama 3やQwenを仕事で使うなら16GB（RTX 4060 Ti）が最低ライン、本気なら24GB（RTX 4090）が正解。Mac派は「チップの世代」より「メモリ量」を優先してください。64GB以上あれば、大抵のモデルは実用レベルで動きます。物理的な電源容量の確認も忘れずに。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-15-local-llm-hardware-guide-ollama-gpu-mac.jpg",
+    "created_at": "2026-05-15T07:18:18.735658+09:00",
+    "posted": false
   }
 ]

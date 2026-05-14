@@ -2,93 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 07 May 2026 17:54:02 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-08T07:11:49"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Ollama Cloud noticeable response speed change",
-      "url": "https://www.reddit.com/r/ollama/comments/1t69rfn/ollama_cloud_noticeable_response_speed_change/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-05-07T12:56:36+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have been running Openclaw with Ollama Cloud for a couple of months now. </p> <p>And I noticed recently that Ollama got a lot slower with responses. </p> <p>I compacted, reset, started new sessions, doesn’t matter. Every response takes 30+ seconds. I tested different LLMs, but mostly the big ones, Kiki, GLM, etc. </p> <p>Any suggestions? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tasty_Action5073\"> /u/Tasty_Action50",
-      "extra": {},
-      "collected_at": "2026-05-08T07:11:52"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 07 May 2026 21:02:11 +0000",
-      "summary": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T07:11:53"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "DevPass by LLM Gateway",
-      "url": "https://www.producthunt.com/products/devpass-by-llm-gateway",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> One key to access every coding model in 3 flat prices </p> <p> <a href=\"https://www.producthunt.com/products/devpass-by-llm-gateway?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1139858?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T07:11:54"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Saydi",
-      "url": "https://www.producthunt.com/products/saydi",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Live voice translation to hear the conversation instantly </p> <p> <a href=\"https://www.producthunt.com/products/saydi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140378?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T07:11:54"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "AMD to release slottable GPU",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t6gcw0/amd_to_release_slottable_gpu/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "2026-05-07T16:54:57+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Might be another option of us local LLM folks. I am very curious on the price. </p> <p><a href=\"https://www.theregister.com/ai-and-ml/2026/05/07/amd-takes-aim-at-enterprise-ai-with-pcie-based-instinct-gpus/5231481\">https://www.theregister.com/ai-and-ml/2026/05/07/amd-takes-aim-at-enterprise-ai-with-pcie-based-instinct-gpus/5231481</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/running101\"> /u/running101 </a> <br /> <sp",
-      "extra": {
-        "revenue_score": 8
-      },
-      "collected_at": "2026-05-08T07:11:55"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Hardening Firefox with Claude Mythos Preview",
       "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
       "primary_category": "NEWS",
@@ -3171,22 +3084,6 @@
       "collected_at": "2026-05-14T20:13:37"
     },
     {
-      "source": "GitHub Trending",
-      "title": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
-      "extra": {
-        "stars_today": "28 stars today"
-      },
-      "collected_at": "2026-05-14T20:13:37"
-    },
-    {
       "source": "Product Hunt",
       "title": "PTOFlow",
       "url": "https://www.producthunt.com/products/ptoflow",
@@ -3535,7 +3432,115 @@
         "revenue_score": 8
       },
       "collected_at": "2026-05-15T03:54:12"
+    },
+    {
+      "source": "r/ollama",
+      "title": "After months of building in vain, a stranger made a YouTube video about our project & I cried a little",
+      "url": "https://www.reddit.com/r/ollama/comments/1td7kfx/after_months_of_building_in_vain_a_stranger_made/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-14T18:53:06+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1td7kfx/after_months_of_building_in_vain_a_stranger_made/\"> <img alt=\"After months of building in vain, a stranger made a YouTube video about our project &amp; I cried a little\" src=\"https://preview.redd.it/fqb2lzgnc51h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce858b42e04a4673ee6e1a2624f2fc66bc53a18b\" title=\"After months of building in vain, a stranger made a YouTube video about our project &amp; I cried a little\" /> </",
+      "extra": {},
+      "collected_at": "2026-05-15T07:17:50"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Ring-2.6-1T Open sourced today! Soooo looking forward to trying it on Ollama!",
+      "url": "https://www.reddit.com/r/ollama/comments/1td2sul/ring261t_open_sourced_today_soooo_looking_forward/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-14T16:09:18+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1td2sul/ring261t_open_sourced_today_soooo_looking_forward/\"> <img alt=\"Ring-2.6-1T Open sourced today! Soooo looking forward to trying it on Ollama!\" src=\"https://preview.redd.it/o3562o27n41h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4be22f1cff672b98284ea11cc11054724af9b65a\" title=\"Ring-2.6-1T Open sourced today! Soooo looking forward to trying it on Ollama!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Ring-2.6-1",
+      "extra": {},
+      "collected_at": "2026-05-15T07:17:50"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+      "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 14 May 2026 21:30:44 +0000",
+      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-15T07:17:51"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "DesignMD",
+      "url": "https://www.producthunt.com/products/designmd-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn any website into an AI-ready design system </p> <p> <a href=\"https://www.producthunt.com/products/designmd-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1146175?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-15T07:17:52"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Fei Design Mode",
+      "url": "https://www.producthunt.com/products/autonomyai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Directly edit and tweak UI pixels live with AI agents </p> <p> <a href=\"https://www.producthunt.com/products/autonomyai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1139893?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-15T07:17:52"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Open Browser Use",
+      "url": "https://www.producthunt.com/products/open-browser-use",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Open-source browser automation for local AI agents </p> <p> <a href=\"https://www.producthunt.com/products/open-browser-use?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1145927?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-15T07:17:52"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "NVIDIA Reportedly Prepares RTX 5090 Price Hike Amid Rising GDDR7 Costs (maybe RTX 50 and PRO series as well)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1td9ehi/nvidia_reportedly_prepares_rtx_5090_price_hike/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-14T19:57:48+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1td9ehi/nvidia_reportedly_prepares_rtx_5090_price_hike/\"> <img alt=\"NVIDIA Reportedly Prepares RTX 5090 Price Hike Amid Rising GDDR7 Costs (maybe RTX 50 and PRO series as well)\" src=\"https://external-preview.redd.it/Kxi67GgOvT-P0s8dMeoH6yend7f5s73ZyXdvNzWjRAA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=82682d651c63f6e19e061c1b191f02582fefcbb0\" title=\"NVIDIA Reportedly Prepares RTX 5090 Price Hike Amid Rising GDDR7 Costs",
+      "extra": {
+        "revenue_score": 10
+      },
+      "collected_at": "2026-05-15T07:17:53"
     }
   ],
-  "updated_at": "2026-05-15T03:54:12.527104+09:00"
+  "updated_at": "2026-05-15T07:17:53.654684+09:00"
 }
