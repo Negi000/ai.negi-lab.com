@@ -14647,20 +14647,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-13-gameboy-color-transformer-ai-locally",
-    "title": "ゲームボーイカラーでTransformer自作！GBDK-2020とC言語による超小型LLM実装入門",
-    "url": "https://ai.negi-lab.com/posts/gameboy-color-transformer-ai-locally/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #ゲームボーイ",
-    "tweet_text": "ゲームボーイカラー実機でTransformerを動かす。4.19MHzの8bit CPU、RAM 32KBという極限環境。浮動小数点ユニットすら無いので、Q8.8固定小数点演算をC言語で自作して実装。RTX 4090の100万分の1以下のリソースでAIが動く瞬間、推論の物理的な重みと本質を理解できる。低レイヤーこそ至高の遊び場。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-13-gameboy-color-transformer-ai-locally.jpg",
-    "created_at": "2026-05-13T17:48:55.991921+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-13-scientific-agent-skills-review-expert-tools",
     "title": "scientific-agent-skills レビュー｜研究・分析AIエージェントの「手足」を10分で実装する",
     "url": "https://ai.negi-lab.com/posts/scientific-agent-skills-review-expert-tools/",
@@ -14784,7 +14770,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-14-ai-agent-self-replication-system-intrusion-risk.jpg",
     "created_at": "2026-05-14T20:14:07.818159+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-15-nvidia-video-search-blueprints-gpu-guide",
