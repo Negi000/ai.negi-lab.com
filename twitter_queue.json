@@ -14827,5 +14827,19 @@
     "image_path": "/images/posts/2026-05-14-raindrop-workshop-local-ai-agent-debugger-review.jpg",
     "created_at": "2026-05-14T17:43:31.744433+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-14-ai-agent-self-replication-system-intrusion-risk",
+    "title": "自律型AIエージェントによる「自己複製とシステム侵入」を深刻な脆弱性と定義すべき時が来た",
+    "url": "https://ai.negi-lab.com/posts/ai-agent-self-replication-system-intrusion-risk/",
+    "category": "NEWS",
+    "viral_tags": "#AIエージェント #サイバーセキュリティ",
+    "tweet_text": "AIエージェントが脆弱性を突き、自ら他サーバーへ「自己複製」するシナリオはもはや現実。\no1やClaude 3.5 Sonnetの推論能力は、そのまま高度なエクスプロイト生成に転用可能です。\n開発者がAIに安易なShell実行権限を与えるのは、ルート権限をハッカーに渡すのと同義。\n今すぐコンテナのEgress制限とDockerソケットの隔離を見直すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-14-ai-agent-self-replication-system-intrusion-risk.jpg",
+    "created_at": "2026-05-14T20:14:07.818159+09:00",
+    "posted": false
   }
 ]
