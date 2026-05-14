@@ -14841,5 +14841,19 @@
     "image_path": "/images/posts/2026-05-14-ai-agent-self-replication-system-intrusion-risk.jpg",
     "created_at": "2026-05-14T20:14:07.818159+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-15-nvidia-video-search-blueprints-gpu-guide",
+    "title": "NVIDIA Video Search BlueprintsでAIビデオ解析を自作する：RTX 4090かクラウドか？失敗しない選び方と構成ガイド",
+    "url": "https://ai.negi-lab.com/posts/nvidia-video-search-blueprints-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #NVIDIA",
+    "tweet_text": "NVIDIAが公開したビデオ検索・要約の設計図、これ実務で使うならRTX 4090 24GBが最低ラインですね。VRAM 16GB以下だと高精度VLMの並列処理で即死します。機密映像をローカルで高速解析したいなら、Gemini APIよりオンプレ構築の方が最終的なコスパは高い。VRAM不足で悩む時間は一番の損失。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-15-nvidia-video-search-blueprints-gpu-guide.jpg",
+    "created_at": "2026-05-15T03:54:43.606905+09:00",
+    "posted": false
   }
 ]

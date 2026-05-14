@@ -1,82 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
-      "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Thu, 07 May 2026 15:00:00 +0000",
-      "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportunities for major scaling impact.",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-08T03:24:41"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "reMarkable Paper Pure",
-      "url": "https://www.producthunt.com/products/remarkable-paper-pro",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The reMarkable 2 successor goes back to basics </p> <p> <a href=\"https://www.producthunt.com/products/remarkable-paper-pro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140507?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T03:24:42"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ExploreYC",
-      "url": "https://www.producthunt.com/products/yc-company-explorer",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your data layer for Y Combinator's startup ecosystem </p> <p> <a href=\"https://www.producthunt.com/products/yc-company-explorer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140202?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T03:24:42"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Lingo.dev v1",
-      "url": "https://www.producthunt.com/products/lingodotdev",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Localization engineering platform for consistent translation </p> <p> <a href=\"https://www.producthunt.com/products/lingodotdev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130462?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T03:24:42"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "WARNING: Open-OSS/privacy-filter MALWARE",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t6febk/warning_openossprivacyfilter_malware/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-05-07T16:20:54+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>There's this new &quot;model&quot; on Hugging Face titled <code>Open-OSS/privacy-filter</code> which is actually a customized infostealer virus. It's a fake version of the OpenAI privacy filter and it uses a Python-based dropper (<code>loader.py</code>) which downloads a malicious PowerShell command from the internet, which spawns another PowerShell command and downloads a shady EXE file and runs it using Task Scheduler.</p> <p>Here's a behavior analysis of what",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-05-08T03:24:43"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
       "url": "https://www.anthropic.com/research/natural-language-autoencoders",
@@ -3548,7 +3472,70 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-15T01:30:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Online 3D Editor",
+      "url": "https://www.producthunt.com/products/online-3d-editor",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Blender-style 3D editing in your browser </p> <p> <a href=\"https://www.producthunt.com/products/online-3d-editor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1146386?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-15T03:54:11"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Templates in ElevenCreative",
+      "url": "https://www.producthunt.com/products/templates-in-elevencreative",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> From idea to finished asset in one click </p> <p> <a href=\"https://www.producthunt.com/products/templates-in-elevencreative?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1146331?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-15T03:54:11"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "VS Code's new \"Agents window\" lets you use local AI models. Still requires an Internet connection and a Github Copilot plan (because we can't have nice things)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1td3uzi/vs_codes_new_agents_window_lets_you_use_local_ai/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-14T16:45:58+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1td3uzi/vs_codes_new_agents_window_lets_you_use_local_ai/\"> <img alt=\"VS Code's new &quot;Agents window&quot; lets you use local AI models. Still requires an Internet connection and a Github Copilot plan (because we can't have nice things)\" src=\"https://external-preview.redd.it/pEIdT4vOntURFzcYXfflYPO7G7CtBCE-pBgtgIMUg_4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=568a3467b8ad58dc4f31a8ac3a0fbd9708ce346c\" title=\"VS Code",
+      "extra": {
+        "revenue_score": 10
+      },
+      "collected_at": "2026-05-15T03:54:12"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The RTX 5000 PRO (48GB) arrived and it is better than I expected.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1td53ii/the_rtx_5000_pro_48gb_arrived_and_it_is_better/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-14T17:28:41+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I posted here about buying it a few days ago: <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t2slmw/first_time_gpu_buyer_got_a_rtx_5000_pro_was_it_a/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button\">https://www.reddit.com/r/LocalLLaMA/comments/1t2slmw/first_time_gpu_buyer_got_a_rtx_5000_pro_was_it_a/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_but",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-05-15T03:54:12"
     }
   ],
-  "updated_at": "2026-05-15T01:30:59.720086+09:00"
+  "updated_at": "2026-05-15T03:54:12.527104+09:00"
 }
