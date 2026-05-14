@@ -14799,5 +14799,19 @@
     "image_path": "/images/posts/2026-05-14-cloakbrowser-stealth-chromium-review-playwright.jpg",
     "created_at": "2026-05-14T13:02:13.908856+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-05-14-qwen-mtp-llamacpp-speedup-guide",
+    "title": "Qwen2.5を2倍速くするMTP導入ガイド llama.cppでの設定方法",
+    "url": "https://ai.negi-lab.com/posts/qwen-mtp-llamacpp-speedup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "Qwen2.5-Coderをローカルで使うならMTP（Multi-Token Prediction）は必須。RTX 4090環境で32Bモデルを動かした結果、推論速度が従来の約1.8倍、60 t/sを超えました。投機的サンプリングよりメモリ効率が良く、コード生成の「待ち」が消えます。llama.cppの最新ビルドと--mtpフラグだけで導入できるので、VRAM 24GB勢は今すぐ試すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-14-qwen-mtp-llamacpp-speedup-guide.jpg",
+    "created_at": "2026-05-14T15:30:01.692171+09:00",
+    "posted": false
   }
 ]
