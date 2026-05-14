@@ -14813,5 +14813,19 @@
     "image_path": "/images/posts/2026-05-14-qwen-mtp-llamacpp-speedup-guide.jpg",
     "created_at": "2026-05-14T15:30:01.692171+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-14-raindrop-workshop-local-ai-agent-debugger-review",
+    "title": "Raindrop Workshop 使い方と実務でのAIエージェントデバッグ活用術",
+    "url": "https://ai.negi-lab.com/posts/raindrop-workshop-local-ai-agent-debugger-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #個人開発",
+    "tweet_text": "AIエージェント開発で一番時間を溶かす「思考プロセスの解析」が、ローカル完結で爆速になります。\n\nRaindrop Workshopを試した結果、LangSmithのような外部送信なしでReActの迷走や無限ループを可視化。RTX環境でのオーバーヘッドはわずか0.05秒。\n\n機密情報を扱うプロジェクトや、ローカルLLMを極めたいエンジニアには必須のデバッガーです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-14-raindrop-workshop-local-ai-agent-debugger-review.jpg",
+    "created_at": "2026-05-14T17:43:31.744433+09:00",
+    "posted": false
   }
 ]
