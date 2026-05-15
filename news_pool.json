@@ -3645,20 +3645,6 @@
       "collected_at": "2026-05-16T01:20:36"
     },
     {
-      "source": "r/ollama",
-      "title": "Thoth Developer Studio Architecture",
-      "url": "https://www.reddit.com/r/ollama/comments/1te3ba7/thoth_developer_studio_architecture/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-15T17:35:06+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1te3ba7/thoth_developer_studio_architecture/\"> <img alt=\"Thoth Developer Studio Architecture\" src=\"https://preview.redd.it/zfr0m0c6fa1h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb1e6f8a4d245d54b525ab19cebf98d73ab8dc68\" title=\"Thoth Developer Studio Architecture\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Acceptable-Object390\"> /u/Acceptable-Object390 </a> <br /> <span><a href=\"https:/",
-      "extra": {},
-      "collected_at": "2026-05-16T03:22:39"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
       "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
@@ -3736,7 +3722,85 @@
         "revenue_score": 7
       },
       "collected_at": "2026-05-16T03:22:42"
+    },
+    {
+      "source": "r/ollama",
+      "title": "I built ollamatps.com to compare Ollama Cloud models by 24h TPS + intelligence",
+      "url": "https://www.reddit.com/r/ollama/comments/1te861w/i_built_ollamatpscom_to_compare_ollama_cloud/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-15T20:27:34+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I recently built <a href=\"http://ollamatps.com\"><code>ollamatps.com</code></a> for my own needs and thought I’d share it here in case it helps others too.</p> <p>It shows the last 24 hours of Ollama cloud models, sorted by average TPS, and I also added the Artificial Analysis Intelligence Index so it’s easier to compare speed vs. smartness in one place.</p> <p>My personal takeaway: <code>GLM-4.7</code> looks like the best speed/intelligence balance",
+      "extra": {},
+      "collected_at": "2026-05-16T07:07:55"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 15 May 2026 19:24:16 +0000",
+      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with&#160;a whole generation&#160;of founders&#160;already spinning out [&#8230;]",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-05-16T07:07:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "PHBench",
+      "url": "https://www.producthunt.com/products/vela-terminal",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Predict the next Series A from a ProductHunt launch </p> <p> <a href=\"https://www.producthunt.com/products/vela-terminal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1144544?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-16T07:07:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Gradient Bang",
+      "url": "https://www.producthunt.com/products/gradient-bang",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Massively multi-player game played by talking to an LLM </p> <p> <a href=\"https://www.producthunt.com/products/gradient-bang?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1146488?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-16T07:07:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Orthrus-Qwen3-8B : up to 7.8×tokens/forward on Qwen3-8B, frozen backbone, provably identical output distribution",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1te5xpu/orthrusqwen38b_up_to_78tokensforward_on_qwen38b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-15T19:07:16+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1te5xpu/orthrusqwen38b_up_to_78tokensforward_on_qwen38b/\"> <img alt=\"Orthrus-Qwen3-8B : up to 7.8×tokens/forward on Qwen3-8B, frozen backbone, provably identical output distribution\" src=\"https://preview.redd.it/kmqh40q2nc1h1.gif?width=640&amp;crop=smart&amp;s=11a11fc317145097f6fb9b0324343ed3070d7b09\" title=\"Orthrus-Qwen3-8B : up to 7.8×tokens/forward on Qwen3-8B, frozen backbone, provably identical output distribution\" /> </",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-05-16T07:07:59"
     }
   ],
-  "updated_at": "2026-05-16T03:22:42.429843+09:00"
+  "updated_at": "2026-05-16T07:07:59.527008+09:00"
 }
