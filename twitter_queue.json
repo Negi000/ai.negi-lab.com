@@ -14689,34 +14689,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-14-qwen-mtp-llamacpp-speedup-guide",
-    "title": "Qwen2.5を2倍速くするMTP導入ガイド llama.cppでの設定方法",
-    "url": "https://ai.negi-lab.com/posts/qwen-mtp-llamacpp-speedup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "Qwen2.5-Coderをローカルで使うならMTP（Multi-Token Prediction）は必須。RTX 4090環境で32Bモデルを動かした結果、推論速度が従来の約1.8倍、60 t/sを超えました。投機的サンプリングよりメモリ効率が良く、コード生成の「待ち」が消えます。llama.cppの最新ビルドと--mtpフラグだけで導入できるので、VRAM 24GB勢は今すぐ試すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-14-qwen-mtp-llamacpp-speedup-guide.jpg",
-    "created_at": "2026-05-14T15:30:01.692171+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-14-raindrop-workshop-local-ai-agent-debugger-review",
-    "title": "Raindrop Workshop 使い方と実務でのAIエージェントデバッグ活用術",
-    "url": "https://ai.negi-lab.com/posts/raindrop-workshop-local-ai-agent-debugger-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #個人開発",
-    "tweet_text": "AIエージェント開発で一番時間を溶かす「思考プロセスの解析」が、ローカル完結で爆速になります。\n\nRaindrop Workshopを試した結果、LangSmithのような外部送信なしでReActの迷走や無限ループを可視化。RTX環境でのオーバーヘッドはわずか0.05秒。\n\n機密情報を扱うプロジェクトや、ローカルLLMを極めたいエンジニアには必須のデバッガーです。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-14-raindrop-workshop-local-ai-agent-debugger-review.jpg",
-    "created_at": "2026-05-14T17:43:31.744433+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-14-ai-agent-self-replication-system-intrusion-risk",
     "title": "自律型AIエージェントによる「自己複製とシステム侵入」を深刻な脆弱性と定義すべき時が来た",
     "url": "https://ai.negi-lab.com/posts/ai-agent-self-replication-system-intrusion-risk/",
@@ -14812,7 +14784,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-15-anthropic-skills-agent-tool-use-review.jpg",
     "created_at": "2026-05-15T20:21:27.135140+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-15-runway-vs-google-world-model-ai-video",
