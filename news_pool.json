@@ -1,67 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "The “people’s airline” and the enterprise AI gold rush",
-      "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Fri, 08 May 2026 15:46:17 +0000",
-      "summary": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and OpenAI announcing new joint ventures&#160;targeting enterprise AI deployment to&#160;SAP dropping $1B&#160;on German AI startup Prior Labs,&#160;it&#8217;s&#160;becoming clear that if&#160;you&#8217;re&#160;a startup building enterprise tools,&#160;you&#8217;re&#160;likely an&#160;acquisition target.&#160; On this episode of TechCrunch&#8217;s&#160;Eq",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-05-09T01:01:57"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Flare",
-      "url": "https://www.producthunt.com/products/flare-9",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI-native voice-first social app for GenZ </p> <p> <a href=\"https://www.producthunt.com/products/flare-9?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1139661?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-09T01:01:58"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ElevenCreative Flows",
-      "url": "https://www.producthunt.com/products/elevencreative-flows",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Node-based creative pipelines, now with real-time collab </p> <p> <a href=\"https://www.producthunt.com/products/elevencreative-flows?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1136689?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-09T01:01:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Gemma 4 26B Hits 600 Tok/s on One RTX 5090",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t796qe/gemma_4_26b_hits_600_toks_on_one_rtx_5090/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-05-08T14:13:52+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I ran a benchmark to see how much DFlash speculative decoding actually helps in vLLM.</p> <p>Setup:</p> <ul> <li>GPU: RTX 5090, 32GB VRAM</li> <li>vLLM: 0.19.2rc1</li> <li>Main model: cyankiwi/gemma-4-26B-A4B-it-AWQ-4bit</li> <li>Draft model: z-lab/gemma-4-26B-A4B-it-DFlash</li> <li>Workload: random dataset, 256 input tokens, 1024 output tokens</li> <li>Concurrency: 1</li> <li>Request rate: 1</li> <li>Tested num_speculative_tokens from 0 to 15</li> </ul> <p>The ",
-      "extra": {
-        "revenue_score": 18
-      },
-      "collected_at": "2026-05-09T01:01:59"
-    },
-    {
       "source": "HN AI Hot",
       "title": "GPT-5.5 Price Increase: What It Costs",
       "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
@@ -3611,21 +3550,6 @@
       "collected_at": "2026-05-15T20:21:01"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
-      "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 15 May 2026 14:00:00 +0000",
-      "summary": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-15T23:19:34"
-    },
-    {
       "source": "Product Hunt",
       "title": "HasData",
       "url": "https://www.producthunt.com/products/hasdata",
@@ -3672,7 +3596,115 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-15T23:19:36"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Kimi K2.6 - Image Vision",
+      "url": "https://www.reddit.com/r/ollama/comments/1te0kxp/kimi_k26_image_vision/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-15T15:59:53+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm using ollama cloud with Kimi k2.6 as a model for my openclaw agents. I noticed that they cannot see screenshots that I send over to them via Telegram, even though ollama states that Kimi k2.6 should have image recognition (<a href=\"https://ollama.com/library/kimi-k2.6\">https://ollama.com/library/kimi-k2.6</a>). I also have image listed in the openclaw config file. Has anyone had experience with this? Is this an issues for anyone else? Thoughts?</p> </div><!-",
+      "extra": {},
+      "collected_at": "2026-05-16T01:20:33"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Osaurus brings both local and cloud AI models to your Mac",
+      "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 15 May 2026 12:19:48 +0000",
+      "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-16T01:20:34"
+    },
+    {
+      "source": "Google News",
+      "title": "Kioxia Enjoys Record Annual Sales, Profits amid AI Demand - 時事通信ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBodkFGWklvNWZTZldDNmlmc0JHNnNFZGR1UzB2TGd2d2ZhRDZlZXpZYzh1TFBrRXpkNEdCTFQxQkJPTjRoWm9iLVBHT2s5REUwVXc?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 15 May 2026 10:12:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBodkFGWklvNWZTZldDNmlmc0JHNnNFZGR1UzB2TGd2d2ZhRDZlZXpZYzh1TFBrRXpkNEdCTFQxQkJPTjRoWm9iLVBHT2s5REUwVXc?oc=5\" target=\"_blank\">Kioxia Enjoys Record Annual Sales, Profits amid AI Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-16T01:20:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "SpotFetch by DocentPro",
+      "url": "https://www.producthunt.com/products/docentpro",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn the posts you save into an organized list of places </p> <p> <a href=\"https://www.producthunt.com/products/docentpro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1142008?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-16T01:20:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Kimi WebBridge",
+      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A bridge connecting AI agents to the live web </p> <p> <a href=\"https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1147419?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-16T01:20:35"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Built a fully offline suitcase robot around a Jetson Orin NX SUPER 16GB. Gemma 4 E4B, ~200ms cached TTFT, 30+ sensors, no WiFi/BT/cellular. He has opinions.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdz5gr/built_a_fully_offline_suitcase_robot_around_a/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-15T15:09:18+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tdz5gr/built_a_fully_offline_suitcase_robot_around_a/\"> <img alt=\"Built a fully offline suitcase robot around a Jetson Orin NX SUPER 16GB. Gemma 4 E4B, ~200ms cached TTFT, 30+ sensors, no WiFi/BT/cellular. He has opinions.\" src=\"https://external-preview.redd.it/aGt1bXd5M3JnYjFoMV7RKtKIY4fEikl-2rUf3OxRngZByjuo5uT_hX1oQoYA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b12fc5188b20a929135f6d6958a360b8e8b917a0\" title=\"Built a",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-05-16T01:20:36"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "[FOUNDING] SupraLabs - real open-source AI models for you!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdvvf2/founding_supralabs_real_opensource_ai_models_for/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-05-15T13:08:05+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tdvvf2/founding_supralabs_real_opensource_ai_models_for/\"> <img alt=\"[FOUNDING] SupraLabs - real open-source AI models for you!\" src=\"https://external-preview.redd.it/epT7j8PVOew2TKr4Y6IGxeukZ1W2rSemNVdVOrHaYm0.png?width=140&amp;height=75&amp;auto=webp&amp;s=6cf791741a311816fd41f4f7d2f95351b0ed98b2\" title=\"[FOUNDING] SupraLabs - real open-source AI models for you!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-16T01:20:36"
     }
   ],
-  "updated_at": "2026-05-15T23:19:36.587151+09:00"
+  "updated_at": "2026-05-16T01:20:36.354025+09:00"
 }
