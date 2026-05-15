@@ -14869,5 +14869,19 @@
     "image_path": "/images/posts/2026-05-15-runway-vs-google-world-model-ai-video.jpg",
     "created_at": "2026-05-15T23:20:18.271609+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-16-local-llm-pc-selection-guide-thoth-rtx-mac",
+    "title": "ローカルLLM開発環境Thothを使いこなすPC選び｜RTX 4090かMacか？失敗しないスペック比較",
+    "url": "https://ai.negi-lab.com/posts/local-llm-pc-selection-guide-thoth-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLM開発環境Thothを構築するなら、VRAMの妥協は禁物。8Bモデルなら16GB、30B超えを視野に入れるなら24GBが実務の最低ライン。RTX 4090なら爆速推論、Mac Studioなら巨大モデル運用と、明確な使い分けが必要です。予算をケチってVRAM不足で開発が止まるのが一番の損失。買う前に見るべきスペックをまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-16-local-llm-pc-selection-guide-thoth-rtx-mac.jpg",
+    "created_at": "2026-05-16T03:23:07.466035+09:00",
+    "posted": false
   }
 ]
