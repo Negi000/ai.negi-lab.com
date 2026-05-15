@@ -1,64 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Questions regarding running claude code on ollama",
-      "url": "https://www.reddit.com/r/ollama/comments/1t6xhx1/questions_regarding_running_claude_code_on_ollama/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-05-08T04:30:34+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>im using this method - <a href=\"https://docs.ollama.com/integrations/claude-code\">https://docs.ollama.com/integrations/claude-code</a> to run claude code right now. Now if i try to use the gemma4 : 31b-cloud model, hopefully i don't have to pay anything later or suddenly wake up to a debt? I'm asking this because the cloud models require a payment but when i used the gemma4 : 31b-cloud, it didn't restrict me or anything. Sorry if this is a stupid question im sti",
-      "extra": {},
-      "collected_at": "2026-05-08T14:34:51"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "freemocap/freemocap",
-      "url": "https://github.com/freemocap/freemocap",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Free Motion Capture for Everyone 💀✨",
-      "extra": {
-        "stars_today": "256 stars today"
-      },
-      "collected_at": "2026-05-08T14:34:52"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Why you can never get your doctor to call you back",
-      "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 08 May 2026 04:42:29 +0000",
-      "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T14:34:52"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Askmeety",
-      "url": "https://www.producthunt.com/products/askmeety",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The best meeting notes you never wrote and 100% on your Mac </p> <p> <a href=\"https://www.producthunt.com/products/askmeety?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140771?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T14:34:53"
-    },
-    {
       "source": "Google News",
       "title": "Neat Appoints Javed Khan as CEO to Lead AI Transformation - Excite エキサイト",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wb2pBbW10MlhITFJ2S3U0WFI4aXg4S3RYWF9ZQWxoaGlWNWZ5Q0prZ2wybkYwQlE4RFljd3RCbUUtWW9sYXFKZnRuZ0k0aURfNXlRSThqOHpFT3JVWW5TMUlR?oc=5",
@@ -2982,21 +2924,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "extra": {
-        "stars_today": "359 stars today"
-      },
-      "collected_at": "2026-05-14T20:13:37"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "roboflow/supervision",
       "url": "https://github.com/roboflow/supervision",
       "primary_category": "TOOL",
@@ -3556,7 +3483,110 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-15T13:05:32"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "How Claude Code works in large codebases",
+      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Fri, 15 May 2026 04:15:31 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-15T15:38:51"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "LLM Policy for Rust Compiler",
+      "url": "https://github.com/rust-lang/rust-forge/pull/1040",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 14 May 2026 23:37:21 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-15T15:38:51"
+    },
+    {
+      "source": "Google News",
+      "title": "中国ＳＭＩＣ、海外顧客の注文戻る ＡＩブームで生産能力逼迫 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUtKVkp6eC1kNk9tQmZJOEFHQlhxcGYxcm9aTkcwLUpBWGpTZTF4dVVDTnlYUUMya2U2YjBTOGlKZkFlWHE5a2VleXlUYnNTTWtLbGNHRThJazZ4QlMwelFyQS1tbXlfVHVHUEZGWDNPakFrT0UwNmVYdm91aVRZd2tCZzhSU211YnpIOA?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 15 May 2026 04:37:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUtKVkp6eC1kNk9tQmZJOEFHQlhxcGYxcm9aTkcwLUpBWGpTZTF4dVVDTnlYUUMya2U2YjBTOGlKZkFlWHE5a2VleXlUYnNTTWtLbGNHRThJazZ4QlMwelFyQS1tbXlfVHVHUEZGWDNPakFrT0UwNmVYdm91aVRZd2tCZzhSU211YnpIOA?oc=5\" target=\"_blank\">中国ＳＭＩＣ、海外顧客の注文戻る ＡＩブームで生産能力逼迫</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-15T15:38:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Enjo Help Center",
+      "url": "https://www.producthunt.com/products/enjo-help-center",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI auto-builds your help centers that learn from your team </p> <p> <a href=\"https://www.producthunt.com/products/enjo-help-center?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1146559?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-15T15:38:55"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "c15t 2.0",
+      "url": "https://www.producthunt.com/products/c15t",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Dev-first cookie banners that don't slow your site </p> <p> <a href=\"https://www.producthunt.com/products/c15t?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1145142?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-15T15:38:55"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Otamiser",
+      "url": "https://www.producthunt.com/products/otamiser",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ranking management solution that boosts your OTA visibility </p> <p> <a href=\"https://www.producthunt.com/products/otamiser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1130988?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-15T15:38:55"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "China modded GPU (eg. 4090 48gb) --> I'm gonna figure it out. IS THERE NO ONE ELSE CURIOUS??",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdldfq/china_modded_gpu_eg_4090_48gb_im_gonna_figure_it/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-15T04:16:06+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>There's a dearth of information (in the english world) about these cards.</p> <p>The good recent video is probably this one:<br /> <a href=\"https://www.youtube.com/watch?v=TcRGBeOENLg\">https://www.youtube.com/watch?v=TcRGBeOENLg</a></p> <p>even in this subreddit, there's seems to be few reviews of these cards.</p> <p>Last couple of decent threads:<br /> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s62b23/bought_rtx4080_32gb_triple_fan_from_china/\">http",
+      "extra": {
+        "revenue_score": 10
+      },
+      "collected_at": "2026-05-15T15:38:56"
     }
   ],
-  "updated_at": "2026-05-15T13:05:32.796751+09:00"
+  "updated_at": "2026-05-15T15:38:56.213222+09:00"
 }

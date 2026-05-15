@@ -14813,5 +14813,19 @@
     "image_path": "/images/posts/2026-05-15-kronos-financial-time-series-foundation-model-review.jpg",
     "created_at": "2026-05-15T13:06:00.276050+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-15-rtx-5090-local-llm-optimization-guide",
+    "title": "RTX 5090高騰に備える！VRAMを限界まで使い切るローカルLLM環境構築",
+    "url": "https://ai.negi-lab.com/posts/rtx-5090-local-llm-optimization-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #RTX5090",
+    "tweet_text": "RTX 5090がGDDR7コスト増で値上げの噂。VRAM 32GBは魅力的ですが、導入コスト40万円超えの可能性も。限られた資産を最大化するため、VRAMを1MBも無駄にしない推論環境を構築しましょう。PythonでGPUレイヤーを自動最適化し、Llama-3を爆速で動かす実践ガイドを書きました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-15-rtx-5090-local-llm-optimization-guide.jpg",
+    "created_at": "2026-05-15T15:39:37.002780+09:00",
+    "posted": false
   }
 ]
