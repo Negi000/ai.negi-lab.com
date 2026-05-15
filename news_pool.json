@@ -1,68 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "Neat Appoints Javed Khan as CEO to Lead AI Transformation - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wb2pBbW10MlhITFJ2S3U0WFI4aXg4S3RYWF9ZQWxoaGlWNWZ5Q0prZ2wybkYwQlE4RFljd3RCbUUtWW9sYXFKZnRuZ0k0aURfNXlRSThqOHpFT3JVWW5TMUlR?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Thu, 07 May 2026 23:06:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wb2pBbW10MlhITFJ2S3U0WFI4aXg4S3RYWF9ZQWxoaGlWNWZ5Q0prZ2wybkYwQlE4RFljd3RCbUUtWW9sYXFKZnRuZ0k0aURfNXlRSThqOHpFT3JVWW5TMUlR?oc=5\" target=\"_blank\">Neat Appoints Javed Khan as CEO to Lead AI Transformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Excite エキサイト</font>",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-05-08T16:46:18"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Google Health",
-      "url": "https://www.producthunt.com/products/google",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A new relationship with your health </p> <p> <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1141602?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T16:46:19"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Swiftcruit",
-      "url": "https://www.producthunt.com/products/swiftcruit",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> Hire Engineers Who Know How to Code With AI </p> <p> <a href=\"https://www.producthunt.com/products/swiftcruit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1141122?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T16:46:19"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Photobomb",
-      "url": "https://www.producthunt.com/products/photobomb",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Card against humanity but for your camera roll </p> <p> <a href=\"https://www.producthunt.com/products/photobomb?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140580?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T16:46:19"
-    },
-    {
       "source": "Product Hunt",
       "title": "MarkUp",
       "url": "https://www.producthunt.com/products/markup-chrome-extension-launch",
@@ -3365,22 +3303,6 @@
       "collected_at": "2026-05-15T07:17:52"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "NVIDIA Reportedly Prepares RTX 5090 Price Hike Amid Rising GDDR7 Costs (maybe RTX 50 and PRO series as well)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1td9ehi/nvidia_reportedly_prepares_rtx_5090_price_hike/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-14T19:57:48+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1td9ehi/nvidia_reportedly_prepares_rtx_5090_price_hike/\"> <img alt=\"NVIDIA Reportedly Prepares RTX 5090 Price Hike Amid Rising GDDR7 Costs (maybe RTX 50 and PRO series as well)\" src=\"https://external-preview.redd.it/Kxi67GgOvT-P0s8dMeoH6yend7f5s73ZyXdvNzWjRAA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=82682d651c63f6e19e061c1b191f02582fefcbb0\" title=\"NVIDIA Reportedly Prepares RTX 5090 Price Hike Amid Rising GDDR7 Costs",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-05-15T07:17:53"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude for Legal",
       "url": "https://github.com/anthropics/claude-for-legal",
@@ -3586,7 +3508,100 @@
         "revenue_score": 10
       },
       "collected_at": "2026-05-15T15:38:56"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Ollama and Codex Desktop with Spark GB10",
+      "url": "https://www.reddit.com/r/ollama/comments/1tdp4ve/ollama_and_codex_desktop_with_spark_gb10/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-05-15T07:34:45+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So I see that Ollama is now supporting running within Codex. Ollama wants you to run Ollama commands to invoke the Codex desktop and Ollama does configuration for it. Works fine I suppose if you are running Ollama locally on Windows or Mac next to Codex Desktop. </p> <p>However, how does this work if Ollama is running on a separate Linux box or something like a DGX Spark GB10.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user",
+      "extra": {},
+      "collected_at": "2026-05-15T17:52:25"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Magic Notebook",
+      "url": "https://www.producthunt.com/products/magic-notebook",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A calm writing app with no complexity and no AI </p> <p> <a href=\"https://www.producthunt.com/products/magic-notebook?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1131813?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-15T17:52:27"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Glance",
+      "url": "https://www.producthunt.com/products/glance-native-macos-markdown-viewer",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Preview .md files instantly with quick look </p> <p> <a href=\"https://www.producthunt.com/products/glance-native-macos-markdown-viewer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1146969?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-05-15T17:52:27"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "OpenHuman",
+      "url": "https://www.producthunt.com/products/openhuman",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> An open source AI harness built with the human in mind </p> <p> <a href=\"https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1136902?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-15T17:52:27"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Used over a million tokens in three separate sessions to test Qwen 3.6 35b (new Multi-token Prediction version)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdns1i/used_over_a_million_tokens_in_three_separate/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-05-15T06:20:08+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>In my opinion, MTP models are 100% game changer for local LLMs.</p> <p>In terms of speed, I was getting around 1.5x the tok/sec of previous tests.</p> <p>The project was a test - building a full iterative step-by-step pygame; a small mystery dungeon-style game. At first I set 100-200k context and raised it to 300k. <del>This is at KV Q8_0 quant.</del> Edit: I was wrong, I had mistakenly left it at q4_0. I will redo tests tomorrow with Q8. </p> <p>I use VSCodium ",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-15T17:52:28"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Came home to find Pi with Qwen3.627B had run rm -rf .....",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdpfqi/came_home_to_find_pi_with_qwen3627b_had_run_rm_rf/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-15T07:52:21+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tdpfqi/came_home_to_find_pi_with_qwen3627b_had_run_rm_rf/\"> <img alt=\"Came home to find Pi with Qwen3.627B had run rm -rf .....\" src=\"https://preview.redd.it/qaravzn8a91h1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=cbe1a183d2c50c87145517bf45e45daffc5d0bc8\" title=\"Came home to find Pi with Qwen3.627B had run rm -rf .....\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>on the build cache because i",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-05-15T17:52:28"
     }
   ],
-  "updated_at": "2026-05-15T15:38:56.213222+09:00"
+  "updated_at": "2026-05-15T17:52:28.383920+09:00"
 }
