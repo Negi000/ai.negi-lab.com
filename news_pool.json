@@ -2,52 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "MarkUp",
-      "url": "https://www.producthunt.com/products/markup-chrome-extension-launch",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Edit websites through AI with visual prompts </p> <p> <a href=\"https://www.producthunt.com/products/markup-chrome-extension-launch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1141946?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T19:24:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Sutra",
-      "url": "https://www.producthunt.com/products/sutra-4",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Decision Intelligence for hardware teams </p> <p> <a href=\"https://www.producthunt.com/products/sutra-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1141928?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T19:24:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Maia Executives",
-      "url": "https://www.producthunt.com/products/maia-your-ai-co-worker",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Meet AI Executives running business operations end-to-end. </p> <p> <a href=\"https://www.producthunt.com/products/maia-your-ai-co-worker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1141613?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-08T19:24:07"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Sendly",
       "url": "https://www.producthunt.com/products/sendly-2",
       "primary_category": "TOOL",
@@ -3493,23 +3447,6 @@
       "collected_at": "2026-05-15T15:38:55"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "China modded GPU (eg. 4090 48gb) --> I'm gonna figure it out. IS THERE NO ONE ELSE CURIOUS??",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdldfq/china_modded_gpu_eg_4090_48gb_im_gonna_figure_it/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-15T04:16:06+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>There's a dearth of information (in the english world) about these cards.</p> <p>The good recent video is probably this one:<br /> <a href=\"https://www.youtube.com/watch?v=TcRGBeOENLg\">https://www.youtube.com/watch?v=TcRGBeOENLg</a></p> <p>even in this subreddit, there's seems to be few reviews of these cards.</p> <p>Last couple of decent threads:<br /> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1s62b23/bought_rtx4080_32gb_triple_fan_from_china/\">http",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-05-15T15:38:56"
-    },
-    {
       "source": "r/ollama",
       "title": "Ollama and Codex Desktop with Spark GB10",
       "url": "https://www.reddit.com/r/ollama/comments/1tdp4ve/ollama_and_codex_desktop_with_spark_gb10/",
@@ -3601,7 +3538,171 @@
         "revenue_score": 7
       },
       "collected_at": "2026-05-15T17:52:28"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "UK sovereign LLM inference",
+      "url": "https://relax.ai/docs",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 15 May 2026 09:27:26 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-15T20:20:56"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Fri, 15 May 2026 09:19:24 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-15T20:20:56"
+    },
+    {
+      "source": "r/ollama",
+      "title": "what is the exact usage limit for pro memeber?",
+      "url": "https://www.reddit.com/r/ollama/comments/1tdoaed/what_is_the_exact_usage_limit_for_pro_memeber/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-15T06:47:57+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello guys! Anyone having the same experience like I am having today? For the last couple of days I was on hold, and I'm not using our Ollama Cloud. Today I just started working, and after the sixth prompt it says I have used my 100% session limit. I am not sure how this is happening, because I never hit the limit in my last four months. I am pretty sure that this is the very standard or normal session, not a very heavy task, just a couple of questions. I was us",
+      "extra": {},
+      "collected_at": "2026-05-15T20:20:58"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Public repository for Agent Skills",
+      "extra": {
+        "stars_today": "625 stars today"
+      },
+      "collected_at": "2026-05-15T20:20:59"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "joeseesun/qiaomu-anything-to-notebooklm",
+      "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
+      "extra": {
+        "stars_today": "465 stars today"
+      },
+      "collected_at": "2026-05-15T20:20:59"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "bregman-arie/devops-exercises",
+      "url": "https://github.com/bregman-arie/devops-exercises",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+      "extra": {
+        "stars_today": "26 stars today"
+      },
+      "collected_at": "2026-05-15T20:20:59"
+    },
+    {
+      "source": "Google News",
+      "title": "AAAI-26、ウェアラブル端末から医療データをAIに使うデバイス開発を解説するセッションを紹介 - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwVDJLbS1LZ2Q4Uy1ibXQzcXlKRlZpZkpTVEhRejh3OS1RNGZtaGo0cWVqUlVJMjAya2dPU18xR0hMNXFhcERFdUdPYw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "Thu, 14 May 2026 21:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwVDJLbS1LZ2Q4Uy1ibXQzcXlKRlZpZkpTVEhRejh3OS1RNGZtaGo0cWVqUlVJMjAya2dPU18xR0hMNXFhcERFdUdPYw?oc=5\" target=\"_blank\">AAAI-26、ウェアラブル端末から医療データをAIに使うデバイス開発を解説するセッションを紹介</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thinkit.co.jp</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-15T20:21:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Planora",
+      "url": "https://www.producthunt.com/products/planora-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A digital workspace for creative collaboration </p> <p> <a href=\"https://www.producthunt.com/products/planora-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1147273?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-15T20:21:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Repaint",
+      "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Rebuild your existing website with AI </p> <p> <a href=\"https://www.producthunt.com/products/repaint-ai-website-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1131131?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-15T20:21:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Just The Tips",
+      "url": "https://www.producthunt.com/products/just-the-tips",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> A stablecoin tip-jar bot for Discord, Telegram, Twitch, & X </p> <p> <a href=\"https://www.producthunt.com/products/just-the-tips?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1139042?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-15T20:21:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "internlm/Intern-S2-Preview · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdrw0s/internlminterns2preview_hugging_face/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-15T10:09:59+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tdrw0s/internlminterns2preview_hugging_face/\"> <img alt=\"internlm/Intern-S2-Preview · Hugging Face\" src=\"https://external-preview.redd.it/9IFvibqCDMwSBLc0xBpK94PyM2HfACz5kNuKfDteiWQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1a19580259f393970c927a093cfbed4d481072a\" title=\"internlm/Intern-S2-Preview · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><h1>Introduction</h1> <p>We introduce <strong>Intern-S2-",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-15T20:21:01"
     }
   ],
-  "updated_at": "2026-05-15T17:52:28.383920+09:00"
+  "updated_at": "2026-05-15T20:21:01.559756+09:00"
 }

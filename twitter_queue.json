@@ -14841,5 +14841,19 @@
     "image_path": "/images/posts/2026-05-15-rtx-4090-48gb-modded-gpu-setup-guide.jpg",
     "created_at": "2026-05-15T17:53:18.061877+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-15-anthropic-skills-agent-tool-use-review",
+    "title": "anthropics/skills 使い方とAIエージェント開発の実務活用",
+    "url": "https://ai.negi-lab.com/posts/anthropic-skills-agent-tool-use-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Claude35",
+    "tweet_text": "Claude 3.5 Sonnetで「動くエージェント」を作るなら anthropics/skills は避けて通れない。\nAnthropic公式が「こう定義すればモデルが迷わない」という正解を提示。特にファイル置換やbash実行の設計が異次元に堅牢。\n1アクションで$1以上溶けるComputer Useのコスト管理は必須だが、自律型開発エージェントを組むならこれ一択。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-15-anthropic-skills-agent-tool-use-review.jpg",
+    "created_at": "2026-05-15T20:21:27.135140+09:00",
+    "posted": false
   }
 ]
