@@ -14897,5 +14897,19 @@
     "image_path": "/images/posts/2026-05-16-accenture-google-cloud-gemini-agentic-transformation.jpg",
     "created_at": "2026-05-16T22:43:05.761455+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-17-local-llm-gpu-power-limit-guide",
+    "title": "ローカルLLM用GPUの賢い選び方と運用術！電力制限で電気代を削りつつ性能を維持する設定の正解",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-power-limit-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #GPU選び",
+    "tweet_text": "ローカルLLM用にRTX 4090を買うのは最高だけど、電力を450Wフルで食わせるのは無駄。推論のボトルネックは演算器よりメモリ帯域なので、PLを60%に絞っても速度低下は5%未満。\n\nこれだけで電気代は月数千円安くなり、ファンも静か。24時間稼働のAIサーバーなら必須の設定。今から揃えるなら4060 Ti 16GBの2枚挿しをPL制限して使うのが実務上の最適解ですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-17-local-llm-gpu-power-limit-guide.jpg",
+    "created_at": "2026-05-17T02:54:53.440609+09:00",
+    "posted": false
   }
 ]

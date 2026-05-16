@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "ClawTick",
-      "url": "https://www.producthunt.com/products/clawtick",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Cron jobs for AI agents w/ one command, zero infrastructure </p> <p> <a href=\"https://www.producthunt.com/products/clawtick?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140343?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-05-10T02:51:44"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
       "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -3582,7 +3566,48 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-17T00:37:18"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "url": "https://www.seangoedecke.com/steering-vectors/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 16 May 2026 14:58:16 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-17T02:54:22"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Reduce your GPU power limit",
+      "url": "https://www.reddit.com/r/ollama/comments/1teqkgy/reduce_your_gpu_power_limit/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-05-16T11:05:25+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NotArticuno\"> /u/NotArticuno </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1teqjjl\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1teqkgy/reduce_your_gpu_power_limit/\">[comments]</a></span>",
+      "extra": {},
+      "collected_at": "2026-05-17T02:54:24"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "rossant/awesome-math",
+      "url": "https://github.com/rossant/awesome-math",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A curated list of awesome mathematics resources",
+      "extra": {
+        "stars_today": "95 stars today"
+      },
+      "collected_at": "2026-05-17T02:54:25"
     }
   ],
-  "updated_at": "2026-05-17T00:37:20.457895+09:00"
+  "updated_at": "2026-05-17T02:54:27.448524+09:00"
 }
