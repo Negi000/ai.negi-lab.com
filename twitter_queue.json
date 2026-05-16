@@ -14869,5 +14869,19 @@
     "image_path": "/images/posts/2026-05-16-jetson-orin-gemma-offline-robot-guide.jpg",
     "created_at": "2026-05-16T17:08:33.530528+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-16-agentmemory-ai-agent-persistent-memory-review",
+    "title": "Agentmemory コーディングAIの記憶を永続化するツール",
+    "url": "https://ai.negi-lab.com/posts/agentmemory-ai-agent-persistent-memory-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python開発",
+    "tweet_text": "Claude Codeや自作エージェントが「過去の修正経緯」を忘れて絶望する問題、Agentmemoryで解決した。\n\nローカルに数行で「AIの記憶」を永続化できる。セッションを跨いで設計方針や失敗した手法を共有できるから、トークン節約と精度向上が同時に狙える。100MB程度のDBで爆速動作。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-16-agentmemory-ai-agent-persistent-memory-review.jpg",
+    "created_at": "2026-05-16T19:15:13.856976+09:00",
+    "posted": false
   }
 ]
