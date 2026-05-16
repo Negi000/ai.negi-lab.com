@@ -1,66 +1,6 @@
 {
   "items": [
     {
-      "source": "GitHub Trending",
-      "title": "HKUDS/ViMax",
-      "url": "https://github.com/HKUDS/ViMax",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
-      "extra": {
-        "stars_today": "133 stars today"
-      },
-      "collected_at": "2026-05-09T22:26:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Zappy by ZapDigits",
-      "url": "https://www.producthunt.com/products/zapdigits",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your AI reporting analyst </p> <p> <a href=\"https://www.producthunt.com/products/zapdigits?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1142190?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-09T22:26:47"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Prism",
-      "url": "https://www.producthunt.com/products/prism-26",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Hire the best candidates, not just the available </p> <p> <a href=\"https://www.producthunt.com/products/prism-26?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140632?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-09T22:26:47"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Pi and Qwen3.6 27B make setting up Archlinux really easy.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t81dq7/pi_and_qwen36_27b_make_setting_up_archlinux/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-05-09T10:34:31+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just thought I'd share this use case. I was setting up a miniPC as a home theatre with Archlinux (It's the OS I'm most familiar with). I needed to twiddle some things and am not yet familiar with wayland (I'm trying our hyprland, but normally rock i3). So, I installed pi coding agent, pointed it at my desktop/AI server thing with Qwen, and then ... just told it what I wanted.</p> <p>Setting up bluetooth became &quot;Can you connect to my bluetooth speaker. It's ",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-05-09T22:26:48"
-    },
-    {
       "source": "r/ollama",
       "title": "Advanced Workflows using natural language",
       "url": "https://www.reddit.com/r/ollama/comments/1t84whm/advanced_workflows_using_natural_language/",
@@ -3488,22 +3428,6 @@
       "collected_at": "2026-05-16T17:08:08"
     },
     {
-      "source": "Product Hunt",
-      "title": "Agentmemory",
-      "url": "https://www.producthunt.com/products/agent-memory-dev",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> #1 Persistent memory for Codex, Hermes, OpenClaw, Claude ++ </p> <p> <a href=\"https://www.producthunt.com/products/agent-memory-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1144164?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-16T17:08:08"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Qwen3.6-35B-A3B and 9B are officially on the public Terminal-Bench 2.0 leaderboard!",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1temio0/qwen3635ba3b_and_9b_are_officially_on_the_public/",
@@ -3563,7 +3487,134 @@
         "revenue_score": 7
       },
       "collected_at": "2026-05-16T19:14:51"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "awslabs/agent-plugins",
+      "url": "https://github.com/awslabs/agent-plugins",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS.",
+      "extra": {
+        "stars_today": "21 stars today"
+      },
+      "collected_at": "2026-05-16T22:42:40"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "PurpleAILAB/Decepticon",
+      "url": "https://github.com/PurpleAILAB/Decepticon",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Autonomous Hacking Agent for Red Team",
+      "extra": {
+        "stars_today": "56 stars today"
+      },
+      "collected_at": "2026-05-16T22:42:40"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "extra": {
+        "stars_today": "371 stars today"
+      },
+      "collected_at": "2026-05-16T22:42:40"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Wring",
+      "url": "https://www.producthunt.com/products/wring",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Developer tools, one menu click away. </p> <p> <a href=\"https://www.producthunt.com/products/wring?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1147756?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-16T22:42:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Loova Agents",
+      "url": "https://www.producthunt.com/products/loova-agents",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your AI director for creating cinematic videos with ease </p> <p> <a href=\"https://www.producthunt.com/products/loova-agents?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1143406?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-16T22:42:41"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "That's a good news...",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1teqnf2/thats_a_good_news/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-16T11:09:36+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1teqnf2/thats_a_good_news/\"> <img alt=\"That's a good news...\" src=\"https://preview.redd.it/40kc44wjfh1h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f8e77ffcf44d52c513fec8d0c1f207e19213725\" title=\"That's a good news...\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Looks like it finally happens... MTP getting approved for llama.cpp.</p> <p>Time to prepare for the update.</p> </div><!-- SC_ON --> &#32; submitted by",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-05-16T22:42:42"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "MTP PR Merged!!!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1terzq4/mtp_pr_merged/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-05-16T12:13:08+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1terzq4/mtp_pr_merged/\"> <img alt=\"MTP PR Merged!!!\" src=\"https://preview.redd.it/1mwo5r3wqh1h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=94840a3019a25e554fce4f387b7cb8faecee212b\" title=\"MTP PR Merged!!!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Llamas, LFG!!! 🎉🎉🎉</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Valuable_Touch5670\"> /u/Valuable_Touch5670 </a> <br /> <sp",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-16T22:42:42"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "MTP support merged into llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tes1wx/mtp_support_merged_into_llamacpp/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-16T12:15:54+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>PR <a href=\"https://github.com/ggml-org/llama.cpp/pull/22673\">22673</a> has been merged into master! 🎉</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/tacticaltweaker\"> /u/tacticaltweaker </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tes1wx/mtp_support_merged_into_llamacpp/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tes1wx/mtp_support_merged_into_llamacpp",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-05-16T22:42:42"
     }
   ],
-  "updated_at": "2026-05-16T19:14:51.784214+09:00"
+  "updated_at": "2026-05-16T22:42:42.008361+09:00"
 }
