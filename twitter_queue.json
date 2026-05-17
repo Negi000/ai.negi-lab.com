@@ -14925,5 +14925,19 @@
     "image_path": "/images/posts/2026-05-17-ai-gold-rush-haves-and-have-nots-strategy.jpg",
     "created_at": "2026-05-17T22:41:57.254614+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-18-webwright-local-llm-gpu-comparison-guide",
+    "title": "ローカルLLMでブラウザ操作 WebWright用PCおすすめ比較 買う前に知るべきVRAMの壁",
+    "url": "https://ai.negi-lab.com/posts/webwright-local-llm-gpu-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #WebWright",
+    "tweet_text": "ローカルLLMでブラウザを自動操作するWebWright、実務投入するならVRAM 8GBでは話になりません。DOM解析で一気にコンテキストを消費するため、RTX 4060 Ti 16GBが最低ライン。推論速度がブラウザの挙動に直結するので、ここをケチるとエージェントが迷子になります。買う前にVRAM容量とバス幅だけは死守すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-18-webwright-local-llm-gpu-comparison-guide.jpg",
+    "created_at": "2026-05-18T02:57:42.842924+09:00",
+    "posted": false
   }
 ]
