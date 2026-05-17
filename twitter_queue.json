@@ -14745,34 +14745,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-16-opencodeinterpreter-local-agent-tutorial",
-    "title": "ローカルLLMで自律型エージェントを作る方法 OpenCodeInterpreter 構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/opencodeinterpreter-local-agent-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AIエージェント",
-    "tweet_text": "ローカルLLMで自律型エージェントを作るなら、QwenやGemmaよりOpenCodeInterpreterが「粘り強い」。VRAM 16GB以上のRTX環境なら、Ollama経由でコード実行・自己修正ループが爆速で回る。指示を投げて「エラーが出たら自分で直して完遂させる」環境の構築手順をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-05-16T15:06:00.185259+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-16-jetson-orin-gemma-offline-robot-guide",
-    "title": "Jetson OrinとGemmaでオフラインLLMロボットを作る方法",
-    "url": "https://ai.negi-lab.com/posts/jetson-orin-gemma-offline-robot-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #JetsonOrin",
-    "tweet_text": "Jetson Orin NX 16GBでLLMを完全オフライン駆動。Gemma-2-9Bを4bit量子化して叩けば、TTFT 200ms以下の爆速レスポンスでロボットが「思考」を始めます。VRAM 16GBあれば、センサー30個の状況をプロンプトに突っ込んでも余裕で動く。エッジAIを実務で使うなら、クラウド依存を捨ててOrin一択です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-16-jetson-orin-gemma-offline-robot-guide.jpg",
-    "created_at": "2026-05-16T17:08:33.530528+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-16-agentmemory-ai-agent-persistent-memory-review",
     "title": "Agentmemory コーディングAIの記憶を永続化するツール",
     "url": "https://ai.negi-lab.com/posts/agentmemory-ai-agent-persistent-memory-review/",
@@ -14896,7 +14868,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-17-ai-gold-rush-haves-and-have-nots-strategy.jpg",
     "created_at": "2026-05-17T22:41:57.254614+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-18-webwright-local-llm-gpu-comparison-guide",
