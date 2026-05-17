@@ -2,38 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "deepsec",
-      "url": "https://www.producthunt.com/products/vercel",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open-source coding security harness </p> <p> <a href=\"https://www.producthunt.com/products/vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1139500?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-10T22:39:10"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I have DeepSeek V4 Pro at home",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t94ito/i_have_deepseek_v4_pro_at_home/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-05-10T11:35:01+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just wanted to share that I used <a href=\"/u/LegacyRemaster\">u/LegacyRemaster</a> slightly modified (Q4_K_M conversion support) DeepSeek V4 <a href=\"https://github.com/Fringe210/llama.cpp-deepseek-v4-flash-cuda\">CUDA repo</a> (based on <a href=\"/u/antirez\">u/antirez</a> <a href=\"https://github.com/antirez/llama.cpp-deepseek-v4-flash\">work</a>) to convert and run Q4_K_M <a href=\"https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro\">DeepSeek V4 Pro</a> on my Epyc wo",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-05-10T22:39:10"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Keel",
       "url": "https://www.producthunt.com/products/keel-3",
       "primary_category": "TOOL",
@@ -3457,22 +3425,6 @@
       "collected_at": "2026-05-17T17:24:49"
     },
     {
-      "source": "Product Hunt",
-      "title": "Fere AI",
-      "url": "https://www.producthunt.com/products/fere-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI agents that turn signals into crypto + Polymarket trades </p> <p> <a href=\"https://www.producthunt.com/products/fere-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1136169?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-05-17T17:24:49"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "G4-Meromero-31B-Uncensored-Heretic Is Out Now, a Finetune of Gemma 4 31B It Designed for Creative Tasks, With Kld of 0.0100 and 15/100 Refusals!",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf9tws/g4meromero31buncensoredheretic_is_out_now_a/",
@@ -3550,7 +3502,84 @@
         "revenue_score": 14
       },
       "collected_at": "2026-05-17T19:22:02"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Anybody tried v0.30.0-rc17 yet? Looking for impressions.",
+      "url": "https://www.reddit.com/r/ollama/comments/1tfjc7q/anybody_tried_v0300rc17_yet_looking_for/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "2026-05-17T08:13:04+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The pre-release dropped a few days ago with direct llama.cpp support and MLX acceleration, but it also broke support for some models like laguna-xs.2 and llama3.2-vision.</p> <p>Curious if anyone here has pulled the trigger and upgraded. Any speed improvements? Stability issues? Regrets?</p> <p>Let me know before I potentially nuke my setup.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/B0r0m4n\"> /u/B0r0m4n </a> <br /> <s",
+      "extra": {},
+      "collected_at": "2026-05-17T22:41:28"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "BigBodyCobain/Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "extra": {
+        "stars_today": "165 stars today"
+      },
+      "collected_at": "2026-05-17T22:41:29"
+    },
+    {
+      "source": "Google News",
+      "title": "日医、医療AIの臨床利用で提言 人間の尊厳を最優先に（2026年4月15日） - 社会保険研究所",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fczM0MC1VTmF6aFJybi1FcDVfZVZRTWJ1Nl94VjA0RkpyODJYdHItNW9HZ3BkLUxzLXF2Ukx2QXRrQnBfaU5waWlIa3lzcXdvU2U0?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 17 May 2026 12:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fczM0MC1VTmF6aFJybi1FcDVfZVZRTWJ1Nl94VjA0RkpyODJYdHItNW9HZ3BkLUxzLXF2Ukx2QXRrQnBfaU5waWlIa3lzcXdvU2U0?oc=5\" target=\"_blank\">日医、医療AIの臨床利用で提言 人間の尊厳を最優先に（2026年4月15日）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">社会保険研究所</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-17T22:41:30"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "85 GPU-hours comparing 5 abliteration methods on Qwen3.6-27B: benchmarks, safety, weight forensics - Abliterlitics",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfmocw/85_gpuhours_comparing_5_abliteration_methods_on/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-17T11:18:01+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been building <a href=\"https://github.com/dreamfast/abliterlitics\">Abliterlitics</a>, an open-source abliteration forensics toolkit. The idea is straightforward: take the same base model, compare the different abliteration techniques others have applied, then measure what actually changed using benchmarks, safety evaluation, distribution shift, and weight-level analysis. This post covers Qwen3.6-27B, comparing five abliteration variants against the base mod",
+      "extra": {
+        "revenue_score": 10
+      },
+      "collected_at": "2026-05-17T22:41:31"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Dual GPU llama.cpp speedup",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tflngz/dual_gpu_llamacpp_speedup/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-17T10:24:36+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Llama.cpp has had a long standing issue with &quot;--split-mode tensor&quot;, you'll get great results but it only supports non-quantized KV caches, for this very reason a lot of people decide to go with a healthy sized KV cache and ignore tensor parallelism. &nbsp;</p> <p>I've had a stab at fixing the issue here - <a href=\"https://github.com/RedToasty/llama.cpp_qts\">https://github.com/RedToasty/llama.cpp_qts</a> - it's branched from mainline as of today, with m",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-05-17T22:41:31"
     }
   ],
-  "updated_at": "2026-05-17T19:22:02.259227+09:00"
+  "updated_at": "2026-05-17T22:41:31.688290+09:00"
 }
