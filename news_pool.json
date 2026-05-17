@@ -2,37 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "Notion 3.4",
-      "url": "https://www.producthunt.com/products/notion-3-4",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> New dashboards, connectors, sidebar & smarter AI agents </p> <p> <a href=\"https://www.producthunt.com/products/notion-3-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1111280?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-05-10T19:14:21"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Hello from 10KM high! - Thanks to Qwen 3.6 35b a3b!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t92hff/hello_from_10km_high_thanks_to_qwen_36_35b_a3b/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-05-10T09:43:47+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Typing this on a cramped flight, but I was having issues connecting to the plane's wifi on my ubuntu laptop, when it was effortless on my phone. </p> <p>The issue I was having was the Laptop WiFi connected to the plane wifi network, but captive portal wouldn't load. Turns out systemd-resolved was using Docker's DNS instead of the network gateway. Luckily I brought Qwen with me, the agent found a nmcli fix in seconds, and the portal loaded soon after! Could this ",
-      "extra": {
-        "revenue_score": 8
-      },
-      "collected_at": "2026-05-10T19:14:21"
-    },
-    {
-      "source": "Product Hunt",
       "title": "deepsec",
       "url": "https://www.producthunt.com/products/vercel",
       "primary_category": "TOOL",
@@ -3505,23 +3474,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Testing llama.cpp MTP support on Qwen3.6 - RTX 5090",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfgxc8/testing_llamacpp_mtp_support_on_qwen36_rtx_5090/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-17T06:00:43+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tfgxc8/testing_llamacpp_mtp_support_on_qwen36_rtx_5090/\"> <img alt=\"Testing llama.cpp MTP support on Qwen3.6 - RTX 5090\" src=\"https://preview.redd.it/etfdid7h0n1h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7fc9097251e65c11f4818c5d964bf8ad023cc993\" title=\"Testing llama.cpp MTP support on Qwen3.6 - RTX 5090\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Setup:</p> <p>- RTX 5090, 32 GB, Linux</p> <p>- Built llama.c",
-      "extra": {
-        "revenue_score": 15
-      },
-      "collected_at": "2026-05-17T17:24:50"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "G4-Meromero-31B-Uncensored-Heretic Is Out Now, a Finetune of Gemma 4 31B It Designed for Creative Tasks, With Kld of 0.0100 and 15/100 Refusals!",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tf9tws/g4meromero31buncensoredheretic_is_out_now_a/",
       "primary_category": "GUIDE",
@@ -3535,7 +3487,70 @@
         "revenue_score": 7
       },
       "collected_at": "2026-05-17T17:24:50"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Vivago Video Agent",
+      "url": "https://www.producthunt.com/products/viva",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Skip the prompting. Produce consistently compelling videos. </p> <p> <a href=\"https://www.producthunt.com/products/viva?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1146113?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-17T19:22:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Kirki",
+      "url": "https://www.producthunt.com/products/kirki",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> WordPress finally has a freeform canvas website builder. </p> <p> <a href=\"https://www.producthunt.com/products/kirki?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1148297?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-17T19:22:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Jackrong/Qwopus3.5-9B-Coder-GGUF · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfin40/jackrongqwopus359bcodergguf_hugging_face/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-17T07:33:35+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tfin40/jackrongqwopus359bcodergguf_hugging_face/\"> <img alt=\"Jackrong/Qwopus3.5-9B-Coder-GGUF · Hugging Face\" src=\"https://external-preview.redd.it/T9RE3LDtINwehIu0A2priXEpnkJVRnQuH-dC00XZOE4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bec7f6eb79f52da98aa3dc7749717edb3323f461\" title=\"Jackrong/Qwopus3.5-9B-Coder-GGUF · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><blockquote> <p><strong>Qwopus3.5-9B-cod",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-05-17T19:22:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Llama.cpp MTP with Qwen3.6 27B on Headless RTX 3090",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfilwx/llamacpp_mtp_with_qwen36_27b_on_headless_rtx_3090/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-05-17T07:31:41+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Saw some posts around PP being slower, so they were cautious on trying it.</p> <p>Here's a real-world datapoint.</p> <p><strong>Settings:</strong></p> <ul> <li>Headless RTX 3090 24G</li> <li>OpenCode</li> <li>Model unsloth's Qwen3.6-27B-MTP-Q4_K_M.gguf</li> <li>128k context</li> <li>q8_0 kv cache</li> <li>--spec-draft-n-max: 3</li> <li>--draft-p-min: 0</li> </ul> <p><strong>Use Cases:</strong></p> <ul> <li>Research task that uses ~85,000 tokens</li> <li>Coding t",
+      "extra": {
+        "revenue_score": 14
+      },
+      "collected_at": "2026-05-17T19:22:02"
     }
   ],
-  "updated_at": "2026-05-17T17:24:50.708442+09:00"
+  "updated_at": "2026-05-17T19:22:02.259227+09:00"
 }
