@@ -3302,22 +3302,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "awslabs/agent-plugins",
-      "url": "https://github.com/awslabs/agent-plugins",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Agent Plugins for AWS equip AI coding agents with the skills to help you architect, deploy, and operate on AWS.",
-      "extra": {
-        "stars_today": "21 stars today"
-      },
-      "collected_at": "2026-05-16T22:42:40"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "PurpleAILAB/Decepticon",
       "url": "https://github.com/PurpleAILAB/Decepticon",
       "primary_category": "TOOL",
@@ -3514,7 +3498,38 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1tfbmtd/weekly_usage_limit/\"> <img alt=\"Weekly usage limit\" src=\"https://preview.redd.it/e948a5e1ql1h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ad09f116c5c45e3d80075d1ba781f4ca70db598\" title=\"Weekly usage limit\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>After hammering away on OWUI chat at the free tier for a total of 8 hours, qwen3-235, 400 word prompts and responses, and no OpenClaw nonsense, I'm almost at ca",
       "extra": {},
       "collected_at": "2026-05-17T13:05:38"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Finally found a use case for local model",
+      "url": "https://www.reddit.com/r/ollama/comments/1tfh4wp/finally_found_a_use_case_for_local_model/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-17T06:12:03+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have a macmini 24gb and I've been trying to find something useful to run on Ollama. I started with code review, it has lot of problem but too slow is mainly a problem for me. Code generation is also bad.</p> <p>Then i found a another use case: Commit message generation. It is a smaller and simpler task and the model works fine if you feed it right context.</p> <p>Here is the gist: <a href=\"https://gist.github.com/nqbao/f0a964e1b90d954c1b621cf59fa84b86\">https:/",
+      "extra": {},
+      "collected_at": "2026-05-17T15:28:33"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "dograh-hq/dograh",
+      "url": "https://github.com/dograh-hq/dograh",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Open Source Voice Agent Platform",
+      "extra": {
+        "stars_today": "287 stars today"
+      },
+      "collected_at": "2026-05-17T15:28:33"
     }
   ],
-  "updated_at": "2026-05-17T13:05:41.587440+09:00"
+  "updated_at": "2026-05-17T15:28:35.532545+09:00"
 }
