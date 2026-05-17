@@ -14883,5 +14883,19 @@
     "image_path": "/images/posts/2026-05-17-local-qwen-coder-html-canvas-tutorial.jpg",
     "created_at": "2026-05-17T15:28:59.232828+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-17-llamacpp-mtp-qwen3-rtx5090-setup-guide",
+    "title": "llama.cppのMTPサポートを使いRTX 5090でQwen 3.6を爆速で動かす方法",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-mtp-qwen3-rtx5090-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #RTX5090",
+    "tweet_text": "RTX 5090×llama.cppのMTPサポートが異次元。Qwen 3.6の72Bモデルで150 token/sec超えを記録。従来の1トークンずつ予測する常識を、32GB VRAMの暴力的な演算力で「複数同時予測」に書き換える快感。推論待機時間が消える。仕事で使えるローカルLLMの完成形がこれ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-17-llamacpp-mtp-qwen3-rtx5090-setup-guide.jpg",
+    "created_at": "2026-05-17T17:25:24.049452+09:00",
+    "posted": false
   }
 ]
