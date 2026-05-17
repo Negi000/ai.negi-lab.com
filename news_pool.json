@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Keel",
-      "url": "https://www.producthunt.com/products/keel-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> An AI assistant whose memory belongs to you </p> <p> <a href=\"https://www.producthunt.com/products/keel-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1136403?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-11T00:33:19"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
       "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
@@ -3334,21 +3319,6 @@
       "collected_at": "2026-05-17T02:54:25"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "The haves and have nots of the AI gold rush",
-      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 16 May 2026 20:17:16 +0000",
-      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-17T06:58:27"
-    },
-    {
       "source": "r/ollama",
       "title": "Weekly usage limit",
       "url": "https://www.reddit.com/r/ollama/comments/1tfbmtd/weekly_usage_limit/",
@@ -3579,7 +3549,36 @@
         "revenue_score": 8
       },
       "collected_at": "2026-05-17T22:41:31"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Ollama pro",
+      "url": "https://www.reddit.com/r/ollama/comments/1tfqkl2/ollama_pro/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-17T14:08:14+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone,</p> <p>I’d love to hear your experience with the cloud version of Ollama Pro. (20$)</p> <p>My main goal is to test and compare APIs of frontier open source models. For production work I currently use Claude Code, but I’m considering Ollama Pro mainly for research and experimentation workflows.</p> <p>A few things I’m especially curious about:</p> <p>• Is it a good option for testing multiple open source models through a unified interface?<br /> •",
+      "extra": {},
+      "collected_at": "2026-05-18T00:40:46"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sat, 16 May 2026 18:54:28 +0000",
+      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-18T00:40:46"
     }
   ],
-  "updated_at": "2026-05-17T22:41:31.688290+09:00"
+  "updated_at": "2026-05-18T00:40:48.024102+09:00"
 }
