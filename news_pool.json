@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Get ready for the whisper-filled office of the future",
-      "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 10 May 2026 21:15:30 +0000",
-      "summary": "How will work setups change if we spend more and more time talking to our computers?",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-05-11T06:57:55"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Running Qwen3.6 35b a3b on 8gb vram and 32gb ram ~190k context",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9eo83/running_qwen36_35b_a3b_on_8gb_vram_and_32gb_ram/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-05-10T18:24:29+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>If anyone is looking for a good high-speed setup with ~190k context, this config has been working insanely well for me.</p> <p>I’m using my laptop as a server over Tailscale. Installed Linux on it and running:</p> <p>- Qwen3.6 35B A3B</p> <p>- RTX 4060 8GB VRAM</p> <p>- 32GB DDR5 5600MHz RAM</p> <p>- Q5 quant models</p> <p>Current models tested:</p> <p>- `mudler/Qwen3.6-35B-A3B-APEX-GGUF`</p> <p>- ~40 tok/sec → 37 tok/sec</p> <p>- `hesamation/Qwen3.6-35B-A3B-Cla",
-      "extra": {
-        "revenue_score": 18
-      },
-      "collected_at": "2026-05-11T06:57:56"
-    },
-    {
       "source": "Google News",
       "title": "ヒンドゥー教・シーク教・モルモン教などの指導者とAnthropicやOpenAIなどのAI企業が会合、AIモデルに倫理と道徳を組み込む方法に関する原則を策定へ - GIGAZINE",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsRnFSYTVKaUFMaXN3cDBsT29Jc2p1Mko2akRmdklVaDJHYUpFb00tZmhOYlNmYk1wQkZnOGZ6Si03M3VwUGNyNVpGdVVkcDRwS0l6cGdRWWtLN3g0aDBSanotREYyaWhmS1ZjdHpUVEdmWTdCRDlrZw?oc=5",
@@ -3565,21 +3533,6 @@
       "collected_at": "2026-05-18T00:40:46"
     },
     {
-      "source": "r/ollama",
-      "title": "WebWright - Agentic Extension for your Browser is now live on Chrome 😁",
-      "url": "https://www.reddit.com/r/ollama/comments/1tfuotx/webwright_agentic_extension_for_your_browser_is/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-17T16:42:58+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1tfuotx/webwright_agentic_extension_for_your_browser_is/\"> <img alt=\"WebWright - Agentic Extension for your Browser is now live on Chrome 😁\" src=\"https://external-preview.redd.it/Y2I5OXVseXc0cTFoMUBcaqUsIA8foACvZnWAdPEbPxXDb3Xrw7PNtsfr-Z6c.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7834277ee2d21882ae38f06d93d43fde08a5c945\" title=\"WebWright - Agentic Extension for your Browser is now live on Chrome 😁\" /> </a> </td><td> <!-- ",
-      "extra": {},
-      "collected_at": "2026-05-18T02:57:13"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
       "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
@@ -3627,7 +3580,67 @@
         "revenue_score": 7
       },
       "collected_at": "2026-05-18T02:57:16"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Ollama Cloud is almost like Claude Code",
+      "url": "https://www.reddit.com/r/ollama/comments/1tfww31/ollama_cloud_is_almost_like_claude_code/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-05-17T18:03:36+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>These days, Ollama Cloud is almost like Claude Code. At least in terms of the limits being hitted, but without the anthropic models.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mr_moebius\"> /u/mr_moebius </a> <br /> <span><a href=\"https://www.reddit.com/r/ollama/comments/1tfww31/ollama_cloud_is_almost_like_claude_code/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1tfww31/ollama_cloud_",
+      "extra": {},
+      "collected_at": "2026-05-18T07:02:13"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple’s Siri revamp could include auto-deleting chats",
+      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sun, 17 May 2026 20:15:00 +0000",
+      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-18T07:02:14"
+    },
+    {
+      "source": "Google News",
+      "title": "米アカデミー賞、AIの演技と脚本は対象外に - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IRTdrUm94OHFDZDZMeGR2QlpHN3EzNUhlRUZ1WjJ2SDhYQXh1X1BKdll2VGhaRU5KWXBWSEJCalJ0dEU3UGlLQjNEbG1UZlpsR3pjYkJn?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 17 May 2026 17:33:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IRTdrUm94OHFDZDZMeGR2QlpHN3EzNUhlRUZ1WjJ2SDhYQXh1X1BKdll2VGhaRU5KWXBWSEJCalJ0dEU3UGlLQjNEbG1UZlpsR3pjYkJn?oc=5\" target=\"_blank\">米アカデミー賞、AIの演技と脚本は対象外に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-18T07:02:14"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "M5 vs DGX Spark vs Strix Halo vs RTX 6000",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfzsd6/m5_vs_dgx_spark_vs_strix_halo_vs_rtx_6000/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-17T19:49:13+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tfzsd6/m5_vs_dgx_spark_vs_strix_halo_vs_rtx_6000/\"> <img alt=\"M5 vs DGX Spark vs Strix Halo vs RTX 6000\" src=\"https://preview.redd.it/mk82wx765r1h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27a1f601ad0558764dfda317aabded619790039f\" title=\"M5 vs DGX Spark vs Strix Halo vs RTX 6000\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey guys, super simple. There have been a lot of online debates about the new M5 Macs ",
+      "extra": {
+        "revenue_score": 10
+      },
+      "collected_at": "2026-05-18T07:02:15"
     }
   ],
-  "updated_at": "2026-05-18T02:57:16.339458+09:00"
+  "updated_at": "2026-05-18T07:02:15.855867+09:00"
 }

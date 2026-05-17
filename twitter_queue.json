@@ -14911,5 +14911,19 @@
     "image_path": "/images/posts/2026-05-18-webwright-local-llm-gpu-comparison-guide.jpg",
     "created_at": "2026-05-18T02:57:42.842924+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-18-ollama-vs-claude-code-gpu-guide",
+    "title": "Claude Codeをローカルで動かす？OllamaとRTX/MacBook Pro比較・選び方",
+    "url": "https://ai.negi-lab.com/posts/ollama-vs-claude-code-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #エンジニア",
+    "tweet_text": "Claude CodeのAPI代が高すぎて悩むなら、Ollama + RTX 4090で「Qwen2.5-Coder-32B」を回すのが現状の結論。VRAM 24GBあれば4bit量子化が爆速で動き、従量課金ゼロで24時間エージェントを働かせ放題。8GBや12GBのGPUはもう厳しい。投資するなら16GB（4060 Ti）か、思い切って24GB。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-18-ollama-vs-claude-code-gpu-guide.jpg",
+    "created_at": "2026-05-18T07:02:44.226502+09:00",
+    "posted": false
   }
 ]
