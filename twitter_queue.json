@@ -14717,20 +14717,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-15-runway-vs-google-world-model-ai-video",
-    "title": "Runwayが目指す動画AIの終着点は映像制作の効率化ではなく物理法則を完コピした世界モデルの構築にある",
-    "url": "https://ai.negi-lab.com/posts/runway-vs-google-world-model-ai-video/",
-    "category": "NEWS",
-    "viral_tags": "#RunwayML #動画生成AI",
-    "tweet_text": "RunwayがGoogleを射程に捉えた。動画生成を「物理法則を理解する世界モデル」と定義し、GAFAのLLMが苦手な現実世界のシミュレーションで勝負を仕掛けている。Gen-3 Alphaの物理的一貫性は、RTX 4090を回してローカルで試行錯誤する時間を過去にするレベル。API利用なら非同期のWebhook設計が必須。今すぐSaaSとローカルのコスト比較を。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-15-runway-vs-google-world-model-ai-video.jpg",
-    "created_at": "2026-05-15T23:20:18.271609+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-16-local-llm-pc-selection-guide-thoth-rtx-mac",
     "title": "ローカルLLM開発環境Thothを使いこなすPC選び｜RTX 4090かMacか？失敗しないスペック比較",
     "url": "https://ai.negi-lab.com/posts/local-llm-pc-selection-guide-thoth-rtx-mac/",
@@ -14757,20 +14743,6 @@
     "image_path": "/images/posts/2026-05-16-ollama-tps-intelligence-model-comparison-hardware-guide.jpg",
     "created_at": "2026-05-16T07:08:20.450642+09:00",
     "posted": true
-  },
-  {
-    "article_id": "2026-05-16-hasdata-web-scraping-api-ai-agent-review",
-    "title": "HasData AIエージェントのためのWebスクレイピングAPI徹底解説",
-    "url": "https://ai.negi-lab.com/posts/hasdata-web-scraping-api-ai-agent-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #Webスクレイピング",
-    "tweet_text": "AIエージェント開発で最大の壁、Web情報のノイズ問題。HasDataを試したが、1リクエストでHTMLをクリーンなMarkdownに変換して返してくれるのが強すぎる。Cloudflare突破やレジデンシャルプロキシもAPI1本で完結。不毛なスクレイピング実装を月$30で外注する感覚に近い。RAGの精度に悩むなら、まずは入力データの質を見直すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-16-hasdata-web-scraping-api-ai-agent-review.jpg",
-    "created_at": "2026-05-16T12:48:31.454974+09:00",
-    "posted": false
   },
   {
     "article_id": "2026-05-16-opencodeinterpreter-local-agent-tutorial",
@@ -14854,7 +14826,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-17-gemma-31b-local-llm-gpu-guide-rtx4090-mac.jpg",
     "created_at": "2026-05-17T06:58:55.896961+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-17-awslabs-agent-plugins-aws-ai-review",
