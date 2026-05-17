@@ -2,83 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Claude Code CVE-2026-39861:sandbox escape via symlink",
-      "url": "https://github.com/advisories/GHSA-vp62-r36r-9xqp",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 08 May 2026 02:39:55 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-10T12:58:38"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Llama.cpp MTP support now in beta!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t3guzw/llamacpp_mtp_support_now_in_beta/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-04T12:54:14+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t3guzw/llamacpp_mtp_support_now_in_beta/\"> <img alt=\"Llama.cpp MTP support now in beta!\" src=\"https://external-preview.redd.it/Lr1I-xhkf0oKGlVfW5Dk1nUCX3CXo25GbKVGJcPuLr8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b498ac915c47be70d5aa3c028d8c73d36ebe8051\" title=\"Llama.cpp MTP support now in beta!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Happy to report that llama.cpp MTP support is now in beta, thanks to Am",
-      "extra": {},
-      "collected_at": "2026-05-10T12:58:39"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 10 May 2026 02:00:00 +0000",
-      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-10T12:58:40"
-    },
-    {
-      "source": "Google News",
-      "title": "気づけば、AIに丸投げしている人たち - アゴラ 言論プラットフォーム",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iRThFeG1tcmMwVklreVdyZlB0MnFIMmwxNEZSSTFKSkJyb29vUE12QmNVc3h0QmhZSm13bFc0a1RTZjZxdU5JR0pLNWVwVGdDSUVUOW40OE5jd3c?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Sat, 09 May 2026 21:40:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iRThFeG1tcmMwVklreVdyZlB0MnFIMmwxNEZSSTFKSkJyb29vUE12QmNVc3h0QmhZSm13bFc0a1RTZjZxdU5JR0pLNWVwVGdDSUVUOW40OE5jd3c?oc=5\" target=\"_blank\">気づけば、AIに丸投げしている人たち</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アゴラ 言論プラットフォーム</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-10T12:58:40"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "NVIDIA AI Releases Star Elastic: One Checkpoint that Contains 30B, 23B, and 12B Reasoning Models with Zero-Shot Slicing",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t8s83r/nvidia_ai_releases_star_elastic_one_checkpoint/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-10T00:48:04+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I saw this on another sub and didn't see it posted here, it looks awesome, and can definitely be run local. I guess it was released 11 days ago, but it never hit the top of my feed (which I look at way too often), so posting it again.</p> <h1>This is my take on it:</h1> <p>Think of this as like scalable video coding, you have a UHD stream, but strip some layers and you have a HD, or SD stream, it's all a single file stream, not multiple ones.</p> <p>Like nested ",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-05-10T12:58:41"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Gemini API File Search is now multimodal",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
       "primary_category": "NEWS",
@@ -3548,20 +3471,6 @@
       "collected_at": "2026-05-17T02:54:25"
     },
     {
-      "source": "r/ollama",
-      "title": "gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic is Out Now, A Writing Finetune that Aims to Improve Gemma 4 31B it Writing Quality with More Natural English and Better Prose, Good for Creative Writings, Translations and RPs!",
-      "url": "https://www.reddit.com/r/ollama/comments/1tf5qp4/gemma4ortenzyathecreativewordsmith31bituncensoredh/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-16T21:13:11+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1tf5qp4/gemma4ortenzyathecreativewordsmith31bituncensoredh/\"> <img alt=\"gemma-4-Ortenzya-The-Creative-Wordsmith-31B-it-uncensored-heretic is Out Now, A Writing Finetune that Aims to Improve Gemma 4 31B it Writing Quality with More Natural English and Better Prose, Good for Creative Writings, Translations and RPs!\" src=\"https://external-preview.redd.it/Dx2GrW__plXl7fvZIIgoVwQmp24kh7Tt9V9RJfcN_4s.png?width=640&amp;crop=smart&amp;au",
-      "extra": {},
-      "collected_at": "2026-05-17T06:58:26"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "The haves and have nots of the AI gold rush",
       "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
@@ -3591,7 +3500,21 @@
         "revenue_score": 7
       },
       "collected_at": "2026-05-17T06:58:29"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Weekly usage limit",
+      "url": "https://www.reddit.com/r/ollama/comments/1tfbmtd/weekly_usage_limit/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-17T01:35:29+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1tfbmtd/weekly_usage_limit/\"> <img alt=\"Weekly usage limit\" src=\"https://preview.redd.it/e948a5e1ql1h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ad09f116c5c45e3d80075d1ba781f4ca70db598\" title=\"Weekly usage limit\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>After hammering away on OWUI chat at the free tier for a total of 8 hours, qwen3-235, 400 word prompts and responses, and no OpenClaw nonsense, I'm almost at ca",
+      "extra": {},
+      "collected_at": "2026-05-17T13:05:38"
     }
   ],
-  "updated_at": "2026-05-17T06:58:29.433939+09:00"
+  "updated_at": "2026-05-17T13:05:41.587440+09:00"
 }
