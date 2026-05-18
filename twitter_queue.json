@@ -14939,5 +14939,19 @@
     "image_path": "/images/posts/2026-05-19-local-llm-coding-agent-hardware-guide.jpg",
     "created_at": "2026-05-19T02:19:16.302795+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-19-llama-cpp-mtp-support-gpu-comparison",
+    "title": "ローカルLLM爆速化！llama.cppのMTP対応で選ぶべきGPUとMac比較",
+    "url": "https://ai.negi-lab.com/posts/llama-cpp-mtp-support-gpu-comparison/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #llama_cpp",
+    "tweet_text": "llama.cppがMTP（複数トークン予測）に対応。ローカルLLMの推論速度が2〜3倍に跳ね上がるフェーズが来ました。\n\n今まで「もっさり」していた70B級モデルも、RTX 4090やMac Studioなら実用レベルに。Cursorの裏側をローカル化するなら、今こそVRAM 16GB以上の環境を整えるべき。中途半端なスペックで時間を溶かすのはもう終わりにしましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-19-llama-cpp-mtp-support-gpu-comparison.jpg",
+    "created_at": "2026-05-19T03:52:46.436302+09:00",
+    "posted": false
   }
 ]

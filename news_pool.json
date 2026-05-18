@@ -3313,20 +3313,6 @@
       "collected_at": "2026-05-18T16:02:59"
     },
     {
-      "source": "r/ollama",
-      "title": "I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here's how",
-      "url": "https://www.reddit.com/r/ollama/comments/1tget4p/i_built_a_coding_agent_that_gets_87_on_benchmarks/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-18T07:03:11+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was frustrated that every coding agent (OpenCode, Cursor, Claude Code) assumes you're running GPT-5.4 or Claude Opus. If you try them with a local model like Gemma or Qwen they fall apart. I find that often tool calls fail, context overflows, multi-step tasks collapse.</p> <p>So I built SmallCode. It's designed from the ground up for small local models.</p> <p><strong>The result:</strong> 87/100 benchmark tasks pass with a Gemma 4 model that only activates 4B ",
-      "extra": {},
-      "collected_at": "2026-05-18T19:10:34"
-    },
-    {
       "source": "Product Hunt",
       "title": "Voiser AI",
       "url": "https://www.producthunt.com/products/voiser-ai-text-to-speech",
@@ -3591,7 +3577,91 @@
         "revenue_score": 7
       },
       "collected_at": "2026-05-19T02:18:50"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 18 May 2026 17:38:22 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-19T03:52:15"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 18 May 2026 17:01:21 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-19T03:52:15"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 18 May 2026 15:24:19 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-19T03:52:15"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Built MemoTree, a local-first branching chat UI for managing Ollama context",
+      "url": "https://www.reddit.com/r/ollama/comments/1tgqlxp/built_memotree_a_localfirst_branching_chat_ui_for/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-18T15:47:54+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I built MemoTree, a local-first tree-based chat UI for LLM conversations, with Ollama support.</p> <p>The problem I’m trying to solve is context management during deep exploration. When I’m reading papers, debugging code, or exploring a codebase, I often want to go back to an earlier point, ask a different question, compare assumptions, or continue from a cleaner context. Linear chat makes that awkward because alternate paths collapse into one long history, so s",
+      "extra": {},
+      "collected_at": "2026-05-19T03:52:16"
+    },
+    {
+      "source": "Google News",
+      "title": "eMAXIS Neo AIテクノロジー【03311249】：基準価格・投資信託情報 - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yNGdsU292MFpPa0ppd1N2SkxnYzRaTmtjaVNpMmVFVUN3eXB3dUF3R2tpN21LdWhFWDlqS2w5WlIzTHJmX3doVEpIeTk4aUlPMUhDcw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Mon, 18 May 2026 16:22:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yNGdsU292MFpPa0ppd1N2SkxnYzRaTmtjaVNpMmVFVUN3eXB3dUF3R2tpN21LdWhFWDlqS2w5WlIzTHJmX3doVEpIeTk4aUlPMUhDcw?oc=5\" target=\"_blank\">eMAXIS Neo AIテクノロジー【03311249】：基準価格・投資信託情報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-05-19T03:52:18"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "LandingHero AI",
+      "url": "https://www.producthunt.com/products/landinghero-ai-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> 24/7 Salesperson on Your Website </p> <p> <a href=\"https://www.producthunt.com/products/landinghero-ai-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1121974?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-19T03:52:18"
     }
   ],
-  "updated_at": "2026-05-19T02:18:50.306151+09:00"
+  "updated_at": "2026-05-19T03:52:20.646550+09:00"
 }
