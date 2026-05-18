@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Bruin",
-      "url": "https://www.producthunt.com/products/bruin",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The AI data agent that collaborates with your team </p> <p> <a href=\"https://www.producthunt.com/products/bruin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1143047?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-11T18:45:59"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "MiroMiro v2",
-      "url": "https://www.producthunt.com/products/miromiro",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Inspect, edit, and export any website's design </p> <p> <a href=\"https://www.producthunt.com/products/miromiro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140367?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-11T18:45:59"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "ExLlamaV3 Major Updates!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1t9voxs/exllamav3_major_updates/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-11T07:05:47+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t9voxs/exllamav3_major_updates/\"> <img alt=\"ExLlamaV3 Major Updates!\" src=\"https://preview.redd.it/3xgpoqggjg0h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d5413051ce79f195e44c045baa7e63a3c2488a1\" title=\"ExLlamaV3 Major Updates!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Turboderp has a been on <a href=\"https://github.com/turboderp-org/exllamav3/commits/dev\">an absolute tear</a> recently, in the endless batt",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-11T18:46:00"
-    },
-    {
       "source": "GitHub Trending",
       "title": "AUTOMATIC1111/stable-diffusion-webui",
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
@@ -3506,23 +3457,6 @@
       "collected_at": "2026-05-18T07:02:14"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "M5 vs DGX Spark vs Strix Halo vs RTX 6000",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfzsd6/m5_vs_dgx_spark_vs_strix_halo_vs_rtx_6000/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-17T19:49:13+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tfzsd6/m5_vs_dgx_spark_vs_strix_halo_vs_rtx_6000/\"> <img alt=\"M5 vs DGX Spark vs Strix Halo vs RTX 6000\" src=\"https://preview.redd.it/mk82wx765r1h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27a1f601ad0558764dfda317aabded619790039f\" title=\"M5 vs DGX Spark vs Strix Halo vs RTX 6000\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey guys, super simple. There have been a lot of online debates about the new M5 Macs ",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-05-18T07:02:15"
-    },
-    {
       "source": "r/ollama",
       "title": "Local Linux sandbox for AI agents on macOS - no Docker, no remote VMs, all inside single native app",
       "url": "https://www.reddit.com/r/ollama/comments/1tg7nih/local_linux_sandbox_for_ai_agents_on_macos_no/",
@@ -3612,7 +3546,68 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-18T16:02:59"
+    },
+    {
+      "source": "r/ollama",
+      "title": "I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here's how",
+      "url": "https://www.reddit.com/r/ollama/comments/1tget4p/i_built_a_coding_agent_that_gets_87_on_benchmarks/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-18T07:03:11+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was frustrated that every coding agent (OpenCode, Cursor, Claude Code) assumes you're running GPT-5.4 or Claude Opus. If you try them with a local model like Gemma or Qwen they fall apart. I find that often tool calls fail, context overflows, multi-step tasks collapse.</p> <p>So I built SmallCode. It's designed from the ground up for small local models.</p> <p><strong>The result:</strong> 87/100 benchmark tasks pass with a Gemma 4 model that only activates 4B ",
+      "extra": {},
+      "collected_at": "2026-05-18T19:10:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Voiser AI",
+      "url": "https://www.producthunt.com/products/voiser-ai-text-to-speech",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Human-like AI voiceovers in 140+ languages </p> <p> <a href=\"https://www.producthunt.com/products/voiser-ai-text-to-speech?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1149543?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-05-18T19:10:36"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Origio",
+      "url": "https://www.producthunt.com/products/origio",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A personalized way to discover where to live </p> <p> <a href=\"https://www.producthunt.com/products/origio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1138152?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-18T19:10:36"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here's how",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgecrq/i_built_a_coding_agent_that_gets_87_on_benchmarks/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-18T06:38:11+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tgecrq/i_built_a_coding_agent_that_gets_87_on_benchmarks/\"> <img alt=\"I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here's how\" src=\"https://preview.redd.it/ibtta0vvcu1h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7b1cffaf7c760b3a6fb7a77666a70f03b3bfdc65\" title=\"I built a coding agent that gets 87% on benchmarks with a 4B parameter model, here's how\" /> </a> </td><td> <!-- SC_OFF --><div",
+      "extra": {
+        "revenue_score": 9
+      },
+      "collected_at": "2026-05-18T19:10:37"
     }
   ],
-  "updated_at": "2026-05-18T16:03:00.713308+09:00"
+  "updated_at": "2026-05-18T19:10:37.669425+09:00"
 }
