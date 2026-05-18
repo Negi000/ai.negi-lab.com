@@ -14911,5 +14911,19 @@
     "image_path": "/images/posts/2026-05-18-shadowbroker-osint-ai-agent-review.jpg",
     "created_at": "2026-05-18T13:19:24.973771+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-18-local-llm-hardware-performance-simulator-guide",
+    "title": "LocalLLMハードウェア選定ツールの作り方と最適な環境構築",
+    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-performance-simulator-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #GPU選定",
+    "tweet_text": "ローカルLLM用の次世代ハード選定で迷う時間は無駄です。M5、Strix Halo、RTX 6000 AdaのスペックをTransformerの物理限界から逆算するシミュレーターを作りました。LLMの速度は演算性能ではなく「メモリ帯域」で決まる。128GB超のモデルを載せるならMac、速度と互換性ならNVIDIAという結論が数字でハッキリ見えます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-18-local-llm-hardware-performance-simulator-guide.jpg",
+    "created_at": "2026-05-18T16:03:33.610665+09:00",
+    "posted": false
   }
 ]
