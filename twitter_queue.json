@@ -14967,5 +14967,19 @@
     "image_path": "/images/posts/2026-05-19-alexa-plus-ai-podcast-generation-launch.jpg",
     "created_at": "2026-05-19T00:42:35.665620+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-19-local-llm-coding-agent-hardware-guide",
+    "title": "ローカルLLMでAIコーディングは可能か？Gemma 2 4Bで87%達成の衝撃と失敗しないGPU・Macの選び方",
+    "url": "https://ai.negi-lab.com/posts/local-llm-coding-agent-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #個人開発",
+    "tweet_text": "ローカルLLMでもエージェントの組み方次第でClaude 3.5 Sonnet級の精度が出せる時代。Gemma 2 4Bでベンチマーク87%達成は、高額サブスク不要の未来を示唆している。実務で使うならVRAM 16GB以上のRTX 4060 Tiか、メモリ32GB以上のMacが最低ライン。安物買いを避ける判断基準をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-19-local-llm-coding-agent-hardware-guide.jpg",
+    "created_at": "2026-05-19T02:19:16.302795+09:00",
+    "posted": false
   }
 ]
