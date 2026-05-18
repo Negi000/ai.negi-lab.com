@@ -14897,5 +14897,19 @@
     "image_path": "/images/posts/2026-05-18-ollama-vs-claude-code-gpu-guide.jpg",
     "created_at": "2026-05-18T07:02:44.226502+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-18-shadowbroker-osint-ai-agent-review",
+    "title": "Shadowbroker OSINTとAIを融合させた次世代追跡ツール",
+    "url": "https://ai.negi-lab.com/posts/shadowbroker-osint-ai-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#OSINT #AIエージェント",
+    "tweet_text": "航空機・衛星・地震情報を一元化するShadowbrokerが面白い。単なる統合UIではなくAI Agentを接続して「特定のフライト後に発生した異常事態」を自動抽出する推論前提の設計。\n構築はDocker必須で中級者向けだけど、OSINTをLLMでハックしたい勢には唯一無二のツール。月額$20のAPI代を払う価値は十分にある。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-18-shadowbroker-osint-ai-agent-review.jpg",
+    "created_at": "2026-05-18T13:19:24.973771+09:00",
+    "posted": false
   }
 ]
