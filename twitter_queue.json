@@ -14939,5 +14939,19 @@
     "image_path": "/images/posts/2026-05-19-llama-cpp-mtp-support-gpu-comparison.jpg",
     "created_at": "2026-05-19T03:52:46.436302+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-19-qwen-3-7-local-llm-setup-guide",
+    "title": "Qwen 3.7 使い方と最強ローカルLLM環境の作り方",
+    "url": "https://ai.negi-lab.com/posts/qwen-3-7-local-llm-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "Qwen 3.7リリース前に準備すべきは「モデルを待つこと」ではなく「回す環境を整えること」。VRAM 24GBあれば32Bクラスも快適。Docker + Ollama + Open WebUIの構成なら、最新モデルも1コマンドで業務投入できる。API料金やプライバシーを気にせず、1日1万回叩ける自前サーバーこそがエンジニアの最強の武器になる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-19-qwen-3-7-local-llm-setup-guide.jpg",
+    "created_at": "2026-05-19T07:09:37.703190+09:00",
+    "posted": false
   }
 ]

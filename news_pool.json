@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "articuler.ai",
-      "url": "https://www.producthunt.com/products/articuler-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Describe your goal. Meet the right professional. </p> <p> <a href=\"https://www.producthunt.com/products/articuler-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1138927?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-12T03:58:34"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Genpire",
-      "url": "https://www.producthunt.com/products/genpire-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Make Real Products with AI, literally. </p> <p> <a href=\"https://www.producthunt.com/products/genpire-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1050396?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-12T03:58:34"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "MiniCPM 4.6",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ta9k8o/minicpm_46/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-05-11T17:08:03+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ta9k8o/minicpm_46/\"> <img alt=\"MiniCPM 4.6\" src=\"https://external-preview.redd.it/lVagipR84dS0TlTDkQPHu46Il0aVifFi2KExh9Kdi2Y.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=54c13334d567200d5665503154a968fd1f5e8306\" title=\"MiniCPM 4.6\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/themrzmaster\"> /u/themrzmaster </a> <br /> <span><a href=\"https://huggingface.co/openbmb/MiniCPM-V-4.6\">[link]<",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-12T03:58:35"
-    },
-    {
       "source": "HN Local AI",
       "title": "Forget the AI job apocalypse. AIs real threat is worker control and surveillance",
       "url": "https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance",
@@ -2821,24 +2776,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "That's a good news...",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1teqnf2/thats_a_good_news/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-16T11:09:36+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1teqnf2/thats_a_good_news/\"> <img alt=\"That's a good news...\" src=\"https://preview.redd.it/40kc44wjfh1h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f8e77ffcf44d52c513fec8d0c1f207e19213725\" title=\"That's a good news...\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Looks like it finally happens... MTP getting approved for llama.cpp.</p> <p>Time to prepare for the update.</p> </div><!-- SC_ON --> &#32; submitted by",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-05-16T22:42:42"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "MTP PR Merged!!!",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1terzq4/mtp_pr_merged/",
       "primary_category": "GUIDE",
@@ -3661,7 +3598,96 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-19T03:52:18"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "The Four Horsemen of the LLM Apocalypse",
+      "url": "https://anarc.at/blog/2026-05-16-four-horsemen/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 17 May 2026 19:58:27 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-19T07:09:06"
+    },
+    {
+      "source": "r/ollama",
+      "title": "There's something terribly wrong with Ollama's usage limits",
+      "url": "https://www.reddit.com/r/ollama/comments/1tgwx43/theres_something_terribly_wrong_with_ollamas/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-18T18:50:55+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1tgwx43/theres_something_terribly_wrong_with_ollamas/\"> <img alt=\"There's something terribly wrong with Ollama's usage limits\" src=\"https://preview.redd.it/mjk6yo7vyx1h1.png?width=140&amp;height=94&amp;auto=webp&amp;s=33f9d8edc1cc2bc650942a405cbaa42722ca6cf5\" title=\"There's something terribly wrong with Ollama's usage limits\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/mjk6yo7vyx1h1.png?wi",
+      "extra": {},
+      "collected_at": "2026-05-19T07:09:07"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Is 12+second latency typical?",
+      "url": "https://www.reddit.com/r/ollama/comments/1th20rf/is_12second_latency_typical/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-18T21:32:44+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1th20rf/is_12second_latency_typical/\"> <img alt=\"Is 12+second latency typical?\" src=\"https://preview.redd.it/s74lqlx3sy1h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ed18b91389c4ee208a894f6ea3937a9b85409f3\" title=\"Is 12+second latency typical?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hello, is it typical for latency on ollama models to be this high (ranging from 12-20+ seconds)? I'm calling ollama through a pyt",
+      "extra": {},
+      "collected_at": "2026-05-19T07:09:07"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 18 May 2026 21:29:31 +0000",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-19T07:09:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "SizzleAir",
+      "url": "https://www.producthunt.com/products/sizzleair",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Thermal assistant for fanless MacBook Airs </p> <p> <a href=\"https://www.producthunt.com/products/sizzleair?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1149062?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-19T07:09:09"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Still happy for yall",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1th1mqx/still_happy_for_yall/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-18T21:19:14+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1th1mqx/still_happy_for_yall/\"> <img alt=\"Still happy for yall\" src=\"https://preview.redd.it/hop70iuspy1h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1247c8a71e72cdacd2a68ff323ee68a546e38d04\" title=\"Still happy for yall\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SilverRegion9394\"> /u/SilverRegion9394 </a> <br /> <span><a href=\"https://i.redd.it/hop70iuspy1h1.png\">[link]</a></span> &",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-19T07:09:10"
     }
   ],
-  "updated_at": "2026-05-19T03:52:20.646550+09:00"
+  "updated_at": "2026-05-19T07:09:10.286033+09:00"
 }
