@@ -14759,34 +14759,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-16-accenture-google-cloud-gemini-agentic-transformation",
-    "title": "アクセンチュアとGoogle Cloudの提携拡大は、生成AIが単なる「回答マシン」から業務を自律的に遂行する「エージェント」へと進化する分岐点になります。200万トークンの長大なコンテキスト窓を持つGemini 1.5 Proを、アクセンチュアのコンサルティング網で全社規模の基幹システムへ流し込む動きは、既存のRAG（検索拡張生成）のあり方を根本から変える可能性を秘めています。",
-    "url": "https://ai.negi-lab.com/posts/accenture-google-cloud-gemini-agentic-transformation/",
-    "category": "NEWS",
-    "viral_tags": "#Gemini #GoogleCloud",
-    "tweet_text": "アクセンチュアとGoogle Cloudの協業拡大で、Gemini Enterpriseを活用した「エージェント型変革」が加速。Gemini 1.5 Proの200万トークンはRAGの限界を突破する。1万ページのドキュメントを丸ごと読み込む力技が、企業の基幹システム連携でどう化けるか。開発者はVertex AI Agent Builderを今すぐ触るべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-16-accenture-google-cloud-gemini-agentic-transformation.jpg",
-    "created_at": "2026-05-16T22:43:05.761455+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-17-local-llm-gpu-power-limit-guide",
-    "title": "ローカルLLM用GPUの賢い選び方と運用術！電力制限で電気代を削りつつ性能を維持する設定の正解",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-power-limit-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #GPU選び",
-    "tweet_text": "ローカルLLM用にRTX 4090を買うのは最高だけど、電力を450Wフルで食わせるのは無駄。推論のボトルネックは演算器よりメモリ帯域なので、PLを60%に絞っても速度低下は5%未満。\n\nこれだけで電気代は月数千円安くなり、ファンも静か。24時間稼働のAIサーバーなら必須の設定。今から揃えるなら4060 Ti 16GBの2枚挿しをPL制限して使うのが実務上の最適解ですね。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-17-local-llm-gpu-power-limit-guide.jpg",
-    "created_at": "2026-05-17T02:54:53.440609+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-17-gemma-31b-local-llm-gpu-guide-rtx4090-mac",
     "title": "ローカルLLM用GPUの選び方｜Gemma 31Bを動かすRTX 4090 vs Mac比較",
     "url": "https://ai.negi-lab.com/posts/gemma-31b-local-llm-gpu-guide-rtx4090-mac/",
@@ -14799,20 +14771,6 @@
     "image_path": "/images/posts/2026-05-17-gemma-31b-local-llm-gpu-guide-rtx4090-mac.jpg",
     "created_at": "2026-05-17T06:58:55.896961+09:00",
     "posted": true
-  },
-  {
-    "article_id": "2026-05-17-awslabs-agent-plugins-aws-ai-review",
-    "title": "awslabs/agent-plugins レビュー AWS操作を自動化するAIエージェントの新標準",
-    "url": "https://ai.negi-lab.com/posts/awslabs-agent-plugins-aws-ai-review/",
-    "category": "TOOL",
-    "viral_tags": "#AWS #AIエージェント",
-    "tweet_text": "AWS操作をAIエージェントに丸投げできる「awslabs/agent-plugins」が熱い。MCP対応でClineやClaude Desktopから直接S3作成やログ取得が可能。CLI結果をコピペする時代は終わった。\nただしIAM権限管理をミスると爆速で課金リソースを立てられる諸刃の剣。AWS中級者以上は検証必須。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-17-awslabs-agent-plugins-aws-ai-review.jpg",
-    "created_at": "2026-05-17T13:07:12.473958+09:00",
-    "posted": false
   },
   {
     "article_id": "2026-05-17-local-qwen-coder-html-canvas-tutorial",
@@ -14896,7 +14854,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-18-ollama-vs-claude-code-gpu-guide.jpg",
     "created_at": "2026-05-18T07:02:44.226502+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-18-shadowbroker-osint-ai-agent-review",
