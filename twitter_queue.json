@@ -14939,5 +14939,19 @@
     "image_path": "/images/posts/2026-05-18-dreamserver-local-ai-full-review-tutorial.jpg",
     "created_at": "2026-05-18T19:11:01.323813+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-18-qwen-3-6-27b-24gb-vram-optimization-guide",
+    "title": "RTX 3090/4090でQwen 3.6 27Bを爆速で動かす方法",
+    "url": "https://ai.negi-lab.com/posts/qwen-3-6-27b-24gb-vram-optimization-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "RTX 3090/4090 1枚でQwen 3.6 27Bを爆速化。ik_llama.cppとMTPを組み合わせれば、24GB VRAMでも15万コンテキスト＆秒間72トークン超えを実現。本家llama.cppより圧倒的に速い。プレフィル1200 tok/s超えはもはや魔法。個人開発者が今組むべき最強のローカルLLM推論環境をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-18-qwen-3-6-27b-24gb-vram-optimization-guide.jpg",
+    "created_at": "2026-05-18T21:30:32.499950+09:00",
+    "posted": false
   }
 ]
