@@ -14981,5 +14981,19 @@
     "image_path": "/images/posts/2026-05-19-chert-imessage-ai-agent-review-guide.jpg",
     "created_at": "2026-05-19T18:51:55.252556+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-19-qwen-coder-local-setup-python-refactor",
+    "title": "Qwen2.5-Coder 使い方 | ローカルでコード生成AIを動かす",
+    "url": "https://ai.negi-lab.com/posts/qwen-coder-local-setup-python-refactor/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "Qwen2.5-Coder 32Bをローカルで動かしたが、コード生成性能は完全に実用レベル。VRAM 24GBあれば4bit量子化で爆速。\n既存プロジェクトの全ファイルに自動で型ヒントを付け、バグを修正するPythonスクリプトを組んだ。\n外部にコードを出せない現場こそ、Ollamaでプライベートな開発環境を構築すべき。機密保持と効率化は両立できる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-19-qwen-coder-local-setup-python-refactor.jpg",
+    "created_at": "2026-05-19T21:11:14.472950+09:00",
+    "posted": false
   }
 ]
