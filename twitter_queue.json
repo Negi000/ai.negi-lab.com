@@ -14773,34 +14773,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-17-llamacpp-mtp-qwen3-rtx5090-setup-guide",
-    "title": "llama.cppのMTPサポートを使いRTX 5090でQwen 3.6を爆速で動かす方法",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-mtp-qwen3-rtx5090-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #RTX5090",
-    "tweet_text": "RTX 5090×llama.cppのMTPサポートが異次元。Qwen 3.6の72Bモデルで150 token/sec超えを記録。従来の1トークンずつ予測する常識を、32GB VRAMの暴力的な演算力で「複数同時予測」に書き換える快感。推論待機時間が消える。仕事で使えるローカルLLMの完成形がこれ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-17-llamacpp-mtp-qwen3-rtx5090-setup-guide.jpg",
-    "created_at": "2026-05-17T17:25:24.049452+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-17-fere-ai-crypto-polymarket-agent-review",
-    "title": "Fere AI 使い方と実務レビュー：暗号資産と予測市場を自律エージェントで攻略する",
-    "url": "https://ai.negi-lab.com/posts/fere-ai-crypto-polymarket-agent-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #Polymarket",
-    "tweet_text": "Polymarketやクリプトの取引をAIエージェント化するFere AIを検証。\nニュースの「文脈」をLLMが解釈して数秒で発注まで繋げる。\n従来、Twitter監視→ネガポジ判定→API発注と数日かかった実装が、戦略の言語化だけで完結するのが最大の衝撃。\nただ、LLMのハルシネーションによる誤発注リスクはある。全自動より「人間が最後に承認する」フローが実務では現実的。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-17-fere-ai-crypto-polymarket-agent-review.jpg",
-    "created_at": "2026-05-17T19:22:25.904432+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-17-ai-gold-rush-haves-and-have-nots-strategy",
     "title": "AIバブル崩壊の予兆か？巨大資本と個人開発者の「格差」を突破する実務的戦略",
     "url": "https://ai.negi-lab.com/posts/ai-gold-rush-haves-and-have-nots-strategy/",
@@ -14815,20 +14787,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-18-webwright-local-llm-gpu-comparison-guide",
-    "title": "ローカルLLMでブラウザ操作 WebWright用PCおすすめ比較 買う前に知るべきVRAMの壁",
-    "url": "https://ai.negi-lab.com/posts/webwright-local-llm-gpu-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #WebWright",
-    "tweet_text": "ローカルLLMでブラウザを自動操作するWebWright、実務投入するならVRAM 8GBでは話になりません。DOM解析で一気にコンテキストを消費するため、RTX 4060 Ti 16GBが最低ライン。推論速度がブラウザの挙動に直結するので、ここをケチるとエージェントが迷子になります。買う前にVRAM容量とバス幅だけは死守すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-18-webwright-local-llm-gpu-comparison-guide.jpg",
-    "created_at": "2026-05-18T02:57:42.842924+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-18-ollama-vs-claude-code-gpu-guide",
     "title": "Claude Codeをローカルで動かす？OllamaとRTX/MacBook Pro比較・選び方",
     "url": "https://ai.negi-lab.com/posts/ollama-vs-claude-code-gpu-guide/",
@@ -14841,20 +14799,6 @@
     "image_path": "/images/posts/2026-05-18-ollama-vs-claude-code-gpu-guide.jpg",
     "created_at": "2026-05-18T07:02:44.226502+09:00",
     "posted": true
-  },
-  {
-    "article_id": "2026-05-18-shadowbroker-osint-ai-agent-review",
-    "title": "Shadowbroker OSINTとAIを融合させた次世代追跡ツール",
-    "url": "https://ai.negi-lab.com/posts/shadowbroker-osint-ai-agent-review/",
-    "category": "TOOL",
-    "viral_tags": "#OSINT #AIエージェント",
-    "tweet_text": "航空機・衛星・地震情報を一元化するShadowbrokerが面白い。単なる統合UIではなくAI Agentを接続して「特定のフライト後に発生した異常事態」を自動抽出する推論前提の設計。\n構築はDocker必須で中級者向けだけど、OSINTをLLMでハックしたい勢には唯一無二のツール。月額$20のAPI代を払う価値は十分にある。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-18-shadowbroker-osint-ai-agent-review.jpg",
-    "created_at": "2026-05-18T13:19:24.973771+09:00",
-    "posted": false
   },
   {
     "article_id": "2026-05-18-local-llm-hardware-performance-simulator-guide",
@@ -14938,7 +14882,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-19-llama-cpp-mtp-support-gpu-comparison.jpg",
     "created_at": "2026-05-19T03:52:46.436302+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-19-qwen-3-7-local-llm-setup-guide",
