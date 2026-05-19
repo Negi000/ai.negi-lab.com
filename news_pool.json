@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 12 May 2026 18:05:15 +0000",
-      "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-05-13T03:56:20"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Hopper",
-      "url": "https://www.producthunt.com/products/hopper-4",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> First agentic development environment for mainframe/COBOL </p> <p> <a href=\"https://www.producthunt.com/products/hopper-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1143972?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-13T03:56:21"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Seer Platform",
-      "url": "https://www.producthunt.com/products/seer-platform",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The fastest way to go from idea to physical product </p> <p> <a href=\"https://www.producthunt.com/products/seer-platform?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1117505?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-13T03:56:21"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Let's build claude code from scratch!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb6nkx/lets_build_claude_code_from_scratch/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-12T16:25:14+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tb6nkx/lets_build_claude_code_from_scratch/\"> <img alt=\"Let's build claude code from scratch!\" src=\"https://preview.redd.it/ass571o3gq0h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=10e9b12b472366428c8a5ea4c0882512029b4121\" title=\"Let's build claude code from scratch!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>So, I made this video about how to create claude code from scratch.</p> <p>Here's the video: <a href=",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-05-13T03:56:22"
-    },
-    {
       "source": "HN AI Companies",
       "title": "Reimagining the mouse pointer for the AI era",
       "url": "https://deepmind.google/blog/ai-pointer/",
@@ -3328,20 +3265,6 @@
       "collected_at": "2026-05-19T21:10:22"
     },
     {
-      "source": "r/ollama",
-      "title": "newb question, keeping models in ram(as storage) instead of fully flushing",
-      "url": "https://www.reddit.com/r/ollama/comments/1thmxh0/newb_question_keeping_models_in_ramas_storage/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-19T13:25:24+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>so i am a basic ollama user, i just install the app, use open webui and thats it. my question is this; i am thinking of using deepseek r1 as planning model and qwen 3.6 35b unsloth one for coding in Cline in Vscode. since i have just a 5090 and 128gb system ram, instead of constantly offloading the model fully and reading from ssd, i though maybe i can use my ram as the storage, keep the models there, and load/unload models from/to ram instead?</p> <p>I am not a",
-      "extra": {},
-      "collected_at": "2026-05-20T00:35:14"
-    },
-    {
       "source": "Product Hunt",
       "title": "PollyReach",
       "url": "https://www.producthunt.com/products/pollyreach",
@@ -3481,7 +3404,84 @@
         "revenue_score": 5
       },
       "collected_at": "2026-05-20T02:27:35"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Gemini 3.5 Flash: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 19 May 2026 17:49:50 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-20T04:00:49"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google’s Genie world model can now simulate real streets with Street View",
+      "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 19 May 2026 17:51:39 +0000",
+      "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-20T04:00:51"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Composer 2.5",
+      "url": "https://www.producthunt.com/products/cursor",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Cursor’s most powerful model yet </p> <p> <a href=\"https://www.producthunt.com/products/cursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1150337?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-20T04:00:51"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "CLI Market",
+      "url": "https://www.producthunt.com/products/cli-market",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> 3,760 retailers, one API for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/cli-market?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1150344?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-20T04:00:51"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "A tool I built to generate 3D objects with functional, articulated parts. It's on github, and is mostly LLM-agnostic.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thucyj/a_tool_i_built_to_generate_3d_objects_with/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-19T17:43:27+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1thucyj/a_tool_i_built_to_generate_3d_objects_with/\"> <img alt=\"A tool I built to generate 3D objects with functional, articulated parts. It's on github, and is mostly LLM-agnostic.\" src=\"https://external-preview.redd.it/ZXNuMnBpM2hqNDJoMQv9KINdfUtU8FSh_q-ZFdhgI7b9a46voEfpqTfrcW8j.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aeef1330aa97af5f46ee71d25471652a3b9e1af1\" title=\"A tool I built to generate 3D objects with functi",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-20T04:00:53"
     }
   ],
-  "updated_at": "2026-05-20T02:27:35.976257+09:00"
+  "updated_at": "2026-05-20T04:00:53.152734+09:00"
 }
