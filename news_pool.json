@@ -2,53 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Dessn raises $6M for its production focused design tool",
-      "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 12 May 2026 13:00:00 +0000",
-      "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
-      "extra": {
-        "revenue_score": -4
-      },
-      "collected_at": "2026-05-12T23:34:53"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "zubhai",
-      "url": "https://www.producthunt.com/products/zubhai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> LeetCode for AI Skills </p> <p> <a href=\"https://www.producthunt.com/products/zubhai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1137819?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-12T23:34:54"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "examples : add llama-eval by ggerganov · Pull Request #21152 · ggml-org/llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tb0uln/examples_add_llamaeval_by_ggerganov_pull_request/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-12T12:57:10+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tb0uln/examples_add_llamaeval_by_ggerganov_pull_request/\"> <img alt=\"examples : add llama-eval by ggerganov · Pull Request #21152 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/sVrKFWlZw1Wn0xp-cveiGwMP8_UbhQPJwSHrl63r5mQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d6ecce0b5e045f66cf69383102d687b692e15221\" title=\"examples : add llama-eval by ggerganov · Pull Request #21152 · ggml-org/llama.cpp\" /> </a> </td>",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-05-12T23:34:55"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Threads tests a Meta AI integration that works similarly to Grok",
       "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
       "primary_category": "NEWS",
@@ -3377,22 +3330,6 @@
       "collected_at": "2026-05-19T18:51:18"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen is cooking hard",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1theffd/qwen_is_cooking_hard/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-19T06:28:31+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1theffd/qwen_is_cooking_hard/\"> <img alt=\"Qwen is cooking hard\" src=\"https://preview.redd.it/cefjio15g12h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f987de9cb2869e523a057785b1ad5e17ca72f324\" title=\"Qwen is cooking hard\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I am waiting for 122B and new 27B</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jacek2023\"> /u/jacek2023 </a>",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-05-19T18:51:19"
-    },
-    {
       "source": "r/ollama",
       "title": "I'm using a 1M context model in Ollama, but it shows as 200K in the Claude code. how can I change it to 1M?",
       "url": "https://www.reddit.com/r/ollama/comments/1thjjm0/im_using_a_1m_context_model_in_ollama_but_it/",
@@ -3483,7 +3420,100 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-19T21:10:22"
+    },
+    {
+      "source": "r/ollama",
+      "title": "newb question, keeping models in ram(as storage) instead of fully flushing",
+      "url": "https://www.reddit.com/r/ollama/comments/1thmxh0/newb_question_keeping_models_in_ramas_storage/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-19T13:25:24+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>so i am a basic ollama user, i just install the app, use open webui and thats it. my question is this; i am thinking of using deepseek r1 as planning model and qwen 3.6 35b unsloth one for coding in Cline in Vscode. since i have just a 5090 and 128gb system ram, instead of constantly offloading the model fully and reading from ssd, i though maybe i can use my ram as the storage, keep the models there, and load/unload models from/to ram instead?</p> <p>I am not a",
+      "extra": {},
+      "collected_at": "2026-05-20T00:35:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "PollyReach",
+      "url": "https://www.producthunt.com/products/pollyreach",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Give your agent a real number and voice to make calls. </p> <p> <a href=\"https://www.producthunt.com/products/pollyreach?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1135604?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-20T00:35:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "imgproxy v4",
+      "url": "https://www.producthunt.com/products/imgproxy",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A fast and secure self-hosted image processing server </p> <p> <a href=\"https://www.producthunt.com/products/imgproxy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1144511?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-20T00:35:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "CaseGap AI",
+      "url": "https://www.producthunt.com/products/casegap-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Find law firm revenue leaks, then fix them </p> <p> <a href=\"https://www.producthunt.com/products/casegap-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1149215?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-20T00:35:16"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "bytedance released an open source model that attempts to do just about anything with only 3b parameters",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thkwgk/bytedance_released_an_open_source_model_that/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-19T12:05:26+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1thkwgk/bytedance_released_an_open_source_model_that/\"> <img alt=\"bytedance released an open source model that attempts to do just about anything with only 3b parameters\" src=\"https://external-preview.redd.it/kaGMQ70M3hGs07RJlVJQwt0Ai7SVhypy0S1f2tj0Lpg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7360446da961a3637d4889872b2190e6173e36aa\" title=\"bytedance released an open source model that attempts to do just about anythin",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-20T00:35:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "got my first \"rm -rf /\" today",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thosnt/got_my_first_rm_rf_today/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-05-19T14:33:13+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Agent decided to test if harmful command block worked by issuing a rm -rf /</p> <p>Thankfully it worked so only damage was a mild heart attack.</p> <p>I implemented a sandbox immediately afterwards.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DeltaSqueezer\"> /u/DeltaSqueezer </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1thosnt/got_my_first_rm_rf_today/\">[link]</a></span> &#32; <span><a href=\"h",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-05-20T00:35:17"
     }
   ],
-  "updated_at": "2026-05-19T21:10:22.751767+09:00"
+  "updated_at": "2026-05-20T00:35:17.486869+09:00"
 }
