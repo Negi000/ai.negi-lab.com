@@ -1,151 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "Forget the AI job apocalypse. AIs real threat is worker control and surveillance",
-      "url": "https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 11 May 2026 12:06:02 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-12T07:15:45"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "I work in Hollywood. Everyone who used to make TV is now training AI",
-      "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 11 May 2026 11:05:04 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-12T07:15:45"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "A.I. note takers are making lawyers nervous",
-      "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 11 May 2026 10:04:47 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-12T07:15:45"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Ollama Cloud with Deepseek rate limit",
-      "url": "https://www.reddit.com/r/ollama/comments/1ta3mpv/ollama_cloud_with_deepseek_rate_limit/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-11T13:40:00+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I join Ollama Cloud Pro recently because of GitHub Copilot changed their game.</p> <p>And I found if I use some large model like Deepseek V4 Pro, it easily keeps show &quot;Server overloaded, please retry shortly&quot; / &quot;Rate limit exceeded&quot; error message, even my Session usage / Weekly usage is way below 100%.</p> <p>Is their infrastructure cannot fulfill the user, or there is another &quot;hidden limit&quot; like GitHub do?</p> </div><!-- SC_ON --> ",
-      "extra": {},
-      "collected_at": "2026-05-12T07:15:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Graphbit PRFlow",
-      "url": "https://www.producthunt.com/products/graphbit",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> AI code reviewer that catches what others miss </p> <p> <a href=\"https://www.producthunt.com/products/graphbit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1052099?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-05-12T07:15:47"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I catalogued every way local models break JSON output and built a repair library, here's what I found across 288 model calls",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tagtpv/i_catalogued_every_way_local_models_break_json/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-05-11T21:17:18+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been running structured output prompts through a bunch of models on OpenRouter for the past few months — Llama 3, Mistral, Command R, DeepSeek, Qwen, and every other model on OpenRouter — alongside the usual closed-source suspects. 288 calls total. I wanted to know what actually breaks, how often, and whether open models fail differently from the API-only ones.</p> <p>Short answer: not really. The failure modes are almost identical across the board. The <em",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-05-12T07:15:48"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Claude Platform on AWS",
-      "url": "https://claude.com/blog/claude-platform-on-aws",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 12 May 2026 01:24:29 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-12T12:53:12"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-      "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 12 May 2026 00:09:01 +0000",
-      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-05-12T12:53:15"
-    },
-    {
-      "source": "Google News",
-      "title": "OpenAIが攻撃者より先に脆弱性を検知・修正するセキュリティAI「Daybreak」を発表 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HZXpFX05uQzJRaDd3OUdMR1p0M2VtdF9xcjNWd2d5bFd0QnBhTldWN0hQWUhXaFEwVjNoUFpNMkx3bm84WFVTTnZSbTdPOHNrd0FNbWhYdmVzaHBlRnZxRg?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 12 May 2026 01:38:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HZXpFX05uQzJRaDd3OUdMR1p0M2VtdF9xcjNWd2d5bFd0QnBhTldWN0hQWUhXaFEwVjNoUFpNMkx3bm84WFVTTnZSbTdPOHNrd0FNbWhYdmVzaHBlRnZxRg?oc=5\" target=\"_blank\">OpenAIが攻撃者より先に脆弱性を検知・修正するセキュリティAI「Daybreak」を発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-12T12:53:16"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Known Agents",
-      "url": "https://www.producthunt.com/products/known-agents",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Track the bots and AI agents crawling your website </p> <p> <a href=\"https://www.producthunt.com/products/known-agents?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1134590?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-05-12T12:53:17"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Thinking Machines wants to build an AI that actually listens while it talks",
       "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
@@ -3499,23 +3354,6 @@
       "collected_at": "2026-05-19T02:18:49"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen cant wait to release 3.7 models",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgrpqc/qwen_cant_wait_to_release_37_models/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-05-18T16:25:14+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tgrpqc/qwen_cant_wait_to_release_37_models/\"> <img alt=\"Qwen cant wait to release 3.7 models\" src=\"https://preview.redd.it/os2dyrbn9x1h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d278db2c380c7dc3b22022b30ef511e715977ee\" title=\"Qwen cant wait to release 3.7 models\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/GotHereLateNameTaken\"> /u/GotHereLateNameTaken </a> <br /> <span><a href=\"",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-05-19T02:18:50"
-    },
-    {
       "source": "HN AI Companies",
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
@@ -3687,7 +3525,52 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-19T07:09:10"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
+      "url": "https://vas-blog.pages.dev/qwen-censorship/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Tue, 19 May 2026 00:16:31 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-19T13:13:10"
+    },
+    {
+      "source": "Google News",
+      "title": "「Claude Mythos」などの高度化したAIを踏まえたセキュリティ対策パッケージ「Project YATA-Shield」、政府が発表 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15SExuMk9FcnE1dDhlZDJhYmhHZEItZ1ZIc21fNUgwY0JyZTRVUV9QemRDYWcyYUpwakdKLWdKM3k4blZZV05KVlVYdW9vei1Vc2ZoYWxuX2lxTm54SUZMUmIxSVV2R0QyVjA4?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Mon, 18 May 2026 21:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE15SExuMk9FcnE1dDhlZDJhYmhHZEItZ1ZIc21fNUgwY0JyZTRVUV9QemRDYWcyYUpwakdKLWdKM3k4blZZV05KVlVYdW9vei1Vc2ZoYWxuX2lxTm54SUZMUmIxSVV2R0QyVjA4?oc=5\" target=\"_blank\">「Claude Mythos」などの高度化したAIを踏まえたセキュリティ対策パッケージ「Project YATA-Shield」、政府が発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">INTERNET Watch</font>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-19T13:13:14"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Memory expert suspects RAM price drop in 2027'H2 due to china heavy investments",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1th3r5q/memory_expert_suspects_ram_price_drop_in_2027h2/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-05-18T22:32:20+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Quote: ..., the former executive remarked that Chinese companies are investing aggressively to boost their memory chip production. According to him, if these investments are successful and lead to an increase in output, then the surge in supply could cause prices to fall a year from now in the second half of next year. <a href=\"https://wccftech.com/ex-samsung-chip-boss-says-chinas-dram-blitz-could-crush-the-414-ddr5-price-spike-within-a-year/\">https://wccftech.c",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-05-19T13:13:15"
     }
   ],
-  "updated_at": "2026-05-19T07:09:10.286033+09:00"
+  "updated_at": "2026-05-19T13:13:15.181037+09:00"
 }
