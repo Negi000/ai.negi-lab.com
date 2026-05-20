@@ -14995,5 +14995,19 @@
     "image_path": "/images/posts/2026-05-21-local-llm-hardware-guide-ollama-rtx-comparison.jpg",
     "created_at": "2026-05-21T04:25:48.311761+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-21-qwen-27b-local-setup-ollama-python",
+    "title": "Qwen 27Bクラスをローカル環境で爆速動作させる方法",
+    "url": "https://ai.negi-lab.com/posts/qwen-27b-local-setup-ollama-python/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "Qwenから27Bモデル登場の噂。VRAM 16GBのGPU1枚で「32Bの知能」と「14Bの速度」を両立できるスイートスポットになるはず。\n\n実務で使うなら、Ollama + PythonでPDFやコードを自動解析する環境を今から組んでおくのが正解。RTX 3090/4090ならQwen-2.5-32Bも即戦力で動く。買う前にVRAM容量だけは妥協しちゃダメ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-21-qwen-27b-local-setup-ollama-python.jpg",
+    "created_at": "2026-05-21T07:40:21.322837+09:00",
+    "posted": false
   }
 ]

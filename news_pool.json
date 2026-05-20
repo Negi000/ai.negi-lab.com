@@ -1,78 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Show HN: Reducing LLM input tokens by 70%",
-      "url": "https://adola.app/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 12 May 2026 15:18:33 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-14T07:21:32"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Ollama Cloud Pro vs Opencode Go vs Codex Plus ?",
-      "url": "https://www.reddit.com/r/ollama/comments/1tc51q3/ollama_cloud_pro_vs_opencode_go_vs_codex_plus/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-13T16:36:54+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm a former GitHub Copilot $10/month user.</p> <p>I recently subscribed to <strong>Opencode Go</strong> for their first-month promotional offer at $5, and I've been enjoying it without any model or speed issues. However, the usage limits feel too low for my workflow—I'd like at least double the quota. Unfortunately, there's no $20 tier available for Opencode Go.</p> <p>I'm also currently using the free trial month of <strong>OpenAI Codex Plus</strong>. It works",
-      "extra": {},
-      "collected_at": "2026-05-14T07:21:33"
-    },
-    {
-      "source": "r/ollama",
-      "title": "We built a tool that installs frameworks like ComfyUI, Ollama, OpenWebUI etc on any cloud GPU in one command and saves your whole setup between sessions",
-      "url": "https://www.reddit.com/r/ollama/comments/1tcd7cs/we_built_a_tool_that_installs_frameworks_like/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-13T21:17:33+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We kept running into the same problem every time we rented a GPU to run Ollama + OpenWebUI or ComfyUI, we'd spend the first 45 minutes reinstalling everything. Custom nodes, models, configs, all of it. Docker images went stale fast, different providers had different base images, and nothing was truly portable. We got sick of it and built swm.</p> <p>Here's what it does for ComfyUI users specifically:</p> <p>swm gpus -g a100 --max-price 2.00 --sort price shows yo",
-      "extra": {},
-      "collected_at": "2026-05-14T07:21:33"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Notion just turned its workspace into a hub for AI agents",
-      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Wed, 13 May 2026 21:45:09 +0000",
-      "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-05-14T07:21:34"
-    },
-    {
-      "source": "Google News",
-      "title": "あるビットコイナーが古いコンピューターのファイルをClaude AIに投入し、2015年から行方不明になっていた5BTCを取り戻しました - Bitcoin News",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNalktbzNHRFRxU2xjdkxnWUpqRERMbGlqbXNuaW1MSXRGWUQ4V2tiY19JMHFPMHJUZFV4M3k1X014clp4NU9CcWxnTnBwLWlZdnN4WjA2SF9XRWFqTXJId2pScUJycld4MTBPb1FRRjNmU0Nab0ppclVsTDRZSTlWY3RpMWpYSENMZDB5TXczVnZFdlo4TFJLcHdoZ1dLdVRiUERQVWZNR3k5RTV3b2pYeC1VWmFSUENLOWJEZFNqd3FxZnNhb0lFUENxQmNlUUozVV9IcFhvem02R1FPMTFQTFBibmFoQ0I0NGZVa1VlZlZmRGh3SndZ?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 13 May 2026 20:27:48 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNalktbzNHRFRxU2xjdkxnWUpqRERMbGlqbXNuaW1MSXRGWUQ4V2tiY19JMHFPMHJUZFV4M3k1X014clp4NU9CcWxnTnBwLWlZdnN4WjA2SF9XRWFqTXJId2pScUJycld4MTBPb1FRRjNmU0Nab0ppclVsTDRZSTlWY3RpMWpYSENMZDB5TXczVnZFdlo4TFJLcHdoZ1dLdVRiUERQVWZNR3k5RTV3b2pYeC1VWmFSUENLOWJEZFNqd3FxZnNhb0lFUENxQmNlUUozVV9IcFhvem02R1FPMTFQTFBibmFoQ0I0NGZVa1VlZlZmRGh3SndZ?oc=5\" target=\"_blank\">あるビットコイナーが古いコンピューターのファイルをClaude AIに投入し、2015年から行方不明になっていた5BTCを取り戻しました</a>&nbsp;&nbsp;<font color",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-14T07:21:34"
-    },
-    {
       "source": "r/ollama",
       "title": "Will Ollama come out with a non-cloud version of Deepseek-v4 Flash?",
       "url": "https://www.reddit.com/r/ollama/comments/1tcfig0/will_ollama_come_out_with_a_noncloud_version_of/",
@@ -3324,20 +3252,6 @@
       "collected_at": "2026-05-21T02:42:01"
     },
     {
-      "source": "r/ollama",
-      "title": "After 1 month use of ollama cloud, here is my price experience",
-      "url": "https://www.reddit.com/r/ollama/comments/1tiicgs/after_1_month_use_of_ollama_cloud_here_is_my/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-20T11:06:23+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1tiicgs/after_1_month_use_of_ollama_cloud_here_is_my/\"> <img alt=\"After 1 month use of ollama cloud, here is my price experience\" src=\"https://preview.redd.it/9hyo0sf8x92h1.png?width=140&amp;height=24&amp;auto=webp&amp;s=5656269a5f19145376b54ae28365b8724d52a9b0\" title=\"After 1 month use of ollama cloud, here is my price experience\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/9hyo0sf8x92h1.",
-      "extra": {},
-      "collected_at": "2026-05-21T04:25:17"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "OpenAI barrels toward IPO that may happen in September",
       "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
@@ -3367,7 +3281,133 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-21T04:25:19"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Local LLM - privacy first - doctor",
+      "url": "https://www.reddit.com/r/ollama/comments/1tixsbw/local_llm_privacy_first_doctor/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-20T20:23:44+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I need some advice. I’m a family doctor and I’d like to use a local model to help me reconstruct the medical history of my new patients the day before their appointment.</p> <p>Here’s the idea: for each patient, I paste the text content of their available medical reports (without personal information) into the chat and ask the model to generate a short summary of the patient’s medical history and the tests performed, along with their results. Being able to get a",
+      "extra": {},
+      "collected_at": "2026-05-21T07:39:30"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 20 May 2026 22:30:45 +0000",
+      "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-05-21T07:39:32"
+    },
+    {
+      "source": "Google News",
+      "title": "IBM×とMIT、研究ラボを10年延長 - AIから量子へ拡張、Watsonの名称は廃止 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1J4X3lFWGhTUV8yUkQ4RnQwLS1zdVp0WmFOYXBTYVVqUGh2RVZVRjNUUzk0UG1uOHEwT1dlQU1JcElmZHIteE5JYnBvblZLZ0FVUGlnZDRDQjUzempyTXZCTU5ST3BMWFFMOEdGTDR3d3RvYl9LdHFWcW9lR0JPZ0pQOWNlZkRPMjd0b3NKSV9tX2lxZmhBSUVhcDhnOGhGSkI5bDktZm14THZ6clVwYVpwNG1TVEtBWDRqei1yVlB3NXlabFZtazVpOUPSAXxBVV95cUxNRzY5bWQyb2dPc1dIaU9RbEJRTlk5OUoxRVkyQWg0ZFlzUEh3UUtqUnUtdk00aHBVcll4ekJyWUFmZy1kQUlMVXk2cDBtbmRDeFN3WElQYUJWN0N2TjhQSFQtNHFJcVpRLWlacFlYNnNsX0FQWjRzS09abVhy?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 20 May 2026 22:35:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQc1J4X3lFWGhTUV8yUkQ4RnQwLS1zdVp0WmFOYXBTYVVqUGh2RVZVRjNUUzk0UG1uOHEwT1dlQU1JcElmZHIteE5JYnBvblZLZ0FVUGlnZDRDQjUzempyTXZCTU5ST3BMWFFMOEdGTDR3d3RvYl9LdHFWcW9lR0JPZ0pQOWNlZkRPMjd0b3NKSV9tX2lxZmhBSUVhcDhnOGhGSkI5bDktZm14THZ6clVwYVpwNG1TVEtBWDRqei1yVlB3NXlabFZtazVpOUPSAXxBVV95cUxNRzY5bWQyb2dPc1dIaU9RbEJRTlk5OUoxRVkyQWg0ZFlzUEh3UUtqUnUtdk00aHBVcll4ekJyWUFmZy1kQUlMVXk2cDBtbmRDeFN3WElQYUJWN0N2TjhQSFQtNHFJcVpRLWlacFlYNnNsX0FQWjRzS09abVhy?oc=5\"",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-21T07:39:32"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tophat by Shopify",
+      "url": "https://www.producthunt.com/products/tophat",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Test mobile CI builds on any device without building locally </p> <p> <a href=\"https://www.producthunt.com/products/tophat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1114679?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-21T07:39:33"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "mailX by mailwarm",
+      "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Email deliverability toolkit for humans and AI agents </p> <p> <a href=\"https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1134267?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-21T07:39:33"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Supercut for Agents",
+      "url": "https://www.producthunt.com/products/supercut",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Permission-aware AI access to recordings and metadata </p> <p> <a href=\"https://www.producthunt.com/products/supercut?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1150811?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-21T07:39:33"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen will release another 27B with high probability",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tiwnpc/qwen_will_release_another_27b_with_high/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-05-20T19:44:24+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tiwnpc/qwen_will_release_another_27b_with_high/\"> <img alt=\"Qwen will release another 27B with high probability\" src=\"https://preview.redd.it/g5uabdvdic2h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=172193e66d89acfac91c3b7b631c2cbeaac09934\" title=\"Qwen will release another 27B with high probability\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://x.com/xiong_hui_chen/status/2057166364436295748?s=4",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-05-21T07:39:34"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Re. what ever happened to Cohere’s Command-A series of models?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tizmar/re_what_ever_happened_to_coheres_commanda_series/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-20T21:25:50+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tizmar/re_what_ever_happened_to_coheres_commanda_series/\"> <img alt=\"Re. what ever happened to Cohere’s Command-A series of models?\" src=\"https://external-preview.redd.it/b3F0dGZnb2wwZDJoMTsJWoGRpb8K6D_vCU3Sclw0OIY-TJEyeyCtwF8tgwtD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e51b5de10df5918bbe53dd9a75ab780f200dff01\" title=\"Re. what ever happened to Cohere’s Command-A series of models?\" /> </a> </td><td> <!-- SC_OFF --><",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-21T07:39:34"
     }
   ],
-  "updated_at": "2026-05-21T04:25:20.605413+09:00"
+  "updated_at": "2026-05-21T07:39:34.184452+09:00"
 }
