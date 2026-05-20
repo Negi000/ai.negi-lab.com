@@ -1,36 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Hyperswitch Prism",
-      "url": "https://www.producthunt.com/products/hyperswitch-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Library to plug-n-switch payment processors </p> <p> <a href=\"https://www.producthunt.com/products/hyperswitch-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1142848?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-13T15:31:32"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ARKAD Wallet",
-      "url": "https://www.producthunt.com/products/arkad-wallet",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The budgeting app you’ll actually use. </p> <p> <a href=\"https://www.producthunt.com/products/arkad-wallet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1122747?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-13T15:31:32"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
@@ -3438,22 +3408,6 @@
       "collected_at": "2026-05-20T13:14:17"
     },
     {
-      "source": "Product Hunt",
-      "title": "Trainer",
-      "url": "https://www.producthunt.com/products/trainer-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Train AI agents by recording your screen </p> <p> <a href=\"https://www.producthunt.com/products/trainer-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1150349?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-05-20T13:14:17"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Intel's Crescent Island PCB Leaks, Showing a Massive Xe3P GPU, 16-Pin Connector, 160GB LPDDR5X as Intel Sidesteps the HBM Shortage",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1thxig9/intels_crescent_island_pcb_leaks_showing_a/",
@@ -3483,7 +3437,40 @@
         "revenue_score": 5
       },
       "collected_at": "2026-05-20T13:14:18"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Haystack",
+      "url": "https://www.producthunt.com/products/haystack-editor",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Review the pull requests that actually need human attention </p> <p> <a href=\"https://www.producthunt.com/products/haystack-editor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1149285?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-05-20T15:55:03"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "LM Studio finally added support for MTP Speculative Decoding",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ti99an/lm_studio_finally_added_support_for_mtp/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-05-20T03:10:58+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ti99an/lm_studio_finally_added_support_for_mtp/\"> <img alt=\"LM Studio finally added support for MTP Speculative Decoding\" src=\"https://preview.redd.it/1uuzjm0ll72h1.png?width=140&amp;height=57&amp;auto=webp&amp;s=988ac9e5fde36be6dd64446d60e2e3da5866306d\" title=\"LM Studio finally added support for MTP Speculative Decoding\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/1uuzjm0ll72h1.png?w",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-20T15:55:04"
     }
   ],
-  "updated_at": "2026-05-20T13:14:18.005411+09:00"
+  "updated_at": "2026-05-20T15:55:04.581814+09:00"
 }

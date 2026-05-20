@@ -14981,5 +14981,19 @@
     "image_path": "/images/posts/2026-05-20-trainer-v2-ai-agent-screen-recording-review.jpg",
     "created_at": "2026-05-20T13:14:49.424758+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-20-intel-crescent-island-160gb-vram-local-llm-guide",
+    "title": "Intelの160GBメモリ搭載GPUを見据えた巨大LLMローカル実行環境の構築方法",
+    "url": "https://ai.negi-lab.com/posts/intel-crescent-island-160gb-vram-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Intel",
+    "tweet_text": "Intelの次世代GPU基板リーク、VRAM 160GB搭載はローカルLLM界隈にとって破壊的なニュース。4090を2枚挿しても48GBな現状、1枚でDeepSeekクラスが動く未来が見えてきた。HBM不足をLPDDR5Xで回避する泥臭い戦略だけど、実務家にはこの物量が一番刺さる。今のうちにllama.cppで巨大モデルを扱う勘所を掴んでおくべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-20-intel-crescent-island-160gb-vram-local-llm-guide.jpg",
+    "created_at": "2026-05-20T15:55:32.205845+09:00",
+    "posted": false
   }
 ]
