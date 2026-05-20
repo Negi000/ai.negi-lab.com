@@ -15009,5 +15009,19 @@
     "image_path": "/images/posts/2026-05-20-regent-ai-agent-version-control-review.jpg",
     "created_at": "2026-05-20T18:39:53.255071+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-20-qwen37-max-local-hybrid-guide",
+    "title": "Qwen3.7 Max APIとローカルLLMを連携させたハイブリッドAIエージェントの構築方法",
+    "url": "https://ai.negi-lab.com/posts/qwen37-max-local-hybrid-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "Qwen3.7 Maxのベンチマークが驚異的。GPT-4oに匹敵する推論能力を持ちながら、APIコストは大幅に安い。\n実務で使うなら、全リクエストをクラウドに投げず、ローカルのQwen 2.5-7Bで難易度判定して「必要な時だけMaxを呼ぶ」ハイブリッド構成が最強。\nRTX 4090環境なら、今後出る27B/35Bでさらに化ける。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-20-qwen37-max-local-hybrid-guide.jpg",
+    "created_at": "2026-05-20T20:49:19.001561+09:00",
+    "posted": false
   }
 ]
