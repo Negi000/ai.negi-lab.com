@@ -15023,5 +15023,19 @@
     "image_path": "/images/posts/2026-05-20-qwen37-max-local-hybrid-guide.jpg",
     "created_at": "2026-05-20T20:49:19.001561+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-21-gemini-1-5-pro-2-million-context-caching",
+    "title": "Gemini 1.5 Proが200万トークン開放。GPT-4oに勝てる唯一の「量」と「安さ」の正体",
+    "url": "https://ai.negi-lab.com/posts/gemini-1-5-pro-2-million-context-caching/",
+    "category": "NEWS",
+    "viral_tags": "#Gemini15Pro #AIエージェント",
+    "tweet_text": "Google Gemini 1.5 Proが200万トークン開放。正直、200万あるとRAGを組む必要性が激減する。\nさらに「コンテキストキャッシュ」が最強。一度読み込ませた大量のコードや動画への質問コストが最大9割も浮く。\n知能のClaude、汎用のGPTに対し、Geminiは「圧倒的な物量とコスパ」で実務をハックしにきた印象。\n開発者は今すぐAI StudioでキャッシュAPIを試すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-21-gemini-1-5-pro-2-million-context-caching.jpg",
+    "created_at": "2026-05-21T00:33:51.650812+09:00",
+    "posted": false
   }
 ]
