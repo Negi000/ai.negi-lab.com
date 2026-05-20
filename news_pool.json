@@ -1,37 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Pipali",
-      "url": "https://www.producthunt.com/products/pipali",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> An AI coworker for any computer work </p> <p> <a href=\"https://www.producthunt.com/products/pipali?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1140637?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-14T03:56:22"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "DramaBox - Most Expressive Voice model ever based on LTX 2.3",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tc5wx1/dramabox_most_expressive_voice_model_ever_based/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-13T17:06:11+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tc5wx1/dramabox_most_expressive_voice_model_ever_based/\"> <img alt=\"DramaBox - Most Expressive Voice model ever based on LTX 2.3\" src=\"https://external-preview.redd.it/OG5vOXczdzRyeDBoMaZImx8z8qFJqSxv1t9XPFkuNJylme49wWg_iPBjkRuz.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=31af6f717c197e4b6e30419a53671d82ff321088\" title=\"DramaBox - Most Expressive Voice model ever based on LTX 2.3\" /> </a> </td><td> <!-- SC_OFF --><div c",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-14T03:56:23"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Show HN: Reducing LLM input tokens by 70%",
       "url": "https://adola.app/",
@@ -2980,19 +2949,6 @@
       "collected_at": "2026-05-20T13:14:14"
     },
     {
-      "source": "r/ollama",
-      "title": "This sub has become a cesspool of vibecoded slop",
-      "url": "https://www.reddit.com/r/ollama/comments/1ti9d91/this_sub_has_become_a_cesspool_of_vibecoded_slop/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-05-20T03:15:52+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We need a bot that automatically rejects any post that begins with &quot;I built a...&quot;</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CynicalTelescope\"> /u/CynicalTelescope </a> <br /> <span><a href=\"https://www.reddit.com/r/ollama/comments/1ti9d91/this_sub_has_become_a_cesspool_of_vibecoded_slop/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1ti9d91/this_sub_has_become_a_cesspool_of",
-      "extra": {},
-      "collected_at": "2026-05-20T13:14:15"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Google just declared itself a contender in AI design at IO 2026",
       "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
@@ -3366,7 +3322,52 @@
         "revenue_score": 7
       },
       "collected_at": "2026-05-21T02:42:01"
+    },
+    {
+      "source": "r/ollama",
+      "title": "After 1 month use of ollama cloud, here is my price experience",
+      "url": "https://www.reddit.com/r/ollama/comments/1tiicgs/after_1_month_use_of_ollama_cloud_here_is_my/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-20T11:06:23+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1tiicgs/after_1_month_use_of_ollama_cloud_here_is_my/\"> <img alt=\"After 1 month use of ollama cloud, here is my price experience\" src=\"https://preview.redd.it/9hyo0sf8x92h1.png?width=140&amp;height=24&amp;auto=webp&amp;s=5656269a5f19145376b54ae28365b8724d52a9b0\" title=\"After 1 month use of ollama cloud, here is my price experience\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/9hyo0sf8x92h1.",
+      "extra": {},
+      "collected_at": "2026-05-21T04:25:17"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI barrels toward IPO that may happen in September",
+      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Wed, 20 May 2026 17:24:24 +0000",
+      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
+      "extra": {
+        "revenue_score": -4
+      },
+      "collected_at": "2026-05-21T04:25:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Type Switch 3.0 for macOS",
+      "url": "https://www.producthunt.com/products/type-switch-3-0-for-macos",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Instant language switching for multilingual Mac users </p> <p> <a href=\"https://www.producthunt.com/products/type-switch-3-0-for-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1149892?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-21T04:25:19"
     }
   ],
-  "updated_at": "2026-05-21T02:42:01.182602+09:00"
+  "updated_at": "2026-05-21T04:25:20.605413+09:00"
 }

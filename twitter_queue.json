@@ -14981,5 +14981,19 @@
     "image_path": "/images/posts/2026-05-21-local-llm-hardware-guide-rtx-vram-comparison.jpg",
     "created_at": "2026-05-21T02:42:25.700001+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-21-local-llm-hardware-guide-ollama-rtx-comparison",
+    "title": "ローカルLLM環境の選び方とOllama Cloud比較：RTXかMacか損益分岐点を実務視点で探る",
+    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-ollama-rtx-comparison/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "Ollama Cloudを1ヶ月使った料金報告が話題ですが、結論「毎日2時間触るならRTX 4060 Ti 16GB」を買うのが最短の黒字化ルート。VRAM 16GBあればLlama 3 8Bが爆速。クラウドAPIの従量課金に怯えるより、7万円のGPU投資で自分専用の「思考の外部脳」をローカルに持つ方が開発体験は圧倒的に上です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-21-local-llm-hardware-guide-ollama-rtx-comparison.jpg",
+    "created_at": "2026-05-21T04:25:48.311761+09:00",
+    "posted": false
   }
 ]
