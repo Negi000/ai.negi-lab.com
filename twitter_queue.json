@@ -14801,34 +14801,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-18-dreamserver-local-ai-full-review-tutorial",
-    "title": "DreamServer 使い方・評価｜ローカルAI環境を一台で完結させる決定版",
-    "url": "https://ai.negi-lab.com/posts/dreamserver-local-ai-full-review-tutorial/",
-    "category": "TOOL",
-    "viral_tags": "#ローカルLLM #DreamServer",
-    "tweet_text": "ローカルAIの断片化問題を終わらせる「DreamServer」が熱い。LLM、画像生成、音声、RAGがDocker一発で統合APIとして動き出す。RTX 4060 Ti 16GB以上の環境があるなら、サブスクを解約して自分専用の「思考・視覚・聴覚」を持つサーバーを構築する絶好の機会。繋ぎ込みの苦労から解放される快感は異常。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-18-dreamserver-local-ai-full-review-tutorial.jpg",
-    "created_at": "2026-05-18T19:11:01.323813+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-18-qwen-3-6-27b-24gb-vram-optimization-guide",
-    "title": "RTX 3090/4090でQwen 3.6 27Bを爆速で動かす方法",
-    "url": "https://ai.negi-lab.com/posts/qwen-3-6-27b-24gb-vram-optimization-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "RTX 3090/4090 1枚でQwen 3.6 27Bを爆速化。ik_llama.cppとMTPを組み合わせれば、24GB VRAMでも15万コンテキスト＆秒間72トークン超えを実現。本家llama.cppより圧倒的に速い。プレフィル1200 tok/s超えはもはや魔法。個人開発者が今組むべき最強のローカルLLM推論環境をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-18-qwen-3-6-27b-24gb-vram-optimization-guide.jpg",
-    "created_at": "2026-05-18T21:30:32.499950+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-19-alexa-plus-ai-podcast-generation-launch",
     "title": "Alexa+が「聴く情報収集」を完全に自動化し、個人の関心事に特化した番組をオンデマンドで生成するフェーズに入りました。",
     "url": "https://ai.negi-lab.com/posts/alexa-plus-ai-podcast-generation-launch/",
@@ -14843,20 +14815,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-19-local-llm-coding-agent-hardware-guide",
-    "title": "ローカルLLMでAIコーディングは可能か？Gemma 2 4Bで87%達成の衝撃と失敗しないGPU・Macの選び方",
-    "url": "https://ai.negi-lab.com/posts/local-llm-coding-agent-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #個人開発",
-    "tweet_text": "ローカルLLMでもエージェントの組み方次第でClaude 3.5 Sonnet級の精度が出せる時代。Gemma 2 4Bでベンチマーク87%達成は、高額サブスク不要の未来を示唆している。実務で使うならVRAM 16GB以上のRTX 4060 Tiか、メモリ32GB以上のMacが最低ライン。安物買いを避ける判断基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-19-local-llm-coding-agent-hardware-guide.jpg",
-    "created_at": "2026-05-19T02:19:16.302795+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-19-llama-cpp-mtp-support-gpu-comparison",
     "title": "ローカルLLM爆速化！llama.cppのMTP対応で選ぶべきGPUとMac比較",
     "url": "https://ai.negi-lab.com/posts/llama-cpp-mtp-support-gpu-comparison/",
@@ -14869,34 +14827,6 @@
     "image_path": "/images/posts/2026-05-19-llama-cpp-mtp-support-gpu-comparison.jpg",
     "created_at": "2026-05-19T03:52:46.436302+09:00",
     "posted": true
-  },
-  {
-    "article_id": "2026-05-19-qwen-3-7-local-llm-setup-guide",
-    "title": "Qwen 3.7 使い方と最強ローカルLLM環境の作り方",
-    "url": "https://ai.negi-lab.com/posts/qwen-3-7-local-llm-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "Qwen 3.7リリース前に準備すべきは「モデルを待つこと」ではなく「回す環境を整えること」。VRAM 24GBあれば32Bクラスも快適。Docker + Ollama + Open WebUIの構成なら、最新モデルも1コマンドで業務投入できる。API料金やプライバシーを気にせず、1日1万回叩ける自前サーバーこそがエンジニアの最強の武器になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-19-qwen-3-7-local-llm-setup-guide.jpg",
-    "created_at": "2026-05-19T07:09:37.703190+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-19-cli-anything-review-agent-native-software",
-    "title": "CLI-Anything 使い方レビュー：あらゆるソフトをAIエージェント化する新基準",
-    "url": "https://ai.negi-lab.com/posts/cli-anything-review-agent-native-software/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #GitHubTrending",
-    "tweet_text": "全ソフトをAIエージェント化する「CLI-Anything」が熱い。GUIやAPIなしのツールもCLI-Hub経由でエージェントの手足に変える。\n\n従来のエージェントはブラウザ止まり。これはOS全域への侵食を狙う設計。RTX 4090でローカルLLMを噛ませるとレスポンスも爆速。エージェントを「ただのチャット」で終わらせたくない開発者は今日中に触るべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-19-cli-anything-review-agent-native-software.jpg",
-    "created_at": "2026-05-19T13:14:13.866477+09:00",
-    "posted": false
   },
   {
     "article_id": "2026-05-19-chert-imessage-ai-agent-review-guide",
@@ -14966,7 +14896,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-20-local-llm-coding-agent-hardware-guide.jpg",
     "created_at": "2026-05-20T04:03:47.096227+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-20-trainer-v2-ai-agent-screen-recording-review",
