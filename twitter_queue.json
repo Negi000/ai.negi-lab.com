@@ -14995,5 +14995,19 @@
     "image_path": "/images/posts/2026-05-20-intel-crescent-island-160gb-vram-local-llm-guide.jpg",
     "created_at": "2026-05-20T15:55:32.205845+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-20-regent-ai-agent-version-control-review",
+    "title": "Re_gentでAIエージェント開発の「試行錯誤」をバージョン管理する",
+    "url": "https://ai.negi-lab.com/posts/regent-ai-agent-version-control-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントが推論で迷走した時、Gitのように「1つ前の思考」に戻れたら最高だと思いませんか？Re_gentはエージェントのステートをバージョン管理し、分岐やロールバックを可能にする開発者向けツール。ステップ数の多い自律エージェントのデバッグ効率が劇的に変わります。VRAMやAPIコストの無駄撃ちを減らしたいなら、この「巻き戻し」機能は必須級。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-20-regent-ai-agent-version-control-review.jpg",
+    "created_at": "2026-05-20T18:39:53.255071+09:00",
+    "posted": false
   }
 ]
