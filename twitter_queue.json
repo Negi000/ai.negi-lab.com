@@ -14829,34 +14829,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-19-chert-imessage-ai-agent-review-guide",
-    "title": "Chert iMessageでAIエージェントを自動化する実装手順と運用の現実",
-    "url": "https://ai.negi-lab.com/posts/chert-imessage-ai-agent-review-guide/",
-    "category": "TOOL",
-    "viral_tags": "#iMessage #個人開発",
-    "tweet_text": "iMessageをAIで自動化するChertを検証。Twilioの送信単価に悩むなら有力な選択肢。macOS必須という泥臭い制約はあるが、Python SDKでAppleの「青い吹き出し」を操作できるのは強力。画像やPDFの処理もGPT-4oと組み合わせれば一瞬で構築可能。ただしApple IDのBAN対策は必須、買う前にM2 Mac Miniの確保を。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-19-chert-imessage-ai-agent-review-guide.jpg",
-    "created_at": "2026-05-19T18:51:55.252556+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-19-qwen-coder-local-setup-python-refactor",
-    "title": "Qwen2.5-Coder 使い方 | ローカルでコード生成AIを動かす",
-    "url": "https://ai.negi-lab.com/posts/qwen-coder-local-setup-python-refactor/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "Qwen2.5-Coder 32Bをローカルで動かしたが、コード生成性能は完全に実用レベル。VRAM 24GBあれば4bit量子化で爆速。\n既存プロジェクトの全ファイルに自動で型ヒントを付け、バグを修正するPythonスクリプトを組んだ。\n外部にコードを出せない現場こそ、Ollamaでプライベートな開発環境を構築すべき。機密保持と効率化は両立できる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-19-qwen-coder-local-setup-python-refactor.jpg",
-    "created_at": "2026-05-19T21:11:14.472950+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-20-vatican-ai-encyclical-anthropic-constitutional-ai",
     "title": "ローマ教皇がAI規制に介入？Anthropic共同創業者の登壇が示す「Claude」独走の予兆",
     "url": "https://ai.negi-lab.com/posts/vatican-ai-encyclical-anthropic-constitutional-ai/",
@@ -14871,20 +14843,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-20-local-llm-best-hardware-guide-rtx5090-ram-cache",
-    "title": "ローカルLLMを爆速化するメモリ選びとRTX 5090時代の構成ガイド｜ロード時間を0にする設定術",
-    "url": "https://ai.negi-lab.com/posts/local-llm-best-hardware-guide-rtx5090-ram-cache/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "RTX 5090登場を控えた今、ローカルLLM用PCをどう組むべきか。Ollamaのkeep_alive設定でモデルロード時間はゼロにできますが、結局はVRAM容量が正義です。ClineでDeepSeek R1とQwenを切り替える実務なら、VRAM 32GB超えかMacの統一メモリが必須。中途半端な構成で妥協すると、推論速度の低下で仕事になりません。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-20-local-llm-best-hardware-guide-rtx5090-ram-cache.jpg",
-    "created_at": "2026-05-20T02:29:14.579622+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-20-local-llm-coding-agent-hardware-guide",
     "title": "ローカルLLMコーディング環境の選び方：4Bモデルで性能87%時代のRTX/Mac比較",
     "url": "https://ai.negi-lab.com/posts/local-llm-coding-agent-hardware-guide/",
@@ -14897,20 +14855,6 @@
     "image_path": "/images/posts/2026-05-20-local-llm-coding-agent-hardware-guide.jpg",
     "created_at": "2026-05-20T04:03:47.096227+09:00",
     "posted": true
-  },
-  {
-    "article_id": "2026-05-20-trainer-v2-ai-agent-screen-recording-review",
-    "title": "Trainer 画面録画でAIエージェントを訓練し実務を自動化する",
-    "url": "https://ai.negi-lab.com/posts/trainer-v2-ai-agent-screen-recording-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIAgent #個人開発",
-    "tweet_text": "AIエージェント開発で一番キツい「操作手順の定義」を画面録画で解決するTrainer v2。PC操作を人間がやって見せるだけで、座標と画像を同期した学習用データが手に入る。DOM解析不要でデスクトップアプリも動かせるのが強い。VRAM 12GB以上のGPUがあれば、自社専用の操作エージェント構築が現実的になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-20-trainer-v2-ai-agent-screen-recording-review.jpg",
-    "created_at": "2026-05-20T13:14:49.424758+09:00",
-    "posted": false
   },
   {
     "article_id": "2026-05-20-intel-crescent-island-160gb-vram-local-llm-guide",
@@ -14994,7 +14938,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-21-local-llm-hardware-guide-ollama-rtx-comparison.jpg",
     "created_at": "2026-05-21T04:25:48.311761+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-21-qwen-27b-local-setup-ollama-python",
