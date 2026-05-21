@@ -15023,5 +15023,19 @@
     "image_path": "/images/posts/2026-05-22-notebooklm-py-python-api-hardware-guide.jpg",
     "created_at": "2026-05-22T03:58:49.848922+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-22-qwen-2-5-local-api-python-tutorial",
+    "title": "Qwen 2.5をローカルAPI化してPythonで動かす手順",
+    "url": "https://ai.negi-lab.com/posts/qwen-2-5-local-api-python-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "Qwen 3.7の噂で沸いているが、現行のQwen 2.5-Coderこそが「実務で使える」最強のローカルLLM。VRAM 16GB以上の環境があるなら、OllamaでAPI化してPythonから叩くのが一番賢い。OpenAI互換で組めば、将来モデルを差し替えるだけで進化に追従できる。128kコンテキストを活かしたコードレビュー自動化は、一度体験すると戻れない。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-22-qwen-2-5-local-api-python-tutorial.jpg",
+    "created_at": "2026-05-22T07:27:13.719198+09:00",
+    "posted": false
   }
 ]
