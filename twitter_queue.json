@@ -14871,48 +14871,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-20-qwen37-max-local-hybrid-guide",
-    "title": "Qwen3.7 Max APIとローカルLLMを連携させたハイブリッドAIエージェントの構築方法",
-    "url": "https://ai.negi-lab.com/posts/qwen37-max-local-hybrid-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "Qwen3.7 Maxのベンチマークが驚異的。GPT-4oに匹敵する推論能力を持ちながら、APIコストは大幅に安い。\n実務で使うなら、全リクエストをクラウドに投げず、ローカルのQwen 2.5-7Bで難易度判定して「必要な時だけMaxを呼ぶ」ハイブリッド構成が最強。\nRTX 4090環境なら、今後出る27B/35Bでさらに化ける。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-20-qwen37-max-local-hybrid-guide.jpg",
-    "created_at": "2026-05-20T20:49:19.001561+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-21-gemini-1-5-pro-2-million-context-caching",
-    "title": "Gemini 1.5 Proが200万トークン開放。GPT-4oに勝てる唯一の「量」と「安さ」の正体",
-    "url": "https://ai.negi-lab.com/posts/gemini-1-5-pro-2-million-context-caching/",
-    "category": "NEWS",
-    "viral_tags": "#Gemini15Pro #AIエージェント",
-    "tweet_text": "Google Gemini 1.5 Proが200万トークン開放。正直、200万あるとRAGを組む必要性が激減する。\nさらに「コンテキストキャッシュ」が最強。一度読み込ませた大量のコードや動画への質問コストが最大9割も浮く。\n知能のClaude、汎用のGPTに対し、Geminiは「圧倒的な物量とコスパ」で実務をハックしにきた印象。\n開発者は今すぐAI StudioでキャッシュAPIを試すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-21-gemini-1-5-pro-2-million-context-caching.jpg",
-    "created_at": "2026-05-21T00:33:51.650812+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-21-local-llm-hardware-guide-rtx-vram-comparison",
-    "title": "ローカルLLM環境の選び方比較｜RTX 4090かMacか？後悔しないVRAMとスペックの基準",
-    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-rtx-vram-comparison/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "ローカルLLM環境、VRAM 8GBで戦うのはもう限界。Redditでも「中身のない雰囲気投稿」が批判されてるけど、実務で使うなら結局は物理スペック。RTX 4060 Ti 16GBが最低ライン、70Bクラスを狙うならRTX 4090かMac Studio 128GBの二択。VRAMという不動産をケチると、開発効率が死ぬ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-21-local-llm-hardware-guide-rtx-vram-comparison.jpg",
-    "created_at": "2026-05-21T02:42:25.700001+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-21-local-llm-hardware-guide-ollama-rtx-comparison",
     "title": "ローカルLLM環境の選び方とOllama Cloud比較：RTXかMacか損益分岐点を実務視点で探る",
     "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-ollama-rtx-comparison/",
@@ -14925,34 +14883,6 @@
     "image_path": "/images/posts/2026-05-21-local-llm-hardware-guide-ollama-rtx-comparison.jpg",
     "created_at": "2026-05-21T04:25:48.311761+09:00",
     "posted": true
-  },
-  {
-    "article_id": "2026-05-21-qwen-27b-local-setup-ollama-python",
-    "title": "Qwen 27Bクラスをローカル環境で爆速動作させる方法",
-    "url": "https://ai.negi-lab.com/posts/qwen-27b-local-setup-ollama-python/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "Qwenから27Bモデル登場の噂。VRAM 16GBのGPU1枚で「32Bの知能」と「14Bの速度」を両立できるスイートスポットになるはず。\n\n実務で使うなら、Ollama + PythonでPDFやコードを自動解析する環境を今から組んでおくのが正解。RTX 3090/4090ならQwen-2.5-32Bも即戦力で動く。買う前にVRAM容量だけは妥協しちゃダメ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-21-qwen-27b-local-setup-ollama-python.jpg",
-    "created_at": "2026-05-21T07:40:21.322837+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-21-viberia-ai-agent-canvas-review",
-    "title": "Viberia AIエージェントを戦略ゲームの司令官のように指揮するマルチエージェント・オーケストレーター",
-    "url": "https://ai.negi-lab.com/posts/viberia-ai-agent-canvas-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #個人開発",
-    "tweet_text": "AIエージェントの制御不能なループに疲れた人へ。Viberiaはマルチエージェントを「戦略ゲーム」の作戦盤のように視覚化して操れる司令塔。\nどのAIが今何をして、どこで詰まったかがキャンバスUIで一目瞭然。API費用を溶かす前にHuman-in-the-loopで介入できるのが実務派には刺さる。\n複数エージェントを本気で運用するなら、これくらい可視化しないとデバッグが追いつかない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-21-viberia-ai-agent-canvas-review.jpg",
-    "created_at": "2026-05-21T13:23:08.346984+09:00",
-    "posted": false
   },
   {
     "article_id": "2026-05-21-huggingface-vram-model-filter-guide",
@@ -15008,7 +14938,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-22-ollama-update-local-llm-gpu-guide.jpg",
     "created_at": "2026-05-22T02:19:08.372405+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-22-notebooklm-py-python-api-hardware-guide",
