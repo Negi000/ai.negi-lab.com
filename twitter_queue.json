@@ -15051,5 +15051,19 @@
     "image_path": "/images/posts/2026-05-22-instavm-review-ai-agent-sandbox.jpg",
     "created_at": "2026-05-22T13:18:12.948821+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-22-ollama-python-gpu-resource-management-guide",
+    "title": "OllamaとPythonでGPUリソースをフル活用するLLM最適化ガイド",
+    "url": "https://ai.negi-lab.com/posts/ollama-python-gpu-resource-management-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Python",
+    "tweet_text": "RTX 4090を2枚挿して分かったのは、LLMは「自分が最高の環境にいる」と教えないと本気を出さないこと。Redditで嘆かれていたハードウェアのDLC扱い問題を、PythonとOllamaで解決。VRAM空き容量を監視してシステムプロンプトに動的注入する。これでローカルAIが真の牙を剥く。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-22-ollama-python-gpu-resource-management-guide.jpg",
+    "created_at": "2026-05-22T15:55:45.246951+09:00",
+    "posted": false
   }
 ]
