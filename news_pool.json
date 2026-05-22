@@ -1,99 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Ollama and Codex Desktop with Spark GB10",
-      "url": "https://www.reddit.com/r/ollama/comments/1tdp4ve/ollama_and_codex_desktop_with_spark_gb10/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-05-15T07:34:45+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So I see that Ollama is now supporting running within Codex. Ollama wants you to run Ollama commands to invoke the Codex desktop and Ollama does configuration for it. Works fine I suppose if you are running Ollama locally on Windows or Mac next to Codex Desktop. </p> <p>However, how does this work if Ollama is running on a separate Linux box or something like a DGX Spark GB10.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user",
-      "extra": {},
-      "collected_at": "2026-05-15T17:52:25"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Magic Notebook",
-      "url": "https://www.producthunt.com/products/magic-notebook",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A calm writing app with no complexity and no AI </p> <p> <a href=\"https://www.producthunt.com/products/magic-notebook?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1131813?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-15T17:52:27"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Glance",
-      "url": "https://www.producthunt.com/products/glance-native-macos-markdown-viewer",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> Preview .md files instantly with quick look </p> <p> <a href=\"https://www.producthunt.com/products/glance-native-macos-markdown-viewer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1146969?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-05-15T17:52:27"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "OpenHuman",
-      "url": "https://www.producthunt.com/products/openhuman",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> An open source AI harness built with the human in mind </p> <p> <a href=\"https://www.producthunt.com/products/openhuman?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1136902?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-15T17:52:27"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Used over a million tokens in three separate sessions to test Qwen 3.6 35b (new Multi-token Prediction version)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdns1i/used_over_a_million_tokens_in_three_separate/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-05-15T06:20:08+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>In my opinion, MTP models are 100% game changer for local LLMs.</p> <p>In terms of speed, I was getting around 1.5x the tok/sec of previous tests.</p> <p>The project was a test - building a full iterative step-by-step pygame; a small mystery dungeon-style game. At first I set 100-200k context and raised it to 300k. <del>This is at KV Q8_0 quant.</del> Edit: I was wrong, I had mistakenly left it at q4_0. I will redo tests tomorrow with Q8. </p> <p>I use VSCodium ",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-05-15T17:52:28"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Came home to find Pi with Qwen3.627B had run rm -rf .....",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tdpfqi/came_home_to_find_pi_with_qwen3627b_had_run_rm_rf/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-15T07:52:21+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tdpfqi/came_home_to_find_pi_with_qwen3627b_had_run_rm_rf/\"> <img alt=\"Came home to find Pi with Qwen3.627B had run rm -rf .....\" src=\"https://preview.redd.it/qaravzn8a91h1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=cbe1a183d2c50c87145517bf45e45daffc5d0bc8\" title=\"Came home to find Pi with Qwen3.627B had run rm -rf .....\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>on the build cache because i",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-05-15T17:52:28"
-    },
-    {
       "source": "HN AI Hot",
       "title": "UK sovereign LLM inference",
       "url": "https://relax.ai/docs",
@@ -3007,22 +2914,6 @@
       "collected_at": "2026-05-22T13:17:45"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "When your LLM treats data center GPUs like an optional DLC",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tk4gyy/when_your_llm_treats_data_center_gpus_like_an/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-22T01:35:46+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tk4gyy/when_your_llm_treats_data_center_gpus_like_an/\"> <img alt=\"When your LLM treats data center GPUs like an optional DLC\" src=\"https://preview.redd.it/gx6g3i6fel2h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0081a5903dcafd0c8be7d5051482b8b897ebc512\" title=\"When your LLM treats data center GPUs like an optional DLC\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/noprompt\"> /u/nopromp",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-05-22T13:17:46"
-    },
-    {
       "source": "Google News",
       "title": "今話題のClaude Mythos騒動をまとめる ～マインドチェンジとスピードアップは必要だが、本質的な対策は今までと同じ - dir.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rMjNEcnJsN1Z5VW4wbmNHeXh6dS12LXZVN3FQLTBWVV9RSDZ4cU84UEl5WDF5UGZMb0xNcS04ckZPTTJJSlBFTFBTck53SVBKVEFRTnd5OGw3U0o2TVNZQ094LWFWQ00?oc=5",
@@ -3052,7 +2943,84 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-22T15:55:17"
+    },
+    {
+      "source": "Google News",
+      "title": "トランプがAI企業に「一時停止」を要求。シリコンバレーの自由な日々は、政府の審査で幕を閉じるのか？ - Business Insider Japan",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDRYUkk2U1JycUxQM29hb2FvcmJmT09EbGRaV2tocnNNWVVZWUVUd09tVlJTWlE3cmFka0k3WG5aZ1RNSi1XaXp5V2tmcDZNaEZjTnVaVUpLb1NRZzZCUl9xd05hNm9MR3VXYlBnSUZHUGhPajc4bElSeWNWaFp0QkktR055Wm1xZGxJQ2RVcEhvM2ZDWjk2NXZRRWlVNVdYZGZUX3lnVjlTOFg2b1BkQV9iektuMWZOVGVNa0xpQWI5enRZNUlXVw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 22 May 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdDRYUkk2U1JycUxQM29hb2FvcmJmT09EbGRaV2tocnNNWVVZWUVUd09tVlJTWlE3cmFka0k3WG5aZ1RNSi1XaXp5V2tmcDZNaEZjTnVaVUpLb1NRZzZCUl9xd05hNm9MR3VXYlBnSUZHUGhPajc4bElSeWNWaFp0QkktR055Wm1xZGxJQ2RVcEhvM2ZDWjk2NXZRRWlVNVdYZGZUX3lnVjlTOFg2b1BkQV9iektuMWZOVGVNa0xpQWI5enRZNUlXVw?oc=5\" target=\"_blank\">トランプがAI企業に「一時停止」を要求。シリコンバレーの自由な日々は、政府の審査で幕を閉じるのか？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-22T18:32:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "TestSprite 3.0",
+      "url": "https://www.producthunt.com/products/testsprite",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Let a fleet of parallel agents test your app in minutes. </p> <p> <a href=\"https://www.producthunt.com/products/testsprite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1144878?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-22T18:32:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "JAMtime.ai",
+      "url": "https://www.producthunt.com/products/jamtime-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Just tell your guitar pedal how to sound </p> <p> <a href=\"https://www.producthunt.com/products/jamtime-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1152999?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-22T18:32:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Smart Miles",
+      "url": "https://www.producthunt.com/products/smart-miles",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Automatic trip tracking for tax-ready exports </p> <p> <a href=\"https://www.producthunt.com/products/smart-miles?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1152610?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-22T18:32:07"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "In theory, if I have $20k-ish to spend on hardware what would actually get me closest to local coding agent that would allow me to go totally off the social grid?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tk2s09/in_theory_if_i_have_20kish_to_spend_on_hardware/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-05-22T00:20:36+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Let's say I'm in the market to buy a studio or RTX 6000's. At what point am I off the grid with a local coding agent? Probably a model question too. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tired__Dev\"> /u/Tired__Dev </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tk2s09/in_theory_if_i_have_20kish_to_spend_on_hardware/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLa",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-05-22T18:32:08"
     }
   ],
-  "updated_at": "2026-05-22T15:55:18.191590+09:00"
+  "updated_at": "2026-05-22T18:32:08.154836+09:00"
 }

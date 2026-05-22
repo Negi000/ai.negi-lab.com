@@ -15065,5 +15065,19 @@
     "image_path": "/images/posts/2026-05-22-ollama-python-gpu-resource-management-guide.jpg",
     "created_at": "2026-05-22T15:55:45.246951+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-22-forge-local-llm-agent-framework-review",
+    "title": "antoinezambelli/forge ローカルLLMで自律型エージェントを構築するための特化型フレームワーク",
+    "url": "https://ai.negi-lab.com/posts/forge-local-llm-agent-framework-review/",
+    "category": "TOOL",
+    "viral_tags": "#ローカルLLM #個人開発",
+    "tweet_text": "ローカルLLMを「道具」として実戦投入するなら、antoinezambelli/forgeが現状の最適解。LangChainの抽象化に疲れた層に刺さるPydanticベースの設計。RTX 4090環境で試したが、ツール呼び出しの堅牢性が段違い。7Bモデルでも型定義次第でかなり動く。自律エージェントを自前で制御したいならこれ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-22-forge-local-llm-agent-framework-review.jpg",
+    "created_at": "2026-05-22T18:33:22.845636+09:00",
+    "posted": false
   }
 ]
