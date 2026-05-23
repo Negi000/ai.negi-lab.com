@@ -15065,5 +15065,19 @@
     "image_path": "/images/posts/2026-05-23-qwen25-27b-exllamav2-16gb-vram-guide.jpg",
     "created_at": "2026-05-23T17:23:55.113600+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-23-area-contrast-checker-a11y-review",
+    "title": "Area Contrast Checker 使い方とアクセシビリティ評価の効率化",
+    "url": "https://ai.negi-lab.com/posts/area-contrast-checker-a11y-review/",
+    "category": "TOOL",
+    "viral_tags": "#アクセシビリティ #フロントエンド",
+    "tweet_text": "コントラスト比の確認で、まだ1箇所ずつスポイトを使って消耗してる？\n\nArea Contrast Checkerは、ドラッグで囲んだエリア内の全ピクセルをスキャンしてWCAG基準で判定。CSSの計算値じゃなく「実際に見えている色」で測るから、グラデーションや透過背景も正確。\n\nデザイン修正の不毛なやり取りを数値で終わらせたいなら、これ一択。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-23-area-contrast-checker-a11y-review.jpg",
+    "created_at": "2026-05-23T19:26:12.896098+09:00",
+    "posted": false
   }
 ]
