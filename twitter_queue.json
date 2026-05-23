@@ -14913,34 +14913,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-22-notebooklm-py-python-api-hardware-guide",
-    "title": "NotebookLMをAPI化するnotebooklm-py登場。Claude Code連携に最適な開発機比較",
-    "url": "https://ai.negi-lab.com/posts/notebooklm-py-python-api-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#NotebookLM #ローカルLLM",
-    "tweet_text": "Google NotebookLMをPythonで操作できる「notebooklm-py」が熱い。Web UIのポチポチから解放され、Claude Code等のAIエージェントの外部脳として組み込める。実務で回すならVRAM 16GB以上のRTX 4060 Tiか、メモリ32GB以上のMacが最低ライン。この数秒のレスポンス差が開発効率を左右する。買う前にVRAM容量だけは妥協しちゃダメ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-22-notebooklm-py-python-api-hardware-guide.jpg",
-    "created_at": "2026-05-22T03:58:49.848922+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-22-qwen-2-5-local-api-python-tutorial",
-    "title": "Qwen 2.5をローカルAPI化してPythonで動かす手順",
-    "url": "https://ai.negi-lab.com/posts/qwen-2-5-local-api-python-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "Qwen 3.7の噂で沸いているが、現行のQwen 2.5-Coderこそが「実務で使える」最強のローカルLLM。VRAM 16GB以上の環境があるなら、OllamaでAPI化してPythonから叩くのが一番賢い。OpenAI互換で組めば、将来モデルを差し替えるだけで進化に追従できる。128kコンテキストを活かしたコードレビュー自動化は、一度体験すると戻れない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-22-qwen-2-5-local-api-python-tutorial.jpg",
-    "created_at": "2026-05-22T07:27:13.719198+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-22-instavm-review-ai-agent-sandbox",
     "title": "InstaVM レビュー：AIエージェントに「安全な肉体」を与える高速サンドボックス環境",
     "url": "https://ai.negi-lab.com/posts/instavm-review-ai-agent-sandbox/",
@@ -15106,6 +15078,6 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-24-anthropic-cybersecurity-skills-ai-hardware-guide.jpg",
     "created_at": "2026-05-24T03:02:16.295292+09:00",
-    "posted": false
+    "posted": true
   }
 ]
