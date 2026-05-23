@@ -15023,5 +15023,19 @@
     "image_path": "/images/posts/2026-05-23-microsoft-claude-code-cancel-local-llm-guide.jpg",
     "created_at": "2026-05-23T07:15:29.748904+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-23-testsprite-3-ai-agent-e2e-testing-review",
+    "title": "TestSprite 3.0 使い方とAIによるE2Eテスト自動化レビュー",
+    "url": "https://ai.negi-lab.com/posts/testsprite-3-ai-agent-e2e-testing-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #QA自動化",
+    "tweet_text": "E2Eテストのメンテナンス地獄が終わるかもしれない。TestSprite 3.0を検証。\n自然言語の要件から並列エージェントが自律的にテストを完遂する。\nUI変更でセレクタが壊れてもAIが推論でカバー。\n月5回以上デプロイするチームなら、テストコードを書く時間を50%削減できる可能性がある。\nただし非決定的な挙動には注意が必要。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-23-testsprite-3-ai-agent-e2e-testing-review.jpg",
+    "created_at": "2026-05-23T12:56:33.311768+09:00",
+    "posted": false
   }
 ]
