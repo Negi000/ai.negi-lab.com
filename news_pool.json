@@ -1,53 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Gemini 3.1 Flash-Lite",
-      "url": "https://www.producthunt.com/products/gemini-3-1-flash-lite-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Lightweight Gemini model for high-volume AI pipelines </p> <p> <a href=\"https://www.producthunt.com/products/gemini-3-1-flash-lite-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1144056?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-16T17:08:08"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "M5Stack PaperColor",
-      "url": "https://www.producthunt.com/products/m5stack",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> 4-inch color E-ink dev board with ESP32 and audio I/O </p> <p> <a href=\"https://www.producthunt.com/products/m5stack?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1147767?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-16T17:08:08"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.6-35B-A3B and 9B are officially on the public Terminal-Bench 2.0 leaderboard!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1temio0/qwen3635ba3b_and_9b_are_officially_on_the_public/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-16T07:19:25+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Qwen3.6-35B-A3B and 9B are officially on the public Terminal-Bench 2.0 leaderboard!</p> <p>little-coder × Qwen3.6-35B-A3B hit 24.6% (±3.2), and <strong>now land above Gemini 2.5 Pro on Gemini CLI (19.6%)</strong> and Qwen3-Coder-480B on Terminus 2 (23.9%). I didn’t expect the scaffold-model gap from Polyglot to hold on a benchmark this hard but it did!</p> <p>little-coder × Qwen3.5-9B came in at 9.2% which is more humble. Yet, it also shows again that <strong>su",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-05-16T17:08:09"
-    },
-    {
       "source": "r/ollama",
       "title": "Is Ollama Cloud using 1-bit quants? This coherence is abysmal.",
       "url": "https://www.reddit.com/r/ollama/comments/1teas3p/is_ollama_cloud_using_1bit_quants_this_coherence/",
@@ -2897,22 +2850,6 @@
       "collected_at": "2026-05-23T12:56:08"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "G4-MeroMero-26B-A4B-it-uncensored-heretic Is Out Now, a Finetune of gemma-4-26B-A4B-it, With KLD of 0.0152 and 12/100 Refusals!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tl1wpd/g4meromero26ba4bituncensoredheretic_is_out_now_a/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-23T01:10:59+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tl1wpd/g4meromero26ba4bituncensoredheretic_is_out_now_a/\"> <img alt=\"G4-MeroMero-26B-A4B-it-uncensored-heretic Is Out Now, a Finetune of gemma-4-26B-A4B-it, With KLD of 0.0152 and 12/100 Refusals!\" src=\"https://external-preview.redd.it/gSlsnzJc3zRUXIwholKZwcUeSos9bcCICafrGQ2pZQU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1014b4a2f0648b7ee2c4a172b22f04e1b9696527\" title=\"G4-MeroMero-26B-A4B-it-uncensored-heretic Is Out N",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-05-23T12:56:09"
-    },
-    {
       "source": "Product Hunt",
       "title": "DCP",
       "url": "https://www.producthunt.com/products/dcp",
@@ -2927,7 +2864,101 @@
         "revenue_score": 6
       },
       "collected_at": "2026-05-23T15:17:37"
+    },
+    {
+      "source": "Google News",
+      "title": "【論考】AIの壮大な社会実験となる2026年FIFAワールドカップ大会 - 東京財団",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aUDhMTU9NU3RVQ2FvNzJEMTI4TXMyMWdSRjVYODkxLWdSVWJ1Vkd2UXBqdVZGTUI3ZHZtX0VaMDdjeXo5cjhpWnd6UmJJV3hrUnh5VER3WU9DQThqZkhz?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 22 May 2026 10:12:52 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aUDhMTU9NU3RVQ2FvNzJEMTI4TXMyMWdSRjVYODkxLWdSVWJ1Vkd2UXBqdVZGTUI3ZHZtX0VaMDdjeXo5cjhpWnd6UmJJV3hrUnh5VER3WU9DQThqZkhz?oc=5\" target=\"_blank\">【論考】AIの壮大な社会実験となる2026年FIFAワールドカップ大会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東京財団</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-23T17:23:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Forsy",
+      "url": "https://www.producthunt.com/products/forsy",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Capture and sell your AI agent workflow data </p> <p> <a href=\"https://www.producthunt.com/products/forsy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1145957?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-23T17:23:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Finderlock",
+      "url": "https://www.producthunt.com/products/finderlock",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Lock Mac files in Finder with Touch ID & AES-256 </p> <p> <a href=\"https://www.producthunt.com/products/finderlock?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1017611?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-23T17:23:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Spantop",
+      "url": "https://www.producthunt.com/products/spantop",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn any Mac into a real second monitor </p> <p> <a href=\"https://www.producthunt.com/products/spantop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1153019?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-23T17:23:21"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.6 27B Pure Quant: 40 tok/s on 16 GB VRAM",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkzk9e/qwen36_27b_pure_quant_40_toks_on_16_gb_vram/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-22T23:29:14+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tkzk9e/qwen36_27b_pure_quant_40_toks_on_16_gb_vram/\"> <img alt=\"Qwen3.6 27B Pure Quant: 40 tok/s on 16 GB VRAM\" src=\"https://external-preview.redd.it/D3_qD_30tojxucrOKmECqSjckLHTOoDu5wWUmXrHzmU.png?width=140&amp;height=75&amp;auto=webp&amp;s=cf55a9f8071f9a20639a2add4e721f7dd00cc9b9\" title=\"Qwen3.6 27B Pure Quant: 40 tok/s on 16 GB VRAM\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hello everyone!</p> <p>I want to shar",
+      "extra": {
+        "revenue_score": 10
+      },
+      "collected_at": "2026-05-23T17:23:22"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "meituan-longcat/LongCat-Video-Avatar-1.5 · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tl4wpi/meituanlongcatlongcatvideoavatar15_hugging_face/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-23T03:27:39+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tl4wpi/meituanlongcatlongcatvideoavatar15_hugging_face/\"> <img alt=\"meituan-longcat/LongCat-Video-Avatar-1.5 · Hugging Face\" src=\"https://external-preview.redd.it/fmsP1Z7xInODnL921n9DI2hNxnLjtqEMj64a_zcsPNk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8122cb70f1637b2062ab03674c38e0183534131c\" title=\"meituan-longcat/LongCat-Video-Avatar-1.5 · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><h1>🚀 Model Intro",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-23T17:23:22"
     }
   ],
-  "updated_at": "2026-05-23T15:17:38.537824+09:00"
+  "updated_at": "2026-05-23T17:23:22.640596+09:00"
 }

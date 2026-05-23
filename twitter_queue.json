@@ -15051,5 +15051,19 @@
     "image_path": "/images/posts/2026-05-23-g4-meromero-26b-local-llm-tutorial.jpg",
     "created_at": "2026-05-23T15:18:05.615929+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-23-qwen25-27b-exllamav2-16gb-vram-guide",
+    "title": "VRAM 16GBでQwen2.5-27Bを40 tok/s動作させる方法：Pure Quant活用入門",
+    "url": "https://ai.negi-lab.com/posts/qwen25-27b-exllamav2-16gb-vram-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "VRAM 16GBの壁を突破。Qwen2.5-27BをRTX 4070 Ti等で40 tok/s動作させる設定が実用的。EXL2形式の3.6bpw量子化なら、精度を維持しつつ27Bクラスが爆速で動く。4096トークンのKVキャッシュを積んでもメモリ内に収まる。ローカルLLMを「動かしてみた」で終わらせず、仕事に組み込むための最短ルート。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-23-qwen25-27b-exllamav2-16gb-vram-guide.jpg",
+    "created_at": "2026-05-23T17:23:55.113600+09:00",
+    "posted": false
   }
 ]
