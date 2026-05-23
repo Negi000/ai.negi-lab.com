@@ -15079,5 +15079,19 @@
     "image_path": "/images/posts/2026-05-24-anthropic-cybersecurity-skills-ai-hardware-guide.jpg",
     "created_at": "2026-05-24T03:02:16.295292+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-05-24-ollama-extra-usage-vs-local-gpu-investment",
+    "title": "ローカルLLM導入VSクラウドAPI比較！Claudeが安く感じる時代のGPU選びと損をしない投資術",
+    "url": "https://ai.negi-lab.com/posts/ollama-extra-usage-vs-local-gpu-investment/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "Ollamaの追加課金で「10ドルが2回の質問で溶けた」という報告。他人事じゃないですね。DeepSeek V3やR1をフルコンテキストで叩けば、API代は一瞬でランチ代を超えます。\n\n今の最適解は「VRAM 16GB以上のRTX」か「メモリ64GB以上のMac」への投資。月額サブスク数回分で、一生ものの推論環境が手に入る。買う前にVRAM容量だけは妥協しちゃダメです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-24-ollama-extra-usage-vs-local-gpu-investment.jpg",
+    "created_at": "2026-05-24T07:02:50.016591+09:00",
+    "posted": false
   }
 ]

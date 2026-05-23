@@ -2823,22 +2823,6 @@
       "collected_at": "2026-05-23T22:46:45"
     },
     {
-      "source": "GitHub Trending",
-      "title": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "extra": {
-        "stars_today": "238 stars today"
-      },
-      "collected_at": "2026-05-23T22:46:47"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Elon Musk has given up on solar power (on Earth)",
       "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
@@ -2989,7 +2973,53 @@
         "revenue_score": 2
       },
       "collected_at": "2026-05-24T03:01:50"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Holy Cow Extra Usage make Claude Tokens look cheap...",
+      "url": "https://www.reddit.com/r/ollama/comments/1tlns1m/holy_cow_extra_usage_make_claude_tokens_look_cheap/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-05-23T18:11:58+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just added 10 dollars on Ollama extra usage to see if it was worth it. It is a hard no. I was using deepseekV4 Pro. It was gone in two queries. It makes Claude's token price look reasonable. No joke. I feel like i just burned 10 bucks on nothing. That is the last time I do that. Anyone else have a similar experience?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Wide-Ad-1349\"> /u/Wide-Ad-1349 </a> <br /> <span><a href=\"",
+      "extra": {},
+      "collected_at": "2026-05-24T07:02:22"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Does GPU spacing matter if we’re undervolting anyways?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlonbw/does_gpu_spacing_matter_if_were_undervolting/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-23T18:45:50+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tlonbw/does_gpu_spacing_matter_if_were_undervolting/\"> <img alt=\"Does GPU spacing matter if we’re undervolting anyways?\" src=\"https://preview.redd.it/vso4eykanx2h1.jpg?width=140&amp;height=135&amp;auto=webp&amp;s=0bbf5daebd194a73e1d6705947cd53be37807f72\" title=\"Does GPU spacing matter if we’re undervolting anyways?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>How close can GPU cards be to each other on the mobo to re",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-05-24T07:02:25"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Top 10 Fastest Growing AI repos this week",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlssxi/top_10_fastest_growing_ai_repos_this_week/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-23T21:30:48+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Curated this list of fastest growing AI repos. They are mostly AI coding agents, personal AI, memory, browser automation, Claude Skills and local-first dev tooling:</p> <ol> <li><strong>colbymchenry/codegraph</strong> (+14.1K stars) Pre-indexed local code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent.</li> <li><strong>tinyhumansai/openhuman</strong> (+17.1K stars) Personal AI / private AI superintelligence.</li> <li><strong>Imbad0202",
+      "extra": {
+        "revenue_score": 14
+      },
+      "collected_at": "2026-05-24T07:02:25"
     }
   ],
-  "updated_at": "2026-05-24T03:01:50.888895+09:00"
+  "updated_at": "2026-05-24T07:02:25.928991+09:00"
 }
