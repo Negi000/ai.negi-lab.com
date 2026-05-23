@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
-      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 16 May 2026 15:33:33 +0000",
-      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-17T00:37:18"
-    },
-    {
       "source": "HN AI Hot",
       "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
       "url": "https://www.seangoedecke.com/steering-vectors/",
@@ -728,22 +713,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I built MemoTree, a local-first tree-based chat UI for LLM conversations, with Ollama support.</p> <p>The problem I’m trying to solve is context management during deep exploration. When I’m reading papers, debugging code, or exploring a codebase, I often want to go back to an earlier point, ask a different question, compare assumptions, or continue from a cleaner context. Linear chat makes that awkward because alternate paths collapse into one long history, so s",
       "extra": {},
       "collected_at": "2026-05-19T03:52:16"
-    },
-    {
-      "source": "Google News",
-      "title": "eMAXIS Neo AIテクノロジー【03311249】：基準価格・投資信託情報 - Yahoo!ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yNGdsU292MFpPa0ppd1N2SkxnYzRaTmtjaVNpMmVFVUN3eXB3dUF3R2tpN21LdWhFWDlqS2w5WlIzTHJmX3doVEpIeTk4aUlPMUhDcw?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Mon, 18 May 2026 16:22:48 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yNGdsU292MFpPa0ppd1N2SkxnYzRaTmtjaVNpMmVFVUN3eXB3dUF3R2tpN21LdWhFWDlqS2w5WlIzTHJmX3doVEpIeTk4aUlPMUhDcw?oc=5\" target=\"_blank\">eMAXIS Neo AIテクノロジー【03311249】：基準価格・投資信託情報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ファイナンス</font>",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-05-19T03:52:18"
     },
     {
       "source": "Product Hunt",
@@ -2957,7 +2926,37 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-23T22:46:49"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 23 May 2026 15:08:00 +0000",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-24T00:46:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Removing Vision from model",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlhkts/removing_vision_from_model/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-05-23T14:11:59+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I removed mmproj file from models to remove vision and save my vram. But just curious, is this really don't affect its text ability? </p> <p>I use Qwen 3.6 35b a3b by unsloth and mainly use for agentic coding</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Interesting-Print366\"> /u/Interesting-Print366 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tlhkts/removing_vision_from_model/\">[link]</a></sp",
+      "extra": {
+        "revenue_score": 11
+      },
+      "collected_at": "2026-05-24T00:46:19"
     }
   ],
-  "updated_at": "2026-05-23T22:46:49.403339+09:00"
+  "updated_at": "2026-05-24T00:46:19.849356+09:00"
 }
