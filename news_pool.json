@@ -2,68 +2,6 @@
   "items": [
     {
       "source": "r/ollama",
-      "title": "Anybody tried v0.30.0-rc17 yet? Looking for impressions.",
-      "url": "https://www.reddit.com/r/ollama/comments/1tfjc7q/anybody_tried_v0300rc17_yet_looking_for/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "2026-05-17T08:13:04+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The pre-release dropped a few days ago with direct llama.cpp support and MLX acceleration, but it also broke support for some models like laguna-xs.2 and llama3.2-vision.</p> <p>Curious if anyone here has pulled the trigger and upgraded. Any speed improvements? Stability issues? Regrets?</p> <p>Let me know before I potentially nuke my setup.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/B0r0m4n\"> /u/B0r0m4n </a> <br /> <s",
-      "extra": {},
-      "collected_at": "2026-05-17T22:41:28"
-    },
-    {
-      "source": "Google News",
-      "title": "日医、医療AIの臨床利用で提言 人間の尊厳を最優先に（2026年4月15日） - 社会保険研究所",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fczM0MC1VTmF6aFJybi1FcDVfZVZRTWJ1Nl94VjA0RkpyODJYdHItNW9HZ3BkLUxzLXF2Ukx2QXRrQnBfaU5waWlIa3lzcXdvU2U0?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 17 May 2026 12:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fczM0MC1VTmF6aFJybi1FcDVfZVZRTWJ1Nl94VjA0RkpyODJYdHItNW9HZ3BkLUxzLXF2Ukx2QXRrQnBfaU5waWlIa3lzcXdvU2U0?oc=5\" target=\"_blank\">日医、医療AIの臨床利用で提言 人間の尊厳を最優先に（2026年4月15日）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">社会保険研究所</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-17T22:41:30"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "85 GPU-hours comparing 5 abliteration methods on Qwen3.6-27B: benchmarks, safety, weight forensics - Abliterlitics",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfmocw/85_gpuhours_comparing_5_abliteration_methods_on/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-17T11:18:01+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been building <a href=\"https://github.com/dreamfast/abliterlitics\">Abliterlitics</a>, an open-source abliteration forensics toolkit. The idea is straightforward: take the same base model, compare the different abliteration techniques others have applied, then measure what actually changed using benchmarks, safety evaluation, distribution shift, and weight-level analysis. This post covers Qwen3.6-27B, comparing five abliteration variants against the base mod",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-05-17T22:41:31"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Dual GPU llama.cpp speedup",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tflngz/dual_gpu_llamacpp_speedup/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-17T10:24:36+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Llama.cpp has had a long standing issue with &quot;--split-mode tensor&quot;, you'll get great results but it only supports non-quantized KV caches, for this very reason a lot of people decide to go with a healthy sized KV cache and ignore tensor parallelism. &nbsp;</p> <p>I've had a stab at fixing the issue here - <a href=\"https://github.com/RedToasty/llama.cpp_qts\">https://github.com/RedToasty/llama.cpp_qts</a> - it's branched from mainline as of today, with m",
-      "extra": {
-        "revenue_score": 8
-      },
-      "collected_at": "2026-05-17T22:41:31"
-    },
-    {
-      "source": "r/ollama",
       "title": "Ollama pro",
       "url": "https://www.reddit.com/r/ollama/comments/1tfqkl2/ollama_pro/",
       "primary_category": "MONEY",
@@ -2993,22 +2931,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Runway Agent",
-      "url": "https://www.producthunt.com/products/runway-agent",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Generate edited, sound-designed videos via chat </p> <p> <a href=\"https://www.producthunt.com/products/runway-agent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1146582?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-24T19:41:13"
-    },
-    {
-      "source": "Product Hunt",
       "title": "DynamicNotch",
       "url": "https://www.producthunt.com/products/dynamicnotch",
       "primary_category": "TOOL",
@@ -3021,7 +2943,22 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-24T19:41:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "WhatCable",
+      "url": "https://www.producthunt.com/products/whatcable",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Know what your USB-C cable can really do </p> <p> <a href=\"https://www.producthunt.com/products/whatcable?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1153432?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-24T22:45:31"
     }
   ],
-  "updated_at": "2026-05-24T19:41:14.315275+09:00"
+  "updated_at": "2026-05-24T22:45:32.625528+09:00"
 }
