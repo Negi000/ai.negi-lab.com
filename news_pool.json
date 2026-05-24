@@ -1,69 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Vivago Video Agent",
-      "url": "https://www.producthunt.com/products/viva",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Skip the prompting. Produce consistently compelling videos. </p> <p> <a href=\"https://www.producthunt.com/products/viva?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1146113?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-17T19:22:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Kirki",
-      "url": "https://www.producthunt.com/products/kirki",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> WordPress finally has a freeform canvas website builder. </p> <p> <a href=\"https://www.producthunt.com/products/kirki?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1148297?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-17T19:22:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Jackrong/Qwopus3.5-9B-Coder-GGUF · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfin40/jackrongqwopus359bcodergguf_hugging_face/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-17T07:33:35+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tfin40/jackrongqwopus359bcodergguf_hugging_face/\"> <img alt=\"Jackrong/Qwopus3.5-9B-Coder-GGUF · Hugging Face\" src=\"https://external-preview.redd.it/T9RE3LDtINwehIu0A2priXEpnkJVRnQuH-dC00XZOE4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bec7f6eb79f52da98aa3dc7749717edb3323f461\" title=\"Jackrong/Qwopus3.5-9B-Coder-GGUF · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><blockquote> <p><strong>Qwopus3.5-9B-cod",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-05-17T19:22:02"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Llama.cpp MTP with Qwen3.6 27B on Headless RTX 3090",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tfilwx/llamacpp_mtp_with_qwen36_27b_on_headless_rtx_3090/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-05-17T07:31:41+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Saw some posts around PP being slower, so they were cautious on trying it.</p> <p>Here's a real-world datapoint.</p> <p><strong>Settings:</strong></p> <ul> <li>Headless RTX 3090 24G</li> <li>OpenCode</li> <li>Model unsloth's Qwen3.6-27B-MTP-Q4_K_M.gguf</li> <li>128k context</li> <li>q8_0 kv cache</li> <li>--spec-draft-n-max: 3</li> <li>--draft-p-min: 0</li> </ul> <p><strong>Use Cases:</strong></p> <ul> <li>Research task that uses ~85,000 tokens</li> <li>Coding t",
-      "extra": {
-        "revenue_score": 14
-      },
-      "collected_at": "2026-05-17T19:22:02"
-    },
-    {
       "source": "r/ollama",
       "title": "Anybody tried v0.30.0-rc17 yet? Looking for impressions.",
       "url": "https://www.reddit.com/r/ollama/comments/1tfjc7q/anybody_tried_v0300rc17_yet_looking_for/",
@@ -3025,21 +2962,66 @@
       "collected_at": "2026-05-24T17:33:00"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.6-35B-A3B-Uncensored-Genesis-APEX-MTP",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tm3toi/qwen3635ba3buncensoredgenesisapexmtp/",
-      "primary_category": "GUIDE",
+      "source": "GitHub Trending",
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "extra": {
+        "stars_today": "486 stars today"
+      },
+      "collected_at": "2026-05-24T19:41:12"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "extra": {
+        "stars_today": "179 stars today"
+      },
+      "collected_at": "2026-05-24T19:41:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Runway Agent",
+      "url": "https://www.producthunt.com/products/runway-agent",
+      "primary_category": "TOOL",
       "possible_categories": [
         "MONEY",
         "TOOL"
       ],
-      "published": "2026-05-24T06:08:22+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Here model: <a href=\"https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-V2-APEX-MTP-GGUF\">https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-V2-APEX-MTP-GGUF</a></p> <p>Safetensors: <a href=\"https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-V2-FP8-Safetensors\">https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-V2-FP8-Safetensors</a></p> <p><em>Testing results in Open Code on hardware (B",
+      "published": "",
+      "summary": "<p> Generate edited, sound-designed videos via chat </p> <p> <a href=\"https://www.producthunt.com/products/runway-agent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1146582?app_id=339\">Link</a> </p>",
       "extra": {
-        "revenue_score": 8
+        "revenue_score": 3
       },
-      "collected_at": "2026-05-24T17:33:01"
+      "collected_at": "2026-05-24T19:41:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "DynamicNotch",
+      "url": "https://www.producthunt.com/products/dynamicnotch",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Dynamic island for macOS </p> <p> <a href=\"https://www.producthunt.com/products/dynamicnotch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1154221?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-24T19:41:13"
     }
   ],
-  "updated_at": "2026-05-24T17:33:01.741423+09:00"
+  "updated_at": "2026-05-24T19:41:14.315275+09:00"
 }
