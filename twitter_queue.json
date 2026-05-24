@@ -14941,34 +14941,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-23-g4-meromero-26b-local-llm-tutorial",
-    "title": "G4-MeroMero-26Bの使い方：検閲なしGemmaベースモデルをローカルで動かす方法",
-    "url": "https://ai.negi-lab.com/posts/g4-meromero-26b-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Gemma2",
-    "tweet_text": "Gemma系26Bの最新モデル「G4-MeroMero-26B」が優秀すぎる。VRAM 24GBあれば爆速。KLD 0.0152という驚異的な低損失で知性を保ちつつ、検閲を排除したheretic版。Llama-3 8Bでは物足りない、かと言って70Bは重いという層に刺さる絶妙なサイズ感。ローカルLLMで「説教」に疲れた人は試す価値あり。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-23-g4-meromero-26b-local-llm-tutorial.jpg",
-    "created_at": "2026-05-23T15:18:05.615929+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-23-qwen25-27b-exllamav2-16gb-vram-guide",
-    "title": "VRAM 16GBでQwen2.5-27Bを40 tok/s動作させる方法：Pure Quant活用入門",
-    "url": "https://ai.negi-lab.com/posts/qwen25-27b-exllamav2-16gb-vram-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "VRAM 16GBの壁を突破。Qwen2.5-27BをRTX 4070 Ti等で40 tok/s動作させる設定が実用的。EXL2形式の3.6bpw量子化なら、精度を維持しつつ27Bクラスが爆速で動く。4096トークンのKVキャッシュを積んでもメモリ内に収まる。ローカルLLMを「動かしてみた」で終わらせず、仕事に組み込むための最短ルート。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-23-qwen25-27b-exllamav2-16gb-vram-guide.jpg",
-    "created_at": "2026-05-23T17:23:55.113600+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-23-area-contrast-checker-a11y-review",
     "title": "Area Contrast Checker 使い方とアクセシビリティ評価の効率化",
     "url": "https://ai.negi-lab.com/posts/area-contrast-checker-a11y-review/",
@@ -15078,7 +15050,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-24-runway-agent-comprehensive-review-and-guide.jpg",
     "created_at": "2026-05-24T19:41:42.262638+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-24-ferrari-ibm-watsonx-f1-ai-strategy",
