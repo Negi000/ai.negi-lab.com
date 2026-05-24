@@ -2,20 +2,6 @@
   "items": [
     {
       "source": "r/ollama",
-      "title": "Weekly usage limit",
-      "url": "https://www.reddit.com/r/ollama/comments/1tfbmtd/weekly_usage_limit/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-17T01:35:29+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1tfbmtd/weekly_usage_limit/\"> <img alt=\"Weekly usage limit\" src=\"https://preview.redd.it/e948a5e1ql1h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ad09f116c5c45e3d80075d1ba781f4ca70db598\" title=\"Weekly usage limit\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>After hammering away on OWUI chat at the free tier for a total of 8 hours, qwen3-235, 400 word prompts and responses, and no OpenClaw nonsense, I'm almost at ca",
-      "extra": {},
-      "collected_at": "2026-05-17T13:05:38"
-    },
-    {
-      "source": "r/ollama",
       "title": "Finally found a use case for local model",
       "url": "https://www.reddit.com/r/ollama/comments/1tfh4wp/finally_found_a_use_case_for_local_model/",
       "primary_category": "MONEY",
@@ -2975,19 +2961,6 @@
       "collected_at": "2026-05-24T03:01:50"
     },
     {
-      "source": "r/ollama",
-      "title": "Holy Cow Extra Usage make Claude Tokens look cheap...",
-      "url": "https://www.reddit.com/r/ollama/comments/1tlns1m/holy_cow_extra_usage_make_claude_tokens_look_cheap/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-05-23T18:11:58+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just added 10 dollars on Ollama extra usage to see if it was worth it. It is a hard no. I was using deepseekV4 Pro. It was gone in two queries. It makes Claude's token price look reasonable. No joke. I feel like i just burned 10 bucks on nothing. That is the last time I do that. Anyone else have a similar experience?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Wide-Ad-1349\"> /u/Wide-Ad-1349 </a> <br /> <span><a href=\"",
-      "extra": {},
-      "collected_at": "2026-05-24T07:02:22"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Does GPU spacing matter if we’re undervolting anyways?",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlonbw/does_gpu_spacing_matter_if_were_undervolting/",
@@ -3019,7 +2992,39 @@
         "revenue_score": 14
       },
       "collected_at": "2026-05-24T07:02:25"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Question: how to write cutting-edge system prompts?",
+      "url": "https://www.reddit.com/r/ollama/comments/1tlwf6u/question_how_to_write_cuttingedge_system_prompts/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-24T00:07:54+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I'm working on a side project that interacts with Ollama and uses this system prompt: <a href=\"https://github.com/quiet-node/thuki/blob/main/src-tauri/prompts/system_prompt.txt\">https://github.com/quiet-node/thuki/blob/main/src-tauri/prompts/system_prompt.txt</a> . While it works adequately with Gemma4:e4b, it doesn't compare well to professional tools like Claude Code or ChatGPT. I know a 4b local model can't compete with the giants, but I still believe ",
+      "extra": {},
+      "collected_at": "2026-05-24T13:16:45"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "llama.cpp server have built-in native tools (exec_shell, edit_file, etc.)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tluma3/llamacpp_server_have_builtin_native_tools_exec/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-23T22:48:30+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tluma3/llamacpp_server_have_builtin_native_tools_exec/\"> <img alt=\"llama.cpp server have built-in native tools (exec_shell, edit_file, etc.)\" src=\"https://preview.redd.it/24uvk7o4sy2h1.png?width=140&amp;height=86&amp;auto=webp&amp;s=c83aed2c6e8258b72ffc33e5f08445ce3ff7eb4a\" title=\"llama.cpp server have built-in native tools (exec_shell, edit_file, etc.)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://pr",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-05-24T13:16:48"
     }
   ],
-  "updated_at": "2026-05-24T07:02:25.928991+09:00"
+  "updated_at": "2026-05-24T13:16:48.810773+09:00"
 }
