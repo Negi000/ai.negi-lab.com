@@ -15093,5 +15093,19 @@
     "image_path": "/images/posts/2026-05-24-gpu-thermal-guard-undervolting-python-tutorial.jpg",
     "created_at": "2026-05-24T15:44:06.466843+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-24-qwen36-35b-uncensored-local-setup-guide",
+    "title": "Qwen3.6-35B-Uncensoredをローカル環境で構築して制限なしの高性能AIを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/qwen36-35b-uncensored-local-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "Qwen3.6-35Bの無制限版をRTX 3090で実機検証。35BはQ4量子化でVRAM約22GB消費。24GBカード1枚で動く「最強の知能」の落とし所です。ガードレールなしのMTPモデルは、推論のキレが違う。環境構築からAPIサーバー化まで、仕事で使うための最短ルートをまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-24-qwen36-35b-uncensored-local-setup-guide.jpg",
+    "created_at": "2026-05-24T17:33:31.175683+09:00",
+    "posted": false
   }
 ]
