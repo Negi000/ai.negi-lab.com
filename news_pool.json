@@ -1,37 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Finally found a use case for local model",
-      "url": "https://www.reddit.com/r/ollama/comments/1tfh4wp/finally_found_a_use_case_for_local_model/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-17T06:12:03+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have a macmini 24gb and I've been trying to find something useful to run on Ollama. I started with code review, it has lot of problem but too slow is mainly a problem for me. Code generation is also bad.</p> <p>Then i found a another use case: Commit message generation. It is a smaller and simpler task and the model works fine if you feed it right context.</p> <p>Here is the gist: <a href=\"https://gist.github.com/nqbao/f0a964e1b90d954c1b621cf59fa84b86\">https:/",
-      "extra": {},
-      "collected_at": "2026-05-17T15:28:33"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "dograh-hq/dograh",
-      "url": "https://github.com/dograh-hq/dograh",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Open Source Voice Agent Platform",
-      "extra": {
-        "stars_today": "287 stars today"
-      },
-      "collected_at": "2026-05-17T15:28:33"
-    },
-    {
       "source": "Product Hunt",
       "title": "SUN-to-Spotify",
       "url": "https://www.producthunt.com/products/sun-ai",
@@ -1323,21 +1292,6 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-20T18:39:20"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Learn it. Build it. Ship it for others.",
-      "extra": {
-        "stars_today": "762 stars today"
-      },
-      "collected_at": "2026-05-20T20:48:49"
     },
     {
       "source": "GitHub Trending",
@@ -3024,7 +2978,69 @@
         "revenue_score": 7
       },
       "collected_at": "2026-05-24T13:16:48"
+    },
+    {
+      "source": "r/ollama",
+      "title": "really Ollama?",
+      "url": "https://www.reddit.com/r/ollama/comments/1tm1k7l/really_ollama/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-24T04:10:53+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>so I posted about suspected nerfing because multiple models that performed well for me on other providers had completely incompetent responses for an extended period. I was a MAX subscriber, mind you</p> <p>And speeds were always great for me.</p> <p>I was singing Ollamas praises in several posts on Reddit.</p> <p>But one by one (first kimi 2.6 then Deepseek V4 Pro then GLM 5.1, the final straw) models I had great success with I bailed on because the model was j",
+      "extra": {},
+      "collected_at": "2026-05-24T15:43:32"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "NVlabs/LongLive",
+      "url": "https://github.com/NVlabs/LongLive",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "LongLive 2.0: Infra - Long Video Gen",
+      "extra": {
+        "stars_today": "94 stars today"
+      },
+      "collected_at": "2026-05-24T15:43:33"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Is there any reason for an uncensored model if you have no interest in roleplaying?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlzvfs/is_there_any_reason_for_an_uncensored_model_if/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-24T02:49:19+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>My rag I've been building is much in response to having a LLM that I feel more confident in knowing where the knowledge base is coming from especially after the Open AI deal with the Pentagon. So, when I saw &quot;uncensored&quot; heretic models, I thought that was the main usage of those models and thought I would need them.</p> <p>But in doing various tests, it seems there's random problems that come up with them that don't come up in regular versions. And the",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-05-24T15:43:34"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tm0800/visioncapable_llms_vs_ocr_for_longdocument/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-24T03:05:31+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I benchmarked vision-capable LLMs (the &quot;just attach the PDF and let the model read it&quot; pattern) against OCR-based pipelines on 30 long, image-heavy PDFs from MMLongBench-Doc (<a href=\"https://github.com/mayubo2333/MMLongBench-Doc\">https://github.com/mayubo2333/MMLongBench-Doc</a>). There were 171 questions in total, using Claude Sonnet 4.5 as the LLM.</p> <p>Post-retry results:</p> <table><thead> <tr> <th align=\"left\">Approach</th> <th align=\"left\">Acc",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-24T15:43:34"
     }
   ],
-  "updated_at": "2026-05-24T13:16:48.810773+09:00"
+  "updated_at": "2026-05-24T15:43:34.970671+09:00"
 }
