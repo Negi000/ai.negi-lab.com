@@ -1,35 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Ollama pro",
-      "url": "https://www.reddit.com/r/ollama/comments/1tfqkl2/ollama_pro/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-17T14:08:14+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone,</p> <p>I’d love to hear your experience with the cloud version of Ollama Pro. (20$)</p> <p>My main goal is to test and compare APIs of frontier open source models. For production work I currently use Claude Code, but I’m considering Ollama Pro mainly for research and experimentation workflows.</p> <p>A few things I’m especially curious about:</p> <p>• Is it a good option for testing multiple open source models through a unified interface?<br /> •",
-      "extra": {},
-      "collected_at": "2026-05-18T00:40:46"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sat, 16 May 2026 18:54:28 +0000",
-      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-18T00:40:46"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
       "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
@@ -2652,21 +2623,6 @@
       "collected_at": "2026-05-23T22:46:49"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Ferrari is using IBM’s AI to create F1 superfans",
-      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 23 May 2026 15:08:00 +0000",
-      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-24T00:46:17"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Removing Vision from model",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlhkts/removing_vision_from_model/",
@@ -2958,7 +2914,85 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-24T22:45:31"
+    },
+    {
+      "source": "r/ollama",
+      "title": "My agent hit quota on PR #4 of 8. Trooper recovered it and resumed from exactly where it stopped.",
+      "url": "https://www.reddit.com/r/ollama/comments/1tmdnqa/my_agent_hit_quota_on_pr_4_of_8_trooper_recovered/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-24T14:26:36+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1tmdnqa/my_agent_hit_quota_on_pr_4_of_8_trooper_recovered/\"> <img alt=\"My agent hit quota on PR #4 of 8. Trooper recovered it and resumed from exactly where it stopped.\" src=\"https://external-preview.redd.it/N3Y4ZWprejloMzNoMY_r8_r3tihfj1QxLR0-CYmIz0h0-8NpV47k97N30xzR.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e67478afd1163f8ec5af3ec8cbd203d34663bf10\" title=\"My agent hit quota on PR #4 of 8. Trooper recovered it and resumed",
+      "extra": {},
+      "collected_at": "2026-05-25T00:45:42"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 24 May 2026 15:00:00 +0000",
+      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-25T00:45:43"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Freu AI",
+      "url": "https://www.producthunt.com/products/freu-cli",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Automate any Mac app with $0 recurring run cost </p> <p> <a href=\"https://www.producthunt.com/products/freu-cli?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1150296?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-25T00:45:44"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.6-35B-A3B vs Gemma4-26B-A4B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tmbola/qwen3635ba3b_vs_gemma426ba4b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-05-24T13:05:37+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just wondering how are people's experience with both these models!</p> <p>I've had some nice results with Qwen but Gemma4 runs so much faster here. I'm using a Radeon 9070 XT and always latest llama.cpp.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MarcCDB\"> /u/MarcCDB </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tmbola/qwen3635ba3b_vs_gemma426ba4b/\">[link]</a></span> &#32; <span><a href=\"http",
+      "extra": {
+        "revenue_score": 11
+      },
+      "collected_at": "2026-05-25T00:45:45"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "BitCPM-CANN: Native 1.58-Bit Large Language Model Training on Ascend NPU",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tmf63y/bitcpmcann_native_158bit_large_language_model/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-24T15:24:26+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Paper: <a href=\"https://github.com/OpenBMB/MiniCPM/blob/main/docs/BitCPM_CANN.pdf\">https://github.com/OpenBMB/MiniCPM/blob/main/docs/BitCPM_CANN.pdf</a></p> <h3>Abstract</h3> <blockquote> <p>We present BitCPM-CANN, a systematic family-level study of 1.58-bit (ternary) quantization-aware training (QAT) on the Huawei Ascend NPU platform. To address two practical gaps for extreme low-bit LLMs—whether ternary weights preserve capabili- ties on complex reasoning task",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-05-25T00:45:45"
     }
   ],
-  "updated_at": "2026-05-24T22:45:32.625528+09:00"
+  "updated_at": "2026-05-25T00:45:45.070856+09:00"
 }
