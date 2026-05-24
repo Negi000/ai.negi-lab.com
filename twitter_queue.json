@@ -14941,48 +14941,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-23-microsoft-drops-claude-code-local-llm-guide",
-    "title": "ローカルLLMとClaude Code比較：Microsoft中止の背景とエンジニアが選ぶべき開発環境",
-    "url": "https://ai.negi-lab.com/posts/microsoft-drops-claude-code-local-llm-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #Cursor",
-    "tweet_text": "MicrosoftがClaude Codeを「コスト高」で断念したニュース、他人事じゃない。最新AIをAPI経由で回し続けると、個人の財布もすぐパンクする。\n\n今こそRTX 4090（VRAM 24GB）かMacの統一メモリ64GB以上に投資して、Qwen2.5-Coderをローカルで回す環境を作るべき。月額$100払うより、2年でハード代を回収する方がエンジニアとして健全です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-23-microsoft-drops-claude-code-local-llm-guide.jpg",
-    "created_at": "2026-05-23T03:55:08.919951+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-23-microsoft-claude-code-cancel-local-llm-guide",
-    "title": "Claude Codeライセンスキャンセルから考えるAI開発環境の選び方。ローカルLLMかサブスクか、失敗しないRTX/Macの買い方",
-    "url": "https://ai.negi-lab.com/posts/microsoft-claude-code-cancel-local-llm-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #AIコーディング",
-    "tweet_text": "MicrosoftがClaude Codeライセンスをキャンセル。クラウド依存の危うさが露呈しました。AI開発を仕事にするなら、VRAM 16GB以上のRTXか、メモリ64GB以上のMacへの投資を急ぐべき。月額$20のサブスクを積み上げるより、ローカルでQwen2.5-Coderを爆速で動かせる環境こそが、中断されない開発体験を支えます。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-23-microsoft-claude-code-cancel-local-llm-guide.jpg",
-    "created_at": "2026-05-23T07:15:29.748904+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-23-testsprite-3-ai-agent-e2e-testing-review",
-    "title": "TestSprite 3.0 使い方とAIによるE2Eテスト自動化レビュー",
-    "url": "https://ai.negi-lab.com/posts/testsprite-3-ai-agent-e2e-testing-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #QA自動化",
-    "tweet_text": "E2Eテストのメンテナンス地獄が終わるかもしれない。TestSprite 3.0を検証。\n自然言語の要件から並列エージェントが自律的にテストを完遂する。\nUI変更でセレクタが壊れてもAIが推論でカバー。\n月5回以上デプロイするチームなら、テストコードを書く時間を50%削減できる可能性がある。\nただし非決定的な挙動には注意が必要。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-23-testsprite-3-ai-agent-e2e-testing-review.jpg",
-    "created_at": "2026-05-23T12:56:33.311768+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-23-g4-meromero-26b-local-llm-tutorial",
     "title": "G4-MeroMero-26Bの使い方：検閲なしGemmaベースモデルをローカルで動かす方法",
     "url": "https://ai.negi-lab.com/posts/g4-meromero-26b-local-llm-tutorial/",
@@ -15064,7 +15022,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-24-ollama-extra-usage-vs-local-gpu-investment.jpg",
     "created_at": "2026-05-24T07:02:50.016591+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-24-ai-engineering-from-scratch-review-tutorial",
