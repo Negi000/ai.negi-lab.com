@@ -1,36 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Apple’s Siri revamp could include auto-deleting chats",
-      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sun, 17 May 2026 20:15:00 +0000",
-      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-18T07:02:14"
-    },
-    {
-      "source": "Google News",
-      "title": "米アカデミー賞、AIの演技と脚本は対象外に - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IRTdrUm94OHFDZDZMeGR2QlpHN3EzNUhlRUZ1WjJ2SDhYQXh1X1BKdll2VGhaRU5KWXBWSEJCalJ0dEU3UGlLQjNEbG1UZlpsR3pjYkJn?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 17 May 2026 17:33:48 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IRTdrUm94OHFDZDZMeGR2QlpHN3EzNUhlRUZ1WjJ2SDhYQXh1X1BKdll2VGhaRU5KWXBWSEJCalJ0dEU3UGlLQjNEbG1UZlpsR3pjYkJn?oc=5\" target=\"_blank\">米アカデミー賞、AIの演技と脚本は対象外に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-18T07:02:14"
-    },
-    {
       "source": "r/ollama",
       "title": "Local Linux sandbox for AI agents on macOS - no Docker, no remote VMs, all inside single native app",
       "url": "https://www.reddit.com/r/ollama/comments/1tg7nih/local_linux_sandbox_for_ai_agents_on_macos_no/",
@@ -2946,19 +2916,6 @@
     },
     {
       "source": "HN AI Coding",
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "url": "https://arxiv.org/abs/2605.06445",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Sun, 24 May 2026 12:55:53 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-25T02:58:12"
-    },
-    {
-      "source": "HN AI Coding",
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
       "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
       "primary_category": "NEWS",
@@ -2982,7 +2939,66 @@
       "summary": "",
       "extra": {},
       "collected_at": "2026-05-25T02:58:12"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude is not your architect. Stop letting it pretend",
+      "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 24 May 2026 18:28:11 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-25T07:04:36"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Everyone is navigating AI security in real time — even Google",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 24 May 2026 21:39:21 +0000",
+      "summary": "We're in the transition period -- all of us.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-25T07:04:38"
+    },
+    {
+      "source": "Google News",
+      "title": "ネットワーク運用現場に広まる生成AI、3つの用途を押さえよう - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52ZVZUY0ZtUHBleUxUb1d2RkJDOW0zSVJPdlVrb2oyYVlDZkVHLUJrWkd2cTdpMW1VS0RZa3ZLQUl0QXlHUjd1QnlJWENId1ZUTngzSTNraU9JczB3RWJpSnZySmV4MXdTSEtEcA?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 24 May 2026 20:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE52ZVZUY0ZtUHBleUxUb1d2RkJDOW0zSVJPdlVrb2oyYVlDZkVHLUJrWkd2cTdpMW1VS0RZa3ZLQUl0QXlHUjd1QnlJWENId1ZUTngzSTNraU9JczB3RWJpSnZySmV4MXdTSEtEcA?oc=5\" target=\"_blank\">ネットワーク運用現場に広まる生成AI、3つの用途を押さえよう</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-25T07:04:38"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Is NVIDIA still the default best choice for local LLMs in 2026?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tmkaua/is_nvidia_still_the_default_best_choice_for_local/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-24T18:34:33+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tmkaua/is_nvidia_still_the_default_best_choice_for_local/\"> <img alt=\"Is NVIDIA still the default best choice for local LLMs in 2026?\" src=\"https://preview.redd.it/pzq8x188q43h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3cdaee57d1b3f1140c2c8eeaad31427b5dc70d82\" title=\"Is NVIDIA still the default best choice for local LLMs in 2026?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pmv143",
+      "extra": {
+        "revenue_score": 10
+      },
+      "collected_at": "2026-05-25T07:04:39"
     }
   ],
-  "updated_at": "2026-05-25T02:58:16.646230+09:00"
+  "updated_at": "2026-05-25T07:04:39.479043+09:00"
 }
