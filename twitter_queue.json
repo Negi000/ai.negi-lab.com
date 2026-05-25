@@ -14941,34 +14941,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-23-area-contrast-checker-a11y-review",
-    "title": "Area Contrast Checker 使い方とアクセシビリティ評価の効率化",
-    "url": "https://ai.negi-lab.com/posts/area-contrast-checker-a11y-review/",
-    "category": "TOOL",
-    "viral_tags": "#アクセシビリティ #フロントエンド",
-    "tweet_text": "コントラスト比の確認で、まだ1箇所ずつスポイトを使って消耗してる？\n\nArea Contrast Checkerは、ドラッグで囲んだエリア内の全ピクセルをスキャンしてWCAG基準で判定。CSSの計算値じゃなく「実際に見えている色」で測るから、グラデーションや透過背景も正確。\n\nデザイン修正の不毛なやり取りを数値で終わらせたいなら、これ一択。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-23-area-contrast-checker-a11y-review.jpg",
-    "created_at": "2026-05-23T19:26:12.896098+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-23-emaxis-neo-ai-technology-analysis-engineers-perspective",
-    "title": "eMAXIS Neo AIテクノロジーの基準価格から読み解く「AI銘柄」の正体とエンジニアの生存戦略",
-    "url": "https://ai.negi-lab.com/posts/emaxis-neo-ai-technology-analysis-engineers-perspective/",
-    "category": "NEWS",
-    "viral_tags": "#資産運用 #エンジニア",
-    "tweet_text": "eMAXIS Neo AIテクノロジーの基準価格が面白い。AIがNLPで全米の開示資料をスキャンして「真のAI企業」を選別する仕組みは、我々エンジニアの技術選定と構造が同じ。信託報酬0.792%をどう見るか？技術スタックの市場価値を測るベンチマークとして、基準価格の推移は毎日チェックすべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-23-emaxis-neo-ai-technology-analysis-engineers-perspective.jpg",
-    "created_at": "2026-05-23T22:47:12.151671+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-24-anthropic-cybersecurity-skills-ai-hardware-guide",
     "title": "Claude CodeやCursorを最強のセキュリティAIに変える環境構築と機材選び",
     "url": "https://ai.negi-lab.com/posts/anthropic-cybersecurity-skills-ai-hardware-guide/",
@@ -14995,20 +14967,6 @@
     "image_path": "/images/posts/2026-05-24-ollama-extra-usage-vs-local-gpu-investment.jpg",
     "created_at": "2026-05-24T07:02:50.016591+09:00",
     "posted": true
-  },
-  {
-    "article_id": "2026-05-24-ai-engineering-from-scratch-review-tutorial",
-    "title": "ai-engineering-from-scratch 評価：AIエンジニアを目指す中級者の最短ルート",
-    "url": "https://ai.negi-lab.com/posts/ai-engineering-from-scratch-review-tutorial/",
-    "category": "TOOL",
-    "viral_tags": "#AIエンジニア #Python",
-    "tweet_text": "AI開発でLangChain依存に限界を感じているなら、GitHubで今日1500スター超えの「ai-engineering-from-scratch」が刺さる。\nRAGやエージェントの裏側を、魔法を使わずピュアなPythonとNumPyだけで再構築する修行の場。\n中身がわかればデバッグも精度改善も迷わなくなる。ライブラリを使いこなす側から、仕組みを支配する側へ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-24-ai-engineering-from-scratch-review-tutorial.jpg",
-    "created_at": "2026-05-24T13:17:14.402334+09:00",
-    "posted": false
   },
   {
     "article_id": "2026-05-24-gpu-thermal-guard-undervolting-python-tutorial",
@@ -15176,6 +15134,6 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-26-local-llm-hardware-guide-vram-comparison.jpg",
     "created_at": "2026-05-26T03:25:51.484422+09:00",
-    "posted": false
+    "posted": true
   }
 ]
