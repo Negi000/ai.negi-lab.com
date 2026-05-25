@@ -15135,5 +15135,19 @@
     "image_path": "/images/posts/2026-05-26-local-llm-hardware-guide-vram-comparison.jpg",
     "created_at": "2026-05-26T03:25:51.484422+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-05-26-norway-huawei-flash-storage-llm-training-ssd-guide",
+    "title": "ローカルLLM開発で詰まるのは、GPU性能の前に「ストレージの転送速度」です。",
+    "url": "https://ai.negi-lab.com/posts/norway-huawei-flash-storage-llm-training-ssd-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "AI開発のボトルネックはGPUだけじゃない。ノルウェーが2PBのフラッシュストレージを導入した理由は、データの「I/O速度」が学習効率を左右するから。\n\nローカルLLMやCursorを快適にするなら：\n・DRAMレスSSDは避ける\n・最低2TB、できればGen4/Gen5のNVMe\n・TBW（寿命）を確認\n\nGPUに投資したなら、ストレージで妥協するのはもったいない。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-26-norway-huawei-flash-storage-llm-training-ssd-guide.jpg",
+    "created_at": "2026-05-26T07:16:00.743968+09:00",
+    "posted": false
   }
 ]

@@ -1,163 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 18 May 2026 17:38:22 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-19T03:52:15"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Anthropic acquires Stainless",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 18 May 2026 17:01:21 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-19T03:52:15"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "url": "https://archestra.ai/blog/only-responsible-ai",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Mon, 18 May 2026 15:24:19 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-19T03:52:15"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Built MemoTree, a local-first branching chat UI for managing Ollama context",
-      "url": "https://www.reddit.com/r/ollama/comments/1tgqlxp/built_memotree_a_localfirst_branching_chat_ui_for/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-18T15:47:54+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I built MemoTree, a local-first tree-based chat UI for LLM conversations, with Ollama support.</p> <p>The problem I’m trying to solve is context management during deep exploration. When I’m reading papers, debugging code, or exploring a codebase, I often want to go back to an earlier point, ask a different question, compare assumptions, or continue from a cleaner context. Linear chat makes that awkward because alternate paths collapse into one long history, so s",
-      "extra": {},
-      "collected_at": "2026-05-19T03:52:16"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "LandingHero AI",
-      "url": "https://www.producthunt.com/products/landinghero-ai-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> 24/7 Salesperson on Your Website </p> <p> <a href=\"https://www.producthunt.com/products/landinghero-ai-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1121974?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-19T03:52:18"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "The Four Horsemen of the LLM Apocalypse",
-      "url": "https://anarc.at/blog/2026-05-16-four-horsemen/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 17 May 2026 19:58:27 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-19T07:09:06"
-    },
-    {
-      "source": "r/ollama",
-      "title": "There's something terribly wrong with Ollama's usage limits",
-      "url": "https://www.reddit.com/r/ollama/comments/1tgwx43/theres_something_terribly_wrong_with_ollamas/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-18T18:50:55+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1tgwx43/theres_something_terribly_wrong_with_ollamas/\"> <img alt=\"There's something terribly wrong with Ollama's usage limits\" src=\"https://preview.redd.it/mjk6yo7vyx1h1.png?width=140&amp;height=94&amp;auto=webp&amp;s=33f9d8edc1cc2bc650942a405cbaa42722ca6cf5\" title=\"There's something terribly wrong with Ollama's usage limits\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/mjk6yo7vyx1h1.png?wi",
-      "extra": {},
-      "collected_at": "2026-05-19T07:09:07"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Is 12+second latency typical?",
-      "url": "https://www.reddit.com/r/ollama/comments/1th20rf/is_12second_latency_typical/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-18T21:32:44+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1th20rf/is_12second_latency_typical/\"> <img alt=\"Is 12+second latency typical?\" src=\"https://preview.redd.it/s74lqlx3sy1h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ed18b91389c4ee208a894f6ea3937a9b85409f3\" title=\"Is 12+second latency typical?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hello, is it typical for latency on ollama models to be this high (ranging from 12-20+ seconds)? I'm calling ollama through a pyt",
-      "extra": {},
-      "collected_at": "2026-05-19T07:09:07"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 18 May 2026 21:29:31 +0000",
-      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-19T07:09:08"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "SizzleAir",
-      "url": "https://www.producthunt.com/products/sizzleair",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Thermal assistant for fanless MacBook Airs </p> <p> <a href=\"https://www.producthunt.com/products/sizzleair?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1149062?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-19T07:09:09"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Still happy for yall",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1th1mqx/still_happy_for_yall/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-18T21:19:14+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1th1mqx/still_happy_for_yall/\"> <img alt=\"Still happy for yall\" src=\"https://preview.redd.it/hop70iuspy1h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1247c8a71e72cdacd2a68ff323ee68a546e38d04\" title=\"Still happy for yall\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SilverRegion9394\"> /u/SilverRegion9394 </a> <br /> <span><a href=\"https://i.redd.it/hop70iuspy1h1.png\">[link]</a></span> &",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-19T07:09:10"
-    },
-    {
       "source": "HN AI Hot",
       "title": "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
       "url": "https://vas-blog.pages.dev/qwen-censorship/",
@@ -3078,7 +2921,36 @@
         "revenue_score": 7
       },
       "collected_at": "2026-05-26T03:25:21"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Mon, 25 May 2026 19:37:57 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-26T07:15:05"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Is Qwen3.6 current king for local agentic use?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnbz23/is_qwen36_current_king_for_local_agentic_use/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-25T15:09:33+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been testing other models but it seems like nothing even come close to Qwen3.6 35B A3B for agentic use. The worse I'd get is a loop sometimes, while Gemma4 produced broken tool calls occasionally and I couldn't even get GLM 4.7 Flash REAP past 2 or 3 messages before it starts looping. All IQ4_NL quants from Unsloth.</p> <p>I'm wondering if there are better models around the same size (preferably MoE) that I haven't tried yet. I'm using it for Hermes Agent a",
+      "extra": {
+        "revenue_score": 11
+      },
+      "collected_at": "2026-05-26T07:15:09"
     }
   ],
-  "updated_at": "2026-05-26T03:25:21.407472+09:00"
+  "updated_at": "2026-05-26T07:15:09.680156+09:00"
 }
