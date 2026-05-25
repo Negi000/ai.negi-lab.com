@@ -15135,5 +15135,19 @@
     "image_path": "/images/posts/2026-05-25-llmtest-reliable-api-fallback-guide.jpg",
     "created_at": "2026-05-25T19:14:41.989937+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-25-qwen-27b-vllm-high-throughput-guide",
+    "title": "Qwen2.5 27Bを爆速化 vLLMでスループットを極限まで高めるやり方",
+    "url": "https://ai.negi-lab.com/posts/qwen-27b-vllm-high-throughput-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #vLLM",
+    "tweet_text": "Qwen2.5 27BをvLLMで回すとスループットが劇的に変わる。1リクエストの速さより「100リクエストを同時に捌く」PagedAttentionの恩恵がデカい。\nRTX 4090単体でもAWQ量子化なら数百tps、V100複数枚なら4桁も視野。実務で大量のデータをLLMで処理するなら、Ollama卒業してvLLM一択ですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-25-qwen-27b-vllm-high-throughput-guide.jpg",
+    "created_at": "2026-05-25T21:32:07.951208+09:00",
+    "posted": false
   }
 ]
