@@ -14969,34 +14969,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-24-gpu-thermal-guard-undervolting-python-tutorial",
-    "title": "GPU多段挿しでも熱暴走させないアンダーボルティング自動制御スクリプト",
-    "url": "https://ai.negi-lab.com/posts/gpu-thermal-guard-undervolting-python-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "RTX 4090を2枚挿しすると直面する熱問題。物理的な間隔が狭いなら、Pythonで「動的電力制御」を自作するのが正解です。温度が80度を超えた瞬間にPower Limitを自動適用するスクリプトを公開しました。アンダーボルティングだけでは防げない熱暴走を、ソフト側の監視で確実に回避しましょう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-24-gpu-thermal-guard-undervolting-python-tutorial.jpg",
-    "created_at": "2026-05-24T15:44:06.466843+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-24-qwen36-35b-uncensored-local-setup-guide",
-    "title": "Qwen3.6-35B-Uncensoredをローカル環境で構築して制限なしの高性能AIを動かす方法",
-    "url": "https://ai.negi-lab.com/posts/qwen36-35b-uncensored-local-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "Qwen3.6-35Bの無制限版をRTX 3090で実機検証。35BはQ4量子化でVRAM約22GB消費。24GBカード1枚で動く「最強の知能」の落とし所です。ガードレールなしのMTPモデルは、推論のキレが違う。環境構築からAPIサーバー化まで、仕事で使うための最短ルートをまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-24-qwen36-35b-uncensored-local-setup-guide.jpg",
-    "created_at": "2026-05-24T17:33:31.175683+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-24-runway-agent-comprehensive-review-and-guide",
     "title": "Runway Agent 映像制作の全工程をチャットで完結させる自律型プロダクション",
     "url": "https://ai.negi-lab.com/posts/runway-agent-comprehensive-review-and-guide/",
@@ -15092,7 +15064,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-25-llmtest-reliable-api-fallback-guide.jpg",
     "created_at": "2026-05-25T19:14:41.989937+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-25-qwen-27b-vllm-high-throughput-guide",
