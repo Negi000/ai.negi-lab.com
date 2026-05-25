@@ -2900,23 +2900,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "1000 tps generation on Qwen3.6 27B with V100s",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tmyln6/1000_tps_generation_on_qwen36_27b_with_v100s/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-25T04:42:54+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tmyln6/1000_tps_generation_on_qwen36_27b_with_v100s/\"> <img alt=\"1000 tps generation on Qwen3.6 27B with V100s\" src=\"https://preview.redd.it/osektfjrq73h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3817e7a5b045f9e027284d3d5b21bcf0b9cefae3\" title=\"1000 tps generation on Qwen3.6 27B with V100s\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I wanted to see what the absolute best case scenario for generation on this",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-05-25T16:21:18"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "server: fix checkpoints creation by jacekpoplawski · Pull Request #22929 · ggml-org/llama.cpp",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn0jyp/server_fix_checkpoints_creation_by_jacekpoplawski/",
       "primary_category": "GUIDE",
@@ -3066,7 +3049,69 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-25T21:31:06"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "GPT Guesses Between 1 and 100",
+      "url": "https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 25 May 2026 11:46:09 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-26T00:17:49"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 25 May 2026 15:09:41 +0000",
+      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-26T00:17:52"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The Financial Times has published an article about Heretic",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tna22m/the_financial_times_has_published_an_article/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-05-25T14:00:26+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e\">https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e</a></p> <p>“The FT was able to use Heretic, a tool available on the popular code repository GitHub, to remove the guardrails from Meta’s Llama 3.3 model in less than 10 minutes without any specialist hardware.”</p> <p>“Heretic creator Philipp Emanuel Weidmann told the FT his software had been used to create more than 3,500 “de",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-05-26T00:17:54"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn8utn/nuextract3_released_openweight_4b_vlm_for/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-25T13:14:58+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tn8utn/nuextract3_released_openweight_4b_vlm_for/\"> <img alt=\"NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable)\" src=\"https://preview.redd.it/2kyyubbs9a3h1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=ce9b4cc1091371b91e7f759b1aab7ac0257f5aff\" title=\"NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable)\" /> </a> </td><td> <!-- S",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-26T00:17:54"
     }
   ],
-  "updated_at": "2026-05-25T21:31:06.173905+09:00"
+  "updated_at": "2026-05-26T00:17:54.833034+09:00"
 }
