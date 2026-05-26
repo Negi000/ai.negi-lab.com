@@ -14983,20 +14983,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-25-local-llm-nvidia-vs-mac-2026-guide",
-    "title": "NVIDIA vs Mac 2026年版ローカルLLM環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/local-llm-nvidia-vs-mac-2026-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #NVIDIA",
-    "tweet_text": "2026年になってもローカルLLM環境でNVIDIAが「買い」なのは、CUDAの安定性が他を圧倒しているから。でも128GB超えの巨大モデルを安価に動かすならMac Studioという選択肢も無視できない。VRAM容量がすべてを決定する時代の、失敗しない環境構築とPython自動化手順をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-25-local-llm-nvidia-vs-mac-2026-guide.jpg",
-    "created_at": "2026-05-25T16:21:42.923881+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-25-llmtest-reliable-api-fallback-guide",
     "title": "LLMTest 複数モデルの自動フォールバックとコスト最適化を実装する",
     "url": "https://ai.negi-lab.com/posts/llmtest-reliable-api-fallback-guide/",
@@ -15078,7 +15064,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-26-anthropic-mcp-knowledge-work-plugins-review.jpg",
     "created_at": "2026-05-26T13:14:02.558742+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-26-local-llm-legal-drafting-llama3-tutorial",
