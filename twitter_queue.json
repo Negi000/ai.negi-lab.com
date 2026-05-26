@@ -15135,5 +15135,19 @@
     "image_path": "/images/posts/2026-05-27-local-llm-gpu-mac-selection-guide-after-meta-legal-notice.jpg",
     "created_at": "2026-05-27T04:23:09.479904+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-27-prismml-bonsai-image-4b-webgpu-tutorial",
+    "title": "Bonsai Image 4B 使い方！ブラウザとWebGPUで1-bit画像生成を試す",
+    "url": "https://ai.negi-lab.com/posts/prismml-bonsai-image-4b-webgpu-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #WebGPU",
+    "tweet_text": "ブラウザだけで40億パラメータの画像生成が動く時代。PrismMLのBonsai Image 4Bを試しましたが、1-bit/Ternary量子化の恩恵でVRAM消費が驚くほど少ない。WebGPUを使えばPython環境すら不要。RTX 3060クラスでも十分に実用的。ローカルAIの主戦場はもはやWebブラウザに移りつつあります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-27-prismml-bonsai-image-4b-webgpu-tutorial.jpg",
+    "created_at": "2026-05-27T07:36:55.022491+09:00",
+    "posted": false
   }
 ]
