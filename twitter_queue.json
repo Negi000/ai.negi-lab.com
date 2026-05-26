@@ -15163,5 +15163,19 @@
     "image_path": "/images/posts/2026-05-26-marpy-io-python-ai-coding-platform-review.jpg",
     "created_at": "2026-05-26T19:02:11.239251+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-27-qwen35-35b-mtp-local-setup-guide",
+    "title": "Qwen3.5 35B A3B 使い方と環境構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/qwen35-35b-mtp-local-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "Qwen3.5 35B A3BのMTP保持版を検証。RTX 4090環境にてQ4_K_M量子化で動作確認完了。MTPの「先読み」による論理の安定感は、従来の30Bクラスを超えて70Bに迫る勢い。Uncensoredゆえの素直な指示追従性も実務向き。VRAM 24GB一枚でこの性能が手に入るなら、もうクラウドAPIに戻る理由は少ないですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-27-qwen35-35b-mtp-local-setup-guide.jpg",
+    "created_at": "2026-05-27T00:55:05.018767+09:00",
+    "posted": false
   }
 ]
