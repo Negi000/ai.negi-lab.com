@@ -15177,5 +15177,19 @@
     "image_path": "/images/posts/2026-05-27-qwen35-35b-mtp-local-setup-guide.jpg",
     "created_at": "2026-05-27T00:55:05.018767+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-27-microsoft-agent-governance-toolkit-hardware-guide",
+    "title": "AIエージェント開発で失敗しない機材選びとMicrosoft Agent Governance Toolkit比較",
+    "url": "https://ai.negi-lab.com/posts/microsoft-agent-governance-toolkit-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#AIエージェント #ローカルLLM",
+    "tweet_text": "自律型AIを実務に投入するなら、暴走を抑える「ガバナンス」が必須。Microsoftの新作Agent Governance ToolkitはOWASP準拠で強力ですが、サンドボックス実行には相応のVRAMを食います。\n\n検証した結果、最低でもRTX 4060 Ti 16GB、本気ならメモリ64GBのMacかRTX 4090が投資ライン。安全を金で買うのが最短ルートです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-27-microsoft-agent-governance-toolkit-hardware-guide.jpg",
+    "created_at": "2026-05-27T02:47:12.230211+09:00",
+    "posted": false
   }
 ]
