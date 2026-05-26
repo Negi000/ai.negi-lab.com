@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "What political censorship looks like inside an LLM's weights (Qwen 3.5)",
-      "url": "https://vas-blog.pages.dev/qwen-censorship/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Tue, 19 May 2026 00:16:31 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-19T13:13:10"
-    },
-    {
-      "source": "Google News",
-      "title": "「Claude Mythos」などの高度化したAIを踏まえたセキュリティ対策パッケージ「Project YATA-Shield」、政府が発表 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15SExuMk9FcnE1dDhlZDJhYmhHZEItZ1ZIc21fNUgwY0JyZTRVUV9QemRDYWcyYUpwakdKLWdKM3k4blZZV05KVlVYdW9vei1Vc2ZoYWxuX2lxTm54SUZMUmIxSVV2R0QyVjA4?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Mon, 18 May 2026 21:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE15SExuMk9FcnE1dDhlZDJhYmhHZEItZ1ZIc21fNUgwY0JyZTRVUV9QemRDYWcyYUpwakdKLWdKM3k4blZZV05KVlVYdW9vei1Vc2ZoYWxuX2lxTm54SUZMUmIxSVV2R0QyVjA4?oc=5\" target=\"_blank\">「Claude Mythos」などの高度化したAIを踏まえたセキュリティ対策パッケージ「Project YATA-Shield」、政府が発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">INTERNET Watch</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-19T13:13:14"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Memory expert suspects RAM price drop in 2027'H2 due to china heavy investments",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1th3r5q/memory_expert_suspects_ram_price_drop_in_2027h2/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-05-18T22:32:20+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Quote: ..., the former executive remarked that Chinese companies are investing aggressively to boost their memory chip production. According to him, if these investments are successful and lead to an increase in output, then the surge in supply could cause prices to fall a year from now in the second half of next year. <a href=\"https://wccftech.com/ex-samsung-chip-boss-says-chinas-dram-blitz-could-crush-the-414-ddr5-price-spike-within-a-year/\">https://wccftech.c",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-05-19T13:13:15"
-    },
-    {
       "source": "r/ollama",
       "title": "I built an offline multi-modal AI assistant (Voice + Vision) that runs locally on my laptop",
       "url": "https://www.reddit.com/r/ollama/comments/1thgof1/i_built_an_offline_multimodal_ai_assistant_voice/",
@@ -2923,19 +2878,6 @@
       "collected_at": "2026-05-26T03:25:21"
     },
     {
-      "source": "HN AI Hot",
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Mon, 25 May 2026 19:37:57 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-26T07:15:05"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Is Qwen3.6 current king for local agentic use?",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnbz23/is_qwen36_current_king_for_local_agentic_use/",
@@ -2950,7 +2892,54 @@
         "revenue_score": 11
       },
       "collected_at": "2026-05-26T07:15:09"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+      "url": "https://support.apple.com/en-us/127115",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 25 May 2026 23:40:40 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-26T13:13:29"
+    },
+    {
+      "source": "Google News",
+      "title": "GeminiやChatGPT圧倒 仕事で重宝、今さら聞けないAI「Claude」入門 - 日経クロストレンド",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JcUNuRjdxTFduVm01YmNZVm5FZjJMRTIzcGwwUHJXNjVqejlkYTlXNXg5WVF5YkZLVkNpVERQQTZCcElaeVA1UXdqZGJ6a0RGdEh3WlNXVFQ1VnJkUDl0dXk4dVU2dw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "Sun, 24 May 2026 15:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JcUNuRjdxTFduVm01YmNZVm5FZjJMRTIzcGwwUHJXNjVqejlkYTlXNXg5WVF5YkZLVkNpVERQQTZCcElaeVA1UXdqZGJ6a0RGdEh3WlNXVFQ1VnJkUDl0dXk4dVU2dw?oc=5\" target=\"_blank\">GeminiやChatGPT圧倒 仕事で重宝、今さら聞けないAI「Claude」入門</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロストレンド</font>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-26T13:13:32"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Update on 12x32gb sxm v100 cluster / local AI for legal drafting",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnn29i/update_on_12x32gb_sxm_v100_cluster_local_ai_for/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-05-25T21:50:30+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tnn29i/update_on_12x32gb_sxm_v100_cluster_local_ai_for/\"> <img alt=\"Update on 12x32gb sxm v100 cluster / local AI for legal drafting\" src=\"https://preview.redd.it/4h07vk82uc3h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a61bada217c28df3aa24d849046b9b254c05c7b\" title=\"Update on 12x32gb sxm v100 cluster / local AI for legal drafting\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Update from the lawyer with the V1",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-26T13:13:33"
     }
   ],
-  "updated_at": "2026-05-26T07:15:09.680156+09:00"
+  "updated_at": "2026-05-26T13:13:33.245781+09:00"
 }
