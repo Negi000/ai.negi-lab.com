@@ -15135,5 +15135,19 @@
     "image_path": "/images/posts/2026-05-27-microsoft-agent-governance-toolkit-hardware-guide.jpg",
     "created_at": "2026-05-27T02:47:12.230211+09:00",
     "posted": true
+  },
+  {
+    "article_id": "2026-05-27-local-llm-gpu-mac-selection-guide-after-meta-legal-notice",
+    "title": "ローカルLLM環境の選び方と比較｜Metaの法的通知から考えるエンジニアの失敗しないGPU・Mac選定術",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-selection-guide-after-meta-legal-notice/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #GPU選び",
+    "tweet_text": "MetaがOSSプロジェクトHereticに法的通知を送った件、Llama依存のリスクが浮き彫りになった。エンジニアが今買うべきは特定モデルに縛られない汎用環境。VRAM 16GB以上のRTX 4060 Tiか、メモリ64GB以上のMacが最低ライン。後で後悔したくないなら、VRAM不足は絶対に避けるべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-27-local-llm-gpu-mac-selection-guide-after-meta-legal-notice.jpg",
+    "created_at": "2026-05-27T04:23:09.479904+09:00",
+    "posted": false
   }
 ]
