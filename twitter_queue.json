@@ -14983,62 +14983,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-24-ferrari-ibm-watsonx-f1-ai-strategy",
-    "title": "フェラーリ×IBMが仕掛けるAI戦略：F1ファンの熱狂を「データ」で増幅させる実務的背景",
-    "url": "https://ai.negi-lab.com/posts/ferrari-ibm-watsonx-f1-ai-strategy/",
-    "category": "NEWS",
-    "viral_tags": "#F1JP #IBMwatsonx",
-    "tweet_text": "フェラーリがIBMのwatsonxを採用。F1の膨大なデータをRAGで処理し、ファンに超個別体験を提供する。注目すべきはOpenAIではなくIBMを選んだ「データ主権」へのこだわり。企業がAIを導入する際、ブランド価値を守るためのガバナンスが性能以上に重視されるフェーズに入った。開発者はRAGの信頼性設計を急ぐべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-24-ferrari-ibm-watsonx-f1-ai-strategy.jpg",
-    "created_at": "2026-05-24T22:45:52.958741+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-25-llm-agent-constraint-decay-hardware-guide",
-    "title": "AIエージェントで複雑なバックエンドコードを生成させると、最初は完璧に見えても実装が進むにつれて「守るべき制約」を忘れていく。これが最新論文でも指摘されている「Constraint Decay（制約の減衰）」の正体です。",
-    "url": "https://ai.negi-lab.com/posts/llm-agent-constraint-decay-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #AIコーディング",
-    "tweet_text": "AIエージェントが複雑なコードで「制約」を忘れるConstraint Decay。これを防ぐにはClaude 3.5等の推論力に加え、VRAM 16GB以上のハードが実務の最低ライン。RTX 4060 Ti 16GB版なら20万以下で勝負権が得られる。中途半端な8GB機を買って後悔する前に、仕事で使える構成を数字で比較した。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-25-llm-agent-constraint-decay-hardware-guide.jpg",
-    "created_at": "2026-05-25T02:58:41.339199+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-25-nvidia-removes-gaming-category-rtx-ai-gpu-guide",
-    "title": "NVIDIAがゲーミング枠を撤廃。ローカルLLM開発者が今RTX/Macを選ぶべき基準と比較",
-    "url": "https://ai.negi-lab.com/posts/nvidia-removes-gaming-category-rtx-ai-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "NVIDIAが決算から「Gaming」を消してAIに統合。もはやRTXはゲーム機ではなく、エンジニアのAI生産インフラになった証拠。ローカルLLMを実務で使うならVRAM 16GBが最低ライン、24GBが推奨。4070より4060 Ti 16GBの方がAI開発では価値が高いという逆転現象が起きてる。買う前にVRAM容量だけは妥協しちゃダメ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-25-nvidia-removes-gaming-category-rtx-ai-gpu-guide.jpg",
-    "created_at": "2026-05-25T07:05:05.250644+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-25-modelhub-mac-local-llm-review",
-    "title": "ModelHubレビュー MacメニューバーからローカルLLMを即起動する",
-    "url": "https://ai.negi-lab.com/posts/modelhub-mac-local-llm-review/",
-    "category": "TOOL",
-    "viral_tags": "#ローカルLLM #MacBookPro",
-    "tweet_text": "MacのローカルLLM運用は「メニューバー常駐」が正解。ModelHubはOllamaをバックエンドに、ショートカット一つでAIを即起動できる。LM Studioより圧倒的に軽く、作業を中断せず0.1秒でデバッグや要約が可能。Apple Silicon搭載機なら、もはやクラウドAIに課金する前にこれを試すべき。VRAM 16GB以上のMacなら驚くほど速い。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-25-modelhub-mac-local-llm-review.jpg",
-    "created_at": "2026-05-25T13:27:45.758248+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-25-local-llm-nvidia-vs-mac-2026-guide",
     "title": "NVIDIA vs Mac 2026年版ローカルLLM環境構築ガイド",
     "url": "https://ai.negi-lab.com/posts/local-llm-nvidia-vs-mac-2026-guide/",
@@ -15190,6 +15134,6 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-27-microsoft-agent-governance-toolkit-hardware-guide.jpg",
     "created_at": "2026-05-27T02:47:12.230211+09:00",
-    "posted": false
+    "posted": true
   }
 ]
