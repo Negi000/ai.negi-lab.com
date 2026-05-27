@@ -15025,20 +15025,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-26-local-llm-legal-drafting-llama3-tutorial",
-    "title": "ローカルLLMで法務文書を自動解析する環境構築と実践ガイド",
-    "url": "https://ai.negi-lab.com/posts/local-llm-legal-drafting-llama3-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #リーガルテック",
-    "tweet_text": "VRAM 24GB以上のGPUがあるなら、機密性の高い契約書チェックは「ローカルLLM」で完結させるのが正解。Llama 3 70Bを4-bit量子化して動かせば、API課金を気にせず、完全オフラインで条文リスクを抽出できます。法務実務で使えるコンテキスト設定とJSON出力の実装方法をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-26-local-llm-legal-drafting-llama3-tutorial.jpg",
-    "created_at": "2026-05-26T15:54:14.152045+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-26-marpy-io-python-ai-coding-platform-review",
     "title": "marpy.io レビュー：Python開発を「AI任せ」から「AI共生」に変える新基準",
     "url": "https://ai.negi-lab.com/posts/marpy-io-python-ai-coding-platform-review/",
@@ -15162,7 +15148,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-27-duckduckgo-installs-spike-google-ai-backlash.jpg",
     "created_at": "2026-05-27T21:21:02.260367+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-28-claude-code-daily-driver-hardware-guide",
