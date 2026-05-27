@@ -15177,5 +15177,19 @@
     "image_path": "/images/posts/2026-05-28-local-llm-best-gpu-vram-comparison-guide.jpg",
     "created_at": "2026-05-28T04:25:54.126067+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-28-qwen2-5-coder-q6-quantization-setup-guide",
+    "title": "Qwen2.5-CoderのQ6量子化でコーディングエージェントを自作する方法",
+    "url": "https://ai.negi-lab.com/posts/qwen2-5-coder-q6-quantization-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "ローカルLLMでコーディングするならQwen2.5-Coder 32BのQ6量子化が現状の結論。Q4からQ6に上げるとコードの論理破綻が目に見えて減る。VRAM 24GBは必須だけどClineと連携させれば完全に「自分専用の自律開発環境」が手に入る。llama.cppのサーバーモードでMTP有効化して動かすのが実務での最速解。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-28-qwen2-5-coder-q6-quantization-setup-guide.jpg",
+    "created_at": "2026-05-28T07:48:05.107329+09:00",
+    "posted": false
   }
 ]
