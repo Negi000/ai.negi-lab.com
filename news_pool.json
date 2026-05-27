@@ -1,37 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "AAAI-26からMicrosoft Researchのディレクターが行ったエージェントによるAIの未来を解説するセッションを紹介 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KTUlPZUJ0cllMOF9RQTBGZHZRcGJpOTFLVEQ0N0h2NDBYQlI1RTVVWUs5ZVQyY015RWRsbE15UU40N3lHaXF4R3dvaw?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "Tue, 19 May 2026 21:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KTUlPZUJ0cllMOF9RQTBGZHZRcGJpOTFLVEQ0N0h2NDBYQlI1RTVVWUs5ZVQyY015RWRsbE15UU40N3lHaXF4R3dvaw?oc=5\" target=\"_blank\">AAAI-26からMicrosoft Researchのディレクターが行ったエージェントによるAIの未来を解説するセッションを紹介</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thinkit.co.jp</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-20T18:39:19"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Invenio",
-      "url": "https://www.producthunt.com/products/invenio",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Local AI search for Mac video & photo libraries </p> <p> <a href=\"https://www.producthunt.com/products/invenio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1150854?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-20T18:39:20"
-    },
-    {
       "source": "GitHub Trending",
       "title": "HKUDS/ViMax",
       "url": "https://github.com/HKUDS/ViMax",
@@ -2935,20 +2904,66 @@
       "collected_at": "2026-05-27T16:11:57"
     },
     {
+      "source": "Product Hunt",
+      "title": "Studio Practice",
+      "url": "https://www.producthunt.com/products/mac-screen-simulator-studio-practice",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Preview any URL on every Mac screen at once </p> <p> <a href=\"https://www.producthunt.com/products/mac-screen-simulator-studio-practice?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1152269?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-05-27T18:57:40"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "QuickSheet v1.2",
+      "url": "https://www.producthunt.com/products/quicksheet-light-spreadsheet",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Instantly create and edit spreadsheets from your menu bar </p> <p> <a href=\"https://www.producthunt.com/products/quicksheet-light-spreadsheet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1154542?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-27T18:57:40"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Krater",
+      "url": "https://www.producthunt.com/products/krater-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> All the AI tools you use, one subscription </p> <p> <a href=\"https://www.producthunt.com/products/krater-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1143746?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-27T18:57:40"
+    },
+    {
       "source": "r/LocalLLaMA",
-      "title": "Folks running qwen 3.6 27b for agentic work. Do you dare to use q4_k_m?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tovx7i/folks_running_qwen_36_27b_for_agentic_work_do_you/",
+      "title": "New DeepSWE benchmark finds Claude Opus cheats",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1toychi/new_deepswe_benchmark_finds_claude_opus_cheats/",
       "primary_category": "GUIDE",
       "possible_categories": [
-        "MONEY"
+        "NEWS"
       ],
-      "published": "2026-05-27T05:22:13+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I dont have good experience running q4_k_m, the difference to q6 is &quot;a few errors an hour&quot; to &quot; a few errors every couple of days&quot;. </p> <p>Edit: How it fails? Just like user DifficultDog8435 and FullstackSensei explained in the comments. They worded it better than me.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/StandardLovers\"> /u/StandardLovers </a> <br /> <span><a href=\"https://www.reddit.com/r/Lo",
+      "published": "2026-05-27T07:30:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Sadly the open models seem far behind.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DeltaSqueezer\"> /u/DeltaSqueezer </a> <br /> <span><a href=\"https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1toychi/new_deepswe_benchmark_finds_claude_opus_",
       "extra": {
-        "revenue_score": 8
+        "revenue_score": 4
       },
-      "collected_at": "2026-05-27T16:11:58"
+      "collected_at": "2026-05-27T18:57:41"
     }
   ],
-  "updated_at": "2026-05-27T16:11:58.411363+09:00"
+  "updated_at": "2026-05-27T18:57:41.305568+09:00"
 }
