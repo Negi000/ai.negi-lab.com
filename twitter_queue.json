@@ -14997,34 +14997,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-25-qwen-27b-vllm-high-throughput-guide",
-    "title": "Qwen2.5 27Bを爆速化 vLLMでスループットを極限まで高めるやり方",
-    "url": "https://ai.negi-lab.com/posts/qwen-27b-vllm-high-throughput-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #vLLM",
-    "tweet_text": "Qwen2.5 27BをvLLMで回すとスループットが劇的に変わる。1リクエストの速さより「100リクエストを同時に捌く」PagedAttentionの恩恵がデカい。\nRTX 4090単体でもAWQ量子化なら数百tps、V100複数枚なら4桁も視野。実務で大量のデータをLLMで処理するなら、Ollama卒業してvLLM一択ですね。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-25-qwen-27b-vllm-high-throughput-guide.jpg",
-    "created_at": "2026-05-25T21:32:07.951208+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-26-pope-ai-encyclical-tech-monopoly-analysis",
-    "title": "教皇のAI回勅が暴くテックエリートの独占欲と開発者が選ぶべき「分散」の道",
-    "url": "https://ai.negi-lab.com/posts/pope-ai-encyclical-tech-monopoly-analysis/",
-    "category": "NEWS",
-    "viral_tags": "#ローカルLLM #AI倫理",
-    "tweet_text": "RTX 4090を回して感じるのは、API依存の危うさ。教皇のAI回勅は単なる倫理論ではなく「少数のエリートが世界を定義するな」という強烈な警告でした。開発者が無意識に依存している計算リソースの独占こそが、民主主義を壊す。今こそローカルLLMや分散型AIの自律性に投資するタイミング。依存はリスクです。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-26-pope-ai-encyclical-tech-monopoly-analysis.jpg",
-    "created_at": "2026-05-26T00:21:38.607226+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-26-local-llm-hardware-guide-vram-comparison",
     "title": "ローカルLLM用PC・Macのおすすめ比較！失敗しないVRAM容量と選び方",
     "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-vram-comparison/",
@@ -15037,20 +15009,6 @@
     "image_path": "/images/posts/2026-05-26-local-llm-hardware-guide-vram-comparison.jpg",
     "created_at": "2026-05-26T03:25:51.484422+09:00",
     "posted": true
-  },
-  {
-    "article_id": "2026-05-26-norway-huawei-flash-storage-llm-training-ssd-guide",
-    "title": "ローカルLLM開発で詰まるのは、GPU性能の前に「ストレージの転送速度」です。",
-    "url": "https://ai.negi-lab.com/posts/norway-huawei-flash-storage-llm-training-ssd-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "AI開発のボトルネックはGPUだけじゃない。ノルウェーが2PBのフラッシュストレージを導入した理由は、データの「I/O速度」が学習効率を左右するから。\n\nローカルLLMやCursorを快適にするなら：\n・DRAMレスSSDは避ける\n・最低2TB、できればGen4/Gen5のNVMe\n・TBW（寿命）を確認\n\nGPUに投資したなら、ストレージで妥協するのはもったいない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-26-norway-huawei-flash-storage-llm-training-ssd-guide.jpg",
-    "created_at": "2026-05-26T07:16:00.743968+09:00",
-    "posted": false
   },
   {
     "article_id": "2026-05-26-anthropic-mcp-knowledge-work-plugins-review",
@@ -15134,7 +15092,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-27-local-llm-gpu-mac-selection-guide-after-meta-legal-notice.jpg",
     "created_at": "2026-05-27T04:23:09.479904+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-27-prismml-bonsai-image-4b-webgpu-tutorial",
