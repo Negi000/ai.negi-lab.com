@@ -15177,5 +15177,19 @@
     "image_path": "/images/posts/2026-05-28-claude-code-daily-driver-hardware-guide.jpg",
     "created_at": "2026-05-28T02:43:02.413318+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-28-local-llm-best-gpu-vram-comparison-guide",
+    "title": "ローカルLLMおすすめPCスペック比較！Command-R/A時代のVRAM選びと失敗しない買い方",
+    "url": "https://ai.negi-lab.com/posts/local-llm-best-gpu-vram-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "ローカルLLMを仕事で使うなら「VRAM 24GB」が生存ライン。RTX 4090ならCommand-Rも爆速。16GB以下はAgent運用で文脈が伸びると即スワップして詰みます。\n投資回収を考えるならMac Studioのメモリ64GB以上か、4090の1枚挿しが正解。\n「動く」と「実用的」の差は、10tok/sの壁を超えられるかで決まる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-28-local-llm-best-gpu-vram-comparison-guide.jpg",
+    "created_at": "2026-05-28T04:25:54.126067+09:00",
+    "posted": false
   }
 ]
