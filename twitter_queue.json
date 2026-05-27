@@ -15163,5 +15163,19 @@
     "image_path": "/images/posts/2026-05-27-parsewise-api-agentic-multi-document-processing-review.jpg",
     "created_at": "2026-05-27T13:27:09.119908+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-27-qwen-2-5-32b-agentic-work-quantization-guide",
+    "title": "Qwen 2.5 32B 使い方｜エージェント開発でQ4量子化を避けるべき理由と安定化手順",
+    "url": "https://ai.negi-lab.com/posts/qwen-2-5-32b-agentic-work-quantization-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "ローカルLLMでエージェントを組むなら、Qwen 2.5 32BのQ4量子化（4bit）は避けるべき。VRAM 24GBに収まるメリットはあるが、数時間に一度はJSON形式が崩れて思考停止する。実務で「壊れない」安定性を求めるならQ6一択。RTX 3090/4090でも一部オフロードで動く。道具としてのAIには、賢さよりまず「出力の根性」が必要。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-27-qwen-2-5-32b-agentic-work-quantization-guide.jpg",
+    "created_at": "2026-05-27T16:12:25.844548+09:00",
+    "posted": false
   }
 ]
