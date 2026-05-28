@@ -1,97 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Gemini randomly dumped its system prompt",
-      "url": "https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 21 May 2026 13:04:21 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-22T00:38:19"
-    },
-    {
-      "source": "r/ollama",
-      "title": "I got tired of API limits, so I hooked up OpenClaw to an unlimited Qwen3.6:35b backend on a full H100 for $1.6/hr (Demo)",
-      "url": "https://www.reddit.com/r/ollama/comments/1tjmw3y/i_got_tired_of_api_limits_so_i_hooked_up_openclaw/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-21T14:50:54+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1tjmw3y/i_got_tired_of_api_limits_so_i_hooked_up_openclaw/\"> <img alt=\"I got tired of API limits, so I hooked up OpenClaw to an unlimited Qwen3.6:35b backend on a full H100 for $1.6/hr (Demo)\" src=\"https://external-preview.redd.it/d29nbHc4Mmk3aTJoMUucWSGWZ5XYYqSs5uAgBj1TZnMXdkJt1V2vTO66oeh8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=26b5eff939404f53c66200f4bbcdec6f5bb36dff\" title=\"I got tired of API limits, so I hooked up O",
-      "extra": {},
-      "collected_at": "2026-05-22T00:38:21"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Thu, 21 May 2026 15:27:00 +0000",
-      "summary": "Spotify is releasing new audiobook plans later this year",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-22T00:38:22"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Google Antigravity 2.0",
-      "url": "https://www.producthunt.com/products/google-antigravity",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Orchestrate multi-agent workflows from a desktop app </p> <p> <a href=\"https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1151355?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-22T00:38:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Novi Notes 1.1",
-      "url": "https://www.producthunt.com/products/novi-notes",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A local AI memory layer for your Mac </p> <p> <a href=\"https://www.producthunt.com/products/novi-notes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1116988?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-22T00:38:23"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Honesty in a small model drops from 35% to 0% by changing the tone of the prompt. Sharing the findings.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tjmswd/honesty_in_a_small_model_drops_from_35_to_0_by/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-21T14:47:46+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>My paper got published today at Arxiv. It raises questions about how language models behave when the framing of a request shifts. </p> <p>Small open-source AI models can be moved from honest to dishonest behaviour by little more than a change in tone. </p> <p>Asked to solve coding problems designed to be mathematically impossible, the model openly acknowledged the impossibility about a third of the time when addressed in neutral language. When the same problem w",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-22T00:38:24"
-    },
-    {
       "source": "Product Hunt",
       "title": "Slideshot",
       "url": "https://www.producthunt.com/products/slideshot",
@@ -2787,21 +2696,6 @@
       "collected_at": "2026-05-28T16:00:30"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Thu, 28 May 2026 07:00:00 +0000",
-      "summary": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
-      "extra": {
-        "revenue_score": 1
-      },
-      "collected_at": "2026-05-28T19:07:38"
-    },
-    {
       "source": "Google News",
       "title": "IDC MarketScape｜Japan Artificial Intelligence Services 2025 Vendor Assessment - ctc-g.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0hVcjJTU0lBekxZUDFsM3UzSDN4MVc1UlkyT1lHa0J3YlVEQ0tiTDhGYi15cVpnT1FYa3RocHROLWVrdWRjSld6TnU3ZWs0c0c4SjI3cXhSUDMtLU02NTdQX0tfNzZFOElmdHJaMVZwWkZ5TzBsMHRPbUFlWEJDQzFR?oc=5",
@@ -2982,7 +2876,115 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-28T21:25:36"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 28 May 2026 15:36:00 +0000",
+      "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-29T01:10:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Growati",
+      "url": "https://www.producthunt.com/products/growati",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The autopilot for YouTube post-production </p> <p> <a href=\"https://www.producthunt.com/products/growati?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1157172?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-29T01:10:42"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "SpotsNow",
+      "url": "https://www.producthunt.com/products/spotsnow",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Track who's advertising across podcasts w/ campaign insights </p> <p> <a href=\"https://www.producthunt.com/products/spotsnow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1146232?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-29T01:10:42"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Pancake",
+      "url": "https://www.producthunt.com/products/pancake-6",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> OpenClaw in Slack that makes your company autonomous </p> <p> <a href=\"https://www.producthunt.com/products/pancake-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1152111?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-29T01:10:42"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tq35a0/zai_replaced_the_network_architecture_running/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-28T13:09:11+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tq35a0/zai_replaced_the_network_architecture_running/\"> <img alt=\"Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild\" src=\"https://preview.redd.it/r2ad9gqtnv3h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ad25c6caed7db10135c38c49815a1e425bafd2d\" title=\"Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild\" /> </a> </td><td> <!-- SC_OFF ",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-29T01:10:43"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "HF models page now has a \"Base only\" toggle to filter out finetunes/quants/etc",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tq2ce9/hf_models_page_now_has_a_base_only_toggle_to/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-05-28T12:37:19+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tq2ce9/hf_models_page_now_has_a_base_only_toggle_to/\"> <img alt=\"HF models page now has a &quot;Base only&quot; toggle to filter out finetunes/quants/etc\" src=\"https://preview.redd.it/c127ne2thv3h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ff4fdfa25c29936eb72b5b7c5a6cc8707f3a36be\" title=\"HF models page now has a &quot;Base only&quot; toggle to filter out finetunes/quants/etc\" /> </a> </td><td> <!-- SC_OFF --><div clas",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-29T01:10:43"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Reachy Mini goes fully local!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tq4x48/reachy_mini_goes_fully_local/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-28T14:15:22+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tq4x48/reachy_mini_goes_fully_local/\"> <img alt=\"Reachy Mini goes fully local!\" src=\"https://external-preview.redd.it/NTVvM2Fnbmx6djNoMUbEuDQX_dG_zPQMhUClQe5uW2qNh1Ar9V0yl9uSgZE7.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=3bf5ea175f4b2f78bc0a4f421065a208bb36c60f\" title=\"Reachy Mini goes fully local!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi! Andi from Hugging Face here! My team has been working over the l",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-29T01:10:43"
     }
   ],
-  "updated_at": "2026-05-28T21:25:37.480374+09:00"
+  "updated_at": "2026-05-29T01:10:43.418794+09:00"
 }
