@@ -2899,22 +2899,115 @@
       "collected_at": "2026-05-28T07:47:41"
     },
     {
+      "source": "TechCrunch AI",
+      "title": "Why Google’s AI can’t spell Google (or anything else)",
+      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 28 May 2026 00:17:41 +0000",
+      "summary": "Google is embarrassing itself, again.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-28T13:16:53"
+    },
+    {
+      "source": "Google News",
+      "title": "AI関連ルール形成の現在地と企業に求められる視点 - KPMG",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMkxzb1ktaktDdVVEdjEtbko1a3VkTkViQkpNOTV1UURkQTdNc0lndXRwcDMxNjFURGdtODhkdVNZOWt2V3l5cUhzcnY3RlJycEwzZTVDTk0yM0owVzd4ajFHQjN3a2pKNmhRY2dyMERtSTgxYnNQeDZFVkxIRDdsd0FxTQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 27 May 2026 08:24:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOMkxzb1ktaktDdVVEdjEtbko1a3VkTkViQkpNOTV1UURkQTdNc0lndXRwcDMxNjFURGdtODhkdVNZOWt2V3l5cUhzcnY3RlJycEwzZTVDTk0yM0owVzd4ajFHQjN3a2pKNmhRY2dyMERtSTgxYnNQeDZFVkxIRDdsd0FxTQ?oc=5\" target=\"_blank\">AI関連ルール形成の現在地と企業に求められる視点</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KPMG</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-28T13:16:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Archi-Flow",
+      "url": "https://www.producthunt.com/products/archi-flow",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Visualize cloud architecture with live traffic simulations </p> <p> <a href=\"https://www.producthunt.com/products/archi-flow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1156402?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-28T13:16:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "baz.studio",
+      "url": "https://www.producthunt.com/products/bazaar-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Skills library & video editor for AI Agents </p> <p> <a href=\"https://www.producthunt.com/products/bazaar-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1153406?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-05-28T13:16:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Layers",
+      "url": "https://www.producthunt.com/products/layers-8",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create beautiful animated code snippet videos for free </p> <p> <a href=\"https://www.producthunt.com/products/layers-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1154329?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-28T13:16:54"
+    },
+    {
       "source": "r/LocalLLaMA",
-      "title": "Qwen3.6 huge quality gain from Q4 to Q6 for coding agent",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpebhw/qwen36_huge_quality_gain_from_q4_to_q6_for_coding/",
+      "title": "Vulnerability found in framework used by VLLM, many MCP servers, and other LLM tools",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpp2th/vulnerability_found_in_framework_used_by_vllm/",
       "primary_category": "GUIDE",
       "possible_categories": [
         "MONEY",
-        "NEWS",
-        "TOOL"
+        "TOOL",
+        "GUIDE"
       ],
-      "published": "2026-05-27T18:32:18+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So, last week I tried to update my unused local LLM setup. I had to stop using it because quality was too low and deepseek was too cheap.</p> <p>First thing I stopped using Ollama and now I only use llama.cpp built in server that works really great.</p> <p>The quality improvement from Q4 to Q6 is outstanding and finally a local LLM server can work very similarly to paid APIs.</p> <p>That's great! And MTP makes a big performance gain, on a dual 3090 (downvolted a",
+      "published": "2026-05-28T01:27:29+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tpp2th/vulnerability_found_in_framework_used_by_vllm/\"> <img alt=\"Vulnerability found in framework used by VLLM, many MCP servers, and other LLM tools\" src=\"https://external-preview.redd.it/wrqQUnSWuCTpvqxiG_3DlA-NncVV8d3b5hKS-S9DEow.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=864ae232ef9348fa2b774f26410eef41362470ec\" title=\"Vulnerability found in framework used by VLLM, many MCP servers, and other LLM tools\" /> </a> <",
       "extra": {
-        "revenue_score": 19
+        "revenue_score": 4
       },
-      "collected_at": "2026-05-28T07:47:42"
+      "collected_at": "2026-05-28T13:16:55"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "260K-param LLM running on an emulated 90s CPU inside an 18-year-old RTOS",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpcv2q/260kparam_llm_running_on_an_emulated_90s_cpu/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-27T17:42:49+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tpcv2q/260kparam_llm_running_on_an_emulated_90s_cpu/\"> <img alt=\"260K-param LLM running on an emulated 90s CPU inside an 18-year-old RTOS\" src=\"https://external-preview.redd.it/MHc0M29hdHZicDNoMSKFjPuRpORqs_ENJUfrd76ROtlTRf_Ra5U8Y9dDpj9i.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0fd8bb5f4627b9b4269658b1c6f8bc6ae5363e79\" title=\"260K-param LLM running on an emulated 90s CPU inside an 18-year-old RTOS\" /> </a> </td><td> ",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-28T13:16:55"
     }
   ],
-  "updated_at": "2026-05-28T07:47:42.071434+09:00"
+  "updated_at": "2026-05-28T13:16:55.295653+09:00"
 }
