@@ -15205,5 +15205,19 @@
     "image_path": "/images/posts/2026-05-28-baz-studio-ai-agent-skill-library-review.jpg",
     "created_at": "2026-05-28T13:17:45.792117+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-28-secure-vllm-mcp-docker-setup-guide",
+    "title": "vLLMとMCPサーバーの脆弱性対策！Dockerで安全なAI実行環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/secure-vllm-mcp-docker-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #サイバーセキュリティ",
+    "tweet_text": "vLLMやMCPサーバーの脆弱性、他人事じゃない。RTX 4090 2枚挿しの私の環境でも「pip直叩き」は絶対にしない。\n\n実務でAIを動かすならDockerでの隔離は必須。127.0.0.1でのポート縛り、非root実行、read-only設定。これだけでRCEリスクは激減する。\n\n「動いた」の先にある、自分とデータを守るための堅牢な構築ガイドを書いた。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-28-secure-vllm-mcp-docker-setup-guide.jpg",
+    "created_at": "2026-05-28T16:01:06.308671+09:00",
+    "posted": false
   }
 ]
