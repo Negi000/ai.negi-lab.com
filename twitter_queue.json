@@ -15025,34 +15025,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-26-marpy-io-python-ai-coding-platform-review",
-    "title": "marpy.io レビュー：Python開発を「AI任せ」から「AI共生」に変える新基準",
-    "url": "https://ai.negi-lab.com/posts/marpy-io-python-ai-coding-platform-review/",
-    "category": "TOOL",
-    "viral_tags": "#Python #AIエージェント",
-    "tweet_text": "Pythonエンジニアはmarpy.ioを一度触っておくべき。Cursorとの決定的な違いは「環境構築の自動修復」。ModuleNotFoundErrorが出た瞬間にAIが勝手にpip installしてリランする。単なるコード生成を超えて、実行環境までAIが責任を持つ感覚。プロトタイプ製作の速度が一段階変わります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-26-marpy-io-python-ai-coding-platform-review.jpg",
-    "created_at": "2026-05-26T19:02:11.239251+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-27-qwen35-35b-mtp-local-setup-guide",
-    "title": "Qwen3.5 35B A3B 使い方と環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/qwen35-35b-mtp-local-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "Qwen3.5 35B A3BのMTP保持版を検証。RTX 4090環境にてQ4_K_M量子化で動作確認完了。MTPの「先読み」による論理の安定感は、従来の30Bクラスを超えて70Bに迫る勢い。Uncensoredゆえの素直な指示追従性も実務向き。VRAM 24GB一枚でこの性能が手に入るなら、もうクラウドAPIに戻る理由は少ないですね。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-27-qwen35-35b-mtp-local-setup-guide.jpg",
-    "created_at": "2026-05-27T00:55:05.018767+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-27-microsoft-agent-governance-toolkit-hardware-guide",
     "title": "AIエージェント開発で失敗しない機材選びとMicrosoft Agent Governance Toolkit比較",
     "url": "https://ai.negi-lab.com/posts/microsoft-agent-governance-toolkit-hardware-guide/",
@@ -15079,62 +15051,6 @@
     "image_path": "/images/posts/2026-05-27-local-llm-gpu-mac-selection-guide-after-meta-legal-notice.jpg",
     "created_at": "2026-05-27T04:23:09.479904+09:00",
     "posted": true
-  },
-  {
-    "article_id": "2026-05-27-prismml-bonsai-image-4b-webgpu-tutorial",
-    "title": "Bonsai Image 4B 使い方！ブラウザとWebGPUで1-bit画像生成を試す",
-    "url": "https://ai.negi-lab.com/posts/prismml-bonsai-image-4b-webgpu-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #WebGPU",
-    "tweet_text": "ブラウザだけで40億パラメータの画像生成が動く時代。PrismMLのBonsai Image 4Bを試しましたが、1-bit/Ternary量子化の恩恵でVRAM消費が驚くほど少ない。WebGPUを使えばPython環境すら不要。RTX 3060クラスでも十分に実用的。ローカルAIの主戦場はもはやWebブラウザに移りつつあります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-27-prismml-bonsai-image-4b-webgpu-tutorial.jpg",
-    "created_at": "2026-05-27T07:36:55.022491+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-27-parsewise-api-agentic-multi-document-processing-review",
-    "title": "Parsewise API 複数ドキュメントをエージェントが構造化する次世代の抽出パイプライン",
-    "url": "https://ai.negi-lab.com/posts/parsewise-api-agentic-multi-document-processing-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #RAG開発",
-    "tweet_text": "RAGの精度がパースミスで頭打ちなら、Parsewise APIが解決策になる。従来のパーサーと違い、AIエージェントが複数ドキュメントを跨いで文脈を理解し、定義したJSONスキーマ通りに情報を抜き出す。実機検証では、複雑な表組みや単位の統一もinstructions一つで完結。単なるOCRから、思考する抽出パイプラインへの乗り換え時。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-27-parsewise-api-agentic-multi-document-processing-review.jpg",
-    "created_at": "2026-05-27T13:27:09.119908+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-27-qwen-2-5-32b-agentic-work-quantization-guide",
-    "title": "Qwen 2.5 32B 使い方｜エージェント開発でQ4量子化を避けるべき理由と安定化手順",
-    "url": "https://ai.negi-lab.com/posts/qwen-2-5-32b-agentic-work-quantization-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "ローカルLLMでエージェントを組むなら、Qwen 2.5 32BのQ4量子化（4bit）は避けるべき。VRAM 24GBに収まるメリットはあるが、数時間に一度はJSON形式が崩れて思考停止する。実務で「壊れない」安定性を求めるならQ6一択。RTX 3090/4090でも一部オフロードで動く。道具としてのAIには、賢さよりまず「出力の根性」が必要。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-27-qwen-2-5-32b-agentic-work-quantization-guide.jpg",
-    "created_at": "2026-05-27T16:12:25.844548+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-27-studio-practice-mac-screen-simulator-review",
-    "title": "Studio Practice レビュー 全Macデバイスの画面表示を一度に検証する",
-    "url": "https://ai.negi-lab.com/posts/studio-practice-mac-screen-simulator-review/",
-    "category": "TOOL",
-    "viral_tags": "#フロントエンド開発 #Webデザイン",
-    "tweet_text": "Web開発で「Macだと崩れる」問題を一瞬で消すStudio Practiceを検証。URL1つでStudio DisplayからMBPまで全Mac画面を同時シミュレート。レスポンシブモードで幅を縮める作業はもう古い。5K/6Kの高解像度環境での余白死をデプロイ前に潰せるのは実務効率が違いすぎる。Apple Silicon環境なら動作も爆速。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-27-studio-practice-mac-screen-simulator-review.jpg",
-    "created_at": "2026-05-27T18:58:04.641068+09:00",
-    "posted": false
   },
   {
     "article_id": "2026-05-27-duckduckgo-installs-spike-google-ai-backlash",
@@ -15176,7 +15092,7 @@
     "question_text": null,
     "image_path": "/images/posts/2026-05-28-local-llm-best-gpu-vram-comparison-guide.jpg",
     "created_at": "2026-05-28T04:25:54.126067+09:00",
-    "posted": false
+    "posted": true
   },
   {
     "article_id": "2026-05-28-qwen2-5-coder-q6-quantization-setup-guide",
