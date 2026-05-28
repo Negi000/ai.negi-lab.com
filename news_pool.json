@@ -1,71 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "Beijing says China, US should work together to promote AI governance - 時事通信ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zY0QxZEE2WjFiVk9SSDhGb1ZHaUFkTTlTdjE0NklOWTMxSFVSX2E3emV1a0hFUU9MTkZoWHowSW0tbE9tSF9MWXZkbkk4RVZYcEE?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 21 May 2026 10:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zY0QxZEE2WjFiVk9SSDhGb1ZHaUFkTTlTdjE0NklOWTMxSFVSX2E3emV1a0hFUU9MTkZoWHowSW0tbE9tSF9MWXZkbkk4RVZYcEE?oc=5\" target=\"_blank\">Beijing says China, US should work together to promote AI governance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-21T21:13:53"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Tycoon AI",
-      "url": "https://www.producthunt.com/products/tycoon-us",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Run one-person companies entirely with AI agents </p> <p> <a href=\"https://www.producthunt.com/products/tycoon-us?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1152148?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-05-21T21:13:53"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Mixpanel Headless",
-      "url": "https://www.producthunt.com/products/mixpanel",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Programmatic access to product analytics for agents and devs </p> <p> <a href=\"https://www.producthunt.com/products/mixpanel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1152064?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-21T21:13:53"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "110 tok/s with 12GB VRAM on Qwen3.6 35B A3B and ik_llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tjh7az/110_toks_with_12gb_vram_on_qwen36_35b_a3b_and_ik/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-21T11:09:47+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Had been getting <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t82zxv/80_toksec_and_128k_context_on_12gb_vram_with/\">great MTP performance</a> with <a href=\"https://github.com/ggml-org/llama.cpp\">llama.cpp</a> on my RTX 4070 Super 12GB, until they actually merged the MTP PR. Then, performance tanked and was barely above non-MTP. So, I decided to try out <a href=\"https://github.com/ikawrakow/ik_llama.cpp\">ik_llama.cpp</a> since it also supports MTP and i",
-      "extra": {
-        "revenue_score": 14
-      },
-      "collected_at": "2026-05-21T21:13:54"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Gemini randomly dumped its system prompt",
       "url": "https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c",
@@ -2512,21 +2447,6 @@
       "collected_at": "2026-05-27T21:20:39"
     },
     {
-      "source": "GitHub Trending",
-      "title": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "extra": {
-        "stars_today": "1,737 stars today"
-      },
-      "collected_at": "2026-05-28T00:56:33"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
       "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
@@ -2974,7 +2894,95 @@
         "revenue_score": 7
       },
       "collected_at": "2026-05-28T19:07:40"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+      "url": "https://arxiv.org/abs/2605.21779",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Wed, 27 May 2026 17:42:24 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-28T21:25:33"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Python tool for converting files and office documents to Markdown.",
+      "extra": {
+        "stars_today": "1,263 stars today"
+      },
+      "collected_at": "2026-05-28T21:25:35"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "extra": {
+        "stars_today": "210 stars today"
+      },
+      "collected_at": "2026-05-28T21:25:35"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "OpenMOSS/MOSS-TTS",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
+      "extra": {
+        "stars_today": "53 stars today"
+      },
+      "collected_at": "2026-05-28T21:25:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Sublern",
+      "url": "https://www.producthunt.com/products/sublern",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Translate any word in video subtitles with one hover </p> <p> <a href=\"https://www.producthunt.com/products/sublern?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1157151?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-28T21:25:36"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Revolte",
+      "url": "https://www.producthunt.com/products/revolte",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI for Software Engineering </p> <p> <a href=\"https://www.producthunt.com/products/revolte?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1145256?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-28T21:25:36"
     }
   ],
-  "updated_at": "2026-05-28T19:07:40.426709+09:00"
+  "updated_at": "2026-05-28T21:25:37.480374+09:00"
 }
