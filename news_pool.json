@@ -2,86 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
-      "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 22 May 2026 18:17:07 +0000",
-      "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony, and a valuation target that would make it the largest IPO in American [&#8230;]",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-05-23T03:54:41"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "BeeLlama v0.2.0 – major DFlash update. Single RTX 3090: Qwen 3.6 27B up to 164 tps (4.40x), Gemma 4 31B up to 177.8 tps (4.93x). Prompt processing speed near baseline.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkpz2y/beellama_v020_major_dflash_update_single_rtx_3090/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-22T17:34:59+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>BeeLlama v0.2.0 is here!</strong></p> <blockquote> <p>Not quite a pegasus, but close enough.</p> </blockquote> <p><a href=\"https://github.com/Anbeeld/beellama.cpp\"><strong>GitHub</strong></a> <strong>|</strong> <a href=\"https://github.com/Anbeeld/beellama.cpp/blob/main/docs/quickstart-qwen36-dflash.md\"><strong>Qwen 3.6 27B Quick Start</strong></a> <strong>|</strong> <a href=\"https://github.com/Anbeeld/beellama.cpp/blob/main/docs/quickstart-gemma-4-31b-df",
-      "extra": {
-        "revenue_score": 14
-      },
-      "collected_at": "2026-05-23T03:54:42"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "ByteShape Qwen3.6-35B-A3B: 30% faster than Unsloth IQ on 6GB VRAM laptop",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tknjcx/byteshape_qwen3635ba3b_30_faster_than_unsloth_iq/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-22T16:10:15+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A few days ago I posted about my experiments with MTP on a 6GB VRAM laptop. That didn't work so well; CPU offload hurts MTP performance badly. But now I've tried out the <a href=\"https://byteshape.com/blogs/Qwen3.6-35B-A3B/\">new ByteShape quants</a> for Qwen3.6-35B-A3B that are claimed to be both smaller and faster than others while still having excellent quality. I decided to compare my previous best Unsloth UD-IQ4_XS setup head-to-head with the ByteShape &quot",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-05-23T03:54:42"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
-      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 22 May 2026 21:02:36 +0000",
-      "summary": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-23T07:14:58"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "whosthere",
-      "url": "https://www.producthunt.com/products/whosthere",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Local Area Network discovery tool with an interactive TUI </p> <p> <a href=\"https://www.producthunt.com/products/whosthere?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1152485?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-23T07:14:59"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "AI is being used to resurrect the voices of dead pilots",
       "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
       "primary_category": "NEWS",
@@ -2680,22 +2600,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "extra": {
-        "stars_today": "460 stars today"
-      },
-      "collected_at": "2026-05-30T00:51:56"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "galilai-group/stable-worldmodel",
       "url": "https://github.com/galilai-group/stable-worldmodel",
       "primary_category": "TOOL",
@@ -2886,7 +2790,128 @@
         "revenue_score": 2
       },
       "collected_at": "2026-05-30T02:53:16"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 29 May 2026 19:38:27 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-30T07:40:47"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "dreammis/social-auto-upload",
+      "url": "https://github.com/dreammis/social-auto-upload",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
+      "extra": {
+        "stars_today": "185 stars today"
+      },
+      "collected_at": "2026-05-30T07:40:48"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Coders are refusing to work without AI — and that could come back to bite them",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 29 May 2026 22:14:22 +0000",
+      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-30T07:40:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Drafted",
+      "url": "https://www.producthunt.com/products/drafted-4",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Design a home instantly with AI </p> <p> <a href=\"https://www.producthunt.com/products/drafted-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1158437?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-30T07:40:49"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "MoDev",
+      "url": "https://www.producthunt.com/products/modev",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AI dev environment built for your phone. </p> <p> <a href=\"https://www.producthunt.com/products/modev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1146359?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-30T07:40:49"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GPS",
+      "url": "https://www.producthunt.com/products/gps-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Memory layer for LLMs that stores repo rules + past lessons </p> <p> <a href=\"https://www.producthunt.com/products/gps-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1158032?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-30T07:40:49"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Breaking the music supply constraint",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1treuy3/breaking_the_music_supply_constraint/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-05-29T20:36:26+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1treuy3/breaking_the_music_supply_constraint/\"> <img alt=\"Breaking the music supply constraint\" src=\"https://preview.redd.it/j3qncb2j054h1.jpg?width=140&amp;height=134&amp;auto=webp&amp;s=0483218721af215919ab3463dc24c5e5e2550101\" title=\"Breaking the music supply constraint\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I just cancelled my music subscriptions to save some cash and wanted to share the self-hosted music su",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-30T07:40:50"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.6-27B Quantization Benchmark",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tr9vzn/qwen3627b_quantization_benchmark/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-29T17:53:19+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tr9vzn/qwen3627b_quantization_benchmark/\"> <img alt=\"Qwen3.6-27B Quantization Benchmark\" src=\"https://preview.redd.it/awcfprb5744h1.png?width=140&amp;height=105&amp;auto=webp&amp;s=80295b9c977b7615680ea4cef470dd684b51692c\" title=\"Qwen3.6-27B Quantization Benchmark\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi everyone!</p> <p>This is my attempt to benchmark and compare the quality of some of the well known Qwen3.6 ",
+      "extra": {
+        "revenue_score": 9
+      },
+      "collected_at": "2026-05-30T07:40:50"
     }
   ],
-  "updated_at": "2026-05-30T02:53:16.961385+09:00"
+  "updated_at": "2026-05-30T07:40:50.250624+09:00"
 }
