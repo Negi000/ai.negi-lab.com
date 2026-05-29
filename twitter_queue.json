@@ -15095,34 +15095,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-28-secure-vllm-mcp-docker-setup-guide",
-    "title": "vLLMとMCPサーバーの脆弱性対策！Dockerで安全なAI実行環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/secure-vllm-mcp-docker-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #サイバーセキュリティ",
-    "tweet_text": "vLLMやMCPサーバーの脆弱性、他人事じゃない。RTX 4090 2枚挿しの私の環境でも「pip直叩き」は絶対にしない。\n\n実務でAIを動かすならDockerでの隔離は必須。127.0.0.1でのポート縛り、非root実行、read-only設定。これだけでRCEリスクは激減する。\n\n「動いた」の先にある、自分とデータを守るための堅牢な構築ガイドを書いた。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-28-secure-vllm-mcp-docker-setup-guide.jpg",
-    "created_at": "2026-05-28T16:01:06.308671+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-28-money-printer-turbo-ai-video-generation-review",
-    "title": "MoneyPrinterTurbo AIによるショート動画量産の実用性と導入ガイド",
-    "url": "https://ai.negi-lab.com/posts/money-printer-turbo-ai-video-generation-review/",
-    "category": "TOOL",
-    "viral_tags": "#MoneyPrinterTurbo #動画生成AI",
-    "tweet_text": "GitHubで1,700スター/日を超えたMoneyPrinterTurboを検証。一言で言えば「ショート動画の自動工場」。\nキーワード1つで台本・音声・素材選定・字幕を完結。SaaS系ツールと違いAPI実費のみで運用できるのが最大の強み。\nRTX 4090で回すとエンコード爆速。動画量産で稼ぐフェーズなら、InVideoよりこっちをローカル構築する方が圧倒的に高コスパです。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-28-money-printer-turbo-ai-video-generation-review.jpg",
-    "created_at": "2026-05-28T19:08:20.787139+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-28-vertu-luxury-ai-foldable-hermes-ceo-agent",
     "title": "$6,880のVertu製AI折りたたみスマホ：CEO専用エージェントの実力と導入の是非",
     "url": "https://ai.negi-lab.com/posts/vertu-luxury-ai-foldable-hermes-ceo-agent/",
