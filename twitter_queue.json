@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-05-30-llamacpp-vram-save-flash-attention-f16.jpg",
     "created_at": "2026-05-30T00:52:26.345477+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-30-claude-code-ai-coding-guide-and-spec-comparison",
+    "title": "Claude Code比較と選び方：AIコーディングを高速化する推奨スペックと周辺機器",
+    "url": "https://ai.negi-lab.com/posts/claude-code-ai-coding-guide-and-spec-comparison/",
+    "category": "MONEY",
+    "viral_tags": "#ClaudeCode #AIコーディング",
+    "tweet_text": "Claude CodeがGitHub Trendingで話題だけど、実務で使うならAPI代より先に「PCスペック」を見直すべき。\nCLIエージェントを回しながらDockerとLSPを叩くなら、メモリ32GBは最低ライン。Apple Siliconなら48GB以上、RTXならVRAM 16GBが生存境界線。\n道具に投資できないエンジニアからAIに置いていかれる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-30-claude-code-ai-coding-guide-and-spec-comparison.jpg",
+    "created_at": "2026-05-30T02:54:14.538550+09:00",
+    "posted": false
   }
 ]
