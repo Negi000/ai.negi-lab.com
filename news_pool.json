@@ -1,35 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
-      "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 20 May 2026 21:11:55 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-22T13:17:42"
-    },
-    {
-      "source": "Google News",
-      "title": "AI本人認証『ONLINE FACE®』が東京デザインアワード2026で3部門金賞受賞 - Koubo",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5vQkpQeWs3QWhxdnpOMVJrTXN6WEdUMzdqaU16cXcyU2s2VUpVYks5SXZrVWZBVTBFNXlNVG9XdnNqV3J6?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Fri, 22 May 2026 00:16:27 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE5vQkpQeWs3QWhxdnpOMVJrTXN6WEdUMzdqaU16cXcyU2s2VUpVYks5SXZrVWZBVTBFNXlNVG9XdnNqV3J6?oc=5\" target=\"_blank\">AI本人認証『ONLINE FACE®』が東京デザインアワード2026で3部門金賞受賞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Koubo</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-22T13:17:45"
-    },
-    {
       "source": "Google News",
       "title": "今話題のClaude Mythos騒動をまとめる ～マインドチェンジとスピードアップは必要だが、本質的な対策は今までと同じ - dir.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rMjNEcnJsN1Z5VW4wbmNHeXh6dS12LXZVN3FQLTBWVV9RSDZ4cU84UEl5WDF5UGZMb0xNcS04ckZPTTJJSlBFTFBTck53SVBKVEFRTnd5OGw3U0o2TVNZQ094LWFWQ00?oc=5",
@@ -2847,19 +2818,6 @@
     },
     {
       "source": "HN AI Coding",
-      "title": "Dynamic Workflows in Claude Code",
-      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Thu, 28 May 2026 16:52:21 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-29T07:44:23"
-    },
-    {
-      "source": "HN AI Coding",
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
       "primary_category": "NEWS",
@@ -2961,7 +2919,51 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-29T07:44:26"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Various LLM Smells",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 28 May 2026 19:02:18 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-29T13:19:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 29 May 2026 00:44:37 +0000",
+      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-29T13:19:04"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "StepFun 3.7 Flash",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tqloii/stepfun_37_flash/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-05-29T00:32:52+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>StepFun dropped Step 3.7 Flash, 196B total / 11B active MoE, runs locally on 128GB RAM</p> <p>It's a multimodal MoE (196B total params, only 11B active) with a built-in 1.8B ViT for vision.</p> <p>Benchmark highlights vs. other flash-tier models:</p> <p>- SWE-Bench Pro: 56.26% (beats DeepSeek V4 Flash at 55.6%, matches Gemini 3.5 Flash at 55.1%)</p> <p>- DeepSearchQA F1: 92.82%, competitive with GPT 5.5 (93.98%)</p> <p>- HLE w/ tools: 47.2%, solid for a flash-cl",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-29T13:19:06"
     }
   ],
-  "updated_at": "2026-05-29T07:44:26.994166+09:00"
+  "updated_at": "2026-05-29T13:19:06.531428+09:00"
 }
