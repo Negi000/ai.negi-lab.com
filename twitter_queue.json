@@ -15205,5 +15205,19 @@
     "image_path": "/images/posts/2026-05-29-local-llm-benchmark-tutorial-lm-eval.jpg",
     "created_at": "2026-05-29T16:01:35.484015+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-30-llamacpp-vram-save-flash-attention-f16",
+    "title": "llama.cppでVRAM消費を抑えて長文推論を動かす方法",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-vram-save-flash-attention-f16/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llamacpp",
+    "tweet_text": "llama.cppにFlash Attentionのfp16マスク最適化が到来。RTX 4090で検証した結果、32kコンテキスト設定時に約420MBのVRAM節約を確認。ミドルレンジGPUで長文推論が即死していた層には最高のアップデートです。n_ctxを盛るなら最新ソースからのビルドは必須。浮いたVRAMでもう一段上の量子化が狙える。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-30-llamacpp-vram-save-flash-attention-f16.jpg",
+    "created_at": "2026-05-30T00:52:26.345477+09:00",
+    "posted": false
   }
 ]
