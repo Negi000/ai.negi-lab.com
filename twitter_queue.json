@@ -15191,5 +15191,19 @@
     "image_path": "/images/posts/2026-05-29-moss-tts-high-fidelity-speech-review-guide.jpg",
     "created_at": "2026-05-29T13:19:34.204557+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-29-local-llm-benchmark-tutorial-lm-eval",
+    "title": "Local LLMベンチマーク測定のやり方！自機モデルと自分の知能を数値で比較する",
+    "url": "https://ai.negi-lab.com/posts/local-llm-benchmark-tutorial-lm-eval/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Llama3",
+    "tweet_text": "Local LLMの「なんとなく賢い」を卒業する。\nlm-evaluation-harnessを使って自機モデルのMMLUスコアを測定する環境を構築しました。\nRTX 4090 2枚挿しの実機検証では、4bit量子化による劣化は僅か2%以内。\nRedditで話題の「AI vs 人間」の比較を自前で実装し、数字で判断するワークフローを作ります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-29-local-llm-benchmark-tutorial-lm-eval.jpg",
+    "created_at": "2026-05-29T16:01:35.484015+09:00",
+    "posted": false
   }
 ]
