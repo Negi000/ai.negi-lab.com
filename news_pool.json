@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "SignalLEMO - Ai Outreach Made Simple",
-      "url": "https://www.producthunt.com/products/signallemo-ai-outreach-made-simple",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI-powered lead outreach for field service contractors </p> <p> <a href=\"https://www.producthunt.com/products/signallemo-ai-outreach-made-simple?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1153747?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-23T19:25:44"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Bulkmark",
-      "url": "https://www.producthunt.com/products/bulkmark-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Transform your Twitter/X Bookmarks into real knowledge </p> <p> <a href=\"https://www.producthunt.com/products/bulkmark-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1123370?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-23T19:25:44"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Gemma4 26b a4b Apex quant is quite good",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tl9woz/gemma4_26b_a4b_apex_quant_is_quite_good/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-05-23T07:44:54+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I tried mudler's apex quant for gemma4 26b a4b and it was amazing! I got 38tps at 90.000 context with no loop and suprisingly no quality degradation. I used mudler/gemma-4-26B-A4B-it-APEX-GGUF / APEX-I-Compact (15gb) on my RX 9060 XT 16 GB with llama.cpp Vulkan. </p> <p>For comperison, my previous quant gemma4 26b a4b unsloth ud-q5kxl quant (21.2gb) looped with similar long-context test at 50k context</p> <p>Im not claiming its a universally better quant. But it",
-      "extra": {
-        "revenue_score": 11
-      },
-      "collected_at": "2026-05-23T19:25:45"
-    },
-    {
       "source": "r/ollama",
       "title": "How to improve tool calling for OSS models",
       "url": "https://www.reddit.com/r/ollama/comments/1tlb1uc/how_to_improve_tool_calling_for_oss_models/",
@@ -2596,21 +2551,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "PSA",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tr7hzw/psa/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-05-29T16:35:14+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tr7hzw/psa/\"> <img alt=\"PSA\" src=\"https://preview.redd.it/qnozk34it34h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e488a426c73d10537fb8d2241348c0d8a1331576\" title=\"PSA\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Signal_Ad657\"> /u/Signal_Ad657 </a> <br /> <span><a href=\"https://i.redd.it/qnozk34it34h1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/c",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-30T02:53:16"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "A moment of thanks for DeepSeek",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tqyl20/a_moment_of_thanks_for_deepseek/",
       "primary_category": "GUIDE",
@@ -2866,7 +2806,37 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-30T17:31:28"
+    },
+    {
+      "source": "Google News",
+      "title": "Japan to Set Special Aid Category for Community-Based Startups - 時事通信ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xZ0wyZFBQQTkzZk8wNVY4VEdlSDVQZG1LTU5FeWRxX0pLNld3QjNheFpWOXR5Z2EzV1RSMDcxXzhSN3c4d09XTmE1VDBTeHJoLVE?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 30 May 2026 05:31:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xZ0wyZFBQQTkzZk8wNVY4VEdlSDVQZG1LTU5FeWRxX0pLNld3QjNheFpWOXR5Z2EzV1RSMDcxXzhSN3c4d09XTmE1VDBTeHJoLVE?oc=5\" target=\"_blank\">Japan to Set Special Aid Category for Community-Based Startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-30T19:47:08"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trdnap/fed_up_with_vibe_coders_dev_sneaks_datanuking/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-05-29T19:53:16+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1trdnap/fed_up_with_vibe_coders_dev_sneaks_datanuking/\"> <img alt=\"Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code\" src=\"https://external-preview.redd.it/shYuWDFSizaQAwPlKyO6UxTlITA2WWjQjPg8cyWmYuI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d72df82082a508199447d216a4ac37acf19827e\" title=\"Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code\" /> </a> </td><td>",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-30T19:47:09"
     }
   ],
-  "updated_at": "2026-05-30T17:31:28.344743+09:00"
+  "updated_at": "2026-05-30T19:47:09.058187+09:00"
 }
