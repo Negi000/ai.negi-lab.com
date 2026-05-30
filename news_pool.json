@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "Removing Vision from model",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlhkts/removing_vision_from_model/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-05-23T14:11:59+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I removed mmproj file from models to remove vision and save my vram. But just curious, is this really don't affect its text ability? </p> <p>I use Qwen 3.6 35b a3b by unsloth and mainly use for agentic coding</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Interesting-Print366\"> /u/Interesting-Print366 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tlhkts/removing_vision_from_model/\">[link]</a></sp",
-      "extra": {
-        "revenue_score": 11
-      },
-      "collected_at": "2026-05-24T00:46:19"
-    },
-    {
       "source": "r/ollama",
       "title": "Built a daily news crossword using Ollama and qwen:32b",
       "url": "https://www.reddit.com/r/ollama/comments/1tllpek/built_a_daily_news_crossword_using_ollama_and/",
@@ -2815,22 +2800,6 @@
       "collected_at": "2026-05-30T22:49:23"
     },
     {
-      "source": "Google News",
-      "title": "ガバメントAI「源内」 - デジタル庁",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IR184RU9sdjZzMktVTVMyaFhxTUN6cEw2Mm43MGlHaUZRQzFxU3hHa0E0TktCUG81cVhrdDFyQW1WSl8zS3lLRGh1YVZ4alNmX2c?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Sat, 30 May 2026 09:47:27 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IR184RU9sdjZzMktVTVMyaFhxTUN6cEw2Mm43MGlHaUZRQzFxU3hHa0E0TktCUG81cVhrdDFyQW1WSl8zS3lLRGh1YVZ4alNmX2c?oc=5\" target=\"_blank\">ガバメントAI「源内」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">デジタル庁</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-30T22:49:24"
-    },
-    {
       "source": "Product Hunt",
       "title": "Step 3.7 Flash",
       "url": "https://www.producthunt.com/products/step-3-5-flash",
@@ -2876,7 +2845,53 @@
         "revenue_score": 10
       },
       "collected_at": "2026-05-30T22:49:25"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Rsync 3.4.3 has hundreds of Claude commits",
+      "url": "https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 30 May 2026 08:32:57 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-31T00:50:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 30 May 2026 15:30:00 +0000",
+      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-31T00:50:03"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gryphe/Pantheon-Reasoning-27B · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trvo30/gryphepantheonreasoning27b_hugging_face/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-30T09:56:03+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1trvo30/gryphepantheonreasoning27b_hugging_face/\"> <img alt=\"Gryphe/Pantheon-Reasoning-27B · Hugging Face\" src=\"https://external-preview.redd.it/nAtzO7oxc5PE-hLOQbkdcfGgRQKQCiTpVE3Y5v9SK1A.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aea1ac64ca9d6749d8c45edcdb01eae28113f963\" title=\"Gryphe/Pantheon-Reasoning-27B · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>from Gryphe:</p> <p>An experiment in bringin",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-31T00:50:05"
     }
   ],
-  "updated_at": "2026-05-30T22:49:25.306257+09:00"
+  "updated_at": "2026-05-31T00:50:05.099040+09:00"
 }
