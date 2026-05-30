@@ -15191,5 +15191,19 @@
     "image_path": "/images/posts/2026-05-30-local-llm-gpu-comparison-guide-3000-tokens.jpg",
     "created_at": "2026-05-30T07:41:13.801734+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-30-microsoft-markitdown-python-rag-review",
+    "title": "microsoft/markitdown あらゆるファイルを一式Markdown変換するRAG時代の必須ツール",
+    "url": "https://ai.negi-lab.com/posts/microsoft-markitdown-python-rag-review/",
+    "category": "TOOL",
+    "viral_tags": "#RAG #エンジニア",
+    "tweet_text": "MicrosoftのmarkitdownがRAG開発の救世主になる予感。\nExcel、PDF、パワポだけでなく画像や音声まで「LLMが読めるMarkdown」に一括変換。\n画像内のグラフをGPT-4oに説明させて埋め込む機能が標準で使えるのは熱い。\n泥臭いデータ前処理に時間を溶かすのはもう終わりにしましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-30-microsoft-markitdown-python-rag-review.jpg",
+    "created_at": "2026-05-30T13:04:26.381248+09:00",
+    "posted": false
   }
 ]
