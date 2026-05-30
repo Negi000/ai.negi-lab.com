@@ -1,67 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Built a daily news crossword using Ollama and qwen:32b",
-      "url": "https://www.reddit.com/r/ollama/comments/1tllpek/built_a_daily_news_crossword_using_ollama_and/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-05-23T16:52:33+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>CrossGoss is a daily crossword where every clue is a real news story. Each morning a pipeline fetches articles, summarises them, then runs qwen:32b through Ollama locally to filter and deduplicate. Whatever passes gets its keyword extracted and fed into a backtracking solver that builds the crossword grid. The clue for each answer is the article summary with the keyword blanked out.</p> <p>The local build uses Ollama with qwen:32b for all the LLM work. Getting t",
-      "extra": {},
-      "collected_at": "2026-05-24T03:01:48"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Vibedock",
-      "url": "https://www.producthunt.com/products/vibedock",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Toggle Claude Code MCP servers from your menu bar </p> <p> <a href=\"https://www.producthunt.com/products/vibedock?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1153399?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-24T03:01:50"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "note.md",
-      "url": "https://www.producthunt.com/products/note-md",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Local-first markdown based workspace for research writings </p> <p> <a href=\"https://www.producthunt.com/products/note-md?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1153243?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-24T03:01:50"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "GPT 5.5 \"secret sauce\" is just having the thinking be some stupid caveman mode?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tljrtk/gpt_55_secret_sauce_is_just_having_the_thinking/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-05-23T15:38:11+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I think I had GPT-5.5 leak its trace during a normal conversation, and it really reads like the caveman mode fad from a few months back.</p> <p>Maybe we can achieve better token efficiency by taking some high-quality thinking trace from an open model, &quot;caveman-izing&quot; it, and fine-tuning on it.</p> <p>Here is the full log of GPT-5.5 going insane: <a href=\"https://gist.github.com/aussetg/20747ae00df17992acb4ebdfcd8d8d88\">https://gist.github.com/aussetg/2",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-05-24T03:01:50"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Top 10 Fastest Growing AI repos this week",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlssxi/top_10_fastest_growing_ai_repos_this_week/",
@@ -2891,7 +2830,23 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-31T00:50:05"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "Sat, 30 May 2026 16:30:00 +0000",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-05-31T03:02:17"
     }
   ],
-  "updated_at": "2026-05-31T00:50:05.099040+09:00"
+  "updated_at": "2026-05-31T03:02:18.533766+09:00"
 }
