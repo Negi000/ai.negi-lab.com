@@ -1,68 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "really Ollama?",
-      "url": "https://www.reddit.com/r/ollama/comments/1tm1k7l/really_ollama/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-24T04:10:53+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>so I posted about suspected nerfing because multiple models that performed well for me on other providers had completely incompetent responses for an extended period. I was a MAX subscriber, mind you</p> <p>And speeds were always great for me.</p> <p>I was singing Ollamas praises in several posts on Reddit.</p> <p>But one by one (first kimi 2.6 then Deepseek V4 Pro then GLM 5.1, the final straw) models I had great success with I bailed on because the model was j",
-      "extra": {},
-      "collected_at": "2026-05-24T15:43:32"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "NVlabs/LongLive",
-      "url": "https://github.com/NVlabs/LongLive",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "LongLive 2.0: Infra - Long Video Gen",
-      "extra": {
-        "stars_today": "94 stars today"
-      },
-      "collected_at": "2026-05-24T15:43:33"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Is there any reason for an uncensored model if you have no interest in roleplaying?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tlzvfs/is_there_any_reason_for_an_uncensored_model_if/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-24T02:49:19+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>My rag I've been building is much in response to having a LLM that I feel more confident in knowing where the knowledge base is coming from especially after the Open AI deal with the Pentagon. So, when I saw &quot;uncensored&quot; heretic models, I thought that was the main usage of those models and thought I would need them.</p> <p>But in doing various tests, it seems there's random problems that come up with them that don't come up in regular versions. And the",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-05-24T15:43:34"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Vision-capable LLMs vs. OCR for long-document (including charts, images, tables, etc.) QA",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tm0800/visioncapable_llms_vs_ocr_for_longdocument/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-24T03:05:31+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I benchmarked vision-capable LLMs (the &quot;just attach the PDF and let the model read it&quot; pattern) against OCR-based pipelines on 30 long, image-heavy PDFs from MMLongBench-Doc (<a href=\"https://github.com/mayubo2333/MMLongBench-Doc\">https://github.com/mayubo2333/MMLongBench-Doc</a>). There were 171 questions in total, using Claude Sonnet 4.5 as the LLM.</p> <p>Post-retry results:</p> <table><thead> <tr> <th align=\"left\">Approach</th> <th align=\"left\">Acc",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-24T15:43:34"
-    },
-    {
       "source": "Product Hunt",
       "title": "Stitch 3.0 by Google",
       "url": "https://www.producthunt.com/products/stitch-by-google",
@@ -2630,21 +2568,6 @@
       "collected_at": "2026-05-30T22:49:22"
     },
     {
-      "source": "GitHub Trending",
-      "title": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "extra": {
-        "stars_today": "1,815 stars today"
-      },
-      "collected_at": "2026-05-30T22:49:23"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
       "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
@@ -2877,7 +2800,68 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-31T13:39:27"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Marqly 5.0",
+      "url": "https://www.producthunt.com/products/marqly",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your AI-Powered Bookmark Manager </p> <p> <a href=\"https://www.producthunt.com/products/marqly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1159225?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-31T16:03:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "TabTasker",
+      "url": "https://www.producthunt.com/products/tabtasker",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Zero servers. Total privacy. Your new favorite toolbox. </p> <p> <a href=\"https://www.producthunt.com/products/tabtasker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1159008?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-31T16:03:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Web Clipper for NotebookLM",
+      "url": "https://www.producthunt.com/products/web-clipper-for-notebooklm",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your ultimate NotebookLM's Chrome Extension </p> <p> <a href=\"https://www.producthunt.com/products/web-clipper-for-notebooklm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1143223?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-31T16:03:12"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "My home data center",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tshmxa/my_home_data_center/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-05-31T01:37:56+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tshmxa/my_home_data_center/\"> <img alt=\"My home data center\" src=\"https://preview.redd.it/m6hsyt38nd4h1.jpg?width=140&amp;height=105&amp;auto=webp&amp;s=423a7c00c43460af155def9efd4cf18c188479f4\" title=\"My home data center\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>System 1:</p> <p>Threadripper 3960x 24c</p> <p>4x 3090 ti</p> <p>128gb ddr4</p> <p>System 2:</p> <p>Xeon 8352 36c</p> <p>4x 5070 ti </p> <p>128gb ddr4</p",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-31T16:03:13"
     }
   ],
-  "updated_at": "2026-05-31T13:39:27.109943+09:00"
+  "updated_at": "2026-05-31T16:03:13.055122+09:00"
 }
