@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-05-31-dell-xps-n1x-local-llm-setup-guide.jpg",
     "created_at": "2026-05-31T17:50:57.044427+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-31-stable-worldmodel-review-dreamerv3-reproducibility",
+    "title": "stable-worldmodel 使い方と次世代AI「世界モデル」研究の再現性を検証",
+    "url": "https://ai.negi-lab.com/posts/stable-worldmodel-review-dreamerv3-reproducibility/",
+    "category": "TOOL",
+    "viral_tags": "#世界モデル #強強化学習",
+    "tweet_text": "世界モデルの研究で一番の壁は「再現性」の低さ。DreamerV3等の複雑なモデルを標準化された環境で評価できるstable-worldmodelが熱い。\n\nRTX 4090 (24GB)でもVRAMを使い切る負荷だが、モジュール化されたコードは研究・実務の両面で使い勝手が良い。物理シミュや意思決定AIをやるなら、自前実装する前にこの構成を叩き台にすべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-31-stable-worldmodel-review-dreamerv3-reproducibility.jpg",
+    "created_at": "2026-05-31T19:57:16.648734+09:00",
+    "posted": false
   }
 ]
