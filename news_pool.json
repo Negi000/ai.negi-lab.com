@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "WhatCable",
-      "url": "https://www.producthunt.com/products/whatcable",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Know what your USB-C cable can really do </p> <p> <a href=\"https://www.producthunt.com/products/whatcable?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1153432?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-24T22:45:31"
-    },
-    {
       "source": "r/ollama",
       "title": "My agent hit quota on PR #4 of 8. Trooper recovered it and resumed from exactly where it stopped.",
       "url": "https://www.reddit.com/r/ollama/comments/1tmdnqa/my_agent_hit_quota_on_pr_4_of_8_trooper_recovered/",
@@ -2060,21 +2045,6 @@
       "collected_at": "2026-05-29T16:00:56"
     },
     {
-      "source": "GitHub Trending",
-      "title": "galilai-group/stable-worldmodel",
-      "url": "https://github.com/galilai-group/stable-worldmodel",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A platform for reproducible world model research and evaluation",
-      "extra": {
-        "stars_today": "346 stars today"
-      },
-      "collected_at": "2026-05-30T00:51:56"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
@@ -2856,7 +2826,91 @@
       "summary": "",
       "extra": {},
       "collected_at": "2026-05-31T19:56:47"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "My wife tried to log 1k phone-free hours but quit. So I vibe-coded an app",
+      "url": "https://play.google.com/store/apps/details?id=com.greendot.phonebreaks&hl=en_US",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sun, 31 May 2026 10:41:33 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-31T22:54:55"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "86Box v6.0",
+      "url": "https://86box.net/2026/05/31/86box-v6-0.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 31 May 2026 04:03:52 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-31T22:54:55"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Anyone can build a platform now. Almost nobody can get people to find it",
+      "url": "https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sun, 31 May 2026 00:55:17 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-05-31T22:54:55"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "extra": {
+        "stars_today": "639 stars today"
+      },
+      "collected_at": "2026-05-31T22:54:57"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "extra": {
+        "stars_today": "320 stars today"
+      },
+      "collected_at": "2026-05-31T22:54:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Stepfun 3.7 Flash is very good",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tss9nq/stepfun_37_flash_is_very_good/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-05-31T11:03:22+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tss9nq/stepfun_37_flash_is_very_good/\"> <img alt=\"Stepfun 3.7 Flash is very good\" src=\"https://preview.redd.it/k37ol07vfg4h1.gif?width=640&amp;crop=smart&amp;s=b7802a3b13d13d1fee73f539427b4d2ff1c29628\" title=\"Stepfun 3.7 Flash is very good\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>If you can fit Stepfun 3.7 Flash into RAM, try it! It's feeling close to GLM 5.1 quality in terms of aesthetics, and around 80% in term",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-31T22:54:59"
     }
   ],
-  "updated_at": "2026-05-31T19:56:51.461022+09:00"
+  "updated_at": "2026-05-31T22:54:59.483793+09:00"
 }
