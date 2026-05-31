@@ -1,84 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "My agent hit quota on PR #4 of 8. Trooper recovered it and resumed from exactly where it stopped.",
-      "url": "https://www.reddit.com/r/ollama/comments/1tmdnqa/my_agent_hit_quota_on_pr_4_of_8_trooper_recovered/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-24T14:26:36+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1tmdnqa/my_agent_hit_quota_on_pr_4_of_8_trooper_recovered/\"> <img alt=\"My agent hit quota on PR #4 of 8. Trooper recovered it and resumed from exactly where it stopped.\" src=\"https://external-preview.redd.it/N3Y4ZWprejloMzNoMY_r8_r3tihfj1QxLR0-CYmIz0h0-8NpV47k97N30xzR.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e67478afd1163f8ec5af3ec8cbd203d34663bf10\" title=\"My agent hit quota on PR #4 of 8. Trooper recovered it and resumed",
-      "extra": {},
-      "collected_at": "2026-05-25T00:45:42"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 24 May 2026 15:00:00 +0000",
-      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-25T00:45:43"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Freu AI",
-      "url": "https://www.producthunt.com/products/freu-cli",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Automate any Mac app with $0 recurring run cost </p> <p> <a href=\"https://www.producthunt.com/products/freu-cli?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1150296?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-25T00:45:44"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.6-35B-A3B vs Gemma4-26B-A4B",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tmbola/qwen3635ba3b_vs_gemma426ba4b/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-05-24T13:05:37+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just wondering how are people's experience with both these models!</p> <p>I've had some nice results with Qwen but Gemma4 runs so much faster here. I'm using a Radeon 9070 XT and always latest llama.cpp.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MarcCDB\"> /u/MarcCDB </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tmbola/qwen3635ba3b_vs_gemma426ba4b/\">[link]</a></span> &#32; <span><a href=\"http",
-      "extra": {
-        "revenue_score": 11
-      },
-      "collected_at": "2026-05-25T00:45:45"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "BitCPM-CANN: Native 1.58-Bit Large Language Model Training on Ascend NPU",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tmf63y/bitcpmcann_native_158bit_large_language_model/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-24T15:24:26+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Paper: <a href=\"https://github.com/OpenBMB/MiniCPM/blob/main/docs/BitCPM_CANN.pdf\">https://github.com/OpenBMB/MiniCPM/blob/main/docs/BitCPM_CANN.pdf</a></p> <h3>Abstract</h3> <blockquote> <p>We present BitCPM-CANN, a systematic family-level study of 1.58-bit (ternary) quantization-aware training (QAT) on the Huawei Ascend NPU platform. To address two practical gaps for extreme low-bit LLMs—whether ternary weights preserve capabili- ties on complex reasoning task",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-05-25T00:45:45"
-    },
-    {
       "source": "HN AI Coding",
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
       "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
@@ -2602,21 +2524,6 @@
       "collected_at": "2026-05-31T03:02:17"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Sat, 30 May 2026 21:45:00 +0000",
-      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-31T07:09:35"
-    },
-    {
       "source": "Google News",
       "title": "AI悪用の保険詐欺拡大 保険料上昇懸念 - CHOSUNBIZ - Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR2U4WS16Q3N2UWJ1UmlRWm50TjNfb2pjOFYtZk9WSzFYQlVJb3B1RVhpWE9VdHY3YW4zMUZTbWNxQ3ZpaThuT2tHdk9kV2dRQmlOZ1p3eTFaUVdrTVNwc0VOeF9kMm1BZTR5dG1zNTQyc1FCZmVMelluRlZsNkNfVtIBlAFBVV95cUxQT3paZkVyV2o4ZjBmWVJSQlRMcWdqakc4VHNESWlSVGdaRlNmS05XbVIzcGhTMTZqTFpIbkEzVkVTcm9Bd1RvdUQtaXYtVGFhd3JGX0d5ekozVE5odlZndjhNMHgtcm1jS0d4eWxKNnZjNXJLTm1KWURWX012OHA4OGViWFIwaDVpa2lCM1RtM01uVGdi?oc=5",
@@ -2910,7 +2817,40 @@
         "revenue_score": 4
       },
       "collected_at": "2026-05-31T22:54:59"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Making sense of the debate over AI psychosis",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 31 May 2026 15:30:00 +0000",
+      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-06-01T00:52:52"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "13 abliterated Gemma 4 E2B variants, 44 GPU hours, Benchmark and Comparison - Abliterlitics",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsvs3j/13_abliterated_gemma_4_e2b_variants_44_gpu_hours/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-31T13:44:34+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I compared 13 abliterated variants of Gemma 4 E2B across weight analysis, KL divergence, HarmBench safety, and 8 benchmark tasks. 44 GPU hours on a single RTX 5090. Here is what actually works and what destroys capabilities.</p> <p>coder3101's variant achieves 96% ASR with capability fully preserved. It actually <em>beats</em> the base model on math. treadon hits 100% ASR but loses 3 points on GSM8K. Most &quot;capabilities preserved&quot; claims on model cards ",
+      "extra": {
+        "revenue_score": 13
+      },
+      "collected_at": "2026-06-01T00:52:54"
     }
   ],
-  "updated_at": "2026-05-31T22:54:59.483793+09:00"
+  "updated_at": "2026-06-01T00:52:54.671180+09:00"
 }
