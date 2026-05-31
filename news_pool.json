@@ -2,38 +2,6 @@
   "items": [
     {
       "source": "r/ollama",
-      "title": "Question: how to write cutting-edge system prompts?",
-      "url": "https://www.reddit.com/r/ollama/comments/1tlwf6u/question_how_to_write_cuttingedge_system_prompts/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-24T00:07:54+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I'm working on a side project that interacts with Ollama and uses this system prompt: <a href=\"https://github.com/quiet-node/thuki/blob/main/src-tauri/prompts/system_prompt.txt\">https://github.com/quiet-node/thuki/blob/main/src-tauri/prompts/system_prompt.txt</a> . While it works adequately with Gemma4:e4b, it doesn't compare well to professional tools like Claude Code or ChatGPT. I know a 4b local model can't compete with the giants, but I still believe ",
-      "extra": {},
-      "collected_at": "2026-05-24T13:16:45"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "llama.cpp server have built-in native tools (exec_shell, edit_file, etc.)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tluma3/llamacpp_server_have_builtin_native_tools_exec/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-23T22:48:30+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tluma3/llamacpp_server_have_builtin_native_tools_exec/\"> <img alt=\"llama.cpp server have built-in native tools (exec_shell, edit_file, etc.)\" src=\"https://preview.redd.it/24uvk7o4sy2h1.png?width=140&amp;height=86&amp;auto=webp&amp;s=c83aed2c6e8258b72ffc33e5f08445ce3ff7eb4a\" title=\"llama.cpp server have built-in native tools (exec_shell, edit_file, etc.)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://pr",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-05-24T13:16:48"
-    },
-    {
-      "source": "r/ollama",
       "title": "really Ollama?",
       "url": "https://www.reddit.com/r/ollama/comments/1tm1k7l/really_ollama/",
       "primary_category": "MONEY",
@@ -1975,23 +1943,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tq35a0/zai_replaced_the_network_architecture_running/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-28T13:09:11+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tq35a0/zai_replaced_the_network_architecture_running/\"> <img alt=\"Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild\" src=\"https://preview.redd.it/r2ad9gqtnv3h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ad25c6caed7db10135c38c49815a1e425bafd2d\" title=\"Zai replaced the network architecture running GLM-5.1 inference and the gains are pretty wild\" /> </a> </td><td> <!-- SC_OFF ",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-29T01:10:43"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "HF models page now has a \"Base only\" toggle to filter out finetunes/quants/etc",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tq2ce9/hf_models_page_now_has_a_base_only_toggle_to/",
       "primary_category": "GUIDE",
@@ -2881,7 +2832,52 @@
         "revenue_score": 5
       },
       "collected_at": "2026-05-31T07:09:37"
+    },
+    {
+      "source": "Google News",
+      "title": "SoftBank to Develop 5-Gigawatt AI Data Center Capacity in France - 時事通信ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SM1dqNThNcXNkaHEzajdieFBMcFRRcVFMOGFyamJ2eXMwVS1vLUN5VjFQaVo2QjNxQmk4ODhYZ2RSY3RJU2tmcUczWmxzWHRiQkE?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 31 May 2026 02:03:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SM1dqNThNcXNkaHEzajdieFBMcFRRcVFMOGFyamJ2eXMwVS1vLUN5VjFQaVo2QjNxQmk4ODhYZ2RSY3RJU2tmcUczWmxzWHRiQkE?oc=5\" target=\"_blank\">SoftBank to Develop 5-Gigawatt AI Data Center Capacity in France</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-05-31T13:39:25"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Someone out there likely needs this",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsd41n/someone_out_there_likely_needs_this/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-05-30T22:11:43+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tsd41n/someone_out_there_likely_needs_this/\"> <img alt=\"Someone out there likely needs this\" src=\"https://preview.redd.it/qr9kyi1gmc4h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4621c1c9d90ec916d8632d12e71c8d5865ab5c6e\" title=\"Someone out there likely needs this\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Signal_Ad657\"> /u/Signal_Ad657 </a> <br /> <span><a href=\"https://i.redd.it/",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-31T13:39:27"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "It's funny how everything changes, yet somehow stays the same.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsjgol/its_funny_how_everything_changes_yet_somehow/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-05-31T03:06:02+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tsjgol/its_funny_how_everything_changes_yet_somehow/\"> <img alt=\"It's funny how everything changes, yet somehow stays the same.\" src=\"https://preview.redd.it/nzh2z6lr2e4h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dce2a9a6262fed8ea3f595d37ff5145e713dd992\" title=\"It's funny how everything changes, yet somehow stays the same.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bigattichouse\"",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-05-31T13:39:27"
     }
   ],
-  "updated_at": "2026-05-31T07:09:37.169992+09:00"
+  "updated_at": "2026-05-31T13:39:27.109943+09:00"
 }
