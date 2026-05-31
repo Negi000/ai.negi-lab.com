@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-30-local-llm-gpu-optimization-llama-cpp-guide",
-    "title": "ローカルLLMの推論速度を最大化するGPU環境構築とllama-cpp-python最適化ガイド",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-optimization-llama-cpp-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Pythonエンジニア",
-    "tweet_text": "ローカルLLMの速度はVRAM帯域幅で決まる。RTX 4090なら150tps超えも可能だが、12GBの3060でも設定次第で実用レベルに。llama-cpp-pythonでn_gpu_layersを最適化し、全レイヤーをVRAMに乗せるのが高速化の最短ルート。API料金とプライバシーに悩む前に、まずは手元のGPUを100%使い切る環境を作ろう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-30-local-llm-gpu-optimization-llama-cpp-guide.jpg",
-    "created_at": "2026-05-30T15:29:23.928598+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-05-30-nvidia-driver-sysmem-fallback-disable-guide",
-    "title": "NVIDIAドライバ設定でローカルLLMの速度低下を防ぐ方法",
-    "url": "https://ai.negi-lab.com/posts/nvidia-driver-sysmem-fallback-disable-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #NVIDIA",
-    "tweet_text": "ローカルLLMを動かして「急に生成が遅くなった」と感じたらNVIDIAドライバの設定を疑うべき。最新ドライバの親切機能「Sysmem Fallback」がVRAM不足をメインメモリで補おうとして、帯域不足で速度を1/10に落としています。設定を『Prefer No Sysmem Fallback』に変えるだけで、本来のGPU性能を100%引き出せる。実務で使うなら、あやふやな挙動は排除するのが鉄則。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-30-nvidia-driver-sysmem-fallback-disable-guide.jpg",
-    "created_at": "2026-05-30T17:31:59.496238+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-30-wingbits-ai-aircraft-monitoring-agent-review",
     "title": "Wingbits AI リアルタイム航空機監視を自動化するAIエージェントの実力",
     "url": "https://ai.negi-lab.com/posts/wingbits-ai-aircraft-monitoring-agent-review/",
