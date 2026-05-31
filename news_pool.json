@@ -1,49 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Claude is not your architect. Stop letting it pretend",
-      "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 24 May 2026 18:28:11 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-25T07:04:36"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Everyone is navigating AI security in real time — even Google",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 24 May 2026 21:39:21 +0000",
-      "summary": "We're in the transition period -- all of us.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-25T07:04:38"
-    },
-    {
-      "source": "Google News",
-      "title": "ネットワーク運用現場に広まる生成AI、3つの用途を押さえよう - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52ZVZUY0ZtUHBleUxUb1d2RkJDOW0zSVJPdlVrb2oyYVlDZkVHLUJrWkd2cTdpMW1VS0RZa3ZLQUl0QXlHUjd1QnlJWENId1ZUTngzSTNraU9JczB3RWJpSnZySmV4MXdTSEtEcA?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 24 May 2026 20:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE52ZVZUY0ZtUHBleUxUb1d2RkJDOW0zSVJPdlVrb2oyYVlDZkVHLUJrWkd2cTdpMW1VS0RZa3ZLQUl0QXlHUjd1QnlJWENId1ZUTngzSTNraU9JczB3RWJpSnZySmV4MXdTSEtEcA?oc=5\" target=\"_blank\">ネットワーク運用現場に広まる生成AI、3つの用途を押さえよう</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-25T07:04:38"
-    },
-    {
       "source": "r/ollama",
       "title": "Im building a agentic system like and i need some advice/suggestion",
       "url": "https://www.reddit.com/r/ollama/comments/1tmuvp8/im_building_a_agentic_system_like_and_i_need_some/",
@@ -1254,22 +1211,6 @@
         "revenue_score": 0
       },
       "collected_at": "2026-05-28T04:25:22"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Behold! Probably the most ghetto local AI server:",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tpdt5m/behold_probably_the_most_ghetto_local_ai_server/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-27T18:14:46+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tpdt5m/behold_probably_the_most_ghetto_local_ai_server/\"> <img alt=\"Behold! Probably the most ghetto local AI server:\" src=\"https://preview.redd.it/w2x3lxw11q3h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5aa51246ebf1c26aceb5589d14931e64ce61a4d7\" title=\"Behold! Probably the most ghetto local AI server:\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>AKA: Jank Incarnate</p> <p>After months of pain, I finally got a",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-28T04:25:23"
     },
     {
       "source": "r/LocalLLaMA",
@@ -2841,7 +2782,39 @@
         "revenue_score": 4
       },
       "collected_at": "2026-06-01T03:02:47"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Erin Brockovich takes aim at data center secrecy",
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 31 May 2026 21:05:14 +0000",
+      "summary": "Environmental activist Erin Brockovich has a new mission.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-01T07:10:36"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I ported NVIDIA Parakeet (speech-to-text) to ggml: same output as NeMo, faster, GGUF-quantized, no Python",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tt6oja/i_ported_nvidia_parakeet_speechtotext_to_ggml/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-05-31T20:35:51+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tt6oja/i_ported_nvidia_parakeet_speechtotext_to_ggml/\"> <img alt=\"I ported NVIDIA Parakeet (speech-to-text) to ggml: same output as NeMo, faster, GGUF-quantized, no Python\" src=\"https://external-preview.redd.it/Jn9fv250NWMmNsVI53FRgmbspCye9-BxhXt0oqIULNo.png?width=140&amp;height=70&amp;auto=webp&amp;s=870b7db54b26178eaa805b509e3b386c7de1df62\" title=\"I ported NVIDIA Parakeet (speech-to-text) to ggml: same output as NeMo, fast",
+      "extra": {
+        "revenue_score": 10
+      },
+      "collected_at": "2026-06-01T07:10:37"
     }
   ],
-  "updated_at": "2026-06-01T03:02:47.675010+09:00"
+  "updated_at": "2026-06-01T07:10:37.833271+09:00"
 }

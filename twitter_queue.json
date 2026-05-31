@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-06-01-local-llm-gpu-vram-comparison-guide.jpg",
     "created_at": "2026-06-01T03:03:11.762048+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-01-local-llm-gpu-comparison-vram-guide",
+    "title": "ローカルLLM環境の選び方比較｜RTX 4090かMac Studioか？後悔しないGPU・VRAMの基準",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-comparison-vram-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLM環境、RTX 4090かMac Studioか？という議論への終止符。結論は「VRAM 16GB」が絶対防衛ライン。8GBで妥協すると、音楽生成もLlama 3 70Bも検証すらできない。サブスクを解約して浮いた月1万円をハード代に回すのは、エンジニアの投資として正解。実務で使える構成をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-01-local-llm-gpu-comparison-vram-guide.jpg",
+    "created_at": "2026-06-01T07:11:06.740718+09:00",
+    "posted": false
   }
 ]
