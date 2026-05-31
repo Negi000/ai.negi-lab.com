@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-30-local-llm-gpu-comparison-guide-3000-tokens",
-    "title": "ローカルLLM爆速化：3000 tokens/s時代のGPU選び方と比較ガイド",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-comparison-guide-3000-tokens/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLM推論で3,000 tokens/sという衝撃の数字が出た。AIエージェントの思考待ちが消える時代、鍵はGPUのVRAM容量とFP8対応。実務で使うならRTX 4090一択だけど、コスパなら4060 Ti 16GBが狙い目。中途半端なスペックは結局買い直すことになるので、失敗しないための判断基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-30-local-llm-gpu-comparison-guide-3000-tokens.jpg",
-    "created_at": "2026-05-30T07:41:13.801734+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-30-microsoft-markitdown-python-rag-review",
     "title": "microsoft/markitdown あらゆるファイルを一式Markdown変換するRAG時代の必須ツール",
     "url": "https://ai.negi-lab.com/posts/microsoft-markitdown-python-rag-review/",
