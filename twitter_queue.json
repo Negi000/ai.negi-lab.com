@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-05-31-ollama-openwebui-local-llm-setup-guide.jpg",
     "created_at": "2026-05-31T16:03:34.754441+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-05-31-dell-xps-n1x-local-llm-setup-guide",
+    "title": "Dell XPS N1X相当のローカルLLM実行環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/dell-xps-n1x-local-llm-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #NVIDIA",
+    "tweet_text": "Dell XPS N1X（DGX Spark相当）の衝撃。Windowsで動くBlackwell世代のモンスター級ローカルLLM環境が現実味を帯びてきた。\nだが、ハードを待つ時間は無駄だ。今あるRTX 4090/4060TiをDockerで叩き起こし、Llama 3.1 70Bを実用速度で動かす基盤を作る。\nVRAM管理とスループット計測まで含めた、プロ仕様の構築手順を全公開する。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-05-31-dell-xps-n1x-local-llm-setup-guide.jpg",
+    "created_at": "2026-05-31T17:50:57.044427+09:00",
+    "posted": false
   }
 ]
