@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-31-voxcpm-tokenizer-free-tts-review-usage",
-    "title": "VoxCPM 使い方と実力レビュー：トークナイザー不要で自然な発話を実現する次世代TTS",
-    "url": "https://ai.negi-lab.com/posts/voxcpm-tokenizer-free-tts-review-usage/",
-    "category": "TOOL",
-    "viral_tags": "#VoxCPM #ローカルLLM",
-    "tweet_text": "TTSの新星「VoxCPM」が凄い。音声をトークンに区切らないTokenizer-Free方式で、これまでのOSSで気になった「声のデジタル的な途切れ」を克服している。RTX 4090環境なら100文字を0.4秒で発話開始。数秒のサンプルでクローンできる精度も実用的。ローカルVRAM 16GB以上あるなら今すぐ試すべき一択。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-31-voxcpm-tokenizer-free-tts-review-usage.jpg",
-    "created_at": "2026-05-31T13:39:52.544404+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-31-ollama-openwebui-local-llm-setup-guide",
     "title": "OllamaとOpen WebUIで自分専用のChatGPT環境を作る方法",
     "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-setup-guide/",
