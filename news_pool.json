@@ -1,129 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Harnesses",
-      "url": "https://www.reddit.com/r/ollama/comments/1tn3l7y/harnesses/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-25T09:05:57+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been running a fully local AI agent for 3 months on my own hardware (DGX Spark + Mac Mini + A5000) using Ollama. No cloud APIs, no per-token costs, no data leaving my machine. Runs across Discord, Telegram, and WhatsApp simultaneously.</p> <p>Here is what actually worked and what failed badly.</p> <p><strong>The problem nobody is talking about</strong></p> <p>LangChain, CrewAI, AutoGen all assume GPT-5 or Claude is driving. They hand the model 15+ tools and",
-      "extra": {},
-      "collected_at": "2026-05-25T21:31:02"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "paperless-ngx/paperless-ngx",
-      "url": "https://github.com/paperless-ngx/paperless-ngx",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "extra": {
-        "stars_today": "151 stars today"
-      },
-      "collected_at": "2026-05-25T21:31:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Tiny CV",
-      "url": "https://www.producthunt.com/products/tiny-cv",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Resume builder that fits on one page </p> <p> <a href=\"https://www.producthunt.com/products/tiny-cv?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1155045?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-25T21:31:05"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "own.page",
-      "url": "https://www.producthunt.com/products/own-page",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Make your own personal website with bento tiles </p> <p> <a href=\"https://www.producthunt.com/products/own-page?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1152782?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-25T21:31:05"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Next year we're getting 0.5T model from Grok",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn31d8/next_year_were_getting_05t_model_from_grok/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-05-25T08:35:15+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tn31d8/next_year_were_getting_05t_model_from_grok/\"> <img alt=\"Next year we're getting 0.5T model from Grok\" src=\"https://preview.redd.it/y7ytazc1v83h1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=349b1bdea68d292a23e52737506d7932f12cb74c\" title=\"Next year we're getting 0.5T model from Grok\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Tweet : <a href=\"https://xcancel.com/elonmusk/status/2058796067592736866#m\">http",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-25T21:31:06"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "GPT Guesses Between 1 and 100",
-      "url": "https://github.com/exmergo/research-chatgpt-guesses-between-1-and-100",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 25 May 2026 11:46:09 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-26T00:17:49"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "The Financial Times has published an article about Heretic",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tna22m/the_financial_times_has_published_an_article/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-05-25T14:00:26+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e\">https://www.ft.com/content/5630ed79-a263-41ed-9a1a-321617ae310e</a></p> <p>“The FT was able to use Heretic, a tool available on the popular code repository GitHub, to remove the guardrails from Meta’s Llama 3.3 model in less than 10 minutes without any specialist hardware.”</p> <p>“Heretic creator Philipp Emanuel Weidmann told the FT his software had been used to create more than 3,500 “de",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-05-26T00:17:54"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tn8utn/nuextract3_released_openweight_4b_vlm_for/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-25T13:14:58+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tn8utn/nuextract3_released_openweight_4b_vlm_for/\"> <img alt=\"NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable)\" src=\"https://preview.redd.it/2kyyubbs9a3h1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=ce9b4cc1091371b91e7f759b1aab7ac0257f5aff\" title=\"NuExtract3 released: open-weight 4B VLM for Markdown, OCR and structured extraction (self-hostable)\" /> </a> </td><td> <!-- S",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-26T00:17:54"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "What ClickUp’s mass layoff tells us about the future of work",
       "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
@@ -2698,22 +2575,6 @@
       "collected_at": "2026-06-01T20:41:07"
     },
     {
-      "source": "GitHub Trending",
-      "title": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "extra": {
-        "stars_today": "284 stars today"
-      },
-      "collected_at": "2026-06-01T20:41:09"
-    },
-    {
       "source": "Product Hunt",
       "title": "Sentinel",
       "url": "https://www.producthunt.com/products/sentinel-10",
@@ -2775,7 +2636,83 @@
         "revenue_score": 7
       },
       "collected_at": "2026-06-01T20:41:10"
+    },
+    {
+      "source": "r/ollama",
+      "title": "It's normal that this model takes so long to answer a \"hi\", I'm new and this is the first Local AI I try",
+      "url": "https://www.reddit.com/r/ollama/comments/1ttr5rr/its_normal_that_this_model_takes_so_long_to/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-06-01T12:47:18+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1ttr5rr/its_normal_that_this_model_takes_so_long_to/\"> <img alt=\"It's normal that this model takes so long to answer a &quot;hi&quot;, I'm new and this is the first Local AI I try\" src=\"https://preview.redd.it/rsq8of182o4h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e1042d4349cd23ca9c2bba5c6e28b424cb31f11\" title=\"It's normal that this model takes so long to answer a &quot;hi&quot;, I'm new and this is the first Local AI I ",
+      "extra": {},
+      "collected_at": "2026-06-02T00:20:07"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Mon, 01 Jun 2026 14:49:10 +0000",
+      "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-02T00:20:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "folk",
+      "url": "https://www.producthunt.com/products/folk-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> the AI in your texts that gets stuff done </p> <p> <a href=\"https://www.producthunt.com/products/folk-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1155758?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-02T00:20:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Typeahead",
+      "url": "https://www.producthunt.com/products/typeahead",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI autocomplete for every app on your Mac </p> <p> <a href=\"https://www.producthunt.com/products/typeahead?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1159599?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-02T00:20:08"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "i dedicate this meme to you r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ttu64m/i_dedicate_this_meme_to_you_rlocalllama/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-06-01T14:36:12+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ttu64m/i_dedicate_this_meme_to_you_rlocalllama/\"> <img alt=\"i dedicate this meme to you r/LocalLLaMA\" src=\"https://external-preview.redd.it/MWoxcm4wN3FsbzRoMdpuLR9u3uoEosIXAUdYFC5C8nSfWtizVaBfV863bOhJ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9c955ece1780705e7e5e58910bf20a80afdc55d1\" title=\"i dedicate this meme to you r/LocalLLaMA\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LPFchan",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-06-02T00:20:09"
     }
   ],
-  "updated_at": "2026-06-01T20:41:10.867525+09:00"
+  "updated_at": "2026-06-02T00:20:09.532304+09:00"
 }
