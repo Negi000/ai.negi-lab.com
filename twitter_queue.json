@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-05-31-ollama-openwebui-local-llm-setup-guide",
-    "title": "OllamaとOpen WebUIで自分専用のChatGPT環境を作る方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "ローカルLLMは「動かして遊ぶ」フェーズから「仕事に組み込む」フェーズへ。OllamaとOpen WebUIの組み合わせは、Docker一つで商用レベルのUIが手に入ります。RTX 3060以降ならLlama 3.1が秒速20トークン以上で爆速。VRAM 16GBあればRAGも余裕。このプライベート環境、一度作ると戻れません。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-05-31-ollama-openwebui-local-llm-setup-guide.jpg",
-    "created_at": "2026-05-31T16:03:34.754441+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-05-31-dell-xps-n1x-local-llm-setup-guide",
     "title": "Dell XPS N1X相当のローカルLLM実行環境を構築する方法",
     "url": "https://ai.negi-lab.com/posts/dell-xps-n1x-local-llm-setup-guide/",
