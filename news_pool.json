@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "Is Qwen3.6 current king for local agentic use?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tnbz23/is_qwen36_current_king_for_local_agentic_use/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-05-25T15:09:33+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been testing other models but it seems like nothing even come close to Qwen3.6 35B A3B for agentic use. The worse I'd get is a loop sometimes, while Gemma4 produced broken tool calls occasionally and I couldn't even get GLM 4.7 Flash REAP past 2 or 3 messages before it starts looping. All IQ4_NL quants from Unsloth.</p> <p>I'm wondering if there are better models around the same size (preferably MoE) that I haven't tried yet. I'm using it for Hermes Agent a",
-      "extra": {
-        "revenue_score": 11
-      },
-      "collected_at": "2026-05-26T07:15:09"
-    },
-    {
       "source": "HN AI Hot",
       "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
       "url": "https://support.apple.com/en-us/127115",
@@ -2591,22 +2575,6 @@
       "collected_at": "2026-06-02T00:20:08"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "i dedicate this meme to you r/LocalLLaMA",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ttu64m/i_dedicate_this_meme_to_you_rlocalllama/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-06-01T14:36:12+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ttu64m/i_dedicate_this_meme_to_you_rlocalllama/\"> <img alt=\"i dedicate this meme to you r/LocalLLaMA\" src=\"https://external-preview.redd.it/MWoxcm4wN3FsbzRoMdpuLR9u3uoEosIXAUdYFC5C8nSfWtizVaBfV863bOhJ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9c955ece1780705e7e5e58910bf20a80afdc55d1\" title=\"i dedicate this meme to you r/LocalLLaMA\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LPFchan",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-06-02T00:20:09"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Anthropic files to go public",
       "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
@@ -2784,7 +2752,85 @@
         "revenue_score": 5
       },
       "collected_at": "2026-06-02T05:55:13"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 01 Jun 2026 22:55:09 +0000",
+      "summary": "The Google parent company plans to raise the funds by selling stock.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-02T08:06:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tabstack Web Research",
+      "url": "https://www.producthunt.com/products/tabstack",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Run a research agent with cited answers in a single API call </p> <p> <a href=\"https://www.producthunt.com/products/tabstack?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1159017?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-02T08:06:30"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mistral Vibe",
+      "url": "https://www.producthunt.com/products/mistral-7b",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> I agent for long-running, multi-step work and coding </p> <p> <a href=\"https://www.producthunt.com/products/mistral-7b?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1160309?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-02T08:06:30"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tokenwise",
+      "url": "https://www.producthunt.com/products/tokenwise",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A smart LLM proxy that shows where you're overpaying </p> <p> <a href=\"https://www.producthunt.com/products/tokenwise?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1159957?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-02T08:06:30"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "RTX Spark does not have 600GB/s Bandwith",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tu639j/rtx_spark_does_not_have_600gbs_bandwith/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-06-01T21:16:32+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tu639j/rtx_spark_does_not_have_600gbs_bandwith/\"> <img alt=\"RTX Spark does not have 600GB/s Bandwith\" src=\"https://preview.redd.it/lzttip99mq4h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=95fee5f8e156efacf3df26a5c1f299e12ed92751\" title=\"RTX Spark does not have 600GB/s Bandwith\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Check the slides from Computex.</p> <p>Every outlet that reported 600GB/s is completely wro",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-06-02T08:06:30"
     }
   ],
-  "updated_at": "2026-06-02T05:55:13.804860+09:00"
+  "updated_at": "2026-06-02T08:06:30.862298+09:00"
 }
