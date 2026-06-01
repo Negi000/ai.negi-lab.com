@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-06-01-local-llm-gpu-comparison-vram-guide.jpg",
     "created_at": "2026-06-01T07:11:06.740718+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-01-hermes-webui-agent-tool-use-review",
+    "title": "hermes-webui 使い方と実機レビュー：Nous Hermes 3の真価を引き出すエージェント特化型UI",
+    "url": "https://ai.negi-lab.com/posts/hermes-webui-agent-tool-use-review/",
+    "category": "TOOL",
+    "viral_tags": "#ローカルLLM #AIエージェント",
+    "tweet_text": "Hermes 3の「Tool Use」能力をスマホやWebから引き出せるhermes-webuiがかなり実用的。\n\n単なるチャットUIと違い、LLMが関数を叩くプロセスを構造的に表示できるから、エージェント開発のデバッグが爆速になる。\n\nRTX 4090ローカル環境でもGroq経由でも、思考プロセスを隠さず可視化したい開発者は導入すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-01-hermes-webui-agent-tool-use-review.jpg",
+    "created_at": "2026-06-01T14:01:51.601968+09:00",
+    "posted": false
   }
 ]

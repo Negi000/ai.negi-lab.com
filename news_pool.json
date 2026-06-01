@@ -1,53 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Im building a agentic system like and i need some advice/suggestion",
-      "url": "https://www.reddit.com/r/ollama/comments/1tmuvp8/im_building_a_agentic_system_like_and_i_need_some/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-05-25T01:48:29+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JRC_GAMING5161\"> /u/JRC_GAMING5161 </a> <br /> <span><a href=\"https://www.reddit.com/r/ollama/comments/1tmuvp8/im_building_a_agentic_system_like_and_i_need_some/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1tmuvp8/im_building_a_agentic_system_like_and_i_need_some/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-05-25T13:27:12"
-    },
-    {
-      "source": "Google News",
-      "title": "AI生成写真が「現実と虚構」の区別を不可能にしているため現実を守るには法規制やAI透かしが必要だという主張 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOURDSTJmOW1FZkVVcy1KV2Z2eDFTM0xvM2M5akxEd0pxUElqbFVqZk0wSlJPYUNMOXlhSzVRRTdlRmQxSm16WDlmOUpKREp3NndVMGx4a1RMcnVKd1d4WXJXNHd4MFBMYVZ3QWVlZS1SS1M0d0Rqb2RKUVA5aGhqWUs2ZFktMTJs?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Mon, 25 May 2026 03:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOURDSTJmOW1FZkVVcy1KV2Z2eDFTM0xvM2M5akxEd0pxUElqbFVqZk0wSlJPYUNMOXlhSzVRRTdlRmQxSm16WDlmOUpKREp3NndVMGx4a1RMcnVKd1d4WXJXNHd4MFBMYVZ3QWVlZS1SS1M0d0Rqb2RKUVA5aGhqWUs2ZFktMTJs?oc=5\" target=\"_blank\">AI生成写真が「現実と虚構」の区別を不可能にしているため現実を守るには法規制やAI透かしが必要だという主張</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {
-        "revenue_score": 1
-      },
-      "collected_at": "2026-05-25T13:27:14"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "hipEngine: Fast Native Qwen 3.6 Inference for RDNA3 (Strix Halo, 7900 XTX)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tmq4s6/hipengine_fast_native_qwen_36_inference_for_rdna3/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-24T22:21:21+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A few weeks ago, after finishing <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1t3vlrx/fastdms_64x_kvcache_compression_running_faster/\">FastDMS</a>, I started toying around writing some RDNA3 kernels again to see how fast I could get Qwen 3.6 MoE running. It turned out well enough, so over the past couple weeks, I turned those experiments into <a href=\"https://github.com/shisa-ai/hipEngine\">hipEngine</a>, a new open source (AGPLv3) ROCm-native local LLM ",
-      "extra": {
-        "revenue_score": 8
-      },
-      "collected_at": "2026-05-25T13:27:15"
-    },
-    {
       "source": "HN AI Companies",
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
       "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
@@ -2108,22 +2061,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Breaking the music supply constraint",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1treuy3/breaking_the_music_supply_constraint/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-05-29T20:36:26+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1treuy3/breaking_the_music_supply_constraint/\"> <img alt=\"Breaking the music supply constraint\" src=\"https://preview.redd.it/j3qncb2j054h1.jpg?width=140&amp;height=134&amp;auto=webp&amp;s=0483218721af215919ab3463dc24c5e5e2550101\" title=\"Breaking the music supply constraint\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I just cancelled my music subscriptions to save some cash and wanted to share the self-hosted music su",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-30T07:40:50"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Qwen3.6-27B Quantization Benchmark",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tr9vzn/qwen3627b_quantization_benchmark/",
       "primary_category": "GUIDE",
@@ -2814,7 +2751,40 @@
         "revenue_score": 10
       },
       "collected_at": "2026-06-01T07:10:37"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "MiniMax M3 - Coding & Agentic Frontier, 1M Context, Multimodal",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ttdiq0/minimax_m3_coding_agentic_frontier_1m_context/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-06-01T01:23:45+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ttdiq0/minimax_m3_coding_agentic_frontier_1m_context/\"> <img alt=\"MiniMax M3 - Coding &amp; Agentic Frontier, 1M Context, Multimodal\" src=\"https://external-preview.redd.it/GYUWVApHh7WxqJg5euhUy3HbyIqNa4dEj0F1wERAlNc.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=55d5888cd08634c66be0fb8a7879d431508a960a\" title=\"MiniMax M3 - Coding &amp; Agentic Frontier, 1M Context, Multimodal\" /> </a> </td><td> &#32; submitted by &#32; <a ",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-06-01T14:01:26"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "NVIDIA announces Nemotron 3 Ultra",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tthkh5/nvidia_announces_nemotron_3_ultra/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-06-01T04:34:21+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tthkh5/nvidia_announces_nemotron_3_ultra/\"> <img alt=\"NVIDIA announces Nemotron 3 Ultra\" src=\"https://preview.redd.it/f79wu6dnml4h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2e02d5b80bab204375f8e0048a18c0ccdff06e7\" title=\"NVIDIA announces Nemotron 3 Ultra\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/themixtergames\"> /u/themixtergames </a> <br /> <span><a href=\"https://i.redd.it/f7",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-06-01T14:01:26"
     }
   ],
-  "updated_at": "2026-06-01T07:10:37.833271+09:00"
+  "updated_at": "2026-06-01T14:01:26.062303+09:00"
 }
