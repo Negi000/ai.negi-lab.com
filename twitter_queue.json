@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-06-02-socialecho-2-review-ai-social-agent.jpg",
     "created_at": "2026-06-02T13:47:56.487744+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-02-knock-agent-slack-notification-infrastructure-review",
+    "title": "Knock agent for Slack 使い方とレビュー",
+    "url": "https://ai.negi-lab.com/posts/knock-agent-slack-notification-infrastructure-review/",
+    "category": "TOOL",
+    "viral_tags": "#個人開発 #SaaS",
+    "tweet_text": "通知ロジックをコードに書く時代は終わった。Knockを使えば、Slackやメールの配信条件をGUIで完結できる。テンプレート変更に再デプロイは不要。月1万件まで無料。\n実務で試した結果、通知周りのif文が消えてコードが驚くほど綺麗になった。B2B SaaS開発者は導入を検討すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-02-knock-agent-slack-notification-infrastructure-review.jpg",
+    "created_at": "2026-06-02T17:03:43.682702+09:00",
+    "posted": false
   }
 ]
