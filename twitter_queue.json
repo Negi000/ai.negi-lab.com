@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-06-03-production-agentic-rag-hardware-guide.jpg",
     "created_at": "2026-06-03T05:07:17.055928+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-03-budget-datacenter-gpu-local-llama-setup",
+    "title": "中古のデータセンター向けGPUを流用して、VRAM 24GBのAI開発環境を4万円以下で構築する方法",
+    "url": "https://ai.negi-lab.com/posts/budget-datacenter-gpu-local-llama-setup/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "VRAM 24GBを4万円以下で手に入れる。中古のデータセンター向けGPU「Tesla P40」をゲーミングPCに強引に載せる検証が熱い。Pascal世代ゆえの制約はあるが、Llama 3 70Bが自分のマシンで動く感動は別格。冷却と電源の癖さえ突破すれば、RAG開発や大規模モデルの検証機としてこれ以上のコスパはない。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-03-budget-datacenter-gpu-local-llama-setup.jpg",
+    "created_at": "2026-06-03T08:06:45.917744+09:00",
+    "posted": false
   }
 ]
