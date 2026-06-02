@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-06-02-ai-robot-emotional-intelligence-medical-field.jpg",
     "created_at": "2026-06-02T19:41:41.724600+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-03-local-llm-gpu-comparison-qwen-rtx-mac",
+    "title": "ローカルLLMおすすめPC・GPU比較：Qwen/Gemmaを仕事で使うための選び方と買い得モデル",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-comparison-qwen-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLMを仕事で使うなら「VRAM 24GB」が今の絶対基準。RTX 3090/4090か、メモリ64GB以上のMac以外は正直厳しいです。Qwen 2.5の32Bクラスを実用速度で動かせるかどうかが、コーディングやRAGの生産性を分けます。12GB以下のGPUでモデル選びに迷う時間はもう終わりにしましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-03-local-llm-gpu-comparison-qwen-rtx-mac.jpg",
+    "created_at": "2026-06-03T03:23:41.090598+09:00",
+    "posted": false
   }
 ]
