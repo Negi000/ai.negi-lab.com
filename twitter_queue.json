@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-01-local-llm-gpu-vram-comparison-guide",
-    "title": "ローカルLLM用サーバー選びで失敗しないためのVRAM基準と推奨構成：RTX 3090/4090からMac Studioまで",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-vram-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "ローカルLLM環境を組むならVRAM容量がすべて。実務で使うなら16GBは最低ライン、24GBが理想です。RTX 4090か、中古の3090、あるいはメモリ64GB以上のMacがエンジニアの鉄板構成。8GB/12GBモデルを安易に選ぶと、1週間で後悔します。動かせるモデルのサイズが「思考の幅」を決めます。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-01-local-llm-gpu-vram-comparison-guide.jpg",
-    "created_at": "2026-06-01T03:03:11.762048+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-01-local-llm-gpu-comparison-vram-guide",
     "title": "ローカルLLM環境の選び方比較｜RTX 4090かMac Studioか？後悔しないGPU・VRAMの基準",
     "url": "https://ai.negi-lab.com/posts/local-llm-gpu-comparison-vram-guide/",
