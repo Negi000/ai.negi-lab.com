@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 26 May 2026 12:08:33 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-27T04:21:30"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "A reality check on the AI jobs hysteria",
-      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 26 May 2026 11:04:54 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-27T04:21:30"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "The AI bubble isn't like the internet bubble",
-      "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 26 May 2026 10:37:15 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-27T04:21:30"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 26 May 2026 18:33:01 +0000",
-      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-05-27T04:21:32"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AVTR-1 Real-Time Open Weights Model",
-      "url": "https://www.producthunt.com/products/avaturn-live-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Generating uncanny AI avatars is now open source </p> <p> <a href=\"https://www.producthunt.com/products/avaturn-live-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1150786?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-27T04:21:33"
-    },
-    {
       "source": "Google News",
       "title": "ローマ教皇レオ14世、初の回勅でAIに言及…巨大テック支配と雇用喪失に警鐘 - Business Insider Japan",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQUs1X3ZFb3gwa1FkS0VtSzBnNDdkaFJXQXdRWU5QZkdFZU00cGdScXBCSklqSXVzU3JLN0Z5U2xwS3V4VXlxZC10Z1BkWVFjWkpUTzlGLUxCRnlVS2NOc204ZTFqVWV6U1V3aXdkb1ZTOGlIUGtxRXFyZG9hc3NYUE5jZVBoY2F4MXdidURqTm1XemN5ZjVCUmtFMklCeGRXZk9rbzRFd0ZtclNoRUNnSER1dw?oc=5",
@@ -2509,20 +2440,6 @@
       "collected_at": "2026-06-02T08:06:30"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Stop asking what model to run. There are literally only two.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tu82wi/stop_asking_what_model_to_run_there_are_literally/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-06-01T22:29:23+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Can we please ban the daily &quot;I have an RTX 3060, what should I run?&quot; slop threads? It’s not complicated. As of right now, Hugging Face is empty and exactly two local models exist on this entire planet:</p> <ul> <li><strong>Qwen 3.6 35b a3b</strong></li> <li><strong>Qwen 3.6 27b</strong></li> </ul> <p>That is the entire list. Your specs don’t matter. Your use case doesn’t matter.</p> <p>Stop coping with your pristine, full-precision Q8s of tiny 1B model",
-      "extra": {},
-      "collected_at": "2026-06-02T13:47:21"
-    },
-    {
       "source": "r/ollama",
       "title": "Can I get help fixing a truncation issue?",
       "url": "https://www.reddit.com/r/ollama/comments/1tueq43/can_i_get_help_fixing_a_truncation_issue/",
@@ -2935,7 +2852,83 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-03T03:23:09"
+    },
+    {
+      "source": "r/ollama",
+      "title": "How to add specific knowledge to an ollama model?",
+      "url": "https://www.reddit.com/r/ollama/comments/1tuxvue/how_to_add_specific_knowledge_to_an_ollama_model/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-02T17:27:40+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have ollama + openwebui running llama3.1:8b, everything works great so far.</p> <p>I work in IT/Cybersec, and want to do a presentation at work on the danger AI : asking information about a fake someone and it would print a lot of knowledge I would have given to it beforehand.</p> <p><strong>POC : cats are better than dogs</strong></p> <p>I tried to create a model using the command <code>llama create testmodel -f preprompt.txt</code></p> <pre><code>preprompt.t",
+      "extra": {},
+      "collected_at": "2026-06-03T05:06:49"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Uber caps employee AI spending after blowing through budget in four months",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Tue, 02 Jun 2026 19:11:48 +0000",
+      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-03T05:06:50"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "MartinLoop",
+      "url": "https://www.producthunt.com/products/martinloop",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Control AI coding agents with limits, proof, + run receipts </p> <p> <a href=\"https://www.producthunt.com/products/martinloop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1151866?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-06-03T05:06:51"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Sortail",
+      "url": "https://www.producthunt.com/products/sortail",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Self-learning one-click inbox cleanup for Apple Mail </p> <p> <a href=\"https://www.producthunt.com/products/sortail?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1153689?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-03T05:06:51"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "findloc.ai",
+      "url": "https://www.producthunt.com/products/findloc-ai-business-location-research",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Make your business citable by ChatGPT, Claude & Perplexity </p> <p> <a href=\"https://www.producthunt.com/products/findloc-ai-business-location-research?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1151247?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-03T05:06:51"
     }
   ],
-  "updated_at": "2026-06-03T03:23:11.533284+09:00"
+  "updated_at": "2026-06-03T05:06:51.945481+09:00"
 }
