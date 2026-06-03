@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-02-ollama-hardware-guide-gpu-mac-comparison",
-    "title": "ローカルLLM環境構築で失敗しないためのGPU・Mac選び：Ollamaが動かない罠を回避する",
-    "url": "https://ai.negi-lab.com/posts/ollama-hardware-guide-gpu-mac-comparison/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "Ollamaの無限ロードに悩むなら、ソフトの再インストールよりハードを見直すべき。VRAM 8GB以下のGPUで実務はもう限界です。\n\n失敗しない基準は「RTX 4060 Ti 16GB」か「Macメモリ32GB以上」。\n特に16GBの壁を超えないと、Cursor連携やRAG構築で必ず詰まります。電源容量と物理サイズ確認も忘れずに。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-02-ollama-hardware-guide-gpu-mac-comparison.jpg",
-    "created_at": "2026-06-02T02:51:43.112551+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-02-minimax-m3-local-llm-hardware-guide-rtx-mac",
-    "title": "MiniMax M3 比較と選び方！ローカルLLM開発で失敗しないRTX/Mac推奨スペック",
-    "url": "https://ai.negi-lab.com/posts/minimax-m3-local-llm-hardware-guide-rtx-mac/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "MiniMax M3が話題だけど、実務で使うなら「VRAM 24GB」が生存ライン。MoEモデルは推論こそ速いが、メモリ展開には容赦ない。16GB以下のGPUで無理させると、1秒間に数文字という絶望的な速度に。今から投資するならRTX 4090か、メモリ64GB以上のMac一択。中途半端なスペックで買い直すのが一番コスパ悪いですよ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-02-minimax-m3-local-llm-hardware-guide-rtx-mac.jpg",
-    "created_at": "2026-06-02T04:31:53.041682+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-02-ollama-python-local-llm-tutorial",
     "title": "ローカルLLM構築入門 OllamaとPythonでAIを自前運用する方法",
     "url": "https://ai.negi-lab.com/posts/ollama-python-local-llm-tutorial/",
