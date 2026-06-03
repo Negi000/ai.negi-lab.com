@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-01-trading-agents-multi-agent-llm-framework-review",
-    "title": "TradingAgents：LLMマルチエージェントで金融取引を自動化する実務フレームワーク",
-    "url": "https://ai.negi-lab.com/posts/trading-agents-multi-agent-llm-framework-review/",
-    "category": "TOOL",
-    "viral_tags": "#TradingAgents #AIエージェント",
-    "tweet_text": "金融トレード×マルチエージェントのTradingAgentsが面白い。ニュース・テクニカル・リスク管理を別々のLLMに担当させ、合議制で投資判断を下す設計。単一プロンプトよりハルシネーションに強く、実務的な「手触り感」がある。RTX 4090環境でローカルLLMと組み合わせれば、APIコストを抑えた24時間監視体制も現実的。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-01-trading-agents-multi-agent-llm-framework-review.jpg",
-    "created_at": "2026-06-01T20:41:32.901377+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-02-ollama-python-local-ai-agent-tutorial",
-    "title": "OllamaとPythonで実用的なローカルAIエージェントを自作する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-python-local-ai-agent-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Python",
-    "tweet_text": "GPU不足の時代だからこそ、RTX 3060/4060等のミドルレンジで動く「ローカルAIエージェント」が熱い。Llama 3.1 8BならFunction Callingの精度も実用レベル。OpenAIにデータを送らず、API代もゼロ。Pythonから数個の関数を渡すだけで、PC操作を自動化する自分専用エージェントが30分で作れます。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-02-ollama-python-local-ai-agent-tutorial.jpg",
-    "created_at": "2026-06-02T00:20:36.778434+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-02-ollama-hardware-guide-gpu-mac-comparison",
     "title": "ローカルLLM環境構築で失敗しないためのGPU・Mac選び：Ollamaが動かない罠を回避する",
     "url": "https://ai.negi-lab.com/posts/ollama-hardware-guide-gpu-mac-comparison/",
