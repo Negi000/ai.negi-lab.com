@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-02-ollama-python-local-llm-tutorial",
-    "title": "ローカルLLM構築入門 OllamaとPythonでAIを自前運用する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-python-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Python",
-    "tweet_text": "ローカルLLMは「構築が難しい」というのは過去の話。OllamaとPythonを使えば、わずか30分で自分専用の完全オフラインAIサーバーが立ち上がります。\n\nVRAM 8GBあればLlama 3が爆速で動く。API代ゼロ、検閲なし、プライバシー保護。SIer実務で培った「本当に動く」最小構成スクリプトをまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-02-ollama-python-local-llm-tutorial.jpg",
-    "created_at": "2026-06-02T05:55:37.132220+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-02-rtx-gpu-memory-bandwidth-llama3-tensorrt-optimization",
-    "title": "GPUのメモリ帯域に騙されない！現行最強のRTX 4090でLlama 3を極限まで高速化する方法",
-    "url": "https://ai.negi-lab.com/posts/rtx-gpu-memory-bandwidth-llama3-tensorrt-optimization/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "RTX Sparkのメモリ帯域が600GB/s以下との噂。AI推論の速度はVRAM容量以上に「帯域幅」で決まります。1TB/s超えのRTX 4090が依然として最強である理由を技術的に解説。今回はTensorRT-LLMを使い、Llama 3を理論限界まで高速化する手順をまとめました。カタログスペックに騙されない判断基準を。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-02-rtx-gpu-memory-bandwidth-llama3-tensorrt-optimization.jpg",
-    "created_at": "2026-06-02T08:06:59.982676+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-02-socialecho-2-review-ai-social-agent",
     "title": "SocialEcho 2.0 業務自動化を目指すSNSエージェントの実践レビュー",
     "url": "https://ai.negi-lab.com/posts/socialecho-2-review-ai-social-agent/",
