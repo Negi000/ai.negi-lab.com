@@ -1,66 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Coding",
-      "title": "Using AI to write better code more slowly",
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 25 May 2026 23:16:59 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-27T16:11:54"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Netfox",
-      "url": "https://www.producthunt.com/products/netfox",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A native local macOS network monitor </p> <p> <a href=\"https://www.producthunt.com/products/netfox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1156418?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-27T16:11:57"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Pawse.ai",
-      "url": "https://www.producthunt.com/products/pawse-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> An acoustic regulation system for dogs </p> <p> <a href=\"https://www.producthunt.com/products/pawse-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1156203?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-05-27T16:11:57"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Chunk sidecars",
-      "url": "https://www.producthunt.com/products/circleci",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Validate agent-generated code before it ever reaches CI </p> <p> <a href=\"https://www.producthunt.com/products/circleci?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1156372?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-27T16:11:57"
-    },
-    {
       "source": "Product Hunt",
       "title": "QuickSheet v1.2",
       "url": "https://www.producthunt.com/products/quicksheet-light-spreadsheet",
@@ -2503,22 +2443,6 @@
       "collected_at": "2026-06-02T19:41:19"
     },
     {
-      "source": "GitHub Trending",
-      "title": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
-      "extra": {
-        "stars_today": "1,266 stars today"
-      },
-      "collected_at": "2026-06-02T21:40:57"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "ZeroDrift raises $10 million to protect AI models from themselves",
       "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
@@ -2968,7 +2892,118 @@
         "revenue_score": 4
       },
       "collected_at": "2026-06-03T13:57:27"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Clicky : An ai buddy that lives on your mac.",
+      "url": "https://www.reddit.com/r/ollama/comments/1tvfggg/clicky_an_ai_buddy_that_lives_on_your_mac/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-03T05:07:37+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1tvfggg/clicky_an_ai_buddy_that_lives_on_your_mac/\"> <img alt=\"Clicky : An ai buddy that lives on your mac.\" src=\"https://external-preview.redd.it/bmNobXYyemMzMDVoMVTf4W57GzVoExKULo_HA3kauuKsjouHd4CuA12QtuHy.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f58adda23a9e9ac725326afd637b579efbd1b08c\" title=\"Clicky : An ai buddy that lives on your mac.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Watch me control my computer ",
+      "extra": {},
+      "collected_at": "2026-06-03T17:25:19"
+    },
+    {
+      "source": "Google News",
+      "title": "トランプ米大統領、AI安全保障に関する大統領令に署名 最先端モデルを公開30日前に政府が検査可能に - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdm91Yi01OTk5MDdKMHhaLU84Z0VqUGJQaXEzQkZkWGVhMXJEZTVzLXBGMGRXMjFISUowd3pTNkhuUGN3dVU4ZEVQRjBMRW82TVBXWUFtWnU5VEpmZkZsNTdoN0o0ZEFNaWNvcw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 03 Jun 2026 00:42:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdm91Yi01OTk5MDdKMHhaLU84Z0VqUGJQaXEzQkZkWGVhMXJEZTVzLXBGMGRXMjFISUowd3pTNkhuUGN3dVU4ZEVQRjBMRW82TVBXWUFtWnU5VEpmZkZsNTdoN0o0ZEFNaWNvcw?oc=5\" target=\"_blank\">トランプ米大統領、AI安全保障に関する大統領令に署名 最先端モデルを公開30日前に政府が検査可能に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITmedia</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-03T17:25:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "TaskGPT",
+      "url": "https://www.producthunt.com/products/taskgpt-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Voice agent for MacOS </p> <p> <a href=\"https://www.producthunt.com/products/taskgpt-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1161669?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-03T17:25:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "RadianceKit",
+      "url": "https://www.producthunt.com/products/radiancekit",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn photos into 3D Gaussian Splats on your Mac </p> <p> <a href=\"https://www.producthunt.com/products/radiancekit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1161523?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-03T17:25:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Elentaria",
+      "url": "https://www.producthunt.com/products/elentaria",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your GTM: from diagnosis to execution </p> <p> <a href=\"https://www.producthunt.com/products/elentaria?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1149728?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-03T17:25:21"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Calling it now Microsoft is buying Unsloth.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tvhv4b/calling_it_now_microsoft_is_buying_unsloth/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-06-03T07:17:30+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am going to be honest, I am leery of this new partnership with Unsloth. Microsoft historically hated open source, and this will not benefit the community in the end. It will look great at first. They will drop updates, play nice, and everyone will celebrate.</p> <p>But if you have been around the block, you know exactly how this play ends. Microsoft spent decades aggressively trying to kill open source. A shiny PR campaign does not change corporate DNA.</p> <p",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-06-03T17:25:22"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Microsoft Aion 1.0 Instruct and Aion 1.0 Plan models!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tvekng/microsoft_aion_10_instruct_and_aion_10_plan_models/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-03T04:23:32+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tvekng/microsoft_aion_10_instruct_and_aion_10_plan_models/\"> <img alt=\"Microsoft Aion 1.0 Instruct and Aion 1.0 Plan models!\" src=\"https://preview.redd.it/nuy17exhvz4h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9beabe5b567f57217c7215dd181e00cb2b109a81\" title=\"Microsoft Aion 1.0 Instruct and Aion 1.0 Plan models!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Microsoft <a href=\"https://blogs.windows.com/windowsde",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-06-03T17:25:22"
     }
   ],
-  "updated_at": "2026-06-03T13:57:27.222353+09:00"
+  "updated_at": "2026-06-03T17:25:22.259470+09:00"
 }
