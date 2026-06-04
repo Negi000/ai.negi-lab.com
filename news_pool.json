@@ -1,68 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-      "url": "https://arxiv.org/abs/2510.04950",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 26 May 2026 07:43:22 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-28T16:00:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Harbor",
-      "url": "https://www.producthunt.com/products/habor",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> CLI + companion App to spin up complete local LLM stacks </p> <p> <a href=\"https://www.producthunt.com/products/habor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1156503?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-28T16:00:26"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "BobCA",
-      "url": "https://www.producthunt.com/products/bob-s-workshop",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A sovereign agent that learns to code with your preferences </p> <p> <a href=\"https://www.producthunt.com/products/bob-s-workshop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1155920?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-28T16:00:26"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I built a 103B-token Usenet corpus (1980–2013) — pre-web, human-only, zero AI contamination. Got strong traction on r/ML, thought this community would find it useful.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tphhqk/i_built_a_103btoken_usenet_corpus_19802013_preweb/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-05-27T20:23:41+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Posted this to <a href=\"/r/MachineLearning\">r/MachineLearning</a> a couple weeks ago (30K views, 100+ upvotes) and have been meaning to share it here where the fine-tuning angle is more directly relevant.</p> <p>I spent years building and processing a complete Usenet corpus from 1980 to 2013. Here’s why it might matter for local model work specifically:<br /> Zero AI contamination. Every post predates LLMs by decades. Training on this won’t bake in GPT mannerism",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-05-28T16:00:30"
-    },
-    {
       "source": "Google News",
       "title": "IDC MarketScape｜Japan Artificial Intelligence Services 2025 Vendor Assessment - ctc-g.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0hVcjJTU0lBekxZUDFsM3UzSDN4MVc1UlkyT1lHa0J3YlVEQ0tiTDhGYi15cVpnT1FYa3RocHROLWVrdWRjSld6TnU3ZWs0c0c4SjI3cXhSUDMtLU02NTdQX0tfNzZFOElmdHJaMVZwWkZ5TzBsMHRPbUFlWEJDQzFR?oc=5",
@@ -2678,21 +2616,6 @@
       "collected_at": "2026-06-04T01:58:43"
     },
     {
-      "source": "GitHub Trending",
-      "title": "odoo/odoo",
-      "url": "https://github.com/odoo/odoo",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Odoo. Open Source Apps To Grow Your Business.",
-      "extra": {
-        "stars_today": "29 stars today"
-      },
-      "collected_at": "2026-06-04T01:58:45"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Amazon will show AI product images when you search for some reason",
       "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
@@ -3023,7 +2946,67 @@
         "revenue_score": 7
       },
       "collected_at": "2026-06-04T13:50:24"
+    },
+    {
+      "source": "r/ollama",
+      "title": "122B MoE local inference with 8 GB GPU VRAM by keeping experts on CPU",
+      "url": "https://www.reddit.com/r/ollama/comments/1tvyrlz/122b_moe_local_inference_with_8_gb_gpu_vram_by/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-06-03T18:47:37+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Disclosure: I'm affiliated with the project.</p> <p>We have been working on InstinctRazor-Qwen3.5-122B-A10B, a 122B MoE model/runtime setup for local inference where experts stay on CPU and active GPU VRAM can stay around 8 GB.</p> <p>The full compressed model is still around 50 GB, so this is not magically tiny. The point is that the GPU-side requirement becomes much more approachable for consumer machines.</p> <p>Benchmark note: in our current table it is ahea",
+      "extra": {},
+      "collected_at": "2026-06-04T16:58:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Chloe by Close",
+      "url": "https://www.producthunt.com/products/close",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI agent built into your CRM who works leads for you </p> <p> <a href=\"https://www.producthunt.com/products/close?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1161919?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-06-04T16:58:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Gather",
+      "url": "https://www.producthunt.com/products/gather-14",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Save it once, never lose it again </p> <p> <a href=\"https://www.producthunt.com/products/gather-14?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1160934?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-04T16:58:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AppWizzy",
+      "url": "https://www.producthunt.com/products/appwizzy",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Rent a private VM with Codex to build production apps </p> <p> <a href=\"https://www.producthunt.com/products/appwizzy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1155557?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-04T16:58:03"
     }
   ],
-  "updated_at": "2026-06-04T13:50:24.105779+09:00"
+  "updated_at": "2026-06-04T16:58:04.007040+09:00"
 }
