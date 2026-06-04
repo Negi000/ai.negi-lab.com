@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-04T16:58:31.514500+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-04-boxes-dev-review-ai-agent-sandbox",
+    "title": "Boxes.dev 使い方とClaude Code連携レビュー",
+    "url": "https://ai.negi-lab.com/posts/boxes-dev-review-ai-agent-sandbox/",
+    "category": "TOOL",
+    "viral_tags": "#ClaudeCode #AIエージェント",
+    "tweet_text": "AIエージェントにコード実行を任せるならBoxes.devは必須。Claude Code等で一番怖い「ローカル環境の破壊」をクラウド上の隔離VMが1秒で解決。Python SDKで数行書くだけで安全なサンドボックスが手に入る。rm -rf /のリスクを負うのはもうやめよう。開発効率と精神衛生への投資として月額$20前後の価値は十分にある。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-04T19:00:06.504502+09:00",
+    "posted": false
   }
 ]

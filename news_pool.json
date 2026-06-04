@@ -2931,23 +2931,6 @@
       "collected_at": "2026-06-04T13:50:24"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "New Google Gemma 4 12B Claims Near-26B Performance - We Tested Both!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tw4tmf/new_google_gemma_4_12b_claims_near26b_performance/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-03T22:25:56+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tw4tmf/new_google_gemma_4_12b_claims_near26b_performance/\"> <img alt=\"New Google Gemma 4 12B Claims Near-26B Performance - We Tested Both!\" src=\"https://external-preview.redd.it/eGYzMDQ2eDY2NTVoMb1yKaHy9XEjIZONRZPPLKHsqxFB6tN-hfh_b_Vxjrny.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d557a6b90ec843a1411dc4830cd1e6cad39d808\" title=\"New Google Gemma 4 12B Claims Near-26B Performance - We Tested Both!\" /> </a> </td><td> <!-",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-06-04T13:50:24"
-    },
-    {
       "source": "r/ollama",
       "title": "122B MoE local inference with 8 GB GPU VRAM by keeping experts on CPU",
       "url": "https://www.reddit.com/r/ollama/comments/1tvyrlz/122b_moe_local_inference_with_8_gb_gpu_vram_by/",
@@ -3006,7 +2989,106 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-04T16:58:03"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 04 Jun 2026 00:18:02 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-04T18:59:36"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+      "url": "https://github.com/zaydmulani09/mnemo",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 03 Jun 2026 20:32:10 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-04T18:59:36"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "If AI data centers are so great, why are they being built in secret?",
+      "url": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 03 Jun 2026 16:57:11 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-04T18:59:36"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Where's gemma4:12b?",
+      "url": "https://www.reddit.com/r/ollama/comments/1twgzkz/wheres_gemma412b/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-06-04T07:59:06+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Looks like ollama was hosting it at some point but it looks like it's now been scrubbed?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Dredgefort\"> /u/Dredgefort </a> <br /> <span><a href=\"https://www.reddit.com/r/ollama/comments/1twgzkz/wheres_gemma412b/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1twgzkz/wheres_gemma412b/\">[comments]</a></span>",
+      "extra": {},
+      "collected_at": "2026-06-04T18:59:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Split Ninja",
+      "url": "https://www.producthunt.com/products/split-ninja",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Cut, extract, mute, and split videos locally </p> <p> <a href=\"https://www.producthunt.com/products/split-ninja?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1162599?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-04T18:59:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Boxes.dev",
+      "url": "https://www.producthunt.com/products/boxes-dev",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Run Claude Code and Codex in your own cloud environment </p> <p> <a href=\"https://www.producthunt.com/products/boxes-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1162913?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-04T18:59:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Walrus Memory",
+      "url": "https://www.producthunt.com/products/walrus-memory",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Enable agents to keep context & work across apps + sessions </p> <p> <a href=\"https://www.producthunt.com/products/walrus-memory?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1162584?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-04T18:59:41"
     }
   ],
-  "updated_at": "2026-06-04T16:58:04.007040+09:00"
+  "updated_at": "2026-06-04T18:59:42.185799+09:00"
 }
