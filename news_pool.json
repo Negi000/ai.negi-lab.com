@@ -2905,19 +2905,6 @@
       "collected_at": "2026-06-04T20:53:03"
     },
     {
-      "source": "r/ollama",
-      "title": "Claude Code Opus 4.8 vs. Local Qwen3.6 27B One-Shot Coding Benchmark",
-      "url": "https://www.reddit.com/r/ollama/comments/1twpep6/claude_code_opus_48_vs_local_qwen36_27b_oneshot/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-06-04T14:32:03+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://reddit.com/link/1twpep6/video/jc37584zz95h1/player\">https://reddit.com/link/1twpep6/video/jc37584zz95h1/player</a></p> <p>Full disclosure I built codehamr, the local agent on the right, as a passion project. I love local LLMs and wanted to see how close I could get to Claude Code using 27B models and strict prompt discipline.</p> <p>I ran an identical prompt specifically requesting a retro pixel art space game. This is a great way to push a codi",
-      "extra": {},
-      "collected_at": "2026-06-05T00:26:30"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
       "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
@@ -3087,7 +3074,81 @@
         "revenue_score": 7
       },
       "collected_at": "2026-06-05T02:33:50"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
+      "url": "https://boxes.dev",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Thu, 04 Jun 2026 14:38:35 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-05T04:23:11"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "Thu, 04 Jun 2026 19:20:58 +0000",
+      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-06-05T04:23:13"
+    },
+    {
+      "source": "Google News",
+      "title": "【追捕 MANHUNT】ハ・ジウォン スペシャルインタビュー @Milk Magazine Artificial Intelligence (mqSuxU4VG2) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFQ0EydmZobmFDS2ZRZkVPT24xYTJNajJZU1A3N1FYMnhIbG5XZnlMR2MxZGx6am1mX19oNjlnSjU5dWhKTXBzalpwU1NScnRTM3gwVElLVWRLV1k?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 04 Jun 2026 13:00:44 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFQ0EydmZobmFDS2ZRZkVPT24xYTJNajJZU1A3N1FYMnhIbG5XZnlMR2MxZGx6am1mX19oNjlnSjU5dWhKTXBzalpwU1NScnRTM3gwVElLVWRLV1k?oc=5\" target=\"_blank\">【追捕 MANHUNT】ハ・ジウォン スペシャルインタビュー @Milk Magazine Artificial Intelligence (mqSuxU4VG2)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-05T04:23:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Empromptu AI",
+      "url": "https://www.producthunt.com/products/empromptu",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Train Fine Tuned Models With AI Apps You're Already Building </p> <p> <a href=\"https://www.producthunt.com/products/empromptu?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1160862?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-05T04:23:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Deliveryman.ai",
+      "url": "https://www.producthunt.com/products/deliveryman-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Cold email infrastructure on autopilot without Gsuite </p> <p> <a href=\"https://www.producthunt.com/products/deliveryman-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1160698?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-05T04:23:14"
     }
   ],
-  "updated_at": "2026-06-05T02:33:50.908788+09:00"
+  "updated_at": "2026-06-05T04:23:15.266614+09:00"
 }
