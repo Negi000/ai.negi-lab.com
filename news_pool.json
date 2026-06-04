@@ -3076,19 +3076,6 @@
       "collected_at": "2026-06-05T02:33:50"
     },
     {
-      "source": "HN AI Hot",
-      "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
-      "url": "https://boxes.dev",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Thu, 04 Jun 2026 14:38:35 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-05T04:23:11"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
       "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
@@ -3148,7 +3135,98 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-05T04:23:14"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 04 Jun 2026 22:29:50 +0000",
+      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-06-05T07:40:28"
+    },
+    {
+      "source": "Google News",
+      "title": "SF作家のテッド・チャンが「AIは意識を持っていると考えるべきではない」と語る - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lQy0xdWlib0xQQ1Izc1FyVlI2a2RJeDlCZzJXOXlqcVF3NlBDenhfU1ZUOEVEZlZ5bFpidFlDVWRCdUN3ZlQxSmVfX18taDg5ZWF3YUg4THpDOHRU?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 04 Jun 2026 22:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lQy0xdWlib0xQQ1Izc1FyVlI2a2RJeDlCZzJXOXlqcVF3NlBDenhfU1ZUOEVEZlZ5bFpidFlDVWRCdUN3ZlQxSmVfX18taDg5ZWF3YUg4THpDOHRU?oc=5\" target=\"_blank\">SF作家のテッド・チャンが「AIは意識を持っていると考えるべきではない」と語る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-05T07:40:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Audex Trace",
+      "url": "https://www.producthunt.com/products/audex-trace",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Trace what Apple Music is actually playing </p> <p> <a href=\"https://www.producthunt.com/products/audex-trace?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1162206?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-05T07:40:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Novus",
+      "url": "https://www.producthunt.com/products/novus-4",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Catch and fix usability issues automatically as you ship </p> <p> <a href=\"https://www.producthunt.com/products/novus-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1161160?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-05T07:40:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Basedash Semantic Layer",
+      "url": "https://www.producthunt.com/products/basedash",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Define metrics once. Use them everywhere. </p> <p> <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1162731?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-05T07:40:29"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "You guys were right - Qwen 3.6 35B IS good...and KV Cache DOES matter.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twyoqe/you_guys_were_right_qwen_36_35b_is_goodand_kv/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-06-04T19:57:06+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>WARNING:</strong> <em>I'm speed typing this, no time to organizea/format, so if short paragraph chunks bother you, just keep it moving.</em></p> <p>When Qwen 3.6 35B dropped, a lot of people were heaping praises and I thought they were just glazing it because of the speed. 27B was objectionably smarter than the 35 on 3.5.</p> <p>So when I got around to using the 27B version (unsloth's Q5KXL UD @ KV Q8/8), it became my daily driver without thinking on. No",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-06-05T07:40:30"
     }
   ],
-  "updated_at": "2026-06-05T04:23:15.266614+09:00"
+  "updated_at": "2026-06-05T07:40:30.462358+09:00"
 }
