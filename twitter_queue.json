@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-04T20:53:31.802458+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-05-claude-code-vs-local-llm-gpu-mac-guide",
+    "title": "Claude Code vs ローカルLLM比較 開発効率を最大化するGPUとMacの選び方",
+    "url": "https://ai.negi-lab.com/posts/claude-code-vs-local-llm-gpu-mac-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #エンジニア",
+    "tweet_text": "ローカルLLMのQwen 2.5 27B/32B級なら、適切なプロンプト制御でClaude Opusに匹敵するコード生成が可能。ただしVRAM 24GBかMacのメモリ64GB以上が実務の最低ライン。中途半端なスペックは結局API頼みになり投資効率が最悪です。開発効率を爆上げしたいなら、まず「VRAM容量」を最優先して選ぶべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-05T02:34:13.703778+09:00",
+    "posted": false
   }
 ]
