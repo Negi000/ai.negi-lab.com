@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-03-headroom-llm-token-compression-review",
-    "title": "headroom LLMのトークン消費を最大95%削減する圧縮レイヤー",
-    "url": "https://ai.negi-lab.com/posts/headroom-llm-token-compression-review/",
-    "category": "TOOL",
-    "viral_tags": "#RAG #LLM効率化",
-    "tweet_text": "LLMのAPI代が月10万超えてるなら「headroom」は必須。\nRAGのチャンクや冗長なログを、意味を保ったまま最大95%圧縮。\n1万トークンが1,500トークンになる破壊力。\nMCPサーバー対応でCursorやClaude Desktopでも即戦力。\n情報の密度を上げれば、Lost in the Middle問題も解決。\nAPI代を削るか、情報を濃縮するか。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-03T13:57:51.915644+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-03-hermes-desktop-local-llm-tutorial-python",
     "title": "Hermes Desktop 使い方 | ローカルLLM環境を5分で構築しPythonで操作する方法",
     "url": "https://ai.negi-lab.com/posts/hermes-desktop-local-llm-tutorial-python/",
