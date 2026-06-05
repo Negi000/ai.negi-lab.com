@@ -2971,22 +2971,6 @@
       "collected_at": "2026-06-05T07:40:29"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "You guys were right - Qwen 3.6 35B IS good...and KV Cache DOES matter.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twyoqe/you_guys_were_right_qwen_36_35b_is_goodand_kv/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-06-04T19:57:06+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>WARNING:</strong> <em>I'm speed typing this, no time to organizea/format, so if short paragraph chunks bother you, just keep it moving.</em></p> <p>When Qwen 3.6 35B dropped, a lot of people were heaping praises and I thought they were just glazing it because of the speed. 27B was objectionably smarter than the 35 on 3.5.</p> <p>So when I got around to using the 27B version (unsloth's Q5KXL UD @ KV Q8/8), it became my daily driver without thinking on. No",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-06-05T07:40:30"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
       "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
@@ -3139,7 +3123,81 @@
         "revenue_score": 10
       },
       "collected_at": "2026-06-05T16:15:45"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "url": "https://passo.uno/fine-tuning-docs-llm/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 05 Jun 2026 05:46:06 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-05T18:56:53"
+    },
+    {
+      "source": "Google News",
+      "title": "アンソロピック、｢AI開発減速｣提言 OpenAIは政府規制強化を訴え - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWU2hHdHZWbkVFVzlCU09SakttYnpsVUQ3MXVRdWdWbDNkYWU3U05FeF8taU42RDJCS082Yl9WRHdHYlZDS1NpVmNUNHRkc3JjdnpnUFFDYzhxZE1fLTBMTEVpYWtIRUgzMldIeA?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 05 Jun 2026 04:17:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBWU2hHdHZWbkVFVzlCU09SakttYnpsVUQ3MXVRdWdWbDNkYWU3U05FeF8taU42RDJCS082Yl9WRHdHYlZDS1NpVmNUNHRkc3JjdnpnUFFDYzhxZE1fLTBMTEVpYWtIRUgzMldIeA?oc=5\" target=\"_blank\">アンソロピック、｢AI開発減速｣提言 OpenAIは政府規制強化を訴え</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-06-05T18:56:55"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Leni",
+      "url": "https://www.producthunt.com/products/leni",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The world’s most accurate AI for investors </p> <p> <a href=\"https://www.producthunt.com/products/leni?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1163341?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-05T18:56:55"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Veltrix AI",
+      "url": "https://www.producthunt.com/products/veltrix-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI finance copilot for cash flow, margins, and growth </p> <p> <a href=\"https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1152327?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-05T18:56:55"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma 4 12B is my new main squeeze",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txdcj9/gemma_4_12b_is_my_new_main_squeeze/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-06-05T06:57:14+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The Unsloth Q5_K_XL is officially my main squeeze for local coding.</p> <p>I started out with the Q4_K_XL, but found myself fixing syntax errors a little too often. It wasn't terrible, but I had one file where I had to make 23 edits just for syntax. With the Q4 I was pulling around 61 t/s, and moving to the Q5 dropped me down to 50 t/s, but now most things get one-shotted (not zero-shot, I still had to tell this baby what to build *wink*, looking at you grammar/",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-06-05T18:56:56"
     }
   ],
-  "updated_at": "2026-06-05T16:15:45.011778+09:00"
+  "updated_at": "2026-06-05T18:56:56.358396+09:00"
 }
