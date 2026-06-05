@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-03-python-scrapling-framework-review",
-    "title": "Scrapling 使い方と実戦レビュー：壊れにくいクローリングを実現する新世代フレームワーク",
-    "url": "https://ai.negi-lab.com/posts/python-scrapling-framework-review/",
-    "category": "TOOL",
-    "viral_tags": "#Python #スクレイピング",
-    "tweet_text": "スクレイピングの「すぐ壊れる」「Bot検知で止まる」問題を解決するScraplingが凄い。HTTPリクエストの速さとPlaywrightの確実性を、同一APIで使い分けられる設計。特にStealthyFetcherの隠蔽性は実務レベルで即戦力になる。1000スター超えも納得。メンテ地獄から抜け出すなら今が変え時。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-03T20:05:27.764246+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-03-coralogix-ai-agent-monitoring-series-f-funding",
-    "title": "AIエージェントの「暴走」を防ぐ監視層に2億ドル。Coralogixの大型調達が示す実務の難所",
-    "url": "https://ai.negi-lab.com/posts/coralogix-ai-agent-monitoring-series-f-funding/",
-    "category": "NEWS",
-    "viral_tags": "#AIエージェント #オブザーバビリティ",
-    "tweet_text": "AIエージェント監視のCoralogixが2億ドルの超大型調達。評価額は1.6Bドルに。\nもはや「AIを作れるか」の時代は終わり、「数千のエージェントを本番で制御できるか」の戦いが始まった。\n従来のログ監視では追えないハルシネーションや推論パスの追跡が、実務導入の必須条件になる。\nこの「監視層」への投資加速は、開発者の意思決定を大きく変えるはず。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-03T22:17:18.318989+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-04-local-llm-uncensored-ollama-gpu-comparison",
     "title": "ローカルLLM選び方比較：検閲なしOllamaモデルを動かす最強ハードウェア構成（RTX vs Mac）",
     "url": "https://ai.negi-lab.com/posts/local-llm-uncensored-ollama-gpu-comparison/",
