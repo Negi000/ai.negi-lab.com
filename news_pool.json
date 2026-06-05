@@ -3048,21 +3048,6 @@
       "collected_at": "2026-06-05T13:25:25"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Mira Murati steps back into the spotlight, carefully",
-      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 05 Jun 2026 05:06:37 +0000",
-      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-05T16:15:42"
-    },
-    {
       "source": "Product Hunt",
       "title": "VisionSync",
       "url": "https://www.producthunt.com/products/visionsync",
@@ -3259,7 +3244,85 @@
         "revenue_score": 6
       },
       "collected_at": "2026-06-05T21:08:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 05 Jun 2026 14:49:12 +0000",
+      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-06T00:14:08"
+    },
+    {
+      "source": "Google News",
+      "title": "アンソロピック、AI開発の「減速」を提言 - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05VUJmWS1xbDJxRkpDNEh5S0JLMWpTNVVWWVdqOVhQUVR3TUVWUy1TYnFIT0VFaW92MUlHTTBRUDNqTFNKS0g0a294LWxicXJ4a2VZeWF4aWlkNnlxSzBETkp2SDY?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 05 Jun 2026 12:30:08 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE05VUJmWS1xbDJxRkpDNEh5S0JLMWpTNVVWWVdqOVhQUVR3TUVWUy1TYnFIT0VFaW92MUlHTTBRUDNqTFNKS0g0a294LWxicXJ4a2VZeWF4aWlkNnlxSzBETkp2SDY?oc=5\" target=\"_blank\">アンソロピック、AI開発の「減速」を提言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Impress Watch</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-06T00:14:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Moodloom",
+      "url": "https://www.producthunt.com/products/moodloom",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ad-free Pinterest Alternative with AI content filtering </p> <p> <a href=\"https://www.producthunt.com/products/moodloom?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100116?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-06T00:14:09"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I implemented KVarN in my llama.cpp fork and ran KLD benchmarks. It's promising!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txlhxu/i_implemented_kvarn_in_my_llamacpp_fork_and_ran/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-05T13:48:37+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Saw this post here yesterday: <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1twptw2/kvarn_new_kvcache_quant_from_huawei_35_kv_cache/\">KVarN: new KV-cache quant from Huawei. 3–5× KV cache compression with actual speed-up instead of slow-down, and unlike TurboQuant it holds up on reasoning (Apache 2.0, vLLM single flag)</a></p> <p>Cheap KV cache with good precision? Sign me up! Oh, vLLM only...</p> <p>Wait, I do have <a href=\"https://github.com/Anbeeld/bee",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-06-06T00:14:09"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Suggestion - this sub should have post flairs that mention the amount of vram/unified ram",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txjy24/suggestion_this_sub_should_have_post_flairs_that/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-06-05T12:45:43+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The amount of fast ram is the single most important factor for llm use.</p> <p>There are lots of people that run setups with massive amounts of ram. Reading a post about how model X performs, it'd really help to know the kind of setup being used, otherwise its not relevant for a lot of people. </p> <p>It will also allow easy filtering of posts relevant to the hardware you have, right now thats very hard to do.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-06-06T00:14:09"
     }
   ],
-  "updated_at": "2026-06-05T21:08:04.062410+09:00"
+  "updated_at": "2026-06-06T00:14:09.815502+09:00"
 }
