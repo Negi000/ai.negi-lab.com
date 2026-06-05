@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-05T13:25:52.531710+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-05-qwen2-5-32b-kv-cache-agent-tutorial",
+    "title": "Qwen2.5 32BとKV Cache最適化で自律型AIエージェントを構築する方法",
+    "url": "https://ai.negi-lab.com/posts/qwen2-5-32b-kv-cache-agent-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "ローカルLLMのQwen2.5 32Bがエージェント構築でガチで使える。VRAM 24GB環境なら、KV Cacheを32k確保してもレスポンスは爆速。Redditで話題の通り、複雑なシステムプロンプトを積んでもツール利用の精度が落ちない。16GBだと厳しいが、RTX 3090/4090ユーザーならクラウドAPIを卒業できるレベル。買う前にVRAM残量だけは死守すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-05T16:16:22.949918+09:00",
+    "posted": false
   }
 ]
