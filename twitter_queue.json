@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-04-local-llm-122b-gpu-vram-guide",
-    "title": "ローカルLLM環境の選び方｜122Bモデルを8GB VRAMで動かす現実解と失敗しないPC構成",
-    "url": "https://ai.negi-lab.com/posts/local-llm-122b-gpu-vram-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "122Bクラスの巨大LLMを8GB VRAMで動かす手法が話題ですが、実務で使うなら「VRAM 24GB」がやはり最低ライン。VRAM不足をRAMで補うオフロードは検証用には最高だけど、推論速度0.5t/sの世界はコーディング支援ではストレスが限界突破します。予算20万ならRAM 128GB盛り、40万ならRTX 4090。この判断基準が失敗しないコツ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-04T05:18:25.836168+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-04-gemma-4-12b-local-python-guide",
     "title": "Gemma 4-12Bをローカル環境で動かす方法",
     "url": "https://ai.negi-lab.com/posts/gemma-4-12b-local-python-guide/",
