@@ -15275,5 +15275,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-06T03:58:23.645709+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-06-openlumara-local-llm-agent-tutorial-python",
+    "title": "OpenLumaraの使い方！ローカルLLMで爆速AIエージェントを構築する完全ガイド",
+    "url": "https://ai.negi-lab.com/posts/openlumara-local-llm-agent-tutorial-python/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #OpenLumara",
+    "tweet_text": "ローカルLLMをエージェント化する際の「プロンプト肥大化による精度低下」に悩むのはもう終わり。OpenLumaraは徹底した脱・雰囲気コード。システムプロンプトを極限まで削り、RTX 3060クラスでも爆速でツールを使いこなす。Llama 3 8Bで検証した結果、既存ツールよりトークン効率が劇的に改善。VRAMを賢く使う実務重視の設計が刺さる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-06T15:36:06.162539+09:00",
+    "posted": false
   }
 ]
