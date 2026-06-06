@@ -1,107 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "AI will be used to estimate age of asylum seekers from next year",
-      "url": "https://www.bbc.co.uk/news/articles/ce3pe36qe7ro",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 29 May 2026 18:23:03 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-30T22:49:22"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Robinhood now lets your AI agents trade stocks",
-      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 29 May 2026 17:46:27 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-30T22:49:22"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 29 May 2026 16:22:01 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-30T22:49:22"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 30 May 2026 13:00:00 +0000",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-30T22:49:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Step 3.7 Flash",
-      "url": "https://www.producthunt.com/products/step-3-5-flash",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Flash-speed agents model that can see and act </p> <p> <a href=\"https://www.producthunt.com/products/step-3-5-flash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1158691?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-05-30T22:49:24"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Exstats",
-      "url": "https://www.producthunt.com/products/exstats",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Track your browser extensions and competitors in one place </p> <p> <a href=\"https://www.producthunt.com/products/exstats?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1149669?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-30T22:49:24"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "125 tok/s for Qwen3.6 q4xl on 2x 4060ti is insane perf/dollar",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tryp2q/125_toks_for_qwen36_q4xl_on_2x_4060ti_is_insane/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-05-30T12:31:19+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tryp2q/125_toks_for_qwen36_q4xl_on_2x_4060ti_is_insane/\"> <img alt=\"125 tok/s for Qwen3.6 q4xl on 2x 4060ti is insane perf/dollar\" src=\"https://preview.redd.it/3sthvqggm94h1.png?width=140&amp;height=87&amp;auto=webp&amp;s=ea41779ed6c276cd346f8ed7281e5ccc1c34b045\" title=\"125 tok/s for Qwen3.6 q4xl on 2x 4060ti is insane perf/dollar\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Under $1000 for 32gb vram from 2023, and ~",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-05-30T22:49:25"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Rsync 3.4.3 has hundreds of Claude commits",
       "url": "https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390",
@@ -2775,22 +2674,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "extra": {
-        "stars_today": "127 stars today"
-      },
-      "collected_at": "2026-06-05T21:07:36"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
       "primary_category": "TOOL",
@@ -3289,7 +3172,37 @@
         "revenue_score": 7
       },
       "collected_at": "2026-06-06T19:53:04"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The best-benchmarked open-source AI memory system. And it's free.",
+      "extra": {
+        "stars_today": "441 stars today"
+      },
+      "collected_at": "2026-06-06T22:53:16"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "extra": {
+        "stars_today": "116 stars today"
+      },
+      "collected_at": "2026-06-06T22:53:16"
     }
   ],
-  "updated_at": "2026-06-06T19:53:04.446443+09:00"
+  "updated_at": "2026-06-06T22:53:18.233349+09:00"
 }
