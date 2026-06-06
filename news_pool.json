@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Rsync 3.4.3 has hundreds of Claude commits",
-      "url": "https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 30 May 2026 08:32:57 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-31T00:50:03"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 30 May 2026 15:30:00 +0000",
-      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-05-31T00:50:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Gryphe/Pantheon-Reasoning-27B · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1trvo30/gryphepantheonreasoning27b_hugging_face/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-30T09:56:03+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1trvo30/gryphepantheonreasoning27b_hugging_face/\"> <img alt=\"Gryphe/Pantheon-Reasoning-27B · Hugging Face\" src=\"https://external-preview.redd.it/nAtzO7oxc5PE-hLOQbkdcfGgRQKQCiTpVE3Y5v9SK1A.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aea1ac64ca9d6749d8c45edcdb01eae28113f963\" title=\"Gryphe/Pantheon-Reasoning-27B · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>from Gryphe:</p> <p>An experiment in bringin",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-31T00:50:05"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
       "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
@@ -2688,21 +2642,6 @@
       "collected_at": "2026-06-05T21:07:36"
     },
     {
-      "source": "GitHub Trending",
-      "title": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "extra": {
-        "stars_today": "199 stars today"
-      },
-      "collected_at": "2026-06-05T21:07:36"
-    },
-    {
       "source": "Product Hunt",
       "title": "Arena Agent Mode",
       "url": "https://www.producthunt.com/products/arena-5",
@@ -3202,7 +3141,39 @@
         "stars_today": "116 stars today"
       },
       "collected_at": "2026-06-06T22:53:16"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Ollama updates keep breaking things - anyone else dealing with this?",
+      "url": "https://www.reddit.com/r/ollama/comments/1tyhl0x/ollama_updates_keep_breaking_things_anyone_else/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-06-06T13:40:39+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Each new version seems to introduce a regression somewhere. Last update my models started hanging after a few exchanges, the one before that broke context handling entirely.</p> <p>I get that it’s early software but the pattern of fix-then-break is getting frustrating. Are you guys pinning older versions and just staying there or is there a way to update without losing stability?</p> <p>What version are you on and is it actually stable or are you just dealing wi",
+      "extra": {},
+      "collected_at": "2026-06-07T00:53:56"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma 4 QAT Q4_0 Bench on Strix Halo",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tyilv7/gemma_4_qat_q4_0_bench_on_strix_halo/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-06-06T14:22:55+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Gemma 4 QAT Q4_0 Bench on Strix Halo</h1> <p>These are Google's official Gemma 4 QAT Q4_0 GGUF models, served locally through llama.cpp Vulkan/RADV on a Strix Halo APU.</p> <p>QAT means <strong>quantization-aware training</strong>. Instead of taking a normal model and quantizing it only after training, the model is trained or adapted while accounting for the lower-precision format it will run in. The goal is to make a small Q4 model keep more of the original mo",
+      "extra": {
+        "revenue_score": 11
+      },
+      "collected_at": "2026-06-07T00:53:59"
     }
   ],
-  "updated_at": "2026-06-06T22:53:18.233349+09:00"
+  "updated_at": "2026-06-07T00:53:59.927451+09:00"
 }
