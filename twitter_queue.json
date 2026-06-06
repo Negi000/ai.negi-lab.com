@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-05-local-llm-inference-benchmark-guide",
-    "title": "Nvidiaのマーケティングに惑わされない！LLMの推論性能を実測・可視化する計測ツール自作ガイド",
-    "url": "https://ai.negi-lab.com/posts/local-llm-inference-benchmark-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Nvidia",
-    "tweet_text": "NvidiaのLinkedInサクラ疑惑がRedditで話題ですが、エンジニアなら広告に踊らされず「自分のGPU」でベンチマークを取るべき。\nRTX 4090でLlama-3-8Bを回すと実際何fps出るのか、量子化で速度はどう変わるのか。\n実測値をPythonで自動計測・可視化するスクリプトをまとめました。投資判断は生データを見てからで遅くない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-05T07:40:56.581458+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-05-walrus-memory-agent-context-storage-review",
     "title": "Walrus Memory 使い方：AIエージェントに長期記憶を実装する",
     "url": "https://ai.negi-lab.com/posts/walrus-memory-agent-context-storage-review/",
