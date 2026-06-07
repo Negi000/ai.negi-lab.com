@@ -15247,5 +15247,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-07T18:18:27.095445+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-07-gemma-26b-cpu-inference-guide",
+    "title": "GPU不要でGemma-4-26Bを動かす方法：中古PCをAIサーバー化する",
+    "url": "https://ai.negi-lab.com/posts/gemma-26b-cpu-inference-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #自作サーバー",
+    "tweet_text": "型落ちの中古PCが最新AIサーバーに化ける。i5-8500とRAM 32GBという3万円以下の構成で、26BクラスのGemma-4が秒間7トークンで動作。VRAM不足に悩む前に、MoEモデルとKoboldcppのCPU推論を試すべき。実務で「使える」速度が中古機で手に入る時代です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-07T20:08:51.638548+09:00",
+    "posted": false
   }
 ]
