@@ -15233,5 +15233,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-07T16:12:14.394344+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-07-openai-whisper-local-stt-review",
+    "title": "openai/whisper 高精度な音声認識をローカル環境で実現する",
+    "url": "https://ai.negi-lab.com/posts/openai-whisper-local-stt-review/",
+    "category": "TOOL",
+    "viral_tags": "#Whisper #ローカルLLM",
+    "tweet_text": "音声認識をクラウドに投げる時代は終わった。OpenAIのWhisperは、ローカル環境で商用API級の精度を出せる。RTX 3060（VRAM 12GB）以上があれば、社外秘の会議録もセキュアに高速処理。large-v3の日本語精度はもはや「修正不要」なレベルに到達。まずはpip installから試すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-07T18:18:27.095445+09:00",
+    "posted": false
   }
 ]
