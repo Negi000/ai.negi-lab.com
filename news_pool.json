@@ -1,39 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Making sense of the debate over AI psychosis",
-      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 31 May 2026 15:30:00 +0000",
-      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-06-01T00:52:52"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "13 abliterated Gemma 4 E2B variants, 44 GPU hours, Benchmark and Comparison - Abliterlitics",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsvs3j/13_abliterated_gemma_4_e2b_variants_44_gpu_hours/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-31T13:44:34+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I compared 13 abliterated variants of Gemma 4 E2B across weight analysis, KL divergence, HarmBench safety, and 8 benchmark tasks. 44 GPU hours on a single RTX 5090. Here is what actually works and what destroys capabilities.</p> <p>coder3101's variant achieves 96% ASR with capability fully preserved. It actually <em>beats</em> the base model on math. treadon hits 100% ASR but loses 3 points on GSM8K. Most &quot;capabilities preserved&quot; claims on model cards ",
-      "extra": {
-        "revenue_score": 13
-      },
-      "collected_at": "2026-06-01T00:52:54"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "(YT) PewDiePie released his harness/webui",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsz4ji/yt_pewdiepie_released_his_harnesswebui/",
@@ -2914,21 +2881,6 @@
       "collected_at": "2026-06-07T03:05:45"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 06 Jun 2026 20:32:24 +0000",
-      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-07T07:13:11"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "Another 1-click admin account takeover in pewdiepie's AI tool (language in video nsfw)",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tys1wj/another_1click_admin_account_takeover_in/",
@@ -3185,7 +3137,23 @@
         "revenue_score": 9
       },
       "collected_at": "2026-06-07T23:03:47"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Sat, 06 Jun 2026 18:13:36 +0000",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-08T00:54:05"
     }
   ],
-  "updated_at": "2026-06-07T23:03:47.439496+09:00"
+  "updated_at": "2026-06-08T00:54:07.096533+09:00"
 }
