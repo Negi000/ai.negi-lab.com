@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "My wife tried to log 1k phone-free hours but quit. So I vibe-coded an app",
-      "url": "https://play.google.com/store/apps/details?id=com.greendot.phonebreaks&hl=en_US",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sun, 31 May 2026 10:41:33 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-31T22:54:55"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "86Box v6.0",
-      "url": "https://86box.net/2026/05/31/86box-v6-0.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 31 May 2026 04:03:52 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-31T22:54:55"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Anyone can build a platform now. Almost nobody can get people to find it",
-      "url": "https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sun, 31 May 2026 00:55:17 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-05-31T22:54:55"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Stepfun 3.7 Flash is very good",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tss9nq/stepfun_37_flash_is_very_good/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-05-31T11:03:22+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tss9nq/stepfun_37_flash_is_very_good/\"> <img alt=\"Stepfun 3.7 Flash is very good\" src=\"https://preview.redd.it/k37ol07vfg4h1.gif?width=640&amp;crop=smart&amp;s=b7802a3b13d13d1fee73f539427b4d2ff1c29628\" title=\"Stepfun 3.7 Flash is very good\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>If you can fit Stepfun 3.7 Flash into RAM, try it! It's feeling close to GLM 5.1 quality in terms of aesthetics, and around 80% in term",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-05-31T22:54:59"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Making sense of the debate over AI psychosis",
       "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
@@ -3132,22 +3078,6 @@
       "collected_at": "2026-06-07T18:17:50"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "You don't need a GPU to run gemma-4-26B-A4B",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tz5ffp/you_dont_need_a_gpu_to_run_gemma426ba4b/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-06-07T07:24:27+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been running LLMs on my old potato i5-8500 with 32GB of RAM and *no GPU* for awhile now, running up to 12B dense models which run slow but perfectly useable. But this Gemma-4-26B-A4B simply flies on this CPU - only machine using Koboldcpp on Linux.</p> <p>That's right, an old used $150 desktop computer is running state of the art LLMs with something like 7 T/s. Yeah, go ahead and scoff. You can brag about your super-rig that costs more than a used car, but ",
-      "extra": {
-        "revenue_score": 11
-      },
-      "collected_at": "2026-06-07T18:17:50"
-    },
-    {
       "source": "Google News",
       "title": "Artificial intelligence | Tech Lab Series - NetApp",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRG5QQzFXUEp0LUxMVW9KNVpmS2d4dDQ2VWwwVHhvODVfUFhWUXRDUzVMZFdIcEU0UzhLQVpzdzc3WEFIZGdla3k0akN2UWFOc1dKZjg1TWQzSGd0akVzMkMwMTRZR2hIX0RicGF4Q1JTY3U2MUpJT2Zsbk5Pamx5X0Uzb3AtTldrNS1OMg?oc=5",
@@ -3162,7 +3092,100 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-07T20:08:23"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "url": "https://github.com/anthropics/claude-code/issues/65697",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 07 Jun 2026 13:06:52 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-07T23:03:44"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "extra": {
+        "stars_today": "1,533 stars today"
+      },
+      "collected_at": "2026-06-07T23:03:45"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Useful tool to track location or mobile number",
+      "extra": {
+        "stars_today": "21 stars today"
+      },
+      "collected_at": "2026-06-07T23:03:45"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "We write your reusable computer vision tools. 💜",
+      "extra": {
+        "stars_today": "600 stars today"
+      },
+      "collected_at": "2026-06-07T23:03:45"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "llama.cpp Gemma4 MTP support merged!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzbcyp/llamacpp_gemma4_mtp_support_merged/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-07T12:53:17+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tzbcyp/llamacpp_gemma4_mtp_support_merged/\"> <img alt=\"llama.cpp Gemma4 MTP support merged!\" src=\"https://external-preview.redd.it/bSr-Y4dM8Q3RgE39kdpX9pRCwmLWRanIcqDazSAYyqE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc37797a86ddb571f4002c455cce3917fca9059c\" title=\"llama.cpp Gemma4 MTP support merged!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pinkyellowneon\"> /u/pinkyellowneon </",
+      "extra": {
+        "revenue_score": 10
+      },
+      "collected_at": "2026-06-07T23:03:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tza4ji/qwen_36_27b_kv_cache_quant_benchmarks_75_pairs/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-07T11:54:15+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tza4ji/qwen_36_27b_kv_cache_quant_benchmarks_75_pairs/\"> <img alt=\"Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ\" src=\"https://preview.redd.it/g981ohkfku5h1.png?width=140&amp;height=88&amp;auto=webp&amp;s=92e8e6fa3b321f5d0b6351ed4bf7f01128c48ea4\" title=\"Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Full be",
+      "extra": {
+        "revenue_score": 9
+      },
+      "collected_at": "2026-06-07T23:03:47"
     }
   ],
-  "updated_at": "2026-06-07T20:08:24.217922+09:00"
+  "updated_at": "2026-06-07T23:03:47.439496+09:00"
 }

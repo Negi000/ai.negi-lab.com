@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-07T20:08:51.638548+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-07-openai-chatgpt-lockdown-mode-security-analysis",
+    "title": "OpenAIがLockdown Modeで挑むプロンプトインジェクション対策の限界",
+    "url": "https://ai.negi-lab.com/posts/openai-chatgpt-lockdown-mode-security-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#プロンプトインジェクション #OpenAI",
+    "tweet_text": "OpenAIが発表したLockdown Modeは、プロンプトインジェクションに対する「物理的な遮断」です。攻撃を検知した瞬間にコンテキストへのアクセスを制限する仕組み。\n\nただし、魔法の杖ではありません。誤検知による利便性低下や、高度な難読化攻撃への脆弱性は残ります。開発者はAI側の防御を過信せず、多層防御の設計を維持すべきです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-07T23:04:08.824502+09:00",
+    "posted": false
   }
 ]
