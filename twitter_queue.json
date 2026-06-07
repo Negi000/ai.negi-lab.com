@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-06-gemma-4-120b-local-llm-hardware-guide",
-    "title": "Gemma 4 120Bに備える！ローカルLLM用GPUとMacの選び方：おすすめ環境比較",
-    "url": "https://ai.negi-lab.com/posts/gemma-4-120b-local-llm-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "Gemma 4 120Bの足音が聞こえてきた。ローカルLLM環境を今から作るならVRAM 24GB 1枚では足りない時代。4bit量子化でも70GB以上のメモリが必要になる。\n自作派ならRTX 4090の2枚挿し（48GB）で軽量量子化を狙うか、安定のMac Studio 128GB構成が現実的なライン。中途半端なスペックで失敗する前に、メモリ容量を最優先で選定すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-06T02:01:42.422414+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-06-ollama-powered-alexa-hardware-guide",
-    "title": "OllamaでAlexaを賢く！ローカルLLM構築におすすめのGPU・PC比較と選び方",
-    "url": "https://ai.negi-lab.com/posts/ollama-powered-alexa-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "Alexaの脳をOllamaでローカルLLM化するなら、ハード選びが全て。VRAM 8GBでは後悔します。実機検証の結果、快適なレスポンスにはRTX 4060 Ti 16GBかメモリ32GB以上のMac miniが最低ライン。推論速度30tpsを切ると会話のテンポが崩れます。プライバシーを守りつつ爆速アシスタントを構築する判断基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-06T03:58:23.645709+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-06-openlumara-local-llm-agent-tutorial-python",
     "title": "OpenLumaraの使い方！ローカルLLMで爆速AIエージェントを構築する完全ガイド",
     "url": "https://ai.negi-lab.com/posts/openlumara-local-llm-agent-tutorial-python/",
