@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-06-agent-reach-sns-data-scraping-ai-agent-tutorial",
-    "title": "Agent-Reach 使い方：API不要でSNS情報をAIに読み込ませる方法",
-    "url": "https://ai.negi-lab.com/posts/agent-reach-sns-data-scraping-ai-agent-tutorial/",
-    "category": "TOOL",
-    "viral_tags": "#AIAgent #Python",
-    "tweet_text": "SNS各社のAPI高騰でAIエージェント開発が詰んでいる人に朗報。Agent-Reachを使えば、Twitter、Reddit、YouTube、さらに中国のBilibiliまで、1つのCLIで横断的にデータ取得可能。ブラウザ経由なのでAPI料金は0円。安定性は公式に劣るが、プロトタイプ開発やトレンド分析の爆速化には現状これが最適解。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-06T19:53:47.393423+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-06-last30days-skill-mcp-review-trend-research",
-    "title": "mvanhorn/last30days-skill レビュー：RedditやXの最新トレンドをClaudeで統合リサーチする方法",
-    "url": "https://ai.negi-lab.com/posts/last30days-skill-mcp-review-trend-research/",
-    "category": "TOOL",
-    "viral_tags": "#MCP #AIエージェント",
-    "tweet_text": "Google検索のSEO記事に疲れた人に朗報。mvanhorn/last30days-skillはReddit、X、HN、Polymarketから直近30日の「生の声」だけを抜き出すMCPサーバー。\n5サイトの巡回が30秒で完結。予測市場のデータまで拾えるのが実務的に強すぎる。技術選定や競合調査の密度が激変する。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-06T22:54:20.708020+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-07-techcrunch-startup-battlefield-200-deadline-2026",
-    "title": "TechCrunch Disrupt 2026への切符。Startup Battlefield 200が3日後に受付終了",
-    "url": "https://ai.negi-lab.com/posts/techcrunch-startup-battlefield-200-deadline-2026/",
-    "category": "NEWS",
-    "viral_tags": "#StartupBattlefield #AIスタートアップ",
-    "tweet_text": "TechCrunch Disrupt 2026、Startup Battlefield 200の応募締切まであと3日。今のAIバブルでVCが見ているのは「ラッパーAI」ではなく、推論コストを削り、確実にタスクをこなす実装力。10万ドルの賞金より、モスコーン・ウエストで世界標準のフィードバックを得る価値の方がデカい。開発者は今のうちにデモのローカル完結と数値化を急ぐべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-07T00:54:46.262850+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-07-local-llm-server-qwen-gpu-guide",
     "title": "ローカルLLM用サーバーのおすすめ比較と失敗しない選び方：Qwen2.5/3.5を自宅で動かす最短ルート",
     "url": "https://ai.negi-lab.com/posts/local-llm-server-qwen-gpu-guide/",
