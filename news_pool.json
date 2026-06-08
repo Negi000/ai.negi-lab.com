@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "エヌビディア新ＣＰＵ、オープンＡＩなどが早期導入 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWHA0N2pHamxoY25DNXI3SzN6V2hEaXdZYzc2ZHFYNzVRZmxfRTh5S2dlSXNoSGpZUDRUMXlrTkNzcXRXWUZudUtyUkE4Ti00dFU5RXNVbEVwYnJRYU84MTEtZmtFOGdNM3ZxcDZhaWNDY0pnZzBSVlY5WUNHNHJoV3piYWxmeUdIQkN5UQ?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Mon, 01 Jun 2026 05:44:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWHA0N2pHamxoY25DNXI3SzN6V2hEaXdZYzc2ZHFYNzVRZmxfRTh5S2dlSXNoSGpZUDRUMXlrTkNzcXRXWUZudUtyUkE4Ti00dFU5RXNVbEVwYnJRYU84MTEtZmtFOGdNM3ZxcDZhaWNDY0pnZzBSVlY5WUNHNHJoV3piYWxmeUdIQkN5UQ?oc=5\" target=\"_blank\">エヌビディア新ＣＰＵ、オープンＡＩなどが早期導入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-06-01T17:42:12"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "NetworkSpy",
-      "url": "https://www.producthunt.com/products/networkspy",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> HTTP(s) proxy debugger with custom viewer </p> <p> <a href=\"https://www.producthunt.com/products/networkspy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1159065?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-01T17:42:12"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Presentify",
-      "url": "https://www.producthunt.com/products/presentify",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Take your presentation skills to the next level </p> <p> <a href=\"https://www.producthunt.com/products/presentify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1149659?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-01T17:42:12"
-    },
-    {
       "source": "HN Local AI",
       "title": "Karpathy LLM Wiki pattern integrated into Obsidian agenic workflow",
       "url": "https://github.com/pssah4/vault-operator",
@@ -3009,23 +2963,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "llama.cpp Gemma4 MTP support merged!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzbcyp/llamacpp_gemma4_mtp_support_merged/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-07T12:53:17+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tzbcyp/llamacpp_gemma4_mtp_support_merged/\"> <img alt=\"llama.cpp Gemma4 MTP support merged!\" src=\"https://external-preview.redd.it/bSr-Y4dM8Q3RgE39kdpX9pRCwmLWRanIcqDazSAYyqE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc37797a86ddb571f4002c455cce3917fca9059c\" title=\"llama.cpp Gemma4 MTP support merged!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pinkyellowneon\"> /u/pinkyellowneon </",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-06-07T23:03:47"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Qwen 3.6 27B KV cache quant benchmarks: 75 pairs, q8/q6/q5/q4, KVarN, Turbo/TCQ",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tza4ji/qwen_36_27b_kv_cache_quant_benchmarks_75_pairs/",
       "primary_category": "GUIDE",
@@ -3269,7 +3206,97 @@
         "revenue_score": 5
       },
       "collected_at": "2026-06-08T17:21:05"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "google/skills",
+      "url": "https://github.com/google/skills",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Agent Skills for Google products and technologies",
+      "extra": {
+        "stars_today": "481 stars today"
+      },
+      "collected_at": "2026-06-08T20:01:38"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Andyyyy64/whichllm",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+      "extra": {
+        "stars_today": "103 stars today"
+      },
+      "collected_at": "2026-06-08T20:01:38"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "The Virtual OS Museum",
+      "url": "https://www.producthunt.com/products/the-virtual-os-museum",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Relive vintage operating systems right on your desktop </p> <p> <a href=\"https://www.producthunt.com/products/the-virtual-os-museum?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1166174?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-08T20:01:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Vaani",
+      "url": "https://www.producthunt.com/products/vaani-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Lip-synced AI dubbing for creators, brands and studios </p> <p> <a href=\"https://www.producthunt.com/products/vaani-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1165495?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-08T20:01:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Honen",
+      "url": "https://www.producthunt.com/products/honen",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Automated teaching + learning infrastructure for any company </p> <p> <a href=\"https://www.producthunt.com/products/honen?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1158759?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-08T20:01:39"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Thoughts on Gemma4 12b vs 26a4b, which one is better?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzzcja/thoughts_on_gemma4_12b_vs_26a4b_which_one_is/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-06-08T05:59:06+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Not talking about 31b. </p> <p>In terms of creative tasks, writing, chatting, not necessarily coding but can still be included, </p> <p>Does Gemma 12b outperform in any way?</p> <p>Is the 12b closer to the 31b compared to the 26a4b?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Adventurous-Gold6413\"> /u/Adventurous-Gold6413 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tzzcja/thoughts_on_gemma4_",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-06-08T20:01:40"
     }
   ],
-  "updated_at": "2026-06-08T17:21:05.694044+09:00"
+  "updated_at": "2026-06-08T20:01:40.416775+09:00"
 }
