@@ -788,23 +788,6 @@
     },
     {
       "source": "Google News",
-      "title": "AIの国際会議、AAAI-26がシンガポールで開催。3万件以上の応募論文をレビューする生成AIレビューを紹介 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SZEN3SjZ6Wlk4VjN0dXBTYnhCYWNrY18xTkNKeUFkWVZhNTNUZ3hCQ1FqeW1iQzR1SDBmcHZBYkUtR2RaMnNPNGtsTQ?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "Tue, 02 Jun 2026 10:34:47 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SZEN3SjZ6Wlk4VjN0dXBTYnhCYWNrY18xTkNKeUFkWVZhNTNUZ3hCQ1FqeW1iQzR1SDBmcHZBYkUtR2RaMnNPNGtsTQ?oc=5\" target=\"_blank\">AIの国際会議、AAAI-26がシンガポールで開催。3万件以上の応募論文をレビューする生成AIレビューを紹介</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thinkit.co.jp</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-06-03T13:57:26"
-    },
-    {
-      "source": "Google News",
       "title": "トランプ大統領がAI規制は拒否しつつサイバー防衛能力を強化する大統領令に署名 - GIGAZINE",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IejdGUEJNbjNuZ1VmWTJ3NDc5VXpNYldfbzAyQkdTbFF4ZUp2d0hleUFmaDA1R2U1WGZFdEhiZHI4dy14VmtScm80QXhscHdZTFR0R0J2UkRZaExwVnM2anJ5MGtzZzhEc2M5Ylk2dlY5dw?oc=5",
       "primary_category": "NEWS",
@@ -3215,7 +3198,71 @@
         "revenue_score": 7
       },
       "collected_at": "2026-06-09T01:02:00"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Support Gemma-4 12b (uv/ua) model in TensorSharp",
+      "url": "https://www.reddit.com/r/ollama/comments/1u08rxt/support_gemma4_12b_uvua_model_in_tensorsharp/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-08T14:00:16+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1u08rxt/support_gemma4_12b_uvua_model_in_tensorsharp/\"> <img alt=\"Support Gemma-4 12b (uv/ua) model in TensorSharp\" src=\"https://external-preview.redd.it/fYLkMl3Sqct8sRpyFQXgASJ4_7mjp5jp7aHIy6Vm6mA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8af546eda969aa3d76796701afc97693866f8abf\" title=\"Support Gemma-4 12b (uv/ua) model in TensorSharp\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Implement gemma-4 uv/ua architectur",
+      "extra": {},
+      "collected_at": "2026-06-09T02:36:38"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "WWDC 2026: Everything announced on Siri, iOS 27, Apple Intelligence and more",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ios-27-apple-intelligence-and-more/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Mon, 08 Jun 2026 17:26:16 +0000",
+      "summary": "Apple&#8217;s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer events and demos. This year&#8217;s event is particularly notable for a couple things. It marks CEO Tim Cook&#8217;s last with the company, [&#8230;]",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-06-09T02:36:39"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Xiaomi just claimed 1,000+ tps on a 1T model using a standard 8-GPU server",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0buhm/xiaomi_just_claimed_1000_tps_on_a_1t_model_using/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "2026-06-08T15:51:46+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just saw Xiaomi MiMo announce <strong>MiMo-V2.5-Pro UltraSpeed</strong>, claiming they broke the <strong>1,000 tokens/sec output barrier on a 1 trillion parameter MoE model</strong>. According to them, they’re doing it on a <strong>single standard 8-GPU node</strong>, not custom wafer-scale hardware like Cerebras and not SRAM-heavy hardware like Groq. </p> <p>Crazy if true.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/No",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-06-09T02:36:41"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Luce Spark: a 35B MoE on a 16 GB GPU, without the offload tax",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0b3cu/luce_spark_a_35b_moe_on_a_16_gb_gpu_without_the/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-08T15:24:27+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u0b3cu/luce_spark_a_35b_moe_on_a_16_gb_gpu_without_the/\"> <img alt=\"Luce Spark: a 35B MoE on a 16 GB GPU, without the offload tax\" src=\"https://preview.redd.it/tg6kpi4vs26h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b05dfef10f75a0ede7367836895a15133f139164\" title=\"Luce Spark: a 35B MoE on a 16 GB GPU, without the offload tax\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey fellow Llamas, your time is precious,",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-06-09T02:36:41"
     }
   ],
-  "updated_at": "2026-06-09T01:02:00.047429+09:00"
+  "updated_at": "2026-06-09T02:36:41.726800+09:00"
 }
