@@ -15247,5 +15247,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-08T20:02:05.503581+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-08-llamacpp-kv-cache-optimization-guide",
+    "title": "llama.cppでKVキャッシュを最適化し推論を高速化する方法",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-kv-cache-optimization-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llamacpp",
+    "tweet_text": "llama.cppのKVキャッシュ最適化が熱い。ggerganov氏の最新PRで、コンテキスト管理時のメモリコピーが回避されるように。長文推論時のTTFT短縮とスループット安定に直結します。\nRTX 4090環境で試したところ、大規模RAGのような高負荷時ほど恩恵がデカい。最新ソースからビルドして自前環境を爆速化する手順をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-08T22:07:59.243662+09:00",
+    "posted": false
   }
 ]

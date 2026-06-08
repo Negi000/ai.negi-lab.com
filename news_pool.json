@@ -1,108 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "Karpathy LLM Wiki pattern integrated into Obsidian agenic workflow",
-      "url": "https://github.com/pssah4/vault-operator",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 01 Jun 2026 00:03:11 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-01T20:41:06"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "It's Not Just X. It's Y",
-      "url": "https://mail.cyberneticforests.com/its-not-just-data-its-post-training/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 31 May 2026 21:57:48 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-01T20:41:06"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Atherton spent $145K to delay train electrification. The rest of us paid $400M",
-      "url": "https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 31 May 2026 21:55:33 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-01T20:41:06"
-    },
-    {
-      "source": "r/ollama",
-      "title": "I built an open-source Desktop App that gives your AI persistent memory across all platforms (100% Local SQLite, Zero-Docker)",
-      "url": "https://www.reddit.com/r/ollama/comments/1tszsp5/i_built_an_opensource_desktop_app_that_gives_your/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-05-31T16:20:31+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1tszsp5/i_built_an_opensource_desktop_app_that_gives_your/\"> <img alt=\"I built an open-source Desktop App that gives your AI persistent memory across all platforms (100% Local SQLite, Zero-Docker)\" src=\"https://external-preview.redd.it/dG9mb2V4M2MwaTRoMX4T4-hsvwwn14lZxC9jWezbo-zy7PV5XB2JECe_wcwU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=48e74e3a1ffa017955eff22d75330de87d8c1610\" title=\"I built an open-source Desktop App tha",
-      "extra": {},
-      "collected_at": "2026-06-01T20:41:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Sentinel",
-      "url": "https://www.producthunt.com/products/sentinel-10",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Control your robots from anywhere in the world </p> <p> <a href=\"https://www.producthunt.com/products/sentinel-10?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1158775?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-01T20:41:09"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Trippple Club",
-      "url": "https://www.producthunt.com/products/trippple-club",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Advertise together on Meta Ads and pay 3x less </p> <p> <a href=\"https://www.producthunt.com/products/trippple-club?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1156624?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-01T20:41:09"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "next MiniMax will be released in ~10 Days",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ttkz1c/next_minimax_will_be_released_in_10_days/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-06-01T07:35:52+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ttkz1c/next_minimax_will_be_released_in_10_days/\"> <img alt=\"next MiniMax will be released in ~10 Days\" src=\"https://preview.redd.it/ri12y6oxjm4h1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=73eff9a638a79baa07b55a75b03a87cda4c93b6d\" title=\"next MiniMax will be released in ~10 Days\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://x.com/MiniMax_AI/status/2061266317815296322\">https://x.com/MiniMax_AI/s",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-06-01T20:41:10"
-    },
-    {
       "source": "r/ollama",
       "title": "It's normal that this model takes so long to answer a \"hi\", I'm new and this is the first Local AI I try",
       "url": "https://www.reddit.com/r/ollama/comments/1ttr5rr/its_normal_that_this_model_takes_so_long_to/",
@@ -3223,21 +3121,6 @@
       "collected_at": "2026-06-08T20:01:38"
     },
     {
-      "source": "GitHub Trending",
-      "title": "Andyyyy64/whichllm",
-      "url": "https://github.com/Andyyyy64/whichllm",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
-      "extra": {
-        "stars_today": "103 stars today"
-      },
-      "collected_at": "2026-06-08T20:01:38"
-    },
-    {
       "source": "Product Hunt",
       "title": "The Virtual OS Museum",
       "url": "https://www.producthunt.com/products/the-virtual-os-museum",
@@ -3296,7 +3179,55 @@
         "revenue_score": 5
       },
       "collected_at": "2026-06-08T20:01:40"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Claude Artifact Player",
+      "url": "https://www.producthunt.com/products/claude-artifact-player",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Run Claude artifacts locally </p> <p> <a href=\"https://www.producthunt.com/products/claude-artifact-player?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1165977?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-08T22:06:42"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Supaste",
+      "url": "https://www.producthunt.com/products/supaste",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Clipboard Manager for macOS </p> <p> <a href=\"https://www.producthunt.com/products/supaste?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1161859?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-08T22:06:42"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "kv-cache : avoid kv cells copies by ggerganov · Pull Request #24277 · ggml-org/llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u06jel/kvcache_avoid_kv_cells_copies_by_ggerganov_pull/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-08T12:31:33+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u06jel/kvcache_avoid_kv_cells_copies_by_ggerganov_pull/\"> <img alt=\"kv-cache : avoid kv cells copies by ggerganov · Pull Request #24277 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/ASAii7hUp0-esvOST3N4aqFmbrtR0KZyKrcggrB_Fhs.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6859c9a6098dd63867c68296a31b044735f545d2\" title=\"kv-cache : avoid kv cells copies by ggerganov · Pull Request #24277 · ggml-org/llama.cpp\" ",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-06-08T22:06:43"
     }
   ],
-  "updated_at": "2026-06-08T20:01:40.416775+09:00"
+  "updated_at": "2026-06-08T22:06:43.699914+09:00"
 }
