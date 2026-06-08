@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-07-local-llm-server-qwen-gpu-guide",
-    "title": "ローカルLLM用サーバーのおすすめ比較と失敗しない選び方：Qwen2.5/3.5を自宅で動かす最短ルート",
-    "url": "https://ai.negi-lab.com/posts/local-llm-server-qwen-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "Qwen2.5-Coder-32Bをローカルで動かすなら、VRAM 24GBが最低ライン。RTX 4060 Ti 16GBでは実務の推論速度で後悔します。コスパなら中古RTX 3090搭載PC、安定ならMac Studio 128GB。電源1000Wの確保を忘れずに。買う前にVRAM容量と帯域を計算しないと数万円ドブに捨てます。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-07T03:06:13.265756+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-07-macbook-pro-m5-max-128gb-local-llm-guide",
     "title": "ローカルLLM環境構築：MacBook Pro M5 Max vs RTX 4090 選び方とClaude Code代替の現実",
     "url": "https://ai.negi-lab.com/posts/macbook-pro-m5-max-128gb-local-llm-guide/",
