@@ -15275,5 +15275,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-08T07:14:26.080583+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-08-turbovec-rust-vector-search-review",
+    "title": "turbovec レビュー：Rust製ベクトル検索の破壊的パフォーマンスを検証",
+    "url": "https://ai.negi-lab.com/posts/turbovec-rust-vector-search-review/",
+    "category": "TOOL",
+    "viral_tags": "#ローカルLLM #RAG",
+    "tweet_text": "ローカルLLM環境でベクトル検索のメモリ不足に悩むのはもう終わり。Rust製「turbovec」が凄まじい。TurboQuant量子化により、精度を保ったままメモリ消費を激減。RTX 4090環境で試したが、LLMのVRAMを圧迫せず数万件のRAGがミリ秒で返る。Faissより導入が楽なのも実務向き。買う前に高速SSDだけは用意すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-08T13:49:53.844946+09:00",
+    "posted": false
   }
 ]

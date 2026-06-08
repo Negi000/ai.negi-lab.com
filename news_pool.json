@@ -3123,19 +3123,6 @@
       "collected_at": "2026-06-08T03:05:14"
     },
     {
-      "source": "r/ollama",
-      "title": "Tired of bloated UIs for Ollama? Built a minimal IDE that infers your hardware and just works",
-      "url": "https://www.reddit.com/r/ollama/comments/1tzp12f/tired_of_bloated_uis_for_ollama_built_a_minimal/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-06-07T21:45:11+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Kooky-Tip-3845\"> /u/Kooky-Tip-3845 </a> <br /> <span><a href=\"/r/LocalLLM/comments/1tzp0np/tired_of_bloated_uis_for_ollama_built_a_minimal/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1tzp12f/tired_of_bloated_uis_for_ollama_built_a_minimal/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-06-08T07:13:55"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Is this the dawn of the Tokenpocalypse?",
       "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
@@ -3165,7 +3152,52 @@
         "revenue_score": 4
       },
       "collected_at": "2026-06-08T07:13:57"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 08 Jun 2026 01:39:30 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-08T13:49:04"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Need guidance setting up Local AI, Agents, MCP & RAG on an all-AMD Linux rig (7900 XTX / CachyOS)",
+      "url": "https://www.reddit.com/r/ollama/comments/1tzoeav/need_guidance_setting_up_local_ai_agents_mcp_rag/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-07T21:19:29+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>​Hi everyone,</p> <p>​I'm setting up a local AI pipeline on CachyOS (Arch-based) with a 7900 XTX (24GB), 9800X3D, and 32GB DDR5. Since I have native ROCm support on Linux, I know I have an advantage over Windows, but I could use some architectural advice before building my stack.</p> <p>​My goals: Run local models natively, hook them up to autonomous agents, use RAG for personal docs, and utilize the Model Context Protocol (MCP).</p> <p>​1. The AMD/Linux Backend",
+      "extra": {},
+      "collected_at": "2026-06-08T13:49:06"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma4_31b_fp8 keeping up with Sonnet_4.6_medium in my harness.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzw207/gemma4_31b_fp8_keeping_up_with_sonnet_46_medium/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-08T03:06:48+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1tzw207/gemma4_31b_fp8_keeping_up_with_sonnet_46_medium/\"> <img alt=\"Gemma4_31b_fp8 keeping up with Sonnet_4.6_medium in my harness.\" src=\"https://preview.redd.it/9t0qvx6k5z5h1.png?width=140&amp;height=38&amp;auto=webp&amp;s=ab8640cbb89c3430f45eb5a8455213e2b04b1f5f\" title=\"Gemma4_31b_fp8 keeping up with Sonnet_4.6_medium in my harness.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/9t0qv",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-06-08T13:49:09"
     }
   ],
-  "updated_at": "2026-06-08T07:13:57.959546+09:00"
+  "updated_at": "2026-06-08T13:49:09.258215+09:00"
 }
