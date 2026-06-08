@@ -15275,5 +15275,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-09T02:37:16.403781+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-09-gemma-4-12b-mac-mlx-comparison-guide",
+    "title": "Gemma 4 12bをMacで動かすならどれ？MLX vs QAT比較とおすすめモデル・Macスペック選び",
+    "url": "https://ai.negi-lab.com/posts/gemma-4-12b-mac-mlx-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #MacBookPro",
+    "tweet_text": "Gemma 4 12bをMacで動かすなら、バージョン選びより「メモリ容量」で勝負が決まる。16GBはスワップ地獄で実用外。最低24GB、仕事で使うなら64GBがボーダーラインです。モデルはApple Silicon最適化のMLX版一択。推論速度と発熱のバランスが別次元。中途半端なスペックで妥協すると、数ヶ月後に買い直すことになります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-09T04:22:16.621889+09:00",
+    "posted": false
   }
 ]
