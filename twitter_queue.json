@@ -15247,5 +15247,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-09T15:56:27.640083+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-09-agentcad-ai-coding-agent-design-tool-review",
+    "title": "agentcad レビュー：AIエージェント開発に「設計図」を持ち込むOSSの使い方",
+    "url": "https://ai.negi-lab.com/posts/agentcad-ai-coding-agent-design-tool-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントにコードを書かせて「設計が崩壊した」経験はないか。agentcadは、エージェントに曖昧な指示を出すのをやめ、CADのように構造化された設計図を強制するOSS。\n\nプロンプトエンジニアリングの限界を「工学的な制約」で解決する。大規模プロジェクトほど、このDesign-Firstなアプローチが効く。VRAM 24GB環境でのローカルLLM連携もスムーズ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-09T18:52:17.825308+09:00",
+    "posted": false
   }
 ]
