@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-09T18:52:17.825308+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-09-jetson-orin-nx-hermes-agent-build-guide",
+    "title": "Jetson Orin NXでローカルAIエージェント「Hermes」を動かす実践ガイド",
+    "url": "https://ai.negi-lab.com/posts/jetson-orin-nx-hermes-agent-build-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #JetsonOrin",
+    "tweet_text": "Jetson Orin NX(16GB)にHermes 3を載せて、完全ローカルの自律型エージェントを構築。RTX 4090と違い、25Wという超低消費電力で24時間AIを回し続けられるのはエッジ端末ならではの特権。NVMe SSD必須、全レイヤーGPUに載せれば毎秒20トークンで爆速。プライバシー重視のAI実装にはこの選択肢しかない。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-09T21:01:09.572780+09:00",
+    "posted": false
   }
 ]
