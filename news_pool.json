@@ -1,35 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Can I get help fixing a truncation issue?",
-      "url": "https://www.reddit.com/r/ollama/comments/1tueq43/can_i_get_help_fixing_a_truncation_issue/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-06-02T03:15:15+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm new to Ollama (just installed today), and I was testing it out and I noticed it would just completely halt mid-thought. I asked it to locate a bug in a 520-line is file and it just stopped. I'm thinking it has something to do with context or output limits, but I have no idea how I'd fix that.</p> <p>Setup:</p> <p>Gemma 4 E3B</p> <p>Github Copilot extension in VS Code configured with Ollama as a model provider</p> <p>Ollama for Windows</p> <p>32GBs of DDR5 an",
-      "extra": {},
-      "collected_at": "2026-06-02T13:47:22"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Open Caffeine",
-      "url": "https://www.producthunt.com/products/open-caffeine",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Keep your Mac awake </p> <p> <a href=\"https://www.producthunt.com/products/open-caffeine?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1160317?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-02T13:47:24"
-    },
-    {
       "source": "HN Local AI",
       "title": "U.S. Midterms Have a Cyber Problem, but It's Not at the Ballot Box",
       "url": "https://blog.checkpoint.com/exposure-management/the-2026-u-s-midterms-have-a-cyber-problem-but-its-not-at-the-ballot-box/",
@@ -2788,21 +2759,6 @@
       "collected_at": "2026-06-08T17:21:05"
     },
     {
-      "source": "GitHub Trending",
-      "title": "google/skills",
-      "url": "https://github.com/google/skills",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "Agent Skills for Google products and technologies",
-      "extra": {
-        "stars_today": "481 stars today"
-      },
-      "collected_at": "2026-06-08T20:01:38"
-    },
-    {
       "source": "Product Hunt",
       "title": "The Virtual OS Museum",
       "url": "https://www.producthunt.com/products/the-virtual-os-museum",
@@ -3114,7 +3070,22 @@
         "revenue_score": 4
       },
       "collected_at": "2026-06-09T13:11:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "NTSC-RS",
+      "url": "https://www.producthunt.com/products/ntsc-rs",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Open-source video emulation of analog TV and VHS artifacts </p> <p> <a href=\"https://www.producthunt.com/products/ntsc-rs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1166184?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-09T15:56:03"
     }
   ],
-  "updated_at": "2026-06-09T13:11:28.930097+09:00"
+  "updated_at": "2026-06-09T15:56:04.290839+09:00"
 }

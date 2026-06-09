@@ -15247,5 +15247,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-09T13:12:07.094999+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-09-local-llm-benchmark-python-llama-cpp",
+    "title": "llama-cpp-pythonで自分だけのLLM推論ベンチマークを計測する方法",
+    "url": "https://ai.negi-lab.com/posts/local-llm-benchmark-python-llama-cpp/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Python",
+    "tweet_text": "ネットのAIベンチマーク記事を信じるのはもうやめましょう。RTX 4090を2枚挿して分かったのは、自分の環境で、自分のプロンプトを流した時のTPS（生成速度）だけが真実だということ。llama-cpp-pythonでTTFTとTPSを正確に計測する自作スクリプトの書き方をまとめました。実務投入前の必須作業です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-09T15:56:27.640083+09:00",
+    "posted": false
   }
 ]
