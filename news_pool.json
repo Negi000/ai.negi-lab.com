@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Coding",
-      "title": "With Claude: Less Coding, More Testing",
-      "url": "https://henrikwarne.com/2026/05/31/with-claude-less-coding-more-testing/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 31 May 2026 11:56:54 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-03T03:23:08"
-    },
-    {
-      "source": "HN AI Coding",
-      "title": "Mechanical Pencil: An illustrated celebration of the engineering around us",
-      "url": "https://mechanical-pencil.com/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 31 May 2026 00:25:12 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-03T03:23:08"
-    },
-    {
-      "source": "HN AI Coding",
-      "title": "Design Engineering Magazine",
-      "url": "https://interfaces.dev/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 30 May 2026 20:46:54 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-03T03:23:08"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-      "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 02 Jun 2026 18:16:53 +0000",
-      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-03T03:23:09"
-    },
-    {
       "source": "r/ollama",
       "title": "How to add specific knowledge to an ollama model?",
       "url": "https://www.reddit.com/r/ollama/comments/1tuxvue/how_to_add_specific_knowledge_to_an_ollama_model/",
@@ -1663,23 +1609,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Gemma 4 with quantization-aware training",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txpeo0/gemma_4_with_quantizationaware_training/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-05T16:11:21+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1txpeo0/gemma_4_with_quantizationaware_training/\"> <img alt=\"Gemma 4 with quantization-aware training\" src=\"https://external-preview.redd.it/Kqa2WJRtSdbm_jz8LE3GDS5WzwWk70_7fBudWHrjqnI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=09c2b823dd84dc8615ad8a34b147a6b75f0e3e81\" title=\"Gemma 4 with quantization-aware training\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Google's collections:</p> <p><a href=\"https://huggin",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-06-06T02:01:11"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Unsloth just dropped MTP GGUF weights for Gemma 4!",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txnhqp/unsloth_just_dropped_mtp_gguf_weights_for_gemma_4/",
       "primary_category": "GUIDE",
@@ -3042,7 +2971,96 @@
         "revenue_score": 4
       },
       "collected_at": "2026-06-10T02:09:52"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+      "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 09 Jun 2026 16:58:13 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-10T04:13:33"
+    },
+    {
+      "source": "r/ollama",
+      "title": "I like Ollama",
+      "url": "https://www.reddit.com/r/ollama/comments/1u1bxyy/i_like_ollama/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-06-09T17:34:43+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Every locallama person's destiny is VLLM, via llamacpp. </p> <p>But I like Ollama, because it's easy and It's where almost everyone started. So thank you. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ok-Internal9317\"> /u/Ok-Internal9317 </a> <br /> <span><a href=\"https://www.reddit.com/r/ollama/comments/1u1bxyy/i_like_ollama/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1u1bxyy/i_like",
+      "extra": {},
+      "collected_at": "2026-06-10T04:13:34"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 09 Jun 2026 18:56:09 +0000",
+      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-10T04:13:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "VC Boom",
+      "url": "https://www.producthunt.com/products/vcboom",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Score your deck, meet investors who fit, raise more. Boom! </p> <p> <a href=\"https://www.producthunt.com/products/vcboom?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1163508?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-10T04:13:36"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Signal Recorder SR-7",
+      "url": "https://www.producthunt.com/products/signal-recorder-sr-7",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> On-device voice recorder that transcribes + exports Markdown </p> <p> <a href=\"https://www.producthunt.com/products/signal-recorder-sr-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1165382?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-10T04:13:36"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Releasing Cohere North Mini Code",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1ci1r/releasing_cohere_north_mini_code/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-09T17:54:36+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u1ci1r/releasing_cohere_north_mini_code/\"> <img alt=\"Releasing Cohere North Mini Code\" src=\"https://external-preview.redd.it/djNiMmU0ZjNrYTZoMeeiyb1WtEhEOWnwxeDDOXVo7iVBLPz9qhVbxuwtKujs.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=58a59eb260a86d9fe6fcb129a697ce60cd1bdf7a\" title=\"Releasing Cohere North Mini Code\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi folks! Jay here from Cohere. we just officially launche",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-06-10T04:13:37"
     }
   ],
-  "updated_at": "2026-06-10T02:09:52.371192+09:00"
+  "updated_at": "2026-06-10T04:13:37.371265+09:00"
 }
