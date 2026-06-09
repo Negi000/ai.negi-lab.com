@@ -15289,5 +15289,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-10T04:14:04.695733+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-10-multi-gpu-vram-48gb-llama-3-tutorial",
+    "title": "RTX 6000 Adaを買わずにVRAM 48GB環境を構築しLlama-3-70Bを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/multi-gpu-vram-48gb-llama-3-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "NVIDIA公式サイトでRTX 6000 Adaが13,250ドル（約200万円）で販売開始。個人で48GBのVRAMを確保するなら、中古のRTX 3090を2枚挿すのが今でも最適解。30万円でLlama-3-70Bが爆速で動く環境が作れる。電源容量と排熱さえクリアすれば、実務性能は最強。買う前にマザボのPCIeスロット間隔だけは確認して。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-10T07:44:08.697726+09:00",
+    "posted": false
   }
 ]
