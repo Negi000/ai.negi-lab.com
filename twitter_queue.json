@@ -15275,5 +15275,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-10T00:15:25.741981+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-10-gemma-4-qat-local-llm-hardware-guide",
+    "title": "Gemma 4登場に備えるローカルLLM環境の選び方とおすすめGPU・Mac比較",
+    "url": "https://ai.negi-lab.com/posts/gemma-4-qat-local-llm-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "GoogleのGemma 4で注目されるQAT（量子化意識学習）。4-bitでも精度が落ちない時代、ハードウェア選びの基準が変わります。\n\n・VRAM 16GB：実用の最低ライン\n・VRAM 24GB：業務RAGの標準\n・メモリ64GB以上のMac：巨大モデルの静音環境\n\n「動く」と「仕事で使える」の差は、VRAM容量と帯域幅で決まります。失敗しないGPU・Macの選び方をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-10T02:10:19.631578+09:00",
+    "posted": false
   }
 ]
