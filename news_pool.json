@@ -2,84 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "ZeroDrift raises $10 million to protect AI models from themselves",
-      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 02 Jun 2026 12:32:59 +0000",
-      "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-06-02T21:40:57"
-    },
-    {
-      "source": "Google News",
-      "title": "ビットコイン（BTC）の価格下落は、Strategyの売却よりもAIに関連している可能性がある：Crypto Daily - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUVuMlViY3RrOHVZWnRZdnhkdmR2ZGVSdi02T2k0cTVqLVl0bExXSmZXMEY2WmxYLXVIaFJUellmdEVHMHB4MGhqQ3hEMnNELXdHMlpFRTZTREJwTm1kdE9pOFZ1NDMza05uR0JORUdnN1Q4VEV2MWN1eDVrVzVMRkN3UEFMRFNMX3FkbTVmS2liLTdZOTkzQk45S2JWc3JudDF1dW02T3pCVTQ?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Tue, 02 Jun 2026 11:23:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUVuMlViY3RrOHVZWnRZdnhkdmR2ZGVSdi02T2k0cTVqLVl0bExXSmZXMEY2WmxYLXVIaFJUellmdEVHMHB4MGhqQ3hEMnNELXdHMlpFRTZTREJwTm1kdE9pOFZ1NDMza05uR0JORUdnN1Q4VEV2MWN1eDVrVzVMRkN3UEFMRFNMX3FkbTVmS2liLTdZOTkzQk45S2JWc3JudDF1dW02T3pCVTQ?oc=5\" target=\"_blank\">ビットコイン（BTC）の価格下落は、Strategyの売却よりもAIに関連している可能性がある：Crypto Daily</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-06-02T21:40:58"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "RingDisk",
-      "url": "https://www.producthunt.com/products/ringdisk",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Brighten your video calls with different toned ring lights </p> <p> <a href=\"https://www.producthunt.com/products/ringdisk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1160467?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-02T21:40:58"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Trovelo",
-      "url": "https://www.producthunt.com/products/trovelo-private-trip-planner",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Plan and track your trips privately </p> <p> <a href=\"https://www.producthunt.com/products/trovelo-private-trip-planner?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1157533?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-02T21:40:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Replaced Claude with local Qwen3.6-27B in my multi-agent orchestrator for 2 weeks",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tunmam/replaced_claude_with_local_qwen3627b_in_my/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-02T11:05:42+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>For two weeks I ran my multi-agent orchestrator entirely on Qwen3.6-27B via Ollama, on a single 3090. </p> <p>The goal: see if a local model could replace Claude as the reasoning layer for the lead/manager/sub-agent loop. Here's where it worked and where it broke.</p> <p>Setup:</p> <p>- RTX 3090, 24GB VRAM</p> <p>- Qwen3.6-27B at Q6_K (~22GB on-GPU), 32k effective context</p> <p>- Ollama as the inference engine</p> <p>- Multi-agent orchestrator with structured-J",
-      "extra": {
-        "revenue_score": 22
-      },
-      "collected_at": "2026-06-02T21:40:59"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Trump signs narrower executive order on AI oversight after industry objections",
       "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
       "primary_category": "NEWS",
@@ -3063,22 +2985,97 @@
       "collected_at": "2026-06-09T21:00:43"
     },
     {
+      "source": "TechCrunch AI",
+      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+      "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 09 Jun 2026 13:47:25 +0000",
+      "summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-06-10T00:14:51"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Uiverse Design",
+      "url": "https://www.producthunt.com/products/uiverse-io",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> De-slop your AI generated websites </p> <p> <a href=\"https://www.producthunt.com/products/uiverse-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1166907?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-10T00:14:52"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Limelight",
+      "url": "https://www.producthunt.com/products/limelight-4",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Make your screen recordings easy to follow </p> <p> <a href=\"https://www.producthunt.com/products/limelight-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1166576?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-10T00:14:52"
+    },
+    {
       "source": "r/LocalLLaMA",
-      "title": "Jetson Orin NX Build for Hermes Agent + Benchmarking",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u11wvo/jetson_orin_nx_build_for_hermes_agent_benchmarking/",
+      "title": "Rick & Morty",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u16b2c/rick_morty/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-06-09T14:18:14+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u16b2c/rick_morty/\"> <img alt=\"Rick &amp; Morty\" src=\"https://preview.redd.it/dtxl6py0n96h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3f52a1584e03d54ad85404990d2e3afb93a2c70\" title=\"Rick &amp; Morty\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>nobody expected HF there</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jacek2023\"> /u/jacek2023 </a> <br /> <span><a href=\"http",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-06-10T00:14:53"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Apple announced new on device inference engine for Apple Silicon",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1516w/apple_announced_new_on_device_inference_engine/",
       "primary_category": "GUIDE",
       "possible_categories": [
         "MONEY",
-        "TOOL",
-        "GUIDE"
+        "NEWS",
+        "TOOL"
       ],
-      "published": "2026-06-09T11:10:02+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u11wvo/jetson_orin_nx_build_for_hermes_agent_benchmarking/\"> <img alt=\"Jetson Orin NX Build for Hermes Agent + Benchmarking\" src=\"https://preview.redd.it/mqihfwevm86h1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=0a00fb912eba60263909fb2d8caa030081d7b4d1\" title=\"Jetson Orin NX Build for Hermes Agent + Benchmarking\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I had a <a href=\"https://dnhkng.githu",
+      "published": "2026-06-09T13:29:13+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This news seem to have flown under the radar. Apple announced CoreAI on WWDC which is basically a future replacement for CoreML and an alternative to MLX/llama.cpp/torch for on-device optimized inference, especially on phones and tablets. </p> <p>The model weights need to be converted similarly to CoreML via python script, atm the list of supported models is mostly from mid 2025 year though <a href=\"https://github.com/apple/coreai-models/tree/main/models\">https:",
       "extra": {
-        "revenue_score": 9
+        "revenue_score": 11
       },
-      "collected_at": "2026-06-09T21:00:44"
+      "collected_at": "2026-06-10T00:14:53"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Have we reached the point where open-source LLMs are “just good enough”?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0yo32/have_we_reached_the_point_where_opensource_llms/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-06-09T08:02:32+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The question I’m asking myself is whether open-source LLMs are now “<strong>just good enough</strong>” to meet 95% of requirements. I know, of course, that they still need to and will get even better, but where does the added value of the remaining 5% come from?</p> <ul> <li>a) Better answer quality? Okay, but does that justify the extra cost?</li> <li>b) Cleaner automated loops? Do the extra costs justify the effort of manual interventions to produce the same o",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-06-10T00:14:53"
     }
   ],
-  "updated_at": "2026-06-09T21:00:44.544902+09:00"
+  "updated_at": "2026-06-10T00:14:53.419814+09:00"
 }
