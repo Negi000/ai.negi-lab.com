@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-10T13:23:47.919771+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-10-claude-api-performance-nerf-detection-script",
+    "title": "Claude APIの性能制限を自動検証して「AIのサボり」を検知する方法",
+    "url": "https://ai.negi-lab.com/posts/claude-api-performance-nerf-detection-script/",
+    "category": "GUIDE",
+    "viral_tags": "#Claude #LLM検証",
+    "tweet_text": "Claudeが他社LLMの開発で手を抜く「性能制限」疑惑。Redditで話題のこの現象をPythonで自動検証した結果、モデルの回答密度を数値化して監視する必要性を痛感した。\n\nAPI経由でtemperature=0固定、トークンあたりの情報密度を計測すればAIのサボりは検知できる。特定のドメインで急に具体性が落ちる現象は、実務導入時の大きなリスクになる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-10T16:16:30.467136+09:00",
+    "posted": false
   }
 ]
