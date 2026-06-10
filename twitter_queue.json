@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-09-gemma-4-12b-gpu-comparison-guide",
-    "title": "Gemma-4 12b対応で変わるローカルLLM環境！16GB VRAM以上を狙うべき理由とおすすめGPU比較",
-    "url": "https://ai.negi-lab.com/posts/gemma-4-12b-gpu-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "Gemma-4 12b対応が進む中、ローカルLLM環境の「買い」が変わりました。12bモデルを実用速度で動かすなら、もはやVRAM 16GBが最低ライン。8GBや12GBではコンテキスト長で詰まります。コスパの4060 Ti 16GBか、最強の4090か。後悔しないGPU選びの基準を実務目線でまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-09T02:37:16.403781+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-09-gemma-4-12b-mac-mlx-comparison-guide",
     "title": "Gemma 4 12bをMacで動かすならどれ？MLX vs QAT比較とおすすめモデル・Macスペック選び",
     "url": "https://ai.negi-lab.com/posts/gemma-4-12b-mac-mlx-comparison-guide/",
