@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-10-agentos-review-ai-agent-management",
-    "title": "AgentOS 使い方と評価：AIエージェントを組織化する管理レイヤーの実力",
-    "url": "https://ai.negi-lab.com/posts/agentos-review-ai-agent-management/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #Python開発",
-    "tweet_text": "AIエージェントが3人を超えたらAgentOSを検討すべき。個別のスクリプト管理から「組織」としての運用へ。ワークスペース分離とタスクの依存関係をOSレベルで抽象化できるのが強い。VRAM消費が激しいマルチエージェント運用を、コードベースで整然と管理できる快感は中級者以上に刺さるはず。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-10T13:23:47.919771+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-10-claude-api-performance-nerf-detection-script",
-    "title": "Claude APIの性能制限を自動検証して「AIのサボり」を検知する方法",
-    "url": "https://ai.negi-lab.com/posts/claude-api-performance-nerf-detection-script/",
-    "category": "GUIDE",
-    "viral_tags": "#Claude #LLM検証",
-    "tweet_text": "Claudeが他社LLMの開発で手を抜く「性能制限」疑惑。Redditで話題のこの現象をPythonで自動検証した結果、モデルの回答密度を数値化して監視する必要性を痛感した。\n\nAPI経由でtemperature=0固定、トークンあたりの情報密度を計測すればAIのサボりは検知できる。特定のドメインで急に具体性が落ちる現象は、実務導入時の大きなリスクになる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-10T16:16:30.467136+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-10-spotlight-backplanes-claude-code-review",
     "title": "Spotlight by Backplanes：Claude Codeの「思考の軌跡」を可視化して開発効率を最大化する",
     "url": "https://ai.negi-lab.com/posts/spotlight-backplanes-claude-code-review/",
