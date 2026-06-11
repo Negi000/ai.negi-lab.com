@@ -1,73 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 04 Jun 2026 00:18:02 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-04T18:59:36"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-      "url": "https://github.com/zaydmulani09/mnemo",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 03 Jun 2026 20:32:10 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-04T18:59:36"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "If AI data centers are so great, why are they being built in secret?",
-      "url": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 03 Jun 2026 16:57:11 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-04T18:59:36"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Where's gemma4:12b?",
-      "url": "https://www.reddit.com/r/ollama/comments/1twgzkz/wheres_gemma412b/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-06-04T07:59:06+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Looks like ollama was hosting it at some point but it looks like it's now been scrubbed?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Dredgefort\"> /u/Dredgefort </a> <br /> <span><a href=\"https://www.reddit.com/r/ollama/comments/1twgzkz/wheres_gemma412b/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1twgzkz/wheres_gemma412b/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-06-04T18:59:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Split Ninja",
-      "url": "https://www.producthunt.com/products/split-ninja",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Cut, extract, mute, and split videos locally </p> <p> <a href=\"https://www.producthunt.com/products/split-ninja?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1162599?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-04T18:59:41"
-    },
-    {
       "source": "r/ollama",
       "title": "I dont like this cloud usage",
       "url": "https://www.reddit.com/r/ollama/comments/1twknra/i_dont_like_this_cloud_usage/",
@@ -2717,23 +2650,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "nvidia/diffusiongemma-26B-A4B-it-NVFP4 · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u2np0a/nvidiadiffusiongemma26ba4bitnvfp4_hugging_face/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-11T03:28:47+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u2np0a/nvidiadiffusiongemma26ba4bitnvfp4_hugging_face/\"> <img alt=\"nvidia/diffusiongemma-26B-A4B-it-NVFP4 · Hugging Face\" src=\"https://external-preview.redd.it/9EBAZR2owX7nOGzlCDPXd-p_xWnW0WyWy3qPB046G1s.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d83f884a6cf4fe9a76b4e5328582f59450a6ff5\" title=\"nvidia/diffusiongemma-26B-A4B-it-NVFP4 · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><h1>Model Overview</h1",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-06-11T13:44:50"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "DiffusionGemma: The Developer Guide- Google Developers Blog",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u26oyp/diffusiongemma_the_developer_guide_google/",
       "primary_category": "GUIDE",
@@ -2824,7 +2740,69 @@
         "revenue_score": 4
       },
       "collected_at": "2026-06-11T17:10:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cloudskill",
+      "url": "https://www.producthunt.com/products/cloudskill",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Govern the AI skills your team depends on </p> <p> <a href=\"https://www.producthunt.com/products/cloudskill?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1169000?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-11T19:41:27"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Terminal Mode by Even Realities",
+      "url": "https://www.producthunt.com/products/terminal-mode-by-even-realities",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Keep coding agents always in sight </p> <p> <a href=\"https://www.producthunt.com/products/terminal-mode-by-even-realities?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1168506?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-11T19:41:27"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I thought Chinese censorship didn't affect me. I was wrong.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u2tlum/i_thought_chinese_censorship_didnt_affect_me_i/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-06-11T08:54:27+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was debugging some code and LLM crashed out:</p> <p>``` The debug_log config defaults to &quot;debug.json&quot; and creates a FileHandler — which appends by default. That file is a log of<br /> everything that happened, never cleared. The June 4 errors in it are historical artifacts from before the fix. </p> <p>Conclusion: Both errors are pre-existing and already fixed. No action needed — the debug log just hasn't been truncated since.<br /> If </p> <p>Stream ",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-06-11T19:41:28"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Minimax M3 open weights release planned for Friday",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u2uje1/minimax_m3_open_weights_release_planned_for_friday/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-06-11T09:49:07+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u2uje1/minimax_m3_open_weights_release_planned_for_friday/\"> <img alt=\"Minimax M3 open weights release planned for Friday\" src=\"https://external-preview.redd.it/Fn0rPe6YXakeGSr17YVIPfOgxH96bMW4rUXeEiZ8k24.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b063d54d4970ac6aac2f10e3333e8948ed6bc0a\" title=\"Minimax M3 open weights release planned for Friday\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.co",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-06-11T19:41:28"
     }
   ],
-  "updated_at": "2026-06-11T17:10:48.325061+09:00"
+  "updated_at": "2026-06-11T19:41:28.516917+09:00"
 }
