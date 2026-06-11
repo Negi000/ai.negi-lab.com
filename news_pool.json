@@ -1,107 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "The ways we contain Claude across products",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 04 Jun 2026 00:27:52 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-04T13:50:20"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Slow ollama",
-      "url": "https://www.reddit.com/r/ollama/comments/1twaehq/slow_ollama/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-06-04T02:22:14+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Over the past few days my llama has been slow ie taking 5 mins to think. </p> <p>Today I tried reinstalling again and I kept getting an error message saying it couldn’t load some file. I uninstalled ollama and tried installing again. Got the same message again. I finally decided to get rid of it and download another llm. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/onceIwas15\"> /u/onceIwas15 </a> <br /> <span><a href=\"h",
-      "extra": {},
-      "collected_at": "2026-06-04T13:50:22"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Uselink",
-      "url": "https://www.producthunt.com/products/uselink",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> host your html, share the link, and get comments </p> <p> <a href=\"https://www.producthunt.com/products/uselink?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1160559?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-04T13:50:23"
-    },
-    {
-      "source": "r/ollama",
-      "title": "122B MoE local inference with 8 GB GPU VRAM by keeping experts on CPU",
-      "url": "https://www.reddit.com/r/ollama/comments/1tvyrlz/122b_moe_local_inference_with_8_gb_gpu_vram_by/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-06-03T18:47:37+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Disclosure: I'm affiliated with the project.</p> <p>We have been working on InstinctRazor-Qwen3.5-122B-A10B, a 122B MoE model/runtime setup for local inference where experts stay on CPU and active GPU VRAM can stay around 8 GB.</p> <p>The full compressed model is still around 50 GB, so this is not magically tiny. The point is that the GPU-side requirement becomes much more approachable for consumer machines.</p> <p>Benchmark note: in our current table it is ahea",
-      "extra": {},
-      "collected_at": "2026-06-04T16:58:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Chloe by Close",
-      "url": "https://www.producthunt.com/products/close",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI agent built into your CRM who works leads for you </p> <p> <a href=\"https://www.producthunt.com/products/close?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1161919?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-06-04T16:58:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Gather",
-      "url": "https://www.producthunt.com/products/gather-14",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Save it once, never lose it again </p> <p> <a href=\"https://www.producthunt.com/products/gather-14?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1160934?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-04T16:58:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AppWizzy",
-      "url": "https://www.producthunt.com/products/appwizzy",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Rent a private VM with Codex to build production apps </p> <p> <a href=\"https://www.producthunt.com/products/appwizzy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1155557?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-04T16:58:03"
-    },
-    {
       "source": "HN AI Companies",
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
       "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
@@ -2740,22 +2639,6 @@
       "collected_at": "2026-06-11T13:44:48"
     },
     {
-      "source": "GitHub Trending",
-      "title": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "extra": {
-        "stars_today": "211 stars today"
-      },
-      "collected_at": "2026-06-11T13:44:48"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
       "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
@@ -2864,7 +2747,84 @@
         "revenue_score": 7
       },
       "collected_at": "2026-06-11T13:44:50"
+    },
+    {
+      "source": "Google News",
+      "title": "OpenAIとVisaが提携してAIエージェントが自動でオンラインの購入手続きを完了可能に - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTVTJnZmVSX2NQTnlqNDhHZ1lVMEh1akxTZC1wblI2OTJ6QkdHVWNZUEtoaUVURzZGQWxHMTJ6VzVOa1N1Rk80VFlKNXhVdHdDdGF1WWJ1TkhHSFQ3TWxfS3o2SDdwekNyMUtaSVhuTzZrU2pQejkw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 11 Jun 2026 07:10:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBTVTJnZmVSX2NQTnlqNDhHZ1lVMEh1akxTZC1wblI2OTJ6QkdHVWNZUEtoaUVURzZGQWxHMTJ6VzVOa1N1Rk80VFlKNXhVdHdDdGF1WWJ1TkhHSFQ3TWxfS3o2SDdwekNyMUtaSVhuTzZrU2pQejkw?oc=5\" target=\"_blank\">OpenAIとVisaが提携してAIエージェントが自動でオンラインの購入手続きを完了可能に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-11T17:10:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "SpatialChat",
+      "url": "https://www.producthunt.com/products/spatialchat",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Product feature update for our virtual conferencing platform </p> <p> <a href=\"https://www.producthunt.com/products/spatialchat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1168718?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-11T17:10:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "lium.Ai",
+      "url": "https://www.producthunt.com/products/lium",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ai for complex data </p> <p> <a href=\"https://www.producthunt.com/products/lium?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1165826?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-11T17:10:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Patchrooms",
+      "url": "https://www.producthunt.com/products/patchrooms",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn AI-app feedback into agent-ready patch context. </p> <p> <a href=\"https://www.producthunt.com/products/patchrooms?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1168490?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-11T17:10:47"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "fableExpectations",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u2q07k/fableexpectations/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-06-11T05:25:00+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u2q07k/fableexpectations/\"> <img alt=\"fableExpectations\" src=\"https://preview.redd.it/2o426zap9l6h1.png?width=140&amp;height=105&amp;auto=webp&amp;s=0e86fdd50d94a32646a09f64cf3784261af6ed80\" title=\"fableExpectations\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/2o426zap9l6h1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=169e2d511bbf4c4b08a155775d94b0e9f3f931a5\">https://preview.redd",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-06-11T17:10:48"
     }
   ],
-  "updated_at": "2026-06-11T13:44:50.028979+09:00"
+  "updated_at": "2026-06-11T17:10:48.325061+09:00"
 }
