@@ -15191,5 +15191,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-12T16:59:46.277180+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-12-local-llm-gpu-vram-comparison-guide",
+    "title": "ローカルLLM用GPU・PCの選び方比較｜RTX 4090かMacか？失敗しないVRAM容量別おすすめ",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-vram-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "ローカルLLM用のハード選び、結論は「VRAM 16GB」が生存ライン。Gemma 2やQwen 2.5を仕事で使うなら、速度のRTX 4090か、大容量メモリのMac Studioの二択になります。8GB以下のグラボで妥協すると、最新モデルのコンテキスト長に耐えられず結局買い直すことに。まずはRTX 4060 Ti 16GBから入るのが失敗しない王道ルートです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-12T19:19:10.278329+09:00",
+    "posted": false
   }
 ]
