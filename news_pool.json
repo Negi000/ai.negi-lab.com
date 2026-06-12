@@ -1,66 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 05 Jun 2026 18:57:20 +0000",
-      "summary": "The companies announced the deal on Friday, just one week ahead of SpaceX's historic IPO.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-06-06T03:57:53"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "FloatPic",
-      "url": "https://www.producthunt.com/products/floatpic",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Ultra-minimalist, borderless macOS native image viewer </p> <p> <a href=\"https://www.producthunt.com/products/floatpic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1162995?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-06T03:57:54"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Treadmill Pro",
-      "url": "https://www.producthunt.com/products/treadmill-pro",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Control your treadmill from your iPhone, wirelessly </p> <p> <a href=\"https://www.producthunt.com/products/treadmill-pro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1163579?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-06T03:57:54"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Maybe KV cache offload to RAM isn't bad",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txpqru/maybe_kv_cache_offload_to_ram_isnt_bad/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-06-05T16:23:19+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So, llama.cpp has the <code>-nkvo</code> (<code>--no-kv-offload</code>) option to offload KV cache to RAM instead of VRAM. Many people avoid this because obviously it hurts performance.</p> <p>But every option exists with a trade off. And in my case, I think it's worth it. Hear me out.</p> <p>I'm running Qwen3.6 27B (IQ4_XS) on RTX 5060 Ti 16GB and 32GB DDR5. In order to fit 65k context, I have to quantize the KV cache down to q4_0, and keep only 58 layers on th",
-      "extra": {
-        "revenue_score": 14
-      },
-      "collected_at": "2026-06-06T03:57:55"
-    },
-    {
       "source": "r/ollama",
       "title": "Built a fully-local paper-RAG across 2× 1080 Ti + a 3090. Three Ollama gotchas that each cost me a day.",
       "url": "https://www.reddit.com/r/ollama/comments/1ty1qy3/built_a_fullylocal_paperrag_across_2_1080_ti_a/",
@@ -73,22 +13,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I built a private, fully-offline RAG over my own research PDFs — BGE-M3 embeddings + Qdrant (embedded) + a local LLM, all through Ollama, with BM25 sparse + a cross-encoder reranker on top. Hardware was whatever I had: <strong>2× GTX 1080 Ti</strong> (Pascal) on one box, a single <strong>RTX 3090</strong> on another. Three things surprised me, all Ollama-flavored:</p> <p><strong>1. The embedder kept freezing the <em>entire</em> GPU.</strong> Under WSL2, a long i",
       "extra": {},
       "collected_at": "2026-06-06T15:35:32"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Don’t act like y’all ain’t thinking it. I’m just saying the quiet part out loud. /s",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txufl9/dont_act_like_yall_aint_thinking_it_im_just/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-06-05T19:11:50+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1txufl9/dont_act_like_yall_aint_thinking_it_im_just/\"> <img alt=\"Don’t act like y’all ain’t thinking it. I’m just saying the quiet part out loud. /s\" src=\"https://preview.redd.it/ssewi1ltji5h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=88dbf9ec03584c0cb1e8fef0a9b3ca90c06060ee\" title=\"Don’t act like y’all ain’t thinking it. I’m just saying the quiet part out loud. /s\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-06-06T15:35:35"
     },
     {
       "source": "r/ollama",
@@ -2502,7 +2426,39 @@
         "revenue_score": 3
       },
       "collected_at": "2026-06-13T02:24:34"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Fri, 12 Jun 2026 18:36:19 +0000",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+      "extra": {
+        "revenue_score": 1
+      },
+      "collected_at": "2026-06-13T04:05:17"
+    },
+    {
+      "source": "Google News",
+      "title": "米 AI 企業アンソロピックが IPO 申請 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CZHd3VXk4NHBaWVRxMnBhT3dwa2tpTnBrQkxQN1otUWFTbW1yZWdXcXByX1p3eFFKQnYzemIxM3duUzJsRjdUeklGTkRPMGVjUDVSbnRB?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CZHd3VXk4NHBaWVRxMnBhT3dwa2tpTnBrQkxQN1otUWFTbW1yZWdXcXByX1p3eFFKQnYzemIxM3duUzJsRjdUeklGTkRPMGVjUDVSbnRB?oc=5\" target=\"_blank\">米 AI 企業アンソロピックが IPO 申請</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-06-13T04:05:18"
     }
   ],
-  "updated_at": "2026-06-13T02:24:38.051905+09:00"
+  "updated_at": "2026-06-13T04:05:22.009439+09:00"
 }
