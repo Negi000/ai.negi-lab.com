@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-11-diffusiongemma-26b-nvfp4-setup-guide",
-    "title": "NVIDIA DiffusionGemma-26B-NVFP4をRTX 40シリーズで動かし、超高精度な画像生成プロンプト生成環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/diffusiongemma-26b-nvfp4-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #NVIDIA",
-    "tweet_text": "RTX 4090の24GB VRAMを使い切るなら、NVIDIA公式のNVFP4量子化は避けて通れない。26B級のDiffusionGemmaがローカルで爆速動作。\n日本語の曖昧な指示から、FLUX.1やSDXLが喜ぶ超詳細な英語プロンプトを数秒で錬成できる環境は、一度使うともう戻れない。\nAda Lovelace世代のGPU持ちなら今すぐ試すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-11T17:12:24.158713+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-11-diffusion-gemma-fast-text-generation-gpu-guide",
-    "title": "ローカルLLMが4倍速に？DiffusionGemmaの衝撃と失敗しないGPU・Mac選び",
-    "url": "https://ai.negi-lab.com/posts/diffusion-gemma-fast-text-generation-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "テキスト生成が4倍速になるDiffusionGemmaが登場。ローカルLLMの課題だった「待ち時間」が激減します。ただし恩恵を受けるにはVRAM 16GB以上の確保が絶対条件。RTX 4060 Ti 16GBか、MacBook Proのメモリ盛り構成が実務での最低ラインです。8GBモデルで妥協すると、速度向上以前にメモリ不足で詰むので注意。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-11T19:42:51.260566+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-12-nvidia-skillspector-ai-agent-security-pc-guide",
     "title": "NVIDIA SkillSpectorでAIエージェントの脆弱性を防ぐ。ローカルLLM開発者が選ぶべきPCスペックとセキュリティ対策",
     "url": "https://ai.negi-lab.com/posts/nvidia-skillspector-ai-agent-security-pc-guide/",
