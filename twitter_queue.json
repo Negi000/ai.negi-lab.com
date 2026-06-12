@@ -15247,5 +15247,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-13T04:05:54.301464+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-13-ollama-local-llm-python-tutorial-for-beginners",
+    "title": "Ollama 使い方 入門: 限られたGPU資産で実用的なローカルLLM環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-local-llm-python-tutorial-for-beginners/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLMは「富豪の遊び」になりつつあるという声もありますが、実務レベルならRTX 4060 Ti 16GB一枚で十分民主化されています。Ollamaを使えば、VRAM 8GBの環境でもLlama 3.1が爆速で動作。APIコストをゼロにして、構造化データの抽出やRAGをローカルで完結させる具体的なPython実装手順をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-13T07:43:30.368810+09:00",
+    "posted": false
   }
 ]

@@ -862,22 +862,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Xiaomi just claimed 1,000+ tps on a 1T model using a standard 8-GPU server",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0buhm/xiaomi_just_claimed_1000_tps_on_a_1t_model_using/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "2026-06-08T15:51:46+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just saw Xiaomi MiMo announce <strong>MiMo-V2.5-Pro UltraSpeed</strong>, claiming they broke the <strong>1,000 tokens/sec output barrier on a 1 trillion parameter MoE model</strong>. According to them, they’re doing it on a <strong>single standard 8-GPU node</strong>, not custom wafer-scale hardware like Cerebras and not SRAM-heavy hardware like Groq. </p> <p>Crazy if true.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/No",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-06-09T02:36:41"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Luce Spark: a 35B MoE on a 16 GB GPU, without the offload tax",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0b3cu/luce_spark_a_35b_moe_on_a_16_gb_gpu_without_the/",
       "primary_category": "GUIDE",
@@ -2458,7 +2442,127 @@
         "revenue_score": -2
       },
       "collected_at": "2026-06-13T04:05:18"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+      "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 12 Jun 2026 15:08:59 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-13T07:42:56"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "moonshotai/Kimi-K2.7-Code · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u3rdk9/moonshotaikimik27code_hugging_face/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-12T10:22:07+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u3rdk9/moonshotaikimik27code_hugging_face/\"> <img alt=\"moonshotai/Kimi-K2.7-Code · Hugging Face\" src=\"https://external-preview.redd.it/pVmezHpABseLB4Mj65CMgrY-rZ98C677exRe269R3YY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c85a8488889ccc6bd1a1d9b2aad2aac9ef82ba1\" title=\"moonshotai/Kimi-K2.7-Code · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Kimi K2.7 Code is a coding-focused agentic model built up",
+      "extra": {},
+      "collected_at": "2026-06-13T07:42:56"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 12 Jun 2026 20:38:09 +0000",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-13T07:42:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Qursor",
+      "url": "https://www.producthunt.com/products/qursor",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Point at any UI to send exact context to your AI </p> <p> <a href=\"https://www.producthunt.com/products/qursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1169842?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-13T07:42:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "LocIn AI",
+      "url": "https://www.producthunt.com/products/locin-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Localize your app with tone-aware AI, automated workflows </p> <p> <a href=\"https://www.producthunt.com/products/locin-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1169603?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-13T07:42:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "MiniMaxAI/MiniMax-M3 · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u3wagy/minimaxaiminimaxm3_hugging_face/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-06-12T14:07:04+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u3wagy/minimaxaiminimaxm3_hugging_face/\"> <img alt=\"MiniMaxAI/MiniMax-M3 · Hugging Face\" src=\"https://external-preview.redd.it/Uv93NfmsEWZ6OylNRrWDx5767F50djITuxFOvPL7cs4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1bedec10a803f86762cdba66e04f25b0f6b3343d\" title=\"MiniMaxAI/MiniMax-M3 · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Minimax m3 weights are out !! </p> <p>It has ~428B parameters and ~23B",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-06-13T07:43:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "We should heavily discourage and moderate cloud API (deepseek api, GLM api, etc.) topics and discussion. This is LOCAL first.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u3vrrk/we_should_heavily_discourage_and_moderate_cloud/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-06-12T13:47:31+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m just some fucking guy. This is just some fucking opinion.</p> <p>I’ve seen tons of stealth marketing or related topics on this subreddit about how great or how easy it is to use some random subscription api. Why the fuck are we allowing people to so casually talk about how much more affordable their zai subscription is than Claude? Who cares? I don’t give a singular care if the eastern (bless them for their otherwise great contributions to OSS LLMs) companie",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-06-13T07:43:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Local LLMs aren't democratic anymore... the hardware barrier has gotten out of hand.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u479jf/local_llms_arent_democratic_anymore_the_hardware/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-06-12T20:51:33+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>When we first started experimenting with local LLMs, it was a completely different story!</p> <p>We were using gaming GPUs to tinker around. 8GB or 16GB of VRAM (which wasn't even a given for everyone) was the norm, and so many people could actually get their hands dirty and experiment. Let’s just forget for a second that long crypto-mining phase that bloated the market and caused shortages... but today? Today, if you don't have high-end hardware, experimenting ",
+      "extra": {
+        "revenue_score": 11
+      },
+      "collected_at": "2026-06-13T07:43:02"
     }
   ],
-  "updated_at": "2026-06-13T04:05:22.009439+09:00"
+  "updated_at": "2026-06-13T07:43:02.452246+09:00"
 }
