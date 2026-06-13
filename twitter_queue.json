@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-12-mlx-apple-silicon-local-llm-guide",
-    "title": "MLX 使い方 Apple SiliconでローカルLLMを爆速動作させる方法",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "Apple Siliconの真価はMLXにある。VRAM不足に悩むRTXユーザーを横目に、Macのユニファイドメモリで14B以上のモデルを軽快に動かす。PyTorch比でメモリ効率30%改善、ゼロコピー推論は一度体験すると戻れない。16GBメモリ以上のMacを持ってるなら、今すぐローカルLLMを動かすべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-12T16:59:46.277180+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-12-local-llm-gpu-vram-comparison-guide",
     "title": "ローカルLLM用GPU・PCの選び方比較｜RTX 4090かMacか？失敗しないVRAM容量別おすすめ",
     "url": "https://ai.negi-lab.com/posts/local-llm-gpu-vram-comparison-guide/",
