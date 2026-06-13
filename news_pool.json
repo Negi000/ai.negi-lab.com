@@ -2,20 +2,6 @@
   "items": [
     {
       "source": "r/ollama",
-      "title": "Built a fully-local paper-RAG across 2× 1080 Ti + a 3090. Three Ollama gotchas that each cost me a day.",
-      "url": "https://www.reddit.com/r/ollama/comments/1ty1qy3/built_a_fullylocal_paperrag_across_2_1080_ti_a/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-06-06T00:01:26+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I built a private, fully-offline RAG over my own research PDFs — BGE-M3 embeddings + Qdrant (embedded) + a local LLM, all through Ollama, with BM25 sparse + a cross-encoder reranker on top. Hardware was whatever I had: <strong>2× GTX 1080 Ti</strong> (Pascal) on one box, a single <strong>RTX 3090</strong> on another. Three things surprised me, all Ollama-flavored:</p> <p><strong>1. The embedder kept freezing the <em>entire</em> GPU.</strong> Under WSL2, a long i",
-      "extra": {},
-      "collected_at": "2026-06-06T15:35:32"
-    },
-    {
-      "source": "r/ollama",
       "title": "You can now condense massive error logs \"locally\" so you STOP BURNING CLOUD AI USAGE LIMITS",
       "url": "https://www.reddit.com/r/ollama/comments/1ty93ms/you_can_now_condense_massive_error_logs_locally/",
       "primary_category": "MONEY",
@@ -2291,21 +2277,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "music-assistant/server",
-      "url": "https://github.com/music-assistant/server",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "extra": {
-        "stars_today": "6 stars today"
-      },
-      "collected_at": "2026-06-13T00:25:25"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "LMCache/LMCache",
       "url": "https://github.com/LMCache/LMCache",
       "primary_category": "TOOL",
@@ -2589,7 +2560,117 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-13T13:26:06"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "extra": {
+        "stars_today": "224 stars today"
+      },
+      "collected_at": "2026-06-13T16:03:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Avatars in ElevenCreative",
+      "url": "https://www.producthunt.com/products/avatars-in-elevencreative",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A dedicated entry point for talking-head video </p> <p> <a href=\"https://www.producthunt.com/products/avatars-in-elevencreative?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1170016?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-13T16:03:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Vercel Drop",
+      "url": "https://www.producthunt.com/products/vercel",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Drop it. It's live. </p> <p> <a href=\"https://www.producthunt.com/products/vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1170432?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-13T16:03:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "NomNak",
+      "url": "https://www.producthunt.com/products/nomnak",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Find restaurants through people you trust </p> <p> <a href=\"https://www.producthunt.com/products/nomnak?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1170372?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-13T16:03:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Friendly reminder",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4epzr/friendly_reminder/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-06-13T02:21:35+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u4epzr/friendly_reminder/\"> <img alt=\"Friendly reminder\" src=\"https://preview.redd.it/xxol7axgmy6h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9b7ad8e31cf0d70d1415d417ba5de197391428e\" title=\"Friendly reminder\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>If you don't have it on your own drive, someone is going to take it away, enshittify it, bar you from accessing it, censor it, and hike the prices of it sooner",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-06-13T16:04:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Anthropic forced to abruptly disable Fable 5 & Mythos 5 globally by US Gov over a jailbreak. This is exactly why we need local models.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4e1p5/anthropic_forced_to_abruptly_disable_fable_5/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-13T01:48:47+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I just saw this statement regarding Anthropic being hit with an emergency export control directive from the US government. They were forced to pull the plug on Fable 5 and Mythos 5 for all customers globally. The tl;dr is that the government got spooked by a narrow jailbreak (which basically just sounds like asking the model to fix vulnerabilities in a specific codebase), and forced a complete shutdown without a transparent process. Anthropic is pushing back, bu",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-06-13T16:04:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Diffusion Gemma is 4x faster, but makes 6x more mistakes!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4bne8/diffusion_gemma_is_4x_faster_but_makes_6x_more/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-12T23:54:33+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u4bne8/diffusion_gemma_is_4x_faster_but_makes_6x_more/\"> <img alt=\"Diffusion Gemma is 4x faster, but makes 6x more mistakes!\" src=\"https://external-preview.redd.it/ZnJvdXhzM2Z3eDZoMfGOJPECWZYLkIx9_jIgOZIMFzbzAVWGrjOkphZRWCEn.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=49166d75a63f8471217155ac34ff30012577c32a\" title=\"Diffusion Gemma is 4x faster, but makes 6x more mistakes!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"m",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-06-13T16:04:01"
     }
   ],
-  "updated_at": "2026-06-13T13:26:09.435449+09:00"
+  "updated_at": "2026-06-13T16:04:01.155621+09:00"
 }
