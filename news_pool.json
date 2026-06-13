@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Ollama updates keep breaking things - anyone else dealing with this?",
-      "url": "https://www.reddit.com/r/ollama/comments/1tyhl0x/ollama_updates_keep_breaking_things_anyone_else/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-06-06T13:40:39+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Each new version seems to introduce a regression somewhere. Last update my models started hanging after a few exchanges, the one before that broke context handling entirely.</p> <p>I get that it’s early software but the pattern of fix-then-break is getting frustrating. Are you guys pinning older versions and just staying there or is there a way to update without losing stability?</p> <p>What version are you on and is it actually stable or are you just dealing wi",
-      "extra": {},
-      "collected_at": "2026-06-07T00:53:56"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Gemma 4 QAT Q4_0 Bench on Strix Halo",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tyilv7/gemma_4_qat_q4_0_bench_on_strix_halo/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-06-06T14:22:55+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Gemma 4 QAT Q4_0 Bench on Strix Halo</h1> <p>These are Google's official Gemma 4 QAT Q4_0 GGUF models, served locally through llama.cpp Vulkan/RADV on a Strix Halo APU.</p> <p>QAT means <strong>quantization-aware training</strong>. Instead of taking a normal model and quantizing it only after training, the model is trained or adapted while accounting for the lower-precision format it will run in. The goal is to make a small Q4 model keep more of the original mo",
-      "extra": {
-        "revenue_score": 11
-      },
-      "collected_at": "2026-06-07T00:53:59"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Sriram Krishnan is leaving his role as White House AI advisor",
       "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
@@ -2616,5 +2584,5 @@
       "collected_at": "2026-06-13T23:09:42"
     }
   ],
-  "updated_at": "2026-06-13T23:09:46.231966+09:00"
+  "updated_at": "2026-06-14T01:02:11.570996+09:00"
 }
