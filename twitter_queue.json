@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-13-local-llm-gpu-comparison-guide-vram",
-    "title": "ローカルLLM用PCおすすめ比較｜RTX 4090かMacか？エンジニアが後悔しないVRAM選び",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-comparison-guide-vram/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLMを仕事で使うなら、VRAM 24GBが最低ラインの投資になります。RTX 4090なら爆速、Mac Studioなら巨大モデルと、用途で分かれますが、16GB以下の環境は数ヶ月で必ず物足りなくなる。VRAM不足はソフトで解決できません。後悔する前に「物理的な壁」を予算に組み込むのがエンジニアの賢い買い方です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-13T02:25:13.406185+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-13-xiaomi-mimo-1t-model-1000tps-gpu-guide",
-    "title": "ローカルLLMの常識が変わる？Xiaomi 1Tモデル1000tps達成の衝撃と今買うべきハードウェア選び",
-    "url": "https://ai.negi-lab.com/posts/xiaomi-mimo-1t-model-1000tps-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "Xiaomiが1Tモデルで1,000 tps超えを達成。特注チップではなく標準GPUサーバーで実現したのが熱い。\n推論効率の極致だけど、我々エンジニアが今見るべきは「巨大モデルを爆速で回せるVRAM投資」の重要性。\n4090を2枚挿すか、Mac Studioを盛るか。ローカルLLMを実務で使うための判断基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-13T04:05:54.301464+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-13-ollama-local-llm-python-tutorial-for-beginners",
     "title": "Ollama 使い方 入門: 限られたGPU資産で実用的なローカルLLM環境を構築する方法",
     "url": "https://ai.negi-lab.com/posts/ollama-local-llm-python-tutorial-for-beginners/",
