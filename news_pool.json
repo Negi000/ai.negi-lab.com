@@ -2358,21 +2358,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Friendly reminder",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4epzr/friendly_reminder/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-06-13T02:21:35+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u4epzr/friendly_reminder/\"> <img alt=\"Friendly reminder\" src=\"https://preview.redd.it/xxol7axgmy6h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9b7ad8e31cf0d70d1415d417ba5de197391428e\" title=\"Friendly reminder\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>If you don't have it on your own drive, someone is going to take it away, enshittify it, bar you from accessing it, censor it, and hike the prices of it sooner",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-06-13T16:04:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Anthropic forced to abruptly disable Fable 5 & Mythos 5 globally by US Gov over a jailbreak. This is exactly why we need local models.",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4e1p5/anthropic_forced_to_abruptly_disable_fable_5/",
       "primary_category": "GUIDE",
@@ -2532,7 +2517,36 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-14T07:15:23"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "We should set up a torrent network for open source models.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4gto1/we_should_set_up_a_torrent_network_for_open/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-06-13T04:07:04+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Was just thinking about this due to recent events. </p> <p>Hugging Face is a US-based company, legally incorporated as Hugging Face, Inc. with its official headquarters located in Brooklyn, New York.</p> <p>It seems like a pretty big single point of failure for local models.</p> <p>Maybe a distributed network mirror of models would be a good backup.. you know.. just in case. </p> <p>I know other counties could host models.. but distributed seems safest.. what do",
+      "extra": {},
+      "collected_at": "2026-06-14T13:53:32"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 14 Jun 2026 03:00:00 +0000",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-14T13:53:40"
     }
   ],
-  "updated_at": "2026-06-14T07:15:27.847967+09:00"
+  "updated_at": "2026-06-14T13:53:44.455736+09:00"
 }
