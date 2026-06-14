@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-12-local-llm-gpu-vram-comparison-guide",
-    "title": "ローカルLLM用GPU・PCの選び方比較｜RTX 4090かMacか？失敗しないVRAM容量別おすすめ",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-vram-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLM用のハード選び、結論は「VRAM 16GB」が生存ライン。Gemma 2やQwen 2.5を仕事で使うなら、速度のRTX 4090か、大容量メモリのMac Studioの二択になります。8GB以下のグラボで妥協すると、最新モデルのコンテキスト長に耐えられず結局買い直すことに。まずはRTX 4060 Ti 16GBから入るのが失敗しない王道ルートです。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-12T19:19:10.278329+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-12-llama-cpp-gguf-beginner-guide-python",
-    "title": "llama.cpp 使い方 入門｜低スペックPCでLlama 3を爆速で動かす実践ガイド",
-    "url": "https://ai.negi-lab.com/posts/llama-cpp-gguf-beginner-guide-python/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llama_cpp",
-    "tweet_text": "ローカルLLMを動かすならllama.cppとGGUFの組み合わせが最強。RTX 3060/4060程度のVRAM 8GBでも、Llama 3 8Bが秒間20トークン超えで爆速動作します。Python連携まで含めた「仕事で使える」構築手順をまとめました。VRAM不足で諦める前にn_gpu_layersの設定を見直すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-12T21:20:07.904675+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-13-firma-dev-esignature-api-review",
-    "title": "Firma.dev レビュー 1通4.5円で電子署名を実装できる開発者向けAPIの実力",
-    "url": "https://ai.negi-lab.com/posts/firma-dev-esignature-api-review/",
-    "category": "TOOL",
-    "viral_tags": "#個人開発 #SaaS",
-    "tweet_text": "電子署名APIの価格破壊が始まった。Firma.devは1通わずか約4.5円。大手なら1通数百円＋月額数万円取られるところを、完全従量課金で利用できる。REST APIも極めてシンプルでPythonから15分で実装可能。SaaSに署名機能を組み込むなら、もう高額なサブスクに縛られる必要はない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-13T00:26:33.550943+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-13-local-llm-gpu-comparison-guide-vram",
     "title": "ローカルLLM用PCおすすめ比較｜RTX 4090かMacか？エンジニアが後悔しないVRAM選び",
     "url": "https://ai.negi-lab.com/posts/local-llm-gpu-comparison-guide-vram/",
