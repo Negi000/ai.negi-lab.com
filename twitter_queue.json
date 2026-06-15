@@ -15275,5 +15275,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-16T03:52:44.646316+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-16-ollama-open-webui-local-llm-guide",
+    "title": "OllamaとOpen WebUIで自分専用のローカルLLM環境を作る方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLM環境、結局「Ollama + Open WebUI」が実務での正解。RTX 3060なら12GBのVRAMでLlama 3が爆速で回る。月額$20払わずにPDF解析もやり放題。Docker1発でChatGPT風のUIが手に入る。API経由で外部にデータを出せない業務こそ、自前サーバーに構築する価値がある。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-16T05:28:43.051290+09:00",
+    "posted": false
   }
 ]
