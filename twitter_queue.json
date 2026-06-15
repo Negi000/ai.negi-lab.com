@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-14-lmcache-kv-cache-sharing-llm-optimization",
-    "title": "LMCache 使い方とLLM推論のKV Cache共有による高速化",
-    "url": "https://ai.negi-lab.com/posts/lmcache-kv-cache-sharing-llm-optimization/",
-    "category": "TOOL",
-    "viral_tags": "#ローカルLLM #vLLM",
-    "tweet_text": "LLMのTTFT遅延に悩むならLMCacheは外せない。vLLM単体では難しかった「インスタンスをまたいだKV Cache共有」をRedis等で実現。数千トークンのRAG構成なら、Prefillの再計算をスキップして爆速で生成開始。ただし10GbE以上の帯域がないと転送時間が計算時間を上回る点には注意。実務特化の鋭いツール。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-14T13:54:10.601609+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-14-llama-cpp-python-gguf-tutorial-beginners",
     "title": "llama.cppとGGUFでローカルLLMを動かす Pythonによる実装ガイド",
     "url": "https://ai.negi-lab.com/posts/llama-cpp-python-gguf-tutorial-beginners/",
