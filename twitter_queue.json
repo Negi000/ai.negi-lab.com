@@ -15247,5 +15247,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-06-15T18:33:16.176114+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-15-ai-agent-docker-sandbox-tutorial",
+    "title": "DockerでAIエージェント専用サンドボックスを構築してコード実行を安全にする方法",
+    "url": "https://ai.negi-lab.com/posts/ai-agent-docker-sandbox-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントに「rm -rf /」をさせない安全策。Docker SDKを使って、LLMが書いたコードを128MBのメモリ制限・ネットワーク遮断環境で隔離実行するサンドボックスをPythonで構築しました。自律型エージェントを実務に投入するなら、このレベルの守りは必須。試行錯誤の末に辿り着いた「死なない環境」の作り方です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-06-15T21:22:25.412563+09:00",
+    "posted": false
   }
 ]
