@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-14-local-llm-hardware-guide-rtx-vs-mac",
-    "title": "ローカルLLM環境の選び方：RTX 4090かMacか？後悔しないためのVRAM容量と推奨構成を比較",
-    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-rtx-vs-mac/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "クラウドAIは「検閲・改悪・値上げ」から逃れられない。実務で長く使うなら、ローカルLLM環境の構築は必須の投資です。判断基準はVRAM容量のみ。16GBが最低ライン、24GBが推奨、巨大モデルならMacの統一メモリ。RTX 4090かMac Studioか、後悔しないためのスペック選びをまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-14T07:15:52.074872+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-14-lmcache-kv-cache-sharing-llm-optimization",
     "title": "LMCache 使い方とLLM推論のKV Cache共有による高速化",
     "url": "https://ai.negi-lab.com/posts/lmcache-kv-cache-sharing-llm-optimization/",
