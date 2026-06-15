@@ -1,110 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Coding",
-      "title": "Netlify CTO Dana Lawson: Writing code is no longer the job",
-      "url": "https://thenewstack.io/netlify-agent-experience-engineers/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 07 Jun 2026 14:15:41 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-08T17:21:01"
-    },
-    {
-      "source": "HN AI Coding",
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sun, 07 Jun 2026 12:49:29 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-08T17:21:01"
-    },
-    {
-      "source": "Google News",
-      "title": "Pope Leo urges AI controls, ponders future of humanity AI による第４次産業革命で社会的課題 ローマ教皇が回勅で警鐘 - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wR2NOWTBxcnZ2MEFPS0NTMTNoUnVhSjRBd2xhVkRETy1SalpuU1Q4WVhHNk1Fd3dfTzlPWHo1YnY5bmg0N29MbDZ3STFBUVh6QlZZb0Vmaw?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 08 Jun 2026 08:12:30 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wR2NOWTBxcnZ2MEFPS0NTMTNoUnVhSjRBd2xhVkRETy1SalpuU1Q4WVhHNk1Fd3dfTzlPWHo1YnY5bmg0N29MbDZ3STFBUVh6QlZZb0Vmaw?oc=5\" target=\"_blank\">Pope Leo urges AI controls, ponders future of humanity AI による第４次産業革命で社会的課題 ローマ教皇が回勅で警鐘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-08T17:21:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Sigma File Manager",
-      "url": "https://www.producthunt.com/products/sigma-file-manager",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Free, open-source, cross-platform, modern file manager app </p> <p> <a href=\"https://www.producthunt.com/products/sigma-file-manager?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1161635?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-08T17:21:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Tamadoggo",
-      "url": "https://www.producthunt.com/products/tamadoggo",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A living journal for your pet's life, with AI insights </p> <p> <a href=\"https://www.producthunt.com/products/tamadoggo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1165846?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-08T17:21:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Browse.sh",
-      "url": "https://www.producthunt.com/products/browserbase",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Give your agents muscle memory for automating the web </p> <p> <a href=\"https://www.producthunt.com/products/browserbase?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1152642?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-06-08T17:21:04"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "QATs Q4_0 from Google have more precision than Q4_K_XL from Unsloth (at least some)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tzxmm8/qats_q4_0_from_google_have_more_precision_than_q4/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-08T04:26:19+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I wanted to try new QATs and opened two collections on HF (which HF found for me):</p> <p><a href=\"https://huggingface.co/collections/google/gemma-4-qat-q4-0\">https://huggingface.co/collections/google/gemma-4-qat-q4-0</a></p> <p><a href=\"https://huggingface.co/collections/unsloth/gemma-4-qat\">https://huggingface.co/collections/unsloth/gemma-4-qat</a></p> <p>One strange thing caught my attention, for e.g. E4B: <a href=\"https://huggingface.co/google/gemma-4-E4B-it",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-06-08T17:21:05"
-    },
-    {
       "source": "Product Hunt",
       "title": "The Virtual OS Museum",
       "url": "https://www.producthunt.com/products/the-virtual-os-museum",
@@ -2213,21 +2109,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "pytest-dev/pytest",
-      "url": "https://github.com/pytest-dev/pytest",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
-      "extra": {
-        "stars_today": "8 stars today"
-      },
-      "collected_at": "2026-06-14T20:30:35"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "Free-TV/IPTV",
       "url": "https://github.com/Free-TV/IPTV",
       "primary_category": "TOOL",
@@ -2426,7 +2307,128 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-15T14:10:39"
+    },
+    {
+      "source": "r/ollama",
+      "title": "open-notebook hit 30k stars - a self-hosted, open source Notebook LM alternative. Running it with Ollama?",
+      "url": "https://www.reddit.com/r/ollama/comments/1u5y3hq/opennotebook_hit_30k_stars_a_selfhosted_open/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-06-14T22:00:52+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Been looking at this project that's been trending - open-notebook by lfnovo. It's a self-hosted alternative to Google's Notebook LM with more flexibility.</p> <p>Key features for the Ollama crowd: - Self-hosted, your data stays local - Supports 18+ providers including Ollama and LM Studio - Multi-modal content: PDFs, videos, audio, web pages - Full-text and vector search across all content - Podcast generation (1-4 speakers with custom profiles vs Notebook LM's ",
+      "extra": {},
+      "collected_at": "2026-06-15T18:32:02"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Trying Claude Code with Ollama — 5–10 Minute Responses and JSON Output Issues",
+      "url": "https://www.reddit.com/r/ollama/comments/1u6arpo/trying_claude_code_with_ollama_510_minute/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-06-15T08:36:17+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I have been looking for a free vibe coding setup. I heard Claude Code was one of the best so I tried setting it up locally with Ollama.</p> <p>At first I used <code>rafw007/qwen35-claude-coder:4b</code>. It technically worked, but even a simple &quot;hi&quot; took around 10 minutes to get a response.</p> <p>After that I tried:</p> <ul> <li><code>qwen2.5-coder:1.5b</code></li> <li><code>qwen2.5-coder</code></li> <li><code>llama3.1:8b</code></li> </ul> <p>So f",
+      "extra": {},
+      "collected_at": "2026-06-15T18:32:02"
+    },
+    {
+      "source": "r/ollama",
+      "title": "I don't trust Ollama Cloud; is it possible that it's calling other APIs?",
+      "url": "https://www.reddit.com/r/ollama/comments/1u6b5o9/i_dont_trust_ollama_cloud_is_it_possible_that_its/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-06-15T09:00:16+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm using GLM 5 cloud, it's great. I think it's brilliant, and it's cheap and fast on Ollama Cloud.</p> <p>I think Ollama Cloud uses its own servers and runs the model on them, but I have my doubts.</p> <p>Last week, if I asked GLM, it said it was GLM. Four days ago, it answered the question &quot;What model are you using?&quot; saying it was Antropic using SONET. <strong>Today, it answers that it's GPT.4o from OpenAI.</strong></p> <p><strong>Is it possible that",
+      "extra": {},
+      "collected_at": "2026-06-15T18:32:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The AI layoff wave is becoming a powder keg",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 15 Jun 2026 07:25:41 +0000",
+      "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-15T18:32:03"
+    },
+    {
+      "source": "Google News",
+      "title": "Appleが「Siri AI」をEUの規則のせいでヨーロッパにリリースできないと主張するも欧州委員会は「AppleがEU域内で新製品や新サービスを導入することを禁じる条項は一切ない」と反論 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94YTRwcHV3NFJYY1A1dnVucDM5Y2l0bHJkOXZvMklxaEF3eFVVXzdQazk1SjUyVVRyQUVoRzRxOThNSkJma1BwVURmeU9Dd0t6NE9XUlZRNldyZ2M?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Mon, 15 Jun 2026 05:26:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE94YTRwcHV3NFJYY1A1dnVucDM5Y2l0bHJkOXZvMklxaEF3eFVVXzdQazk1SjUyVVRyQUVoRzRxOThNSkJma1BwVURmeU9Dd0t6NE9XUlZRNldyZ2M?oc=5\" target=\"_blank\">Appleが「Siri AI」をEUの規則のせいでヨーロッパにリリースできないと主張するも欧州委員会は「AppleがEU域内で新製品や新サービスを導入することを禁じる条項は一切ない」と反論</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-06-15T18:32:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "VEXI",
+      "url": "https://www.producthunt.com/products/vexi",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Open-source AI coding agent for your terminal </p> <p> <a href=\"https://www.producthunt.com/products/vexi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1170555?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-06-15T18:32:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AgentBrush",
+      "url": "https://www.producthunt.com/products/agentbrush",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your coding agent's missing tool: image generation </p> <p> <a href=\"https://www.producthunt.com/products/agentbrush?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1172013?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-15T18:32:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ultramemory",
+      "url": "https://www.producthunt.com/products/ultramemory-remembers-everything",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Private AI memory for your Mac with no cloud or account </p> <p> <a href=\"https://www.producthunt.com/products/ultramemory-remembers-everything?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1169667?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-15T18:32:04"
     }
   ],
-  "updated_at": "2026-06-15T14:10:43.455506+09:00"
+  "updated_at": "2026-06-15T18:32:08.171852+09:00"
 }
