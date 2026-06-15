@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-14-llama-cpp-python-gguf-tutorial-beginners",
-    "title": "llama.cppとGGUFでローカルLLMを動かす Pythonによる実装ガイド",
-    "url": "https://ai.negi-lab.com/posts/llama-cpp-python-gguf-tutorial-beginners/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Python",
-    "tweet_text": "ローカルLLMを仕事で使うならOllamaも良いがllama.cppを直接叩くのが正解。VRAM 16GBあればLlama 3 8Bは爆速で動く。\n初心者がハマる「CPU推論で遅すぎる問題」はインストール時のCMAKEフラグ忘れが9割。\nGPUレイヤーのオフロード設定を覚えれば、型落ちPCでも賢いAIは作れる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-14T16:55:13.456770+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-14-aisuite-andrew-ng-python-review-unified-llm",
     "title": "aisuite レビュー｜Andrew Ng氏が放つAIプロバイダー統合ライブラリの実力と実務での使いどころ",
     "url": "https://ai.negi-lab.com/posts/aisuite-andrew-ng-python-review-unified-llm/",
