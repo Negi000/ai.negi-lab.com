@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-15-pytest-best-practice-python-ai-development",
-    "title": "pytest 使い方と実務におけるテスト設計の最適解",
-    "url": "https://ai.negi-lab.com/posts/pytest-best-practice-python-ai-development/",
-    "category": "TOOL",
-    "viral_tags": "#Python #エンジニア",
-    "tweet_text": "Pythonエンジニアでpytestを「ただのテストツール」だと思っているなら損をしている。標準のunittestと比較して記述量は40%減り、並列実行でテスト時間は数分から数十秒に短縮できる。特にAI開発ではparametrizeによる大量の評価データ回しが神。RTX 4090を2枚挿ししてローカルLLMの推論テストを並列で回すなら、コア数の多いRyzen 9環境が最適解だ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-15T14:11:06.440948+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-15-vexi-ai-coding-agent-terminal-review",
     "title": "VEXI レビュー ターミナル完結のOSSコーディングエージェントの実力",
     "url": "https://ai.negi-lab.com/posts/vexi-ai-coding-agent-terminal-review/",
