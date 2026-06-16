@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-06-17-local-llm-gpu-mac-comparison-guide.jpg",
     "created_at": "2026-06-17T02:05:14.278125+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-17-local-ai-pc-selection-guide-rtx-vs-mac",
+    "title": "ローカルLLMとAI開発のためのPC選び｜Apple Silicon vs NVIDIA GPU徹底比較",
+    "url": "https://ai.negi-lab.com/posts/local-ai-pc-selection-guide-rtx-vs-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #PC選び",
+    "tweet_text": "ローカルLLM用のPC選び、VRAM 12GB以下は今すぐ選択肢から外すべき。RTX 4060 Ti 16GBがコスパ最強の入門機なのは揺るがないけど、70B超えのモデルを私物化したいならMac Studioのメモリ128GB超えが唯一の解。学習のCUDAか、推論の統一メモリか。この境界線を見誤ると20万円ドブに捨てることになります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-17-local-ai-pc-selection-guide-rtx-vs-mac.jpg",
+    "created_at": "2026-06-17T03:45:05.239471+09:00",
+    "posted": false
   }
 ]
