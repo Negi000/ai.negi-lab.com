@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-15-local-llm-gpu-mac-selection-guide-2025",
-    "title": "ローカルLLM用GPU・Mac選び方ガイド｜Anthropic停止騒動から学ぶ「詰まない」ための推奨スペック",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-selection-guide-2025/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "Anthropicのモデル停止騒動で確信した。仕事でAIを使うなら、検閲や規約に左右されないローカルLLM環境が必須。\n\n選定基準は明確で、VRAM 16GBが最低ライン。業務ならRTX 4090の24GBか、Macのメモリ64GB以上を積むべき。\n\n中途半端なスペックで「動かない」と後悔する前に、今買うべき構成を実務目線でまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-15T03:13:46.376175+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-15-local-llama-gpu-selection-guide-2024",
     "title": "ローカルLLM環境の選び方と比較｜Hugging Faceリスクに備えて買うべきGPUとMac",
     "url": "https://ai.negi-lab.com/posts/local-llama-gpu-selection-guide-2024/",
