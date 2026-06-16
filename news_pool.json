@@ -1,98 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 09 Jun 2026 13:47:25 +0000",
-      "summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-06-10T00:14:51"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Uiverse Design",
-      "url": "https://www.producthunt.com/products/uiverse-io",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> De-slop your AI generated websites </p> <p> <a href=\"https://www.producthunt.com/products/uiverse-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1166907?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-10T00:14:52"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Limelight",
-      "url": "https://www.producthunt.com/products/limelight-4",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Make your screen recordings easy to follow </p> <p> <a href=\"https://www.producthunt.com/products/limelight-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1166576?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-10T00:14:52"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Rick & Morty",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u16b2c/rick_morty/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-06-09T14:18:14+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u16b2c/rick_morty/\"> <img alt=\"Rick &amp; Morty\" src=\"https://preview.redd.it/dtxl6py0n96h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3f52a1584e03d54ad85404990d2e3afb93a2c70\" title=\"Rick &amp; Morty\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>nobody expected HF there</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jacek2023\"> /u/jacek2023 </a> <br /> <span><a href=\"http",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-06-10T00:14:53"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Apple announced new on device inference engine for Apple Silicon",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1516w/apple_announced_new_on_device_inference_engine/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-06-09T13:29:13+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This news seem to have flown under the radar. Apple announced CoreAI on WWDC which is basically a future replacement for CoreML and an alternative to MLX/llama.cpp/torch for on-device optimized inference, especially on phones and tablets. </p> <p>The model weights need to be converted similarly to CoreML via python script, atm the list of supported models is mostly from mid 2025 year though <a href=\"https://github.com/apple/coreai-models/tree/main/models\">https:",
-      "extra": {
-        "revenue_score": 11
-      },
-      "collected_at": "2026-06-10T00:14:53"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Have we reached the point where open-source LLMs are “just good enough”?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u0yo32/have_we_reached_the_point_where_opensource_llms/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-06-09T08:02:32+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The question I’m asking myself is whether open-source LLMs are now “<strong>just good enough</strong>” to meet 95% of requirements. I know, of course, that they still need to and will get even better, but where does the added value of the remaining 5% come from?</p> <ul> <li>a) Better answer quality? Okay, but does that justify the extra cost?</li> <li>b) Cleaner automated loops? Do the extra costs justify the effort of manual interventions to produce the same o",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-06-10T00:14:53"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude Fable 5",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
@@ -2550,7 +2458,53 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-16T22:27:30"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 16 Jun 2026 16:49:44 +0000",
+      "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-17T02:03:13"
+    },
+    {
+      "source": "Google News",
+      "title": "SoftBank to Launch Cybersecurity Service in Japan - 時事通信ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44Smh2OVFrbmJUY29za1VXZTVnZ29GeGZZcV95TzlsaFRpbjU4YnNWUVNfLUp1UTIyeWdnUzZGSHJjWFBPNUh6VERPV1U5eVJHT2c?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Tue, 16 Jun 2026 09:31:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE44Smh2OVFrbmJUY29za1VXZTVnZ29GeGZZcV95TzlsaFRpbjU4YnNWUVNfLUp1UTIyeWdnUzZGSHJjWFBPNUh6VERPV1U5eVJHT2c?oc=5\" target=\"_blank\">SoftBank to Launch Cybersecurity Service in Japan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-17T02:03:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "PeakRoutine",
+      "url": "https://www.producthunt.com/products/peak-routine",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Personalized health coaching powered by your biomarkers </p> <p> <a href=\"https://www.producthunt.com/products/peak-routine?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/950723?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-17T02:03:14"
     }
   ],
-  "updated_at": "2026-06-16T22:27:34.216815+09:00"
+  "updated_at": "2026-06-17T02:03:17.821402+09:00"
 }

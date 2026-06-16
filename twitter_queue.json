@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-06-16-ai-environmental-impact-ithaka-libguide-review.jpg",
     "created_at": "2026-06-16T20:17:49.215821+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-17-local-llm-gpu-mac-comparison-guide",
+    "title": "ローカルLLM環境の選び方と比較｜Ollama卒業後に選ぶべきRTX/Macスペック",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLMのために「とりあえずOllama」で満足するのは損。実務で使うなら、ハードウェアの性能を100%引き出すためにVRAM 16GB以上、理想はRTX 4090の24GB一択です。メモリ容量だけでなく帯域幅を見ないと、高額投資しても推論速度がAPI以下になる罠も。失敗しないための選び方を実機検証ベースでまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-17-local-llm-gpu-mac-comparison-guide.jpg",
+    "created_at": "2026-06-17T02:05:14.278125+09:00",
+    "posted": false
   }
 ]
