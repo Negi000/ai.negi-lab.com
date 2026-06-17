@@ -2358,22 +2358,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Locus Founder",
-      "url": "https://www.producthunt.com/products/locus-founder",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Text an AI agent and it builds + runs your business </p> <p> <a href=\"https://www.producthunt.com/products/locus-founder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1171771?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-06-17T20:02:23"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Framer 3.0",
       "url": "https://www.producthunt.com/products/framer",
       "primary_category": "TOOL",
@@ -2387,7 +2371,156 @@
         "revenue_score": 3
       },
       "collected_at": "2026-06-17T20:02:23"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap",
+      "url": "https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 16 Jun 2026 19:59:14 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-17T21:50:54"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "GLM-5.2 is the first open-weights model to cross 80% on Terminal-Bench and beats every other open model available",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u7mexd/glm52_is_the_first_openweights_model_to_cross_80/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-06-16T18:48:58+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u7mexd/glm52_is_the_first_openweights_model_to_cross_80/\"> <img alt=\"GLM-5.2 is the first open-weights model to cross 80% on Terminal-Bench and beats every other open model available\" src=\"https://preview.redd.it/8j43gkgrxo7h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=44cde39a00a88e635947c2f523dcaf67186426bb\" title=\"GLM-5.2 is the first open-weights model to cross 80% on Terminal-Bench and beats every other open mode",
+      "extra": {},
+      "collected_at": "2026-06-17T21:50:54"
+    },
+    {
+      "source": "r/LocalLLM",
+      "title": "I released Inflect-Nano, an ultra-extreme tiny 4.63m parameter TTS model.",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1u82cq8/i_released_inflectnano_an_ultraextreme_tiny_463m/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-06-17T06:29:28+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been experimenting with how small a usable neural TTS model can realistically get, and I just released <strong>Inflect-Nano-v1</strong>.</p> <p>As far as I researched (though I could be wrong on this), Inflect-Nano-v1 is the #2 smallest tts model (after <a href=\"https://github.com/tronghieuit/tiny-tts\">TinyTTS</a>), and it preforms surprisingly good for its model weight. Even if you have a certified potato computer, it can run on that.</p> <p>It is not SOTA",
+      "extra": {},
+      "collected_at": "2026-06-17T21:51:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "extra": {
+        "stars_today": "84 stars today"
+      },
+      "collected_at": "2026-06-17T21:51:02"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "extra": {
+        "stars_today": "71 stars today"
+      },
+      "collected_at": "2026-06-17T21:51:02"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "alexzhang13/rlm",
+      "url": "https://github.com/alexzhang13/rlm",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
+      "extra": {
+        "stars_today": "37 stars today"
+      },
+      "collected_at": "2026-06-17T21:51:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+      "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 17 Jun 2026 12:38:09 +0000",
+      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-17T21:51:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Dopami",
+      "url": "https://www.producthunt.com/products/dopami",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Household chores without the mental load for ADHD </p> <p> <a href=\"https://www.producthunt.com/products/dopami?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1172451?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-17T21:51:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tyto by ai-coustics",
+      "url": "https://www.producthunt.com/products/tyto",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Audio insight that predicts voice AI performance </p> <p> <a href=\"https://www.producthunt.com/products/tyto?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1173055?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-17T21:51:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Swytchcode CLI",
+      "url": "https://www.producthunt.com/products/swytchcode",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Give agents reliable access to 2,000+ APIs w/ durable state </p> <p> <a href=\"https://www.producthunt.com/products/swytchcode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1170857?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-17T21:51:03"
     }
   ],
-  "updated_at": "2026-06-17T20:02:26.846624+09:00"
+  "updated_at": "2026-06-17T21:51:07.102172+09:00"
 }
