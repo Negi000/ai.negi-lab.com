@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-16-apple-silicon-mlx-local-llm-guide",
-    "title": "Apple Siliconで爆速LLM。MLXを使ったローカルLLM環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "MacユーザーならLlama.cppよりMLXを試すべき。Apple Siliconのメモリ帯域をフルに叩き出すので、7Bクラスが爆速で動く。\nM3 Maxなら秒間40トークン超えも余裕。VRAM不足に悩むRTX勢を横目に、ユニファイドメモリで巨大モデルを静かに回す快感は一度味わうと戻れない。\nPython数行で自分専用の機密保持ローカルLLM環境が完成する。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-06-16T08:08:22.024727+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-16-sulsaly-ai-agent-mena-sales-review",
     "title": "Sulsaly MENA地域特化型AIエージェントによるセールス自動化の実力と使い方",
     "url": "https://ai.negi-lab.com/posts/sulsaly-ai-agent-mena-sales-review/",
