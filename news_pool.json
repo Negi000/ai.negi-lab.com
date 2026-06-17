@@ -1,215 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 09 Jun 2026 21:19:11 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-10T07:43:32"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "GPT-2: Too Dangerous To Release (2019)",
-      "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 09 Jun 2026 18:21:43 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-10T07:43:32"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Apple released Core AI - their own on-device inference framework. How does this compare to running models with Ollama?",
-      "url": "https://www.reddit.com/r/ollama/comments/1u1a7gz/apple_released_core_ai_their_own_ondevice/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-06-09T16:34:44+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Apple announced Core AI at WWDC yesterday - a brand new inference framework purpose-built for Apple Silicon. Not a Core ML refresh, a ground-up system for running LLMs on-device.</p> <p>Key features: - Swift API for model inference on iPhone/iPad/Mac/Vision Pro - coreai-torch for converting PyTorch models to Core AI format - Zero-copy data paths between CPU and GPU - Metal 4 kernels optimized for transformer architectures - Ahead-of-time compilation for predicta",
-      "extra": {},
-      "collected_at": "2026-06-10T07:43:34"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Hey, Siri, here’s what I actually want from AI",
-      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 09 Jun 2026 20:50:17 +0000",
-      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-10T07:43:35"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ZeroGPU",
-      "url": "https://www.producthunt.com/products/zerogpu",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The compute efficient layer for AI inference </p> <p> <a href=\"https://www.producthunt.com/products/zerogpu?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1164545?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-06-10T07:43:36"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google just fired a warning shot in the AI subscription price wars",
-      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 10 Jun 2026 00:26:10 +0000",
-      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-10T13:22:55"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Fluido",
-      "url": "https://www.producthunt.com/products/fluido",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn any Figma shape into liquid metal in one click </p> <p> <a href=\"https://www.producthunt.com/products/fluido?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1167185?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-10T13:22:56"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Without open llm competition, closed source LLM companies will become insatiable.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1p3k5/without_open_llm_competition_closed_source_llm/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-06-10T02:12:54+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u1p3k5/without_open_llm_competition_closed_source_llm/\"> <img alt=\"Without open llm competition, closed source LLM companies will become insatiable.\" src=\"https://preview.redd.it/6qr2ymt25d6h1.png?width=140&amp;height=110&amp;auto=webp&amp;s=83cc687f1af491bf83b1644d774bb045b788d02e\" title=\"Without open llm competition, closed source LLM companies will become insatiable.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I ",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-06-10T13:22:57"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Releasing Apodex-1.0 Smol Models (0.8B, 2B, 4B Open-Weights) — Optimized as local \"Verification & Checker\" nodes for Ollama agent workflows",
-      "url": "https://www.reddit.com/r/ollama/comments/1u1t5rb/releasing_apodex10_smol_models_08b_2b_4b/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-10T05:34:07+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1u1t5rb/releasing_apodex10_smol_models_08b_2b_4b/\"> <img alt=\"Releasing Apodex-1.0 Smol Models (0.8B, 2B, 4B Open-Weights) — Optimized as local &quot;Verification &amp; Checker&quot; nodes for Ollama agent workflows\" src=\"https://preview.redd.it/etv47n3f6e6h1.jpg?width=140&amp;height=117&amp;auto=webp&amp;s=ab00c03ed3d4d4d79fc9704127c0806a8bd1aa24\" title=\"Releasing Apodex-1.0 Smol Models (0.8B, 2B, 4B Open-Weights) — Optimized as",
-      "extra": {},
-      "collected_at": "2026-06-10T16:15:17"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta signs first AI data center deal in India with Reliance",
-      "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 10 Jun 2026 07:05:26 +0000",
-      "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-10T16:15:18"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Zingle",
-      "url": "https://www.producthunt.com/products/zingle-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Learn words in context with AI </p> <p> <a href=\"https://www.producthunt.com/products/zingle-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1167872?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-10T16:15:19"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "OLO Robotics",
-      "url": "https://www.producthunt.com/products/olo-robotics",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Control robots in your browser — no setup needed </p> <p> <a href=\"https://www.producthunt.com/products/olo-robotics?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1166865?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-06-10T16:15:19"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "fort",
-      "url": "https://www.producthunt.com/products/fort-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> One command to audit and fix your Mac's security </p> <p> <a href=\"https://www.producthunt.com/products/fort-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1167705?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-10T16:15:19"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Without open source LLMs, US AI companies could have already monopoled the technology",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u1siyl/without_open_source_llms_us_ai_companies_could/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-06-10T05:00:42+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>For such technology with clear importance and impact on all of us, I believe that making it open source is an ethical duty, otherwise, especially with the 1-sided politics of the US we experience today, they could have already monopolized the technology by now, maybe make it exclusively available to US companies only, and starve the entire world including Europe.</p> <p>You could disagree with China on many topics, but the fact they released a couple of powerful",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-10T16:15:20"
-    },
-    {
       "source": "Google News",
       "title": "AI企業IPO祭り、パープレキシティも参戦。AIに対する市場の「審判」が下る日は近い - Business Insider Japan",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSF9qNTZwV0dweVlZdVNRaVJ0YmF4ZXdDd2FDcFRJdHdySTNkV0tncTY5T3AxTlRfc2FHN0tkenVXVUhmdTk4bHFXbGFPMU9sY3RZLXgzel9ia0l4MmQ0WHBrY2RCWWVSMnV3NXQ3WWZJVG9jM1FQVDhwVXhGRWVXWFFn?oc=5",
@@ -2471,7 +2262,114 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-17T05:12:22"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Donate your coding sessions to an open CC-BY-4.0 dataset to help train open-weight and open source models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u795pb/donate_your_coding_sessions_to_an_open_ccby40/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-16T09:58:59+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u795pb/donate_your_coding_sessions_to_an_open_ccby40/\"> <img alt=\"Donate your coding sessions to an open CC-BY-4.0 dataset to help train open-weight and open source models\" src=\"https://preview.redd.it/j2yb9wo4bm7h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87bfb890be9e6b070e386f0b6500c503fd79616a\" title=\"Donate your coding sessions to an open CC-BY-4.0 dataset to help train open-weight and open source models\" /> </a",
+      "extra": {},
+      "collected_at": "2026-06-17T17:34:23"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 16 Jun 2026 22:34:17 +0000",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-17T17:34:30"
+    },
+    {
+      "source": "Google News",
+      "title": "日常的なコーディング作業でClaudeやGPTからローカルAIモデルに置き換えた事例まとめ - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkMmNtRjlWYUNUV1Y2aFBwWDBGQmY0N2E0c0V5VnpvTEtyN2cwcGE4Tm9yOWUwSTdFNDRjemY0TGlkeWxyLTg4aVBsWUVpSmU2RjkzMEt6Snd4MlR2b1hIaU1mSUtHUS05X3BDS29XTzRPREE4WVF1Qmd3?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "Tue, 16 Jun 2026 22:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBkMmNtRjlWYUNUV1Y2aFBwWDBGQmY0N2E0c0V5VnpvTEtyN2cwcGE4Tm9yOWUwSTdFNDRjemY0TGlkeWxyLTg4aVBsWUVpSmU2RjkzMEt6Snd4MlR2b1hIaU1mSUtHUS05X3BDS29XTzRPREE4WVF1Qmd3?oc=5\" target=\"_blank\">日常的なコーディング作業でClaudeやGPTからローカルAIモデルに置き換えた事例まとめ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-17T17:34:31"
+    },
+    {
+      "source": "Google News",
+      "title": "「人工知能（AI）センサー市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 - ドリームニュース",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zVXdNVUY3RGVVMnJwVzNVdThndTkxMHZwZHdXZ2J2NmdRSkhuaDY4MUJGbXFIcmlmdlpFdU1sRDNiX3NSNHFqUGxZM0I5NElLN3NJ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zVXdNVUY3RGVVMnJwVzNVdThndTkxMHZwZHdXZ2J2NmdRSkhuaDY4MUJGbXFIcmlmdlpFdU1sRDNiX3NSNHFqUGxZM0I5NElLN3NJ?oc=5\" target=\"_blank\">「人工知能（AI）センサー市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ドリームニュース</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-17T17:34:31"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Vitrine",
+      "url": "https://www.producthunt.com/products/vitrine",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn any photo into a beautiful wallpaper </p> <p> <a href=\"https://www.producthunt.com/products/vitrine?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1173231?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-17T17:34:31"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Parano.ai",
+      "url": "https://www.producthunt.com/products/parano-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Never miss a competitor's move </p> <p> <a href=\"https://www.producthunt.com/products/parano-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1173051?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-17T17:34:31"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Dualora",
+      "url": "https://www.producthunt.com/products/dualora-dual-size-recorder",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Record in both 16:9 and 9:16 at the same time </p> <p> <a href=\"https://www.producthunt.com/products/dualora-dual-size-recorder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1173076?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-17T17:34:31"
     }
   ],
-  "updated_at": "2026-06-17T05:12:26.058061+09:00"
+  "updated_at": "2026-06-17T17:34:34.589752+09:00"
 }
