@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-06-18-mlperf-v6-nvidia-h200-vs-amd-mi300x-comparison.jpg",
     "created_at": "2026-06-18T00:46:18.257731+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-18-glm-5-2-local-llm-gpu-guide",
+    "title": "ローカルLLMで開発自動化！GLM-5.2の選び方とおすすめGPU比較・Mac構成",
+    "url": "https://ai.negi-lab.com/posts/glm-5-2-local-llm-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #エンジニア",
+    "tweet_text": "GLM-5.2がTerminal-Benchで80%突破。ついにオープンモデルがGPT-4超えの実行力を手に入れました。AIエージェントが自律的にコンソールを叩く時代、選ぶべきはVRAM 24GBのRTX 4090か、メモリ64GB以上のMac。中途半端なスペックは逆に高くつきます。買う前に見るべき基準をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-18-glm-5-2-local-llm-gpu-guide.jpg",
+    "created_at": "2026-06-18T07:50:59.354006+09:00",
+    "posted": false
   }
 ]
