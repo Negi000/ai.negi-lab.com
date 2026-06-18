@@ -1,68 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Cloudskill",
-      "url": "https://www.producthunt.com/products/cloudskill",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Govern the AI skills your team depends on </p> <p> <a href=\"https://www.producthunt.com/products/cloudskill?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1169000?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-11T19:41:27"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Terminal Mode by Even Realities",
-      "url": "https://www.producthunt.com/products/terminal-mode-by-even-realities",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Keep coding agents always in sight </p> <p> <a href=\"https://www.producthunt.com/products/terminal-mode-by-even-realities?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1168506?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-06-11T19:41:27"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I thought Chinese censorship didn't affect me. I was wrong.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u2tlum/i_thought_chinese_censorship_didnt_affect_me_i/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-06-11T08:54:27+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was debugging some code and LLM crashed out:</p> <p>``` The debug_log config defaults to &quot;debug.json&quot; and creates a FileHandler — which appends by default. That file is a log of<br /> everything that happened, never cleared. The June 4 errors in it are historical artifacts from before the fix. </p> <p>Conclusion: Both errors are pre-existing and already fixed. No action needed — the debug log just hasn't been truncated since.<br /> If </p> <p>Stream ",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-06-11T19:41:28"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Minimax M3 open weights release planned for Friday",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u2uje1/minimax_m3_open_weights_release_planned_for_friday/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-06-11T09:49:07+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u2uje1/minimax_m3_open_weights_release_planned_for_friday/\"> <img alt=\"Minimax M3 open weights release planned for Friday\" src=\"https://external-preview.redd.it/Fn0rPe6YXakeGSr17YVIPfOgxH96bMW4rUXeEiZ8k24.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b063d54d4970ac6aac2f10e3333e8948ed6bc0a\" title=\"Minimax M3 open weights release planned for Friday\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.co",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-06-11T19:41:28"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
       "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
@@ -1991,22 +1929,6 @@
       "collected_at": "2026-06-17T05:12:22"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Donate your coding sessions to an open CC-BY-4.0 dataset to help train open-weight and open source models",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u795pb/donate_your_coding_sessions_to_an_open_ccby40/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-16T09:58:59+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u795pb/donate_your_coding_sessions_to_an_open_ccby40/\"> <img alt=\"Donate your coding sessions to an open CC-BY-4.0 dataset to help train open-weight and open source models\" src=\"https://preview.redd.it/j2yb9wo4bm7h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87bfb890be9e6b070e386f0b6500c503fd79616a\" title=\"Donate your coding sessions to an open CC-BY-4.0 dataset to help train open-weight and open source models\" /> </a",
-      "extra": {},
-      "collected_at": "2026-06-17T17:34:23"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
       "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
@@ -2474,7 +2396,98 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-18T19:24:55"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "extra": {
+        "stars_today": "47 stars today"
+      },
+      "collected_at": "2026-06-18T21:25:47"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "LibreTranslate/LibreTranslate",
+      "url": "https://github.com/LibreTranslate/LibreTranslate",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+      "extra": {
+        "stars_today": "179 stars today"
+      },
+      "collected_at": "2026-06-18T21:25:47"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+      "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 18 Jun 2026 12:00:00 +0000",
+      "summary": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR).",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-18T21:25:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Agentic videos by D-ID",
+      "url": "https://www.producthunt.com/products/d-id",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Interactive videos that talk back </p> <p> <a href=\"https://www.producthunt.com/products/d-id?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1170423?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-18T21:25:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Adapt",
+      "url": "https://www.producthunt.com/products/adapt-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The company brain that gets work done </p> <p> <a href=\"https://www.producthunt.com/products/adapt-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1174117?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-18T21:25:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ploy.ai",
+      "url": "https://www.producthunt.com/products/ploy-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ploy turns your website into your company's growth engine. </p> <p> <a href=\"https://www.producthunt.com/products/ploy-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1173860?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-18T21:25:47"
     }
   ],
-  "updated_at": "2026-06-18T19:24:59.120976+09:00"
+  "updated_at": "2026-06-18T21:25:51.241995+09:00"
 }

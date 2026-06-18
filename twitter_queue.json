@@ -15205,5 +15205,19 @@
     "image_path": "/images/posts/2026-06-18-local-llm-ai-coding-gpu-mac-comparison.jpg",
     "created_at": "2026-06-18T19:27:15.215494+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-18-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLX入門 Apple SiliconでローカルLLMを爆速化する方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "MacBookを最強のAIマシンに変えるならMLX一択。Llama 3 8Bを4bit量子化で動かせば、メモリ16GBのAirでも35トークン/秒の爆速で返ってくる。llama.cppよりPython親和性が高く、Apple純正の最適化がエグい。共有メモリをフル活用する設計こそApple Siliconの真骨頂。ローカルLLMを実務で使うなら、まずこの環境を組むべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-18-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-06-18T21:28:02.380666+09:00",
+    "posted": false
   }
 ]
