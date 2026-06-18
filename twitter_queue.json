@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-06-18-mlx-apple-silicon-local-llm-tutorial.jpg",
     "created_at": "2026-06-18T21:28:02.380666+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-19-libretranslate-self-hosted-translation-guide",
+    "title": "LibreTranslate サーバー費用をゼロにする完全セルフホスト翻訳API",
+    "url": "https://ai.negi-lab.com/posts/libretranslate-self-hosted-translation-guide/",
+    "category": "TOOL",
+    "viral_tags": "#LibreTranslate #セルフホスト",
+    "tweet_text": "翻訳APIの課金に疲れたエンジニアはLibreTranslateを試すべき。Docker一発で、DeepL互換のセルフホストAPIが手に入る。精度はDeepLに劣るが、社内ログや大量文書のバッチ処理ならこれで十分。月間数千万文字回しても費用は電気代のみ。機密情報を外部に投げたくない現場の救世主。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-19-libretranslate-self-hosted-translation-guide.jpg",
+    "created_at": "2026-06-19T00:37:02.347826+09:00",
+    "posted": false
   }
 ]
