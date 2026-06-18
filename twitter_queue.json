@@ -15191,5 +15191,19 @@
     "image_path": "/images/posts/2026-06-18-claude-code-cursor-ai-coding-guide.jpg",
     "created_at": "2026-06-18T17:17:58.880618+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-18-local-llm-ai-coding-gpu-mac-comparison",
+    "title": "ローカルLLMとAIコーディング環境の選び方：後悔しないGPU・Mac比較ガイド",
+    "url": "https://ai.negi-lab.com/posts/local-llm-ai-coding-gpu-mac-comparison/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #AIコーディング",
+    "tweet_text": "AIコーディングを本気でやるならVRAM 16GBが最低ライン。RTX 4060 Ti 16GBなら6万円台でQwen 2.5やLlama 3が実用速度で動く。VRAM 8GBやMacのメモリ16GBで妥協すると最新モデルが動かず後悔する。まずは「自分のコード量×モデルサイズ」でハードを選ぶのが鉄則。今投資して開発効率を上げるのが一番コスパ良い。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-18-local-llm-ai-coding-gpu-mac-comparison.jpg",
+    "created_at": "2026-06-18T19:27:15.215494+09:00",
+    "posted": false
   }
 ]
