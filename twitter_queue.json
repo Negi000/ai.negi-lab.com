@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-06-19-glm-fable-local-llm-gpu-comparison-guide.jpg",
     "created_at": "2026-06-19T19:42:22.182083+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-19-mlx-apple-silicon-llm-tutorial-guide",
+    "title": "Apple Silicon MacでLLMを爆速動作させるMLX環境構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-llm-tutorial-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple Silicon搭載Macを最強のAIマシンに変えるMLX。RTX 4090を2枚挿す私でも、Macのユニファイドメモリを活かしたMLXの推論効率には驚きます。Llama-3クラスが4-bit量子化なら16GBメモリで爆速。API課金から解放され、ローカルでLLMを動かす実務的な手順をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-19-mlx-apple-silicon-llm-tutorial-guide.jpg",
+    "created_at": "2026-06-19T21:45:50.180911+09:00",
+    "posted": false
   }
 ]
