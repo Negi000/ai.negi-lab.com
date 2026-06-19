@@ -15205,5 +15205,19 @@
     "image_path": "/images/posts/2026-06-19-e2b-python-ai-agent-sandbox-tutorial.jpg",
     "created_at": "2026-06-19T17:38:28.915424+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-19-glm-fable-local-llm-gpu-comparison-guide",
+    "title": "GLM-fable登場か？ローカルLLM推奨GPU比較と失敗しないPC選び",
+    "url": "https://ai.negi-lab.com/posts/glm-fable-local-llm-gpu-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "GLM-fableが年内登場との噂。中国系LLMの進化速度を考えると、ローカル環境の「VRAM 24GB」はもはや必須条件。RTX 4090か、メモリ64GB以上のMac Studioか。中途半端なスペックで量子化に頼ると、実務で必要な知能が死ぬ。仕事で使うならハードウェアへの投資をケチるのが一番高くつく。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-19-glm-fable-local-llm-gpu-comparison-guide.jpg",
+    "created_at": "2026-06-19T19:42:22.182083+09:00",
+    "posted": false
   }
 ]
