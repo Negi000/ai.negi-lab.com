@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-06-20-local-llm-vision-debug-gpu-selection-guide.jpg",
     "created_at": "2026-06-20T02:03:24.665160+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-20-relay-ai-claude-code-local-llm-hardware-guide",
+    "title": "Claude CodeをローカルLLMで動かすrelay-ai活用術 | RTX・Mac選びと失敗しない環境構築",
+    "url": "https://ai.negi-lab.com/posts/relay-ai-claude-code-local-llm-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #ClaudeCode",
+    "tweet_text": "Claude CodeのAPI代が高い。そう感じるならrelay-aiでローカルLLMに接続するのが正解。\nOllama経由でQwen2.5 32Bを叩けば、通信費ゼロで爆速開発が可能になる。\n投資すべきはVRAM 16GB以上のRTXか、メモリ32GB以上のMac。\n中途半端なスペックは返答待ちで時間を溶かすだけ。\n自分の腕を上げるためのハード投資、今が最高の買い時です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-20-relay-ai-claude-code-local-llm-hardware-guide.jpg",
+    "created_at": "2026-06-20T03:54:50.842600+09:00",
+    "posted": false
   }
 ]
