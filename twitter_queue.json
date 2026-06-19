@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-06-20-local-llm-gpu-sensor-hardware-guide.jpg",
     "created_at": "2026-06-20T00:30:17.665878+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-20-local-llm-vision-debug-gpu-selection-guide",
+    "title": "ローカルLLMでコード自動修正！VRAM別おすすめGPUとMacの選び方比較",
+    "url": "https://ai.negi-lab.com/posts/local-llm-vision-debug-gpu-selection-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "ローカルLLMが画面を見てバグを直す時代。Redditで話題の「視覚フィードバックループ」を自前で回すなら、VRAM 16GBが最低ラインです。\n\n8GB以下のGPUだと画像読み込みで即死。今買うならRTX 4060 Ti 16GBか、背伸びしてRTX 4090が正解。Macならメモリ32GB以上が必須条件。後悔しないGPU選びをまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-20-local-llm-vision-debug-gpu-selection-guide.jpg",
+    "created_at": "2026-06-20T02:03:24.665160+09:00",
+    "posted": false
   }
 ]
