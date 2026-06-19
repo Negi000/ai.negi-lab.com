@@ -15191,5 +15191,19 @@
     "image_path": "/images/posts/2026-06-19-d-id-agentic-videos-review-and-api-guide.jpg",
     "created_at": "2026-06-19T14:07:46.986889+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-19-e2b-python-ai-agent-sandbox-tutorial",
+    "title": "E2BとPythonで安全なAIエージェント実行環境を作る方法",
+    "url": "https://ai.negi-lab.com/posts/e2b-python-ai-agent-sandbox-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントにコード実行を任せるなら、サンドボックス構築は必須。自前Dockerでゾンビコンテナを量産する前にE2Bを試すべき。Firecrackerベースの隔離環境が数秒で立ち上がり、matplotlibのグラフも自動で回収できる。Python 3.10以上とAPIキー1つで、安全な「AI専用実験室」が完成する。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-19-e2b-python-ai-agent-sandbox-tutorial.jpg",
+    "created_at": "2026-06-19T17:38:28.915424+09:00",
+    "posted": false
   }
 ]
