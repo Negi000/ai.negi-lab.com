@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-06-19-mlx-apple-silicon-llm-tutorial-guide.jpg",
     "created_at": "2026-06-19T21:45:50.180911+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-20-local-llm-gpu-sensor-hardware-guide",
+    "title": "ローカルLLMと外部センサーを連携させる！実務で使えるハードウェア構成とおすすめ比較",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-sensor-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4060Ti",
+    "tweet_text": "ローカルLLMを動かすならVRAM 16GBが最低ライン。Redditで話題の「センサー入力でLLMの挙動を変える」ような実装も、RTX 4060 Ti 16GBなら20万円以下の予算で安定して回せます。逆に8GB以下のGPUは今から買うと後悔する可能性大。実務で使うならバス幅も考慮して4070 Ti SUPER以上を選ぶのが正解です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-20-local-llm-gpu-sensor-hardware-guide.jpg",
+    "created_at": "2026-06-20T00:30:17.665878+09:00",
+    "posted": false
   }
 ]
