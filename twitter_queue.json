@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-06-20-releasedock-ai-support-changelog-review.jpg",
     "created_at": "2026-06-20T18:21:07.466453+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-20-google-timesfm-time-series-forecasting-review",
+    "title": "TimesFM 使い方と実力レビュー：Google製時系列基盤モデルはProphetやDeepARを過去にするか",
+    "url": "https://ai.negi-lab.com/posts/google-timesfm-time-series-forecasting-review/",
+    "category": "TOOL",
+    "viral_tags": "#時系列予測 #機械学習",
+    "tweet_text": "Googleの時系列基盤モデル「TimesFM」を検証。1000億超のデータで事前学習済み。RTX 4090環境だと100件の需要予測が0.8秒で完了。\n\nProphetを数日かけて調整するより、Zero-shotのTimesFMの方が精度が高いケースが多々あります。学習データ不足に悩む現場は、自作モデルを捨てる準備をすべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-20-google-timesfm-time-series-forecasting-review.jpg",
+    "created_at": "2026-06-20T20:19:04.094140+09:00",
+    "posted": false
   }
 ]
