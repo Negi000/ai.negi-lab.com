@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-06-20-google-timesfm-time-series-forecasting-review.jpg",
     "created_at": "2026-06-20T20:19:04.094140+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-20-netapp-intelligent-data-infrastructure-for-ai",
+    "title": "AIのボトルネックはモデルからデータ基盤へ：NetAppが提唱するインテリジェント・インフラの価値",
+    "url": "https://ai.negi-lab.com/posts/netapp-intelligent-data-infrastructure-for-ai/",
+    "category": "NEWS",
+    "viral_tags": "#AIインフラ #RAG",
+    "tweet_text": "AIのボトルネックはモデルの性能から「データ基盤」へ移行中。NetAppが提唱するインテリジェント・インフラが示す通り、RAGの精度はデータの鮮度とI/O速度で決まる。オンプレとクラウドに散らばったデータをどう統合するか。開発者はモデル選びより先に、データの「出口戦略」を設計すべき。0.1msの低遅延が実務でのレスポンスを分ける。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-20-netapp-intelligent-data-infrastructure-for-ai.jpg",
+    "created_at": "2026-06-20T23:14:05.441852+09:00",
+    "posted": false
   }
 ]
