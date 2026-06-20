@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-06-21-glm-5-2-local-llm-hardware-guide.jpg",
     "created_at": "2026-06-21T03:12:45.200115+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-21-inflect-nano-tts-local-ai-gpu-guide",
+    "title": "極小TTS Inflect-Nano登場！ローカルAI音声合成に最適なGPUとMacの選び方",
+    "url": "https://ai.negi-lab.com/posts/inflect-nano-tts-local-ai-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #音声合成",
+    "tweet_text": "パラメータ数4.63Mという驚異の軽さでTTSが登場。ローカルAIの課題だった「音声応答のラグ」がこれで消える。実務でLLMと組み合わせて使うなら、VRAM 8GBの罠は避けるべき。16GBあれば、推論速度と精度のバランスが取れた「最強のAIエージェント環境」が手に入ります。買う前にVRAM容量と電源だけは確認を。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-21-inflect-nano-tts-local-ai-gpu-guide.jpg",
+    "created_at": "2026-06-21T07:19:09.733381+09:00",
+    "posted": false
   }
 ]

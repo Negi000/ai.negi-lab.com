@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sat, 13 Jun 2026 20:42:31 +0000",
-      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-14T07:15:23"
-    },
-    {
       "source": "Product Hunt",
       "title": "Allergo",
       "url": "https://www.producthunt.com/products/allergo-allergy-translation-cards",
@@ -1600,19 +1585,6 @@
       "collected_at": "2026-06-18T21:25:47"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "GLM-5.2 is a win for local AI",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u8ai2a/glm52_is_a_win_for_local_ai/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-06-17T13:40:29+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I know GLM 5.2's massive 753B footprint means none of us are running it at home without an enterprise cluster, but having a true frontier-level, MIT-licensed coding agent out in the wild makes me optimistic. The distillation potential here is massive. Once the community starts fine-tuning smaller 8B and 70B architectures on GLM 5.2's reasoning and synthetic datasets, our daily driver local setups are going to see huge improvements over the next few months.</p> <",
-      "extra": {},
-      "collected_at": "2026-06-19T00:36:03"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "General Intuition in talks to raise $300M at around $2B valuation",
       "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
@@ -2502,7 +2474,37 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-21T03:12:09"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 20 Jun 2026 20:32:29 +0000",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-21T07:18:37"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Basedash Access Controls",
+      "url": "https://www.producthunt.com/products/basedash",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Control exactly who can access your company data </p> <p> <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1176207?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-21T07:18:38"
     }
   ],
-  "updated_at": "2026-06-21T03:12:13.396529+09:00"
+  "updated_at": "2026-06-21T07:18:41.591200+09:00"
 }
