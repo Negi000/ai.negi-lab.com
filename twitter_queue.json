@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-06-20-apple-silicon-mlx-local-llm-tutorial.jpg",
     "created_at": "2026-06-20T07:12:18.873216+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-20-llama-cpp-gguf-local-llm-tutorial",
+    "title": "llama.cpp 使い方 入門：GGUF量子化モデルをローカルPCで爆速動作させる全手順",
+    "url": "https://ai.negi-lab.com/posts/llama-cpp-gguf-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llama_cpp",
+    "tweet_text": "ローカルLLMを動かすならllama.cppの直接ビルドは避けて通れない。\nRTX 4090でLlama 3 8Bを動かすと秒間120トークンを超える。この爆速体験は一度味わうとクラウドには戻れない。\nVRAMが足りなくてもGGUFのQ4_K_M量子化を使えば精度を維持しつつメモリ消費を半分に抑えられる。\nエンジニアなら自分のPCを最強の推論サーバーに変えよう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-20-llama-cpp-gguf-local-llm-tutorial.jpg",
+    "created_at": "2026-06-20T16:06:33.359298+09:00",
+    "posted": false
   }
 ]
