@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-20-apple-silicon-mlx-local-llm-tutorial",
-    "title": "MLX入門：Apple SiliconでローカルLLMを爆速かつ実務レベルで動かす方法",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "Apple SiliconのGPUをフル活用するなら、MLX一択。M3 MaxならLlama 3 8Bが秒間100トークン超えで爆走します。ユニファイドメモリのおかげで、VRAM不足に悩まされるRTXユーザーを横目に巨大モデルをロードできるのがMacの特権。Pythonで完結するから実務への組み込みも一瞬。環境構築からストリーミング実装まで30分で終わらせる実践ガイドを書きました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-20-apple-silicon-mlx-local-llm-tutorial.jpg",
-    "created_at": "2026-06-20T07:12:18.873216+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-20-llama-cpp-gguf-local-llm-tutorial",
     "title": "llama.cpp 使い方 入門：GGUF量子化モデルをローカルPCで爆速動作させる全手順",
     "url": "https://ai.negi-lab.com/posts/llama-cpp-gguf-local-llm-tutorial/",
