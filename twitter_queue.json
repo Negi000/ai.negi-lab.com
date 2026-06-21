@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-06-21-local-llm-agent-pydantic-ai-tutorial.jpg",
     "created_at": "2026-06-21T17:07:38.466601+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-21-atomic-mail-agentic-review-python-ai-agent",
+    "title": "Atomic Mail Agentic メール対応を自律型AIエージェントに統合する",
+    "url": "https://ai.negi-lab.com/posts/atomic-mail-agentic-review-python-ai-agent/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントにメールの「読み・書き・判断」を完全委譲するAtomic Mail Agenticが面白い。\n従来のiPaaSのような固定ルールではなく、LLMがスレッドの文脈を読んで「返信すべきか」を自律判断。\n実装はPythonで完結し、MIME解析やOAuthの泥臭い部分を全部隠蔽してくれる。\n誤送信防止のガードレールさえ自前で組めれば、サポート自動化のコアになる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-21-atomic-mail-agentic-review-python-ai-agent.jpg",
+    "created_at": "2026-06-21T18:54:48.217862+09:00",
+    "posted": false
   }
 ]
