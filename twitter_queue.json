@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-06-22-rtx-5090-vs-4090-local-llm-guide.jpg",
     "created_at": "2026-06-22T03:20:59.173631+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-22-bytedance-deer-flow-hardware-comparison-guide",
+    "title": "deer-flowおすすめ比較と選び方｜自律型AIエージェントを動かす最強ハードウェア構成",
+    "url": "https://ai.negi-lab.com/posts/bytedance-deer-flow-hardware-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #deerflow",
+    "tweet_text": "ByteDanceの自律型Agent「deer-flow」を実務で使うなら、VRAM 16GBが最低ライン。数時間のタスクを自律遂行するタイプは、API代が跳ね上がるからローカルLLMとのハイブリッド構成が必須になる。RTX 4060 Ti 16GBなら10万円以下でこの環境が作れる。メモリ不足でエージェントが止まる絶望を避けるために、買う前にこのスペック表を見てほしい。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-22-bytedance-deer-flow-hardware-comparison-guide.jpg",
+    "created_at": "2026-06-22T07:22:03.630297+09:00",
+    "posted": false
   }
 ]
