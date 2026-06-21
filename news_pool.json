@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Making Claude a Chemist",
-      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 14 Jun 2026 02:55:36 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-14T23:12:42"
-    },
-    {
-      "source": "Google News",
-      "title": "BBVA puts AI at the core of banking with OpenAI - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YN1lyWHpkWnA3dGo1WEpDdDJ0T2xhVEdkcWpTeEdPblBMZFJqOWdrblhZRExOV1dLVEV5OU1acFdCNm11aFZRa2RTVXc?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YN1lyWHpkWnA3dGo1WEpDdDJ0T2xhVEdkcWpTeEdPblBMZFJqOWdrblhZRExOV1dLVEV5OU1acFdCNm11aFZRa2RTVXc?oc=5\" target=\"_blank\">BBVA puts AI at the core of banking with OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OpenAI</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-14T23:12:51"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
       "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
@@ -2600,7 +2572,88 @@
         "stars_today": "164 stars today"
       },
       "collected_at": "2026-06-21T20:45:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Plansera AI",
+      "url": "https://www.producthunt.com/products/plansera-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> E-2 visa business plans, drafted by an AI </p> <p> <a href=\"https://www.producthunt.com/products/plansera-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1175760?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-21T23:20:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Backgrind",
+      "url": "https://www.producthunt.com/products/backgrind",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Run your AI agents over any app, even games. </p> <p> <a href=\"https://www.producthunt.com/products/backgrind?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1173525?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-06-21T23:20:56"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Vercel CEO: \"Almost shocked\" by how good GLM-5.2 is at coding",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubk57k/vercel_ceo_almost_shocked_by_how_good_glm52_is_at/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-06-21T07:55:27+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ubk57k/vercel_ceo_almost_shocked_by_how_good_glm52_is_at/\"> <img alt=\"Vercel CEO: &quot;Almost shocked&quot; by how good GLM-5.2 is at coding\" src=\"https://preview.redd.it/4plnpb7qdl8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9c0789ef2f3a2a7b94e06ca3da190e834a33d144\" title=\"Vercel CEO: &quot;Almost shocked&quot; by how good GLM-5.2 is at coding\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Guillermo Rauch (V",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-06-21T23:21:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen is never going to open source Qwen 3.7, aren't they?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubjnh5/qwen_is_never_going_to_open_source_qwen_37_arent/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-06-21T07:25:31+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Well, this was predictable. After Qwen fired Junyang Lin, the next models are no longer open source.</p> <p>Ignoring the small models for a minute, they’ve fully locked down all the big models. No Deepseek/GLM competitor.</p> <p>And all the rumors on chinese weibo now say that the small model Qwen team is gone, and that Qwen 3.6 (and maybe 3.7) was the last model Junyang Lin worked on. There's not going to be any open source small models from Qwen anymore.</p> <",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-06-21T23:21:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gemma 4 QAT seems to respond significantly better to KV cache quantization",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubl0df/gemma_4_qat_seems_to_respond_significantly_better/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-21T08:48:13+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ubl0df/gemma_4_qat_seems_to_respond_significantly_better/\"> <img alt=\"Gemma 4 QAT seems to respond significantly better to KV cache quantization\" src=\"https://preview.redd.it/wxvhm0r1ml8h1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=1f51ba7fcea8b5ff2db381777ccc0a5196f80af4\" title=\"Gemma 4 QAT seems to respond significantly better to KV cache quantization\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Results from ",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-06-21T23:21:00"
     }
   ],
-  "updated_at": "2026-06-21T20:45:50.430484+09:00"
+  "updated_at": "2026-06-21T23:21:00.990316+09:00"
 }
