@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Memoriq",
-      "url": "https://www.producthunt.com/products/memoriq",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your private AI memory for ChatGPT, Claude, Gemini and Grok </p> <p> <a href=\"https://www.producthunt.com/products/memoriq?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1170951?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-14T20:30:36"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Making Claude a Chemist",
       "url": "https://www.anthropic.com/research/making-claude-a-chemist",
@@ -2492,22 +2477,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Atomic Mail Agentic",
-      "url": "https://www.producthunt.com/products/atomic-mail-agentic",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Let your agents read, send, and react to email autonomously </p> <p> <a href=\"https://www.producthunt.com/products/atomic-mail-agentic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1175529?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-06-21T17:06:58"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Notchkin",
       "url": "https://www.producthunt.com/products/notchkin",
       "primary_category": "TOOL",
@@ -2585,7 +2554,53 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-21T18:54:16"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "",
+      "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "extra": {
+        "stars_today": "519 stars today"
+      },
+      "collected_at": "2026-06-21T20:45:46"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "extra": {
+        "stars_today": "415 stars today"
+      },
+      "collected_at": "2026-06-21T20:45:46"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "mikumifa/biliTickerBuy",
+      "url": "https://github.com/mikumifa/biliTickerBuy",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "b站会员购购票辅助工具",
+      "extra": {
+        "stars_today": "164 stars today"
+      },
+      "collected_at": "2026-06-21T20:45:46"
     }
   ],
-  "updated_at": "2026-06-21T18:54:19.885858+09:00"
+  "updated_at": "2026-06-21T20:45:50.430484+09:00"
 }
