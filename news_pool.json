@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sun, 14 Jun 2026 15:37:31 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-15T03:13:02"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 14 Jun 2026 16:38:09 +0000",
-      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-06-15T03:13:11"
-    },
-    {
       "source": "Google News",
       "title": "乗るしかない、このAIというビッグウェーブに！ AI×登山、そこに潜む落とし穴の悲劇！ - 山と溪谷オンライン",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vUXlIemdJeTM3Z3BqeXY2VFZ2TlJLQ1lTVHAyMW9UN01rZF9fQXo1QlpxWW5iRWtCeE5UVnRNREdlRkdCaGFlNFM3Q2ZvQWJQa25xbUhIU1pnSEhvN1pHOUR1cnlKWGdn?oc=5",
@@ -2691,7 +2663,62 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-22T01:17:02"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "The 100k whys of AI",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 21 Jun 2026 05:45:21 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-22T03:19:56"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Don’t use AI to write things that you present as your own work",
+      "url": "https://www.satisfice.com/blog/archives/488148",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 21 Jun 2026 04:50:46 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-22T03:19:56"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Building reliable agentic AI systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Sun, 21 Jun 2026 04:28:39 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-22T03:19:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cloudback MCP Server",
+      "url": "https://www.producthunt.com/products/cloudback",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Manage your backups from Claude, Cursor, and VS Code </p> <p> <a href=\"https://www.producthunt.com/products/cloudback?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1176945?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-22T03:20:04"
     }
   ],
-  "updated_at": "2026-06-22T01:17:06.826859+09:00"
+  "updated_at": "2026-06-22T03:20:07.665082+09:00"
 }
