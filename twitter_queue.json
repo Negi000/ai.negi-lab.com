@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-20-llama-cpp-gguf-local-llm-tutorial",
-    "title": "llama.cpp 使い方 入門：GGUF量子化モデルをローカルPCで爆速動作させる全手順",
-    "url": "https://ai.negi-lab.com/posts/llama-cpp-gguf-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llama_cpp",
-    "tweet_text": "ローカルLLMを動かすならllama.cppの直接ビルドは避けて通れない。\nRTX 4090でLlama 3 8Bを動かすと秒間120トークンを超える。この爆速体験は一度味わうとクラウドには戻れない。\nVRAMが足りなくてもGGUFのQ4_K_M量子化を使えば精度を維持しつつメモリ消費を半分に抑えられる。\nエンジニアなら自分のPCを最強の推論サーバーに変えよう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-20-llama-cpp-gguf-local-llm-tutorial.jpg",
-    "created_at": "2026-06-20T16:06:33.359298+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-20-releasedock-ai-support-changelog-review",
-    "title": "ReleaseDock レビュー AIサポートと更新履歴を1箇所で完結させる方法",
-    "url": "https://ai.negi-lab.com/posts/releasedock-ai-support-changelog-review/",
-    "category": "TOOL",
-    "viral_tags": "#個人開発 #SaaS",
-    "tweet_text": "SaaS開発で一番面倒な「サポートドキュメント更新」をAIで自動化するReleaseDockが合理的。\nチェンジログを書くだけでAIエージェントが学習を完了し、情報の食い違いを物理的に防ぐ設計。\n月$29〜でIntercom並みの体験が手に入るのは強い。ドキュメント保守に疲弊している少人数チームは、まずCI/CDにこれを組み込むべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-20-releasedock-ai-support-changelog-review.jpg",
-    "created_at": "2026-06-20T18:21:07.466453+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-20-google-timesfm-time-series-forecasting-review",
     "title": "TimesFM 使い方と実力レビュー：Google製時系列基盤モデルはProphetやDeepARを過去にするか",
     "url": "https://ai.negi-lab.com/posts/google-timesfm-time-series-forecasting-review/",
