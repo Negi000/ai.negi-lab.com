@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-21-pumadb-ai-agent-memory-layer-review",
-    "title": "pumaDB 使い方：AIエージェントの「記憶」を数行で実装する",
-    "url": "https://ai.negi-lab.com/posts/pumadb-ai-agent-memory-layer-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #個人開発",
-    "tweet_text": "AIエージェントの「記憶」を実装する際、ベクトルDBの構築で消耗してませんか？\npumaDBを試した結果、APIを数行叩くだけでステート管理が完結。インデックス設計も埋め込みモデルの選定も不要。\nPineconeほど重厚でなくていい、でもLangChainのメモリより永続性が欲しい。そんな個人開発のツボを突いた構成が最高です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-21-pumadb-ai-agent-memory-layer-review.jpg",
-    "created_at": "2026-06-21T14:03:38.058992+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-21-local-llm-agent-pydantic-ai-tutorial",
     "title": "OllamaとPydanticAIで自律型ローカルエージェントを構築する方法",
     "url": "https://ai.negi-lab.com/posts/local-llm-agent-pydantic-ai-tutorial/",
