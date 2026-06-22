@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-06-22-md-html-reader-practical-review-ai-workflow.jpg",
     "created_at": "2026-06-22T18:18:45.230008+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-22-ollama-open-webui-local-llm-guide",
+    "title": "OllamaとOpen WebUIで自分専用のChatGPTを構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLM環境を構築するならOllamaとOpen WebUIの組み合わせが最強。RTX 3060 12GB一枚あれば、ChatGPTと同等の操作感をオフラインで実現できる。VRAM容量が正義なのは事実だけど、設定次第で4bit量子化モデルが驚くほど速く動く。API課金から解放される自由はデカい。RAGもコマンド一つ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-22-ollama-open-webui-local-llm-guide.jpg",
+    "created_at": "2026-06-22T21:11:34.793261+09:00",
+    "posted": false
   }
 ]

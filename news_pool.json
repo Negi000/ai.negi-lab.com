@@ -1,111 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "open-notebook hit 30k stars - a self-hosted, open source Notebook LM alternative. Running it with Ollama?",
-      "url": "https://www.reddit.com/r/ollama/comments/1u5y3hq/opennotebook_hit_30k_stars_a_selfhosted_open/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-06-14T22:00:52+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Been looking at this project that's been trending - open-notebook by lfnovo. It's a self-hosted alternative to Google's Notebook LM with more flexibility.</p> <p>Key features for the Ollama crowd: - Self-hosted, your data stays local - Supports 18+ providers including Ollama and LM Studio - Multi-modal content: PDFs, videos, audio, web pages - Full-text and vector search across all content - Podcast generation (1-4 speakers with custom profiles vs Notebook LM's ",
-      "extra": {},
-      "collected_at": "2026-06-15T18:32:02"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Trying Claude Code with Ollama — 5–10 Minute Responses and JSON Output Issues",
-      "url": "https://www.reddit.com/r/ollama/comments/1u6arpo/trying_claude_code_with_ollama_510_minute/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-06-15T08:36:17+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I have been looking for a free vibe coding setup. I heard Claude Code was one of the best so I tried setting it up locally with Ollama.</p> <p>At first I used <code>rafw007/qwen35-claude-coder:4b</code>. It technically worked, but even a simple &quot;hi&quot; took around 10 minutes to get a response.</p> <p>After that I tried:</p> <ul> <li><code>qwen2.5-coder:1.5b</code></li> <li><code>qwen2.5-coder</code></li> <li><code>llama3.1:8b</code></li> </ul> <p>So f",
-      "extra": {},
-      "collected_at": "2026-06-15T18:32:02"
-    },
-    {
-      "source": "r/ollama",
-      "title": "I don't trust Ollama Cloud; is it possible that it's calling other APIs?",
-      "url": "https://www.reddit.com/r/ollama/comments/1u6b5o9/i_dont_trust_ollama_cloud_is_it_possible_that_its/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-06-15T09:00:16+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm using GLM 5 cloud, it's great. I think it's brilliant, and it's cheap and fast on Ollama Cloud.</p> <p>I think Ollama Cloud uses its own servers and runs the model on them, but I have my doubts.</p> <p>Last week, if I asked GLM, it said it was GLM. Four days ago, it answered the question &quot;What model are you using?&quot; saying it was Antropic using SONET. <strong>Today, it answers that it's GPT.4o from OpenAI.</strong></p> <p><strong>Is it possible that",
-      "extra": {},
-      "collected_at": "2026-06-15T18:32:02"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The AI layoff wave is becoming a powder keg",
-      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 15 Jun 2026 07:25:41 +0000",
-      "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-15T18:32:03"
-    },
-    {
-      "source": "Google News",
-      "title": "Appleが「Siri AI」をEUの規則のせいでヨーロッパにリリースできないと主張するも欧州委員会は「AppleがEU域内で新製品や新サービスを導入することを禁じる条項は一切ない」と反論 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94YTRwcHV3NFJYY1A1dnVucDM5Y2l0bHJkOXZvMklxaEF3eFVVXzdQazk1SjUyVVRyQUVoRzRxOThNSkJma1BwVURmeU9Dd0t6NE9XUlZRNldyZ2M?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Mon, 15 Jun 2026 05:26:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE94YTRwcHV3NFJYY1A1dnVucDM5Y2l0bHJkOXZvMklxaEF3eFVVXzdQazk1SjUyVVRyQUVoRzRxOThNSkJma1BwVURmeU9Dd0t6NE9XUlZRNldyZ2M?oc=5\" target=\"_blank\">Appleが「Siri AI」をEUの規則のせいでヨーロッパにリリースできないと主張するも欧州委員会は「AppleがEU域内で新製品や新サービスを導入することを禁じる条項は一切ない」と反論</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-06-15T18:32:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AgentBrush",
-      "url": "https://www.producthunt.com/products/agentbrush",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your coding agent's missing tool: image generation </p> <p> <a href=\"https://www.producthunt.com/products/agentbrush?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1172013?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-06-15T18:32:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Ultramemory",
-      "url": "https://www.producthunt.com/products/ultramemory-remembers-everything",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Private AI memory for your Mac with no cloud or account </p> <p> <a href=\"https://www.producthunt.com/products/ultramemory-remembers-everything?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1169667?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-15T18:32:04"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Why Is Claude Turning into an a**Hole?",
       "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
@@ -2687,22 +2582,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "MD+HTML Reader",
-      "url": "https://www.producthunt.com/products/md-html-reader",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> Review AI-generated Markdown and HTML in a focused workspace </p> <p> <a href=\"https://www.producthunt.com/products/md-html-reader?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1177821?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-06-22T18:18:13"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Selector Forge",
       "url": "https://www.producthunt.com/products/selector-forge",
       "primary_category": "TOOL",
@@ -2715,7 +2594,154 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-22T18:18:13"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Claude: Elevated Error Rates for Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6",
+      "url": "https://status.claude.com/incidents/lv35v0q9nsj2",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 22 Jun 2026 00:38:50 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-22T21:09:51"
+    },
+    {
+      "source": "r/ollama",
+      "title": "OllaMan now supports Hugging Face GGUF Discover",
+      "url": "https://www.reddit.com/r/ollama/comments/1ucgmmm/ollaman_now_supports_hugging_face_gguf_discover/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-06-22T10:15:13+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1ucgmmm/ollaman_now_supports_hugging_face_gguf_discover/\"> <img alt=\"OllaMan now supports Hugging Face GGUF Discover\" src=\"https://external-preview.redd.it/amJvNWh6cWY3dDhoMZCcU5nuHGf8LGYuOae-MbiIaQGQ6BfUlJ2f_waTNZfk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ebc17aa67a31a1e68b67d3e0b3beb6c9ae00d80e\" title=\"OllaMan now supports Hugging Face GGUF Discover\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>You can now brows",
+      "extra": {},
+      "collected_at": "2026-06-22T21:10:12"
+    },
+    {
+      "source": "r/ollama",
+      "title": "uncensored models: do they give you wrong answers on purpose, lacking guardrails and safety locks?",
+      "url": "https://www.reddit.com/r/ollama/comments/1uc6rh1/uncensored_models_do_they_give_you_wrong_answers/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-06-22T01:14:23+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It has been quite hard to figure this out as the info are mixed at best. I tried to use regular models and they often give me cold shoulders saying &quot;I am sorry Dave, I can't do that&quot;. And I am not talking about questionable subjects; even for things like investigating diseases and making jokes that are not SFW.</p> <p>Tried with uncensored models and I get nothing of these issues, although someone pointed out that removing the safety locks on these mod",
+      "extra": {},
+      "collected_at": "2026-06-22T21:10:12"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Best architecture for reliable invoice data extraction with local AI/OCR?",
+      "url": "https://www.reddit.com/r/ollama/comments/1ucioop/best_architecture_for_reliable_invoice_data/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-22T12:03:19+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I’m building a local invoice processing application and I’m looking for advice on the best architecture for high-accuracy invoice extraction.</p> <p>The app should process PDF invoices and scanned documents, extract data into JSON, validate it, and later integrate with an ERP system. I’m dealing with many invoice layouts, old PDFs/scans, multi-page invoices, and sometimes separate files that are actually pages of the same invoice.</p> <p>My c",
+      "extra": {},
+      "collected_at": "2026-06-22T21:10:12"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "NVIDIA/skills",
+      "url": "https://github.com/NVIDIA/skills",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "AI agent skills published by NVIDIA",
+      "extra": {
+        "stars_today": "199 stars today"
+      },
+      "collected_at": "2026-06-22T21:10:14"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "An AI Hedge Fund Team",
+      "extra": {
+        "stars_today": "44 stars today"
+      },
+      "collected_at": "2026-06-22T21:10:14"
+    },
+    {
+      "source": "Google News",
+      "title": "人工知能（AI）とは？ - Databricks",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKNVVZejV6dlpuSVcyQWkxZC1ES3hPUTRYWWlNZTlrLWpkcGNkaHhWY2RLUFR6clhhQko3SHhhQktvNGk3Rm1fRVRxUTgxS0N6c05adnRCOWVEeVplbnNMV3oySXh5OWV6andyRWhuMVFiN1Ju?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 22 Jun 2026 07:10:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBKNVVZejV6dlpuSVcyQWkxZC1ES3hPUTRYWWlNZTlrLWpkcGNkaHhWY2RLUFR6clhhQko3SHhhQktvNGk3Rm1fRVRxUTgxS0N6c05adnRCOWVEeVplbnNMV3oySXh5OWV6andyRWhuMVFiN1Ju?oc=5\" target=\"_blank\">人工知能（AI）とは？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Databricks</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-22T21:10:14"
+    },
+    {
+      "source": "Google News",
+      "title": "アメリカ政府がAnthropicの「Claude Mythos」の規制命令を下すもAnthropicが選定した「Project Glasswing」のメンバーにはプレビュー版が提供されたままであるという報道 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iZXZnSW5JZWtDZ1E5Tk85NGw5WXNYYzQwdjV0QzZiRDVRZXFaaWZWYTRaMFhVR0NHTkR2aUw3NTRmaHFBTjF6d1lDN1JSaWNCbDZ4NW1QWWJPeC1IV2dUR1dDV2pBdw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "Mon, 22 Jun 2026 11:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iZXZnSW5JZWtDZ1E5Tk85NGw5WXNYYzQwdjV0QzZiRDVRZXFaaWZWYTRaMFhVR0NHTkR2aUw3NTRmaHFBTjF6d1lDN1JSaWNCbDZ4NW1QWWJPeC1IV2dUR1dDV2pBdw?oc=5\" target=\"_blank\">アメリカ政府がAnthropicの「Claude Mythos」の規制命令を下すもAnthropicが選定した「Project Glasswing」のメンバーにはプレビュー版が提供されたままであるという報道</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": 1
+      },
+      "collected_at": "2026-06-22T21:10:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "readywhen",
+      "url": "https://www.producthunt.com/products/readywhen",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your 24/7 AI Chief of Staff for commitments and follow-ups </p> <p> <a href=\"https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1169990?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-22T21:10:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Photoroom API",
+      "url": "https://www.producthunt.com/products/bg-app",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Transform product images at scale with one image editing API </p> <p> <a href=\"https://www.producthunt.com/products/bg-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1176136?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-22T21:10:15"
     }
   ],
-  "updated_at": "2026-06-22T18:18:16.928657+09:00"
+  "updated_at": "2026-06-22T21:10:18.553605+09:00"
 }
