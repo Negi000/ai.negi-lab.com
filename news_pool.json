@@ -1,48 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "India, UAE partner on AI sovereignty to bypass Google, Microsoft",
-      "url": "https://restofworld.org/2026/india-uae-g42-cerebras-ai-sovereignty/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 15 Jun 2026 13:37:54 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-16T03:52:08"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Can Europe train a frontier AI model on the compute it owns?",
-      "url": "https://github.com/sammysltd/euromesh",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 15 Jun 2026 13:31:09 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-16T03:52:08"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Mon, 15 Jun 2026 18:30:58 +0000",
-      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-16T03:52:16"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude Corps",
       "url": "https://www.anthropic.com/news/claude-corps",
@@ -2331,19 +2289,6 @@
     },
     {
       "source": "HN AI Hot",
-      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Sun, 21 Jun 2026 22:55:23 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-22T14:11:16"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Show HN: Recall – Local project memory for Claude Code",
       "url": "https://github.com/raiyanyahya/recall",
       "primary_category": "NEWS",
@@ -2727,7 +2672,36 @@
         "revenue_score": 5
       },
       "collected_at": "2026-06-23T03:34:01"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
+      "url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sun, 21 Jun 2026 22:46:43 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-23T05:08:22"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Mon, 22 Jun 2026 20:08:15 +0000",
+      "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-23T05:08:24"
     }
   ],
-  "updated_at": "2026-06-23T03:34:01.440448+09:00"
+  "updated_at": "2026-06-23T05:08:29.067389+09:00"
 }
