@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-06-22-gemma-2-31b-qat-kv-cache-quantization-guide.jpg",
     "created_at": "2026-06-22T23:40:34.138227+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-23-nvidia-skills-ai-agent-gpu-buying-guide",
+    "title": "NVIDIA skillsでAIエージェントを自作するなら選ぶべきGPUと開発環境の選び方",
+    "url": "https://ai.negi-lab.com/posts/nvidia-skills-ai-agent-gpu-buying-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #AIエージェント",
+    "tweet_text": "AIエージェントの「手足」を標準化するNVIDIA/skillsが登場。自律型AIをローカルで動かすならVRAM 16GBが最低ライン。RTX 4060 Ti 16GBなら実質5万円台から狙えるけど、70Bモデルの推論まで視野に入れるならRTX 4090一択。エージェント開発は「試行錯誤の速さ」が命。中途半端なスペックで時間を溶かす前に、VRAM容量だけは妥協せず選ぶのが正解。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-23-nvidia-skills-ai-agent-gpu-buying-guide.jpg",
+    "created_at": "2026-06-23T02:06:28.788988+09:00",
+    "posted": false
   }
 ]
