@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-21-claude-code-cursor-hybrid-workflow-guide",
-    "title": "Claude CodeとCursorを併用して爆速でAPI連携ツールを作る方法",
-    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-workflow-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ClaudeCode #Cursor",
-    "tweet_text": "Claude CodeとCursorを併用する「ハイブリッド開発」が現状の最適解。自律してテスト・修正まで完結させるCLIのClaude Codeと、全体を俯瞰して微調整するCursor。この使い分けでAPI連携ツールの開発が1/10の時間で終わる。API Tier 2への課金は必須だが、エンジニアの時間を買う投資としてこれ以上安いものはない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-21-claude-code-cursor-hybrid-workflow-guide.jpg",
-    "created_at": "2026-06-21T20:46:15.851423+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-21-ai-chatbots-not-your-friends-signal-privacy-warning",
-    "title": "AIチャットボットを「友人」と見なす危うさ。Signal社長が警告する擬人化の罠とデータの所在",
-    "url": "https://ai.negi-lab.com/posts/ai-chatbots-not-your-friends-signal-privacy-warning/",
-    "category": "NEWS",
-    "viral_tags": "#ローカルLLM #プライバシー",
-    "tweet_text": "AIチャットボットは「友人」ではなく「監視技術」の延長である。Signal社長の警告は、GPT-4oなどの擬人化が進む今こそ重く響く。親密さを演出するUXはデータの警戒心を解くための罠に過ぎない。開発者はクラウド依存の危うさを認識し、ローカルLLMでのデータ主権確保を急ぐべき。RTX 4090 2枚挿しで検証する私の結論も同じです。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-21-ai-chatbots-not-your-friends-signal-privacy-warning.jpg",
-    "created_at": "2026-06-21T23:21:35.685673+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-22-rtx-5090-vs-4090-local-llm-guide",
-    "title": "ローカルLLMにRTX 5090は必要か？4090比較と失敗しない選び方ガイド",
-    "url": "https://ai.negi-lab.com/posts/rtx-5090-vs-4090-local-llm-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX5090",
-    "tweet_text": "ローカルLLM環境を組むならRTX 5090のVRAM 32GBは必須級の進化。4090の24GBでは絶妙に足りなかった「Llama 3 70Bの高精度モデル」が1枚で完結します。ただし600W級の電力と40万円近い価格は覚悟が必要。推論特化ならMac Studio、学習・速度重視なら5090。この二択をどう選ぶかが2025年の開発環境の分かれ目になります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-22-rtx-5090-vs-4090-local-llm-guide.jpg",
-    "created_at": "2026-06-22T03:20:59.173631+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-22-bytedance-deer-flow-hardware-comparison-guide",
     "title": "deer-flowおすすめ比較と選び方｜自律型AIエージェントを動かす最強ハードウェア構成",
     "url": "https://ai.negi-lab.com/posts/bytedance-deer-flow-hardware-comparison-guide/",
