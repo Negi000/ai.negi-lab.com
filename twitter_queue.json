@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-23-nvidia-skills-ai-agent-gpu-buying-guide",
-    "title": "NVIDIA skillsでAIエージェントを自作するなら選ぶべきGPUと開発環境の選び方",
-    "url": "https://ai.negi-lab.com/posts/nvidia-skills-ai-agent-gpu-buying-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #AIエージェント",
-    "tweet_text": "AIエージェントの「手足」を標準化するNVIDIA/skillsが登場。自律型AIをローカルで動かすならVRAM 16GBが最低ライン。RTX 4060 Ti 16GBなら実質5万円台から狙えるけど、70Bモデルの推論まで視野に入れるならRTX 4090一択。エージェント開発は「試行錯誤の速さ」が命。中途半端なスペックで時間を溶かす前に、VRAM容量だけは妥協せず選ぶのが正解。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-23-nvidia-skills-ai-agent-gpu-buying-guide.jpg",
-    "created_at": "2026-06-23T02:06:28.788988+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-23-qwen-local-llm-gpu-mac-comparison-guide",
-    "title": "Qwen軽量モデルで業務効率化！ローカルLLM開発に最適なGPU・Macの選び方と比較",
-    "url": "https://ai.negi-lab.com/posts/qwen-local-llm-gpu-mac-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4060Ti",
-    "tweet_text": "Qwen2-0.5Bのような超軽量LLMを特定タスクで学習させると、GPT-4o並の精度を爆速で叩き出せる。実務でこの環境を作るならVRAM 16GBのRTX 4060 Tiか、メモリ32GB以上のMacが最低ライン。8GBモデルで試行錯誤して時間を溶かすのはもう終わりにしましょう。投資すべきはチップの世代より、まずメモリ容量です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-23-qwen-local-llm-gpu-mac-comparison-guide.jpg",
-    "created_at": "2026-06-23T03:34:25.039082+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-23-cursor-claude-code-integration-guide",
     "title": "CursorとClaude Codeの併用でAI開発を極める！最新環境構築ガイド",
     "url": "https://ai.negi-lab.com/posts/cursor-claude-code-integration-guide/",
