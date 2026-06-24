@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-06-24-ai-agent-safe-sandbox-e2b-guide.jpg",
     "created_at": "2026-06-24T07:20:52.557452+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-24-hush-noise-suppression-ai-voice-agent-review",
+    "title": "Hush AIエージェントの音声認識率を劇的に変えるオープンソース・ノイズ抑制の使い方",
+    "url": "https://ai.negi-lab.com/posts/hush-noise-suppression-ai-voice-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#音声AI #個人開発",
+    "tweet_text": "音声AIエージェントのSTT（音声認識）精度、現場の騒音で諦めてませんか？OSSのノイズ抑制ツール「Hush」を検証。10msのフレームをCPUで3ms、RTX 4090なら1ms未満で処理。人間に心地よい音ではなく、AIが理解しやすい波形に特化してるのが実務的。Whisperの誤認識に悩むなら導入必須。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-24-hush-noise-suppression-ai-voice-agent-review.jpg",
+    "created_at": "2026-06-24T13:14:01.936028+09:00",
+    "posted": false
   }
 ]
