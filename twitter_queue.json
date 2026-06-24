@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-06-25-hiring-agent-ai-recruitment-gpu-comparison.jpg",
     "created_at": "2026-06-25T03:54:01.105490+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-25-local-llm-gpu-mac-comparison-guide",
+    "title": "ローカルLLM環境の選び方と比較：Llama 3.1 405B時代に買うべきGPUとMac",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "ローカルLLMで「仕事ができる環境」を作るなら、VRAM 8GBはもう卒業。Llama 3.1 70Bを視野に入れるならRTX 4070 Ti Super 16GBが最低ラインです。巨大モデルを安価に回すならMacの統一メモリ128GB以上が実は最高コスパ。今買うべきハードウェアの判断基準を、実務者の視点で徹底比較しました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-25-local-llm-gpu-mac-comparison-guide.jpg",
+    "created_at": "2026-06-25T07:25:54.403548+09:00",
+    "posted": false
   }
 ]

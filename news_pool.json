@@ -2400,21 +2400,6 @@
       "collected_at": "2026-06-24T18:35:23"
     },
     {
-      "source": "GitHub Trending",
-      "title": "interviewstreet/hiring-agent",
-      "url": "https://github.com/interviewstreet/hiring-agent",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "AI agent to evaluate and score resumes.",
-      "extra": {
-        "stars_today": "152 stars today"
-      },
-      "collected_at": "2026-06-24T20:43:46"
-    },
-    {
       "source": "Product Hunt",
       "title": "Ruby",
       "url": "https://www.producthunt.com/products/ruby-7",
@@ -2581,7 +2566,96 @@
         "revenue_score": 3
       },
       "collected_at": "2026-06-25T03:52:11"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 24 Jun 2026 17:21:34 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-25T07:24:58"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 24 Jun 2026 21:56:41 +0000",
+      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-25T07:24:59"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "FUTO Swipe",
+      "url": "https://www.producthunt.com/products/futo-swipe",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Open models for on-device swipe typing </p> <p> <a href=\"https://www.producthunt.com/products/futo-swipe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1179599?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-25T07:25:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The Swiss Federal Supreme Court is evaluating Heretic",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ueeund/the_swiss_federal_supreme_court_is_evaluating/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-06-24T14:19:33+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h2>“Oh no, are they banning abliterated models now?!?”</h2> <p>If that was your first thought when you read the title I can’t blame you. But that’s actually not what’s happening in this case.</p> <p>Instead, the Swiss Federal Supreme Court is evaluating <a href=\"https://heretic-project.org\">Heretic</a> <strong>for their own use!</strong></p> <p>As it turns out, the Court has been suffering from the same problem as many people on this sub: LLMs refusing perfectly l",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-06-25T07:25:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Unlimited-OCR is now on ModelScope! A 3.3B multilingual OCR model for one-shot parsing across single images, multi-page documents, and PDFs. License: MIT",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ue51uk/unlimitedocr_is_now_on_modelscope_a_33b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-24T05:53:49+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ue51uk/unlimitedocr_is_now_on_modelscope_a_33b/\"> <img alt=\"Unlimited-OCR is now on ModelScope! A 3.3B multilingual OCR model for one-shot parsing across single images, multi-page documents, and PDFs. License: MIT\" src=\"https://external-preview.redd.it/eDVseHc2dGY2NjloMRjuwBG_We25XN8jEw_afS8_MTEG560MD4vWFWe_JI83.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c22af80bc2cbb91118b0a503ade21a10ab911fc\" title=\"Unlimited-OCR is",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-06-25T07:25:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Gefen is a drop-in replacement for the AdamW optimizer, claims 8x memory reduction in training (GitHub available)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uep96s/gefen_is_a_dropin_replacement_for_the_adamw/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-06-24T20:39:04+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Paper: <a href=\"https://arxiv.org/abs/2606.13894\">https://arxiv.org/abs/2606.13894</a></p> <p>GitHub: <a href=\"https://github.com/ndvbd/Gefen\">https://github.com/ndvbd/Gefen</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/indicava\"> /u/indicava </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uep96s/gefen_is_a_dropin_replacement_for_the_adamw/\">[link]</a></span> &#32; <span><a href=\"https://www.r",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-06-25T07:25:01"
     }
   ],
-  "updated_at": "2026-06-25T03:52:14.743953+09:00"
+  "updated_at": "2026-06-25T07:25:01.883272+09:00"
 }
