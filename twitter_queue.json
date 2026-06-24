@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-23-python-rag-faiss-local-implementation-guide",
-    "title": "PythonでRAGを自作する！ローカル検索の実装手順ガイド",
-    "url": "https://ai.negi-lab.com/posts/python-rag-faiss-local-implementation-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#RAG #Python",
-    "tweet_text": "RAGを「なんとなく動く」で終わらせていませんか？実務で使えるRAGは、ローカルでのベクトル検索管理とソース提示が肝。LangChain＋FAISSなら、外部DB不要で高速な検索パイプラインが30分で組めます。Embeddingモデルにtext-embedding-3-smallを使えば、技術書1冊のベクトル化はわずか数円。精度を左右するチャンク分割の「落とし穴」も解説しました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-23-python-rag-faiss-local-implementation-guide.jpg",
-    "created_at": "2026-06-23T07:53:02.015774+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-23-daily-stock-analysis-llm-review",
     "title": "daily_stock_analysis LLMで株式分析を自動化する実務レビュー",
     "url": "https://ai.negi-lab.com/posts/daily-stock-analysis-llm-review/",
