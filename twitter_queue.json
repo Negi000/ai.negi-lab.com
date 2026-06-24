@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-22-ollama-open-webui-local-llm-guide",
-    "title": "OllamaとOpen WebUIで自分専用のChatGPTを構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "ローカルLLM環境を構築するならOllamaとOpen WebUIの組み合わせが最強。RTX 3060 12GB一枚あれば、ChatGPTと同等の操作感をオフラインで実現できる。VRAM容量が正義なのは事実だけど、設定次第で4bit量子化モデルが驚くほど速く動く。API課金から解放される自由はデカい。RAGもコマンド一つ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-22-ollama-open-webui-local-llm-guide.jpg",
-    "created_at": "2026-06-22T21:11:34.793261+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-22-gemma-2-31b-qat-kv-cache-quantization-guide",
-    "title": "Gemma 2 31B QATをKVキャッシュ量子化でVRAM 24GBに収めて実用化する方法",
-    "url": "https://ai.negi-lab.com/posts/gemma-2-31b-qat-kv-cache-quantization-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Gemma2",
-    "tweet_text": "RTX 3090/4090の24GB VRAMで、Gemma 2 31B QATを「32kコンテキスト」で実用化。\n秘密はKVキャッシュの4-bit量子化。QATモデルなら4-bit化しても精度劣化は2%以下に収まります。\n大きなモデルを諦める前に、KVキャッシュを削るのが今のローカルLLMの正解ですね。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-22-gemma-2-31b-qat-kv-cache-quantization-guide.jpg",
-    "created_at": "2026-06-22T23:40:34.138227+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-23-nvidia-skills-ai-agent-gpu-buying-guide",
     "title": "NVIDIA skillsでAIエージェントを自作するなら選ぶべきGPUと開発環境の選び方",
     "url": "https://ai.negi-lab.com/posts/nvidia-skills-ai-agent-gpu-buying-guide/",
