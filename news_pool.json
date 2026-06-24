@@ -1,110 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap",
-      "url": "https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 16 Jun 2026 19:59:14 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-17T21:50:54"
-    },
-    {
-      "source": "r/LocalLLM",
-      "title": "I released Inflect-Nano, an ultra-extreme tiny 4.63m parameter TTS model.",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1u82cq8/i_released_inflectnano_an_ultraextreme_tiny_463m/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-06-17T06:29:28+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been experimenting with how small a usable neural TTS model can realistically get, and I just released <strong>Inflect-Nano-v1</strong>.</p> <p>As far as I researched (though I could be wrong on this), Inflect-Nano-v1 is the #2 smallest tts model (after <a href=\"https://github.com/tronghieuit/tiny-tts\">TinyTTS</a>), and it preforms surprisingly good for its model weight. Even if you have a certified potato computer, it can run on that.</p> <p>It is not SOTA",
-      "extra": {},
-      "collected_at": "2026-06-17T21:51:01"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "alexzhang13/rlm",
-      "url": "https://github.com/alexzhang13/rlm",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
-      "extra": {
-        "stars_today": "37 stars today"
-      },
-      "collected_at": "2026-06-17T21:51:02"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-      "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 17 Jun 2026 12:38:09 +0000",
-      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-17T21:51:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Dopami",
-      "url": "https://www.producthunt.com/products/dopami",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Household chores without the mental load for ADHD </p> <p> <a href=\"https://www.producthunt.com/products/dopami?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1172451?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-17T21:51:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Tyto by ai-coustics",
-      "url": "https://www.producthunt.com/products/tyto",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Audio insight that predicts voice AI performance </p> <p> <a href=\"https://www.producthunt.com/products/tyto?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1173055?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-17T21:51:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Swytchcode CLI",
-      "url": "https://www.producthunt.com/products/swytchcode",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Give agents reliable access to 2,000+ APIs w/ durable state </p> <p> <a href=\"https://www.producthunt.com/products/swytchcode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1170857?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-06-17T21:51:03"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
       "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
@@ -2414,21 +2310,6 @@
       "collected_at": "2026-06-24T07:20:17"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Tue, 23 Jun 2026 23:30:00 +0000",
-      "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-06-24T13:12:02"
-    },
-    {
       "source": "Product Hunt",
       "title": "Sipcode",
       "url": "https://www.producthunt.com/products/sipcode",
@@ -2592,7 +2473,38 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-24T20:43:47"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 24 Jun 2026 14:00:00 +0000",
+      "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-24T23:41:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tencent EdgeOne Makers",
+      "url": "https://www.producthunt.com/products/tencent-edgeone-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ship AI agents like web apps, in minutes. </p> <p> <a href=\"https://www.producthunt.com/products/tencent-edgeone-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1173176?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-06-24T23:41:40"
     }
   ],
-  "updated_at": "2026-06-24T20:43:51.001403+09:00"
+  "updated_at": "2026-06-24T23:41:44.296829+09:00"
 }
