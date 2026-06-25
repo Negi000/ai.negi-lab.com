@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-24-claude-code-ban-local-llm-gpu-guide",
-    "title": "Claude Code利用停止リスクに備える。AIコーディングを止めないためのローカルLLM環境とGPU・Mac選び",
-    "url": "https://ai.negi-lab.com/posts/claude-code-ban-local-llm-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #ClaudeCode",
-    "tweet_text": "Claude Codeの突然のBAN報告で騒がしいけど、エンジニアなら「ハードウェアによる自衛」を考えるべき。\n\n特定APIに依存した開発は、ある日突然止まるリスクがある。今すぐVRAM 16GB以上のGPUかメモリ64GB以上のMacを確保して、ローカルLLM環境を構築すべき。\n\nVRAM不足のGPU選びはAI時代では致命的な失敗。買う前に見るべきチェックリストをまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-24-claude-code-ban-local-llm-gpu-guide.jpg",
-    "created_at": "2026-06-24T04:09:04.899763+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-24-ai-agent-safe-sandbox-e2b-guide",
     "title": "AIエージェントを安全に実行するサンドボックス環境の構築方法",
     "url": "https://ai.negi-lab.com/posts/ai-agent-safe-sandbox-e2b-guide/",
