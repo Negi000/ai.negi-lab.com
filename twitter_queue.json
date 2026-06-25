@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-24-hush-noise-suppression-ai-voice-agent-review",
-    "title": "Hush AIエージェントの音声認識率を劇的に変えるオープンソース・ノイズ抑制の使い方",
-    "url": "https://ai.negi-lab.com/posts/hush-noise-suppression-ai-voice-agent-review/",
-    "category": "TOOL",
-    "viral_tags": "#音声AI #個人開発",
-    "tweet_text": "音声AIエージェントのSTT（音声認識）精度、現場の騒音で諦めてませんか？OSSのノイズ抑制ツール「Hush」を検証。10msのフレームをCPUで3ms、RTX 4090なら1ms未満で処理。人間に心地よい音ではなく、AIが理解しやすい波形に特化してるのが実務的。Whisperの誤認識に悩むなら導入必須。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-24-hush-noise-suppression-ai-voice-agent-review.jpg",
-    "created_at": "2026-06-24T13:14:01.936028+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-24-mlx-apple-silicon-local-llm-guide",
-    "title": "MLX 使い方 入門 Apple Silicon MacでローカルLLMを動かす方法",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "Apple Silicon MacのGPUを限界まで使い切るならMLX一択。PyTorch経由とは比較にならないレスポンス速度が出ます。M2 Max環境のLlama 3 8Bで秒間100トークン超え。もはやローカルLLMは「遅い」のフェーズを過ぎました。メモリ16GB以上のMacユーザーは、外部APIに課金する前にこの爆速体験を試すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-24-mlx-apple-silicon-local-llm-guide.jpg",
-    "created_at": "2026-06-24T15:55:38.289453+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-24-mindstone-rebel-ai-agent-review-usage",
     "title": "Mindstone Rebel 使い方と実務でのAIエージェント活用法",
     "url": "https://ai.negi-lab.com/posts/mindstone-rebel-ai-agent-review-usage/",
