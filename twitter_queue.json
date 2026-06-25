@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-06-25-claude-code-cursor-hybrid-workflow-guide.jpg",
     "created_at": "2026-06-25T15:55:05.696514+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-25-heron-ai-agent-ebpf-observability-review",
+    "title": "Heron：eBPFでAIエージェントの挙動を透過的に可視化する",
+    "url": "https://ai.negi-lab.com/posts/heron-ai-agent-ebpf-observability-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #eBPF",
+    "tweet_text": "AIエージェントの挙動をOSレベルで監視するHeronを検証。eBPF採用でコード改変なし、オーバーヘッド3%以下という驚異の軽さ。LangSmithのようなSDK導入が難しい本番環境や、パフォーマンスを極限まで削りたい自律型エージェントのデバッグに最適。Linux限定だがWireshark世代には刺さる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-25-heron-ai-agent-ebpf-observability-review.jpg",
+    "created_at": "2026-06-25T18:28:10.688181+09:00",
+    "posted": false
   }
 ]
