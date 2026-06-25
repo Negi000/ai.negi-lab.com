@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Genie Mentions",
-      "url": "https://www.producthunt.com/products/genie-mentions",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI that gets you *and* the people in your life, together </p> <p> <a href=\"https://www.producthunt.com/products/genie-mentions?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1174820?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-18T19:24:55"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Elvin",
-      "url": "https://www.producthunt.com/products/elvin",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Proactive AI that finds and finishes work before you ask </p> <p> <a href=\"https://www.producthunt.com/products/elvin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1169635?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-18T19:24:55"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "DeskArcade",
-      "url": "https://www.producthunt.com/products/deskarcade",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> An arcade in your menu bar - playable over anything </p> <p> <a href=\"https://www.producthunt.com/products/deskarcade?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1174491?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-18T19:24:55"
-    },
-    {
       "source": "GitHub Trending",
       "title": "Lightricks/LTX-2",
       "url": "https://github.com/Lightricks/LTX-2",
@@ -2565,22 +2520,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Heron",
-      "url": "https://www.producthunt.com/products/heron",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Wireshark for AI Agents: passive eBPF observability </p> <p> <a href=\"https://www.producthunt.com/products/heron?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1179833?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-06-25T18:27:01"
-    },
-    {
-      "source": "Product Hunt",
       "title": "SayCraft",
       "url": "https://www.producthunt.com/products/saycraft",
       "primary_category": "TOOL",
@@ -2641,7 +2580,159 @@
         "revenue_score": 7
       },
       "collected_at": "2026-06-25T18:27:01"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 24 Jun 2026 17:47:00 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-25T20:39:55"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Big AI labs are hiring philosophers",
+      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 24 Jun 2026 16:40:13 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-25T20:39:55"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "extra": {
+        "stars_today": "201 stars today"
+      },
+      "collected_at": "2026-06-25T20:39:57"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "extra": {
+        "stars_today": "15 stars today"
+      },
+      "collected_at": "2026-06-25T20:39:57"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "extra": {
+        "stars_today": "524 stars today"
+      },
+      "collected_at": "2026-06-25T20:39:57"
+    },
+    {
+      "source": "Google News",
+      "title": "Alphabet: Shares Sell Off on Artificial Intelligence Talent Exits; We See a Buying Opportunity | モーニングスター - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUnZZQlQyNmxVaVN0bnp0WHNkVmhjVUFnSzdwRVdnaGEyeGRyeVVYZWE4NklmNzFRV1JSQUp5b1FiSXZ4a2dHU2p0WmhhZ0xPcElickM3cVkwOTB6bnVUaks3eEFrd2hwU0F3d0tSQmdKQ0tXdFczSTBzNGlieUl3b21WZnlMbUVIUFJQd3lnTU0wc3RYSE1WSWs4WUVFeXJpZnNLS0RQWko2Y2pfeWlMWmpoc2ZXakhoUlNxb2pGZm5KTFRiaXNR?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Thu, 25 Jun 2026 03:20:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNUnZZQlQyNmxVaVN0bnp0WHNkVmhjVUFnSzdwRVdnaGEyeGRyeVVYZWE4NklmNzFRV1JSQUp5b1FiSXZ4a2dHU2p0WmhhZ0xPcElickM3cVkwOTB6bnVUaks3eEFrd2hwU0F3d0tSQmdKQ0tXdFczSTBzNGlieUl3b21WZnlMbUVIUFJQd3lnTU0wc3RYSE1WSWs4WUVFeXJpZnNLS0RQWko2Y2pfeWlMWmpoc2ZXakhoUlNxb2pGZm5KTFRiaXNR?oc=5\" target=\"_blank\">Alphabet: Shares Sell Off on Artificial Intelligence Talent Exits; We See a Buying Opportunity | モーニングスター</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</fon",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-25T20:39:58"
+    },
+    {
+      "source": "Google News",
+      "title": "オープンＡＩが独自半導体、ブロードコムと開発 ＡＩインフラ強化へ - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdm9OcllSZ1I0aWVIOURSdkp4aGprbFdYODF1Q1A5RVNlLW02UUVBYzJMR2lfLWNVUkMxT3N0b09fX0R5MEF6dXd0eG91VU5ZdFBaSThvalphZjAtd1lWMkZsR0hJdEJUZE9CdXVJT3hkVFF3c05mWDdMaUJDTFpmY0QxQTVGLTlsWnM0Qw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Thu, 25 Jun 2026 01:56:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNdm9OcllSZ1I0aWVIOURSdkp4aGprbFdYODF1Q1A5RVNlLW02UUVBYzJMR2lfLWNVUkMxT3N0b09fX0R5MEF6dXd0eG91VU5ZdFBaSThvalphZjAtd1lWMkZsR0hJdEJUZE9CdXVJT3hkVFF3c05mWDdMaUJDTFpmY0QxQTVGLTlsWnM0Qw?oc=5\" target=\"_blank\">オープンＡＩが独自半導体、ブロードコムと開発 ＡＩインフラ強化へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-25T20:39:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "BrowserAct",
+      "url": "https://www.producthunt.com/products/browseract",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Web browser automation for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/browseract?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1173214?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-06-25T20:39:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Papermark Agents",
+      "url": "https://www.producthunt.com/products/papermark-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Let AI agents run your next deal, fundraise or data room </p> <p> <a href=\"https://www.producthunt.com/products/papermark-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1180086?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-06-25T20:39:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Nashra",
+      "url": "https://www.producthunt.com/products/nashra-turn-followers-into-clients",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn followers into clients. </p> <p> <a href=\"https://www.producthunt.com/products/nashra-turn-followers-into-clients?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1179713?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-25T20:39:58"
     }
   ],
-  "updated_at": "2026-06-25T18:27:01.855584+09:00"
+  "updated_at": "2026-06-25T20:40:00.892298+09:00"
 }

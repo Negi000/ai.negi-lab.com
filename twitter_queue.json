@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-06-25-heron-ai-agent-ebpf-observability-review.jpg",
     "created_at": "2026-06-25T18:28:10.688181+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-25-amd-gpu-rocm-local-llm-tutorial",
+    "title": "AMD GPUでローカルLLMを動かすROCm環境構築の手順",
+    "url": "https://ai.negi-lab.com/posts/amd-gpu-rocm-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AMD",
+    "tweet_text": "RadeonでAIは動かない、はもう過去の話。AMD GPUとROCm 6.0を組み合わせて、Llama 3を爆速で動かす環境を構築しました。VRAM単価が安いRadeonを「使い物にする」には、GFXバージョンの偽装など特有のコツが必要。セットアップの泥臭さを乗り越えて、NVIDIA一強への依存から脱却する実践ガイド。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-25-amd-gpu-rocm-local-llm-tutorial.jpg",
+    "created_at": "2026-06-25T20:41:09.455286+09:00",
+    "posted": false
   }
 ]
