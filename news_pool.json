@@ -1,66 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
-      "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 17 Jun 2026 21:00:07 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-18T07:50:22"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Roelof Botha joins SpaceX’s board of directors",
-      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Wed, 17 Jun 2026 20:32:52 +0000",
-      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-06-18T07:50:31"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "memi",
-      "url": "https://www.producthunt.com/products/memoire",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The AI agent harness for product design teams </p> <p> <a href=\"https://www.producthunt.com/products/memoire?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1143160?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-06-18T07:50:32"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Daemons by Charlie Labs",
-      "url": "https://www.producthunt.com/products/daemons-by-charlie-labs",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Keep PRs, issues, CI, and docs moving with AI agents </p> <p> <a href=\"https://www.producthunt.com/products/daemons-by-charlie-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1164563?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-06-18T07:50:32"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "How to turn off AI in your Google Docs",
       "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
@@ -1191,21 +1131,6 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-21T14:03:04"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "z.AI as the number 2 gives praise to the number 1 open source model",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uaxktf/zai_as_the_number_2_gives_praise_to_the_number_1/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-20T14:10:04+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uaxktf/zai_as_the_number_2_gives_praise_to_the_number_1/\"> <img alt=\"z.AI as the number 2 gives praise to the number 1 open source model\" src=\"https://preview.redd.it/yy0tfjmm3g8h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=83f9551b883b586603ce35df538e54a3cc96f6a0\" title=\"z.AI as the number 2 gives praise to the number 1 open source model\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/",
-      "extra": {},
-      "collected_at": "2026-06-21T17:06:49"
     },
     {
       "source": "Product Hunt",
@@ -2655,7 +2580,66 @@
         "revenue_score": 2
       },
       "collected_at": "2026-06-25T07:25:01"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 24 Jun 2026 19:48:01 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-25T13:12:10"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Europe is pushing back on Washington’s chip war",
+      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 25 Jun 2026 00:08:36 +0000",
+      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off limits.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-06-25T13:12:12"
+    },
+    {
+      "source": "Google News",
+      "title": "AI投資でCEOと取締役会の温度差広がる - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2JId2xwOVI1bEZEVDZReE03RUo0ZkFqOU81UDRibmdKRU1ZOUUtZEdyd09hc0J3RHlMQlNOYmxjYklZQzVta1JndG4zRUllTzJtSmdBRGdyUEVHVl9UZXAtei0yZDN1TjMwNFRYR19kN3E3RUJnc1hldjZHV3RQQw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 25 Jun 2026 01:01:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2JId2xwOVI1bEZEVDZReE03RUo0ZkFqOU81UDRibmdKRU1ZOUUtZEdyd09hc0J3RHlMQlNOYmxjYklZQzVta1JndG4zRUllTzJtSmdBRGdyUEVHVl9UZXAtei0yZDN1TjMwNFRYR19kN3E3RUJnc1hldjZHV3RQQw?oc=5\" target=\"_blank\">AI投資でCEOと取締役会の温度差広がる</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-06-25T13:12:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Propane",
+      "url": "https://www.producthunt.com/products/propane",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Automatic customer context for product teams and agents </p> <p> <a href=\"https://www.producthunt.com/products/propane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1174350?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-25T13:12:13"
     }
   ],
-  "updated_at": "2026-06-25T07:25:01.883272+09:00"
+  "updated_at": "2026-06-25T13:12:16.914256+09:00"
 }
