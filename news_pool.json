@@ -1,66 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Token generation speed on integrated vga card with DDR4 RAM",
-      "url": "https://www.reddit.com/r/ollama/comments/1u9wixg/token_generation_speed_on_integrated_vga_card/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-19T08:41:41+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1u9wixg/token_generation_speed_on_integrated_vga_card/\"> <img alt=\"Token generation speed on integrated vga card with DDR4 RAM\" src=\"https://preview.redd.it/qy28fvgkb78h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=621dd7bdf0fa9d4a070739d7abf3baff4ebf22cf\" title=\"Token generation speed on integrated vga card with DDR4 RAM\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hello!</p> <p>I did some simple tests. The goal was",
-      "extra": {},
-      "collected_at": "2026-06-20T02:01:02"
-    },
-    {
-      "source": "r/ollama",
-      "title": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
-      "url": "https://www.reddit.com/r/ollama/comments/1u9gmcy/a_curated_list_of_free_ai_models_apis_and_tools/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-06-18T19:56:16+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/UnitedYak6161\"> /u/UnitedYak6161 </a> <br /> <span><a href=\"https://github.com/12britz/awesome-free-models.git\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1u9gmcy/a_curated_list_of_free_ai_models_apis_and_tools/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-06-20T02:01:02"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 19 Jun 2026 16:08:17 +0000",
-      "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-20T02:01:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "API to MCP",
-      "url": "https://www.producthunt.com/products/api-to-mcp",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn any API into an MCP server for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/api-to-mcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1166336?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-06-20T02:01:04"
-    },
-    {
       "source": "Product Hunt",
       "title": "Snap Deck HQ",
       "url": "https://www.producthunt.com/products/snap-deck-hq",
@@ -2723,7 +2663,48 @@
         "revenue_score": 6
       },
       "collected_at": "2026-06-27T01:33:27"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "Fri, 26 Jun 2026 17:06:55 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-27T03:51:17"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Fri, 26 Jun 2026 16:40:11 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-27T03:51:17"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 26 Jun 2026 18:32:14 +0000",
+      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-27T03:51:19"
     }
   ],
-  "updated_at": "2026-06-27T01:33:30.343556+09:00"
+  "updated_at": "2026-06-27T03:51:23.545490+09:00"
 }
