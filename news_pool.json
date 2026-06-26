@@ -1,36 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Darkmoon",
-      "url": "https://www.producthunt.com/products/darkmoon",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Autonomous penetration testing platform </p> <p> <a href=\"https://www.producthunt.com/products/darkmoon?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1175199?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-19T19:41:55"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Screen Ruler",
-      "url": "https://www.producthunt.com/products/screen-ruler",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Edit anything on the web with change tracking </p> <p> <a href=\"https://www.producthunt.com/products/screen-ruler?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1175244?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-19T19:41:55"
-    },
-    {
       "source": "r/LocalLLM",
       "title": "Truly NSFW abliterated model that doesn't hedging itself?",
       "url": "https://www.reddit.com/r/LocalLLM/comments/1u9xmyo/truly_nsfw_abliterated_model_that_doesnt_hedging/",
@@ -2264,21 +2234,6 @@
       "collected_at": "2026-06-25T20:39:55"
     },
     {
-      "source": "GitHub Trending",
-      "title": "opendatalab/MinerU",
-      "url": "https://github.com/opendatalab/MinerU",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "extra": {
-        "stars_today": "524 stars today"
-      },
-      "collected_at": "2026-06-25T20:39:57"
-    },
-    {
       "source": "Google News",
       "title": "オープンＡＩが独自半導体、ブロードコムと開発 ＡＩインフラ強化へ - Reuters",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdm9OcllSZ1I0aWVIOURSdkp4aGprbFdYODF1Q1A5RVNlLW02UUVBYzJMR2lfLWNVUkMxT3N0b09fX0R5MEF6dXd0eG91VU5ZdFBaSThvalphZjAtd1lWMkZsR0hJdEJUZE9CdXVJT3hkVFF3c05mWDdMaUJDTFpmY0QxQTVGLTlsWnM0Qw?oc=5",
@@ -2668,7 +2623,106 @@
         "revenue_score": 3
       },
       "collected_at": "2026-06-26T18:32:15"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Why current LLM costs are not sustainable",
+      "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 26 Jun 2026 07:44:11 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-26T20:44:17"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "US Govt to individually approve who gets GPT 5.6",
+      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 26 Jun 2026 06:24:39 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-26T20:44:17"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "OpenAI to Stagger Release of GPT 5.6 at Request of U.S. Government",
+      "url": "https://velo.xyz/news/1908",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 25 Jun 2026 20:28:25 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-26T20:44:17"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "extra": {
+        "stars_today": "67 stars today"
+      },
+      "collected_at": "2026-06-26T20:44:19"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "extra": {
+        "stars_today": "398 stars today"
+      },
+      "collected_at": "2026-06-26T20:44:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "SquidHub",
+      "url": "https://www.producthunt.com/products/squidhub",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Multiplayer mode for humans and AI </p> <p> <a href=\"https://www.producthunt.com/products/squidhub?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1173375?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-26T20:44:20"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ModuleX",
+      "url": "https://www.producthunt.com/products/modulex",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI workspace that’s already connected to everything </p> <p> <a href=\"https://www.producthunt.com/products/modulex?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1171509?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-26T20:44:20"
     }
   ],
-  "updated_at": "2026-06-26T18:32:18.863791+09:00"
+  "updated_at": "2026-06-26T20:44:23.283162+09:00"
 }

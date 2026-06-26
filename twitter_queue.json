@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-06-26-mineru-pdf-to-markdown-review-rag.jpg",
     "created_at": "2026-06-26T18:33:03.780575+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-26-mlx-apple-silicon-local-llm-guide",
+    "title": "MLX 使い方 入門：Apple SiliconでローカルLLMを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "Apple SiliconのGPUをフル活用できるMLXなら、Llama 3がMac上で35 tokens/sec超えの爆速で動く。\nAPI料金を気にせず、完全オフラインで自分専用のLLMを構築できるのは熱い。\nメモリ16GB以上が推奨だけど、4bit量子化モデルを選べばAirでも十分実用的。\nPythonでサクッと書けるからエンジニアの遊び道具として最高。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-26-mlx-apple-silicon-local-llm-guide.jpg",
+    "created_at": "2026-06-26T20:44:50.285617+09:00",
+    "posted": false
   }
 ]
