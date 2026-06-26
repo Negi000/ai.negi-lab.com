@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-25-propane-ai-customer-context-review",
-    "title": "Propane 顧客コンテキストをAIエージェントに即時同期する文脈のハブ",
-    "url": "https://ai.negi-lab.com/posts/propane-ai-customer-context-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #業務効率化",
-    "tweet_text": "AIエージェントの精度が上がらない原因の9割は「コンテキスト不足」。\nPropaneはZendeskやStripe、自社DBから顧客情報を自動集約して、LLMが即レスできる「文脈」を生成する。\n自前で泥臭いRAGコネクタを書く時代は終わった。\n複数SaaSを横断して顧客対応するチームなら、数週間の工数が数時間に短縮される。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-25-propane-ai-customer-context-review.jpg",
-    "created_at": "2026-06-25T13:12:37.706307+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-25-claude-code-cursor-hybrid-workflow-guide",
-    "title": "Claude CodeとCursorを使い分けReactアプリを高速開発する方法",
-    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-workflow-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ClaudeCode #Cursor",
-    "tweet_text": "Claude CodeとCursorの併用が現状のエンジニア最適解。UI設計はCursorのComposerで視覚的に進め、地獄のデバッグやテスト完遂はClaude Codeに全振りする。API代は1セッション数ドルかかるが、時給換算なら圧倒的に安い。Tier 2以上のAnthropic APIを用意して、テスト自動生成まで2分で終わらせる体験をすべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-25-claude-code-cursor-hybrid-workflow-guide.jpg",
-    "created_at": "2026-06-25T15:55:05.696514+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-25-heron-ai-agent-ebpf-observability-review",
     "title": "Heron：eBPFでAIエージェントの挙動を透過的に可視化する",
     "url": "https://ai.negi-lab.com/posts/heron-ai-agent-ebpf-observability-review/",
