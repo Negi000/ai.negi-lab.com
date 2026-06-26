@@ -1,136 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "GLM-5.2: The Most Powerful Open Model yet and the Brutal Reality of Running It",
-      "url": "https://vettedconsumer.com/glm-5-2-the-most-powerful-open-weight-model-yet-and-the-brutal-reality-of-running-it-locally/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 19 Jun 2026 01:58:00 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-19T14:06:54"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
-      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 18 Jun 2026 18:31:23 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-19T14:06:54"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
-      "url": "https://simonwillison.net/2026/Jun/17/glm-52/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 18 Jun 2026 15:58:09 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-19T14:06:54"
-    },
-    {
-      "source": "r/LocalLLM",
-      "title": "Open source is starting to beat frontier on cost/performance",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1u9gohq/open_source_is_starting_to_beat_frontier_on/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-18T19:58:33+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLM/comments/1u9gohq/open_source_is_starting_to_beat_frontier_on/\"> <img alt=\"Open source is starting to beat frontier on cost/performance\" src=\"https://preview.redd.it/a4obm010k38h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=51541310d641890af53747c8ad4cdc7caf8c34fd\" title=\"Open source is starting to beat frontier on cost/performance\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This chart is pretty wild.</p> <p>Open-source mo",
-      "extra": {},
-      "collected_at": "2026-06-19T14:07:02"
-    },
-    {
-      "source": "r/LocalLLM",
-      "title": "I got a local model to run as a 24/7 radio DJ, picks the tracks, writes the intros, takes plain-language requests",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1u9jb4x/i_got_a_local_model_to_run_as_a_247_radio_dj/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-18T21:40:11+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLM/comments/1u9jb4x/i_got_a_local_model_to_run_as_a_247_radio_dj/\"> <img alt=\"I got a local model to run as a 24/7 radio DJ, picks the tracks, writes the intros, takes plain-language requests\" src=\"https://preview.redd.it/4fjawpr2248h1.jpg?width=140&amp;height=97&amp;auto=webp&amp;s=b31af5f469ada6be9ba3454122c60bb51302ed69\" title=\"I got a local model to run as a 24/7 radio DJ, picks the tracks, writes the intros, takes plain-language reque",
-      "extra": {},
-      "collected_at": "2026-06-19T14:07:02"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "yifanfeng97/Hyper-Extract",
-      "url": "https://github.com/yifanfeng97/Hyper-Extract",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Hypergraph is more powerful. Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
-      "extra": {
-        "stars_today": "124 stars today"
-      },
-      "collected_at": "2026-06-19T14:07:03"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Fri, 19 Jun 2026 00:51:11 +0000",
-      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-19T14:07:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "InstantDelay",
-      "url": "https://www.producthunt.com/products/instantdelay",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Add, remove, or adjust stream delay while already live </p> <p> <a href=\"https://www.producthunt.com/products/instantdelay?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1174657?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-19T14:07:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Upstream",
-      "url": "https://www.producthunt.com/products/upstream-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The inbox designed for humans and agents </p> <p> <a href=\"https://www.producthunt.com/products/upstream-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1150612?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-06-19T14:07:04"
-    },
-    {
       "source": "GitHub Trending",
       "title": "roboflow/rf-detr",
       "url": "https://github.com/roboflow/rf-detr",
@@ -2519,22 +2389,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "BrowserAct",
-      "url": "https://www.producthunt.com/products/browseract",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Web browser automation for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/browseract?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1173214?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-06-25T20:39:58"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Papermark Agents",
       "url": "https://www.producthunt.com/products/papermark-2",
       "primary_category": "TOOL",
@@ -2847,5 +2701,5 @@
       "collected_at": "2026-06-26T13:19:26"
     }
   ],
-  "updated_at": "2026-06-26T13:19:29.591355+09:00"
+  "updated_at": "2026-06-26T16:00:37.169287+09:00"
 }
