@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-06-26-aws-agent-toolkit-mcp-pc-guide.jpg",
     "created_at": "2026-06-26T07:40:50.349609+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-26-browseract-ai-agent-automation-review",
+    "title": "BrowserAct 使い方とAIエージェントのブラウザ操作自動化レビュー",
+    "url": "https://ai.negi-lab.com/posts/browseract-ai-agent-automation-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #個人開発",
+    "tweet_text": "AIエージェントにブラウザを触らせるならBrowserActが現実的な解。Playwrightを自前でラップする苦行が、DOM抽象化とactメソッド一つで完結する。\n\n1回のアクションで消費するトークンを激減させつつ、UI変更にも強い。1アクション数秒の待ちはあるが、メンテ工数を考えれば実務導入の価値は高い。VRAM多めのGPU環境でローカルLLMと組むのが最高に面白い。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-26-browseract-ai-agent-automation-review.jpg",
+    "created_at": "2026-06-26T13:20:10.036066+09:00",
+    "posted": false
   }
 ]
