@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-25-amd-gpu-rocm-local-llm-tutorial",
-    "title": "AMD GPUでローカルLLMを動かすROCm環境構築の手順",
-    "url": "https://ai.negi-lab.com/posts/amd-gpu-rocm-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AMD",
-    "tweet_text": "RadeonでAIは動かない、はもう過去の話。AMD GPUとROCm 6.0を組み合わせて、Llama 3を爆速で動かす環境を構築しました。VRAM単価が安いRadeonを「使い物にする」には、GFXバージョンの偽装など特有のコツが必要。セットアップの泥臭さを乗り越えて、NVIDIA一強への依存から脱却する実践ガイド。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-25-amd-gpu-rocm-local-llm-tutorial.jpg",
-    "created_at": "2026-06-25T20:41:09.455286+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-25-alphabet-ai-talent-exit-analysis",
-    "title": "AlphabetのAI人材流出と株価下落をどう見る？実務家が読み解く技術の分散と開発戦略の転換点",
-    "url": "https://ai.negi-lab.com/posts/alphabet-ai-talent-exit-analysis/",
-    "category": "NEWS",
-    "viral_tags": "#エンジニア #GenerativeAI",
-    "tweet_text": "GoogleのAI人材流出による株価下落を「買い」と見るモーニングスター。だが技術者視点は少し違う。Transformer論文著者全員が去ったように、今はGoogleの知見が外部へ分散し、MistralやClaudeといった「使いやすい」モデルに結実している。開発者はGoogle一極集中をやめ、抽象化ライブラリでいつでもモデルを切り替えられる構成を組むべき。インフラのGoogleか、機動力の流出組か。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-25-alphabet-ai-talent-exit-analysis.jpg",
-    "created_at": "2026-06-25T23:43:34.158343+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-26-ai-berkshire-claude-code-hardware-guide",
     "title": "ai-berkshireとClaude Codeで始める最強AI投資環境の選び方とおすすめ比較",
     "url": "https://ai.negi-lab.com/posts/ai-berkshire-claude-code-hardware-guide/",
