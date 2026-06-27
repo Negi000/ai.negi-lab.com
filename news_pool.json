@@ -1,110 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "url": "https://arrowtsx.dev/bigger-models/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 19 Jun 2026 16:11:25 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-20T16:05:58"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Introducing the Heretic Grimoire: The takedown-resilient, local-first backup system that keeps uncensored models available forever",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5lmge/introducing_the_heretic_grimoire_the/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-14T13:47:00+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1u5lmge/introducing_the_heretic_grimoire_the/\"> <img alt=\"Introducing the Heretic Grimoire: The takedown-resilient, local-first backup system that keeps uncensored models available forever\" src=\"https://preview.redd.it/rtsjelj8497h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d98a908e0aa02f95ea8415ae5c29cbbfce147cb5\" title=\"Introducing the Heretic Grimoire: The takedown-resilient, local-first backup system that keeps unc",
-      "extra": {},
-      "collected_at": "2026-06-20T16:05:58"
-    },
-    {
-      "source": "r/ollama",
-      "title": "minimax just dropped m3 weights on huggingface. 428b total but only 23b active. anyone tried running it locally yet",
-      "url": "https://www.reddit.com/r/ollama/comments/1uahj19/minimax_just_dropped_m3_weights_on_huggingface/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-19T23:50:34+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1uahj19/minimax_just_dropped_m3_weights_on_huggingface/\"> <img alt=\"minimax just dropped m3 weights on huggingface. 428b total but only 23b active. anyone tried running it locally yet\" src=\"https://preview.redd.it/r8u4qsl5ub8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=85a43ccd5d24db4f6de7cefa4ff89edcab6740e6\" title=\"minimax just dropped m3 weights on huggingface. 428b total but only 23b active. anyone tried running it lo",
-      "extra": {},
-      "collected_at": "2026-06-20T16:06:02"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Fri, 19 Jun 2026 22:40:14 +0000",
-      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-20T16:06:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "UISqueezy, Design systems, in sync",
-      "url": "https://www.producthunt.com/products/uisqueezy-design-systems-in-sync",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Design tokens and Figma variables, always in sync. </p> <p> <a href=\"https://www.producthunt.com/products/uisqueezy-design-systems-in-sync?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1173827?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-20T16:06:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Free AI Image Upscaler",
-      "url": "https://www.producthunt.com/products/azure-cosmos-db",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Locally Increase Resolution of Images </p> <p> <a href=\"https://www.producthunt.com/products/azure-cosmos-db?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1176471?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-20T16:06:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Amazon Wholesale with Stemar Greene",
-      "url": "https://www.producthunt.com/products/amazon-wholesale-with-stemar-greene",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Amazon Wholesale Success Starts with the Right Strategy </p> <p> <a href=\"https://www.producthunt.com/products/amazon-wholesale-with-stemar-greene?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1175979?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-20T16:06:04"
-    },
-    {
       "source": "r/LocalLLaMA Weekly",
       "title": "zai-org/GLM-5.2 is here!",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u7kcwf/zaiorgglm52_is_here/",
@@ -2649,7 +2545,52 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-27T15:34:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cloud World Model",
+      "url": "https://www.producthunt.com/products/cloud-world-model",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Simulate AWS, GCP & DigitalOcean without paying the bill </p> <p> <a href=\"https://www.producthunt.com/products/cloud-world-model?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1177352?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-27T17:39:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Epilogue. Write novels, scripts & poetry",
+      "url": "https://www.producthunt.com/products/epilogue-book-writing-app",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The professional book writing app built for serious authors </p> <p> <a href=\"https://www.producthunt.com/products/epilogue-book-writing-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1156321?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-27T17:39:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "QApilot's CoWork",
+      "url": "https://www.producthunt.com/products/qapilot",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> 3x Mobile Automation. Same QE Team. </p> <p> <a href=\"https://www.producthunt.com/products/qapilot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1174693?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-27T17:39:34"
     }
   ],
-  "updated_at": "2026-06-27T15:34:51.560319+09:00"
+  "updated_at": "2026-06-27T17:39:37.673643+09:00"
 }
