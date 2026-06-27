@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-26-ollama-open-webui-local-llm-setup-guide",
-    "title": "OllamaとOpen WebUIの使い方！自分専用のローカルLLM環境を完全構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #OpenWebUI",
-    "tweet_text": "ローカルLLMを仕事で使うなら「Ollama + Open WebUI」が現状の正解。\nDocker環境にNVIDIA Container Toolkitを正しく通せば、RTX 3060クラスでもLlama 3.1が爆速で動く。\n機密資料をRAGで読み込ませても外部にデータが漏れない安心感は、API利用では得られない。\nVRAM 12GB以上を確保して、今すぐ自分専用のAIを構築しよう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-26-ollama-open-webui-local-llm-setup-guide.jpg",
-    "created_at": "2026-06-26T16:01:11.537442+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-26-mineru-pdf-to-markdown-review-rag",
-    "title": "MinerU：複雑なPDFをLLMに「食わせる」最強のMarkdown変換ツール",
-    "url": "https://ai.negi-lab.com/posts/mineru-pdf-to-markdown-review-rag/",
-    "category": "TOOL",
-    "viral_tags": "#MinerU #RAG",
-    "tweet_text": "RAGの精度を左右する「PDF解析の壁」を突破するMinerUが凄まじい。\n複雑な2段組みも、図表も、画像内の数式までLaTeX形式でMarkdown化。RTX 4090環境なら1ページ1.2秒。\n従来のツールで表が崩れて絶望していたエンジニアは試すべき。ただしVRAM 8GB以上のGPUは必須。環境構築は泥臭いが、その価値はある。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-26-mineru-pdf-to-markdown-review-rag.jpg",
-    "created_at": "2026-06-26T18:33:03.780575+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-26-mlx-apple-silicon-local-llm-guide",
     "title": "MLX 使い方 入門：Apple SiliconでローカルLLMを動かす方法",
     "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-guide/",
