@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-26-aws-agent-toolkit-mcp-pc-guide",
-    "title": "AWS Agent Toolkit導入ガイド｜AIエージェントでクラウド操作を自動化するためのPC選びと比較",
-    "url": "https://ai.negi-lab.com/posts/aws-agent-toolkit-mcp-pc-guide/",
-    "category": "MONEY",
-    "viral_tags": "#AWS #AIエージェント",
-    "tweet_text": "AWS公式のAIエージェント用ツールキットが登場。Claude CodeやCursorからAWSリソースを直接操作できる時代ですが、動かす側のPCスペックで明暗が分かれます。\n\n結論、メモリ32GB未満のMacやVRAM 8GBのRTXではエージェントが「思考停止」します。\n実務で使うならRTX 4060 Ti 16GBかMac 32GB以上が最低ライン。API代を溶かす前にハードを固めるのが正解。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-26-aws-agent-toolkit-mcp-pc-guide.jpg",
-    "created_at": "2026-06-26T07:40:50.349609+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-26-browseract-ai-agent-automation-review",
     "title": "BrowserAct 使い方とAIエージェントのブラウザ操作自動化レビュー",
     "url": "https://ai.negi-lab.com/posts/browseract-ai-agent-automation-review/",
