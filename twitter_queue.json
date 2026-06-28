@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-27-claude-code-cursor-workflow-guide",
-    "title": "Claude CodeとCursorを使い分け！最強のAI開発環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-workflow-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ClaudeCode #Cursor",
-    "tweet_text": "Claude CodeとCursorの併用が、2025年現在の開発環境における一つの到達点。Cursorで設計図を描き、Claude Codeに「実装・テスト・デバッグ・コミット」を丸投げする自律型ワークフローが速すぎる。API代はかかるが、テストコードを自分で書く苦行から解放されるコストと考えれば安すぎる投資。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-27-claude-code-cursor-workflow-guide.jpg",
-    "created_at": "2026-06-27T15:35:21.114176+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-27-apple-silicon-mlx-local-llm-tutorial",
-    "title": "MacでローカルLLMを爆速化するMLX入門",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "Apple Siliconの真価はMLXにある。llama.cppも良いが、Apple純正フレームワークのメモリ管理と最適化は別格。M2/M3環境なら4-bit量子化したLlama 3が40トークン/秒を超えて爆速で動く。API課金とプライバシーを気にせずMacでLLMを飼い慣らす。買うならメモリ16GB、理想は32GB以上。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-27-apple-silicon-mlx-local-llm-tutorial.jpg",
-    "created_at": "2026-06-27T17:40:14.661055+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-27-openpilot-commaai-full-review-guide",
     "title": "commaai/openpilot 既存の車をレベル2自動運転車へアップグレードするオープンソースOS",
     "url": "https://ai.negi-lab.com/posts/openpilot-commaai-full-review-guide/",
