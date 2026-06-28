@@ -1,74 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "Show HN: Lean bulk, cut, body recomp. Calculate maintenance calories",
-      "url": "https://macrocodex.app/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 21 Jun 2026 01:44:43 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-22T01:16:53"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Epoll vs. io_uring in Linux",
-      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 20 Jun 2026 23:07:09 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-22T01:16:53"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Big Tech is stoking unrest in the UK. Why?",
-      "url": "https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 20 Jun 2026 15:42:35 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-22T01:16:53"
-    },
-    {
-      "source": "r/LocalLLM",
-      "title": "Unlimited* budget",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1ubsxn1/unlimited_budget/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-06-21T15:29:42+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Seems like my company is going to give my team an unlimited* budget for local LLM hardware. </p> <p>&#x200b;</p> <p>*Of course not unlimited, but several tens of thousands should be enough no?</p> <p>&#x200b;</p> <p>&#x200b;</p> <p>What should we build? I'm a total beginner to a local llm hardware. </p> <p>&#x200b;</p> <p>What is actually the important part? 5x rtx 6000 and 128gb of ram? </p> <p>&#x200b;</p> <p>The usage will be simple at the beginning, but prob",
-      "extra": {},
-      "collected_at": "2026-06-22T01:17:01"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 21 Jun 2026 15:28:17 +0000",
-      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-22T01:17:02"
-    },
-    {
       "source": "HN AI Companies",
       "title": "The 100k whys of AI",
       "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
@@ -2466,7 +2398,20 @@
         "revenue_score": 3
       },
       "collected_at": "2026-06-29T00:53:52"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Sun, 28 Jun 2026 16:35:19 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-29T03:05:20"
     }
   ],
-  "updated_at": "2026-06-29T00:53:56.471823+09:00"
+  "updated_at": "2026-06-29T03:05:27.183222+09:00"
 }
