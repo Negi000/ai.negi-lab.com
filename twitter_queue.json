@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-06-28-hugohe3-ppt-master-review-automatic-powerpoint.jpg",
     "created_at": "2026-06-28T13:28:29.350562+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-28-ollama-open-webui-local-llm-tutorial",
+    "title": "OllamaとOpen WebUIでプライベートなローカルLLM環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLMを「動かして終わり」にするのはもったいない。OllamaとOpen WebUIを組み合わせれば、VRAM 8GB以上のPC1台で、RAG対応のプライベートChatGPT環境が完成する。\n外部API一切なし、データ流出リスクゼロ。この安心感は業務利用でこそ活きる。RTX 3060 12GB版ならコスパ良く実用レベルまで持っていける。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-28-ollama-open-webui-local-llm-tutorial.jpg",
+    "created_at": "2026-06-28T16:08:38.467039+09:00",
+    "posted": false
   }
 ]

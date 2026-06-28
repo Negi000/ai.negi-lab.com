@@ -1,82 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLM",
-      "title": "I just said hello to phi4",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1ub6i3p/i_just_said_hello_to_phi4/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-20T20:21:36+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I said hello, got this respond:</p> <p>```</p> <blockquote> <p>hello</p> </blockquote> <p>&lt;think&gt; Okay, let me try to figure out what the user is asking here. They said, &quot;You will be given a problem. Please reason step by step, and put your final answer within \\boxed{}: hello&quot;. Hmm, the problem seems to be the word &quot;hello&quot; itself. But what kind of problem is that? Maybe it's a trick question or a riddle. Let me think.</p> <p>First, &quo",
-      "extra": {},
-      "collected_at": "2026-06-21T14:03:02"
-    },
-    {
-      "source": "r/LocalLLM",
-      "title": "Anyone running effective exo cluster for agents?",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1ubbg2t/anyone_running_effective_exo_cluster_for_agents/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-21T00:04:10+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLM/comments/1ubbg2t/anyone_running_effective_exo_cluster_for_agents/\"> <img alt=\"Anyone running effective exo cluster for agents?\" src=\"https://preview.redd.it/lzvxuf9m1j8h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=892c10eff66d139d42ebc41ae083120ad00013d8\" title=\"Anyone running effective exo cluster for agents?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Yeah, overkill for home setup. Got it.</p> <p>I haven’t found a stab",
-      "extra": {},
-      "collected_at": "2026-06-21T14:03:02"
-    },
-    {
-      "source": "Google News",
-      "title": "『AI倫理』日本語版が発売 ルチアーノ・フロリディ氏が問う「社会善としてのAI」 - Ledge.ai",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92bDJiazhvV0tKczJ6U0UxZlJTMXZfa0RwNWxxMXp2dmVZcW9qZHRiZGlZTHVCTXdKSkNabUNzZ2l6WmdnNTdEdFoyVkNCNUN5Y2JGNEYwNDI4azYxRzBTSXE2UkVyZw?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 21 Jun 2026 05:00:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE92bDJiazhvV0tKczJ6U0UxZlJTMXZfa0RwNWxxMXp2dmVZcW9qZHRiZGlZTHVCTXdKSkNabUNzZ2l6WmdnNTdEdFoyVkNCNUN5Y2JGNEYwNDI4azYxRzBTSXE2UkVyZw?oc=5\" target=\"_blank\">『AI倫理』日本語版が発売 ルチアーノ・フロリディ氏が問う「社会善としてのAI」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ledge.ai</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-21T14:03:04"
-    },
-    {
-      "source": "Google News",
-      "title": "何千万もの楽曲がAIのトレーニングに利用可能なデータセットとして配布されておりAI生成楽曲の肥やしになっているとの指摘 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXUU0xWlN5cEozbDZnMGRLV1JuY0EyTWgwZW1TS0FHZU5KQkV1TUw2ZHRfWmh4TGNBbUphMUIwNFZMOHh2MUtXaUVlRHhBVmI3dERveFFMd2ZSemYwMWRMWlcxWUhEc0pPX0x2Q2lmX09jWHpySk1aRmw3M1o?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 21 Jun 2026 01:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBXUU0xWlN5cEozbDZnMGRLV1JuY0EyTWgwZW1TS0FHZU5KQkV1TUw2ZHRfWmh4TGNBbUphMUIwNFZMOHh2MUtXaUVlRHhBVmI3dERveFFMd2ZSemYwMWRMWlcxWUhEc0pPX0x2Q2lmX09jWHpySk1aRmw3M1o?oc=5\" target=\"_blank\">何千万もの楽曲がAIのトレーニングに利用可能なデータセットとして配布されておりAI生成楽曲の肥やしになっているとの指摘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-06-21T14:03:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Pixlie",
-      "url": "https://www.producthunt.com/products/pixlie",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI video studio: text & image to video, with real control </p> <p> <a href=\"https://www.producthunt.com/products/pixlie?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1176012?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-21T14:03:04"
-    },
-    {
       "source": "Product Hunt",
       "title": "Notchkin",
       "url": "https://www.producthunt.com/products/notchkin",
@@ -2398,21 +2322,6 @@
       "collected_at": "2026-06-27T22:52:42"
     },
     {
-      "source": "GitHub Trending",
-      "title": "hugohe3/ppt-master",
-      "url": "https://github.com/hugohe3/ppt-master",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
-      "extra": {
-        "stars_today": "589 stars today"
-      },
-      "collected_at": "2026-06-27T22:52:43"
-    },
-    {
       "source": "Product Hunt",
       "title": "RetroMac",
       "url": "https://www.producthunt.com/products/retromac",
@@ -2532,7 +2441,67 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1udkxde/7_chinese_companies_are_already_shipping/\"> <img alt=\"7 Chinese companies are already shipping H100/H200-class AI chips, most IPO'd in the last 6 months. I mapped all of them.\" src=\"https://preview.redd.it/wx96coxpv39h1.png?width=140&amp;height=56&amp;auto=webp&amp;s=134f92ceaafb05e0956b0e938a394cd9443f19c8\" title=\"7 Chinese companies are already shipping H100/H200-class AI chips, most IPO'd in the last 6 months. I ma",
       "extra": {},
       "collected_at": "2026-06-28T13:27:14"
+    },
+    {
+      "source": "Google News",
+      "title": "AIのW杯“進出”──グーグル「Gemini」がアルゼンチン代表と提携 - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHMxWnhMUDZNRzJRaHpxeHJSOVVucDFFTkFsdjFsLUNvQXI2cUhEYVdZa3liNmRXWXpfaUVGLVZSRmRvdTdrY19Vc050VjJSLW80RXZndmVBb0Z2TllYSVJpVkFzanV3dUlkVjk2TzdtX0xaQ1h4Z0lDcHY1Q3J2SkM1VXZXdjJMelNYcl9MbEh5Y3p0M3Z0UmNob1BVUnB2?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHMxWnhMUDZNRzJRaHpxeHJSOVVucDFFTkFsdjFsLUNvQXI2cUhEYVdZa3liNmRXWXpfaUVGLVZSRmRvdTdrY19Vc050VjJSLW80RXZndmVBb0Z2TllYSVJpVkFzanV3dUlkVjk2TzdtX0xaQ1h4Z0lDcHY1Q3J2SkM1VXZXdjJMelNYcl9MbEh5Y3p0M3Z0UmNob1BVUnB2?oc=5\" target=\"_blank\">AIのW杯“進出”──グーグル「Gemini」がアルゼンチン代表と提携</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED.jp</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-28T16:07:52"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Persona.js",
+      "url": "https://www.producthunt.com/products/persona-12",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Add WebMCP-native AI chat to any Frontend </p> <p> <a href=\"https://www.producthunt.com/products/persona-12?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1178202?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-28T16:07:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "discode.ai",
+      "url": "https://www.producthunt.com/products/discode-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> 100+ AI models, one interface. You set the rhythm. </p> <p> <a href=\"https://www.producthunt.com/products/discode-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1103513?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-28T16:07:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GetCompress",
+      "url": "https://www.producthunt.com/products/getcompress",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Lossless media compression without context switching </p> <p> <a href=\"https://www.producthunt.com/products/getcompress?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1180034?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-28T16:07:53"
     }
   ],
-  "updated_at": "2026-06-28T13:27:19.761313+09:00"
+  "updated_at": "2026-06-28T16:07:56.263023+09:00"
 }
