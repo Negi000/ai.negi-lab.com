@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Basedash Access Controls",
-      "url": "https://www.producthunt.com/products/basedash",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Control exactly who can access your company data </p> <p> <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1176207?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-21T07:18:38"
-    },
-    {
       "source": "r/LocalLLM",
       "title": "I just said hello to phi4",
       "url": "https://www.reddit.com/r/LocalLLM/comments/1ub6i3p/i_just_said_hello_to_phi4/",
@@ -743,21 +728,6 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-23T03:33:57"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Chinese Hackers Latest Masterpiece with NVIDIA",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ucokod/chinese_hackers_latest_masterpiece_with_nvidia/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-06-22T15:58:45+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>They spent a year to reverse-engineered the Tesla v100's 2,963 pinouts signals, soldered it onto a half height PCB, with full NVLink support, then naming it Tesla v100 v4.</p> <p>Price (with 3 years warranty):</p> <p>16G version: 1499 rmb (220 usd)</p> <p>32G version: 3999 rmb (590 usd)</p> <p>The hacker's op: <a href=\"https://t.bilibili.com/1211458176581369862\">https://t.bilibili.com/1211458176581369862</a></p> <p>The engineer: <a href=\"https://space.bilibili.c",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-06-23T03:34:01"
     },
     {
       "source": "HN AI Hot",
@@ -2547,7 +2517,22 @@
         "revenue_score": 5
       },
       "collected_at": "2026-06-28T07:12:22"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "7 Chinese companies are already shipping H100/H200-class AI chips, most IPO'd in the last 6 months. I mapped all of them.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1udkxde/7_chinese_companies_are_already_shipping/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-23T15:50:53+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1udkxde/7_chinese_companies_are_already_shipping/\"> <img alt=\"7 Chinese companies are already shipping H100/H200-class AI chips, most IPO'd in the last 6 months. I mapped all of them.\" src=\"https://preview.redd.it/wx96coxpv39h1.png?width=140&amp;height=56&amp;auto=webp&amp;s=134f92ceaafb05e0956b0e938a394cd9443f19c8\" title=\"7 Chinese companies are already shipping H100/H200-class AI chips, most IPO'd in the last 6 months. I ma",
+      "extra": {},
+      "collected_at": "2026-06-28T13:27:14"
     }
   ],
-  "updated_at": "2026-06-28T07:12:26.324914+09:00"
+  "updated_at": "2026-06-28T13:27:19.761313+09:00"
 }

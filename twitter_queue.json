@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-06-28-local-llm-gpu-comparison-v100-mod-rtx4060ti.jpg",
     "created_at": "2026-06-28T07:12:59.624451+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-28-hugohe3-ppt-master-review-automatic-powerpoint",
+    "title": "hugohe3/ppt-master レビュー 編集可能なパワポをAIで完全自動生成する方法",
+    "url": "https://ai.negi-lab.com/posts/hugohe3-ppt-master-review-automatic-powerpoint/",
+    "category": "TOOL",
+    "viral_tags": "#GitHubツール #業務効率化",
+    "tweet_text": "AIパワポ生成の決定版「hugohe3/ppt-master」が熱い。画像貼り付けじゃなく、編集可能な図形やテキストとしてPPTXを直接吐き出せる。\n\n既存の社内テンプレートを読み込めるから、ブランドカラー無視の資料にならないのが実務向け。スピーカーノートの音声化まで対応。RTX 4090環境でローカルLLM連携も試したが、構造化データの出力精度が資料の質に直結する。叩き台作りが1分で終わる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-28-hugohe3-ppt-master-review-automatic-powerpoint.jpg",
+    "created_at": "2026-06-28T13:28:29.350562+09:00",
+    "posted": false
   }
 ]
