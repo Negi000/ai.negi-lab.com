@@ -2,71 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "Notchkin",
-      "url": "https://www.producthunt.com/products/notchkin",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A notes app that lives in your MacBook's notch. </p> <p> <a href=\"https://www.producthunt.com/products/notchkin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1176991?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-06-21T17:06:58"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Agent 37",
-      "url": "https://www.producthunt.com/products/agent-37-38",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Give every customer their own Hermes or OpenClaw agent </p> <p> <a href=\"https://www.producthunt.com/products/agent-37-38?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1176905?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-06-21T17:06:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "What happens when they stop subsidizing LLM subscriptions?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubbj6n/what_happens_when_they_stop_subsidizing_llm/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-06-21T00:08:25+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We are literally burning through VC money like crazy with our coding subscriptions. I read the $200 Anthropic sub gets you $8000 worth of API calls. It's obvious that this doesn't hold for very long but what happens when they raise prices?</p> <p>The reason to keep the prices low for now is to foster the ecosystem and get people hooked on this stuff, only to raise the price afterwards. Already the 20x sub doesn't get you as much usage as it did 6 months ago, ano",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-06-21T17:07:00"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Deep Neural Network that can turn any Image into a Playable Game! BUT LOCALLY, NOT ON DATACENTER",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ub2kmt/deep_neural_network_that_can_turn_any_image_into/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-06-20T17:39:33+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ub2kmt/deep_neural_network_that_can_turn_any_image_into/\"> <img alt=\"Deep Neural Network that can turn any Image into a Playable Game! BUT LOCALLY, NOT ON DATACENTER\" src=\"https://external-preview.redd.it/MWh3cnRiMGw0aDhoMUUFNcAzfDdy8mHA4rR2U-qwO9YPbmjKVRHYwVCG5Fud.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fc1c7976466267d6d2baddf6b97a8a0ff4578c78\" title=\"Deep Neural Network that can turn any Image into a Playable Game",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-06-21T17:07:00"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Grok by SpaceXAI for Word",
       "url": "https://www.producthunt.com/products/grok-by-spacexai-for-word",
       "primary_category": "TOOL",
@@ -2501,7 +2436,35 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-28T16:07:53"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 28 Jun 2026 04:31:18 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-28T17:56:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Dotient",
+      "url": "https://www.producthunt.com/products/dotient",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your local semantic search app </p> <p> <a href=\"https://www.producthunt.com/products/dotient?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1182736?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-28T17:56:31"
     }
   ],
-  "updated_at": "2026-06-28T16:07:56.263023+09:00"
+  "updated_at": "2026-06-28T17:56:34.526683+09:00"
 }

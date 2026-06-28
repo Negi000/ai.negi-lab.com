@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-06-28-ollama-open-webui-local-llm-tutorial.jpg",
     "created_at": "2026-06-28T16:08:38.467039+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-28-local-rag-langchain-faiss-tutorial",
+    "title": "PythonとLangChainで自分専用のPDF検索AIチャットボットを作る方法",
+    "url": "https://ai.negi-lab.com/posts/local-rag-langchain-faiss-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #LangChain",
+    "tweet_text": "ローカルLLMとFAISSで、自分専用のPDF検索RAGを構築しました。RTX 4090 2枚挿しの検証機でなくても、メモリ16GBのPCがあれば十分実用レベル。外部APIへの課金やデータ流出の心配なし。精度を出すならEmbeddingにE5モデルを使うのが鉄則ですね。チャンク分割とプロンプト制御だけで回答の安定感が劇的に変わります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-28-local-rag-langchain-faiss-tutorial.jpg",
+    "created_at": "2026-06-28T17:56:58.721059+09:00",
+    "posted": false
   }
 ]
