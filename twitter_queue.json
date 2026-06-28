@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-06-28-local-rag-langchain-faiss-tutorial.jpg",
     "created_at": "2026-06-28T17:56:58.721059+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-28-lyto-ai-agent-browser-automation-review",
+    "title": "Lyto ブラウザとツールを横断してタスクを完結させる自律型AIエージェントの実力",
+    "url": "https://ai.negi-lab.com/posts/lyto-ai-agent-browser-automation-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #業務効率化",
+    "tweet_text": "AIエージェントは「回答」から「実行」のフェーズへ。Lytoを試したが、ブラウザ操作とSlack連携のシームレスさが異常。\n\nNotionから情報抽出→要約→Slack送信まで1つの指示で完結する。API連携の苦労がバカらしくなるレベル。\n\nブラウザのDOMをLLMが理解して動くから、RPAより圧倒的に壊れにくい。27インチ4Kモニタでエージェントの挙動を監視しながら作業するのが、今の最適解。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-28-lyto-ai-agent-browser-automation-review.jpg",
+    "created_at": "2026-06-28T20:07:18.732245+09:00",
+    "posted": false
   }
 ]
