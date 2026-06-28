@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-27-router-local-llm-ai-coding-guide",
-    "title": "AIコーディングのコストを劇的に下げるrouter導入ガイド。CursorやClaude CodeをローカルLLMで運用するハードウェアの選び方と比較",
-    "url": "https://ai.negi-lab.com/posts/router-local-llm-ai-coding-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #Cursor",
-    "tweet_text": "AIコーディングのAPI代に月数万円払ってるなら、Workweave/routerでローカルLLMとハイブリッド運用すべき。VRAM 16GB以上の環境があれば、単純な修正はQwenやLlamaに、複雑な設計はClaudeに自動で振り分けられる。RTX 4060 Ti 16GBなら実質7万円台で導入できて半年で元が取れる。もう全部Sonnetに投げる時代は終わった。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-27-router-local-llm-ai-coding-guide.jpg",
-    "created_at": "2026-06-27T03:52:37.259803+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-27-gpt-5-6-regulation-local-llm-gpu-guide",
     "title": "GPT-5.6規制時代に備える最強のローカルLLM環境比較：おすすめGPUとMacの選び方",
     "url": "https://ai.negi-lab.com/posts/gpt-5-6-regulation-local-llm-gpu-guide/",
