@@ -1,45 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "The 100k whys of AI",
-      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 21 Jun 2026 05:45:21 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-22T03:19:56"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Don’t use AI to write things that you present as your own work",
-      "url": "https://www.satisfice.com/blog/archives/488148",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 21 Jun 2026 04:50:46 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-22T03:19:56"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Building reliable agentic AI systems",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Sun, 21 Jun 2026 04:28:39 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-22T03:19:56"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Identity verification on Claude",
       "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
@@ -2400,18 +2361,89 @@
       "collected_at": "2026-06-29T00:53:52"
     },
     {
-      "source": "HN AI Hot",
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "source": "HN AI Coding",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
       "primary_category": "NEWS",
       "possible_categories": [
-        "MONEY"
+        "NEWS"
       ],
-      "published": "Sun, 28 Jun 2026 16:35:19 +0000",
+      "published": "Sun, 28 Jun 2026 17:50:47 +0000",
       "summary": "",
       "extra": {},
-      "collected_at": "2026-06-29T03:05:20"
+      "collected_at": "2026-06-29T07:10:49"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Reflections on software engineering in the age of AI",
+      "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sun, 28 Jun 2026 16:17:38 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-29T07:10:49"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Anthropic says Alibaba used 25k accounts to mine Claude",
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 27 Jun 2026 16:16:20 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-06-29T07:10:49"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "The number 1 public enemy of open-source.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ui241x/the_number_1_public_enemy_of_opensource/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-06-28T16:44:47+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ui241x/the_number_1_public_enemy_of_opensource/\"> <img alt=\"The number 1 public enemy of open-source.\" src=\"https://external-preview.redd.it/cnp5ZWZ0ZGd5MWFoMRDTe4Q1MMfh41wCu0sV8yUEjL2kaQBpE58TnIU2R6DS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5528cf45daa2e9046360fdebff2fda176621b665\" title=\"The number 1 public enemy of open-source.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Dario's args:</p> <p>&quot;Openso",
+      "extra": {},
+      "collected_at": "2026-06-29T07:10:49"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 28 Jun 2026 19:05:39 +0000",
+      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-29T07:10:51"
+    },
+    {
+      "source": "Google News",
+      "title": "AIで「若手不要」は本当か、Anthropicのデータが示す経験機会の変化 - XenoSpectrum",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQai1DYkI5U1NFYXVsVHhsU3lsMC1qRU1iWmVkY0V1a0w4YS0xcTJWU3Vub190U1RLNmQxcG1yRmxfSW52blZEVmQ3c2l0VC1hNDRiT3dOc09Dc0dISl9GbU5vc0JWNzFoX3FMOEdmaEJNdmJDamo0SzZQWTlwVXptT29ibVpWNFFrSEE?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 28 Jun 2026 21:15:36 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQai1DYkI5U1NFYXVsVHhsU3lsMC1qRU1iWmVkY0V1a0w4YS0xcTJWU3Vub190U1RLNmQxcG1yRmxfSW52blZEVmQ3c2l0VC1hNDRiT3dOc09Dc0dISl9GbU5vc0JWNzFoX3FMOEdmaEJNdmJDamo0SzZQWTlwVXptT29ibVpWNFFrSEE?oc=5\" target=\"_blank\">AIで「若手不要」は本当か、Anthropicのデータが示す経験機会の変化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-29T07:10:51"
     }
   ],
-  "updated_at": "2026-06-29T03:05:27.183222+09:00"
+  "updated_at": "2026-06-29T07:10:55.118863+09:00"
 }
