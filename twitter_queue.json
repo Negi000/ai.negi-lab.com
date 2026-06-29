@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-06-29-cupy-numpy-gpu-acceleration-review.jpg",
     "created_at": "2026-06-29T13:47:41.207358+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-29-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLX 使い方 入門 | Apple SiliconでLLMを爆速で動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "Apple Siliconの真価はMLXにある。RTX 4090を2枚刺すのも良いが、Macの統合メモリを活かしたローカルLLM構築はコスパ最強。Gemma 2 9Bが秒間45トークンで動く快感は一度味わうべき。API料金もプライバシーも気にせず、手元でAIをぶん回すための環境構築ガイドを書いた。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-29-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-06-29T17:23:21.711212+09:00",
+    "posted": false
   }
 ]
