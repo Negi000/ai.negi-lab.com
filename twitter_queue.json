@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-06-29-mlx-apple-silicon-local-llm-tutorial.jpg",
     "created_at": "2026-06-29T17:23:21.711212+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-29-vulnclaw-ai-agent-mcp-penetration-testing-review",
+    "title": "VulnClaw：AI AgentとMCPで脆弱性診断をフルオート化する実力",
+    "url": "https://ai.negi-lab.com/posts/vulnclaw-ai-agent-mcp-penetration-testing-review/",
+    "category": "TOOL",
+    "viral_tags": "#脆弱性診断 #AIエージェント",
+    "tweet_text": "脆弱性診断をAIが自律実行する「VulnClaw」を検証。MCP採用でnmap等のツールをLLMが自在に操り、情報収集からレポート生成まで完結。RTX 4090環境ならローカルLLM連携も現実的。CI/CDに組み込めば診断コストを大幅に削れるが、破壊的アクションのリスク管理は必須。診断の「自動化」から「自律化」への転換点を感じる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-29-vulnclaw-ai-agent-mcp-penetration-testing-review.jpg",
+    "created_at": "2026-06-29T20:06:49.441979+09:00",
+    "posted": false
   }
 ]
