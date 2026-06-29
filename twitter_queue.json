@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-28-local-llm-gpu-comparison-v100-mod-rtx4060ti",
-    "title": "ローカルLLM向けGPU比較と選び方：中国発「魔改造V100 32GB」の衝撃と現実的な選択肢",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-comparison-v100-mod-rtx4060ti/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #GPU選び",
-    "tweet_text": "VRAM 32GBが9万円という「魔改造Tesla V100 v4」のニュースに驚愕。中国のハッカーがピンアサインを1年かけて解析しハーフハイト基板に移植した執念の作。\nただし実務家なら飛びつく前に要検討。冷却設計・ドライバ・保証の壁を考えると、一般層はRTX 4060 Ti 16GBや中古3090が正解。ローカルLLM構築は「環境構築に何時間溶かすか」の勝負。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-28-local-llm-gpu-comparison-v100-mod-rtx4060ti.jpg",
-    "created_at": "2026-06-28T07:12:59.624451+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-28-hugohe3-ppt-master-review-automatic-powerpoint",
     "title": "hugohe3/ppt-master レビュー 編集可能なパワポをAIで完全自動生成する方法",
     "url": "https://ai.negi-lab.com/posts/hugohe3-ppt-master-review-automatic-powerpoint/",
