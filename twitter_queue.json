@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-28-hugohe3-ppt-master-review-automatic-powerpoint",
-    "title": "hugohe3/ppt-master レビュー 編集可能なパワポをAIで完全自動生成する方法",
-    "url": "https://ai.negi-lab.com/posts/hugohe3-ppt-master-review-automatic-powerpoint/",
-    "category": "TOOL",
-    "viral_tags": "#GitHubツール #業務効率化",
-    "tweet_text": "AIパワポ生成の決定版「hugohe3/ppt-master」が熱い。画像貼り付けじゃなく、編集可能な図形やテキストとしてPPTXを直接吐き出せる。\n\n既存の社内テンプレートを読み込めるから、ブランドカラー無視の資料にならないのが実務向け。スピーカーノートの音声化まで対応。RTX 4090環境でローカルLLM連携も試したが、構造化データの出力精度が資料の質に直結する。叩き台作りが1分で終わる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-28-hugohe3-ppt-master-review-automatic-powerpoint.jpg",
-    "created_at": "2026-06-28T13:28:29.350562+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-28-ollama-open-webui-local-llm-tutorial",
-    "title": "OllamaとOpen WebUIでプライベートなローカルLLM環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "ローカルLLMを「動かして終わり」にするのはもったいない。OllamaとOpen WebUIを組み合わせれば、VRAM 8GB以上のPC1台で、RAG対応のプライベートChatGPT環境が完成する。\n外部API一切なし、データ流出リスクゼロ。この安心感は業務利用でこそ活きる。RTX 3060 12GB版ならコスパ良く実用レベルまで持っていける。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-28-ollama-open-webui-local-llm-tutorial.jpg",
-    "created_at": "2026-06-28T16:08:38.467039+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-28-local-rag-langchain-faiss-tutorial",
-    "title": "PythonとLangChainで自分専用のPDF検索AIチャットボットを作る方法",
-    "url": "https://ai.negi-lab.com/posts/local-rag-langchain-faiss-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #LangChain",
-    "tweet_text": "ローカルLLMとFAISSで、自分専用のPDF検索RAGを構築しました。RTX 4090 2枚挿しの検証機でなくても、メモリ16GBのPCがあれば十分実用レベル。外部APIへの課金やデータ流出の心配なし。精度を出すならEmbeddingにE5モデルを使うのが鉄則ですね。チャンク分割とプロンプト制御だけで回答の安定感が劇的に変わります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-28-local-rag-langchain-faiss-tutorial.jpg",
-    "created_at": "2026-06-28T17:56:58.721059+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-28-lyto-ai-agent-browser-automation-review",
     "title": "Lyto ブラウザとツールを横断してタスクを完結させる自律型AIエージェントの実力",
     "url": "https://ai.negi-lab.com/posts/lyto-ai-agent-browser-automation-review/",
