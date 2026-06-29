@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-27-openpilot-commaai-full-review-guide",
-    "title": "commaai/openpilot 既存の車をレベル2自動運転車へアップグレードするオープンソースOS",
-    "url": "https://ai.negi-lab.com/posts/openpilot-commaai-full-review-guide/",
-    "category": "TOOL",
-    "viral_tags": "#openpilot #自動運転",
-    "tweet_text": "既存の300車種を自動運転化する「openpilot」を検証。市販車のADASをOSSで上書きする体験は、エンジニアなら震えるはず。Pythonで車両のCANバスを叩き、RTX 4090級で学習されたモデルをローカル実行する。単なる便利ツールじゃない、これは移動する開発環境だ。導入前に車種別のトルク制限だけは死守して確認すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-27-openpilot-commaai-full-review-guide.jpg",
-    "created_at": "2026-06-27T19:57:48.459648+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-27-asian-ai-startups-mythos-like-models-impact",
-    "title": "Claude輸出規制が招くアジアAIの逆襲：Mythos超えモデルが市場を奪う未来",
-    "url": "https://ai.negi-lab.com/posts/asian-ai-startups-mythos-like-models-impact/",
-    "category": "NEWS",
-    "viral_tags": "#生成AI #ローカルLLM",
-    "tweet_text": "Claudeの輸出規制が招いたのは、皮肉にもアジア系AIの爆発的進化でした。\n\nAnthropic不在の隙に「Mythos級」の性能を持つ新興モデルが続々登場。日本語トークン効率が30%高く、API単価も安い。実務では「精度が同等なら安い方」が選ばれるのは必然です。米国1強時代の終焉を感じる。\n\n開発者は今すぐマルチモデル構成への移行準備を。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-27-asian-ai-startups-mythos-like-models-impact.jpg",
-    "created_at": "2026-06-27T22:54:48.259377+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-28-cognee-ai-agent-memory-gpu-selection-guide",
     "title": "Agentの長期記憶cognee比較・選び方｜ローカルLLM開発に必須のGPU・Mac選定ガイド",
     "url": "https://ai.negi-lab.com/posts/cognee-ai-agent-memory-gpu-selection-guide/",
