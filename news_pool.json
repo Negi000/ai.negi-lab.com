@@ -1,53 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Cotypist",
-      "url": "https://www.producthunt.com/products/cotypist",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Local AI Autocomplete in your voice, anywhere on your Mac </p> <p> <a href=\"https://www.producthunt.com/products/cotypist?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1172491?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-23T21:07:29"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Bluerails Discovery",
-      "url": "https://www.producthunt.com/products/bluerails-discovery",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The rails AI agents use to find and pay you </p> <p> <a href=\"https://www.producthunt.com/products/bluerails-discovery?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1178153?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-06-23T21:07:29"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Rosply",
-      "url": "https://www.producthunt.com/products/rosply",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI agent that controls your computer autonomously </p> <p> <a href=\"https://www.producthunt.com/products/rosply?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1178312?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-06-23T21:07:29"
-    },
-    {
       "source": "HN Local AI",
       "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
       "url": "https://github.com/shumaiOne/shumai",
@@ -2365,21 +2318,6 @@
       "collected_at": "2026-06-30T20:44:33"
     },
     {
-      "source": "GitHub Trending",
-      "title": "google/agents-cli",
-      "url": "https://github.com/google/agents-cli",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
-      "extra": {
-        "stars_today": "433 stars today"
-      },
-      "collected_at": "2026-06-30T20:44:33"
-    },
-    {
       "source": "Product Hunt",
       "title": "Pluno",
       "url": "https://www.producthunt.com/products/pluno",
@@ -2394,7 +2332,53 @@
         "revenue_score": 3
       },
       "collected_at": "2026-06-30T20:44:34"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "We write your reusable computer vision tools. 💜",
+      "extra": {
+        "stars_today": "336 stars today"
+      },
+      "collected_at": "2026-06-30T23:28:23"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 30 Jun 2026 14:00:00 +0000",
+      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-06-30T23:28:23"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cursor for iOS",
+      "url": "https://www.producthunt.com/products/cursor",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build with coding agents from anywhere </p> <p> <a href=\"https://www.producthunt.com/products/cursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1184233?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-06-30T23:28:24"
     }
   ],
-  "updated_at": "2026-06-30T20:44:38.122281+09:00"
+  "updated_at": "2026-06-30T23:28:27.942367+09:00"
 }
