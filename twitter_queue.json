@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-29-cupy-numpy-gpu-acceleration-review",
-    "title": "CuPy NumPy互換の計算をGPUで100倍高速化する方法",
-    "url": "https://ai.negi-lab.com/posts/cupy-numpy-gpu-acceleration-review/",
-    "category": "TOOL",
-    "viral_tags": "#Python #データサイエンス",
-    "tweet_text": "NumPyで10分かかる行列演算、CuPyなら3秒で終わります。\n\nPython歴8年の私が実務で愛用するのは、PyTorchよりむしろこれ。既存コードの「import numpy as np」を「import cupy as cp」に変えるだけで、RTX 4090のパワーを数値計算に解放できる。\n\nVRAM転送のボトルネックさえ理解すれば、シミュレーション効率が10倍変わる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-29-cupy-numpy-gpu-acceleration-review.jpg",
-    "created_at": "2026-06-29T13:47:41.207358+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-29-mlx-apple-silicon-local-llm-tutorial",
     "title": "MLX 使い方 入門 | Apple SiliconでLLMを爆速で動かす方法",
     "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
