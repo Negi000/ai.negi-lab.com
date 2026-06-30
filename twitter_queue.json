@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-06-30-claude-code-ai-coding-pc-specs-comparison.jpg",
     "created_at": "2026-06-30T18:43:38.767066+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-30-google-agents-cli-vertex-ai-review",
+    "title": "google/agents-cli で Vertex AI エージェント開発を高速化する",
+    "url": "https://ai.negi-lab.com/posts/google-agents-cli-vertex-ai-review/",
+    "category": "TOOL",
+    "viral_tags": "#VertexAI #AIエージェント",
+    "tweet_text": "Google Cloud派の決定版。google/agents-cliを検証した。Vertex AIエージェントの「開発→評価→デプロイ」の泥臭い工程をコマンド一発で完結させる。特に評価（Eval）機能が標準で組み込まれているのが実務向き。LangChainでデプロイに苦労するくらいなら、これに乗り換えるのが正解。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-30-google-agents-cli-vertex-ai-review.jpg",
+    "created_at": "2026-06-30T20:45:51.035605+09:00",
+    "posted": false
   }
 ]

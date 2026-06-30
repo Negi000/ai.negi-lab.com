@@ -1,49 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "url": "https://openai.com/index/daybreak-securing-the-world/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 23 Jun 2026 01:36:08 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-23T18:46:06"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Amnesia",
-      "url": "https://www.producthunt.com/products/amnesia-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A Mac app that asks why you opened that tab </p> <p> <a href=\"https://www.producthunt.com/products/amnesia-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1174870?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-23T18:46:09"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "BestDefense.io",
-      "url": "https://www.producthunt.com/products/bestdefense-io",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Pentest and patch every deploy with AI </p> <p> <a href=\"https://www.producthunt.com/products/bestdefense-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1176251?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-23T18:46:09"
-    },
-    {
       "source": "Product Hunt",
       "title": "Cotypist",
       "url": "https://www.producthunt.com/products/cotypist",
@@ -2306,19 +2263,6 @@
     },
     {
       "source": "HN AI Coding",
-      "title": "You shouldn't copy-paste errors into Claude Code",
-      "url": "https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Mon, 29 Jun 2026 21:16:58 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-30T18:42:08"
-    },
-    {
-      "source": "HN AI Coding",
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "primary_category": "NEWS",
@@ -2389,7 +2333,68 @@
         "revenue_score": 0
       },
       "collected_at": "2026-06-30T18:42:11"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "extra": {
+        "stars_today": "395 stars today"
+      },
+      "collected_at": "2026-06-30T20:44:33"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Mebus/cupp",
+      "url": "https://github.com/Mebus/cupp",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Common User Passwords Profiler (CUPP)",
+      "extra": {
+        "stars_today": "18 stars today"
+      },
+      "collected_at": "2026-06-30T20:44:33"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "google/agents-cli",
+      "url": "https://github.com/google/agents-cli",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+      "extra": {
+        "stars_today": "433 stars today"
+      },
+      "collected_at": "2026-06-30T20:44:33"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Pluno",
+      "url": "https://www.producthunt.com/products/pluno",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Browser agent that’s 10x faster than Claude </p> <p> <a href=\"https://www.producthunt.com/products/pluno?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1183935?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-06-30T20:44:34"
     }
   ],
-  "updated_at": "2026-06-30T18:42:14.977190+09:00"
+  "updated_at": "2026-06-30T20:44:38.122281+09:00"
 }
