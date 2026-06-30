@@ -15205,5 +15205,19 @@
     "image_path": "/images/posts/2026-06-30-video-use-ai-agent-editing-guide.jpg",
     "created_at": "2026-06-30T13:13:39.631512+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-06-30-ollama-openwebui-local-llm-guide",
+    "title": "OllamaとOpen WebUIでローカルLLM環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "RTX 3060 12GBがあれば、自宅に「課金なし・プライバシー完璧」なChatGPTが降臨する。OllamaとOpen WebUIの組み合わせは、Docker一発でRAGもモデル管理も完結するのが強すぎる。VRAM 8GBでLlama3がサクサク動く時代。API代を気にせず、数万行のコードをAIに食わせる快感を知ってほしい。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-06-30-ollama-openwebui-local-llm-guide.jpg",
+    "created_at": "2026-06-30T16:02:36.800874+09:00",
+    "posted": false
   }
 ]
