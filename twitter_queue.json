@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-07-01-us-military-ai-project-maven-combat-deployment.jpg",
     "created_at": "2026-07-01T01:39:05.514033+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-01-claude-code-steganography-ai-coding-setup-guide",
+    "title": "Claude Codeの隠しマーク問題で判明したAIコーディングのリスクと、失敗しない開発環境の選び方",
+    "url": "https://ai.negi-lab.com/posts/claude-code-steganography-ai-coding-setup-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #AIコーディング",
+    "tweet_text": "Claude Codeがプロンプトに「隠しマーク」を埋め込んでいた件。企業利用では透明性が課題になる。\n\n解決策は特定ツールへの依存を脱却し、ClineやAiderでローカルLLMを併用できる環境を作ること。\n\n・VRAM 16GB以上のRTX\n・メモリ64GB以上のMac\n\n今、投資すべきはこのスペック。サブスク月3000円を払う前に、まずは自由な検証環境を整えるのが実務者の正解ですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-01-claude-code-steganography-ai-coding-setup-guide.jpg",
+    "created_at": "2026-07-01T03:56:32.435804+09:00",
+    "posted": false
   }
 ]

@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 23 Jun 2026 17:00:00 +0000",
-      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-24T02:01:44"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "NeuralAgent 3.0",
-      "url": "https://www.producthunt.com/products/neuralagent",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI that executes UI actions on your computer in ~285ms </p> <p> <a href=\"https://www.producthunt.com/products/neuralagent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1177644?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-06-24T02:01:45"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "jebi",
-      "url": "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A supercharged terminal for Mac with built-in local AI </p> <p> <a href=\"https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1170883?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-24T02:01:45"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude Tag",
       "url": "https://www.anthropic.com/news/introducing-claude-tag",
@@ -2052,22 +2006,6 @@
       "collected_at": "2026-06-30T16:01:33"
     },
     {
-      "source": "Google News",
-      "title": "イラン戦争で証明された軍事AIの威力、米軍が切り開く「AI戦争」の時代 - JBpress",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CdGhMTnhYMDdEU0l3R3R4WGRWN2xDWFRQYV9zY2NBZll4NTlqTWxXaWlROVNWR2RjaE5QUm5NUFZJRG5fMURVby1oem5ERXVDeFBLQjRHN292ODdKQXRJ?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Mon, 29 Jun 2026 21:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CdGhMTnhYMDdEU0l3R3R4WGRWN2xDWFRQYV9zY2NBZll4NTlqTWxXaWlROVNWR2RjaE5QUm5NUFZJRG5fMURVby1oem5ERXVDeFBLQjRHN292ODdKQXRJ?oc=5\" target=\"_blank\">イラン戦争で証明された軍事AIの威力、米軍が切り開く「AI戦争」の時代</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JBpress</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-06-30T16:01:35"
-    },
-    {
       "source": "Product Hunt",
       "title": "Skills Marketplace by Databox",
       "url": "https://www.producthunt.com/products/databox",
@@ -2318,7 +2256,109 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-01T01:37:39"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 30 Jun 2026 17:59:52 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-01T03:55:58"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 30 Jun 2026 17:07:41 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-01T03:55:58"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Tue, 30 Jun 2026 18:13:02 +0000",
+      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-01T03:56:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Clade",
+      "url": "https://www.producthunt.com/products/cleo-4",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI COO that runs your team in tools you already use </p> <p> <a href=\"https://www.producthunt.com/products/cleo-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1180392?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-01T03:56:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Well.. it's a step up from nonstop bot spam I guess",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ujouxg/well_its_a_step_up_from_nonstop_bot_spam_i_guess/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-06-30T13:11:54+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ujouxg/well_its_a_step_up_from_nonstop_bot_spam_i_guess/\"> <img alt=\"Well.. it's a step up from nonstop bot spam I guess\" src=\"https://preview.redd.it/gk5srir26fah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=54c08e8581aa00ff9688ff1a1e93e2b722bdc736\" title=\"Well.. it's a step up from nonstop bot spam I guess\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ForsookComparison\"> /u/ForsookC",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-07-01T03:56:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "nvidia/Qwen3.6-27B-NVFP4 just dropped",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ujlltn/nvidiaqwen3627bnvfp4_just_dropped/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-06-30T10:39:10+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4\">https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vanbukin\"> /u/vanbukin </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ujlltn/nvidiaqwen3627bnvfp4_just_dropped/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ujlltn/nvidiaqwen3627bnvfp4_just_dropped/\">[c",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-07-01T03:56:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Huawei open-sources OpenPangu-2.0-Flash - 92B total,6B active",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ujn5u3/huawei_opensources_openpangu20flash_92b_total6b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-06-30T11:58:23+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ujn5u3/huawei_opensources_openpangu20flash_92b_total6b/\"> <img alt=\"Huawei open-sources OpenPangu-2.0-Flash - 92B total,6B active\" src=\"https://preview.redd.it/29tji3noteah1.png?width=140&amp;height=79&amp;auto=webp&amp;s=8e1b8705ac867254bf81d890012ab45ba820cea2\" title=\"Huawei open-sources OpenPangu-2.0-Flash - 92B total,6B active\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://x.com/Chinazhidx/status/2",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-07-01T03:56:02"
     }
   ],
-  "updated_at": "2026-07-01T01:37:43.529813+09:00"
+  "updated_at": "2026-07-01T03:56:02.488292+09:00"
 }
