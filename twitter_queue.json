@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-29-glm-5-2-claude-comparison-gpu-selection-guide",
-    "title": "GLM 5.2比較と選び方！Claude超えAIコーディングに必要なRTX・Mac構成",
-    "url": "https://ai.negi-lab.com/posts/glm-5-2-claude-comparison-gpu-selection-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "GLM 5.2がサイバーセキュリティ推論でClaude 3.5 Sonnetを超えたとの報。実務でローカルLLMを回すならVRAM 24GBが「最低ライン」になる時代が来ました。RTX 4090かMac 64GB以上がないと、モデルの進化を体感できない。中途半端なスペックで妥協すると結局APIに戻るだけ。買う前にVRAMと電源容量だけは死守すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-29-glm-5-2-claude-comparison-gpu-selection-guide.jpg",
-    "created_at": "2026-06-29T07:11:25.791890+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-29-cupy-numpy-gpu-acceleration-review",
     "title": "CuPy NumPy互換の計算をGPUで100倍高速化する方法",
     "url": "https://ai.negi-lab.com/posts/cupy-numpy-gpu-acceleration-review/",
