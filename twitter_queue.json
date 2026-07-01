@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-07-01-mlx-apple-silicon-local-llm-guide.jpg",
     "created_at": "2026-07-01T16:19:40.992466+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-01-glm-5-2-local-llm-gpu-guide",
+    "title": "ローカルLLM最強候補GLM 5.2登場！実務で勝てるおすすめGPUと失敗しないPC選び",
+    "url": "https://ai.negi-lab.com/posts/glm-5-2-local-llm-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #GLM5",
+    "tweet_text": "GLM 5.2をローカルで動かすなら、もはやVRAM 16GBは「最低ライン」です。Qwen 2.5やLlama 3.1と比較してもコーディング能力がズバ抜けている分、メモリ消費を妥協すると後悔します。RTX 4060 Ti 16GBがコスパ枠、ガチ勢なら4090かMac Studio 64GB一択。VRAM不足による速度低下は実務での致命傷になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-01-glm-5-2-local-llm-gpu-guide.jpg",
+    "created_at": "2026-07-01T18:56:39.972104+09:00",
+    "posted": false
   }
 ]
