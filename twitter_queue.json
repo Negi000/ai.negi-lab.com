@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-01-mlx-apple-silicon-local-llm-guide.jpg",
     "created_at": "2026-07-01T21:07:44.337292+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-01-vibe-trading-ai-agent-review",
+    "title": "Vibe-Trading 視覚的直感とLLMを統合した次世代トレーディングエージェント",
+    "url": "https://ai.negi-lab.com/posts/vibe-trading-ai-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIトレード #LLM",
+    "tweet_text": "GitHubで話題のVibe-Tradingを検証。従来のボットと違い、チャートを「画像」としてMLLMに読ませる発想が面白い。GPT-4oならトレンドラインやだましも視覚的に判断。APIコストと1〜3秒のラグが課題だが、スイングトレードのセカンドオピニオンとしては最強。RTX 4090等のVRAM強者ならローカルMLLMでの運用も視野に入る。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-01-vibe-trading-ai-agent-review.jpg",
+    "created_at": "2026-07-01T23:50:58.590393+09:00",
+    "posted": false
   }
 ]
