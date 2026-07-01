@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-07-01-cursor-ios-mobile-coding-agent-review.jpg",
     "created_at": "2026-07-01T13:42:42.652047+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-01-mlx-apple-silicon-local-llm-guide",
+    "title": "MLX入門！MacでローカルLLMを爆速で動かすPythonスクリプト作成術",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "Apple Siliconの真価はMLXで発揮される。ユニファイドメモリを直接叩くから、Llama 3 8BがMacBookで爆速。PyTorchよりもオーバーヘッドが少なく、メモリ16GBあれば十分実用レベル。仕事でローカルLLMを組み込むならGUIツール卒業して、Pythonで直接制御するのが結局一番近道。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-01-mlx-apple-silicon-local-llm-guide.jpg",
+    "created_at": "2026-07-01T16:19:40.992466+09:00",
+    "posted": false
   }
 ]
