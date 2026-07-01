@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-06-30-video-use-ai-agent-editing-guide",
-    "title": "browser-use/video-use 使い方と実力レビュー",
-    "url": "https://ai.negi-lab.com/posts/video-use-ai-agent-editing-guide/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #動画編集自動化",
-    "tweet_text": "動画編集をAIエージェントに丸投げできる「video-use」が凄い。\n自然言語で指示するだけでMoviePyのコードを自動生成・実行。\n「10秒カットしてテロップ入れて」が15秒で完結する。\n手動の座標計算から解放される感覚は、一度味わうと戻れない。\n定型動画の大量生成が必要なエンジニアは、今すぐ環境構築すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-30-video-use-ai-agent-editing-guide.jpg",
-    "created_at": "2026-06-30T13:13:39.631512+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-30-ollama-openwebui-local-llm-guide",
-    "title": "OllamaとOpen WebUIでローカルLLM環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "RTX 3060 12GBがあれば、自宅に「課金なし・プライバシー完璧」なChatGPTが降臨する。OllamaとOpen WebUIの組み合わせは、Docker一発でRAGもモデル管理も完結するのが強すぎる。VRAM 8GBでLlama3がサクサク動く時代。API代を気にせず、数万行のコードをAIに食わせる快感を知ってほしい。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-30-ollama-openwebui-local-llm-guide.jpg",
-    "created_at": "2026-06-30T16:02:36.800874+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-06-30-claude-code-ai-coding-pc-specs-comparison",
-    "title": "Claude Code時代のPC選び方！エラーをコピペしない最強の開発環境とおすすめスペック比較",
-    "url": "https://ai.negi-lab.com/posts/claude-code-ai-coding-pc-specs-comparison/",
-    "category": "MONEY",
-    "viral_tags": "#ClaudeCode #AIコーディング",
-    "tweet_text": "Claude Code時代のPC選び、まだメモリ16GBで消耗してませんか？AIにエラーをコピペせず「自律実行」させるなら、ローカルの実行環境こそがボトルネック。\n実務で使うならMacはメモリ36GB、WindowsならVRAM 16GBのRTX 4060 Tiが投資の分岐点です。AIの思考を待つ時間をハードウェアで削るのが、令和のエンジニアの生存戦略ですね。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-06-30-claude-code-ai-coding-pc-specs-comparison.jpg",
-    "created_at": "2026-06-30T18:43:38.767066+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-06-30-google-agents-cli-vertex-ai-review",
     "title": "google/agents-cli で Vertex AI エージェント開発を高速化する",
     "url": "https://ai.negi-lab.com/posts/google-agents-cli-vertex-ai-review/",
