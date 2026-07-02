@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-07-02-scritty-ai-agent-shared-memory-review.jpg",
     "created_at": "2026-07-02T20:34:54.833514+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-03-python-ai-agent-docker-sandbox-tutorial",
+    "title": "DockerでAIエージェントのコード実行環境を隔離する方法",
+    "url": "https://ai.negi-lab.com/posts/python-ai-agent-docker-sandbox-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントに自律的なコード実行を任せるなら、Dockerでのサンドボックス化は必須です。ローカル環境を壊さないために、network_disabled=Trueによる通信遮断とメモリ制限は実務の鉄則。Python SDKを使えば、安全なコード実行環境をわずか40分で構築できます。機密データを扱うならクラウドよりローカルDockerが最適。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-03-python-ai-agent-docker-sandbox-tutorial.jpg",
+    "created_at": "2026-07-03T01:25:33.561976+09:00",
+    "posted": false
   }
 ]
