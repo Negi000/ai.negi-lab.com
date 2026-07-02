@@ -1,138 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Computer use in Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 24 Jun 2026 17:21:34 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-25T07:24:58"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 24 Jun 2026 21:56:41 +0000",
-      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-25T07:24:59"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "FUTO Swipe",
-      "url": "https://www.producthunt.com/products/futo-swipe",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open models for on-device swipe typing </p> <p> <a href=\"https://www.producthunt.com/products/futo-swipe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1179599?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-25T07:25:00"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "The Swiss Federal Supreme Court is evaluating Heretic",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ueeund/the_swiss_federal_supreme_court_is_evaluating/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-06-24T14:19:33+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><h2>“Oh no, are they banning abliterated models now?!?”</h2> <p>If that was your first thought when you read the title I can’t blame you. But that’s actually not what’s happening in this case.</p> <p>Instead, the Swiss Federal Supreme Court is evaluating <a href=\"https://heretic-project.org\">Heretic</a> <strong>for their own use!</strong></p> <p>As it turns out, the Court has been suffering from the same problem as many people on this sub: LLMs refusing perfectly l",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-06-25T07:25:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Unlimited-OCR is now on ModelScope! A 3.3B multilingual OCR model for one-shot parsing across single images, multi-page documents, and PDFs. License: MIT",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ue51uk/unlimitedocr_is_now_on_modelscope_a_33b/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-06-24T05:53:49+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ue51uk/unlimitedocr_is_now_on_modelscope_a_33b/\"> <img alt=\"Unlimited-OCR is now on ModelScope! A 3.3B multilingual OCR model for one-shot parsing across single images, multi-page documents, and PDFs. License: MIT\" src=\"https://external-preview.redd.it/eDVseHc2dGY2NjloMRjuwBG_We25XN8jEw_afS8_MTEG560MD4vWFWe_JI83.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c22af80bc2cbb91118b0a503ade21a10ab911fc\" title=\"Unlimited-OCR is",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-06-25T07:25:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Gefen is a drop-in replacement for the AdamW optimizer, claims 8x memory reduction in training (GitHub available)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uep96s/gefen_is_a_dropin_replacement_for_the_adamw/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-06-24T20:39:04+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Paper: <a href=\"https://arxiv.org/abs/2606.13894\">https://arxiv.org/abs/2606.13894</a></p> <p>GitHub: <a href=\"https://github.com/ndvbd/Gefen\">https://github.com/ndvbd/Gefen</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/indicava\"> /u/indicava </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uep96s/gefen_is_a_dropin_replacement_for_the_adamw/\">[link]</a></span> &#32; <span><a href=\"https://www.r",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-06-25T07:25:01"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 24 Jun 2026 19:48:01 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-25T13:12:10"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Europe is pushing back on Washington’s chip war",
-      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Thu, 25 Jun 2026 00:08:36 +0000",
-      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off limits.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-06-25T13:12:12"
-    },
-    {
-      "source": "Google News",
-      "title": "AI投資でCEOと取締役会の温度差広がる - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2JId2xwOVI1bEZEVDZReE03RUo0ZkFqOU81UDRibmdKRU1ZOUUtZEdyd09hc0J3RHlMQlNOYmxjYklZQzVta1JndG4zRUllTzJtSmdBRGdyUEVHVl9UZXAtei0yZDN1TjMwNFRYR19kN3E3RUJnc1hldjZHV3RQQw?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 25 Jun 2026 01:01:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2JId2xwOVI1bEZEVDZReE03RUo0ZkFqOU81UDRibmdKRU1ZOUUtZEdyd09hc0J3RHlMQlNOYmxjYklZQzVta1JndG4zRUllTzJtSmdBRGdyUEVHVl9UZXAtei0yZDN1TjMwNFRYR19kN3E3RUJnc1hldjZHV3RQQw?oc=5\" target=\"_blank\">AI投資でCEOと取締役会の温度差広がる</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chosunbiz</font>",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-06-25T13:12:13"
-    },
-    {
       "source": "Product Hunt",
       "title": "BrowserBash",
       "url": "https://www.producthunt.com/products/browserbash",
@@ -2346,19 +2214,6 @@
       "collected_at": "2026-07-02T07:24:04"
     },
     {
-      "source": "HN AI Hot",
-      "title": "ZCode: Claude Code from the Makers of GLM",
-      "url": "https://zcode.z.ai/cn",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Wed, 01 Jul 2026 19:11:38 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-02T07:24:04"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
       "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
@@ -2432,7 +2287,147 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-02T07:24:07"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 02 Jul 2026 05:30:00 +0000",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-02T18:16:56"
+    },
+    {
+      "source": "Google News",
+      "title": "輸出規制解除が決定するも、残る不安 「Claude Fable 5」が突きつけた“AI地政学”という新脅威（リアルサウンド） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zb25lX2Z4TUwyc3RtWlZIRGJ4dTQwZlBVUVQxbkluTDZwOVBteXNUTHVybzhHRVY4QXFXZkItSzJ2Mno2VTZZdWEyTGhWNmRsT2JFLXA5MU5DXzdNLXU2UUQzR0xEMG1SQ25TbThVZFhVc0ZGVlhsQnRmVUNObUU?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 02 Jul 2026 01:07:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE4zb25lX2Z4TUwyc3RtWlZIRGJ4dTQwZlBVUVQxbkluTDZwOVBteXNUTHVybzhHRVY4QXFXZkItSzJ2Mno2VTZZdWEyTGhWNmRsT2JFLXA5MU5DXzdNLXU2UUQzR0xEMG1SQ25TbThVZFhVc0ZGVlhsQnRmVUNObUU?oc=5\" target=\"_blank\">輸出規制解除が決定するも、残る不安 「Claude Fable 5」が突きつけた“AI地政学”という新脅威（リアルサウンド）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-07-02T18:16:57"
+    },
+    {
+      "source": "Google News",
+      "title": "ChatGPT発のコーディングエージェント「Codex」とは ～Claude Codeとの使い心地の違いから紐解く - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iSUM0VEZXLVJCMkJ1N3ZPcmRtR0xzN0llSHJYWjlsbE9qVWI0NV9OZDdWcnhhQlp0VDVNb0M4Qkh3TmVCZm96Si1wVzl4a1cwTDRVRUpPWXBkUXNVQk1ncFdMakZtR3RGUnlqeVFrd0pkU2M?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Thu, 02 Jul 2026 00:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1iSUM0VEZXLVJCMkJ1N3ZPcmRtR0xzN0llSHJYWjlsbE9qVWI0NV9OZDdWcnhhQlp0VDVNb0M4Qkh3TmVCZm96Si1wVzl4a1cwTDRVRUpPWXBkUXNVQk1ncFdMakZtR3RGUnlqeVFrd0pkU2M?oc=5\" target=\"_blank\">ChatGPT発のコーディングエージェント「Codex」とは ～Claude Codeとの使い心地の違いから紐解く</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">窓の杜</font>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-07-02T18:16:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Quick Sub 2: Video Subtitling",
+      "url": "https://www.producthunt.com/products/quick-sub-2-video-subtitling",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Quick, creative video subtitling with direct canvas control. </p> <p> <a href=\"https://www.producthunt.com/products/quick-sub-2-video-subtitling?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1185923?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-02T18:16:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Retrace",
+      "url": "https://www.producthunt.com/products/retrace-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Debug AI agents by replaying and forking runs </p> <p> <a href=\"https://www.producthunt.com/products/retrace-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1185661?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-07-02T18:16:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Gaming Chat SDK by CometChat",
+      "url": "https://www.producthunt.com/products/cometchat",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Chat drops into Unreal like it was always there </p> <p> <a href=\"https://www.producthunt.com/products/cometchat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1186027?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-02T18:16:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Palantir CEO rages against closed models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ulb4nx/palantir_ceo_rages_against_closed_models/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-07-02T07:15:05+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ulb4nx/palantir_ceo_rages_against_closed_models/\"> <img alt=\"Palantir CEO rages against closed models\" src=\"https://external-preview.redd.it/m5EmAzn8-r6mbyLy9PgkVT0yVl1gHHIEZpPeRMp7fKY.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=058ad6833e3d75a9b81a1daec4803c159921cd47\" title=\"Palantir CEO rages against closed models\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>For context, this week they struck a deal to buy N",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-07-02T18:17:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I extended Gemma4-31B to 44B (88 layers) — since Google won't give us anything bigger than 31B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ul0cx9/i_extended_gemma431b_to_44b_88_layers_since/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-01T22:35:11+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ul0cx9/i_extended_gemma431b_to_44b_88_layers_since/\"> <img alt=\"I extended Gemma4-31B to 44B (88 layers) — since Google won't give us anything bigger than 31B\" src=\"https://preview.redd.it/qbkvzo4s3pah1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2dc01c36084bb590a26f6589a8c7a0029d8cf0f\" title=\"I extended Gemma4-31B to 44B (88 layers) — since Google won't give us anything bigger than 31B\" /> </a> </td><td> <!-- SC_OFF -",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-07-02T18:17:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Couldn't hold back",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ukqp20/couldnt_hold_back/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-07-01T16:34:51+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ukqp20/couldnt_hold_back/\"> <img alt=\"Couldn't hold back\" src=\"https://preview.redd.it/qj3gtydibnah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a442108a1f5956827eab832cdfd3097084b3572b\" title=\"Couldn't hold back\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Had been waiting for months and the cards finally got delivered today. No one at my workplace was excited, maybe because no one cares for AI stuff that i wo",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-07-02T18:17:01"
     }
   ],
-  "updated_at": "2026-07-02T07:24:10.452270+09:00"
+  "updated_at": "2026-07-02T18:17:01.529144+09:00"
 }
