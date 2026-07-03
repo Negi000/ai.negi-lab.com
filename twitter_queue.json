@@ -15177,5 +15177,19 @@
     "image_path": "/images/posts/2026-07-03-llama-cpp-gguf-local-llm-setup-guide.jpg",
     "created_at": "2026-07-03T15:39:47.526224+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-03-local-llama-pc-mac-comparison-guide",
+    "title": "ローカルLLM構築PC・Macおすすめ比較｜VRAM不足を回避する選び方と買う前の注意点",
+    "url": "https://ai.negi-lab.com/posts/local-llama-pc-mac-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLM環境を構築するなら、VRAM 16GBが最低ライン。RTX 4060 Ti 16GBは6万円台で買える現実的な選択肢ですが、実務で70BモデルやAIエージェントを動かすならRTX 4090かMac 64GB以上が正解です。VRAM不足で買い直すのが一番高くつきます。自分の演算資源を持つことが、検閲や規制への最大の防衛策になる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-03-local-llama-pc-mac-comparison-guide.jpg",
+    "created_at": "2026-07-03T18:23:07.669104+09:00",
+    "posted": false
   }
 ]
