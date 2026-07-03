@@ -15191,5 +15191,19 @@
     "image_path": "/images/posts/2026-07-03-local-llama-pc-mac-comparison-guide.jpg",
     "created_at": "2026-07-03T18:23:07.669104+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-03-ansible-local-llm-gpu-setup-guide",
+    "title": "ローカルLLM環境を自動化するAnsible構築ガイド｜失敗しないGPUサーバーとMacの選び方比較",
+    "url": "https://ai.negi-lab.com/posts/ansible-local-llm-gpu-setup-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #Ansible",
+    "tweet_text": "ローカルLLM環境の構築、まだ手動で消耗してる？RTX 4090やMac Studioを導入するなら、Ansibleでのコード管理が投資対効果を最大化する。\nVRAM 24GBを基準にしたGPU選びと、SSH一本で環境を再現する自動化の鉄則をまとめた。\n実務で「使える」AIインフラを構築したいエンジニアは、ハードを買う前にここをチェックして。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-03-ansible-local-llm-gpu-setup-guide.jpg",
+    "created_at": "2026-07-03T20:32:41.034220+09:00",
+    "posted": false
   }
 ]
