@@ -15191,5 +15191,19 @@
     "image_path": "/images/posts/2026-07-03-ansible-local-llm-gpu-setup-guide.jpg",
     "created_at": "2026-07-03T20:32:41.034220+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-03-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLX入門 Apple SiliconでローカルLLMを爆速で動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "MacBookのGPUを眠らせていませんか？MLXを使えばLlama 3やQwen2.5が爆速で動きます。メモリ16GBあれば、4-bit量子化モデルで毎秒50トークン以上の推論も現実的。Pythonから直接叩けるので、RAG構築や業務自動化への組み込みも自由自在です。実務で「使える」ローカルLLM環境を30分で作るガイドを書きました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-03-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-07-03T23:20:25.985217+09:00",
+    "posted": false
   }
 ]
