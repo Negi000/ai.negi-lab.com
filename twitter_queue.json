@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-07-03-python-ai-agent-docker-sandbox-tutorial.jpg",
     "created_at": "2026-07-03T01:25:33.561976+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-03-llama-cpp-gguf-local-llm-setup-guide",
+    "title": "llama.cppとGGUFでローカルLLMを爆速で動かす環境構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/llama-cpp-gguf-local-llm-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llama_cpp",
+    "tweet_text": "RTX 4090を2枚挿して分かったが、ローカルLLMはllama.cpp＋GGUFの組み合わせが現状の最適解。7BモデルならVRAM 8GBで爆速、4bit量子化なら精度低下も体感不能レベル。API代を気にせずLlama 3を使い倒せる環境を30分で構築するガイドを書きました。開発環境の脱クラウドはここから。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-03-llama-cpp-gguf-local-llm-setup-guide.jpg",
+    "created_at": "2026-07-03T15:39:47.526224+09:00",
+    "posted": false
   }
 ]
