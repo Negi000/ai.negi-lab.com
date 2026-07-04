@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-07-04-vox-github-copilot-voice-review-guide.jpg",
     "created_at": "2026-07-04T12:49:18.454688+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-04-claude-code-cursor-hybrid-workflow-guide",
+    "title": "Claude CodeとCursorを併用して開発効率を最大化するAIコーディング環境構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-workflow-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ClaudeCode #Cursor",
+    "tweet_text": "Claude CodeとCursorを併用した開発が想像以上に快適。Cursorはエディタとしての「静的な修正」に、Claude Codeはターミナルでの「動的な実行・自己修復」に振るのが正解。32GBメモリ環境ならAPI連携のオーバーヘッドも気にならない。この分業でリファクタリングとテストの自動化速度が3倍は変わる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-04-claude-code-cursor-hybrid-workflow-guide.jpg",
+    "created_at": "2026-07-04T15:27:23.234849+09:00",
+    "posted": false
   }
 ]
