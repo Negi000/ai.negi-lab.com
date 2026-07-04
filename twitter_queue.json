@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-07-04-claude-code-cursor-hybrid-workflow-guide.jpg",
     "created_at": "2026-07-04T15:27:23.234849+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-04-apple-silicon-mlx-local-llm-tutorial",
+    "title": "MLX 使い方 Apple SiliconでローカルLLMを動かす入門",
+    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "M4 Mac時代、ローカルLLMを動かすならMLX一択。Apple公式フレームワークなだけあって、Llama 3 8Bが秒間50トークン超えで爆速。メモリ16GBあれば十分実用レベルです。PythonエンジニアならOllamaよりMLXで組む方が、カスタマイズ性も高いし将来性もあります。Macをただのブラウジングマシンで終わらせるな。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-04-apple-silicon-mlx-local-llm-tutorial.jpg",
+    "created_at": "2026-07-04T17:41:33.763787+09:00",
+    "posted": false
   }
 ]
