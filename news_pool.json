@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 26 Jun 2026 18:23:14 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-27T07:21:05"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
       "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
@@ -2056,19 +2043,6 @@
       "collected_at": "2026-07-03T20:31:45"
     },
     {
-      "source": "HN AI Coding",
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 03 Jul 2026 08:31:37 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-03T23:19:26"
-    },
-    {
       "source": "GitHub Trending",
       "title": "harvard-edge/cs249r_book",
       "url": "https://github.com/harvard-edge/cs249r_book",
@@ -2140,7 +2114,21 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-04T07:12:54"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "Fri, 03 Jul 2026 21:16:16 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-04T12:48:48"
     }
   ],
-  "updated_at": "2026-07-04T07:12:58.952444+09:00"
+  "updated_at": "2026-07-04T12:48:54.458634+09:00"
 }
