@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-07-04-apple-silicon-mlx-local-llm-tutorial.jpg",
     "created_at": "2026-07-04T17:41:33.763787+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-04-local-llm-npc-engine-gpu-selection-guide",
+    "title": "ローカルLLMでNPCエンジンを構築する：おすすめGPU比較と失敗しないVRAMの選び方",
+    "url": "https://ai.negi-lab.com/posts/local-llm-npc-engine-gpu-selection-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #ゲーム開発",
+    "tweet_text": "ローカルLLMでNPCを動かすならVRAM容量がすべて。8GBは論外、最低16GBが現代の足切りラインです。\n\nRTX 4060 Ti 16GBなら10万円以下でLlama 3が実用速度で動く。\nでも予算があるなら4070 Ti Super 16GB以上を狙うのが正解。メモリ帯域の差がレスポンスの「キレ」に直結します。\n買う前に電源容量とケース寸法だけは絶対確認して。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-04-local-llm-npc-engine-gpu-selection-guide.jpg",
+    "created_at": "2026-07-04T19:54:26.141663+09:00",
+    "posted": false
   }
 ]
