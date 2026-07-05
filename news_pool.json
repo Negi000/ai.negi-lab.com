@@ -1,47 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "Ford hired AI and sacked humans. It backfired badly",
-      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 28 Jun 2026 03:09:13 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-28T20:06:45"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Michigan spent $1.8B and only created 602 jobs",
-      "url": "https://www.msn.com/en-us/money/general/michigan-spent-1-8-billion-and-only-created-602-jobs/ar-AA26Cusu",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 27 Jun 2026 21:44:57 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-28T20:06:45"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "Robbyant/lingbot-map",
-      "url": "https://github.com/Robbyant/lingbot-map",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "extra": {
-        "stars_today": "372 stars today"
-      },
-      "collected_at": "2026-06-28T20:06:46"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Google limits Meta's use of its Gemini AI models",
       "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
@@ -1319,21 +1278,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "agentskills/agentskills",
-      "url": "https://github.com/agentskills/agentskills",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "Specification and documentation for Agent Skills",
-      "extra": {
-        "stars_today": "47 stars today"
-      },
-      "collected_at": "2026-07-02T20:32:57"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "langflow-ai/langflow",
       "url": "https://github.com/langflow-ai/langflow",
       "primary_category": "TOOL",
@@ -2038,7 +1982,64 @@
         "revenue_score": 7
       },
       "collected_at": "2026-07-05T20:04:01"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Design System Prompt",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 05 Jul 2026 08:43:37 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-05T22:49:32"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 05 Jul 2026 06:19:34 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-05T22:49:32"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "extra": {
+        "stars_today": "394 stars today"
+      },
+      "collected_at": "2026-07-05T22:49:40"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Pennen",
+      "url": "https://www.producthunt.com/products/pennen",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> One quiet handwritten page a day. No feed, no AI. </p> <p> <a href=\"https://www.producthunt.com/products/pennen?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1187442?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-05T22:49:41"
     }
   ],
-  "updated_at": "2026-07-05T20:04:01.360418+09:00"
+  "updated_at": "2026-07-05T22:49:44.663228+09:00"
 }
