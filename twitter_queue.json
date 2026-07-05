@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-04-claude-code-ban-local-llm-pc-selection-guide",
-    "title": "ローカルLLM環境の選び方とおすすめ比較：Claude Code禁止リスクに備える開発用PC",
-    "url": "https://ai.negi-lab.com/posts/claude-code-ban-local-llm-pc-selection-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #個人開発",
-    "tweet_text": "アリババがClaude Codeを禁止したニュース、他人事ではありません。機密コードを扱うなら、外部API依存から脱却し「Qwen2.5-Coder」等を自前で動かす環境が必要です。\n\n最低ラインはVRAM 16GB。予算重視ならRTX 4060 Ti 16GB、業務で爆速を求めるならRTX 4090。Macならメモリ64GB以上が必須。中途半端なスペックは結局クラウド代を払い続けることになるので、今こそハードに投資すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-04-claude-code-ban-local-llm-pc-selection-guide.jpg",
-    "created_at": "2026-07-04T07:13:45.684642+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-04-vox-github-copilot-voice-review-guide",
     "title": "Vox レビュー GitHub Copilotを音声で操作する効率と限界",
     "url": "https://ai.negi-lab.com/posts/vox-github-copilot-voice-review-guide/",
