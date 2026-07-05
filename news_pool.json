@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "url": "https://github.com/itsthelore/wayfinder-router",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 28 Jun 2026 04:31:18 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-28T17:56:28"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Dotient",
-      "url": "https://www.producthunt.com/products/dotient",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your local semantic search app </p> <p> <a href=\"https://www.producthunt.com/products/dotient?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1182736?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-06-28T17:56:31"
-    },
-    {
       "source": "HN Local AI",
       "title": "Ford hired AI and sacked humans. It backfired badly",
       "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
@@ -1958,7 +1930,115 @@
         "revenue_score": 6
       },
       "collected_at": "2026-07-05T17:56:25"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "The gap between closed and open models might be much smaller than commonly assumed, because we don’t know what closed model providers do *in addition to* model inference",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ukp2bu/the_gap_between_closed_and_open_models_might_be/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-07-01T15:35:24+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>When Claude dominates GLM-5.2 in benchmarks, it’s usually assumed that Anthropic has superior model architectures, superior training pipelines, and other advanced machine learning techniques that make their models better than the competition.</p> <p>But actually, this doesn’t follow. Because the benchmarks compare <em>model inference</em> on GLM with the whole Claude product, and we don’t know what that product does behind the scenes.</p> <p>Anthropic already re",
+      "extra": {},
+      "collected_at": "2026-07-05T20:03:51"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "WorkBuddy",
+      "url": "https://www.producthunt.com/products/workbuddy-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Produce sharpened results faster with a team of AI experts </p> <p> <a href=\"https://www.producthunt.com/products/workbuddy-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1184211?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-05T20:04:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Toku Reader",
+      "url": "https://www.producthunt.com/products/toku-reader",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Read & listen to native Japanese and Chinese, tap any word </p> <p> <a href=\"https://www.producthunt.com/products/toku-reader?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1175505?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-05T20:04:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Endl",
+      "url": "https://www.producthunt.com/products/endl",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A global operating account for fiat, stablecoins, and cards. </p> <p> <a href=\"https://www.producthunt.com/products/endl?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1187380?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-05T20:04:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I benchmarked 13 models at 65K-128K context to find out what actually matters for agentic workloads",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unrse9/i_benchmarked_13_models_at_65k128k_context_to/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-07-05T03:37:23+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>I benchmarked 13 models at 65K-128K context to find out what actually matters for agentic workloads — prefill dominates everything, and KV head count beats parameter count</h1> <p>I've been running local LLMs for agentic workflows (tool use, coding agents, RAG) and kept seeing people obsess over tg128 (token generation speed) as the headline performance metric. So I ran a structured long-context benchmark to figure out what <em>actually</em> matters when your c",
+      "extra": {
+        "revenue_score": 13
+      },
+      "collected_at": "2026-07-05T20:04:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "possible evidence of literal prompt injection by anthropic",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unif51/possible_evidence_of_literal_prompt_injection_by/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-04T19:54:57+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1unif51/possible_evidence_of_literal_prompt_injection_by/\"> <img alt=\"possible evidence of literal prompt injection by anthropic\" src=\"https://external-preview.redd.it/72by0vodw29h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dfb9ad67cbfcd984d14aac149c8be3cc9f6d7ad2\" title=\"possible evidence of literal prompt injection by anthropic\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/johnnyApp",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-07-05T20:04:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "longcat 2.0 (1.6T, ~48B active) weights are now open under MIT license",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unyvnz/longcat_20_16t_48b_active_weights_are_now_open/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-07-05T10:35:23+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1unyvnz/longcat_20_16t_48b_active_weights_are_now_open/\"> <img alt=\"longcat 2.0 (1.6T, ~48B active) weights are now open under MIT license\" src=\"https://external-preview.redd.it/Tl4T00m03mXi9dnysuPMT3ZoHlKwgeMAyvE7uTJqM4o.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=13c43b98a88d05ab28ba5000aec6daa339a442bf\" title=\"longcat 2.0 (1.6T, ~48B active) weights are now open under MIT license\" /> </a> </td><td> <!-- SC_OFF --><div",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-07-05T20:04:01"
     }
   ],
-  "updated_at": "2026-07-05T17:56:28.967130+09:00"
+  "updated_at": "2026-07-05T20:04:01.360418+09:00"
 }

@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-07-05-ollama-open-webui-local-llm-guide.jpg",
     "created_at": "2026-07-05T17:56:53.683084+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-05-agentskills-specification-ai-agent-tools",
+    "title": "agentskills AIエージェントの「技能」を標準化する新仕様の実践的活用法",
+    "url": "https://ai.negi-lab.com/posts/agentskills-specification-ai-agent-tools/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントの「ツール定義」に疲弊しているエンジニアはagentskillsをチェックすべき。\n特定フレームワークに依存せず、関数の説明や環境要件、Few-shot例までを標準パッケージ化する「エージェントのためのOpenAPI」。\nRTX 4090×2環境で検証したが、メタデータがリッチになる分、Local LLMでのツール認識精度が目に見えて安定する。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-05-agentskills-specification-ai-agent-tools.jpg",
+    "created_at": "2026-07-05T20:04:54.568287+09:00",
+    "posted": false
   }
 ]
