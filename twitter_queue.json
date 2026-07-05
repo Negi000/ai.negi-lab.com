@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-05-langchain-rag-local-chroma-tutorial.jpg",
     "created_at": "2026-07-05T15:49:26.061595+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-05-ollama-open-webui-local-llm-guide",
+    "title": "OllamaとOpen WebUIでプライベートなローカルLLM環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLM環境はOllamaとOpen WebUIの組み合わせが最適解。VRAM 12GB以上のRTXか、16GB以上のMacがあれば、ChatGPT同等のUIでRAGまで完全オフラインで動く。API代は0円、機密情報の流出リスクもゼロ。実務で使うならDockerでUIと推論を分離して管理するのが鉄則です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-05-ollama-open-webui-local-llm-guide.jpg",
+    "created_at": "2026-07-05T17:56:53.683084+09:00",
+    "posted": false
   }
 ]
