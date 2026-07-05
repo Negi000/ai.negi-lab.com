@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-07-05-local-llm-hardware-guide-rtx-mac-comparison.jpg",
     "created_at": "2026-07-05T07:07:09.846690+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-05-strix-ai-pentesting-tool-review",
+    "title": "strix AI脆弱性診断ツールの実力と導入判断",
+    "url": "https://ai.negi-lab.com/posts/strix-ai-pentesting-tool-review/",
+    "category": "TOOL",
+    "viral_tags": "#セキュリティ #GitHubTrending",
+    "tweet_text": "GitHubで1900星超えのStrix、AI脆弱性診断の決定版になり得る。従来のスキャナが苦手な「文脈が必要な攻撃」をLLMが推論して再現。APIコストはかかるが、数百万円の外部診断前に数ドルで致命的な穴を潰せるのは革命的。\nただし破壊的操作の恐れがあるため、本番実行は厳禁。隔離環境での運用が鉄則です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-05-strix-ai-pentesting-tool-review.jpg",
+    "created_at": "2026-07-05T13:09:25.137677+09:00",
+    "posted": false
   }
 ]
