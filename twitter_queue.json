@@ -15289,5 +15289,19 @@
     "image_path": "/images/posts/2026-07-06-claude-skills-pc-specs-comparison-guide.jpg",
     "created_at": "2026-07-06T03:03:50.952865+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-06-gemma-44b-local-llm-gpu-guide",
+    "title": "ローカルLLM向け最強GPU比較：Gemma 44B拡張版を動かすためのVRAM選定と買う前のチェックリスト",
+    "url": "https://ai.negi-lab.com/posts/gemma-44b-local-llm-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "Google公式が31Bで止めたGemmaを、有志が44Bまで拡張。この「44B」というサイズが曲者で、RTX 4090単体（24GB）だと量子化してもVRAMが溢れる。実務で使うならGPU2枚挿しかMac Studio 64GB超えが必須ライン。中規模モデルを本気で回すためのハード選定基準をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-06-gemma-44b-local-llm-gpu-guide.jpg",
+    "created_at": "2026-07-06T07:10:24.232046+09:00",
+    "posted": false
   }
 ]
