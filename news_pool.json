@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Google limits Meta's use of its Gemini AI models",
-      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 28 Jun 2026 13:30:06 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-06-29T00:53:50"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-06-29T00:53:52"
-    },
-    {
       "source": "HN AI Coding",
       "title": "Reflections on software engineering in the age of AI",
       "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
@@ -2023,7 +1995,22 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-05T22:49:41"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 05 Jul 2026 17:43:36 +0000",
+      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-06T03:03:18"
     }
   ],
-  "updated_at": "2026-07-06T00:50:14.845637+09:00"
+  "updated_at": "2026-07-06T03:03:22.705315+09:00"
 }
