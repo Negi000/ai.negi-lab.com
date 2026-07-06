@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-06-build-secure-ai-agent-sandbox-docker-python.jpg",
     "created_at": "2026-07-06T21:46:36.422872+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-07-teleport-agentic-identity-framework-security-ai",
+    "title": "TeleportのAIエージェント専用ID管理が企業インフラの壁を壊す理由",
+    "url": "https://ai.negi-lab.com/posts/teleport-agentic-identity-framework-security-ai/",
+    "category": "NEWS",
+    "viral_tags": "#AIエージェント #サイバーセキュリティ",
+    "tweet_text": "AIエージェントの「野放し権限」を終わらせるTeleportの新発表。短命な証明書でDBやK8sへのアクセスを保護するAgentic Identity Frameworkは、本番環境で自律AIを動かすための必須条件になるはず。APIキーの直書きや有効期限なしのアカウント運用はもう限界。セキュリティを理由にAI導入を諦める前に、この構成をチェックすべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-07-teleport-agentic-identity-framework-security-ai.jpg",
+    "created_at": "2026-07-07T00:46:59.337861+09:00",
+    "posted": false
   }
 ]
