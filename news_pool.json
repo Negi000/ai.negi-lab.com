@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Tue, 30 Jun 2026 15:08:42 +0000",
-      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-01T01:37:39"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
@@ -1801,21 +1785,6 @@
     },
     {
       "source": "Google News",
-      "title": "インフォマティクスがChatGPT・ClaudeとGISをつなぐ「空間情報MCPサーバー」を開発。「〇〇周辺の避難所を表にして」でAIが自動作成 - digital-construction.jp",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11R1ZzZWxnbmtRNlZuRE1qUXlhVFZFaXpkNGZ2a3A5SmZ6V0QyZnJsWlhIQ0V2b1FJOXZxNHJBbkdUR1Q0aWhYOVVXLWowSDY2b0FB?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 07 Jul 2026 07:30:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE11R1ZzZWxnbmtRNlZuRE1qUXlhVFZFaXpkNGZ2a3A5SmZ6V0QyZnJsWlhIQ0V2b1FJOXZxNHJBbkdUR1Q0aWhYOVVXLWowSDY2b0FB?oc=5\" target=\"_blank\">インフォマティクスがChatGPT・ClaudeとGISをつなぐ「空間情報MCPサーバー」を開発。「〇〇周辺の避難所を表にして」でAIが自動作成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">digital-construction.jp</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-07T18:47:06"
-    },
-    {
-      "source": "Google News",
       "title": "Japan to Launch AI-Linked Reform Promotion Council - 時事通信ニュース",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtUHdQMWdRQ180NzlyUC1PZmtuZTVJenNFSzVLNGxWWXEtdGc4WnZiVDFqb1ZWWGJOb1VrZ2ZpY3hqbWlrQWhLMzJKZGhuMENmcEE?oc=5",
       "primary_category": "NEWS",
@@ -1965,7 +1934,52 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-07T23:47:05"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Claude Cowork expands to mobile and web",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 07 Jul 2026 16:27:18 +0000",
+      "summary": "Anthropic’s Claude Cowork is now available on web and mobile for Max subscribers. Until now, Cowork largely lived on a user’s laptop. With the update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-08T01:57:13"
+    },
+    {
+      "source": "Google News",
+      "title": "テンプル大学ジャパンキャンパス京都 2026年秋学期より学位プログラムを拡大 「AI学科」など6つの専攻で学士号取得が可能に - 大学ジャーナルオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB6UUc5cEdOTDdva0dGVHUwdTZaeGxxSzZjbzVudk5OVXQ1MXdIZnE4cG41SHI5ZnlYUW1mckhyN3U1SWRCdlE?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 07 Jul 2026 02:04:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFB6UUc5cEdOTDdva0dGVHUwdTZaeGxxSzZjbzVudk5OVXQ1MXdIZnE4cG41SHI5ZnlYUW1mckhyN3U1SWRCdlE?oc=5\" target=\"_blank\">テンプル大学ジャパンキャンパス京都 2026年秋学期より学位プログラムを拡大 「AI学科」など6つの専攻で学士号取得が可能に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">大学ジャーナルオンライン</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-08T01:57:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Scribble Network",
+      "url": "https://www.producthunt.com/products/scribble-network",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The product that makes AI recommend your brand </p> <p> <a href=\"https://www.producthunt.com/products/scribble-network?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1184570?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-08T01:57:14"
     }
   ],
-  "updated_at": "2026-07-07T23:47:08.379321+09:00"
+  "updated_at": "2026-07-08T01:57:18.229199+09:00"
 }
