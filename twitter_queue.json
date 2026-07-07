@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-07-07-informatics-gis-mcp-server-llm-integration.jpg",
     "created_at": "2026-07-07T23:47:31.630548+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-08-local-llm-gpu-buying-guide-rtx-mac",
+    "title": "ローカルLLM用GPUの選び方比較｜RTX 4090かMacか代替案か実務者が解説",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLM用にGPUを買うなら「VRAM容量」がすべて。8GBや12GBではLlama 3.1の性能をフルに引き出せません。実務ならRTX 4090の24GBか、4060 Ti 16GBの2枚挿しが最短ルート。Macなら統一メモリ64GB以上が最低ライン。後悔しないためのスペック選びと代替案を実務目線でまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-08-local-llm-gpu-buying-guide-rtx-mac.jpg",
+    "created_at": "2026-07-08T04:02:50.040016+09:00",
+    "posted": false
   }
 ]
