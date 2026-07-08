@@ -1,37 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "The “Father of the Internet” is finally retiring",
-      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 01 Jul 2026 03:15:37 +0000",
-      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-01T13:42:11"
-    },
-    {
-      "source": "Google News",
-      "title": "OpenAIがCodex用の新ハードウェアを予告 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zRXR1ay0tclJYbkg1NGI2RUx3eDBwNjFQQm5mZ0dRN2FZZ3hpS0czUVRLUnFLS2VOOHFvVDliQzBSU01YWXlUS1IzR08weUhvU3RELU1FeDZlcmE1ZFZTcHJNaWk2Y1c5?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Wed, 01 Jul 2026 03:58:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zRXR1ay0tclJYbkg1NGI2RUx3eDBwNjFQQm5mZ0dRN2FZZ3hpS0czUVRLUnFLS2VOOHFvVDliQzBSU01YWXlUS1IzR08weUhvU3RELU1FeDZlcmE1ZFZTcHJNaWk2Y1c5?oc=5\" target=\"_blank\">OpenAIがCodex用の新ハードウェアを予告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-01T13:42:11"
-    },
-    {
       "source": "HN AI Companies",
       "title": "How employment changes when firms adopt generative AI",
       "url": "https://ramp.com/data/ai-jobs-impact",
@@ -1728,22 +1697,6 @@
       "collected_at": "2026-07-07T20:49:35"
     },
     {
-      "source": "GitHub Trending",
-      "title": "langbot-app/LangBot",
-      "url": "https://github.com/langbot-app/LangBot",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow",
-      "extra": {
-        "stars_today": "33 stars today"
-      },
-      "collected_at": "2026-07-07T20:49:35"
-    },
-    {
       "source": "Product Hunt",
       "title": "Dupely",
       "url": "https://www.producthunt.com/products/dupely",
@@ -1949,7 +1902,66 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-08T12:31:04"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 08 Jul 2026 04:12:13 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-08T15:04:56"
+    },
+    {
+      "source": "r/ollama",
+      "title": "told Opus 4.8 and a local ollama Qwen3.6:27b to build GTA6 and make no mistakes",
+      "url": "https://www.reddit.com/r/ollama/comments/1upt3gu/told_opus_48_and_a_local_ollama_qwen3627b_to/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-07T12:05:37+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1upt3gu/told_opus_48_and_a_local_ollama_qwen3627b_to/\"> <img alt=\"told Opus 4.8 and a local ollama Qwen3.6:27b to build GTA6 and make no mistakes\" src=\"https://external-preview.redd.it/MHpicmdvcDdxc2JoMfpiJq5HBANafuffir0q7LGvdMxFQRP9YfxUfpNyJGEh.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=47d38384d58fe62a0669cf4ad6afdcb24c3d690f\" title=\"told Opus 4.8 and a local ollama Qwen3.6:27b to build GTA6 and make no mistakes\" /> </a> ",
+      "extra": {},
+      "collected_at": "2026-07-08T15:05:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "XiaoYouChR/Ghost-Downloader-3",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.",
+      "extra": {
+        "stars_today": "41 stars today"
+      },
+      "collected_at": "2026-07-08T15:05:02"
+    },
+    {
+      "source": "Google News",
+      "title": "HCLTech、ISO/IEC 42001:2023認証取得で責任あるAI分野でのリーダーシップを示す - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCRWxZMFNpQ0ViOUVsbDE4ZTUtOFhlQndRME1GeHdZbm5ESnJ2VzdzQTlGN1B2UlQ0RFE5VDl4WVFZV3ROSUduXzFPTHcwWjRxMHlvc0RnQWM3bnREN2c?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Wed, 08 Jul 2026 04:33:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCRWxZMFNpQ0ViOUVsbDE4ZTUtOFhlQndRME1GeHdZbm5ESnJ2VzdzQTlGN1B2UlQ0RFE5VDl4WVFZV3ROSUduXzFPTHcwWjRxMHlvc0RnQWM3bnREN2c?oc=5\" target=\"_blank\">HCLTech、ISO/IEC 42001:2023認証取得で責任あるAI分野でのリーダーシップを示す</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">沖縄タイムス社</font>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-08T15:05:03"
     }
   ],
-  "updated_at": "2026-07-08T12:31:08.286338+09:00"
+  "updated_at": "2026-07-08T15:05:06.497651+09:00"
 }
