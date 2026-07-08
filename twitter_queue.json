@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-06-mozaik-typescript-ai-agent-runtime-review",
-    "title": "Mozaik AIエージェントをTypeScriptで自律組織化させる革新的なランタイム",
-    "url": "https://ai.negi-lab.com/posts/mozaik-typescript-ai-agent-runtime-review/",
-    "category": "TOOL",
-    "viral_tags": "#TypeScript #AIエージェント",
-    "tweet_text": "TypeScript勢待望の自律型エージェントランタイム「Mozaik」が熱い。事前にグラフを定義するLangGraphと違い、実行時にエージェントが役割を自律分担する「自己組織化」が強み。型安全性が高いからプロダクション導入のハードルが低い。JS/TSで本格的なマルチエージェント組むなら、現状これが最有力候補ですね。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-06-mozaik-typescript-ai-agent-runtime-review.jpg",
-    "created_at": "2026-07-06T19:42:56.050626+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-06-build-secure-ai-agent-sandbox-docker-python",
-    "title": "DockerとPythonでAIエージェント用セキュア・サンドボックスを構築する方法",
-    "url": "https://ai.negi-lab.com/posts/build-secure-ai-agent-sandbox-docker-python/",
-    "category": "GUIDE",
-    "viral_tags": "#AIエージェント #Python",
-    "tweet_text": "AIエージェントにコードを書かせて実行するなら、Dockerでのサンドボックス構築は必須。exec()で直叩きするのは、目隠しした幼児にチェーンソーを渡すようなもの。\n\nPython SDKを使えば、ネットワーク遮断・メモリ128MB制限・0.5秒で破棄する隔離環境が1ファイルで作れます。実務で「壊さないAI」を導入するための最低条件をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-06-build-secure-ai-agent-sandbox-docker-python.jpg",
-    "created_at": "2026-07-06T21:46:36.422872+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-07-teleport-agentic-identity-framework-security-ai",
     "title": "TeleportのAIエージェント専用ID管理が企業インフラの壁を壊す理由",
     "url": "https://ai.negi-lab.com/posts/teleport-agentic-identity-framework-security-ai/",
