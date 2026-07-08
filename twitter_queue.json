@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-07-llama-cpp-gguf-python-setup-guide",
-    "title": "llama.cppとGGUFでローカルLLM環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/llama-cpp-gguf-python-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llama_cpp",
-    "tweet_text": "ローカルLLMを動かすなら、結局llama.cppとGGUFの組み合わせが最強。RTX 4090なら120トークン/秒、MacBook Airでも読める速度で動く。API代ゼロ、情報漏洩リスクなし。仕事で使うなら「とりあえず動いた」で終わらせず、Python API経由で自作ツールに組み込むのが正解。構築手順をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-07-llama-cpp-gguf-python-setup-guide.jpg",
-    "created_at": "2026-07-07T15:53:58.992781+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-07-badge-ai-agent-proof-of-work-review",
-    "title": "Badge AIエージェントによるピアレビューと実績証明の自動化ツール",
-    "url": "https://ai.negi-lab.com/posts/badge-ai-agent-proof-of-work-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #Web3エンジニア",
-    "tweet_text": "AIエージェントが仲間の評価をヒアリングして「仕事の証明」を自動生成するBadge。\n\n自己申告の職務経歴書はもう古い。AIが第三者の意見を客観的にまとめ、オンチェーンで改ざん不能な実績として刻む。\n\n15分で連携完了し、PRマージ後にAIが勝手に動く。エンジニアの市場価値を「数字」ではなく「信頼の厚さ」で可視化する時代。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-07-badge-ai-agent-proof-of-work-review.jpg",
-    "created_at": "2026-07-07T18:48:51.706427+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-07-ollama-openwebui-local-llm-guide",
     "title": "OllamaとOpen WebUIの使い方！完全プライベートなローカルLLM環境を構築する方法",
     "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-guide/",
