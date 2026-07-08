@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-07-08-claude-code-cursor-workflow-guide.jpg",
     "created_at": "2026-07-08T17:34:12.771166+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-08-pocket-tts-lightweight-cpu-text-to-speech-review",
+    "title": "kyutai-labs/pocket-tts ローカルCPUで爆速動作する軽量TTSの性能",
+    "url": "https://ai.negi-lab.com/posts/pocket-tts-lightweight-cpu-text-to-speech-review/",
+    "category": "TOOL",
+    "viral_tags": "#ローカルLLM #個人開発",
+    "tweet_text": "CPUだけで動く爆速TTS「pocket-tts」が凄い。RTX 4090を2枚刺してても、音声合成はCPUに任せたいのが本音。VRAMをLLMに全振りしつつ、レスポンス0.2秒で喋るエージェントが組める。\nMimiコーデック採用で軽量なのに音質も実用レベル。MacBook AirでローカルLLM＋音声対話を完結させるなら、現時点でこれ以上の選択肢はない。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-08-pocket-tts-lightweight-cpu-text-to-speech-review.jpg",
+    "created_at": "2026-07-08T20:04:07.833009+09:00",
+    "posted": false
   }
 ]
