@@ -1,68 +1,6 @@
 {
   "items": [
     {
-      "source": "GitHub Trending",
-      "title": "allenai/olmocr",
-      "url": "https://github.com/allenai/olmocr",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "extra": {
-        "stars_today": "295 stars today"
-      },
-      "collected_at": "2026-07-01T21:06:36"
-    },
-    {
-      "source": "Google News",
-      "title": "家の思い出を引き出し「感謝の手紙」を生む新しい文化が始まる。 タミヤホーム、対話型AI「おもいであい」をローンチ - newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BWmdOVk9QTWNOOEJHT1I4aVRYTkd0S215SWpHbktTRFZKelNTRmo0X2RVcFoxOHhGNlY1a01KQUpIREpnRGlyRXhfT2s1WTA?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 01 Jul 2026 04:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BWmdOVk9QTWNOOEJHT1I4aVRYTkd0S215SWpHbktTRFZKelNTRmo0X2RVcFoxOHhGNlY1a01KQUpIREpnRGlyRXhfT2s1WTA?oc=5\" target=\"_blank\">家の思い出を引き出し「感謝の手紙」を生む新しい文化が始まる。 タミヤホーム、対話型AI「おもいであい」をローンチ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newscast.jp</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-01T21:06:37"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "MailAdept by mailwarm",
-      "url": "https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI Agents & Email deliverability experts on your team </p> <p> <a href=\"https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1144256?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-07-01T21:06:37"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Acti",
-      "url": "https://www.producthunt.com/products/acti-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Agentic keyboard for mobile commands and search </p> <p> <a href=\"https://www.producthunt.com/products/acti-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1177976?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-01T21:06:37"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
       "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
@@ -1505,21 +1443,6 @@
       "collected_at": "2026-07-07T18:47:06"
     },
     {
-      "source": "GitHub Trending",
-      "title": "kyutai-labs/pocket-tts",
-      "url": "https://github.com/kyutai-labs/pocket-tts",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "A TTS that fits in your CPU (and pocket)",
-      "extra": {
-        "stars_today": "510 stars today"
-      },
-      "collected_at": "2026-07-07T20:49:35"
-    },
-    {
       "source": "Product Hunt",
       "title": "Dupely",
       "url": "https://www.producthunt.com/products/dupely",
@@ -1906,7 +1829,114 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-08T20:03:15"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "url": "https://github.com/dekart-xyz/geosql",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 08 Jul 2026 08:37:26 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-08T23:24:58"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "microsoft/SkillOpt",
+      "url": "https://github.com/microsoft/SkillOpt",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "",
+      "summary": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+      "extra": {
+        "stars_today": "261 stars today"
+      },
+      "collected_at": "2026-07-08T23:25:00"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 08 Jul 2026 12:00:00 +0000",
+      "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-08T23:25:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "PopTask for Apple",
+      "url": "https://www.producthunt.com/products/poptask",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn to-dos into scheduled tasks </p> <p> <a href=\"https://www.producthunt.com/products/poptask?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1185881?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-08T23:25:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "agents-cli",
+      "url": "https://www.producthunt.com/products/agents-cli",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The CLI your coding agent uses to ship agents </p> <p> <a href=\"https://www.producthunt.com/products/agents-cli?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1190389?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-08T23:25:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "China’s MiniMax Plans to Launch 2.7-Trillion Parameter Model",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uqnqsc/chinas_minimax_plans_to_launch_27trillion/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-07-08T09:34:04+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.theinformation.com/briefings/exclusive-chinas-minimax-plans-launch-2-7-trillion-parameter-model\">https://www.theinformation.com/briefings/exclusive-chinas-minimax-plans-launch-2-7-trillion-parameter-model</a></p> <p>According to The Information, MiniMax plans to launch a new-generation large language model with 2.7 trillion parameters.</p> <p>Sources revealed that the internal codename for this new model is M3 Pro. It is expected to be relea",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-07-08T23:25:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Can you trust local models to answer accurately?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uqpxgp/can_you_trust_local_models_to_answer_accurately/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-08T11:28:51+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uqpxgp/can_you_trust_local_models_to_answer_accurately/\"> <img alt=\"Can you trust local models to answer accurately?\" src=\"https://preview.redd.it/swjfgszdqzbh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb4d58f4baa0e42f779d48d1b71f915404c34a3b\" title=\"Can you trust local models to answer accurately?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>My goal is to improve as a developer, thus I needed to know if loca",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-07-08T23:25:02"
     }
   ],
-  "updated_at": "2026-07-08T20:03:19.435351+09:00"
+  "updated_at": "2026-07-08T23:25:02.728042+09:00"
 }
