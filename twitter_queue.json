@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-10-leanstral-119b-release-gpu-guide.jpg",
     "created_at": "2026-07-10T02:05:44.743230+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-10-local-llm-gpu-buying-guide-2025",
+    "title": "ローカルLLM用GPUの選び方2025｜RTX 5090を待つべきか3090を中古で買うべきか",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-2025/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLM環境を構築するなら、VRAM量こそが正義。RTX 4090 1枚よりも、中古の3090を2枚挿して48GB確保するほうが、Llama 3 70Bを実用速度で動かせるメリットが大きい。電源は1200W以上、ケースはフルタワー必須。食費を削ってでもVRAMに投資する価値が、今のAI開発にはあります。買う前にVRAM容量と電源だけは妥協しないでください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-10-local-llm-gpu-buying-guide-2025.jpg",
+    "created_at": "2026-07-10T03:51:29.894804+09:00",
+    "posted": false
   }
 ]
