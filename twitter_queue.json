@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-09-microsoft-skillopt-gpu-hardware-guide.jpg",
     "created_at": "2026-07-09T07:15:36.878341+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-09-mlx-apple-silicon-local-llm-guide",
+    "title": "Apple SiliconでローカルLLMを最速動作させるMLX入門",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "MacのGPUを眠らせておくのは勿体ない。Apple純正のMLXを使えば、Llama 3が爆速で動きます。RTX 4090を2枚挿す私でも、MacのUnified Memoryを活かしたMLXの挙動には驚きました。16GBメモリなら8Bモデルが秒間50トークン超え。API課金から解放されるローカルLLM入門、今すぐ始めましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-09-mlx-apple-silicon-local-llm-guide.jpg",
+    "created_at": "2026-07-09T16:03:30.697467+09:00",
+    "posted": false
   }
 ]
