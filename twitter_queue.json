@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-10-local-llm-gpu-buying-guide-2025.jpg",
     "created_at": "2026-07-10T03:51:29.894804+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-10-muse-spark-1-1-meta-ai-review",
+    "title": "Muse Spark 1.1 by Meta AIは、ビジョン（視覚）と推論を高度に統合し、自律型エージェントの「目」と「脳」を担うために設計されたマルチモーダル推論モデルです。",
+    "url": "https://ai.negi-lab.com/posts/muse-spark-1-1-meta-ai-review/",
+    "category": "TOOL",
+    "viral_tags": "#AgenticAI #MetaAI",
+    "tweet_text": "MetaのMuse Spark 1.1を検証。VRAM 24GBあればローカルで爆速の視覚推論が動く。特筆すべきは座標特定精度で、UIエージェント構築時の「クリックミス」が激減する。GPT-4oのAPI代を削りたい開発者は、Llama 3.2よりもこっちを試すべき。RTX 4090なら推論0.5秒、実務投入の準備は整った。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-10-muse-spark-1-1-meta-ai-review.jpg",
+    "created_at": "2026-07-10T18:43:01.866575+09:00",
+    "posted": false
   }
 ]
