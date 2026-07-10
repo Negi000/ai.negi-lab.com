@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-09-mlx-apple-silicon-local-llm-guide",
-    "title": "Apple SiliconでローカルLLMを最速動作させるMLX入門",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "MacのGPUを眠らせておくのは勿体ない。Apple純正のMLXを使えば、Llama 3が爆速で動きます。RTX 4090を2枚挿す私でも、MacのUnified Memoryを活かしたMLXの挙動には驚きました。16GBメモリなら8Bモデルが秒間50トークン超え。API課金から解放されるローカルLLM入門、今すぐ始めましょう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-09-mlx-apple-silicon-local-llm-guide.jpg",
-    "created_at": "2026-07-09T16:03:30.697467+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-09-timbal-ai-agent-workflow-one-stack-review",
-    "title": "Timbal AI 使い方と実務レビュー：AIエージェントとワークフローを単一スタックで構築する",
-    "url": "https://ai.negi-lab.com/posts/timbal-ai-agent-workflow-one-stack-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #Python",
-    "tweet_text": "AIエージェント開発で一番ダルい「UIと状態管理の統合」を1スタックで解決するTimbal AIが熱い。Difyの爆速感とLangChainの自由度の中間を突いた設計。Python関数のデコレータ感覚でツール実装できるのが実務向き。VRAM 16GB以上の環境があればローカルLLM接続も快適。つぎはぎの開発に疲れたエンジニアは試す価値あり。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-09-timbal-ai-agent-workflow-one-stack-review.jpg",
-    "created_at": "2026-07-09T18:44:52.818428+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-09-graphify-ai-knowledge-graph-codebase-review",
     "title": "Graphify 複雑なコードベースとインフラ構成を一つの知識グラフに統合するAIアシスタント用プラグイン",
     "url": "https://ai.negi-lab.com/posts/graphify-ai-knowledge-graph-codebase-review/",
