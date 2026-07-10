@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-07-11-local-llm-gpu-memory-buying-guide-samsung-profit.jpg",
     "created_at": "2026-07-11T03:24:35.168521+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-11-glm-5-2-local-llm-pc-guide-rtx-mac",
+    "title": "ローカルLLMの頂点GLM-5.2を家庭用PCで動かす推奨構成：RTX 4090かMac Studioか？",
+    "url": "https://ai.negi-lab.com/posts/glm-5-2-local-llm-pc-guide-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "GLM-5.2（744B）を25GBの消費電力マシンで動かす検証が話題ですが、実務で使うなら話は別。RTX 4090の24GBか、Mac Studioの統一メモリ128GB以上が2025年の分水嶺。中途半端な8GB VRAM機を買うのが一番の失敗です。推論速度t/sを捨てて「動くだけ」で満足するか、仕事道具として投資するか。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-11-glm-5-2-local-llm-pc-guide-rtx-mac.jpg",
+    "created_at": "2026-07-11T07:13:27.071914+09:00",
+    "posted": false
   }
 ]

@@ -1712,19 +1712,6 @@
     },
     {
       "source": "r/LocalLLaMA Weekly",
-      "title": "Now brothers we know why we are so fucked up",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1urh2mg/now_brothers_we_know_why_we_are_so_fucked_up/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-07-09T05:32:18+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Samsung chip division's single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices — Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit</h1> <p><a href=\"https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-earn-its-entire-40-year-history-in-2026\">https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-",
-      "extra": {},
-      "collected_at": "2026-07-10T18:39:38"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
       "title": "Palantir is a free org on HF with 0 open-source models and 0 public datasets shared",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1umbw0v/palantir_is_a_free_org_on_hf_with_0_opensource/",
       "primary_category": "MONEY",
@@ -2028,7 +2015,90 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-11T03:23:48"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 10 Jul 2026 20:52:28 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-11T07:12:18"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Don't discontinue Gemini 2.5 Flash",
+      "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 10 Jul 2026 20:00:28 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-11T07:12:18"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 10 Jul 2026 18:29:19 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-11T07:12:18"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "google/tabfm-1.0.0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1un5hyi/googletabfm100/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-07-04T10:20:58+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1un5hyi/googletabfm100/\"> <img alt=\"google/tabfm-1.0.0\" src=\"https://external-preview.redd.it/J-WwzolBRQVriyFjrSxJJXj_RBqoGjl9IqtDCzg_QIU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=15aaf1d34804b9ad9d9e2115446764ba26b824f6\" title=\"google/tabfm-1.0.0\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>TabFM is a zero-shot tabular foundation model from Google Research. It supports classification and regression on structur",
+      "extra": {},
+      "collected_at": "2026-07-11T07:12:19"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 10 Jul 2026 21:00:29 +0000",
+      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-11T07:12:20"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "StoryChief Connect",
+      "url": "https://www.producthunt.com/products/storychief-io",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Publish content from Claude to your website and socials </p> <p> <a href=\"https://www.producthunt.com/products/storychief-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1191975?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-11T07:12:44"
     }
   ],
-  "updated_at": "2026-07-11T03:23:52.146486+09:00"
+  "updated_at": "2026-07-11T07:12:47.574094+09:00"
 }
