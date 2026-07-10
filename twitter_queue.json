@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-07-10-sim-studio-ai-agent-workflow-review.jpg",
     "created_at": "2026-07-10T20:52:02.327780+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-11-claude-code-cursor-hybrid-workflow-guide",
+    "title": "Claude CodeとCursorを併用！爆速AIコーディング環境構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-workflow-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ClaudeCode #Cursor",
+    "tweet_text": "Claude CodeとCursorの併用が、2025年現在の開発環境の結論です。\nターミナルで自律デバッグするClaude Codeと、UI最強のCursor。\nこの2つを同期させると、FastAPI+Reactのフルスタックアプリが30分で完成します。\nAPIコストを抑えるための /compact 活用と、.clauderules による制御が運用の肝。\n現場で使える「AIとの分業ルール」を徹底解説しました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-11-claude-code-cursor-hybrid-workflow-guide.jpg",
+    "created_at": "2026-07-11T01:38:18.678765+09:00",
+    "posted": false
   }
 ]
