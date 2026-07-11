@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "PhoneDeck",
-      "url": "https://www.producthunt.com/products/phonedeck",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn your iPhone into a free Mac controller </p> <p> <a href=\"https://www.producthunt.com/products/phonedeck?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1162362?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-04T19:53:51"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
       "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
@@ -2134,7 +2119,81 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-11T19:13:48"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Qwen3.6 35B-A3B (Q8_0, no KV quant) single prompt in opencode: \"Create a beautiful, relaxing flight simulator in a single html file with mountains, clouds, and endless procedural terrain\"",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1utb6io/qwen36_35ba3b_q8_0_no_kv_quant_single_prompt_in/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-07-11T05:24:45+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1utb6io/qwen36_35ba3b_q8_0_no_kv_quant_single_prompt_in/\"> <img alt=\"Qwen3.6 35B-A3B (Q8_0, no KV quant) single prompt in opencode: &quot;Create a beautiful, relaxing flight simulator in a single html file with mountains, clouds, and endless procedural terrain&quot;\" src=\"https://external-preview.redd.it/d3l1ZmsyejFkamNoMR41q_JY9arhzAsDGVyxE-EG9Cujgm23y3BFoqauh3sX.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d930e5cd7ee8",
+      "extra": {},
+      "collected_at": "2026-07-11T22:37:00"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "🏡 Open source home automation that puts local control and privacy first.",
+      "extra": {
+        "stars_today": "125 stars today"
+      },
+      "collected_at": "2026-07-11T22:37:02"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "extra": {
+        "stars_today": "102 stars today"
+      },
+      "collected_at": "2026-07-11T22:37:02"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "FoundationAgents/OpenManus",
+      "url": "https://github.com/FoundationAgents/OpenManus",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "No fortress, purely open ground. OpenManus is Coming.",
+      "extra": {
+        "stars_today": "217 stars today"
+      },
+      "collected_at": "2026-07-11T22:37:02"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cloudflare Drop",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Drop your folder in browser & deploy instantly on Cloudflare </p> <p> <a href=\"https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1191343?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-11T22:37:03"
     }
   ],
-  "updated_at": "2026-07-11T19:13:51.942091+09:00"
+  "updated_at": "2026-07-11T22:37:06.640020+09:00"
 }
