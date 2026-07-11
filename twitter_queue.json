@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-09-graphify-ai-knowledge-graph-codebase-review",
-    "title": "Graphify 複雑なコードベースとインフラ構成を一つの知識グラフに統合するAIアシスタント用プラグイン",
-    "url": "https://ai.negi-lab.com/posts/graphify-ai-knowledge-graph-codebase-review/",
-    "category": "TOOL",
-    "viral_tags": "#Graphify #AIエンジニアリング",
-    "tweet_text": "AIにコードを丸投げする時代は終わり、これからは「知識グラフ」で文脈を伝える時代。Graphifyはコード、SQL、ドキュメント、インフラ構成を一つのグラフに統合してClaude等のAIアシスタントに提供。1万行超えの巨大リポジトリでもハルシネーションを劇的に減らせる。Cursorの検索精度に限界を感じているなら、試す価値あり。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-09-graphify-ai-knowledge-graph-codebase-review.jpg",
-    "created_at": "2026-07-09T20:57:24.214540+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-10-llamacpp-gguf-local-llm-guide",
-    "title": "llama.cppとGGUF量子化でローカルLLM構築入門",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llamacpp",
-    "tweet_text": "ローカルLLMを爆速にするならllama.cppとGGUF量子化の組み合わせが最強。RTX 3060なら8Bモデルが秒速30トークン超えで動く。\nAPI代を気にせず、機密データも完全オフラインで処理できる環境は一度作ると戻れない。\nVRAM 12GBあれば実務レベル。導入手順を徹底解説した。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-10-llamacpp-gguf-local-llm-guide.jpg",
-    "created_at": "2026-07-10T00:21:56.511868+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-10-leanstral-119b-release-gpu-guide",
     "title": "Leanstral 119B登場！最強のローカルLLM環境を作るためのGPU・Mac選び方ガイド",
     "url": "https://ai.negi-lab.com/posts/leanstral-119b-release-gpu-guide/",
