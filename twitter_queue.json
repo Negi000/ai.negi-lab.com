@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-10-leanstral-119b-release-gpu-guide",
-    "title": "Leanstral 119B登場！最強のローカルLLM環境を作るためのGPU・Mac選び方ガイド",
-    "url": "https://ai.negi-lab.com/posts/leanstral-119b-release-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "MistralからApache-2.0ライセンスの119Bモデルが登場。巨大モデルなのにActive 6B（MoE）で推論が爆速。ただし4bit量子化でもVRAM 64GB超が必要な「化け物」スペック。RTX 4090を2枚挿しても3bit以下じゃないと入らない。業務で本気で回すならMac Studio 128GB以上か、中古3090の3枚挿しが現実的な解になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-10-leanstral-119b-release-gpu-guide.jpg",
-    "created_at": "2026-07-10T02:05:44.743230+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-10-local-llm-gpu-buying-guide-2025",
     "title": "ローカルLLM用GPUの選び方2025｜RTX 5090を待つべきか3090を中古で買うべきか",
     "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-2025/",
