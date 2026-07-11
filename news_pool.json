@@ -2,21 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 04 Jul 2026 18:00:05 +0000",
-      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-05T03:01:42"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
       "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
       "primary_category": "NEWS",
@@ -2106,20 +2091,6 @@
       "collected_at": "2026-07-11T19:13:48"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Qwen3.6 35B-A3B (Q8_0, no KV quant) single prompt in opencode: \"Create a beautiful, relaxing flight simulator in a single html file with mountains, clouds, and endless procedural terrain\"",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1utb6io/qwen36_35ba3b_q8_0_no_kv_quant_single_prompt_in/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-07-11T05:24:45+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1utb6io/qwen36_35ba3b_q8_0_no_kv_quant_single_prompt_in/\"> <img alt=\"Qwen3.6 35B-A3B (Q8_0, no KV quant) single prompt in opencode: &quot;Create a beautiful, relaxing flight simulator in a single html file with mountains, clouds, and endless procedural terrain&quot;\" src=\"https://external-preview.redd.it/d3l1ZmsyejFkamNoMR41q_JY9arhzAsDGVyxE-EG9Cujgm23y3BFoqauh3sX.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d930e5cd7ee8",
-      "extra": {},
-      "collected_at": "2026-07-11T22:37:00"
-    },
-    {
       "source": "GitHub Trending",
       "title": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
@@ -2223,7 +2194,54 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-12T02:54:35"
+    },
+    {
+      "source": "Google News",
+      "title": "Artificial intelligence and communication network concept. - SAP News Center",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZ0d1Zm1JX0pfeUZiZnlLSmZDUDlGZnQ0RTZnSEJPNnhjWHhOQlBnZWMxTUlJSzgtRFlkT0llTURScXZBTVJwby1wVk94cUdhaHFNQVZhQTFCRjAzNGZyZVloU0ozUVY0a0Q4dmNKT0VDWWZ2Vk1RczVWTGd2QUNqclpsTXd3UjV4ci1tMk5xR1dfbnZ0U3p0a29xUF9vMlNjaUI0ZjVGR0lzalFzZFVIUy16M1A2TjJ4dGlIcHM1R1M0eUZlRnl2SmtiQWtjX0x4dDdoX1FRQlhFU3V4VDEtMkhtTDZvaTRtQUpXWkt1TlhHZDFZYzc4VA?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 11 Jul 2026 14:15:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZ0d1Zm1JX0pfeUZiZnlLSmZDUDlGZnQ0RTZnSEJPNnhjWHhOQlBnZWMxTUlJSzgtRFlkT0llTURScXZBTVJwby1wVk94cUdhaHFNQVZhQTFCRjAzNGZyZVloU0ozUVY0a0Q4dmNKT0VDWWZ2Vk1RczVWTGd2QUNqclpsTXd3UjV4ci1tMk5xR1dfbnZ0U3p0a29xUF9vMlNjaUI0ZjVGR0lzalFzZFVIUy16M1A2TjJ4dGlIcHM1R1M0eUZlRnl2SmtiQWtjX0x4dDdoX1FRQlhFU3V4VDEtMkhtTDZvaTRtQUpXWkt1TlhHZDFZYzc4VA?oc=5\" target=\"_blank\">Artificial intelligence and communication network concept.</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-12T06:58:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I created a super harmful model ! :D (by tweaking it's J-Space!!!)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1utpxo6/i_created_a_super_harmful_model_d_by_tweaking_its/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-07-11T17:19:59+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Soooo! Since Anthropic share their <a href=\"https://github.com/anthropics/jacobian-lens\">Jacobian-Lens</a> a few days ago I went on and made a tool based on it which <em>adds</em> the possibilité to export a model which will have the same behavior after tweaking it's J-Space.</p> <p>This means manually alter the behavior and abliterate by using a human brain.</p> <p>I'm still working on it but couldn't wait to produce something first.</p> <p>SO After finally get",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-07-12T06:59:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The U.S. tech industry is increasingly anxious about the rising power and competitive price of open-source AI models from China — and whether the Trump administration will respond with yet another executive order | Politico",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uthozd/the_us_tech_industry_is_increasingly_anxious/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-07-11T11:34:24+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uthozd/the_us_tech_industry_is_increasingly_anxious/\"> <img alt=\"The U.S. tech industry is increasingly anxious about the rising power and competitive price of open-source AI models from China — and whether the Trump administration will respond with yet another executive order | Politico\" src=\"https://preview.redd.it/p5nt5oot6lch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53d4679f8f3ab83b174e3adafd4bd3f2ff4cbffd\" tit",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-07-12T06:59:00"
     }
   ],
-  "updated_at": "2026-07-12T02:54:38.911911+09:00"
+  "updated_at": "2026-07-12T06:59:00.911603+09:00"
 }
