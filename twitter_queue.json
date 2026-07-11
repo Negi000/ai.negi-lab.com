@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-07-11-ollama-open-webui-local-llm-tutorial.jpg",
     "created_at": "2026-07-11T17:00:41.448518+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-11-llamacpp-gguf-python-setup-guide",
+    "title": "llama.cppとGGUFを使って手元のPCで高性能なLLMを高速動作させる環境を構築します。",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-python-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llama_cpp",
+    "tweet_text": "ローカルLLMはRTX 3060/4060 Tiクラスがあれば十分実用レベルで動く。llama.cppとGGUFを組み合わせれば、VRAM 8GB〜16GBで7B〜14Bモデルが爆速。OpenAIに月20ドル払う前に、自分のPCをプライベートAIサーバーに変える手順をまとめました。一度構築すればプライバシーもコストも最強。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-11-llamacpp-gguf-python-setup-guide.jpg",
+    "created_at": "2026-07-11T19:14:17.413634+09:00",
+    "posted": false
   }
 ]
