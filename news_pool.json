@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "Fri, 03 Jul 2026 21:16:16 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-04T12:48:48"
-    },
-    {
       "source": "Product Hunt",
       "title": "Archify",
       "url": "https://www.producthunt.com/products/archify",
@@ -1806,22 +1792,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "CLI tool for configuring and monitoring Claude Code",
-      "extra": {
-        "stars_today": "104 stars today"
-      },
-      "collected_at": "2026-07-10T20:51:23"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "huggingface/speech-to-speech",
       "url": "https://github.com/huggingface/speech-to-speech",
       "primary_category": "TOOL",
@@ -2157,7 +2127,53 @@
         "revenue_score": 4
       },
       "collected_at": "2026-07-11T12:25:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "openai/openai-python",
+      "url": "https://github.com/openai/openai-python",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The official Python library for the OpenAI API",
+      "extra": {
+        "stars_today": "96 stars today"
+      },
+      "collected_at": "2026-07-11T14:47:05"
+    },
+    {
+      "source": "Google News",
+      "title": "AI can generate Charts. Flint helps generate better ones. - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOEdXY1NnUkQzRGE4UlptVnhodGF1YkpoMzIwMWQ2QW9wVTEybGlBSkRxaEVYTHFPN0trSmtMdGdBTmpwVTFLd1VsTC1lcklIVmlzM1J0X0lxM2dfV1FKVFhOVks1NVNLTElnVHlPZ2lWelhxVWFXcFNmZ3lzRmY0SlptY1NHbEUxeGlLZHlhT1FDYnhaajJIYTllSm9BckpMNXc?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 08 Jul 2026 16:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOOEdXY1NnUkQzRGE4UlptVnhodGF1YkpoMzIwMWQ2QW9wVTEybGlBSkRxaEVYTHFPN0trSmtMdGdBTmpwVTFLd1VsTC1lcklIVmlzM1J0X0lxM2dfV1FKVFhOVks1NVNLTElnVHlPZ2lWelhxVWFXcFNmZ3lzRmY0SlptY1NHbEUxeGlLZHlhT1FDYnhaajJIYTllSm9BckpMNXc?oc=5\" target=\"_blank\">AI can generate Charts. Flint helps generate better ones.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-11T14:47:06"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ship OS by Notion",
+      "url": "https://www.producthunt.com/products/notion",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The agent-native way to ship software </p> <p> <a href=\"https://www.producthunt.com/products/notion?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1192317?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-11T14:47:06"
     }
   ],
-  "updated_at": "2026-07-11T12:25:01.767404+09:00"
+  "updated_at": "2026-07-11T14:47:09.539694+09:00"
 }

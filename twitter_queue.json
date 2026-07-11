@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-07-11-claude-code-templates-review-guide.jpg",
     "created_at": "2026-07-11T12:25:25.597732+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-11-huggingface-speech-to-speech-local-agent-review",
+    "title": "huggingface/speech-to-speech で作るローカル音声対話AIの性能と実装",
+    "url": "https://ai.negi-lab.com/posts/huggingface-speech-to-speech-local-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#ローカルLLM #HuggingFace",
+    "tweet_text": "ローカルで音声対話AIを構築するならhuggingface/speech-to-speechが決定版。RTX 4090環境なら、Whisper v3とLlama 3を繋いで1秒以下の爆速応答を実現できる。API課金もデータ流出も気にせず、自分専用の「話せるAI」を構築可能。VRAM 24GBの価値はここにある。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-11-huggingface-speech-to-speech-local-agent-review.jpg",
+    "created_at": "2026-07-11T14:48:03.541094+09:00",
+    "posted": false
   }
 ]
