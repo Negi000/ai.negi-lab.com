@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-07-11-glm-5-2-local-llm-pc-guide-rtx-mac.jpg",
     "created_at": "2026-07-11T07:13:27.071914+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-11-claude-code-templates-review-guide",
+    "title": "Claude Codeの挙動を完全に制御する。davila7/claude-code-templates活用ガイド",
+    "url": "https://ai.negi-lab.com/posts/claude-code-templates-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#ClaudeCode #AIエージェント",
+    "tweet_text": "Claude Codeを「素」で使うのは時間の無駄。プロジェクト毎のルール設定をテンプレート化する「claude-code-templates」が実務で手放せない。\n\nnpx一発でテスト駆動や命名規則をAIに叩き込める。指示のコピペから解放され、生成コードのレビュー指摘が8割減。Claude Codeを相棒にするなら必須の管理術。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-11-claude-code-templates-review-guide.jpg",
+    "created_at": "2026-07-11T12:25:25.597732+09:00",
+    "posted": false
   }
 ]

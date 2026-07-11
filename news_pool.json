@@ -2,19 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Gemini Code Assist will be shut down on July 17",
-      "url": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 03 Jul 2026 12:52:48 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-04T07:12:52"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
       "url": "https://epoch.ai/data-insights/cve-severity-spike",
       "primary_category": "NEWS",
@@ -1818,21 +1805,6 @@
       "collected_at": "2026-07-10T18:39:40"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1us5m0g/glm52_744b_moe_on_a_25gbram_consumer_machine/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-07-09T22:43:02+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1us5m0g/glm52_744b_moe_on_a_25gbram_consumer_machine/\"> <img alt=\"GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine\" src=\"https://external-preview.redd.it/NNWlLPxzyXhbyIUMuz2mW9zvetk56LAOcSGVs0rdPqY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4bc51d0f9ad167529370a7eb4ee3d62194c80a9c\" title=\"GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/y",
-      "extra": {},
-      "collected_at": "2026-07-10T20:51:22"
-    },
-    {
       "source": "GitHub Trending",
       "title": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
@@ -2098,7 +2070,94 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-11T07:12:44"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Write code like a human will maintain it",
+      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 10 Jul 2026 13:33:00 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-11T12:24:55"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Show HN: Reverse-engineering web apps into agent tools",
+      "url": "https://news.ycombinator.com/item?id=48847834",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "Thu, 09 Jul 2026 15:45:17 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-11T12:24:55"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "2.5x faster Qwen3.6 NVFP4 Unsloth quants",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1usniqh/25x_faster_qwen36_nvfp4_unsloth_quants/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-07-10T13:20:19+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1usniqh/25x_faster_qwen36_nvfp4_unsloth_quants/\"> <img alt=\"2.5x faster Qwen3.6 NVFP4 Unsloth quants\" src=\"https://preview.redd.it/yoxm16aijech1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=68cb2bb669bbaee024fb2f7d1cb9aa832e4530de\" title=\"2.5x faster Qwen3.6 NVFP4 Unsloth quants\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey <a href=\"/r/LocalLLaMA\">r/LocalLLaMA</a> folks! We made <strong>NVFP4 quants 2.5x faster",
+      "extra": {},
+      "collected_at": "2026-07-11T12:24:55"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 10 Jul 2026 23:55:07 +0000",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-11T12:24:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Yasmine Works",
+      "url": "https://www.producthunt.com/products/yasmine-works",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> An AI coworker that lives in your Slack to get work done </p> <p> <a href=\"https://www.producthunt.com/products/yasmine-works?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1189393?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-11T12:24:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Training an LLM from scratch on 1800's texts (160GB dataset)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uswlq8/training_an_llm_from_scratch_on_1800s_texts_160gb/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-10T18:51:37+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uswlq8/training_an_llm_from_scratch_on_1800s_texts_160gb/\"> <img alt=\"Training an LLM from scratch on 1800's texts (160GB dataset)\" src=\"https://preview.redd.it/ncw7d62g6gch1.png?width=140&amp;height=111&amp;auto=webp&amp;s=51e82c2f4b9c410178f59720eeadba523ea6e077\" title=\"Training an LLM from scratch on 1800's texts (160GB dataset)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi everyone, A year ago I began pre-train",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-07-11T12:25:01"
     }
   ],
-  "updated_at": "2026-07-11T07:12:47.574094+09:00"
+  "updated_at": "2026-07-11T12:25:01.767404+09:00"
 }
