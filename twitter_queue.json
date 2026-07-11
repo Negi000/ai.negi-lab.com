@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-07-11-meta-instagram-ai-feature-backlash-removal.jpg",
     "created_at": "2026-07-11T22:37:27.198090+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-12-qwen-35b-local-llm-gpu-mac-guide",
+    "title": "ローカルLLMでコーディングするならQwen 35Bが新基準？おすすめGPUとMacの選び方比較",
+    "url": "https://ai.negi-lab.com/posts/qwen-35b-local-llm-gpu-mac-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "ローカルLLMで「フライトシミュレーターをHTML1枚で書く」Qwen 35Bの性能が話題。もはやGPT-4o級の知能が自宅で動く時代。\n\nただし、Q8_0の無劣化運用にはVRAM 40GB弱が必要。RTX 4090 1枚では足りず、2枚挿しやMacの統一メモリ64GB以上が勝負の分かれ目。16GB以下のGPUで妥協すると知能低下に泣くことになります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-12-qwen-35b-local-llm-gpu-mac-guide.jpg",
+    "created_at": "2026-07-12T02:55:03.750099+09:00",
+    "posted": false
   }
 ]
