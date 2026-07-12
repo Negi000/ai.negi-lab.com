@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-12-pytorch-comprehensive-review-and-optimization-guide.jpg",
     "created_at": "2026-07-12T12:37:32.040759+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-12-ollama-open-webui-local-llm-guide",
+    "title": "OllamaとOpen WebUIで自分専用のローカルLLM環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLM環境、結局Ollama + Open WebUIの組み合わせが実務最強でした。\nVRAM 16GBあればLlama 3.1 8Bが爆速で回り、RAGもDocker一発で完結します。\nAPI代を気にせず機密情報を投げ込める解放感は、一度味わうと戻れません。\nまずはDockerを叩くところから始めましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-12-ollama-open-webui-local-llm-guide.jpg",
+    "created_at": "2026-07-12T15:11:52.542544+09:00",
+    "posted": false
   }
 ]
