@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-12-local-llm-gpu-rtx-40-unsloth-nvfp4-comparison.jpg",
     "created_at": "2026-07-12T06:59:31.537828+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-12-pytorch-comprehensive-review-and-optimization-guide",
+    "title": "PyTorch 使い方と実務でのパフォーマンス最適化を徹底レビュー",
+    "url": "https://ai.negi-lab.com/posts/pytorch-comprehensive-review-and-optimization-guide/",
+    "category": "TOOL",
+    "viral_tags": "#PyTorch #機械学習",
+    "tweet_text": "PyTorch 2.x系を実務で使い倒した結論。torch.compileの一行で推論・学習が20-40%加速するのは魔法に近い。RTX 4090の24GB VRAMを使い切るなら、AMPと混合精度の最適化は必須。論文実装の9割がこれな以上、AIエンジニアに選択肢はない。環境構築はCUDAの不整合で詰まりがちなので、Docker運用が正解。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-12-pytorch-comprehensive-review-and-optimization-guide.jpg",
+    "created_at": "2026-07-12T12:37:32.040759+09:00",
+    "posted": false
   }
 ]

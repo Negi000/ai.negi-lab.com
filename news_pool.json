@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 04 Jul 2026 20:55:25 +0000",
-      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-05T07:06:38"
-    },
-    {
       "source": "HN AI Hot",
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
       "url": "https://github.com/openai/codex/issues/30364",
@@ -1925,20 +1910,6 @@
       "collected_at": "2026-07-11T12:24:55"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "2.5x faster Qwen3.6 NVFP4 Unsloth quants",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1usniqh/25x_faster_qwen36_nvfp4_unsloth_quants/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-07-10T13:20:19+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1usniqh/25x_faster_qwen36_nvfp4_unsloth_quants/\"> <img alt=\"2.5x faster Qwen3.6 NVFP4 Unsloth quants\" src=\"https://preview.redd.it/yoxm16aijech1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=68cb2bb669bbaee024fb2f7d1cb9aa832e4530de\" title=\"2.5x faster Qwen3.6 NVFP4 Unsloth quants\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey <a href=\"/r/LocalLLaMA\">r/LocalLLaMA</a> folks! We made <strong>NVFP4 quants 2.5x faster",
-      "extra": {},
-      "collected_at": "2026-07-11T12:24:55"
-    },
-    {
       "source": "Product Hunt",
       "title": "Yasmine Works",
       "url": "https://www.producthunt.com/products/yasmine-works",
@@ -2241,7 +2212,22 @@
         "revenue_score": 4
       },
       "collected_at": "2026-07-12T06:59:00"
+    },
+    {
+      "source": "r/LocalLLM",
+      "title": "GLM 5.2 (744B) on 25 GB RAM consumer machine",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1utsblw/glm_52_744b_on_25_gb_ram_consumer_machine/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-11T18:50:36+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLM/comments/1utsblw/glm_52_744b_on_25_gb_ram_consumer_machine/\"> <img alt=\"GLM 5.2 (744B) on 25 GB RAM consumer machine\" src=\"https://preview.redd.it/ggelcaducnch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b1fe068d61216048481ba26eb9fae4c14e0ed92\" title=\"GLM 5.2 (744B) on 25 GB RAM consumer machine\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Saw this crazy post on X: <a href=\"https://x.com/i/status/2075509661252612225\">htt",
+      "extra": {},
+      "collected_at": "2026-07-12T12:37:02"
     }
   ],
-  "updated_at": "2026-07-12T06:59:00.911603+09:00"
+  "updated_at": "2026-07-12T12:37:08.023955+09:00"
 }
