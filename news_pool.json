@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 05 Jul 2026 17:43:36 +0000",
-      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-06T03:03:18"
-    },
-    {
       "source": "Google News",
       "title": "AI社会とは（今さら聞けない 日本政治の超基本） - 朝日新聞",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qanBzT2ZhZ2NDSllyNXhLUEdOZHhnRnp2RFR6c0JoN3FtWF91bHJuamtiUGFPcHBGaW1pQ3Z0Vm53dWNhemRSWFk3aTMzWVdEVnZoQTdTUXQxS2FxekgwaS15WFg5Nkk?oc=5",
@@ -2139,22 +2124,6 @@
       "collected_at": "2026-07-12T22:36:46"
     },
     {
-      "source": "GitHub Trending",
-      "title": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "extra": {
-        "stars_today": "549 stars today"
-      },
-      "collected_at": "2026-07-12T22:36:46"
-    },
-    {
       "source": "Product Hunt",
       "title": "Second Brain for AI v2",
       "url": "https://www.producthunt.com/products/second-brain-cloudflare",
@@ -2198,7 +2167,78 @@
         "revenue_score": 3
       },
       "collected_at": "2026-07-13T02:58:04"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Sun, 12 Jul 2026 18:25:51 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-13T07:00:56"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Sun, 12 Jul 2026 17:13:07 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-13T07:00:56"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Anyone else stuck juggling a coding model and a reasoning model all day?",
+      "url": "https://www.reddit.com/r/ollama/comments/1uuefc0/anyone_else_stuck_juggling_a_coding_model_and_a/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-07-12T12:41:15+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm in this weird spot where I doubt whether using GLM 5.2 really is the best thing to do, because I really like it but I still don't get that normal conversation and deep reasoning feel from it. It absolutely is code biased, Opus isn't. That's why I have an Ollama Pro subscription and a Claude Pro subscription just so that I can use GLM 5.2 when my Opus / Fable quota runs out.</p> <p>For me, it feels like there is no open source model that feels as polished and",
+      "extra": {},
+      "collected_at": "2026-07-13T07:01:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "An AI Hedge Fund Team",
+      "extra": {
+        "stars_today": "109 stars today"
+      },
+      "collected_at": "2026-07-13T07:01:03"
+    },
+    {
+      "source": "Google News",
+      "title": "核時代からAI時代へ―人類は新たな平和の枠組みを築けるか - INPS Japan",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT3ZSR2ZHelFoakFJVnhIWHljYjZxTVNTNXhCT0tmTUEzUVJzS2g2YzZaRlYxd3p6clNTMGhXZ2FjZXotSHBUNVpialA1TkdTQTNYZHhpWVBGQXlxeDNfLTc3RndmWUt5MjBBUWxxV3VINjVyXzlxVUFKb0pmMlhybC1vVkZ0ZGQwU1BrTXFSODEwdlBNanMzeFl3TU5TSDRLZE1GLVlKaU1TOUhWb1dxMGplWFBIWTRzbFZlRzJ3VjNzQ3Z2eXFuLVZOOXBXcW5CTm5MaTJzVmhIQzhNd012b3FmMjhpYTVublRN?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Sun, 12 Jul 2026 21:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQT3ZSR2ZHelFoakFJVnhIWHljYjZxTVNTNXhCT0tmTUEzUVJzS2g2YzZaRlYxd3p6clNTMGhXZ2FjZXotSHBUNVpialA1TkdTQTNYZHhpWVBGQXlxeDNfLTc3RndmWUt5MjBBUWxxV3VINjVyXzlxVUFKb0pmMlhybC1vVkZ0ZGQwU1BrTXFSODEwdlBNanMzeFl3TU5TSDRLZE1GLVlKaU1TOUhWb1dxMGplWFBIWTRzbFZlRzJ3VjNzQ3Z2eXFuLVZOOXBXcW5CTm5MaTJzVmhIQzhNd012b3FmMjhpYTVublRN?oc=5\" target=\"_blank\">核時代からAI時代へ―人類は新たな平和の枠組みを築けるか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">INPS Japan</font>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-07-13T07:01:04"
     }
   ],
-  "updated_at": "2026-07-13T02:58:08.033528+09:00"
+  "updated_at": "2026-07-13T07:01:07.629119+09:00"
 }
