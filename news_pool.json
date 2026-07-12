@@ -1,53 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "DocsAlot",
-      "url": "https://www.producthunt.com/products/docsalot-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Documentation that works for both humans and AI systems </p> <p> <a href=\"https://www.producthunt.com/products/docsalot-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1185912?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-05T17:56:25"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "CircleChat",
-      "url": "https://www.producthunt.com/products/circlechat",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Give your AI agents a slack, a task board, and a boss </p> <p> <a href=\"https://www.producthunt.com/products/circlechat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1187923?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-07-05T17:56:25"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "MentionDrop MCP",
-      "url": "https://www.producthunt.com/products/mentiondrop",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Give your AI agent live market signals </p> <p> <a href=\"https://www.producthunt.com/products/mentiondrop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1175845?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-07-05T17:56:25"
-    },
-    {
       "source": "r/LocalLLaMA Weekly",
       "title": "The gap between closed and open models might be much smaller than commonly assumed, because we don’t know what closed model providers do *in addition to* model inference",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ukp2bu/the_gap_between_closed_and_open_models_might_be/",
@@ -2302,7 +2255,53 @@
         "revenue_score": 3
       },
       "collected_at": "2026-07-12T17:21:40"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ServiceBeard",
+      "url": "https://www.producthunt.com/products/servicebeard",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Sync your mailbox with your issue tracker </p> <p> <a href=\"https://www.producthunt.com/products/servicebeard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1188816?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-12T19:26:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Xiaomi quietly uploaded MiMo-V2.5-DFlash — official DFlash weights are now on Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uu8d1v/xiaomi_quietly_uploaded_mimov25dflash_official/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-07-12T07:11:43+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/XiaomiMiMo/MiMo-V2.5-DFlash\">https://huggingface.co/XiaomiMiMo/MiMo-V2.5-DFlash</a></p> <p>Xiaomi appears to have quietly uploaded <strong>MiMo-V2.5-DFlash</strong> to Hugging Face: there is dedicated <code>dflash</code> directory containing the Dflash model, anyone willing to GGUF it and try? I'd do it but I can't today.<br /> This model is pretty good IMO (300B + params) and runs at about 8-10 tk/s on 2x24gb cards + vram offload",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-07-12T19:27:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "China's DeepSeek developing its own AI chip, sources say",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uu15mz/chinas_deepseek_developing_its_own_ai_chip/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-07-12T01:04:07+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheRealMasonMac\"> /u/TheRealMasonMac </a> <br /> <span><a href=\"https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uu15mz/chinas_deepseek_developing_its_own_ai_chip/\">[comments]</a></span>",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-07-12T19:27:02"
     }
   ],
-  "updated_at": "2026-07-12T17:21:43.917355+09:00"
+  "updated_at": "2026-07-12T19:27:02.474770+09:00"
 }
