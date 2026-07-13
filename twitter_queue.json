@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-07-13-miora-agent-memory-canvas-review.jpg",
     "created_at": "2026-07-13T12:40:05.530386+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-13-claude-code-cursor-hybrid-workflow-guide",
+    "title": "Claude CodeとCursorを併用する最強のAIコーディング環境構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-workflow-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ClaudeCode #Cursor",
+    "tweet_text": "Claude CodeとCursorの併用が、2025年の開発環境における結論。GUIで全体を俯瞰し、CLIでエージェントに爆速実行させる。この棲み分けで開発効率が40%変わる。API料金をケチらず、実行ログをClaudeに食わせるのがコツ。ターミナルから離れず、テストとGitコミットまで自動化するフローを解説。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-13-claude-code-cursor-hybrid-workflow-guide.jpg",
+    "created_at": "2026-07-13T15:28:09.664846+09:00",
+    "posted": false
   }
 ]

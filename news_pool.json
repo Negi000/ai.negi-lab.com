@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "AI社会とは（今さら聞けない 日本政治の超基本） - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qanBzT2ZhZ2NDSllyNXhLUEdOZHhnRnp2RFR6c0JoN3FtWF91bHJuamtiUGFPcHBGaW1pQ3Z0Vm53dWNhemRSWFk3aTMzWVdEVnZoQTdTUXQxS2FxekgwaS15WFg5Nkk?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Fri, 03 Jul 2026 15:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qanBzT2ZhZ2NDSllyNXhLUEdOZHhnRnp2RFR6c0JoN3FtWF91bHJuamtiUGFPcHBGaW1pQ3Z0Vm53dWNhemRSWFk3aTMzWVdEVnZoQTdTUXQxS2FxekgwaS15WFg5Nkk?oc=5\" target=\"_blank\">AI社会とは（今さら聞けない 日本政治の超基本）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">朝日新聞</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-06T13:14:06"
-    },
-    {
       "source": "HN AI Hot",
       "title": "GPT-5.6 Sol Ultra will be in Codex",
       "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
@@ -2048,22 +2032,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Miora",
-      "url": "https://www.producthunt.com/products/miora-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Scale your creativity on editable canvas with agent memory </p> <p> <a href=\"https://www.producthunt.com/products/miora-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1190387?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-12T17:21:40"
-    },
-    {
-      "source": "Product Hunt",
       "title": "ServiceBeard",
       "url": "https://www.producthunt.com/products/servicebeard",
       "primary_category": "TOOL",
@@ -2240,7 +2208,46 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uuga40/local_image_to_3d_2gb_ram_20s_apple_silicon_iphone/\"> <img alt=\"Local Image to 3D (&lt;2gb RAM, &lt;20s, Apple Silicon, iPhone)\" src=\"https://preview.redd.it/ywn3uzqs1tch1.gif?width=640&amp;crop=smart&amp;s=7f71641995d159e68d8be8a739115d6debe2fbb6\" title=\"Local Image to 3D (&lt;2gb RAM, &lt;20s, Apple Silicon, iPhone)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>TLDR checkout the app here: <a href=\"http://gith",
       "extra": {},
       "collected_at": "2026-07-13T12:39:20"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "url": "https://news.ycombinator.com/item?id=48886741",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 13 Jul 2026 01:24:20 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-13T15:27:19"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "The One-Step Trap (In AI Research)",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 12 Jul 2026 18:41:15 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-13T15:27:19"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Agent Harness Engineering",
+      "url": "https://addyosmani.com/blog/agent-harness-engineering/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Sun, 12 Jul 2026 14:16:31 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-13T15:27:19"
     }
   ],
-  "updated_at": "2026-07-13T12:39:26.602651+09:00"
+  "updated_at": "2026-07-13T15:27:25.954286+09:00"
 }
