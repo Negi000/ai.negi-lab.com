@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-13-fudge-mcp-design-ai-agent-review.jpg",
     "created_at": "2026-07-13T18:34:25.003270+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-13-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLXでApple Siliconの性能を引き出しローカルLLMを動かす入門ガイド",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "Apple SiliconのGPUを100%使い切るなら、ローカルLLMはMLX一択です。Llama 3.1 8BならM2/M3チップで爆速。ユニファイドメモリのおかげで、Pythonからたった数行書くだけで独自のAIチャットが作れます。VRAM不足に悩む前に、手元のMacでこの速度を体感してほしい。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-13-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-07-13T21:05:18.892168+09:00",
+    "posted": false
   }
 ]
