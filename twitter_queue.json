@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-11-llamacpp-gguf-python-setup-guide",
-    "title": "llama.cppとGGUFを使って手元のPCで高性能なLLMを高速動作させる環境を構築します。",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-python-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llama_cpp",
-    "tweet_text": "ローカルLLMはRTX 3060/4060 Tiクラスがあれば十分実用レベルで動く。llama.cppとGGUFを組み合わせれば、VRAM 8GB〜16GBで7B〜14Bモデルが爆速。OpenAIに月20ドル払う前に、自分のPCをプライベートAIサーバーに変える手順をまとめました。一度構築すればプライバシーもコストも最強。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-11-llamacpp-gguf-python-setup-guide.jpg",
-    "created_at": "2026-07-11T19:14:17.413634+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-11-meta-instagram-ai-feature-backlash-removal",
-    "title": "MetaがInstagram AI機能を撤回した理由は「データ主権」への配慮不足にある",
-    "url": "https://ai.negi-lab.com/posts/meta-instagram-ai-feature-backlash-removal/",
-    "category": "NEWS",
-    "viral_tags": "#Meta #データプライバシー",
-    "tweet_text": "MetaがInstagramのAI機能を撤回。ユーザーコンテンツの勝手な参照が「NO」を突きつけられた形です。\nRTX 4090を回して痛感するのは、これからのAIは「データの量」より「権利の白黒」が価値を決めること。\n開発者が今すぐやるべきは、規約の再読ではなく、動的なオプトイン設計への移行。データの私物化はもう通用しません。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-11-meta-instagram-ai-feature-backlash-removal.jpg",
-    "created_at": "2026-07-11T22:37:27.198090+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-12-qwen-35b-local-llm-gpu-mac-guide",
     "title": "ローカルLLMでコーディングするならQwen 35Bが新基準？おすすめGPUとMacの選び方比較",
     "url": "https://ai.negi-lab.com/posts/qwen-35b-local-llm-gpu-mac-guide/",
