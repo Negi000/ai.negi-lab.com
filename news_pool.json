@@ -1,81 +1,6 @@
 {
   "items": [
     {
-      "source": "GitHub Trending",
-      "title": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "extra": {
-        "stars_today": "368 stars today"
-      },
-      "collected_at": "2026-07-06T21:46:03"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "cheahjs/free-llm-api-resources",
-      "url": "https://github.com/cheahjs/free-llm-api-resources",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A list of free LLM inference resources accessible via API.",
-      "extra": {
-        "stars_today": "482 stars today"
-      },
-      "collected_at": "2026-07-06T21:46:03"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "karpathy/nanoGPT",
-      "url": "https://github.com/karpathy/nanoGPT",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
-      "extra": {
-        "stars_today": "246 stars today"
-      },
-      "collected_at": "2026-07-06T21:46:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Cadence",
-      "url": "https://www.producthunt.com/products/cadence-13",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Record once, send confidently </p> <p> <a href=\"https://www.producthunt.com/products/cadence-13?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1187160?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-06T21:46:06"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Stanley Studio",
-      "url": "https://www.producthunt.com/products/stanley-studio",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The AI video editor you hire that edits like a human </p> <p> <a href=\"https://www.producthunt.com/products/stanley-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1188912?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-06T21:46:06"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
       "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
@@ -2247,7 +2172,54 @@
         "revenue_score": 6
       },
       "collected_at": "2026-07-13T21:04:49"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uus189/apple_sues_openai_alleging_trade_secret_theft/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-12T21:25:47+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uus189/apple_sues_openai_alleging_trade_secret_theft/\"> <img alt=\"Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'\" src=\"https://external-preview.redd.it/KzCGs7zy_7vp-J5nGXnJju0xv_pJqeN8vU7uscmPBcA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=178c0c8785957ade816101315197cd1ebe50b1d5\" title=\"Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'\" /> </a> </td><td> &",
+      "extra": {},
+      "collected_at": "2026-07-13T23:44:33"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Mon, 13 Jul 2026 14:18:16 +0000",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-13T23:44:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AI Media Buyer By Creatify",
+      "url": "https://www.producthunt.com/products/creatify",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your ads, managed by AI that gets smarter daily. </p> <p> <a href=\"https://www.producthunt.com/products/creatify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1187484?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-13T23:44:35"
     }
   ],
-  "updated_at": "2026-07-13T21:04:52.580751+09:00"
+  "updated_at": "2026-07-13T23:44:38.855970+09:00"
 }
