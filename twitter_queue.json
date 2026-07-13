@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-12-pytorch-comprehensive-review-and-optimization-guide",
-    "title": "PyTorch 使い方と実務でのパフォーマンス最適化を徹底レビュー",
-    "url": "https://ai.negi-lab.com/posts/pytorch-comprehensive-review-and-optimization-guide/",
-    "category": "TOOL",
-    "viral_tags": "#PyTorch #機械学習",
-    "tweet_text": "PyTorch 2.x系を実務で使い倒した結論。torch.compileの一行で推論・学習が20-40%加速するのは魔法に近い。RTX 4090の24GB VRAMを使い切るなら、AMPと混合精度の最適化は必須。論文実装の9割がこれな以上、AIエンジニアに選択肢はない。環境構築はCUDAの不整合で詰まりがちなので、Docker運用が正解。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-12-pytorch-comprehensive-review-and-optimization-guide.jpg",
-    "created_at": "2026-07-12T12:37:32.040759+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-12-ollama-open-webui-local-llm-guide",
-    "title": "OllamaとOpen WebUIで自分専用のローカルLLM環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "ローカルLLM環境、結局Ollama + Open WebUIの組み合わせが実務最強でした。\nVRAM 16GBあればLlama 3.1 8Bが爆速で回り、RAGもDocker一発で完結します。\nAPI代を気にせず機密情報を投げ込める解放感は、一度味わうと戻れません。\nまずはDockerを叩くところから始めましょう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-12-ollama-open-webui-local-llm-guide.jpg",
-    "created_at": "2026-07-12T15:11:52.542544+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-12-llama-cpp-gguf-quantization-tutorial-python",
     "title": "llama.cpp 使い方 入門：GGUF量子化でローカルLLMを爆速にする方法",
     "url": "https://ai.negi-lab.com/posts/llama-cpp-gguf-quantization-tutorial-python/",
