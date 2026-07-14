@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-07-14-llama-cpp-gguf-beginner-guide-python.jpg",
     "created_at": "2026-07-14T17:12:05.066978+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-14-altersend-p2p-file-transfer-review",
+    "title": "Altersend レビュー | ブラウザ間P2P転送の実力と限界",
+    "url": "https://ai.negi-lab.com/posts/altersend-p2p-file-transfer-review/",
+    "category": "TOOL",
+    "viral_tags": "#個人開発 #業務効率化",
+    "tweet_text": "100GB超のモデルデータやログ送信にSlackやS3を使うのはもう限界。Altersendはブラウザ間で直接トンネルを掘る完全P2P転送。サーバー保存なし、容量制限なし、アカウント不要。送信側がブラウザを閉じるまでが勝負だけど、LAN内なら爆速。セキュリティポリシーが厳しい現場こそ、この「どこにも残らない」潔さが武器になる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-14-altersend-p2p-file-transfer-review.jpg",
+    "created_at": "2026-07-14T19:46:30.457603+09:00",
+    "posted": false
   }
 ]
