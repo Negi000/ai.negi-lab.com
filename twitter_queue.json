@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-15-claude-overlay-review-ai-screen-context.jpg",
     "created_at": "2026-07-15T14:40:39.348062+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-15-mlx-apple-silicon-llm-tutorial-for-beginners",
+    "title": "MLX 使い方 入門（Apple Silicon MacでLLMを動かす方法）",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-llm-tutorial-for-beginners/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "Apple Silicon Macを最強のAIマシンに変える。MLXを使えば、Llama 3やGemma 2が爆速で動きます。共有メモリのおかげで、VRAM不足に悩むRTXユーザーを尻目に巨大モデルを動かせるのがMacの特権。まずは4-bit量子化モデルから試すべき。メモリ16GBあれば十分「仕事で使える」レベルの速度が出ます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-15-mlx-apple-silicon-llm-tutorial-for-beginners.jpg",
+    "created_at": "2026-07-15T17:18:39.225911+09:00",
+    "posted": false
   }
 ]

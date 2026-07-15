@@ -1,49 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 08 Jul 2026 04:12:13 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-08T15:04:56"
-    },
-    {
-      "source": "r/ollama",
-      "title": "told Opus 4.8 and a local ollama Qwen3.6:27b to build GTA6 and make no mistakes",
-      "url": "https://www.reddit.com/r/ollama/comments/1upt3gu/told_opus_48_and_a_local_ollama_qwen3627b_to/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-07-07T12:05:37+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1upt3gu/told_opus_48_and_a_local_ollama_qwen3627b_to/\"> <img alt=\"told Opus 4.8 and a local ollama Qwen3.6:27b to build GTA6 and make no mistakes\" src=\"https://external-preview.redd.it/MHpicmdvcDdxc2JoMfpiJq5HBANafuffir0q7LGvdMxFQRP9YfxUfpNyJGEh.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=47d38384d58fe62a0669cf4ad6afdcb24c3d690f\" title=\"told Opus 4.8 and a local ollama Qwen3.6:27b to build GTA6 and make no mistakes\" /> </a> ",
-      "extra": {},
-      "collected_at": "2026-07-08T15:05:01"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "XiaoYouChR/Ghost-Downloader-3",
-      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.",
-      "extra": {
-        "stars_today": "41 stars today"
-      },
-      "collected_at": "2026-07-08T15:05:02"
-    },
-    {
       "source": "r/LocalLLaMA Weekly",
       "title": "Beijing IS NOT looking at curbing overseas access to China's top AI models (Debunking the Reuters report)",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1upvw37/beijing_is_not_looking_at_curbing_overseas_access/",
@@ -2369,21 +2326,64 @@
       "collected_at": "2026-07-15T14:39:33"
     },
     {
+      "source": "HN AI Hot",
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 15 Jul 2026 06:28:00 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-15T17:17:23"
+    },
+    {
       "source": "Product Hunt",
-      "title": "Claude Overlay",
-      "url": "https://www.producthunt.com/products/claude-overlay",
+      "title": "Campus",
+      "url": "https://www.producthunt.com/products/flutterflow",
       "primary_category": "TOOL",
       "possible_categories": [
         "MONEY",
         "TOOL"
       ],
       "published": "",
-      "summary": "<p> A floating Claude Code chat that sees your screen </p> <p> <a href=\"https://www.producthunt.com/products/claude-overlay?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1192997?app_id=339\">Link</a> </p>",
+      "summary": "<p> One project space for humans and AI agents </p> <p> <a href=\"https://www.producthunt.com/products/flutterflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1191307?app_id=339\">Link</a> </p>",
       "extra": {
-        "revenue_score": 3
+        "revenue_score": 6
       },
-      "collected_at": "2026-07-15T14:39:33"
+      "collected_at": "2026-07-15T17:17:26"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Flodesk Studio",
+      "url": "https://www.producthunt.com/products/flodesk-studio",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A place to make beautiful emails. </p> <p> <a href=\"https://www.producthunt.com/products/flodesk-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1189592?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-15T17:17:26"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "V2Fun",
+      "url": "https://www.producthunt.com/products/v2fun",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Generate 3D character with 8K textures and AI motion capture </p> <p> <a href=\"https://www.producthunt.com/products/v2fun?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1186299?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-15T17:17:26"
     }
   ],
-  "updated_at": "2026-07-15T14:39:36.933272+09:00"
+  "updated_at": "2026-07-15T17:17:29.312880+09:00"
 }
