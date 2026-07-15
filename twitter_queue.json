@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-13-mlx-apple-silicon-local-llm-tutorial",
-    "title": "MLXでApple Siliconの性能を引き出しローカルLLMを動かす入門ガイド",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "Apple SiliconのGPUを100%使い切るなら、ローカルLLMはMLX一択です。Llama 3.1 8BならM2/M3チップで爆速。ユニファイドメモリのおかげで、Pythonからたった数行書くだけで独自のAIチャットが作れます。VRAM不足に悩む前に、手元のMacでこの速度を体感してほしい。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-13-mlx-apple-silicon-local-llm-tutorial.jpg",
-    "created_at": "2026-07-13T21:05:18.892168+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-13-ai-governance-nuclear-peace-framework-analysis",
-    "title": "AIガバナンスは核軍縮の歴史に何を学ぶべきか？開発者が直面する技術転用の壁",
-    "url": "https://ai.negi-lab.com/posts/ai-governance-nuclear-peace-framework-analysis/",
-    "category": "NEWS",
-    "viral_tags": "#AIガバナンス #エンジニア倫理",
-    "tweet_text": "AIは核と違い「拡散が容易」で「検知不能」という点がガバナンス最大の壁。RTX 4090を回す個人でも、理論上は軍事転用可能な推論を行える時代の恐ろしさを実感する。\n開発者は単なるツール作りではなく、自分のコードが「デュアルユース」のリスクを孕むことを自覚すべき。利用規約の再確認と、ガードレール実装を標準に。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-13-ai-governance-nuclear-peace-framework-analysis.jpg",
-    "created_at": "2026-07-13T23:45:40.790494+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-14-local-image-to-3d-hardware-comparison-guide",
     "title": "ローカル環境での3D生成AIの選び方：画像から3D化が20秒で完結するMacとRTXの基準",
     "url": "https://ai.negi-lab.com/posts/local-image-to-3d-hardware-comparison-guide/",
