@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "GitHub Trending",
-      "title": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
-      "extra": {
-        "stars_today": "176 stars today"
-      },
-      "collected_at": "2026-07-08T20:03:15"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Orbit for Mac",
-      "url": "https://www.producthunt.com/products/orbit-for-mac",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Every Google account, in a single window </p> <p> <a href=\"https://www.producthunt.com/products/orbit-for-mac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1190855?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-08T20:03:15"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Bono AI",
-      "url": "https://www.producthunt.com/products/bono-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Talk Once. Publish Everywhere. </p> <p> <a href=\"https://www.producthunt.com/products/bono-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1189541?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-08T20:03:15"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Geosql: A Claude/Codex skill for geospatial data",
       "url": "https://github.com/dekart-xyz/geosql",
@@ -2336,7 +2291,86 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-15T19:48:42"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "extra": {
+        "stars_today": "128 stars today"
+      },
+      "collected_at": "2026-07-15T22:51:44"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "HKUDS/nanobot",
+      "url": "https://github.com/HKUDS/nanobot",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+      "extra": {
+        "stars_today": "120 stars today"
+      },
+      "collected_at": "2026-07-15T22:51:44"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Wed, 15 Jul 2026 13:10:47 +0000",
+      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-15T22:51:45"
+    },
+    {
+      "source": "Google News",
+      "title": "Japan Revises AI Policy Guidelines to Bolster Cybersecurity - 時事通信ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYeXd0UzluekFJbk1YaFJQOHFqOXNIUzZRWWowY3NNRzljNmhXT2ZKMklkT1lOcUpDR09FLUNHMlA3LVJwdzJkVEFGSTNpblYwZ2c?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "Wed, 15 Jul 2026 10:16:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYeXd0UzluekFJbk1YaFJQOHFqOXNIUzZRWWowY3NNRzljNmhXT2ZKMklkT1lOcUpDR09FLUNHMlA3LVJwdzJkVEFGSTNpblYwZ2c?oc=5\" target=\"_blank\">Japan Revises AI Policy Guidelines to Bolster Cybersecurity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-07-15T22:51:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "YAGNI",
+      "url": "https://www.producthunt.com/products/yagni",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Proactive agent teams you manage like humans </p> <p> <a href=\"https://www.producthunt.com/products/yagni?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1192566?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-15T22:51:45"
     }
   ],
-  "updated_at": "2026-07-15T19:48:46.109343+09:00"
+  "updated_at": "2026-07-15T22:51:49.450764+09:00"
 }
