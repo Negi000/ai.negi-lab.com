@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-07-15-coreweave-gpu-price-hedging-analysis-2024.jpg",
     "created_at": "2026-07-15T22:53:00.686831+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-16-nanobot-ai-agent-hardware-comparison-guide",
+    "title": "nanobot比較と選び方。ローカルLLMエージェント構築に最適なRTX・Mac構成",
+    "url": "https://ai.negi-lab.com/posts/nanobot-ai-agent-hardware-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #nanobot",
+    "tweet_text": "Rust製の軽量AIエージェント「nanobot」が熱い。自前のCLIツールを自由に叩かせるなら、重いPython製よりこっちが正解。\nローカルLLMで自律運用するならVRAM 16GBのRTX 4060 Tiがコスパの分岐点。Macならメモリ32GB以上積まないとブラウザとIDEの共存で詰みます。\n中途半端なスペックで損する前に、実務で使えるハード構成を整理しました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-16-nanobot-ai-agent-hardware-comparison-guide.jpg",
+    "created_at": "2026-07-16T03:07:49.406742+09:00",
+    "posted": false
   }
 ]
