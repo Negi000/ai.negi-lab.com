@@ -2,48 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "The Making of Claude Code",
-      "url": "https://www.anthropic.com/features/making-of-claude-code",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Tue, 07 Jul 2026 06:19:20 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-08T12:30:54"
-    },
-    {
-      "source": "r/LocalLLM",
-      "title": "How close are we to running powerful local LLMs on affordable hardware?",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1upzxy6/how_close_are_we_to_running_powerful_local_llms/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "2026-07-07T16:21:10+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have been reading about newer technologies that allow smaller or more efficient local models to compete with much larger models.</p> <p>How far are we from running genuinely powerful LLMs on lower-end GPUs or affordable dedicated AI machines?</p> <p>Products such as NVIDIA’s DGX Spark, AMD Strix Halo systems, and the Mac Studio look promising, but they are still expensive for most people. Do you think cheaper machines designed specifically for local AI will la",
-      "extra": {},
-      "collected_at": "2026-07-08T12:31:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Mira",
-      "url": "https://www.producthunt.com/products/mira-the-ai-moderator",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI moderated interviews that read how people feel </p> <p> <a href=\"https://www.producthunt.com/products/mira-the-ai-moderator?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1183892?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-08T12:31:04"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
       "url": "https://twitter.com/OpenAI/status/2074704958419792299",
       "primary_category": "NEWS",
@@ -1626,21 +1584,6 @@
       "collected_at": "2026-07-13T07:01:01"
     },
     {
-      "source": "GitHub Trending",
-      "title": "virattt/ai-hedge-fund",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "An AI Hedge Fund Team",
-      "extra": {
-        "stars_today": "109 stars today"
-      },
-      "collected_at": "2026-07-13T07:01:03"
-    },
-    {
       "source": "HN AI Companies",
       "title": "Ask HN: Add flag for AI-generated articles",
       "url": "https://news.ycombinator.com/item?id=48886741",
@@ -2408,7 +2351,39 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-15T12:13:33"
+    },
+    {
+      "source": "Google News",
+      "title": "ＡＩクラウドの米コアウィーブ、半導体価格下落のヘッジ手段検討＝関係筋 - ロイター",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWbjMtZWo4bDhuLVItaUR4Z09qdVdmVjVVZHdlc1FwSV9fZHloT1A3ZGxaSGJXY0lsaS1hWTl6T001a2RRZEhya29sTkVLbXBaTW9vcFZQSmRyM3ZSVXhnSnhiVmpiSFdCSmJJMmRiNlRXUS0tZGhwYQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Wed, 15 Jul 2026 04:57:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBWbjMtZWo4bDhuLVItaUR4Z09qdVdmVjVVZHdlc1FwSV9fZHloT1A3ZGxaSGJXY0lsaS1hWTl6T001a2RRZEhya29sTkVLbXBaTW9vcFZQSmRyM3ZSVXhnSnhiVmpiSFdCSmJJMmRiNlRXUS0tZGhwYQ?oc=5\" target=\"_blank\">ＡＩクラウドの米コアウィーブ、半導体価格下落のヘッジ手段検討＝関係筋</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-07-15T14:39:33"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Claude Overlay",
+      "url": "https://www.producthunt.com/products/claude-overlay",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A floating Claude Code chat that sees your screen </p> <p> <a href=\"https://www.producthunt.com/products/claude-overlay?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1192997?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-15T14:39:33"
     }
   ],
-  "updated_at": "2026-07-15T12:13:37.105997+09:00"
+  "updated_at": "2026-07-15T14:39:36.933272+09:00"
 }
