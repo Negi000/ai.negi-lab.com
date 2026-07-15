@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-15-claude-code-hardware-gpu-comparison-guide.jpg",
     "created_at": "2026-07-15T07:08:15.720360+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-15-ai-hedge-fund-langgraph-multi-agent-review",
+    "title": "ai-hedge-fund マルチエージェントによる投資意思決定の自動化",
+    "url": "https://ai.negi-lab.com/posts/ai-hedge-fund-langgraph-multi-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #LangGraph",
+    "tweet_text": "AIエージェントが投資判断を下す「ai-hedge-fund」を検証。LangGraphを使ったマルチエージェント設計の完成度が驚くほど高い。\nバリュー投資、テクニカル、センチメントを各エージェントが担当し、議論を経て最終合意へ。\n単一LLMのハルシネーションを防ぐ実務的なエージェント構成を学ぶなら、これ以上の教材はないです。\nただしバックテストは甘いので、実資金投入には要注意。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-15-ai-hedge-fund-langgraph-multi-agent-review.jpg",
+    "created_at": "2026-07-15T12:14:01.444745+09:00",
+    "posted": false
   }
 ]
