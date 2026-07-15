@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-15-mlx-apple-silicon-llm-tutorial-for-beginners.jpg",
     "created_at": "2026-07-15T17:18:39.225911+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-15-mlx-apple-silicon-local-llm-tutorial",
+    "title": "Apple Siliconの真価を引き出すMLXでローカルLLMを爆速で動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple Silicon搭載Macを最強のAI端末に変える「MLX」が凄まじい。Llama-3-8Bの4bit版が秒間100トークン近い爆速で動く。\n重要なのはチップ性能より「ユニファイドメモリ」の容量。8GBだと正直厳しいが、16GB以上あればクラウド不要の爆速ローカル環境が手に入る。\nPythonとの親和性も高く、実務への組み込みも容易。Macユーザーなら試さない手はない。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-15-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-07-15T19:50:02.902615+09:00",
+    "posted": false
   }
 ]

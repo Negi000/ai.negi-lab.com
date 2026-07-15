@@ -1,83 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Beijing IS NOT looking at curbing overseas access to China's top AI models (Debunking the Reuters report)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1upvw37/beijing_is_not_looking_at_curbing_overseas_access/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-07-07T13:57:36+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The Lie</p> <blockquote> <p>Reuters' headline and main narrative: &quot; <a href=\"https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/\">Beijing is looking at curbing overseas access to China's top AI models</a> .&quot; It portrayed recent Ministry of Commerce meetings as China preparing broad new restrictions on foreign usage of advanced Chinese AI models (including open-weight ones), treating them",
-      "extra": {},
-      "collected_at": "2026-07-08T17:33:44"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Wed, 08 Jul 2026 08:00:00 +0000",
-      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-08T17:33:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Link Preview API",
-      "url": "https://www.producthunt.com/products/link-preview-api",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> Free API to get Open Graph data, title & images for any URL </p> <p> <a href=\"https://www.producthunt.com/products/link-preview-api?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1189743?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-07-08T17:33:47"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ExploreYC",
-      "url": "https://www.producthunt.com/products/yc-company-explorer",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open-source API for Y Combinator & a16z company data </p> <p> <a href=\"https://www.producthunt.com/products/yc-company-explorer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1190010?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-08T17:33:47"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "IvyForms",
-      "url": "https://www.producthunt.com/products/ivyforms",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A WordPress form builder for real workflows </p> <p> <a href=\"https://www.producthunt.com/products/ivyforms?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1184843?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-08T17:33:47"
-    },
-    {
       "source": "GitHub Trending",
       "title": "jingyaogong/minimind",
       "url": "https://github.com/jingyaogong/minimind",
@@ -2383,7 +2306,37 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-15T17:17:26"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Copresent",
+      "url": "https://www.producthunt.com/products/co-present",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn your phone into a Google Slides remote </p> <p> <a href=\"https://www.producthunt.com/products/co-present?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1191928?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-15T19:48:42"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "RecordMeeting",
+      "url": "https://www.producthunt.com/products/recordmeeting",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Record and transcribe Google Meet calls in one click </p> <p> <a href=\"https://www.producthunt.com/products/recordmeeting?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1176050?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-15T19:48:42"
     }
   ],
-  "updated_at": "2026-07-15T17:17:29.312880+09:00"
+  "updated_at": "2026-07-15T19:48:46.109343+09:00"
 }
