@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-14-llama-cpp-gguf-beginner-guide-python",
-    "title": "llama.cppとGGUF量子化でローカルLLMを高速に動かす入門ガイド",
-    "url": "https://ai.negi-lab.com/posts/llama-cpp-gguf-beginner-guide-python/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llama_cpp",
-    "tweet_text": "RTX 4090を2枚挿してわかったが、ローカルLLMはllama.cppの直叩きが最強。Ollamaも便利だが、最新モデルへの追従とn_gpu_layersの微調整で速度が30%は変わる。VRAM 12GBあればLlama 3 8Bが爆速。API代を気にせず試行回数をぶん回せる環境は、エンジニアにとって最高の投資になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-14-llama-cpp-gguf-beginner-guide-python.jpg",
-    "created_at": "2026-07-14T17:12:05.066978+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-14-altersend-p2p-file-transfer-review",
     "title": "Altersend レビュー | ブラウザ間P2P転送の実力と限界",
     "url": "https://ai.negi-lab.com/posts/altersend-p2p-file-transfer-review/",
