@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-16-campus-ai-agent-workspace-review.jpg",
     "created_at": "2026-07-16T14:47:43.551408+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-16-llamacpp-gguf-local-llm-beginner-guide",
+    "title": "llama.cpp 使い方 入門：GGUF量子化モデルをローカルPCで爆速動作させる方法",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-beginner-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Python",
+    "tweet_text": "ローカルLLMを動かすならllama.cppとGGUFの組み合わせが最強。RTX 3060ならLlama 3.1 8Bが秒間50トークン超えで爆走します。\n\n・量子化Q4_K_Mで精度と速度を両立\n・n_gpu_layers=-1 設定でVRAMをフル活用\n・Pythonから数行で呼び出し可能\n\nもうAPIの従量課金やプライバシーに怯える必要はありません。自分のPCを最強の知能に変える手順をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-16-llamacpp-gguf-local-llm-beginner-guide.jpg",
+    "created_at": "2026-07-16T17:19:01.671962+09:00",
+    "posted": false
   }
 ]
