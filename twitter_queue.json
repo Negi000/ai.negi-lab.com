@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-15-ai-hedge-fund-langgraph-multi-agent-review",
-    "title": "ai-hedge-fund マルチエージェントによる投資意思決定の自動化",
-    "url": "https://ai.negi-lab.com/posts/ai-hedge-fund-langgraph-multi-agent-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #LangGraph",
-    "tweet_text": "AIエージェントが投資判断を下す「ai-hedge-fund」を検証。LangGraphを使ったマルチエージェント設計の完成度が驚くほど高い。\nバリュー投資、テクニカル、センチメントを各エージェントが担当し、議論を経て最終合意へ。\n単一LLMのハルシネーションを防ぐ実務的なエージェント構成を学ぶなら、これ以上の教材はないです。\nただしバックテストは甘いので、実資金投入には要注意。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-15-ai-hedge-fund-langgraph-multi-agent-review.jpg",
-    "created_at": "2026-07-15T12:14:01.444745+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-15-claude-overlay-review-ai-screen-context",
-    "title": "Claude Overlay レビュー：画面共有型AIチャットで開発効率は変わるか",
-    "url": "https://ai.negi-lab.com/posts/claude-overlay-review-ai-screen-context/",
-    "category": "TOOL",
-    "viral_tags": "#ClaudeCode #AIエージェント",
-    "tweet_text": "Claude Overlay、試した結果「Alt+Tab」の回数が劇的に減った。\n\nClaude Code（CLI）の強力なエージェント機能に、OSレベルの「視覚」を統合したツール。画面上のバグを1秒で共有できるのが実務で強すぎる。\n\n特にフロントエンド開発や複雑なコンソール操作を伴うデバッグでは、もうスクショを手動で貼る作業には戻れない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-15-claude-overlay-review-ai-screen-context.jpg",
-    "created_at": "2026-07-15T14:40:39.348062+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-15-mlx-apple-silicon-llm-tutorial-for-beginners",
     "title": "MLX 使い方 入門（Apple Silicon MacでLLMを動かす方法）",
     "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-llm-tutorial-for-beginners/",
