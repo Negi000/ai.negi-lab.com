@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "Claudeの中に「意識の部屋」が自然発生＝AIの本音を読む新技術 - AI新聞 - 株式会社エクサウィザーズ",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LYXc5MGo5bXdYU2lGTkVEeXZfeFYwZlcwT19iR2Q2b2RGUVd4bG54NkwtTk4yV21LcTg5SGVpRUhsVEdjQ25TM25QcDNrSnJVVXZUYmNrYzI5VmNJUTZPOUdiUVBXUQ?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 07 Jul 2026 08:32:10 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LYXc5MGo5bXdYU2lGTkVEeXZfeFYwZlcwT19iR2Q2b2RGUVd4bG54NkwtTk4yV21LcTg5SGVpRUhsVEdjQ25TM25QcDNrSnJVVXZUYmNrYzI5VmNJUTZPOUdiUVBXUQ?oc=5\" target=\"_blank\">Claudeの中に「意識の部屋」が自然発生＝AIの本音を読む新技術 - AI新聞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株式会社エクサウィザーズ</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-09T18:44:24"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Constellation Gate AI",
-      "url": "https://www.producthunt.com/products/gate-ai-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Prompt injection and token savings - #1 in benchmarks </p> <p> <a href=\"https://www.producthunt.com/products/gate-ai-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1191282?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-07-09T18:44:24"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Tasks.txt",
-      "url": "https://www.producthunt.com/products/tasks-txt",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Plain text task manager for macOS </p> <p> <a href=\"https://www.producthunt.com/products/tasks-txt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1191388?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-09T18:44:24"
-    },
-    {
       "source": "GitHub Trending",
       "title": "unclecode/crawl4ai",
       "url": "https://github.com/unclecode/crawl4ai",
@@ -2366,7 +2321,97 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-16T17:18:07"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "extra": {
+        "stars_today": "34 stars today"
+      },
+      "collected_at": "2026-07-16T19:59:05"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "extra": {
+        "stars_today": "58 stars today"
+      },
+      "collected_at": "2026-07-16T19:59:05"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "youtubediscord/zapret",
+      "url": "https://github.com/youtubediscord/zapret",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Zapret (Запрет обход блокировки Дискорда и Ютуба)",
+      "extra": {
+        "stars_today": "45 stars today"
+      },
+      "collected_at": "2026-07-16T19:59:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "FlightGlitch",
+      "url": "https://www.producthunt.com/products/flightglitch-airline-error-fare-alerts",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Catch mistake fares before airlines fix them </p> <p> <a href=\"https://www.producthunt.com/products/flightglitch-airline-error-fare-alerts?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1197503?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-16T19:59:06"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Microflow",
+      "url": "https://www.producthunt.com/products/microflow",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Microcontrollers made simple. </p> <p> <a href=\"https://www.producthunt.com/products/microflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1195056?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-16T19:59:06"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "dot.",
+      "url": "https://www.producthunt.com/products/dot-7",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The feedback layer for anything you build with AI. </p> <p> <a href=\"https://www.producthunt.com/products/dot-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1189620?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-16T19:59:06"
     }
   ],
-  "updated_at": "2026-07-16T17:18:11.406500+09:00"
+  "updated_at": "2026-07-16T19:59:10.072761+09:00"
 }
