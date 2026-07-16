@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-17-local-llm-hardware-guide-rtx-vs-mac.jpg",
     "created_at": "2026-07-17T03:08:07.456710+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-17-linus-torvalds-ai-hardware-guide-rtx-mac",
+    "title": "ローカルLLMとAIコーディング推奨PC比較：Linus Torvaldsの「AI攻撃中止」発言から考える失敗しない選び方",
+    "url": "https://ai.negi-lab.com/posts/linus-torvalds-ai-hardware-guide-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #エンジニア",
+    "tweet_text": "Linus Torvalds氏の「AI攻撃中止」発言は、エンジニアがAIを「道具」として受け入れるべき時代の象徴。\n\n実務でローカルLLMを回すなら、VRAM 16GBが最低ラインです。RTX 4060 Ti 16GBなら10万円台から環境が作れる。中途半端なスペックで「AIは使えない」と判断するのは損。買う前にVRAM容量と電源だけは死守してください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-17-linus-torvalds-ai-hardware-guide-rtx-mac.jpg",
+    "created_at": "2026-07-17T07:12:06.468115+09:00",
+    "posted": false
   }
 ]
