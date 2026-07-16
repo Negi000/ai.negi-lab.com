@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-14-altersend-p2p-file-transfer-review",
-    "title": "Altersend レビュー | ブラウザ間P2P転送の実力と限界",
-    "url": "https://ai.negi-lab.com/posts/altersend-p2p-file-transfer-review/",
-    "category": "TOOL",
-    "viral_tags": "#個人開発 #業務効率化",
-    "tweet_text": "100GB超のモデルデータやログ送信にSlackやS3を使うのはもう限界。Altersendはブラウザ間で直接トンネルを掘る完全P2P転送。サーバー保存なし、容量制限なし、アカウント不要。送信側がブラウザを閉じるまでが勝負だけど、LAN内なら爆速。セキュリティポリシーが厳しい現場こそ、この「どこにも残らない」潔さが武器になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-14-altersend-p2p-file-transfer-review.jpg",
-    "created_at": "2026-07-14T19:46:30.457603+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-14-mlx-apple-silicon-local-llm-guide",
-    "title": "Macユーザー必見！MLXでローカルLLMを最速で動かす環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Siliconのポテンシャルを解放するならMLX一択。RTX 4090を2枚挿す私でも、MacでのLLM推論の「静かさと速さ」には驚く。M3/M4なら4bit量子化Llama 3が秒間40トークン超えで爆走。選ぶべきはGPUコア数よりメモリ容量。32GBあればVRAM不足に悩む日々が終わります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-14-mlx-apple-silicon-local-llm-guide.jpg",
-    "created_at": "2026-07-14T22:54:59.560769+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-15-google-images-redesign-pinterest-ai-discovery",
     "title": "Google画像検索のPinterest化が示唆する検索エンジンの変質と、視覚情報レコメンドへの完全移行",
     "url": "https://ai.negi-lab.com/posts/google-images-redesign-pinterest-ai-discovery/",
