@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-17-linus-torvalds-ai-hardware-guide-rtx-mac.jpg",
     "created_at": "2026-07-17T07:12:06.468115+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-17-nitrosend-ai-agent-email-api-review",
+    "title": "Nitrosendレビュー AIエージェントに専用メールアドレスを持たせる実力",
+    "url": "https://ai.negi-lab.com/posts/nitrosend-ai-agent-email-api-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントに「専用メールアドレス」を持たせるNitrosendを検証。\nIMAP/SMTPの泥臭い認証やHTMLパースをAPI1つで抽象化し、LLMが即理解できるJSONに変換してくれる。\nResendは「通知」だが、これは「対話」のためのインフラ。\n月$20から。自律型エージェントを実務投入するなら、自作するよりこれを叩く方が100倍速い。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-17-nitrosend-ai-agent-email-api-review.jpg",
+    "created_at": "2026-07-17T12:24:33.145322+09:00",
+    "posted": false
   }
 ]
