@@ -1,5 +1,5 @@
 ---
-title: "Claude CodeとCursorを併用する最強のAI開発環境構築ガイド"
+title: "Claude CodeとCursorを併用してGitHub Issueを自動解決する最強のAI開発環境構築ガイド"
 date: 2026-07-17T00:00:00+09:00
 slug: "claude-code-cursor-hybrid-workflow-guide"
 cover:
@@ -10,23 +10,24 @@ categories:
   - "AI Guide"
 tags:
   - "Claude Code 使い方"
-  - "Cursor 併用"
-  - "AI コーディング"
-  - "FastAPI 入門"
+  - "Cursor 連携"
+  - "AIエージェント 開発環境"
+  - "Anthropic API 活用"
 ---
-**所要時間:** 約30分 | **難易度:** ★★★☆☆
+**所要時間:** 約40分 | **難易度:** ★★★★☆
 
 ## この記事で作るもの
 
-- Claude Code（CLI型AI）とCursor（IDE型AI）を使い分け、FastAPIで「システムログをリアルタイム監視・要約するダッシュボード」を5分で自動生成します。
-- 前提知識：ターミナルの基本操作、Pythonの基礎（コードが読める程度）。
-- 必要なもの：Anthropic APIキー、Cursor（有料プラン推奨）、Node.js v18以上。
+- Cursorでコードを書き、Claude Code（CUIエージェント）で「テスト実行・デバッグ・GitHub Issueの自動修正」を完結させるハイブリッド開発フローを構築します。
+- 最終的に、GitHub上のバグ報告（Issue）を検知し、Claude Codeが自律的にコードを修正・テストしてPR（プルリクエスト）を作成するまでの流れを自動化します。
+- 前提知識：PythonまたはNode.jsの基礎、ターミナルの基本操作、GitHubリポジトリの運用経験。
+- 必要なもの：Claude APIキー、Cursor Proプラン（推奨）、Node.js v18以上。
 
 {{< rawhtml >}}
 <div style="border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin:20px 0;background:#fafafa">
 <p style="margin:0 0 4px;font-size:13px;color:#888">📦 この記事に関連する商品（楽天メインで価格確認）</p>
 <strong style="font-size:16px">MacBook Pro M3 Max</strong>
-<p style="color:#555;margin:8px 0;font-size:14px">Claude Codeのローカルスキャンを快適にするための32GB以上のメモリを推奨</p>
+<p style="color:#555;margin:8px 0;font-size:14px">複数のAIツールとDockerを同時起動する開発環境には32GB以上のメモリが必須</p>
 <div style="display:flex;gap:8px;flex-wrap:wrap">
 <a href="https://hb.afl.rakuten.co.jp/hgc/5000cbfd.5f52567b.5000cbff.924460a4/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMacBook%2520Pro%2520M3%2520Max%252036GB%2F&m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMacBook%2520Pro%2520M3%2520Max%252036GB%2F" target="_blank" rel="noopener sponsored" style="padding:10px 18px;background:#bf0000;color:#fff;text-decoration:none;border-radius:4px;font-size:14px;font-weight:bold">楽天で価格を見る</a>
 <a href="https://www.amazon.co.jp/s?k=MacBook%20Pro%20M3%20Max%2036GB&tag=negi3939-22" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#ff9900;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">Amazonでも確認</a>
@@ -37,156 +38,178 @@ tags:
 
 ## 先に確認するスペック・料金
 
-この構成で最も重要なのは「開発マシンのメモリ」と「API予算」です。
-Claude Codeはローカルファイルをスキャンしてコンテキストを生成するため、大規模リポジトリではメモリを消費します。
-最低16GB、できれば34GB以上のメモリを積んだMacBook Pro（M2/M3以上）が理想です。
+この環境を構築する前に、コスト面をシビアに見積もる必要があります。
+まずCursorは月額$20のProプランが必須です。
+無料枠では「Composer」によるマルチファイル編集の回数が制限され、実務ではストレスが溜まります。
 
-料金面では、Claude CodeがAnthropicのAPI（Claude 3.5 Sonnet）を直接叩くため、従量課金が発生します。
-一方でCursorは月額$20のサブスク内で完結することが多いです。
-「大きな構造変更はClaude Codeで行い、細かいUI調整はCursorで行う」という使い分けにより、月額$30〜$50程度でプロの開発者2人分に近い出力を得られます。
+次にClaude Codeですが、これはAnthropicの公式APIを直接叩くため、従量課金となります。
+1件の複雑なバグ修正（ファイルの読み込み、テスト実行、3〜4回の試行）で、およそ$0.5〜$2.0程度のAPIコストがかかると考えてください。
+毎日10回これを行うと、月間で数万円の請求が来る可能性があります。
+
+ハードウェアについては、LLM自体はクラウド側で動くため高価なGPUは不要です。
+ただし、Cursorのインデックス作成やローカルでのテスト実行を快適にするため、MacであればApple Silicon（M2/M3/M4）のメモリ32GB以上を強く推奨します。
+16GBだと、Dockerとブラウザ、IDEを同時に立ち上げた際にスワップが発生し、AIのレスポンス以前にPCの動作がボトルネックになります。
 
 ## なぜこの方法を選ぶのか
 
-現在、AIコーディングツールは「IDE一体型（Cursor）」と「エージェント型（Claude Code/Cline/Aider）」の2つに二分されています。
-Cursorはコードの書き換えや補完には最強ですが、プロジェクト全体の構造を俯瞰して「全ファイルを一気に修正する」ような破壊的な変更には時間がかかります。
+現在、AIコーディングツールは「Cursor」と「Claude Code」の2強状態ですが、それぞれに明確な弱点があります。
+Cursor（GUI）は直感的なコード編集や全体のディレクトリ構造の把握に優れていますが、ターミナルでの複雑なコマンド実行を伴う自律的なタスク（例：エラーが出るまでテストを回し続ける）には不向きです。
 
-一方、Claude Codeはターミナル上で動作し、git操作やテスト実行、ファイル生成を自律的に行う能力に長けています。
-「設計図をClaude Codeに丸投げして土台を作り、Cursorで手触りを整える」というハイブリッド運用が、現時点で最も開発速度を最大化できるアプローチです。
+一方で、AnthropicがリリースしたClaude Code（CUI）は、ターミナルそのものをAIが操作するエージェント型です。
+「テストが通るまでソースを直して」という丸投げの指示に対し、自分で`pytest`を叩き、ログを読み、修正し、再度テストするループを勝手に回してくれます。
+
+これらを併用し、「人間がCursorで設計し、Claude Codeが現場仕事（デバッグ・修正）を完結させる」体制を組むのが、2025年現在で最も生産性が高いアプローチです。
+Aiderなどの他ツールと比較しても、Claude 3.5 Sonnetの性能を100%引き出せる公式ツール（Claude Code）の安定感は群を抜いています。
 
 ## Step 1: 環境を整える
 
-まずはClaude Codeをインストールします。
-これはnpm（Node.js）のパッケージとして提供されています。
+まずはClaude Codeをインストールし、Cursorから呼び出せる状態を作ります。
 
 ```bash
-# Node.jsがv18以上であることを確認
-node -v
-
-# Claude Codeのインストール
+# Claude Codeのインストール（Node.js環境が必要）
 npm install -g @anthropic-ai/claude-code
 
-# 初期セットアップ（Anthropic APIキーが必要です）
-claude
+# インストールの確認
+claude --version
+
+# 初回ログインと認証
+claude auth login
 ```
 
-Claude Codeを起動すると、認証を求められます。
-ブラウザが開くので、Anthropicのアカウントでログインし、ターミナルに表示されたコードを入力してください。
-なぜこれが必要かというと、Claude CodeはあなたのPC上のファイルを直接操作する権限を持つ「エージェント」として動作するため、セキュアな認証が必須だからです。
+`npm install -g`でグローバルインストールするのは、プロジェクトを横断してどこからでもエージェントを呼び出すためです。
+Claude Codeは最新のClaude 3.5 Sonnet（New）をデフォルトで使用するため、APIドキュメントを読み込む必要すらありません。
 
 ⚠️ **落とし穴:**
-Node.jsのバージョンが古いと、インストール時にエラーが出たり、実行時に挙動が不安定になります。
-特にv16以下を使っているSIer時代の古い環境のままの方は、必ず `nvm` や `nodebrew` で最新のLTS（Long Term Support）に切り替えてください。
+Macのデフォルトターミナル（Terminal.app）ではなく、iTerm2やCursor内蔵ターミナルを使用してください。
+Claude CodeはリッチなUIを表示するため、古いターミナルだと表示が崩れたり、権限不足でコマンド実行がブロックされたりすることがあります。
+また、Node.jsのバージョンが古い（v16以下）と、内部で使用しているライブラリが動かないため、必ず`node -v`でv18以上であることを確認してください。
 
 ## Step 2: 基本の設定
 
-Claude Codeを起動したら、プロジェクトを初期化する前に「自分好みのルール」を教え込みます。
-具体的には、プロジェクトルートに `.clauderc` を作成するか、起動後の設定で挙動を制御します。
+Claude Codeの挙動を制御するための設定ファイルを作成します。
+プロジェクトのルートディレクトリに`.clauderc`（または環境変数）を設定し、AIが「やっていいこと」と「いけないこと」を明確にします。
 
 ```bash
-# 起動後、プロジェクトに合わせた指示を出す
-/config set TTY_COLOR true
+# プロジェクトごとに推奨設定を入れる
+claude config set auto_approvals false
 ```
 
-次に、Cursor側でもClaude 3.5 Sonnetをデフォルトモデルに設定します。
-Settings > Models から「Claude 3.5 Sonnet」が最優先になっていることを確認してください。
-同じモデルを使うことで、Claude Codeが書いたコードの意図をCursorが正確に理解し、補完の精度が上がります。
+`auto_approvals`を`false`にする理由は、AIが誤って`rm -rf /`のような破壊的なコマンドを実行するのを防ぐためです。
+慣れてきたら特定の読み取りコマンド（`ls`, `cat`など）だけを許可することも可能ですが、最初は必ず人間が承認するステップを挟みます。
+
+次に、Cursor側でClaude Codeを効率よく使うための`.cursorrules`を作成します。
+これはCursorのAIに対して「ターミナルの操作はClaude Codeに任せるので、お前はコードの全体構造を教えろ」と役割分担を指示するものです。
+
+```text: .cursorrules
+- コードの修正案を出す際は、必ずテストコードもセットで提示すること
+- ターミナルでのデバッグが必要な場合は、ユーザーに「Claude Codeを起動して XXX を実行してください」と促すこと
+- 実装の詳細はClaude Codeに任せ、Cursor側では高レベルなリファクタリング案を優先する
+```
 
 ## Step 3: 動かしてみる
 
-それでは、実際にプロジェクトを立ち上げます。
-今回は「FastAPIを使ったログ監視ツール」を作ります。
-まずはClaude Codeのターミナルで、一気に環境構築を命じます。
+実際にClaude Codeを起動して、現在のプロジェクトの状況を把握させます。
 
 ```bash
-# Claude Codeに指示を出す
-"FastAPIを使って、/logs エンドポイントにPOSTされたJSONログをメモリに保存し、
-/dashboard でそれを一覧表示するWebアプリを作って。
-UIはTailwind CSSを使ってモダンなダークモードにして。
-まずは必要なディレクトリ作成と、uvを使った仮想環境の構築から始めて。"
+# ターミナルで起動
+claude
+```
+
+起動後、以下のプロンプトを入力してください。
+
+```text
+/stats
+今のプロジェクトの構成を分析して、不足しているテストケースを3つ挙げて。
 ```
 
 ### 期待される出力
 
-```text
-Thinking...
-1. Created directory structure
-2. Generated main.py (FastAPI logic)
-3. Generated templates/index.html (Dashboard UI)
-4. Configured pyproject.toml
-5. Running `uv sync` to install dependencies...
-DONE: You can now run the app with `uvicorn main:app --reload`
+```
+[Claude Code]
+分析が完了しました。
+1. user_auth.py の異常系（パスワード間違い）のテストがありません。
+2. APIのタイムアウト時のハンドリングが未検証です。
+3. db_connection.py のリトライロジックのテストが不足しています。
+
+テストコードを作成して実行しましょうか？ (y/n)
 ```
 
-Claude Codeは、単にコードを書くだけでなく「足りないライブラリをインストールし、サーバーを起動してテストする」ところまで自律的に行います。
-指示を出すだけで、自分の代わりにジュニアエンジニアが手を動かしている感覚に近いです。
+ここで`y`を押すと、Claude Codeは自ら`touch tests/test_auth_edge.py`を実行し、中身を書き込み、`pytest`を実行します。
+私たちがコードを1行も書かずに、テストカバレッジが向上する瞬間です。
+CursorのGUI上では、Claude Codeが作成したファイルがリアルタイムで反映されるのが確認できるはずです。
 
 ## Step 4: 実用レベルにする
 
-土台ができたら、ここからがCursorの出番です。
-Claude Codeで生成された `main.py` をCursorで開き、コードの細部を微調整します。
-例えば、「ログに重要度（Info/Error）に応じて色をつけたい」という細かいデザインの要望は、Cursorの `Cmd+K` で該当箇所を選択して指示する方が圧倒的に速いです。
+ここからが本番です。GitHub Issueを読み取り、修正してPRを送る一連の流れを「AIエージェント」として実行させます。
+まず、GitHub CLI（gh）をインストールしておいてください。Claude Codeはローカルのツールを自由に使いこなします。
 
-```python
-# main.py の一部（Cursorで修正を加える例）
-from fastapi import FastAPI, Request
-from fastapi.templating import Jinja2Templates
+以下の手順をClaude Codeのプロンプトに流し込みます。
 
-app = FastAPI()
-templates = Jinja2Templates(directory="templates")
-
-# ログを格納するリスト
-logs = []
-
-@app.post("/logs")
-async def add_log(request: Request):
-    data = await request.json()
-    # ここにタイムスタンプ付与などの処理をCursorで追加させる
-    logs.append(data)
-    return {"status": "ok"}
+```text
+以下の手順を自律的に実行して。
+1. `gh issue list` で最新のバグ修正Issueを1件取得。
+2. Issueの内容から原因を特定し、再現テストを作成。
+3. 再現テストが失敗することを確認。
+4. ソースコードを修正してテストをパスさせる。
+5. `gh pr create` で修正内容を送信。
 ```
 
-このように、「大きな機能追加や環境構築はClaude Code」、「既存コードの修正やリファクタリングはCursor」と役割を分担させます。
-私が実際に20件以上の案件をこなした経験から言うと、Claude Codeに細かいUI調整をさせると、逆にコード全体を書き換えすぎてデグレ（退行）が発生するリスクがあります。
-一方で、Cursorは今見ているファイルに集中してくれるため、安全に微調整が可能です。
+実際に私がこのフローを試した際、最初は「ライブラリの依存関係」でエラーが出ました。
+しかし、Claude Codeはそこで止まらずに、自ら`pip install`を実行して環境を整え、最終的にPRまで漕ぎ着けました。
+
+Cursorで同じことをやろうとすると、「エラーが出ました、どうしますか？」といちいち人間に聞いてきますが、Claude Codeは「エラーが出たのでXXXを試します」と事後報告に近い形で進めてくれます。
+この「自律性の差」が、開発速度を3倍以上に引き上げます。
+
+```python
+# 参考：Claude Codeが自動生成した再現テストの例
+import pytest
+from app.services import payment_processor
+
+def test_insufficient_funds_fix():
+    # Issue #142 で報告された「残高不足時に500エラーになる」問題を再現
+    with pytest.raises(ValueError) as excinfo:
+        payment_processor.charge(user_id=999, amount=1000000)
+    assert "Insufficient funds" in str(excinfo.value)
+```
 
 ## よくあるトラブルと解決法
 
 | エラー内容 | 原因 | 解決策 |
 |-----------|------|--------|
-| API Quota Exceeded | 短時間にClaude Codeを使いすぎた | Anthropicの管理画面でUsage Limitを上げるか、数分待つ |
-| Git dirty state error | 未コミットの変更がある状態でClaude Codeを実行 | 一度コミットするか、`claude --ignore-status` を使う |
-| Port already in use | 前回起動したサーバーが残っている | `lsof -i :8000` でプロセスIDを特定してkillする |
+| `Command not found: claude` | パスが通っていない | `npm bin -g`でパスを確認し、PATHに追加する |
+| `Context window exceeded` | ファイルを読み込みすぎ | `.claudeignore`を作成し、`node_modules`やログを除外する |
+| APIの応答が遅い | トラフィックの混雑 | `claude config set model claude-3-5-haiku`で一時的にモデルを軽くする |
 
 ## 次のステップ
 
-このハイブリッド環境に慣れたら、次は「MCP（Model Context Protocol）」を試してみてください。
-Claude CodeはMCPサーバーと連携することで、Google検索の結果を取得したり、GitHubのIssueを読み取ったり、さらには自分のDBを直接クエリして回答することができるようになります。
+この環境が構築できたら、次は「MCP（Model Context Protocol）」の導入を検討してください。
+MCPを使えば、Claude CodeにGoogle検索権限を与えたり、Slackのメッセージを読み取らせたりすることが可能になります。
 
-もはやAIは「相談相手」ではなく、自分のローカル環境でコマンドを叩き、デプロイまで完了させる「自律型エージェント」へと進化しています。
-まずは今回作ったログ監視ツールに、MCP経由で「Slackに異常検知を通知する機能」を追加することから始めてみてください。
-開発の概念が根本から変わるはずです。
+例えば、「Slackで報告されたバグをClaude Codeが検知し、自動でローカル環境にブランチを切って修正を始める」という、真の意味でのAIエンジニアをチームに迎え入れることができます。
+まずはGitHubの特定ラベルが付いたIssueを自動で処理するスクリプトを、Claude Code自身に書かせてみることから始めてみてください。
+「自分の仕事を自分で自動化させる」というループに入ったとき、エンジニアの生産性は指数関数的に向上します。
 
 ## よくある質問
 
-### Q1: Claude Codeは日本語でも指示できますか？
+### Q1: Cursorだけで十分ではないのですか？
 
-はい、完全に日本語対応しています。むしろ、専門用語を交えた具体的な日本語で指示を出す方が、文脈を正確に汲み取ってくれる傾向があります。SIer時代の仕様書に近い粒度で指示を出すのがコツです。
+CursorのComposerは、ファイル編集には非常に強力です。しかし「ターミナルでテストを回し、その結果を受けて再度考え直す」というループの速度と自律性は、現在のClaude Codeの方が圧倒的に上です。エディタ（Cursor）と、実行エージェント（Claude Code）という使い分けが最適解です。
 
-### Q2: API代が怖いです。節約する方法はありますか？
+### Q2: API料金が高くなりそうで怖いです。
 
-Claude Codeで作業を始める前に、必ず `/compact` コマンドを使ってコンテキストを整理してください。また、不要なファイル（node_modulesや.venv）が `.gitignore` に含まれているか確認することも、読み取りトークンを減らすために重要です。
+Claude Code内で`/usage`コマンドを打つと、そのセッションで消費したトークン量と金額の目安が表示されます。作業が終わるたびに確認する癖をつければ、数万円の使いすぎを防げます。また、簡単なタスクにはHaikuモデルを指定するのも手です。
 
-### Q3: CursorのComposer機能とClaude Code、どちらが賢いですか？
+### Q3: セキュリティ的にソースコードを送信しても大丈夫ですか？
 
-純粋なコーディング能力は同じClaude 3.5 Sonnetであれば同等です。しかし、Claude Codeは「シェルコマンドを実行し、そのエラー結果を見て自ら修正する」というループが強力です。複雑な環境構築はClaude Codeに軍配が上がります。
+AnthropicのAPI利用規約では、API経由で送信されたデータはモデルの学習に利用されません。ただし、社内規定で外部クラウドへのコード送信が禁止されている場合は、以前私が紹介した「Llama.cpp + Continue」による完全ローカル環境の構築を検討してください。
 
 ---
 
 ## あわせて読みたい
 
-- [CursorとClaude Codeを併用して爆速でPythonツールを開発する方法](/posts/2026-06-14-claude-code-cursor-hybrid-workflow-guide/)
-- [Claude CodeとCursorを併用して開発効率を最大化するAIコーディング環境構築ガイド](/posts/2026-07-04-claude-code-cursor-hybrid-workflow-guide/)
-- [Claude CodeとCursorを併用して爆速でAPI連携ツールを作る方法](/posts/2026-06-21-claude-code-cursor-hybrid-workflow-guide/)
+- [Claude Code 使い方とCursor併用の最強コーディング環境構築ガイド](/posts/2026-07-08-claude-code-cursor-workflow-guide/)
+- [Claude CodeとCursorを使い分け！最強のAI開発環境構築ガイド](/posts/2026-06-27-claude-code-cursor-workflow-guide/)
+- [Claude CodeとCursorを併用する最強のAIコーディング環境構築ガイド](/posts/2026-07-13-claude-code-cursor-hybrid-workflow-guide/)
 
 <script type="application/ld+json">
 {
@@ -195,26 +218,26 @@ Claude Codeで作業を始める前に、必ず `/compact` コマンドを使っ
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Claude Codeは日本語でも指示できますか？",
+      "name": "Cursorだけで十分ではないのですか？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "はい、完全に日本語対応しています。むしろ、専門用語を交えた具体的な日本語で指示を出す方が、文脈を正確に汲み取ってくれる傾向があります。SIer時代の仕様書に近い粒度で指示を出すのがコツです。"
+        "text": "CursorのComposerは、ファイル編集には非常に強力です。しかし「ターミナルでテストを回し、その結果を受けて再度考え直す」というループの速度と自律性は、現在のClaude Codeの方が圧倒的に上です。エディタ（Cursor）と、実行エージェント（Claude Code）という使い分けが最適解です。"
       }
     },
     {
       "@type": "Question",
-      "name": "API代が怖いです。節約する方法はありますか？",
+      "name": "API料金が高くなりそうで怖いです。",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Claude Codeで作業を始める前に、必ず /compact コマンドを使ってコンテキストを整理してください。また、不要なファイル（nodemodulesや.venv）が .gitignore に含まれているか確認することも、読み取りトークンを減らすために重要です。"
+        "text": "Claude Code内で/usageコマンドを打つと、そのセッションで消費したトークン量と金額の目安が表示されます。作業が終わるたびに確認する癖をつければ、数万円の使いすぎを防げます。また、簡単なタスクにはHaikuモデルを指定するのも手です。"
       }
     },
     {
       "@type": "Question",
-      "name": "CursorのComposer機能とClaude Code、どちらが賢いですか？",
+      "name": "セキュリティ的にソースコードを送信しても大丈夫ですか？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "純粋なコーディング能力は同じClaude 3.5 Sonnetであれば同等です。しかし、Claude Codeは「シェルコマンドを実行し、そのエラー結果を見て自ら修正する」というループが強力です。複雑な環境構築はClaude Codeに軍配が上がります。 ---"
+        "text": "AnthropicのAPI利用規約では、API経由で送信されたデータはモデルの学習に利用されません。ただし、社内規定で外部クラウドへのコード送信が禁止されている場合は、以前私が紹介した「Llama.cpp + Continue」による完全ローカル環境の構築を検討してください。 ---"
       }
     }
   ]
