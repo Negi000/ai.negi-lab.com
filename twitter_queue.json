@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-15-mlx-apple-silicon-local-llm-tutorial",
-    "title": "Apple Siliconの真価を引き出すMLXでローカルLLMを爆速で動かす方法",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Silicon搭載Macを最強のAI端末に変える「MLX」が凄まじい。Llama-3-8Bの4bit版が秒間100トークン近い爆速で動く。\n重要なのはチップ性能より「ユニファイドメモリ」の容量。8GBだと正直厳しいが、16GB以上あればクラウド不要の爆速ローカル環境が手に入る。\nPythonとの親和性も高く、実務への組み込みも容易。Macユーザーなら試さない手はない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-15-mlx-apple-silicon-local-llm-tutorial.jpg",
-    "created_at": "2026-07-15T19:50:02.902615+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-15-coreweave-gpu-price-hedging-analysis-2024",
-    "title": "CoreWeaveのGPU価格ヘッジ検討が示唆する「計算資源の暴落」とAI開発の転換点",
-    "url": "https://ai.negi-lab.com/posts/coreweave-gpu-price-hedging-analysis-2024/",
-    "category": "NEWS",
-    "viral_tags": "#GPU #AI開発",
-    "tweet_text": "GPUクラウド最大手CoreWeaveが「GPU価格下落」へのヘッジを検討開始。これはH100等の資産価値がピークを過ぎ、計算資源がコモディティ化する明確な予兆。\n開発者は特定のクラウドに固執せず、スポット価格の暴落を拾えるマルチクラウド構成へシフトすべき。2025年は「いかに安く使い捨てるか」の勝負になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-15-coreweave-gpu-price-hedging-analysis-2024.jpg",
-    "created_at": "2026-07-15T22:53:00.686831+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-16-nanobot-ai-agent-hardware-comparison-guide",
     "title": "nanobot比較と選び方。ローカルLLMエージェント構築に最適なRTX・Mac構成",
     "url": "https://ai.negi-lab.com/posts/nanobot-ai-agent-hardware-comparison-guide/",
