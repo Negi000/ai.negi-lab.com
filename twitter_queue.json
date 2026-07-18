@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-17-nitrosend-ai-agent-email-api-review",
-    "title": "Nitrosendレビュー AIエージェントに専用メールアドレスを持たせる実力",
-    "url": "https://ai.negi-lab.com/posts/nitrosend-ai-agent-email-api-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #Python",
-    "tweet_text": "AIエージェントに「専用メールアドレス」を持たせるNitrosendを検証。\nIMAP/SMTPの泥臭い認証やHTMLパースをAPI1つで抽象化し、LLMが即理解できるJSONに変換してくれる。\nResendは「通知」だが、これは「対話」のためのインフラ。\n月$20から。自律型エージェントを実務投入するなら、自作するよりこれを叩く方が100倍速い。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-17-nitrosend-ai-agent-email-api-review.jpg",
-    "created_at": "2026-07-17T12:24:33.145322+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-17-posthog-ai-observability-review-guide",
-    "title": "PostHog 使い方とAI製品開発での実践的レビュー",
-    "url": "https://ai.negi-lab.com/posts/posthog-ai-observability-review-guide/",
-    "category": "TOOL",
-    "viral_tags": "#PostHog #個人開発",
-    "tweet_text": "AIプロダクトの分析に悩むならPostHog一択。Amplitude＋Sentry＋LangSmithを1つに統合したような怪物ツール。\n月100万イベント無料、しかもOSSでセルフホスト可。\nMCP対応でCursorから自然言語で分析できるのが熱い。\n「AIがどう使われ、どこで離脱されたか」がこれ1枚で見える。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-17-posthog-ai-observability-review-guide.jpg",
-    "created_at": "2026-07-17T14:48:55.392552+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-17-claude-code-cursor-hybrid-workflow-guide",
     "title": "Claude CodeとCursorを併用する最強のAI開発環境構築ガイド",
     "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-workflow-guide/",
