@@ -15110,20 +15110,6 @@
   },
   {
     "article_id": "2026-07-17-claude-code-cursor-hybrid-workflow-guide",
-    "title": "Claude CodeとCursorを併用する最強のAI開発環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-workflow-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ClaudeCode #Cursor",
-    "tweet_text": "Claude CodeとCursorの併用が、現時点でのAI開発の結論です。\n大規模な環境構築や全ファイル横断の修正は「エージェント型」のClaude Code。\nUIの微調整や型定義の修正は「IDE一体型」のCursor。\nこの使い分けで、FastAPIのダッシュボード構築も5分で完結。\nRTX 4090を2枚挿すより、このワークフローを組む方が開発速度は上がります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-17-claude-code-cursor-hybrid-workflow-guide.jpg",
-    "created_at": "2026-07-17T17:13:41.396036+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-17-claude-code-cursor-hybrid-workflow-guide",
     "title": "Claude CodeとCursorを併用してGitHub Issueを自動解決する最強のAI開発環境構築ガイド",
     "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-workflow-guide/",
     "category": "GUIDE",
