@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-16-apple-silicon-mlx-local-llm-tutorial",
-    "title": "MLX 使い方 入門 Apple Silicon ローカルLLM 構築方法",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple SiliconのGPUを眠らせておくのは勿体ない。MLXを使えば、M2 Maxクラスで50tok/sec超えの爆速ローカルLLM環境が数分で手に入ります。\n\n実務で使うならOllamaも良いけど、Pythonから制御するMLXの方が自由度も速度も上。\nメモリ16GBあれば7BモデルがChatGPT以上の体感速度で動く。\n「仕事で使えるAI」を自前で持つための手順をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-16-apple-silicon-mlx-local-llm-tutorial.jpg",
-    "created_at": "2026-07-16T20:00:23.562004+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-16-cisa-gold-eagle-ai-vulnerability-management",
-    "title": "CISAのAI脆弱性調整「Gold Eagle」は開発現場の修正サイクルをどう変えるか",
-    "url": "https://ai.negi-lab.com/posts/cisa-gold-eagle-ai-vulnerability-management/",
-    "category": "NEWS",
-    "viral_tags": "#サイバーセキュリティ #AI開発",
-    "tweet_text": "米政府CISAが発表したAI脆弱性調整基盤「Gold Eagle」が熱い。人手で数週間かかっていた脆弱性のトリアージをAIで分単位に短縮。単なる検知ではなく、パッチ案の生成から通知までをエージェント的に自動化する。今後はSBOMの整備と、AIパッチを即座に検証できるCI環境の有無が開発スピードの決定的な差になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-16-cisa-gold-eagle-ai-vulnerability-management.jpg",
-    "created_at": "2026-07-16T23:03:48.236488+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-17-local-llm-hardware-guide-rtx-vs-mac",
     "title": "ローカルLLM環境の選び方比較｜RTXかMacか？後悔しないVRAM・スペック選定ガイド",
     "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-rtx-vs-mac/",
