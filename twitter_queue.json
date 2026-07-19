@@ -15247,5 +15247,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-07-19T15:05:54.773688+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-19-llamacpp-gguf-setup-guide-for-beginners",
+    "title": "llama.cpp 使い方 入門 (GGUF量子化でローカルLLMを動かす方法)",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-setup-guide-for-beginners/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llamacpp",
+    "tweet_text": "ローカルLLMを実務に投入するなら、llama.cppとGGUF量子化の組み合わせが現状の最適解です。VRAM 12GBのRTX 3060でも、Llama 3.1 8Bが秒間数十トークンで爆速動作。OpenAI互換サーバーを立てれば、機密情報を一切外に出さずにCursorや独自アプリから自前AIを叩き放題。設定のコツは-nglの最適化にあります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-07-19T17:23:39.739892+09:00",
+    "posted": false
   }
 ]
