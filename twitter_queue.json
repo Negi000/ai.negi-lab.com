@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-18-llamacpp-gguf-local-llm-tutorial",
-    "title": "llama.cpp 使い方 入門 | GGUF量子化モデルをローカルPCで高速に動かす方法",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "ローカルLLMを実務で使うなら、llama.cppとGGUF量子化の組み合わせが最強です。RTX 3060 12GBさえあれば、Llama 3クラスのAIを月額無料で高速に回せます。\nPythonの依存関係に悩まされることもなく、VRAM不足ならレイヤー単位でCPUへ逃がす設定も可能。\n「動かしてみた」の先にある、安定した自分専用AI環境の作り方をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-18-llamacpp-gguf-local-llm-tutorial.jpg",
-    "created_at": "2026-07-18T16:55:51.579678+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-18-claude-code-cursor-ai-coding-tutorial",
     "title": "Claude CodeとCursorを併用してAI開発を完全自動化する方法",
     "url": "https://ai.negi-lab.com/posts/claude-code-cursor-ai-coding-tutorial/",
