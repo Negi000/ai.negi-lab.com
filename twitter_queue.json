@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-17-claude-code-cursor-hybrid-workflow-guide",
-    "title": "Claude CodeとCursorを併用してGitHub Issueを自動解決する最強のAI開発環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-workflow-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ClaudeCode #Cursor",
-    "tweet_text": "Claude CodeとCursorの併用が、2025年現在の開発環境で最も生産性が高い。Cursorで構造を設計し、Claude Codeに「テストが通るまで修正してPR出せ」と丸投げする。1Issue解決に$1前後かかるが、エンジニアの数時間を数分に圧縮できるなら安すぎる投資。32GB以上のMac環境が必須条件。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-17-claude-code-cursor-hybrid-workflow-guide.jpg",
-    "created_at": "2026-07-17T19:47:10.520378+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-17-inference-chip-400m-deal-analysis",
-    "title": "NVIDIA一択の終焉か？4億ドルの推論チップ融資が変えるAI開発のコスト構造",
-    "url": "https://ai.negi-lab.com/posts/inference-chip-400m-deal-analysis/",
-    "category": "NEWS",
-    "viral_tags": "#AIインフラ #エンジニア",
-    "tweet_text": "NVIDIA一極集中の時代が終わる。推論特化型チップに4億ドルの融資が決定。これは「学習」から「推論コスト削減」へAIインフラの主戦場が移った決定的な証拠。Llama 3 70Bを秒間300トークンで回すのが当たり前になれば、AIエージェントの設計思想が根底から変わる。H100一択から、目的に応じたチップ選定の時代へ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-17-inference-chip-400m-deal-analysis.jpg",
-    "created_at": "2026-07-17T22:48:37.552372+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-18-code-review-graph-mcp-ai-coding-guide",
     "title": "code-review-graph比較：ローカルLLMとMCPでAIコーディングを極める選び方",
     "url": "https://ai.negi-lab.com/posts/code-review-graph-mcp-ai-coding-guide/",
