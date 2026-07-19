@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "ServiceBeard",
-      "url": "https://www.producthunt.com/products/servicebeard",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Sync your mailbox with your issue tracker </p> <p> <a href=\"https://www.producthunt.com/products/servicebeard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1188816?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-12T19:26:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Xiaomi quietly uploaded MiMo-V2.5-DFlash — official DFlash weights are now on Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uu8d1v/xiaomi_quietly_uploaded_mimov25dflash_official/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-07-12T07:11:43+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/XiaomiMiMo/MiMo-V2.5-DFlash\">https://huggingface.co/XiaomiMiMo/MiMo-V2.5-DFlash</a></p> <p>Xiaomi appears to have quietly uploaded <strong>MiMo-V2.5-DFlash</strong> to Hugging Face: there is dedicated <code>dflash</code> directory containing the Dflash model, anyone willing to GGUF it and try? I'd do it but I can't today.<br /> This model is pretty good IMO (300B + params) and runs at about 8-10 tk/s on 2x24gb cards + vram offload",
-      "extra": {
-        "revenue_score": 8
-      },
-      "collected_at": "2026-07-12T19:27:02"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "China's DeepSeek developing its own AI chip, sources say",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uu15mz/chinas_deepseek_developing_its_own_ai_chip/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-07-12T01:04:07+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheRealMasonMac\"> /u/TheRealMasonMac </a> <br /> <span><a href=\"https://www.reuters.com/world/china/chinas-deepseek-developing-its-own-ai-chip-sources-say-2026-07-07/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uu15mz/chinas_deepseek_developing_its_own_ai_chip/\">[comments]</a></span>",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-07-12T19:27:02"
-    },
-    {
       "source": "GitHub Trending",
       "title": "PrefectHQ/prefect",
       "url": "https://github.com/PrefectHQ/prefect",
@@ -2399,21 +2353,64 @@
       "collected_at": "2026-07-19T19:27:07"
     },
     {
-      "source": "Product Hunt",
-      "title": "BaseRT",
-      "url": "https://www.producthunt.com/products/basert",
+      "source": "HN AI Hot",
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Sun, 19 Jul 2026 10:03:23 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-19T22:26:36"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "extra": {
+        "stars_today": "328 stars today"
+      },
+      "collected_at": "2026-07-19T22:26:37"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
       "primary_category": "TOOL",
       "possible_categories": [
         "MONEY",
         "TOOL"
       ],
       "published": "",
-      "summary": "<p> 6.4x faster than llama.cpp, 3.9x faster than MLX </p> <p> <a href=\"https://www.producthunt.com/products/basert?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1199683?app_id=339\">Link</a> </p>",
+      "summary": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "extra": {
-        "revenue_score": 6
+        "stars_today": "62 stars today"
       },
-      "collected_at": "2026-07-19T19:27:07"
+      "collected_at": "2026-07-19T22:26:37"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "OpenSEO",
+      "url": "https://www.producthunt.com/products/openseo",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The open source Ahrefs alternative </p> <p> <a href=\"https://www.producthunt.com/products/openseo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1199124?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-19T22:26:38"
     }
   ],
-  "updated_at": "2026-07-19T19:27:10.624240+09:00"
+  "updated_at": "2026-07-19T22:26:41.884716+09:00"
 }
