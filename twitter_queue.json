@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-18-code-review-graph-mcp-ai-coding-guide",
-    "title": "code-review-graph比較：ローカルLLMとMCPでAIコーディングを極める選び方",
-    "url": "https://ai.negi-lab.com/posts/code-review-graph-mcp-ai-coding-guide/",
-    "category": "MONEY",
-    "viral_tags": "#AIコーディング #MCP",
-    "tweet_text": "大規模コード解析の救世主 code-review-graph。MCP対応でClaudeやCursorに「コードの依存グラフ」を渡せるのが強すぎる。\n導入の判断基準は「メモリ32GB」があるかどうか。16GBだとIDEとグラフDBの並走でスワップ地獄を見る。\nトークン代を削りたいならMacの統一メモリかRTX 16GBモデルへの投資が最短ルートです。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-18-code-review-graph-mcp-ai-coding-guide.jpg",
-    "created_at": "2026-07-18T03:07:05.026754+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-18-local-llm-vram-gpu-comparison-guide",
     "title": "ローカルLLM環境の選び方比較｜RTX 4060 Tiから4090、Macまで失敗しないVRAM選び",
     "url": "https://ai.negi-lab.com/posts/local-llm-vram-gpu-comparison-guide/",
