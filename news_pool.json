@@ -1,50 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLM",
-      "title": "I recorded an uncut session of Qwen 3.6 27B building a full-stack app on a 128GB Mac — 52 minutes, no cloud help",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1uuk0hb/i_recorded_an_uncut_session_of_qwen_36_27b/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-07-12T16:24:10+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A few days ago, I posted a 2+ hour uncut session of DeepSeek V4 Flash building a full-stack app locally. Most of the time I cut or speed up parts of coding sessions and only worked on quick demos. This series I work on a full stack app and show uncut recording of the model at work. </p> <p>A lot of you on YouTube found it interesting, so I ran the same test with a different model: Qwen 3.6 27B Q6.</p> <p>Qwen full run: <a href=\"https://youtu.be/6NhLP_YGZVw\">http",
-      "extra": {},
-      "collected_at": "2026-07-13T02:58:01"
-    },
-    {
-      "source": "Google News",
-      "title": "ISO42001（AIマネジメントシステム）認証取得に関するお知らせ - 山陽新聞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82SFVvbkZmZllqcEdhbTJYYkIyUTBjRXJ2RHBObTgwRG8xbi1xOEtxMWNrZnR1Ym5sQzZjc0xnbkJwcEpwakk1Tk9nMEN3YVJwbWc?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Sun, 12 Jul 2026 00:54:51 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE82SFVvbkZmZllqcEdhbTJYYkIyUTBjRXJ2RHBObTgwRG8xbi1xOEtxMWNrZnR1Ym5sQzZjc0xnbkJwcEpwakk1Tk9nMEN3YVJwbWc?oc=5\" target=\"_blank\">ISO42001（AIマネジメントシステム）認証取得に関するお知らせ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">山陽新聞</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-13T02:58:04"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Anyone else stuck juggling a coding model and a reasoning model all day?",
-      "url": "https://www.reddit.com/r/ollama/comments/1uuefc0/anyone_else_stuck_juggling_a_coding_model_and_a/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-07-12T12:41:15+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm in this weird spot where I doubt whether using GLM 5.2 really is the best thing to do, because I really like it but I still don't get that normal conversation and deep reasoning feel from it. It absolutely is code biased, Opus isn't. That's why I have an Ollama Pro subscription and a Claude Pro subscription just so that I can use GLM 5.2 when my Opus / Fable quota runs out.</p> <p>For me, it feels like there is no open source model that feels as polished and",
-      "extra": {},
-      "collected_at": "2026-07-13T07:01:01"
-    },
-    {
       "source": "HN AI Companies",
       "title": "Ask HN: Add flag for AI-generated articles",
       "url": "https://news.ycombinator.com/item?id=48886741",
@@ -2367,20 +2323,6 @@
       "collected_at": "2026-07-19T22:26:38"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Prepare your (v)ram - Qwen3.8 is coming!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0lewq/prepare_your_vram_qwen38_is_coming/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-07-19T08:52:53+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1v0lewq/prepare_your_vram_qwen38_is_coming/\"> <img alt=\"Prepare your (v)ram - Qwen3.8 is coming!\" src=\"https://preview.redd.it/c9vs0w2ih5eh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=11f644bfda1965b970529be98561e59bb5718002\" title=\"Prepare your (v)ram - Qwen3.8 is coming!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/xw1y\"> /u/xw1y </a> <br /> <span><a href=\"https://i.redd.it/c9vs0w2",
-      "extra": {},
-      "collected_at": "2026-07-20T00:34:05"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
       "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
@@ -2394,7 +2336,87 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-20T00:34:06"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "extra": {
+        "stars_today": "1,734 stars today"
+      },
+      "collected_at": "2026-07-20T07:01:56"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 19 Jul 2026 21:16:07 +0000",
+      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-20T07:01:56"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "HuggingFace security incident report: \"the attacker was bound by no usage policy, while our own forensic work was blocked by the guardrails\"",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0ywoi/huggingface_security_incident_report_the_attacker/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-19T19:00:20+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1v0ywoi/huggingface_security_incident_report_the_attacker/\"> <img alt=\"HuggingFace security incident report: &quot;the attacker was bound by no usage policy, while our own forensic work was blocked by the guardrails&quot;\" src=\"https://external-preview.redd.it/tLa80cLashFk8b1qvSyhZgFagKqpQuDcINxc0lC5Ebw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6fe429dfc13f9591a4f1976d5a7ce567c412231c\" title=\"HuggingFace security incid",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-07-20T07:02:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Please Qwen, can we have more 3.x-35B-a3B please 🙏",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0t1g2/please_qwen_can_we_have_more_3x35ba3b_please/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-07-19T15:09:58+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1v0t1g2/please_qwen_can_we_have_more_3x35ba3b_please/\"> <img alt=\"Please Qwen, can we have more 3.x-35B-a3B please 🙏\" src=\"https://preview.redd.it/h9ku290sc7eh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=edd092716e1d212e324d8eb481745f21957503e6\" title=\"Please Qwen, can we have more 3.x-35B-a3B please 🙏\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JLeonsarmiento\"> /u/JLeonsarmiento </",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-07-20T07:02:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Hey Qwen Team: We Need a 100B MoE Model for Spark!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0sheg/hey_qwen_team_we_need_a_100b_moe_model_for_spark/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "2026-07-19T14:47:28+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Are there any Qwen team members here? Please release a 100B MoE model that I can run on Spark!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/absurd-dream-studio\"> /u/absurd-dream-studio </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1v0sheg/hey_qwen_team_we_need_a_100b_moe_model_for_spark/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1v0sheg/hey_qwen_team_we",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-07-20T07:02:00"
     }
   ],
-  "updated_at": "2026-07-20T00:34:11.347542+09:00"
+  "updated_at": "2026-07-20T07:02:00.512962+09:00"
 }

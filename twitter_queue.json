@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-20-qwen3-local-llm-vram-guide-rtx-mac.jpg",
     "created_at": "2026-07-20T02:58:01.489559+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-20-ai-agent-book-hardware-guide-vram-rtx-mac",
+    "title": "AI Agent学習の決定版「ai-agent-book」活用ガイド：ローカルLLM環境とVRAMの選び方",
+    "url": "https://ai.negi-lab.com/posts/ai-agent-book-hardware-guide-vram-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#AIエージェント #ローカルLLM",
+    "tweet_text": "AI Agent開発の決定版リポジトリ「ai-agent-book」が話題ですが、動かすなら環境選びが命。Agentは通常のLLM利用よりVRAMを激しく食うので、8GB構成だと確実に詰みます。\n実務で使うならRTX 4060 Ti 16GBが最低ライン。Mac派ならメモリ32GB以上。\nAPI代で溶かすか、ハードに投資するか。失敗しない機材選びをまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-20-ai-agent-book-hardware-guide-vram-rtx-mac.jpg",
+    "created_at": "2026-07-20T07:02:24.757820+09:00",
+    "posted": false
   }
 ]
