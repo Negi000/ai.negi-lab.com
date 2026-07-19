@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-07-19-zoodata-ai-agent-data-layer-review.jpg",
     "created_at": "2026-07-19T12:33:34.675949+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-19-apple-silicon-mlx-local-llm-tutorial",
+    "title": "MLX入門！Apple Silicon MacでLLMを最速動作させる方法",
+    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "M1/M2/M3のMacでローカルLLMを動かすなら、もはやMLX一択。\nユニファイドメモリを直接叩くから、PyTorchより20〜40%速いこともある。\n16GBメモリあればLlama 3 8Bが秒間30トークンで爆走。\n実務で使える「ストリーミング実装」の具体手順を書きました。\n買う前に自分のMacが戦えるスペックか、まず確認を。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-07-19T15:05:54.773688+09:00",
+    "posted": false
   }
 ]
