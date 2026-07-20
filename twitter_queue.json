@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-20-moonshot-ai-kimi-cli-review-and-guide.jpg",
     "created_at": "2026-07-20T18:20:08.715993+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-20-ollama-open-webui-local-llm-tutorial",
+    "title": "OllamaとOpen WebUIを連携させ、完全にオフラインで動作する「プライベートChatGPT環境」を構築します。",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLM環境を構築するなら、現時点ではOllama + Open WebUIの組み合わせが最適解。VRAM 12GB以上のRTXか、16GB以上のMacがあれば、爆速で自分専用の「機密情報OKなChatGPT」が手に入る。RAG機能も標準搭載。PDFを放り込むだけでオフライン解析ができる。導入手順を徹底解説した。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-20-ollama-open-webui-local-llm-tutorial.jpg",
+    "created_at": "2026-07-20T20:47:31.786346+09:00",
+    "posted": false
   }
 ]
