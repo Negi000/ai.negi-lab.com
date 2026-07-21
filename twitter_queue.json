@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-19-basert-llm-inference-engine-review-vs-llamacpp",
-    "title": "BaseRT レビュー llama.cppより6倍速い推論エンジンの実力",
-    "url": "https://ai.negi-lab.com/posts/basert-llm-inference-engine-review-vs-llamacpp/",
-    "category": "TOOL",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "ローカルLLM推論でllama.cppより6.4倍速いと噂の「BaseRT」を検証。RTX 4090環境でLlama-3 8Bが700 tokens/sec超えという異次元の速度を叩き出しました。\nMLXより速いのでMac勢も注目。導入は少し癖がありますが、リアルタイムAIエージェントを作るならこれ一択。速度は正義です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-07-19T19:27:42.416250+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-19-kimi-moonshot-ai-full-communism-threat",
-    "title": "Kimiの最新モデルが示した「AI共産主義」の衝撃と開発者が直面する現実",
-    "url": "https://ai.negi-lab.com/posts/kimi-moonshot-ai-full-communism-threat/",
-    "category": "NEWS",
-    "viral_tags": "#MoonshotAI #LLM",
-    "tweet_text": "Moonshot AIのKimi最新版、もはや「AI共産主義」の域に。1Mトークン約$0.15、コンテキスト200万という破壊的スペック。GPT-4oを前提にしたRAG構成はコスト負けする可能性大。2枚のRTX 4090でローカルLLMを回す私でも、この規模の推論をこの価格で出されると戦略の再考を迫られる。買う前にAPI単価の比較を。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-19-kimi-moonshot-ai-full-communism-threat.jpg",
-    "created_at": "2026-07-19T22:27:06.881988+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-20-qwen3-local-llm-vram-guide-rtx-mac",
     "title": "ローカルLLMおすすめPC構成比較！Qwen3到来で変わるVRAMの選び方と買う前の注意点",
     "url": "https://ai.negi-lab.com/posts/qwen3-local-llm-vram-guide-rtx-mac/",
