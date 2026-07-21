@@ -1,106 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says",
-      "url": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 14 Jul 2026 05:21:02 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-14T19:45:56"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
-      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 13 Jul 2026 23:26:52 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-14T19:45:56"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "The AI Whale Fall and Open Source",
-      "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Mon, 13 Jul 2026 23:16:42 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-14T19:45:56"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "VocalVia",
-      "url": "https://www.producthunt.com/products/vocalvia",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn documents and articles into editable multi-voice audio </p> <p> <a href=\"https://www.producthunt.com/products/vocalvia?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1194977?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-14T19:46:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AutoShelf 2.0",
-      "url": "https://www.producthunt.com/products/autoshelf",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Auto-organize files on your Mac now with MCP & CLI support </p> <p> <a href=\"https://www.producthunt.com/products/autoshelf?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1190409?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-14T19:46:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Best Local VLMs - July 2026",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uoalfq/best_local_vlms_july_2026/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-07-05T19:08:06+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Share what your favorite models are right now and <strong><em>why</em></strong>. Given the nature of the beast in evaluating VLMs (untrustworthiness of benchmarks, immature tooling, intrinsic stochasticity), please be as detailed as possible in </p> <ul> <li>describing your setup (at least hardware and inference engine) </li> <li>nature of your usage (what applications, how much, personal/professional use)</li> <li>tools/frameworks/prompts etc.</li> </ul> <p><st",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-07-14T19:46:02"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I just don't get it. These big tech companies can illegally scrape the entire internet and gatekeep their better models behind higher prices. So it's natural that people look for affordable options, and there will be providers who apparently distill models from them.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvwn9q/i_just_dont_get_it_these_big_tech_companies_can/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-07-14T03:01:38+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uvwn9q/i_just_dont_get_it_these_big_tech_companies_can/\"> <img alt=\"I just don't get it. These big tech companies can illegally scrape the entire internet and gatekeep their better models behind higher prices. So it's natural that people look for affordable options, and there will be providers who apparently distill models from them.\" src=\"https://preview.redd.it/ixx9zxu924dh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-07-14T19:46:02"
-    },
-    {
       "source": "GitHub Trending",
       "title": "cactus-compute/needle",
       "url": "https://github.com/cactus-compute/needle",
@@ -2440,7 +2340,99 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-21T17:33:07"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Google has disappeared completely from the top 15",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v21j14/google_has_disappeared_completely_from_the_top_15/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-20T23:26:54+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1v21j14/google_has_disappeared_completely_from_the_top_15/\"> <img alt=\"Google has disappeared completely from the top 15\" src=\"https://preview.redd.it/phjsp7a5ygeh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ebefe9b39930518669f4114c0535066004388d0\" title=\"Google has disappeared completely from the top 15\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Google hasn't shipped a model recently that is capable of compe",
+      "extra": {},
+      "collected_at": "2026-07-21T20:07:16"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 21 Jul 2026 10:00:00 +0000",
+      "summary": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-21T20:07:17"
+    },
+    {
+      "source": "Google News",
+      "title": "Backed by NVIDIA, Batam eyes Southeast Asia's AI hub position - IDNFinancials.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3Zfd01GOUR2YURQRHRNb1paR2lYc2g0LVhQcDUwUXVqS1VmWGRFWFhpTzRtRmZCMUxrVFlFNngzbXF3QXFxUmEwOXBMV1BpbmVVal9xNkhFZVZiZjRqaGMycWtfaGxSRDRVYmRxOGQtM3BGaFNzQ1YwTjkwUTdQeEJGQmk5bTBvSGszaTNJU3VVQm1YMDZEWExHSGN5anV6?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Tue, 21 Jul 2026 05:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3Zfd01GOUR2YURQRHRNb1paR2lYc2g0LVhQcDUwUXVqS1VmWGRFWFhpTzRtRmZCMUxrVFlFNngzbXF3QXFxUmEwOXBMV1BpbmVVal9xNkhFZVZiZjRqaGMycWtfaGxSRDRVYmRxOGQtM3BGaFNzQ1YwTjkwUTdQeEJGQmk5bTBvSGszaTNJU3VVQm1YMDZEWExHSGN5anV6?oc=5\" target=\"_blank\">Backed by NVIDIA, Batam eyes Southeast Asia's AI hub position</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IDNFinancials.com</font>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-21T20:07:18"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "CartAI",
+      "url": "https://www.producthunt.com/products/cartai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AI agent that handles checkout. </p> <p> <a href=\"https://www.producthunt.com/products/cartai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1160224?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-07-21T20:07:18"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Lev8",
+      "url": "https://www.producthunt.com/products/lev8",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Find, research, and reach the right people </p> <p> <a href=\"https://www.producthunt.com/products/lev8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1197421?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-21T20:07:18"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Skim",
+      "url": "https://www.producthunt.com/products/skim-5",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Free, open-source AI email client for Windows </p> <p> <a href=\"https://www.producthunt.com/products/skim-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1201330?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-21T20:07:18"
     }
   ],
-  "updated_at": "2026-07-21T17:33:10.435275+09:00"
+  "updated_at": "2026-07-21T20:07:21.651825+09:00"
 }
