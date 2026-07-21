@@ -1,37 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 14 Jul 2026 02:46:42 +0000",
-      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-14T12:14:24"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Osaurus",
-      "url": "https://www.producthunt.com/products/osaurus",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open source agents that run 100% locally on your Mac </p> <p> <a href=\"https://www.producthunt.com/products/osaurus?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1190657?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-14T12:14:25"
-    },
-    {
       "source": "Google News",
       "title": "LinkedInの長文投稿の約40％はAIによって作成されたもの - GIGAZINE",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iamxJTThWaEsyM3FlMWdqR2hqZkQxQ2pyNnd0ZW5qVVdlbzhib1ZWZHNZTC0zemRWUGNNdDNfUjRSekJaajBWdGZFSUJJU0RTSy1jOVJmQWRVMU8xSnJoZ0pIMTUzci10b21PTDVwakJXQQ?oc=5",
@@ -1833,21 +1802,6 @@
       "collected_at": "2026-07-19T06:58:57"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "What kind of dark magic is Deepseek using?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzqspl/what_kind_of_dark_magic_is_deepseek_using/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-07-18T08:58:03+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uzqspl/what_kind_of_dark_magic_is_deepseek_using/\"> <img alt=\"What kind of dark magic is Deepseek using?\" src=\"https://preview.redd.it/9eofhmo4cydh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa6be328defc088b38effe810fe80d9e3b58944f\" title=\"What kind of dark magic is Deepseek using?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I was taking a look at Kimi K3 scores on the Artificial analysis leaderboard and was ",
-      "extra": {},
-      "collected_at": "2026-07-19T06:58:57"
-    },
-    {
       "source": "Product Hunt",
       "title": "OpenMarkdown",
       "url": "https://www.producthunt.com/products/openmarkdown",
@@ -2445,7 +2399,63 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-21T07:08:54"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "That post never existed. Stop listening to that thing",
+      "url": "https://rachelbythebay.com/w/2026/05/05/404/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 20 Jul 2026 17:57:37 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-21T12:26:44"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+      "url": "https://hypr.land/news/update55/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 20 Jul 2026 17:31:57 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-21T12:26:44"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Tue, 21 Jul 2026 00:12:24 +0000",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-21T12:26:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Autoplot",
+      "url": "https://www.producthunt.com/products/autoplot",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Unify data analysis and plotting in one powerful workspace </p> <p> <a href=\"https://www.producthunt.com/products/autoplot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1200936?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-21T12:26:47"
     }
   ],
-  "updated_at": "2026-07-21T07:08:58.167658+09:00"
+  "updated_at": "2026-07-21T12:26:50.551763+09:00"
 }
