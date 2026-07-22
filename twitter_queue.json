@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-21-ollama-openwebui-local-llm-setup-guide",
-    "title": "OllamaとOpen WebUIで自分専用のChatGPTをローカル構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "ローカルLLM環境はOllama + Open WebUIが現状の最適解です。VRAM 12GB以上のRTXがあれば、Llama 3.1 8Bが爆速で動く。API代ゼロ、プライバシー100%。Dockerコマンド一発でChatGPT風のUIが手に入り、RAGまで完結。もうクラウドAIの返答待ちや検閲にイライラする必要はありません。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-21-ollama-openwebui-local-llm-setup-guide.jpg",
-    "created_at": "2026-07-21T15:04:09.436937+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-21-llamacpp-gguf-local-llm-guide",
     "title": "llama.cppとGGUFでローカルLLM環境を高速に構築する方法",
     "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-guide/",
