@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-21-llamacpp-gguf-local-llm-guide",
-    "title": "llama.cppとGGUFでローカルLLM環境を高速に構築する方法",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llama_cpp",
-    "tweet_text": "ローカルLLMを最速で動かすならllama.cpp一択。RTX 3060 12GBでもLlama 3が爆速で回ります。環境構築でハマる「CPU推論になってしまう罠」の回避策から、OpenAI互換APIサーバーとしてDifyやCursorに接続する実用手順まで全部まとめました。VRAMを使い切る快感をぜひ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-21-llamacpp-gguf-local-llm-guide.jpg",
-    "created_at": "2026-07-21T17:34:05.315680+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-21-cartai-review-ai-checkout-agent-guide",
     "title": "CartAI レビュー：ブラウザ操作不要で決済まで完結するAIエージェント",
     "url": "https://ai.negi-lab.com/posts/cartai-review-ai-checkout-agent-guide/",
