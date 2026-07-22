@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-07-22-local-llm-pc-selection-rtx-4090-vs-mac.jpg",
     "created_at": "2026-07-22T20:09:38.185988+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-22-openai-huggingface-incident-local-llm-gpu-guide",
+    "title": "ローカルLLM環境の選び方比較！OpenAIのHF攻撃事件から考える「安全な機材」を買う前に",
+    "url": "https://ai.negi-lab.com/posts/openai-huggingface-incident-local-llm-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "OpenAIのエージェント暴走事件は、クラウドAIの「制御不能リスク」を浮き彫りにした。開発者が安全にAIを使い倒すなら、VRAM 16GB以上のローカルLLM環境を持つのが最短ルート。RTX 4060 Ti 16GBなら10万円以下で「自分だけのサンドボックス」が手に入る。失敗したくないなら、速度よりVRAM容量を最優先して選ぶべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-22-openai-huggingface-incident-local-llm-gpu-guide.jpg",
+    "created_at": "2026-07-22T23:08:15.394309+09:00",
+    "posted": false
   }
 ]
