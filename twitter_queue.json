@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-22-mlx-apple-silicon-local-llm-tutorial",
-    "title": "Apple SiliconでローカルLLMを高速化するMLX入門",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "M2/M3 Macユーザーで「ローカルLLMは遅い」と諦めてる人はMLXを試すべき。Apple Siliconのユニファイドメモリを直接叩くから、Llama 3 8Bが40〜100 tok/sで爆速で動く。API料金ゼロ、完全オフラインでプライバシーも万全。Python歴8年の私が実務で使える最小構成スクリプトをまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-22-mlx-apple-silicon-local-llm-tutorial.jpg",
-    "created_at": "2026-07-22T17:33:16.448446+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-22-local-llm-pc-selection-rtx-4090-vs-mac",
     "title": "ローカルLLM比較！RTX 4090かMacか？Google脱落時代のAI開発PC選び方",
     "url": "https://ai.negi-lab.com/posts/local-llm-pc-selection-rtx-4090-vs-mac/",
