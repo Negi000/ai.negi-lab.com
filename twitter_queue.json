@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-07-23-ollama-open-webui-local-llm-guide.jpg",
     "created_at": "2026-07-23T15:08:36.850824+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-23-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLX入門：Apple SiliconでローカルLLMを爆速化してPythonから呼び出す方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "M1/M2/M3のMacを買ったならMLXを使わないのは損。Pythonで数行書くだけでLlama 3やGemma 2が爆速で動きます。RTX 4090を2枚刺ししてる私でも、統一メモリを活かしたMLXの推論効率には驚かされた。実務で使うなら16GBメモリは必須、32GBあれば最高。API課金から解放されるローカルLLM生活を始めましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-23-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-07-23T17:35:04.766356+09:00",
+    "posted": false
   }
 ]
