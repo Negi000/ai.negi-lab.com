@@ -15289,5 +15289,19 @@
     "image_path": "/images/posts/2026-07-23-kimi-k3-vs-anthropic-fable-reasoning-analysis.jpg",
     "created_at": "2026-07-23T23:12:24.357811+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-24-cybergym-llm-hardware-guide-rtx-mac",
+    "title": "CyberGymベンチマークで判明した実務派AI環境の選び方｜ローカルLLMとRTX・Mac比較ガイド",
+    "url": "https://ai.negi-lab.com/posts/cybergym-llm-hardware-guide-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "AIが自律的にハッキングを試行するCyberGym等のベンチマークが示す通り、2025年のAI環境は「推論の深さ」が勝負。結論、VRAM 24GBのRTX 4090か、メモリ64GB以上のMacが実務の最低ラインです。8GB機で妥協すると、エージェントが思考停止して仕事になりません。投資すべきハードの境界線をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-24-cybergym-llm-hardware-guide-rtx-mac.jpg",
+    "created_at": "2026-07-24T03:13:07.575758+09:00",
+    "posted": false
   }
 ]
