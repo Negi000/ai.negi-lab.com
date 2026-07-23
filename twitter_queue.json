@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-07-24-cybergym-llm-hardware-guide-rtx-mac.jpg",
     "created_at": "2026-07-24T03:13:07.575758+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-24-local-llm-ai-agent-hardware-guide-rtx-mac",
+    "title": "ローカルLLMとAIエージェント実行環境の選び方｜RTX 4090かMac Studioか？買う前に知るべき失敗しない構成",
+    "url": "https://ai.negi-lab.com/posts/local-llm-ai-agent-hardware-guide-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #AIエージェント",
+    "tweet_text": "Hugging FaceのCEOがSFへ「Rogue Agent」に会いに行く。これ、単なるニュースじゃなくて「エージェントをローカルで動かす」時代の本格的な幕開け。\n\n実務で自律型AIを回すなら、もはやVRAM 8GBは人権なし。並列処理とRAGを考えれば、RTX 4060 Ti 16GBが最低ライン、本気なら4090一択。\n\nMac派ならメモリ64GB以上のStudioが安全圏。買う前に知るべき構成を実務目線でまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-24-local-llm-ai-agent-hardware-guide-rtx-mac.jpg",
+    "created_at": "2026-07-24T07:12:01.118213+09:00",
+    "posted": false
   }
 ]
