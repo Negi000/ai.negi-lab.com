@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-07-23-local-llm-pc-selection-rtx-mac-comparison.jpg",
     "created_at": "2026-07-23T07:13:34.936327+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-23-agentmanager-claude-code-workflow-optimization",
+    "title": "AgentManagerでClaude Codeの待機時間をゼロにする方法",
+    "url": "https://ai.negi-lab.com/posts/agentmanager-claude-code-workflow-optimization/",
+    "category": "TOOL",
+    "viral_tags": "#ClaudeCode #AIエージェント",
+    "tweet_text": "Claude Codeの「承認待ち」で開発が止まる問題、AgentManagerで解決しました。CLIの入出力をWebに飛ばしてスマホからでも承認可能に。1時間かかるリファクタリングを投げつつ、別の仕事ができる自由はデカい。API代を垂れ流さず、かつ人間を縛らないエージェント運用の最適解ですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-23-agentmanager-claude-code-workflow-optimization.jpg",
+    "created_at": "2026-07-23T12:32:19.193367+09:00",
+    "posted": false
   }
 ]

@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
-      "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 15 Jul 2026 21:39:21 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-16T12:20:15"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "We don't use AI in any of our design or production processes",
-      "url": "https://mass-driver.com/article/from-human-hands",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 15 Jul 2026 21:36:49 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-16T12:20:15"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Wed, 15 Jul 2026 21:16:36 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-16T12:20:15"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-16T12:20:17"
-    },
-    {
       "source": "HN AI Hot",
       "title": "LLM Networking with MikroTik",
       "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
@@ -820,21 +766,6 @@
         "revenue_score": -4
       },
       "collected_at": "2026-07-18T03:06:06"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Chinese President Xi Jinping speaks at World AI Conference and reaffirms commitment to open source to promote\"openness and win-win\"",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uytamy/chinese_president_xi_jinping_speaks_at_world_ai/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-07-17T08:00:58+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1uytamy/chinese_president_xi_jinping_speaks_at_world_ai/\"> <img alt=\"Chinese President Xi Jinping speaks at World AI Conference and reaffirms commitment to open source to promote&quot;openness and win-win&quot;\" src=\"https://preview.redd.it/7w3pnhw8yqdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a1c017d1d7c2add9f7fd22dbec6bc75890bf907a\" title=\"Chinese President Xi Jinping speaks at World AI Conference and reaffirms co",
-      "extra": {},
-      "collected_at": "2026-07-18T07:01:44"
     },
     {
       "source": "TechCrunch AI",
@@ -2486,7 +2417,85 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-23T07:13:02"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "US gov't lobbied by major US labs is about to ban open source models.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v2bf3t/us_govt_lobbied_by_major_us_labs_is_about_to_ban/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-21T07:30:06+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1v2bf3t/us_govt_lobbied_by_major_us_labs_is_about_to_ban/\"> <img alt=\"US gov't lobbied by major US labs is about to ban open source models.\" src=\"https://external-preview.redd.it/rcKvPZ2XhqWGUP605jww82z5ywzgEL4y11gSiJfKLe8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5593722155a4d474732815af853eee29fa884c5d\" title=\"US gov't lobbied by major US labs is about to ban open source models.\" /> </a> </td><td> &#32; submitted by",
+      "extra": {},
+      "collected_at": "2026-07-23T12:31:36"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 22 Jul 2026 23:47:54 +0000",
+      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-07-23T12:31:43"
+    },
+    {
+      "source": "Google News",
+      "title": "OpenAI reports 'unprecedented' autonomous hack by AI agents - 時事通信ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ORExMTW1Kem8xeHlPbDRvbkZ6OEFWUTNDaGYyQjdrYzhrNUZGOG9mbEJlV3U2NGVrVnoxemVqTWt2NkhFdjJ3emcxd0pXUlRUVVE?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Wed, 22 Jul 2026 10:17:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ORExMTW1Kem8xeHlPbDRvbkZ6OEFWUTNDaGYyQjdrYzhrNUZGOG9mbEJlV3U2NGVrVnoxemVqTWt2NkhFdjJ3emcxd0pXUlRUVVE?oc=5\" target=\"_blank\">OpenAI reports 'unprecedented' autonomous hack by AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-07-23T12:31:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AgentManager",
+      "url": "https://www.producthunt.com/products/agentmanager",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Never miss a Claude Code session waiting for your input </p> <p> <a href=\"https://www.producthunt.com/products/agentmanager?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1202701?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-07-23T12:31:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AI Agents in Chat",
+      "url": "https://www.producthunt.com/products/cometchat",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your Chat UI Just Got an AI Roommate </p> <p> <a href=\"https://www.producthunt.com/products/cometchat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1202383?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-07-23T12:31:44"
     }
   ],
-  "updated_at": "2026-07-23T07:13:02.358732+09:00"
+  "updated_at": "2026-07-23T12:31:47.385752+09:00"
 }
