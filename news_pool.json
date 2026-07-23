@@ -1,94 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "Linus Torvalds on LLM usage in kernel development",
-      "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 16 Jul 2026 10:11:31 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-17T01:00:36"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
-      "url": "https://github.com/1ay1/agentty",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Wed, 15 Jul 2026 22:30:24 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-17T01:00:36"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Yes, you can now order DoorDash from the command line",
-      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Thu, 16 Jul 2026 15:38:55 +0000",
-      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-07-17T01:00:38"
-    },
-    {
-      "source": "Google News",
-      "title": "国産AI開発「ノエトラ」 エヌビディアから新システム導入へ - NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zZnBHS0tRNVJxUVR6TGV5ZzVNclYzdnpuR2hhRURDcUgtNk9qRzZiTGNYM0Y3VV9wTW9zME85blFlajczOHU3N05pajRNNWpRQkRRVTNfZU5ZaXRxSEc0?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Thu, 16 Jul 2026 06:57:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zZnBHS0tRNVJxUVR6TGV5ZzVNclYzdnpuR2hhRURDcUgtNk9qRzZiTGNYM0Y3VV9wTW9zME85blFlajczOHU3N05pajRNNWpRQkRRVTNfZU5ZaXRxSEc0?oc=5\" target=\"_blank\">国産AI開発「ノエトラ」 エヌビディアから新システム導入へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NHKニュース</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-17T01:00:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Weave",
-      "url": "https://www.producthunt.com/products/weave-9",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Think out loud and watch it become a living map. </p> <p> <a href=\"https://www.producthunt.com/products/weave-9?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1197696?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-17T01:00:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Breadcromb",
-      "url": "https://www.producthunt.com/products/breadcromb",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A browser that remembers everything and can act on anything </p> <p> <a href=\"https://www.producthunt.com/products/breadcromb?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1196672?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-17T01:00:39"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Google’s AI Mode now lets you link and interact with select apps",
       "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
@@ -2451,21 +2363,6 @@
       "collected_at": "2026-07-23T23:11:35"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 23 Jul 2026 11:00:00 +0000",
-      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-23T23:11:35"
-    },
-    {
       "source": "Google News",
       "title": "AIが「封じ込め」を破った日 OpenAIモデルの侵入が突きつけた二つの難題 - 株式会社エクサウィザーズ",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wLUVrX3lUQVFMeEtaemo4ZmhkeHdEMmctVFJFZDdvT3ZXN2JOLXVpemIyWU00bFV4U19aMENIRGozMEhXWFVvdXhXZlFZeEZRNVkycmpYTzhfbkRsYkFiUVo2czdpQQ?oc=5",
@@ -2524,7 +2421,158 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-23T23:11:36"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Writing fingerprint analysis of responses reveals Kimi's similarity to Claude",
+      "url": "https://typebulb.com/u/lab/you-re-relatively-right/full",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 23 Jul 2026 15:05:44 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-24T01:10:52"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Code mode yields a 99.2% cost reduction in our systems",
+      "url": "https://www.agent-swarm.dev/blog/code-mode-token-savings",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 23 Jul 2026 10:17:36 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-24T01:10:52"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 22 Jul 2026 05:18:08 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-24T01:10:52"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia is sending GPUs to the moon",
+      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Thu, 23 Jul 2026 15:00:00 +0000",
+      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-07-24T01:11:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Swenest",
+      "url": "https://www.producthunt.com/products/swenest",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> A platform that teaches how to navigate real-world code. </p> <p> <a href=\"https://www.producthunt.com/products/swenest?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1203806?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-24T01:11:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Megaphone",
+      "url": "https://www.producthunt.com/products/megaphone-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Open-source Mac dictation App that's 100% on-device </p> <p> <a href=\"https://www.producthunt.com/products/megaphone-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1197890?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-24T01:11:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Chimlo",
+      "url": "https://www.producthunt.com/products/chimlo-agents-in-your-macbook-notch",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Track Codex and Claude Code and respond from your Notch </p> <p> <a href=\"https://www.producthunt.com/products/chimlo-agents-in-your-macbook-notch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1204290?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 9
+      },
+      "collected_at": "2026-07-24T01:11:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "CEO of Hugging face: Heading to San Francisco to have a little chat with that “rogue agent”",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4avga/ceo_of_hugging_face_heading_to_san_francisco_to/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-07-23T11:13:47+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1v4avga/ceo_of_hugging_face_heading_to_san_francisco_to/\"> <img alt=\"CEO of Hugging face: Heading to San Francisco to have a little chat with that “rogue agent”\" src=\"https://preview.redd.it/5i5d5z12qyeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=945e73b1f7c9c34bb2ea7a04fd1cf5f6a2691de9\" title=\"CEO of Hugging face: Heading to San Francisco to have a little chat with that “rogue agent”\" /> </a> </td><td> <!-- SC_OFF --",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-07-24T01:11:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Absurd claim: the distilled model outperforms the originals",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v49zi9/absurd_claim_the_distilled_model_outperforms_the/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-07-23T10:29:00+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1v49zi9/absurd_claim_the_distilled_model_outperforms_the/\"> <img alt=\"Absurd claim: the distilled model outperforms the originals\" src=\"https://preview.redd.it/fgrrhpiaiyeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3e4a790972246a57ad9e9e9913d8e56b55e5cd1\" title=\"Absurd claim: the distilled model outperforms the originals\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>As an AI community of LLM experts, are we r",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-07-24T01:11:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "DeepSeek Founder’s 4-hour investor meeting: DeepSeek is prioritizing AGI over user growth and commercialisation",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v49lxp/deepseek_founders_4hour_investor_meeting_deepseek/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-23T10:09:27+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A Chinese article compiled 52 remarks from Liang Wenfeng’s four-hour investor meeting. I’ve summarised the most important ones below.</p> <ol> <li>DeepSeek has one central objective: AGI. This is not the time to maximize returns through products. Products are one rung on the path to AGI, but we do not need to devote too much thought or energy to building consumer or enterprise products.</li> <li><strong>We have always been commercializing, but commercialization ",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-07-24T01:11:02"
     }
   ],
-  "updated_at": "2026-07-23T23:11:39.669489+09:00"
+  "updated_at": "2026-07-24T01:11:02.351803+09:00"
 }
