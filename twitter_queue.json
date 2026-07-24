@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-07-24-chatgpt-desktop-voice-mode-codex-integration-review.jpg",
     "created_at": "2026-07-24T22:54:31.392277+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-25-local-llm-hardware-guide-huggingface-ceo",
+    "title": "ローカルLLM環境の選び方：Hugging Face CEOが説くオープンソースの価値とおすすめGPU/Mac比較",
+    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-huggingface-ceo/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #エンジニア",
+    "tweet_text": "Hugging Face CEOが断言「オープンソースAIの禁止は防御側の武器を奪うだけ」。\n実務でこの「盾」を使いこなすなら、今すぐVRAM 16GB以上の環境を確保すべきです。\nRTX 4060 Ti 16GBなら10万円以下でOSAIの恩恵をフルに受けられます。\n逆にVRAM 8GB以下への投資は、もはや開発者としてサンクコスト。\n失敗しないGPU/Macの選び方を実機検証ベースでまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-25-local-llm-hardware-guide-huggingface-ceo.jpg",
+    "created_at": "2026-07-25T03:18:06.642862+09:00",
+    "posted": false
   }
 ]
