@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-24-claude-code-cursor-hybrid-workflow-guide.jpg",
     "created_at": "2026-07-24T17:31:52.525483+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-24-llm-distillation-guide-unsloth-llama3",
+    "title": "LLMの「知識蒸留」を実戦投入し、GPT-4級の推論性能を安価なLlama-3-8Bへ移植するスクリプトを構築します。",
+    "url": "https://ai.negi-lab.com/posts/llm-distillation-guide-unsloth-llama3/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Python",
+    "tweet_text": "GPT-4oの知能を、月額料金なしのLlama-3-8Bへ移植する「LLM蒸留」が実用的すぎる。\n特定業務なら0.3秒でGPT-4級の回答が返る環境が作れる。\nRTX 4060 Ti 16GBさえあれば、API代をドブに捨てずに独自の爆速AIを量産できる時代。\n「動かしてみた」を卒業して、仕事で使える本物のローカルLLMを構築する手順を全公開。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-24-llm-distillation-guide-unsloth-llama3.jpg",
+    "created_at": "2026-07-24T20:03:45.480580+09:00",
+    "posted": false
   }
 ]
