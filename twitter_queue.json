@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-23-agentmanager-claude-code-workflow-optimization",
-    "title": "AgentManagerでClaude Codeの待機時間をゼロにする方法",
-    "url": "https://ai.negi-lab.com/posts/agentmanager-claude-code-workflow-optimization/",
-    "category": "TOOL",
-    "viral_tags": "#ClaudeCode #AIエージェント",
-    "tweet_text": "Claude Codeの「承認待ち」で開発が止まる問題、AgentManagerで解決しました。CLIの入出力をWebに飛ばしてスマホからでも承認可能に。1時間かかるリファクタリングを投げつつ、別の仕事ができる自由はデカい。API代を垂れ流さず、かつ人間を縛らないエージェント運用の最適解ですね。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-23-agentmanager-claude-code-workflow-optimization.jpg",
-    "created_at": "2026-07-23T12:32:19.193367+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-23-ollama-open-webui-local-llm-guide",
-    "title": "OllamaとOpen WebUIで自分専用の機密保持ローカルLLM環境を作る方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "RTX 3060 12GBが1枚あれば、自分専用のChatGPT環境は30分で作れる。Ollama + Open WebUIの組み合わせは、RAG（ドキュメント読み込み）が標準で付いてるのが最高に実用的。社外秘PDFを読み込ませても情報漏洩ゼロ。月額$20払うより、中古GPUを買うほうが半年で元が取れるという結論に至った。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-23-ollama-open-webui-local-llm-guide.jpg",
-    "created_at": "2026-07-23T15:08:36.850824+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-23-mlx-apple-silicon-local-llm-tutorial",
     "title": "MLX入門：Apple SiliconでローカルLLMを爆速化してPythonから呼び出す方法",
     "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
