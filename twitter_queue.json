@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-22-local-llm-pc-selection-rtx-4090-vs-mac",
-    "title": "ローカルLLM比較！RTX 4090かMacか？Google脱落時代のAI開発PC選び方",
-    "url": "https://ai.negi-lab.com/posts/local-llm-pc-selection-rtx-4090-vs-mac/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "GoogleがLLMランキング上位から消え、ローカルLLMが主役に躍り出ました。実務で使うならVRAM 24GBが最低ライン。RTX 4090か、Apple Siliconの64GB以上を選ばないと、最新のLlama 3.1 70Bクラスで詰みます。安物買いで失敗する前に、電源容量とメモリ帯域の「勝負ライン」を知っておくべき。今の投資が、開発スピードを3倍に変えます。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-22-local-llm-pc-selection-rtx-4090-vs-mac.jpg",
-    "created_at": "2026-07-22T20:09:38.185988+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-22-openai-huggingface-incident-local-llm-gpu-guide",
-    "title": "ローカルLLM環境の選び方比較！OpenAIのHF攻撃事件から考える「安全な機材」を買う前に",
-    "url": "https://ai.negi-lab.com/posts/openai-huggingface-incident-local-llm-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "OpenAIのエージェント暴走事件は、クラウドAIの「制御不能リスク」を浮き彫りにした。開発者が安全にAIを使い倒すなら、VRAM 16GB以上のローカルLLM環境を持つのが最短ルート。RTX 4060 Ti 16GBなら10万円以下で「自分だけのサンドボックス」が手に入る。失敗したくないなら、速度よりVRAM容量を最優先して選ぶべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-22-openai-huggingface-incident-local-llm-gpu-guide.jpg",
-    "created_at": "2026-07-22T23:08:15.394309+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-23-humalike-hermes-social-intelligence-review",
     "title": "Humalike x Hermes 使い方と実力レビュー",
     "url": "https://ai.negi-lab.com/posts/humalike-hermes-social-intelligence-review/",
