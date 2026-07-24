@@ -1,36 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "ClipMatch",
-      "url": "https://www.producthunt.com/products/clipmatch",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn your camera roll into social content with AI </p> <p> <a href=\"https://www.producthunt.com/products/clipmatch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1197826?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-17T14:48:21"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "BrickSolvr",
-      "url": "https://www.producthunt.com/products/bricksolvr",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn any 3D model into a buildable brick design </p> <p> <a href=\"https://www.producthunt.com/products/bricksolvr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1197006?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-17T14:48:21"
-    },
-    {
       "source": "Google News",
       "title": "AI時代に自社のサイバー対策は正解なのか？ - dir.co.jp",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DWldiV1ROeXptdDl5bVRqTlNsSFEwamR6cDlqS00zdGFxNU1FNnhYREU5U19MdXNOMUh3SHBBQUFlVGxMLTI1WGRVaWFrYVJGdXJSRFFwTGlTME93Y1JPYjZWeFZNTmpYVXBhU084bkJHcVBQbXFz?oc=5",
@@ -2063,21 +2033,6 @@
       "collected_at": "2026-07-23T17:34:28"
     },
     {
-      "source": "GitHub Trending",
-      "title": "slavakurilyak/awesome-ai-agents",
-      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "Awesome list of 300+ agentic AI resources",
-      "extra": {
-        "stars_today": "67 stars today"
-      },
-      "collected_at": "2026-07-23T20:08:44"
-    },
-    {
       "source": "Google News",
       "title": "アルファベットＣＥＯ、ＡＩ競争でグーグルが劣勢との見方に反論 - ロイター",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MVkRselNZVVgycTc5Rllkc2paazVDcEZnRVRERE1WWTJwZkhBc1RLZGU0OEttbk1FUnhfbnlqTHdRTFcwOVIwQjdxbEktLXZCemRhOHNaZWVtclVZVXlQV2JUZWxtVGN0dmhRQ2ZWQ3RFall6bkE?oc=5",
@@ -2561,7 +2516,122 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-24T12:26:38"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "AI bet goes awry: Oracle fires 21,000 employees",
+      "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 23 Jul 2026 18:07:33 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-24T14:55:53"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "The arguments against open source AI are bad",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 23 Jul 2026 16:49:57 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-24T14:55:53"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "url": "https://github.com/onecli/onecli",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Thu, 23 Jul 2026 15:42:40 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-24T14:55:53"
+    },
+    {
+      "source": "r/LocalLLM",
+      "title": "Open Source Tax Engine outperforming fable 5 and gpt sol",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1v4wtfc/open_source_tax_engine_outperforming_fable_5_and/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-07-24T01:14:29+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We made an open source tax engine which scored <strong>96% on TaxCalcBench</strong> [highest ever recorded score till date] surpassing fable 5 and sol with just sonnet 5. The only 2 cases where it missed, it found inconsistencies in the test cases in the benchmark itself which the maintainers confirmed!</p> <p>Essentially we wanted to make a deterministic engine AI models can use for research and tax prep to remove a lot of guesswork and calculation mistakes tha",
+      "extra": {},
+      "collected_at": "2026-07-24T14:56:01"
+    },
+    {
+      "source": "r/LocalLLM",
+      "title": "Poolside Laguna S 2.1 is worse than Qwen 3.6 27B and Gemma4 31B",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1v4ylim/poolside_laguna_s_21_is_worse_than_qwen_36_27b/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-24T02:37:05+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLM/comments/1v4ylim/poolside_laguna_s_21_is_worse_than_qwen_36_27b/\"> <img alt=\"Poolside Laguna S 2.1 is worse than Qwen 3.6 27B and Gemma4 31B\" src=\"https://preview.redd.it/rf4586lka3fh1.png?width=140&amp;height=90&amp;auto=webp&amp;s=9c5392adf077600d84700796daac714bbbbb629a\" title=\"Poolside Laguna S 2.1 is worse than Qwen 3.6 27B and Gemma4 31B\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I did head to head comparison between Lag",
+      "extra": {},
+      "collected_at": "2026-07-24T14:56:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "skypilot-org/skypilot",
+      "url": "https://github.com/skypilot-org/skypilot",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.",
+      "extra": {
+        "stars_today": "13 stars today"
+      },
+      "collected_at": "2026-07-24T14:56:02"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Vevey",
+      "url": "https://www.producthunt.com/products/vevey",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A game development tutor now on iOS </p> <p> <a href=\"https://www.producthunt.com/products/vevey?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1203919?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-24T14:56:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Pulse",
+      "url": "https://www.producthunt.com/products/pulse-47",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your company's permission-aware, proactive and agentic brain </p> <p> <a href=\"https://www.producthunt.com/products/pulse-47?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1179984?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-24T14:56:03"
     }
   ],
-  "updated_at": "2026-07-24T12:26:41.978803+09:00"
+  "updated_at": "2026-07-24T14:56:07.213559+09:00"
 }
