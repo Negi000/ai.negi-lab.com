@@ -1,49 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Claude Code: Anatomy of a Misfeature",
-      "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 17 Jul 2026 14:26:58 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-18T01:00:21"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Fri, 17 Jul 2026 15:21:17 +0000",
-      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-18T01:00:22"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Kimi K3",
-      "url": "https://www.producthunt.com/products/kimi-ai-assistant",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The world's first open 3T-class model </p> <p> <a href=\"https://www.producthunt.com/products/kimi-ai-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1198643?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-18T01:00:23"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
       "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
@@ -2606,22 +2563,6 @@
       "collected_at": "2026-07-24T22:53:37"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Fri, 24 Jul 2026 13:36:42 +0000",
-      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-24T22:53:45"
-    },
-    {
       "source": "Product Hunt",
       "title": "Hotspot Meter",
       "url": "https://www.producthunt.com/products/hotspot-meter-track-wi-fi-and-hotspots",
@@ -2635,7 +2576,69 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-24T22:53:46"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Fri, 24 Jul 2026 15:51:49 +0000",
+      "summary": "AI companies including Nvidia and Mistral urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+      "extra": {
+        "revenue_score": 1
+      },
+      "collected_at": "2026-07-25T01:04:28"
+    },
+    {
+      "source": "Google News",
+      "title": "米国図書館協会（ALA）、図書館における人工知能（AI）の利用に関する指針を公開 - カレントアウェアネス・ポータル",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxb2tkdkQ4SkZMR3lxQndOM2t3RW5jV3ViVmpXUGF2NzZHb1ZZRjk0T2pWdVBVQkJjWG1QRVRsRmhmbFFORnhtT3RpWTg?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 22 Jul 2026 08:06:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxb2tkdkQ4SkZMR3lxQndOM2t3RW5jV3ViVmpXUGF2NzZHb1ZZRjk0T2pWdVBVQkJjWG1QRVRsRmhmbFFORnhtT3RpWTg?oc=5\" target=\"_blank\">米国図書館協会（ALA）、図書館における人工知能（AI）の利用に関する指針を公開</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">カレントアウェアネス・ポータル</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-25T01:04:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Freesolo Flash",
+      "url": "https://www.producthunt.com/products/freesolo-flash",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Full-Stack Platform for Training Small Language Models </p> <p> <a href=\"https://www.producthunt.com/products/freesolo-flash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1204056?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-25T01:04:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Buzz",
+      "url": "https://www.producthunt.com/products/buzz-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your people, your agents, your project — all in one place </p> <p> <a href=\"https://www.producthunt.com/products/buzz-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1205055?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-25T01:04:29"
     }
   ],
-  "updated_at": "2026-07-24T22:53:50.022778+09:00"
+  "updated_at": "2026-07-25T01:04:32.774745+09:00"
 }
