@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-07-26-monday-com-ai-layoffs-engineer-strategy.jpg",
     "created_at": "2026-07-26T22:39:04.885192+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-27-local-llm-gpu-guide-google-openweight",
+    "title": "ローカルLLM比較と選び方：GoogleがOpenWeightを支持する時代のVRAM投資ガイド",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-guide-google-openweight/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "GoogleがOpenWeight支持を表明し、Gemma 2やLlama 3.1を「手元で動かす」価値が爆上がりしています。\n今の開発機選びはVRAM容量がすべて。24GBあれば仕事で戦えるが、8GBや12GBは正直もう厳しい。\n速度のRTX 4090か、容量のMac Studioか。AIエンジニアが今投資すべきハードウェアの判断基準をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-27-local-llm-gpu-guide-google-openweight.jpg",
+    "created_at": "2026-07-27T03:03:11.606364+09:00",
+    "posted": false
   }
 ]
