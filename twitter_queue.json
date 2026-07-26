@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-27-local-llm-gpu-guide-google-openweight.jpg",
     "created_at": "2026-07-27T03:03:11.606364+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-27-claude-5-context-engineering-hardware-guide",
+    "title": "Claude 5時代のコンテキスト構築術｜ローカルLLMとRTX/Mac選びの決定版",
+    "url": "https://ai.negi-lab.com/posts/claude-5-context-engineering-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #ClaudeCode",
+    "tweet_text": "Claude 5世代のコンテキスト設計は、もはや「プロンプト」ではなく「ハードウェア」の勝負。VRAM 16GB未満のGPUや、メモリ16GBのMacでは、最新のAIエージェントの思考速度についていけません。実務で使うならRTX 4060 Ti 16GBの2枚挿しか、メモリ64GB以上のMacが最低ライン。失敗しないためのVRAM・メモリ選びの基準を実機ベースでまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-27-claude-5-context-engineering-hardware-guide.jpg",
+    "created_at": "2026-07-27T07:07:46.749996+09:00",
+    "posted": false
   }
 ]
