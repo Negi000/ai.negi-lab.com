@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-26-llamacpp-gguf-beginner-guide-python.jpg",
     "created_at": "2026-07-26T15:13:00.732769+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-26-local-llm-python-ollama-guide",
+    "title": "ローカルLLMをPythonで制御して自分専用のプライベートAIを作る方法",
+    "url": "https://ai.negi-lab.com/posts/local-llm-python-ollama-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Python",
+    "tweet_text": "Andrej Karpathyが特定のAI企業への依存を薄める動きを見せた。今こそエンジニアはローカルLLMを自力で制御する術を持つべき。VRAM 16GBのGPUがあれば、PythonとOllamaで自分専用のプライベートAIは30分で作れる。検閲なし、API料金なし、データ流出なし。この自由を知るともうAPIには戻れない。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-26-local-llm-python-ollama-guide.jpg",
+    "created_at": "2026-07-26T17:30:27.885010+09:00",
+    "posted": false
   }
 ]
