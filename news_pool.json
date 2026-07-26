@@ -2474,22 +2474,6 @@
       "collected_at": "2026-07-25T19:26:14"
     },
     {
-      "source": "Product Hunt",
-      "title": "Heard",
-      "url": "https://www.producthunt.com/products/heard-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Give Claude Code and Codex a voice </p> <p> <a href=\"https://www.producthunt.com/products/heard-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1205639?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-25T19:26:14"
-    },
-    {
       "source": "GitHub Trending",
       "title": "MODSetter/SurfSense",
       "url": "https://github.com/MODSetter/SurfSense",
@@ -2652,7 +2636,46 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-26T12:38:18"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 25 Jul 2026 20:42:35 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-26T15:12:24"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 25 Jul 2026 19:44:39 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-26T15:12:24"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 25 Jul 2026 18:59:50 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-26T15:12:24"
     }
   ],
-  "updated_at": "2026-07-26T12:38:21.741749+09:00"
+  "updated_at": "2026-07-26T15:12:36.516268+09:00"
 }

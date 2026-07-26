@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-07-26-heard-ai-cli-voice-review.jpg",
     "created_at": "2026-07-26T12:38:48.213466+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-26-llamacpp-gguf-beginner-guide-python",
+    "title": "llama.cppでLlama 3を爆速動作させPythonから制御するローカルLLM環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-beginner-guide-python/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llamacpp",
+    "tweet_text": "ローカルLLMを最速で動かすならllama.cppのセルフビルド一択。RTX 4090環境ならLlama 3 8Bが1秒間に100トークン以上で返ってくる。Ollamaも便利だが、VRAM消費量やn_ctxを細かく制御してPythonから叩くなら、この低レイヤーの理解が不可欠。VRAM 8GBあれば今すぐ「自分だけの完全オフラインAI」は作れる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-26-llamacpp-gguf-beginner-guide-python.jpg",
+    "created_at": "2026-07-26T15:13:00.732769+09:00",
+    "posted": false
   }
 ]
