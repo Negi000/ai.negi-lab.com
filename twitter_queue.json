@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-24-llm-distillation-guide-unsloth-llama3",
-    "title": "LLMの「知識蒸留」を実戦投入し、GPT-4級の推論性能を安価なLlama-3-8Bへ移植するスクリプトを構築します。",
-    "url": "https://ai.negi-lab.com/posts/llm-distillation-guide-unsloth-llama3/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Python",
-    "tweet_text": "GPT-4oの知能を、月額料金なしのLlama-3-8Bへ移植する「LLM蒸留」が実用的すぎる。\n特定業務なら0.3秒でGPT-4級の回答が返る環境が作れる。\nRTX 4060 Ti 16GBさえあれば、API代をドブに捨てずに独自の爆速AIを量産できる時代。\n「動かしてみた」を卒業して、仕事で使える本物のローカルLLMを構築する手順を全公開。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-24-llm-distillation-guide-unsloth-llama3.jpg",
-    "created_at": "2026-07-24T20:03:45.480580+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-24-chatgpt-desktop-voice-mode-codex-integration-review",
-    "title": "ChatGPTデスクトップ版音声モード搭載で変わる開発フローとCodex連携の真価",
-    "url": "https://ai.negi-lab.com/posts/chatgpt-desktop-voice-mode-codex-integration-review/",
-    "category": "NEWS",
-    "viral_tags": "#ChatGPT #業務効率化",
-    "tweet_text": "ChatGPTデスクトップ版の音声モードが想像以上に「実務向け」に進化している。単なる雑談用ではなく、画面共有とCodex連携でハンズフリーのデバッグが可能。レイテンシ300ms前後は、もはやAIと話している感覚を忘れるレベル。ClaudeのComputer Useと比較しても、この「速度」がもたらす体験の差はデカい。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-24-chatgpt-desktop-voice-mode-codex-integration-review.jpg",
-    "created_at": "2026-07-24T22:54:31.392277+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-25-local-llm-hardware-guide-huggingface-ceo",
     "title": "ローカルLLM環境の選び方：Hugging Face CEOが説くオープンソースの価値とおすすめGPU/Mac比較",
     "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-huggingface-ceo/",
