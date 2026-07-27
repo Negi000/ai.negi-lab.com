@@ -2,53 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "Rex",
-      "url": "https://www.producthunt.com/products/rex-7",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI agents that run order-to-cash operations </p> <p> <a href=\"https://www.producthunt.com/products/rex-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1200946?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-07-20T20:44:05"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Lunen.ai",
-      "url": "https://www.producthunt.com/products/lunen-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Build AI agents your whole team can run, and control </p> <p> <a href=\"https://www.producthunt.com/products/lunen-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1199157?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-07-20T20:44:05"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "NeuroVidz",
-      "url": "https://www.producthunt.com/products/neurovidz",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> See how a brain reacts to your clip </p> <p> <a href=\"https://www.producthunt.com/products/neurovidz?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1197294?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-20T20:44:05"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Kogvio",
       "url": "https://www.producthunt.com/products/kogvio",
       "primary_category": "TOOL",
@@ -2468,21 +2421,6 @@
       "collected_at": "2026-07-26T19:44:25"
     },
     {
-      "source": "GitHub Trending",
-      "title": "home-assistant/core",
-      "url": "https://github.com/home-assistant/core",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "🏡 Open source home automation that puts local control and privacy first.",
-      "extra": {
-        "stars_today": "26 stars today"
-      },
-      "collected_at": "2026-07-26T22:38:40"
-    },
-    {
       "source": "Product Hunt",
       "title": "BrainFeed",
       "url": "https://www.producthunt.com/products/brainfeed-scroll-better",
@@ -2809,7 +2747,126 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-27T18:56:50"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Becoming a Research Engineer at a Big LLM Lab",
+      "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 25 Jul 2026 21:19:42 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-27T21:21:55"
+    },
+    {
+      "source": "r/LocalLLM",
+      "title": "Don't laugh - it works!",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1v7rsri/dont_laugh_it_works/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-07-27T05:59:53+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>A 10yo server was busy collecting dust, but it has 32Gb RAM (2x 16Gb DDR4 @ 2133 MHz )... No GPU. </p> <p>Now it does some amazing work running heavy tasks with qwen3.6-<strong>35b</strong>-a3b (IQ4_XS). Running in the background, generating quality output at 5-10tok/s. Even with 128k context! It just chugs along for hours, but does such great, high-context work. </p> <p>Uses ~26 GB of the 32 GB RAM, uses CPU i-7-6700 @ about 60% (not the bottleneck, of course) ",
+      "extra": {},
+      "collected_at": "2026-07-27T21:22:02"
+    },
+    {
+      "source": "r/LocalLLM",
+      "title": "What local model do you still use after the hype wore off?",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1v7r8wg/what_local_model_do_you_still_use_after_the_hype/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "2026-07-27T05:29:18+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Every time a new model is released, I tend to check it out. The benchmarks, readme, or whatever seem pretty convincing, so I download it, test it for a few hours, and then I just go back to the same couple of ones I already had. </p> <p>Curious what models people here have actually kept using for weeks, months, or even longer. And not just that - but why? Was it because of the speed, writing style, VRAM use, long context, a specific feature, or whatever - and al",
+      "extra": {},
+      "collected_at": "2026-07-27T21:22:02"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "extra": {
+        "stars_today": "349 stars today"
+      },
+      "collected_at": "2026-07-27T21:22:03"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "extra": {
+        "stars_today": "412 stars today"
+      },
+      "collected_at": "2026-07-27T21:22:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Comms",
+      "url": "https://www.producthunt.com/products/comms-ai-agents-inside-imessage",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Launch iMessage agents in seconds </p> <p> <a href=\"https://www.producthunt.com/products/comms-ai-agents-inside-imessage?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1207407?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-27T21:22:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cynative Security Research Agent",
+      "url": "https://www.producthunt.com/products/cynative-deep-infra-research",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ask your cloud anything without breaking prod. Read-only. </p> <p> <a href=\"https://www.producthunt.com/products/cynative-deep-infra-research?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1204484?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-27T21:22:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tackly",
+      "url": "https://www.producthunt.com/products/tackly",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Map your thoughts in real time with AI. </p> <p> <a href=\"https://www.producthunt.com/products/tackly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1207115?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-27T21:22:04"
     }
   ],
-  "updated_at": "2026-07-27T18:56:53.842351+09:00"
+  "updated_at": "2026-07-27T21:22:08.134468+09:00"
 }
