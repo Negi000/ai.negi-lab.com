@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-27-claude-5-context-engineering-hardware-guide.jpg",
     "created_at": "2026-07-27T07:07:46.749996+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-27-cpython-313-free-threading-jit-review",
+    "title": "CPython 使い方とPython 3.13で変わるマルチスレッドの常識",
+    "url": "https://ai.negi-lab.com/posts/cpython-313-free-threading-jit-review/",
+    "category": "TOOL",
+    "viral_tags": "#Python313 #エンジニア",
+    "tweet_text": "Python 3.13のCPythonがついにGIL（巨大なロック）の呪縛を突破。Free-threading有効環境で4スレッド回した結果、マルチコアCPUが文字通り100%火を吹く時代に。既存コードの互換性を保ちつつJITも試験導入。数値計算やAI処理のパイプラインを組むなら、今すぐビルドして検証すべき性能。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-27-cpython-313-free-threading-jit-review.jpg",
+    "created_at": "2026-07-27T12:47:53.110217+09:00",
+    "posted": false
   }
 ]
