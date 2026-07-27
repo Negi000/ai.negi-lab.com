@@ -1,36 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Kogvio",
-      "url": "https://www.producthunt.com/products/kogvio",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Understand anything online without leaving the page. </p> <p> <a href=\"https://www.producthunt.com/products/kogvio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1200923?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-20T23:15:55"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Deck",
-      "url": "https://www.producthunt.com/products/deck-9",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The most capable AI assistant with its own inbox </p> <p> <a href=\"https://www.producthunt.com/products/deck-9?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1199241?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-20T23:15:55"
-    },
-    {
       "source": "HN Local AI",
       "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
       "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
@@ -2866,7 +2836,129 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-27T21:22:04"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Elevated errors on Claude Opus 5",
+      "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 27 Jul 2026 11:32:32 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-27T23:45:48"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-07-27T23:45:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Webhound",
+      "url": "https://www.producthunt.com/products/webhound",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A research engine for your agent </p> <p> <a href=\"https://www.producthunt.com/products/webhound?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1204010?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-27T23:45:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Illume Labs",
+      "url": "https://www.producthunt.com/products/illume-labs",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> 24/7 personalized health companion you can text </p> <p> <a href=\"https://www.producthunt.com/products/illume-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1202816?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-27T23:45:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Repaint Socials",
+      "url": "https://www.producthunt.com/products/repaint-ai-website-builder",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build a website from Google Business, Instagram, or Facebook </p> <p> <a href=\"https://www.producthunt.com/products/repaint-ai-website-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1204009?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-27T23:45:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Jensen Huang: During the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion. That’s why we created the Open Secure AI Alliance.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7yand/jensen_huang_during_the_hugging_face_incident/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-07-27T11:59:03+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1v7yand/jensen_huang_during_the_hugging_face_incident/\"> <img alt=\"Jensen Huang: During the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion. That’s why we created the Open Secure AI Alliance.\" src=\"https://preview.redd.it/7l4bbylqhrfh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9f8fe7d166995e8e8e7a8a8e6344656f9c52cc2\" title=\"Jensen Huang: During ",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-07-27T23:46:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Chinese Chipmaker CXMT's market capitalization surpassed Intel",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7vdvg/chinese_chipmaker_cxmts_market_capitalization/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-27T09:26:46+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1v7vdvg/chinese_chipmaker_cxmts_market_capitalization/\"> <img alt=\"Chinese Chipmaker CXMT's market capitalization surpassed Intel\" src=\"https://external-preview.redd.it/YWC2BfZVMBgqw0FRhPHMG9anUrRTZiS1NZalhRl0yPQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2dd9ba6f89aeb29405f436619bf49c8fddffcf64\" title=\"Chinese Chipmaker CXMT's market capitalization surpassed Intel\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>&",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-07-27T23:46:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Kimi K3 weights drop today. We're deploying on A100s, H200s and B300s this week and the A100 math is already rough",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v81qw0/kimi_k3_weights_drop_today_were_deploying_on/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-07-27T14:18:45+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>tldr; we are going to host K3 on A100s (yes, thats correct, we'll try to see if it holds up), H200s &amp; B300s - expect results for A100s &amp; H200s this week while we setup the B300 cluster this weekend &amp; maybe results by next week.</p> <p>Weights are supposed to hit Hugging Face today (Moonshot committed to July 27). What we already know from their platform docs: 2.8t total Params, MoE with 896 experts and 16 active per token, 1M context, vision. The dow",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-07-27T23:46:01"
     }
   ],
-  "updated_at": "2026-07-27T21:22:08.134468+09:00"
+  "updated_at": "2026-07-27T23:46:01.869374+09:00"
 }
