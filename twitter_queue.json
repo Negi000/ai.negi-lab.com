@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-07-27-cpython-313-free-threading-jit-review.jpg",
     "created_at": "2026-07-27T12:47:53.110217+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-27-ollama-open-webui-local-llm-setup",
+    "title": "OllamaとOpen WebUIで最強のローカルLLM環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLM環境をOllama + Open WebUIで構築。RTX 3060 12GB以上のVRAMがあれば、Llama 3.1が驚くほど高速に動く。\nDockerを使えば環境を汚さず、ChatGPT風のUIでRAGまで完結。\nプライバシー重視のプロジェクトなら、APIを叩くより自前で組むのが正解。\n買う前にVRAM容量だけは死守してください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-27-ollama-open-webui-local-llm-setup.jpg",
+    "created_at": "2026-07-27T15:38:01.548031+09:00",
+    "posted": false
   }
 ]

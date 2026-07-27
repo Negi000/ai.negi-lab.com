@@ -1,19 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 20 Jul 2026 02:51:16 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-20T15:23:27"
-    },
-    {
       "source": "HN Local AI",
       "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
       "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
@@ -2581,21 +2568,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "python/cpython",
-      "url": "https://github.com/python/cpython",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "The Python programming language",
-      "extra": {
-        "stars_today": "27 stars today"
-      },
-      "collected_at": "2026-07-26T22:38:40"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
       "primary_category": "TOOL",
@@ -2821,7 +2793,23 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-27T12:47:26"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Athena by Shoplazza",
+      "url": "https://www.producthunt.com/products/athena-by-shoplazza",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> An orchestrator agent for your entire commerce stack </p> <p> <a href=\"https://www.producthunt.com/products/athena-by-shoplazza?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1198766?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-27T15:37:31"
     }
   ],
-  "updated_at": "2026-07-27T12:47:29.732078+09:00"
+  "updated_at": "2026-07-27T15:37:34.418587+09:00"
 }
