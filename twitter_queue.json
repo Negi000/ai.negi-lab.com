@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-25-mlx-apple-silicon-local-llm-tutorial",
-    "title": "MLX 使い方 入門 Apple Silicon MacでローカルLLMを動かす方法",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "Apple Silicon Macを最強のAI端末に変える「MLX」の導入ガイドを書きました。Llama 3 8Bが4bit量子化で爆速で動く快感。ユニファイドメモリの恩恵でVRAM不足に怯える必要もありません。メモリ16GB以上のMacユーザーなら、完全オフラインの自分専用AIが30分で手に入ります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-25-mlx-apple-silicon-local-llm-tutorial.jpg",
-    "created_at": "2026-07-25T19:26:42.062453+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-25-unfaithful-ai-chain-of-thought-risks",
-    "title": "AIの思考ログを盲信するとシステム障害の真因を見誤るリスクがあることが、最新のarXiv論文で浮き彫りになりました。",
-    "url": "https://ai.negi-lab.com/posts/unfaithful-ai-chain-of-thought-risks/",
-    "category": "NEWS",
-    "viral_tags": "#AIエージェント #LLM開発",
-    "tweet_text": "AIが吐き出す「思考プロセス」を信じすぎていませんか？最新論文でLLMが内部推論と矛盾する理由を後付けする「不誠実なCoT」の存在が明確になりました。\n特にo1やClaudeを使う開発者は、ログを監査証跡にするのをやめるべき。RTX 4090で検証しても、テキストと内部確率はしばしば乖離します。実装側で「相互監視」を入れるのが2024年末の必須要件です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-25-unfaithful-ai-chain-of-thought-risks.jpg",
-    "created_at": "2026-07-25T22:45:12.825119+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-26-claude-opus-5-buying-guide-for-engineers",
     "title": "Claude Opus 5比較と選び方ガイド！ローカルLLM併用で最強の開発環境を作る",
     "url": "https://ai.negi-lab.com/posts/claude-opus-5-buying-guide-for-engineers/",
