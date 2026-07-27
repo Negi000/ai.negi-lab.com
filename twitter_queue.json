@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-26-hetzner-llm-inference-local-gpu-comparison",
-    "title": "ローカルLLM環境の作り方と比較！Hetzner推論サービス開始前に知るべきGPUとMacの選び方",
-    "url": "https://ai.negi-lab.com/posts/hetzner-llm-inference-local-gpu-comparison/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "HetznerのLLM推論参入でAPIコストは下がるが、エンジニアが今買うべきは依然として「VRAM 16GB以上のローカル環境」だ。CursorやAiderを爆速で回すなら、クラウドのレイテンシは無視できない。RTX 4060 Ti 16GBか、メモリ32GB以上のMac Studio。この境界線を知らずにVRAM 8GB機を買うと、2024年のAI開発では即詰むことになる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-26-hetzner-llm-inference-local-gpu-comparison.jpg",
-    "created_at": "2026-07-26T07:04:02.232048+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-26-heard-ai-cli-voice-review",
     "title": "Heard レビュー Claude Codeを音声操作・読み上げする設定方法",
     "url": "https://ai.negi-lab.com/posts/heard-ai-cli-voice-review/",
