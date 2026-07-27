@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-07-27-openai-autonomous-agent-misbehavior-analysis.jpg",
     "created_at": "2026-07-27T23:46:31.763190+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-28-local-llm-gpu-buying-guide-rtx-mac",
+    "title": "ローカルLLM環境の選び方と比較：RTX 4090かMacか？失敗しないGPU・メモリ選び",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "Hugging FaceのCEOがOpenAIに透明性を求めた今、開発者が取るべき生存戦略は「ローカルLLM環境」の構築です。APIの機嫌を伺うのはもう終わり。VRAM 16GBが最低ライン、70BモデルならMacの統一メモリ128GBが現実解。RTX 4060 Tiか4090か、仕事で使えるスペックの選び方を実務目線でまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-28-local-llm-gpu-buying-guide-rtx-mac.jpg",
+    "created_at": "2026-07-28T03:24:59.690536+09:00",
+    "posted": false
   }
 ]
