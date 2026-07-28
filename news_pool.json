@@ -1,82 +1,6 @@
 {
   "items": [
     {
-      "source": "GitHub Trending",
-      "title": "langchain-ai/open_deep_research",
-      "url": "https://github.com/langchain-ai/open_deep_research",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "",
-      "extra": {
-        "stars_today": "14 stars today"
-      },
-      "collected_at": "2026-07-21T23:03:23"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "dottxt-ai/outlines",
-      "url": "https://github.com/dottxt-ai/outlines",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Structured Outputs",
-      "extra": {
-        "stars_today": "49 stars today"
-      },
-      "collected_at": "2026-07-21T23:03:23"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 21 Jul 2026 13:27:42 +0000",
-      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-21T23:03:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Manifest",
-      "url": "https://www.producthunt.com/products/manifest-363",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn any webpage into an action manifest for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/manifest-363?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1201336?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-07-21T23:03:24"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Tidy",
-      "url": "https://www.producthunt.com/products/tidy-5",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your Mac tidies itself: screenshots, installers, Downloads </p> <p> <a href=\"https://www.producthunt.com/products/tidy-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1198450?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-07-21T23:03:24"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
@@ -2997,7 +2921,141 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-28T20:16:23"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Don't ask an LLM for a confidence score",
+      "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 28 Jul 2026 00:06:53 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-28T23:19:57"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Is this misleading?",
+      "url": "https://www.reddit.com/r/ollama/comments/1v8fj9n/is_this_misleading/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-27T22:32:29+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1v8fj9n/is_this_misleading/\"> <img alt=\"Is this misleading?\" src=\"https://preview.redd.it/jr46ruqomufh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=34225c9ea4a834110bd104fda0406f6124eff51a\" title=\"Is this misleading?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/n7co7eujmufh1.png?width=2618&amp;format=png&amp;auto=webp&amp;s=c95a3d11f7520d562dc69931d3a270773f7734b3\">https://preview.red",
+      "extra": {},
+      "collected_at": "2026-07-28T23:20:03"
+    },
+    {
+      "source": "r/ollama",
+      "title": "I built Remedy — a local AI partner for your PC (early testing, Windows download on GitHub)",
+      "url": "https://www.reddit.com/r/ollama/comments/1v8zj92/i_built_remedy_a_local_ai_partner_for_your_pc/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-07-28T14:06:23+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone —</p> <p>I’ve been building something I actually wanted to use every day: <strong>Remedy</strong> — a personal AI partner that runs on <em>your</em> machine.</p> <p>Not another thin chat wrapper. Not a swarm of agents fighting for the mic. One continuous partner that can research, write, design, code, and actually finish work on your PC — with memory, skills, a real workspace (files, terminal, browser, scratch), and optional on-device vision.</p> <h",
+      "extra": {},
+      "collected_at": "2026-07-28T23:20:03"
+    },
+    {
+      "source": "r/ollama",
+      "title": "¿Qué modelos/suscripciones chinas me recomiendan para conectar a Hermes? (Minimax me está fallando)",
+      "url": "https://www.reddit.com/r/ollama/comments/1v8z99x/qué_modelossuscripciones_chinas_me_recomiendan/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-07-28T13:56:07+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/UnusualDish4403\"> /u/UnusualDish4403 </a> <br /> <span><a href=\"/r/hermesagent/comments/1v8z8xe/qué_modelossuscripciones_chinas_me_recomiendan/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1v8z99x/qué_modelossuscripciones_chinas_me_recomiendan/\">[comments]</a></span>",
+      "extra": {},
+      "collected_at": "2026-07-28T23:20:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 28 Jul 2026 13:19:17 +0000",
+      "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-28T23:20:04"
+    },
+    {
+      "source": "Google News",
+      "title": "YouTubeからLinkedInまで、SNS各社はAI生成コンテンツにどのように対処しているのか - Business Insider Japan",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR19RNkRCcVM4dXVLYVJBdVRIZXBNYjhUZlVJUHBkYlVhNUdBUWFkU2dUdjEya1pjb1FfVE1EdDFnc0hmMEVXZnNmcGdMNTRPMjlETXlieE00MC1iYnNFS1BzU1g5d3h4RlUtd2Z3U2c2U1VZNUh6MjF5dnRidFJOdGl2Z0JwMVBiMnUwdWNIZFlJQS1tbnh1bzFXOS0xd1hYMXdoOURDV1ZmQkd0Z2pTYTNSQQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Tue, 28 Jul 2026 10:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQR19RNkRCcVM4dXVLYVJBdVRIZXBNYjhUZlVJUHBkYlVhNUdBUWFkU2dUdjEya1pjb1FfVE1EdDFnc0hmMEVXZnNmcGdMNTRPMjlETXlieE00MC1iYnNFS1BzU1g5d3h4RlUtd2Z3U2c2U1VZNUh6MjF5dnRidFJOdGl2Z0JwMVBiMnUwdWNIZFlJQS1tbnh1bzFXOS0xd1hYMXdoOURDV1ZmQkd0Z2pTYTNSQQ?oc=5\" target=\"_blank\">YouTubeからLinkedInまで、SNS各社はAI生成コンテンツにどのように対処しているのか</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Japan</font>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-28T23:20:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "FlowTask 2.0",
+      "url": "https://www.producthunt.com/products/flowtask",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Company brain for AI Agents </p> <p> <a href=\"https://www.producthunt.com/products/flowtask?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1200340?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-07-28T23:20:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Growth Opt Playbook",
+      "url": "https://www.producthunt.com/products/growth-opt-playbook",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn campaign data into your next marketing move </p> <p> <a href=\"https://www.producthunt.com/products/growth-opt-playbook?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1207877?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-28T23:20:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Conduit",
+      "url": "https://www.producthunt.com/products/conduit-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI agents purpose-built for Hospitality </p> <p> <a href=\"https://www.producthunt.com/products/conduit-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1205866?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-07-28T23:20:05"
     }
   ],
-  "updated_at": "2026-07-28T20:16:26.896412+09:00"
+  "updated_at": "2026-07-28T23:20:08.621433+09:00"
 }
