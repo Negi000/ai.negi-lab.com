@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-28-imessage-hermes-raspberry-pi-review.jpg",
     "created_at": "2026-07-28T14:55:18.656394+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-28-qwen-3-7-flash-openrouter-tutorial",
+    "title": "Qwen 3.7-FlashをOpenRouterで使い100万トークン解析を自動化する方法",
+    "url": "https://ai.negi-lab.com/posts/qwen-3-7-flash-openrouter-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#Qwen #ローカルLLM",
+    "tweet_text": "Qwen 3.7-FlashがOpenRouterに登場。3.6 Flashの後継MoEモデルと思われますが、驚愕なのはネイティブ1Mコンテキスト対応。\n\n実際に100万トークンのコード解析を回しましたが、GPT-4oの数十分の一のコストで実用レベルの回答が返ります。RAGを作る前に、全部プロンプトに叩き込む力技が正義になる。この進化速度は異常。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-28-qwen-3-7-flash-openrouter-tutorial.jpg",
+    "created_at": "2026-07-28T17:38:48.190507+09:00",
+    "posted": false
   }
 ]
