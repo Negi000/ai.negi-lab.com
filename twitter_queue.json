@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-28-kimi-k3-local-llm-hardware-guide.jpg",
     "created_at": "2026-07-28T07:14:31.590422+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-28-webhound-ai-agent-research-engine-review",
+    "title": "Webhound AIエージェントに自律的な調査能力を実装する専用リサーチエンジン",
+    "url": "https://ai.negi-lab.com/posts/webhound-ai-agent-research-engine-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #RAG",
+    "tweet_text": "AIエージェントに「ググらせる」ならWebhoundがかなり実用的。従来のSERP APIと違い、JSレンダリング済みのMarkdownをそのまま返してくれるから、スクレイピング不要で即プロンプトに流せる。100サイトの解析もAPI一発。RAGの精度を上げたいなら、BeautifulSoupを捨てるのが最短ルートだと痛感。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-28-webhound-ai-agent-research-engine-review.jpg",
+    "created_at": "2026-07-28T12:18:31.608315+09:00",
+    "posted": false
   }
 ]
