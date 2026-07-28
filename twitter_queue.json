@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-28-qwen-3-7-flash-openrouter-tutorial.jpg",
     "created_at": "2026-07-28T17:38:48.190507+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-28-apple-silicon-mlx-local-llm-tutorial",
+    "title": "MLXの使い方：Apple SiliconでローカルLLMを爆速で動かす実践ガイド",
+    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple Siliconの真価はMLXにある。Llama 3.1 8Bが16GBメモリのMacで秒間40トークンを超えて爆速で動く快感。\nPythonエンジニアならOllamaよりMLXを叩くべき。GPUネイティブな最適化で、推論もファインチューニングもローカル完結。\n「仕事で使えるか」を基準に、コピペで動く最短ガイドを書きました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-28-apple-silicon-mlx-local-llm-tutorial.jpg",
+    "created_at": "2026-07-28T20:16:55.858830+09:00",
+    "posted": false
   }
 ]
