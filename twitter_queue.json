@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-07-29-elixir-jido-ollama-hardware-guide.jpg",
     "created_at": "2026-07-29T03:14:42.470564+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-29-local-llm-hardware-guide-llama-3-1-rtx-mac",
+    "title": "ローカルLLM用GPU・Mac比較！Llama 3.1時代に買うべきVRAM別おすすめ機材",
+    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-llama-3-1-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "オープンソースAIがクローズドを圧倒し始めた今、ローカル環境への投資は「趣味」から「必須スキル」に変わった。\n仕事でLlama 3.1を回すならVRAM 16GBが最低ライン。8GBで妥協すると初日で後悔する。\n推論特化ならMac Studioのメモリ128GB、開発全般ならRTX 4090が今の結論。\nVRAM容量こそが、AI時代の生産性を決める唯一の数字。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-29-local-llm-hardware-guide-llama-3-1-rtx-mac.jpg",
+    "created_at": "2026-07-29T07:14:00.166653+09:00",
+    "posted": false
   }
 ]

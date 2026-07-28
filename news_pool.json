@@ -3103,21 +3103,6 @@
     },
     {
       "source": "r/ollama",
-      "title": "my personal assistant experiment in elixir using jido agents elixir/otp ollama",
-      "url": "https://www.reddit.com/r/ollama/comments/1v9419a/my_personal_assistant_experiment_in_elixir_using/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-07-28T16:49:29+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>relying on the goodness of elixir, jido agents, ollama and other ecosystem components .. not intended to be released and supported. it was built for my learning and personal use purposes. But it does not hurt to share .. <a href=\"https://github.com/lexlapax/allbert-assist\">https://github.com/lexlapax/allbert-assist</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lapax\"> /u/lapax </a> <br /> <span><a href=\"https://www.re",
-      "extra": {},
-      "collected_at": "2026-07-29T03:14:02"
-    },
-    {
-      "source": "r/ollama",
       "title": "Kimi K3 the workhorse",
       "url": "https://www.reddit.com/r/ollama/comments/1v8vlr7/kimi_k3_the_workhorse/",
       "primary_category": "MONEY",
@@ -3144,7 +3129,66 @@
         "revenue_score": 0
       },
       "collected_at": "2026-07-29T03:14:04"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 28 Jul 2026 17:22:16 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-07-29T07:13:15"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "It appears that the anti opensource AI lobby is far outgunned already",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v5g4tl/it_appears_that_the_anti_opensource_ai_lobby_is/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-07-24T16:22:39+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1v5g4tl/it_appears_that_the_anti_opensource_ai_lobby_is/\"> <img alt=\"It appears that the anti opensource AI lobby is far outgunned already\" src=\"https://preview.redd.it/z3fx6ygqd7fh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=96c15a22e83a96293e8a6e090864b31aadccaa2a\" title=\"It appears that the anti opensource AI lobby is far outgunned already\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The earlier post on this ",
+      "extra": {},
+      "collected_at": "2026-07-29T07:13:16"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 28 Jul 2026 21:29:34 +0000",
+      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-07-29T07:13:23"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Liminal",
+      "url": "https://www.producthunt.com/products/liminal-4",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A workspace & 2nd brain for you, your agent, and your team </p> <p> <a href=\"https://www.producthunt.com/products/liminal-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1207862?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-29T07:13:24"
     }
   ],
-  "updated_at": "2026-07-29T03:14:08.031359+09:00"
+  "updated_at": "2026-07-29T07:13:27.815427+09:00"
 }
