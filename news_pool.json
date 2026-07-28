@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "That post never existed. Stop listening to that thing",
-      "url": "https://rachelbythebay.com/w/2026/05/05/404/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 20 Jul 2026 17:57:37 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-21T12:26:44"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Hyprland 0.55 announced the switch to Lua for its config files",
-      "url": "https://hypr.land/news/update55/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 20 Jul 2026 17:31:57 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-21T12:26:44"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 21 Jul 2026 00:12:24 +0000",
-      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-21T12:26:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Autoplot",
-      "url": "https://www.producthunt.com/products/autoplot",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Unify data analysis and plotting in one powerful workspace </p> <p> <a href=\"https://www.producthunt.com/products/autoplot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1200936?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-21T12:26:47"
-    },
-    {
       "source": "Product Hunt",
       "title": "LnkFlow",
       "url": "https://www.producthunt.com/products/lnkflow",
@@ -2673,22 +2617,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Webhound",
-      "url": "https://www.producthunt.com/products/webhound",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A research engine for your agent </p> <p> <a href=\"https://www.producthunt.com/products/webhound?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1204010?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-27T23:45:57"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Illume Labs",
       "url": "https://www.producthunt.com/products/illume-labs",
       "primary_category": "TOOL",
@@ -3003,7 +2931,71 @@
         "revenue_score": 5
       },
       "collected_at": "2026-07-28T12:18:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Tue, 28 Jul 2026 04:30:00 +0000",
+      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+      "extra": {
+        "revenue_score": 1
+      },
+      "collected_at": "2026-07-28T14:54:43"
+    },
+    {
+      "source": "Google News",
+      "title": "AMDが自社製GPUで学習した独自開発AIモデル「Instella-MoE」を公開、Gemma-4-E4Bより高性能な小型モデル - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtck5NbzZteWlVakVqNE1YeFFtR09GcVcxaGJzbWFUWV9DSXVrckd5TmZOWjBCNkZsd043LXdmLTk2LWJndjNqa0NCSV9ia3Y4MWsxZ0NCeWFjNlJKUzJNWkt3?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Tue, 28 Jul 2026 03:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtck5NbzZteWlVakVqNE1YeFFtR09GcVcxaGJzbWFUWV9DSXVrckd5TmZOWjBCNkZsd043LXdmLTk2LWJndjNqa0NCSV9ia3Y4MWsxZ0NCeWFjNlJKUzJNWkt3?oc=5\" target=\"_blank\">AMDが自社製GPUで学習した独自開発AIモデル「Instella-MoE」を公開、Gemma-4-E4Bより高性能な小型モデル</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-07-28T14:54:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "iMessage Hermes on a Raspberry Pi",
+      "url": "https://www.producthunt.com/products/imessage-hermes-on-a-raspberry-pi",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> An always-on AI agent that lives in your home </p> <p> <a href=\"https://www.producthunt.com/products/imessage-hermes-on-a-raspberry-pi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1196605?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-07-28T14:54:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Notate",
+      "url": "https://www.producthunt.com/products/notate-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Annotate anything for humans and their agents </p> <p> <a href=\"https://www.producthunt.com/products/notate-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1207351?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-28T14:54:44"
     }
   ],
-  "updated_at": "2026-07-28T12:18:02.283070+09:00"
+  "updated_at": "2026-07-28T14:54:47.536132+09:00"
 }
