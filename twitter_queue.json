@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-27-ollama-open-webui-local-llm-setup",
-    "title": "OllamaとOpen WebUIで最強のローカルLLM環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "ローカルLLM環境をOllama + Open WebUIで構築。RTX 3060 12GB以上のVRAMがあれば、Llama 3.1が驚くほど高速に動く。\nDockerを使えば環境を汚さず、ChatGPT風のUIでRAGまで完結。\nプライバシー重視のプロジェクトなら、APIを叩くより自前で組むのが正解。\n買う前にVRAM容量だけは死守してください。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-27-ollama-open-webui-local-llm-setup.jpg",
-    "created_at": "2026-07-27T15:38:01.548031+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-27-home-assistant-core-review-local-smart-home",
-    "title": "Home Assistant Core 使い方と自宅サーバーへの導入レビュー",
-    "url": "https://ai.negi-lab.com/posts/home-assistant-core-review-local-smart-home/",
-    "category": "TOOL",
-    "viral_tags": "#HomeAssistant #自宅サーバー",
-    "tweet_text": "スマートホームをクラウドから奪還するならHome Assistant Core一択。2000以上のデバイスをPythonで一元管理できる。\nエンジニアなら余ったPCやRaspberry Pi 5にSSDを挿して、完全にローカル完結の Jarvis 環境を作るのが正解。\nSDカード運用はログ書き込みで即死するから、最初からNVMeか産業用SDを選んで。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-27-home-assistant-core-review-local-smart-home.jpg",
-    "created_at": "2026-07-27T18:57:25.630132+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-27-claude-code-cursor-hybrid-workflow-guide",
     "title": "Claude CodeとCursorを併用する最強のAI開発環境の作り方",
     "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-workflow-guide/",
