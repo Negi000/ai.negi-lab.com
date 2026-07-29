@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-29-llamacpp-gguf-local-llm-python-guide.jpg",
     "created_at": "2026-07-29T17:45:10.755106+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-29-claude-code-mission-multi-agent-review",
+    "title": "Claude Codeを自律型チームに変える /mission for Claude Code 導入レビュー",
+    "url": "https://ai.negi-lab.com/posts/claude-code-mission-multi-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#ClaudeCode #AIエージェント",
+    "tweet_text": "Claude Codeを1人のエージェントから「開発チーム」に変える /mission が強烈。大規模なリファクタリングを指示すると、内部で複数の子エージェントを動的生成して並列でコードを書き換える。1ファイルずつ修正を待つ時間はもう終わり。ただしAPI代は数倍速で溶けるのでTierの高い開発者向け。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-29-claude-code-mission-multi-agent-review.jpg",
+    "created_at": "2026-07-29T20:26:05.650990+09:00",
+    "posted": false
   }
 ]
