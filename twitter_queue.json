@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-29-mlx-apple-silicon-local-llm-tutorial.jpg",
     "created_at": "2026-07-29T15:06:30.407449+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-29-llamacpp-gguf-local-llm-python-guide",
+    "title": "llama.cppとGGUFでローカルLLMを動かす入門ガイド",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-python-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llamacpp",
+    "tweet_text": "ローカルLLMを仕事で使うなら、llama.cppとGGUFの組み合わせは避けて通れません。RTX 3060 12GBでもLlama 3 8Bが爆速で動く快感は、一度味わうとAPI課金には戻れない。\n\nビルド時にCUDAフラグを忘れると地獄のCPU推論になるので注意。Pythonからn_gpu_layers=-1で叩くのが、実務における最短の最適化ルートです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-29-llamacpp-gguf-local-llm-python-guide.jpg",
+    "created_at": "2026-07-29T17:45:10.755106+09:00",
+    "posted": false
   }
 ]
