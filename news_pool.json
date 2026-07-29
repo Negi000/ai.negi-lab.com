@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 22 Jul 2026 13:20:35 +0000",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-22T23:05:50"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Arkor",
-      "url": "https://www.producthunt.com/products/arkor",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Fine-tune and Deploy Open-weight Models in TypeScript </p> <p> <a href=\"https://www.producthunt.com/products/arkor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1202865?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-22T23:05:51"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Lattics",
-      "url": "https://www.producthunt.com/products/lattics-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Brain-like knowledge base with AI writing & deep research </p> <p> <a href=\"https://www.producthunt.com/products/lattics-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1202623?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-22T23:05:51"
-    },
-    {
       "source": "Google News",
       "title": "Mitsubishi Electric, Sony to Form JV for AI Factory Automation - 時事通信ニュース",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sVS1PZFhjUlVqenBva3hfMngxWVFWUjBZd2VoMVY0NnZraGV0N2g2czdvT0xfRGxKM2NROUpZQks2N1hBZXBpdEZzU3dHd1c2Nnc?oc=5",
@@ -3128,22 +3083,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "/mission for Claude Code",
-      "url": "https://www.producthunt.com/products/spine-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Give Claude Code missions to spawn a team of agents </p> <p> <a href=\"https://www.producthunt.com/products/spine-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1208194?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-07-29T20:25:40"
-    },
-    {
-      "source": "Product Hunt",
       "title": "ClinicFrame",
       "url": "https://www.producthunt.com/products/clinic-scribe-clinicframe",
       "primary_category": "TOOL",
@@ -3172,7 +3111,82 @@
         "revenue_score": 3
       },
       "collected_at": "2026-07-29T20:25:40"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Check /api/show before trusting TEMPLATE on an imported GGUF",
+      "url": "https://www.reddit.com/r/ollama/comments/1v9xewn/check_apishow_before_trusting_template_on_an/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-07-29T14:13:49+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I ran 288 prompts to check whether one of our Qwen3 fine-tunes still used thinking mode. It appeared to use thinking on none of them even though our Modelfile was supposed to force the `&lt;think&gt;` block open. Just to double-check, I ran a separate 20-prompt probe with requests rendered outside Ollama, which resulted in the same weights deliberating on all 20.</p> <p>I checked three existing template-bearing Qwen3 GGUF imports on Ollama 0.31.2. Their returned",
+      "extra": {},
+      "collected_at": "2026-07-29T23:20:01"
+    },
+    {
+      "source": "r/ollama",
+      "title": "I built a CLI that reads your project's specs and tells you which model you actually need — judge runs locally on Ollama",
+      "url": "https://www.reddit.com/r/ollama/comments/1v9pb9j/i_built_a_cli_that_reads_your_projects_specs_and/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-07-29T07:44:30+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I kept defaulting to frontier models &quot;just in case&quot; and had no idea whether my projects actually needed them. So I built something to answer that instead of guessing.</p> <p>What it does: point it at a project with Spec-Driven Development artifacts (constitution / spec / tasks). A local model — your Ollama install, your choice of judge — reads the tasks and estimates how demanding the work is across a few dimensions. That gets crossed against a declara",
+      "extra": {},
+      "collected_at": "2026-07-29T23:20:01"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "Wed, 29 Jul 2026 11:00:00 +0000",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-07-29T23:20:02"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Denovo",
+      "url": "https://www.producthunt.com/products/denovo-business-manager",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn your vibe-coded app into paying customers </p> <p> <a href=\"https://www.producthunt.com/products/denovo-business-manager?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1138570?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-29T23:20:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "SoundGate Guitar",
+      "url": "https://www.producthunt.com/products/soundgate-guitar-app",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI Music Tutor that gives real-time feedback on your playing </p> <p> <a href=\"https://www.producthunt.com/products/soundgate-guitar-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1188822?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-29T23:20:03"
     }
   ],
-  "updated_at": "2026-07-29T20:25:44.209351+09:00"
+  "updated_at": "2026-07-29T23:20:06.548801+09:00"
 }
