@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-29-ycode-ai-agents-full-review-tailwind-web-builder",
-    "title": "Ycode AI Agents Webサイト構築と運用の自動化",
-    "url": "https://ai.negi-lab.com/posts/ycode-ai-agents-full-review-tailwind-web-builder/",
-    "category": "TOOL",
-    "viral_tags": "#Ycode #ノーコード",
-    "tweet_text": "Web制作を「生成」で終わらせない。Ycode AI Agentsを検証したが、Tailwind CSSベースで出力されるコードが驚くほど綺麗。修正指示をプロンプトで投げるとエディタが自動で動く体験は、実務の修正地獄を救う。メモリ32GB積んだMacで叩くとレスポンスも快適。デザイナー不在のエンジニアチームは導入を検討すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-29-ycode-ai-agents-full-review-tailwind-web-builder.jpg",
-    "created_at": "2026-07-29T12:20:53.890662+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-29-mlx-apple-silicon-local-llm-tutorial",
-    "title": "MLX 使い方 入門 Apple SiliconでローカルLLMを高速動作させる方法",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Siliconの力を100%引き出すなら、ローカルLLMはMLX一択です。PyTorch経由より圧倒的に速く、Llama-3-8BならM2 Maxで秒間100トークンに迫る速度が出ます。メモリ16GBあれば4-bit量子化モデルがサクサク動く。エンジニアなら環境構築して自分のMacをAIサーバー化しましょう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-29-mlx-apple-silicon-local-llm-tutorial.jpg",
-    "created_at": "2026-07-29T15:06:30.407449+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-29-llamacpp-gguf-local-llm-python-guide",
     "title": "llama.cppとGGUFでローカルLLMを動かす入門ガイド",
     "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-python-guide/",
