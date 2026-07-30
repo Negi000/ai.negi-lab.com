@@ -1,106 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Thu, 23 Jul 2026 01:16:14 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-23T17:34:18"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Are AI labs pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 22 Jul 2026 17:17:54 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-23T17:34:18"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "It's not a \"rogue AI\" when a badly made security harness executes scripts",
-      "url": "https://hachyderm.io/@thomasfuchs/116964576606603226",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 22 Jul 2026 17:07:46 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-23T17:34:18"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Thu, 23 Jul 2026 06:09:13 +0000",
-      "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-23T17:34:27"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Astartis x Codex",
-      "url": "https://www.producthunt.com/products/astartis-x-codex",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Enterprise developer security control plane around evidence </p> <p> <a href=\"https://www.producthunt.com/products/astartis-x-codex?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1203223?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-23T17:34:28"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Fikry",
-      "url": "https://www.producthunt.com/products/mis-trained-model-fikry",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A mis-trained AI powered by bad data and confidence </p> <p> <a href=\"https://www.producthunt.com/products/mis-trained-model-fikry?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1203912?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-23T17:34:28"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AskCodi",
-      "url": "https://www.producthunt.com/products/askcodi",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Orchestrate agents at scale while reducing cost </p> <p> <a href=\"https://www.producthunt.com/products/askcodi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1202391?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-23T17:34:28"
-    },
-    {
       "source": "Google News",
       "title": "アルファベットＣＥＯ、ＡＩ競争でグーグルが劣勢との見方に反論 - ロイター",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MVkRselNZVVgycTc5Rllkc2paazVDcEZnRVRERE1WWTJwZkhBc1RLZGU0OEttbk1FUnhfbnlqTHdRTFcwOVIwQjdxbEktLXZCemRhOHNaZWVtclVZVXlQV2JUZWxtVGN0dmhRQ2ZWQ3RFall6bkE?oc=5",
@@ -3179,7 +3079,70 @@
         "revenue_score": 6
       },
       "collected_at": "2026-07-30T17:30:34"
+    },
+    {
+      "source": "Google News",
+      "title": "Trump says he's looking at AI controls after OpenAI rogue agent - ロイター",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqWGdxX3hEbXV1elh1eFhucTZKTnZTc3p2M2NURk1ZYmRMX25vWDJYcHVtRC11Q1h4bGM3cnktX0FEaTZkYjlSZTQwYTdNb1h0eE9tQlpYV1BiaV9IR1lTa1pOdXhLdw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Wed, 29 Jul 2026 21:49:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqWGdxX3hEbXV1elh1eFhucTZKTnZTc3p2M2NURk1ZYmRMX25vWDJYcHVtRC11Q1h4bGM3cnktX0FEaTZkYjlSZTQwYTdNb1h0eE9tQlpYV1BiaV9IR1lTa1pOdXhLdw?oc=5\" target=\"_blank\">Trump says he's looking at AI controls after OpenAI rogue agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-30T20:07:20"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Memmy Agent",
+      "url": "https://www.producthunt.com/products/memmy",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Let every AI remember the same you. </p> <p> <a href=\"https://www.producthunt.com/products/memmy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1203499?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-30T20:07:20"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Premation",
+      "url": "https://www.producthunt.com/products/premation",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> An open-source AI alternative to After Effects </p> <p> <a href=\"https://www.producthunt.com/products/premation?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1210281?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-07-30T20:07:20"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Claude Code usage tracking by LangWatch",
+      "url": "https://www.producthunt.com/products/langwatch",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> See what your Claude Code sessions actually cost </p> <p> <a href=\"https://www.producthunt.com/products/langwatch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1208851?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-07-30T20:07:20"
     }
   ],
-  "updated_at": "2026-07-30T17:30:38.388106+09:00"
+  "updated_at": "2026-07-30T20:07:23.940775+09:00"
 }

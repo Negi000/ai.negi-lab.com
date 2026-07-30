@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-30-ai-agent-docker-sandbox-tutorial.jpg",
     "created_at": "2026-07-30T17:31:09.771788+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-30-memmy-agent-ai-memory-layer-review",
+    "title": "Memmy Agent 異なるAI間でユーザー情報を同期する共通メモリ層の活用と検証",
+    "url": "https://ai.negi-lab.com/posts/memmy-agent-ai-memory-layer-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #エンジニア",
+    "tweet_text": "AI間の「記憶の断絶」をAPI1本で解決するMemmy Agentを検証。ClaudeやChatGPTを行き来するたびに自己紹介する無駄が消える。\n\n自前でVectorDBを立てる手間を考えれば、この共通メモリ層の実装は爆速。RTX 4090環境のローカルLLMとも相性抜群。\n「どのAIを使っても同じ私」を再現できるのは、マルチエージェント開発の必須条件になる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-30-memmy-agent-ai-memory-layer-review.jpg",
+    "created_at": "2026-07-30T20:07:59.078415+09:00",
+    "posted": false
   }
 ]
