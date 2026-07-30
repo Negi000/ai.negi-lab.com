@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-28-apple-silicon-mlx-local-llm-tutorial",
-    "title": "MLXの使い方：Apple SiliconでローカルLLMを爆速で動かす実践ガイド",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Siliconの真価はMLXにある。Llama 3.1 8Bが16GBメモリのMacで秒間40トークンを超えて爆速で動く快感。\nPythonエンジニアならOllamaよりMLXを叩くべき。GPUネイティブな最適化で、推論もファインチューニングもローカル完結。\n「仕事で使えるか」を基準に、コピペで動く最短ガイドを書きました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-28-apple-silicon-mlx-local-llm-tutorial.jpg",
-    "created_at": "2026-07-28T20:16:55.858830+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-28-sns-ai-content-policy-c2pa-technical-analysis",
-    "title": "SNS各社のAI生成ラベル義務化が完了しコンテンツの「出自証明」が開発者の必須要件になる",
-    "url": "https://ai.negi-lab.com/posts/sns-ai-content-policy-c2pa-technical-analysis/",
-    "category": "NEWS",
-    "viral_tags": "#生成AI #C2PA",
-    "tweet_text": "SNS各社のAI生成ラベル義務化で「出し得」の時代が終了。YouTubeやMetaはC2PA規格やSynthIDを使い、バイナリレベルでAIを特定し始めています。今開発者がやるべきは検知回避のハックではなく、正しいメタデータの注入。3ヶ月後にはラベルなしAI動画は一発で収益化停止になるリスクも。生成フローの設計変更を急ぐべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-28-sns-ai-content-policy-c2pa-technical-analysis.jpg",
-    "created_at": "2026-07-28T23:20:35.299995+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-29-elixir-jido-ollama-hardware-guide",
     "title": "ローカルLLMエージェント構築の選び方！ElixirとOllamaで自律アシスタントを作るためのGPU・Mac比較ガイド",
     "url": "https://ai.negi-lab.com/posts/elixir-jido-ollama-hardware-guide/",
