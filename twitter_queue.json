@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-07-30-deepfakes-faceswap-full-review-tutorial.jpg",
     "created_at": "2026-07-30T14:51:37.196367+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-07-30-ai-agent-docker-sandbox-tutorial",
+    "title": "Dockerで構築するAIエージェント用コード実行サンドボックス入門",
+    "url": "https://ai.negi-lab.com/posts/ai-agent-docker-sandbox-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントにコード実行を任せるなら、Dockerでの隔離は必須。ネットワーク遮断、メモリ512MB制限、1CPU固定。この3つのガードレールだけで、LLMが生成した破壊的なコードからメイン環境を守れます。SaaSに頼らずローカルで完結させる「安全な砂場」の作り方を具体コード付きで解説。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-07-30-ai-agent-docker-sandbox-tutorial.jpg",
+    "created_at": "2026-07-30T17:31:09.771788+09:00",
+    "posted": false
   }
 ]
