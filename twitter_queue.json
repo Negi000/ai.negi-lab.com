@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-30-local-llm-distilled-model-gpu-guide",
-    "title": "ローカルLLMは蒸留モデルが最適解か？実務で差が出るGPUの選び方と比較ガイド",
-    "url": "https://ai.negi-lab.com/posts/local-llm-distilled-model-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "ローカルLLM界隈で話題の「蒸留モデルがオリジナル超え」は実務上の真実。DeepSeek-R1のDistill版ならVRAM 16GBでもフラグシップ級の推論が回る。\n今買うならRTX 4060 Ti 16GBがコスパ最強の基準点。24GBの壁を超えたいなら中古3090かMac Studioが現実解。VRAM 8GBで消耗するのはもう終わりにしよう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-30-local-llm-distilled-model-gpu-guide.jpg",
-    "created_at": "2026-07-30T03:07:41.733826+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-30-claude-errors-local-llm-gpu-mac-guide",
     "title": "ローカルLLMとClaude Codeを比較！障害に強い開発環境の選び方とおすすめRTX・Mac",
     "url": "https://ai.negi-lab.com/posts/claude-errors-local-llm-gpu-mac-guide/",
