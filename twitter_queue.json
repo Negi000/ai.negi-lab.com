@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-30-llamaindex-local-rag-python-guide",
-    "title": "LlamaIndexとPythonで作るローカルRAG検索システム実装ガイド",
-    "url": "https://ai.negi-lab.com/posts/llamaindex-local-rag-python-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #LlamaIndex",
-    "tweet_text": "ローカルRAGをLlamaIndexで構築。OpenAI APIを使わず、intfloat/multilingual-e5-baseで埋め込み、Ollamaで推論。VRAM 8GBあれば実用的な速度で社内文書検索が完結します。実務では「メモリ上に置くだけ」のチュートリアルは卒業して、StorageContextでの永続化が必須。コストゼロ、セキュリティ万全の環境はここから。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-30-llamaindex-local-rag-python-guide.jpg",
-    "created_at": "2026-07-30T11:54:08.087446+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-30-deepfakes-faceswap-full-review-tutorial",
-    "title": "deepfakes/faceswap 使い方と高品質な動画生成のための実務的レビュー",
-    "url": "https://ai.negi-lab.com/posts/deepfakes-faceswap-full-review-tutorial/",
-    "category": "TOOL",
-    "viral_tags": "#Deepfake #映像制作",
-    "tweet_text": "faceswapをRTX 4090環境で再検証。数秒で終わる簡易ツールと違い、特定人物を数万回学習させる工程があるため、合成後の「ライティングの馴染み」と「横顔の安定性」が圧倒的。VRAM 12GB以上が実務の最低ラインだが、妥協したくないクリエイターにはこれ一択。導入前にモデルのバッチサイズとVRAMの関係を理解するのが肝。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-30-deepfakes-faceswap-full-review-tutorial.jpg",
-    "created_at": "2026-07-30T14:51:37.196367+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-30-ai-agent-docker-sandbox-tutorial",
     "title": "Dockerで構築するAIエージェント用コード実行サンドボックス入門",
     "url": "https://ai.negi-lab.com/posts/ai-agent-docker-sandbox-tutorial/",
