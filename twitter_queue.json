@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-01-local-llm-hardware-guide-openai-regulation.jpg",
     "created_at": "2026-08-01T07:13:19.940309+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-01-mectrics-mac-vitals-monitoring-review",
+    "title": "mectrics レビュー Macメニューバーでリソース監視を効率化",
+    "url": "https://ai.negi-lab.com/posts/mectrics-mac-vitals-monitoring-review/",
+    "category": "TOOL",
+    "viral_tags": "#Macアプリ #個人開発",
+    "tweet_text": "MacのメニューバーでCPU/メモリ負荷を監視する「mectrics」がエンジニアに最適。Apple Silicon環境でローカルLLMやDockerを回すといつの間にかスワップで激重になるが、これなら0.1秒で異変に気づける。FOSSで超軽量、余計な機能が一切ない。iStat Menusの重さに疲れた人は入れるべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-01-mectrics-mac-vitals-monitoring-review.jpg",
+    "created_at": "2026-08-01T12:36:39.520783+09:00",
+    "posted": false
   }
 ]
