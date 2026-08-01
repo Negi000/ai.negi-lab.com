@@ -1,90 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 24 Jul 2026 18:34:16 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-25T17:09:30"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 24 Jul 2026 16:33:31 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-25T17:09:30"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Open Weights and American AI Leadership [pdf]",
-      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 24 Jul 2026 13:58:12 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-25T17:09:30"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "FluentDB",
-      "url": "https://www.producthunt.com/products/fluentdb-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The AI database client for Mac </p> <p> <a href=\"https://www.producthunt.com/products/fluentdb-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1203314?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-25T17:09:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Second Brain for Mac and Windows",
-      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your AI memory, everywhere you work </p> <p> <a href=\"https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1198621?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-25T17:09:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Capsomnia",
-      "url": "https://www.producthunt.com/products/capsomnia",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Caps Lock keeps your Mac awake, even with the lid closed </p> <p> <a href=\"https://www.producthunt.com/products/capsomnia?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1200286?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-25T17:09:39"
-    },
-    {
       "source": "Product Hunt",
       "title": "Velane",
       "url": "https://www.producthunt.com/products/velane",
@@ -3104,7 +3020,79 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-01T15:06:41"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Firefox Local Mode for Web Developers",
+      "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 01 Aug 2026 02:40:16 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-01T17:24:16"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 31 Jul 2026 19:55:41 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-01T17:24:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "SyncStaq",
+      "url": "https://www.producthunt.com/products/syncstaq",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Stripe billing data, always current in Google Sheets </p> <p> <a href=\"https://www.producthunt.com/products/syncstaq?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1210288?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-01T17:24:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "EssayKraft",
+      "url": "https://www.producthunt.com/products/essaykraft",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Native essay writing app for Mac and iPad </p> <p> <a href=\"https://www.producthunt.com/products/essaykraft?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1211804?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-01T17:24:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Port22",
+      "url": "https://www.producthunt.com/products/port22",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Claude Code, Codex & more on your phone </p> <p> <a href=\"https://www.producthunt.com/products/port22?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1210161?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-01T17:24:53"
     }
   ],
-  "updated_at": "2026-08-01T15:06:45.141207+09:00"
+  "updated_at": "2026-08-01T17:24:57.081324+09:00"
 }
