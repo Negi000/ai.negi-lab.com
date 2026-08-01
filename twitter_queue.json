@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-30-memmy-agent-ai-memory-layer-review",
-    "title": "Memmy Agent 異なるAI間でユーザー情報を同期する共通メモリ層の活用と検証",
-    "url": "https://ai.negi-lab.com/posts/memmy-agent-ai-memory-layer-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #エンジニア",
-    "tweet_text": "AI間の「記憶の断絶」をAPI1本で解決するMemmy Agentを検証。ClaudeやChatGPTを行き来するたびに自己紹介する無駄が消える。\n\n自前でVectorDBを立てる手間を考えれば、この共通メモリ層の実装は爆速。RTX 4090環境のローカルLLMとも相性抜群。\n「どのAIを使っても同じ私」を再現できるのは、マルチエージェント開発の必須条件になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-30-memmy-agent-ai-memory-layer-review.jpg",
-    "created_at": "2026-07-30T20:07:59.078415+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-30-techcrunch-disrupt-2026-replit-amazon-ai-agent",
-    "title": "ReplitとAmazonがDisrupt 2026で激突？AI開発環境の覇権争いが加速する理由",
-    "url": "https://ai.negi-lab.com/posts/techcrunch-disrupt-2026-replit-amazon-ai-agent/",
-    "category": "NEWS",
-    "viral_tags": "#Replit #ローカルLLM",
-    "tweet_text": "TechCrunch Disrupt 2026の顔ぶれが発表。ReplitとAmazonが並ぶのは、AI開発が「補完」から「自律デプロイ」へ完全移行した証拠。Replit Agentのような環境一体型が、開発速度でCursorやCopilotを引き離しにかかっています。コードを書く時代は終わり、エージェントを指揮する時代へ。VRAM 48GB積んでローカルで回す準備はできていますか？",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-30-techcrunch-disrupt-2026-replit-amazon-ai-agent.jpg",
-    "created_at": "2026-07-30T23:12:43.636773+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-31-local-llm-gpu-buying-guide-rtx-vs-mac",
     "title": "ローカルLLM環境の選び方比較｜RTX 4090かMacか？失敗しないVRAM投資術",
     "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-rtx-vs-mac/",
