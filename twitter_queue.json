@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-07-31-claude-code-cursor-setup-guide",
-    "title": "Claude CodeとCursorを併用する最強AIコーディング環境の使い方",
-    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ClaudeCode #Cursor",
-    "tweet_text": "Claude CodeとCursorの併用が、今のAI開発で最も速度が出る。Cursorで全体を設計し、Claude Codeにターミナルを叩かせてデバッグを全自動化する。\nAPI Tier 2の壁はあるが、月額$20＋API代で開発工数が1/3になるなら安い投資。\n特に「テストが通るまで勝手に修正して」という自律ループは、一度体験すると戻れない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-31-claude-code-cursor-setup-guide.jpg",
-    "created_at": "2026-07-31T15:20:51.594700+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-07-31-llamaindex-rag-local-embedding-guide",
-    "title": "PythonとLlamaIndexでRAGパイプラインを自作する方法",
-    "url": "https://ai.negi-lab.com/posts/llamaindex-rag-local-embedding-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#RAG #LlamaIndex",
-    "tweet_text": "RAGを仕事で使うなら「検索はローカル、回答はAPI」のハイブリッド構成が最適解。埋め込みモデルにmultilingual-e5-smallを使えば、CPU環境でも爆速かつ無料で日本語検索が実装できます。LlamaIndexなら永続化コード含めてもわずか数10行。API料金を削りつつ精度を出す実務構成をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-07-31-llamaindex-rag-local-embedding-guide.jpg",
-    "created_at": "2026-07-31T17:53:33.366903+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-07-31-awesome-systematic-trading-python-guide",
     "title": "awesome-systematic-trading システムトレード開発のリソース集と活用法",
     "url": "https://ai.negi-lab.com/posts/awesome-systematic-trading-python-guide/",
