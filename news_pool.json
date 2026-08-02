@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "東大でも早慶でもない…｢AI分野｣の世界の大学ランキングで唯一100位内に入った日本の大学の名前（プレジデントオンライン） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsMEpDS3BUVms0QVZxQzE3ZTB1U2p1WktZTHhielZuTzdHOGd1S0MweFJDR0RpZkhMUk04RXZpVU11WFhtTEVGY3FsQXBJUGJ4RTBQdk1UNlJOdllkLVY3ZWF3aklCWXhlT3VjX2t0YVg5VFVkdXhWLURvU3AtZW8?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 25 Jul 2026 22:15:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBsMEpDS3BUVms0QVZxQzE3ZTB1U2p1WktZTHhielZuTzdHOGd1S0MweFJDR0RpZkhMUk04RXZpVU11WFhtTEVGY3FsQXBJUGJ4RTBQdk1UNlJOdllkLVY3ZWF3aklCWXhlT3VjX2t0YVg5VFVkdXhWLURvU3AtZW8?oc=5\" target=\"_blank\">東大でも早慶でもない…｢AI分野｣の世界の大学ランキングで唯一100位内に入った日本の大学の名前（プレジデントオンライン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-26T12:38:18"
-    },
-    {
       "source": "HN AI Hot",
       "title": "LLM Usage in Debian: Three Proposals",
       "url": "https://www.debian.org/vote/2026/vote_002",
@@ -2927,21 +2912,6 @@
       "collected_at": "2026-08-01T19:39:42"
     },
     {
-      "source": "GitHub Trending",
-      "title": "abus-aikorea/voice-pro",
-      "url": "https://github.com/abus-aikorea/voice-pro",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.",
-      "extra": {
-        "stars_today": "53 stars today"
-      },
-      "collected_at": "2026-08-01T22:37:27"
-    },
-    {
       "source": "Product Hunt",
       "title": "NudgeForMe",
       "url": "https://www.producthunt.com/products/nudgeforme",
@@ -3150,7 +3120,34 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-02T12:35:39"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Local Ollama models",
+      "url": "https://www.reddit.com/r/ollama/comments/1vcqc0x/local_ollama_models/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-08-01T15:29:29+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello all - i just got a new mac mini with 24GB of RAM and wanting to run local AI for Home Assistant and Hermes. I have been struggling to find a snapy model that will work with my machine. Currently trying qwen3:14b and qwen3:b and both have been painfully slow and not usable. What local models are people using ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Careful_Cat1323\"> /u/Careful_Cat1323 </a> <br /> <span><a href",
+      "extra": {},
+      "collected_at": "2026-08-02T15:10:02"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Model recommendation",
+      "url": "https://www.reddit.com/r/ollama/comments/1vcvpxa/model_recommendation/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-08-01T19:04:45+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have a mini pc with sapphire 7800xt, CORSAIR Vengeance DDR5 RAM 32GB (2x16GB) Up to 6000MHz ,GIGABYTE B650I AORUS Ultra AMD AM5 ITX Motherboard, AMD Ryzen 7 7800X3D 8-Core, 16-Thread Desktop Processor, Samsung 2TB ssd. What is the best language modle to run my own trading bots </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Killz4Glory\"> /u/Killz4Glory </a> <br /> <span><a href=\"https://www.reddit.com/r/ollama/comments/1",
+      "extra": {},
+      "collected_at": "2026-08-02T15:10:02"
     }
   ],
-  "updated_at": "2026-08-02T12:35:42.439556+09:00"
+  "updated_at": "2026-08-02T15:10:08.291105+09:00"
 }
