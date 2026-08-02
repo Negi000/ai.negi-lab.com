@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-01-kimi-k3-technical-report-learning-path-gpu-guide",
-    "title": "Kimi K3級の推論モデルをローカルで動かすためのGPU選びと学習環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/kimi-k3-technical-report-learning-path-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "Kimi K3やDeepSeek-V3クラスの推論モデルを理解するなら、学習パス以上に「VRAM 48GB」の壁をどう超えるかが重要。\nRTX 4090の2枚挿しにするか、Mac Studio 128GBで統一メモリの暴力を使うか。\n中途半端なスペックで推論1トークン/秒の絶望を味わう前に、実務者が選ぶべき機材構成をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-01-kimi-k3-technical-report-learning-path-gpu-guide.jpg",
-    "created_at": "2026-08-01T03:24:10.960394+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-01-local-llm-hardware-guide-openai-regulation",
     "title": "ローカルLLM用PCの選び方｜OpenAIの規制報道で重要性が増すRTX・Mac比較ガイド",
     "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-openai-regulation/",
