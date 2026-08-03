@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLM",
-      "title": "You can now fine-tune my 3.96M-parameter TTS on your own voice or language",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1v8327h/you_can_now_finetune_my_396mparameter_tts_on_your/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-07-27T15:07:08+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>When I released Inflect v2 last week, I thought most people would ask whether a TTS model this small actually sounded decent.</p> <p>Instead, I kept getting two questions:</p> <p>“Can I train it on my own voice?”</p> <p>“Can I move it to another language?”</p> <p>At the time, my answer was basically: technically yes, but not with any public workflow I’d trust someone else to use.</p> <p>So I spent the weekend building one.</p> <p>Quick context if you missed the ",
-      "extra": {},
-      "collected_at": "2026-07-28T01:40:01"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google’s AI search is rapidly becoming the default, new data shows",
-      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Mon, 27 Jul 2026 15:57:12 +0000",
-      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-28T01:40:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Artifacts by Databox",
-      "url": "https://www.producthunt.com/products/databox",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Ask your AI Analyst and get back a ready-to-share report </p> <p> <a href=\"https://www.producthunt.com/products/databox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1198265?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-28T01:40:03"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
       "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
@@ -2869,21 +2824,6 @@
       "collected_at": "2026-08-03T21:22:01"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 03 Aug 2026 10:00:00 +0000",
-      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-03T21:22:01"
-    },
-    {
       "source": "Google News",
       "title": "Macでも動く“爆安Gemini級AI”。「DeepSeek-V4-Flash-0731」の性能と料金がぶっ壊れてる - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxbVJHS1B6RTFCbjNKWXVlMnZhUG5LWTl0NEg0VW9WM05oNF8yTExrN25jN3VKVVc0cVVsTXNxUlg5NGR5N2EzQ2FndVZBcktXaHBBM1hVQ2lnWG5NM1k1Y01SWjc?oc=5",
@@ -3005,7 +2945,53 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-03T23:48:29"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Congress’s favorite AI tool? ChatGPT",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 03 Aug 2026 16:40:55 +0000",
+      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-04T01:57:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "MacDupl",
+      "url": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Clone any Mac app into a fully isolated instance </p> <p> <a href=\"https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1213078?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-04T01:57:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Murmell",
+      "url": "https://www.producthunt.com/products/murmell",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Cloud canvas where your team and AI agents works together </p> <p> <a href=\"https://www.producthunt.com/products/murmell?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1213367?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-08-04T01:57:48"
     }
   ],
-  "updated_at": "2026-08-03T23:48:32.968349+09:00"
+  "updated_at": "2026-08-04T01:57:51.579130+09:00"
 }
