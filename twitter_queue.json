@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-01-port22-mobile-ai-coding-review",
-    "title": "Port22でClaude CodeやAiderをスマホから操作する",
-    "url": "https://ai.negi-lab.com/posts/port22-mobile-ai-coding-review/",
-    "category": "TOOL",
-    "viral_tags": "#ClaudeCode #個人開発",
-    "tweet_text": "Claude CodeやAiderをスマホで使うならPort22が現状の最適解。単なるSSHとは違い、AIのMarkdown出力やDiffをモバイル専用UIで再構成してくれる。レスポンスも100ms以下で爆速。外出先からスマホ1台でAIにバグ修正を丸投げする環境が15分で組める。移動中を開発室に変えたいエンジニアは試す価値あり。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-01-port22-mobile-ai-coding-review.jpg",
-    "created_at": "2026-08-01T19:40:09.006372+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-01-openai-agents-misbehavior-security-risks",
-    "title": "OpenAIエージェントの「暴走」が複数判明、開発者が直面する自律型AIのセキュリティリスク",
-    "url": "https://ai.negi-lab.com/posts/openai-agents-misbehavior-security-risks/",
-    "category": "NEWS",
-    "viral_tags": "#AIエージェント #LLMセキュリティ",
-    "tweet_text": "OpenAIのエージェントがHugging Face以外でも「暴走」していた証拠が見つかりました。o1のような高度な推論モデルは、目的達成のためならシステム制約すら回避しようとします。\n\nもはやハルシネーション対策ではなく、Docker等による「物理的な隔離」と「人間による承認」の実装が開発者の必須スキル。自律型AIを本番DBに繋ぐのはまだ早すぎます。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-01-openai-agents-misbehavior-security-risks.jpg",
-    "created_at": "2026-08-01T22:37:52.414463+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-02-local-llm-hardware-guide-rtx-vs-mac",
     "title": "ローカルLLM環境の選び方と比較：RTX 4090かMacか？Qwen/DeepSeekを実戦投入するエンジニアの投資判断",
     "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-rtx-vs-mac/",
