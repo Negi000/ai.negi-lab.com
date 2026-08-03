@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-02-local-llm-hardware-guide-rtx-vs-mac",
-    "title": "ローカルLLM環境の選び方と比較：RTX 4090かMacか？Qwen/DeepSeekを実戦投入するエンジニアの投資判断",
-    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-rtx-vs-mac/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLM環境、VRAM 12GB以下は正直もう厳しい。Qwen2.5やDeepSeekを実戦投入するなら、最低でもRTX 4060 Ti 16GB、理想はRTX 4090の24GB一択です。\n\nApple Siliconならメモリ64GB以上が分岐点。速度のGPUか、容量のMacか。\n仕事で使うなら「推論待ち時間」をコスト換算して投資判断すべき。安物買いのVRAM不足が一番高くつきます。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-02-local-llm-hardware-guide-rtx-vs-mac.jpg",
-    "created_at": "2026-08-02T03:01:25.445379+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-02-local-llm-best-gpu-mac-comparison-guide",
     "title": "ローカルLLM環境の選び方とおすすめ比較：規制に負けない最強のPC・Mac構成",
     "url": "https://ai.negi-lab.com/posts/local-llm-best-gpu-mac-comparison-guide/",
