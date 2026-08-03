@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-08-03-termexo-windows-claude-code-workbench-review.jpg",
     "created_at": "2026-08-03T12:39:14.625943+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-03-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLX 使い方 入門 Apple SiliconでローカルLLMを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple Siliconの真価はMLXでこそ発揮される。\nRTX 4090を回す私でも、MacBookでのローカルLLM推論速度には驚く。\nM2 Maxなら7Bモデルが爆速で、もはやAPIの待ち時間がストレスに感じるレベル。\nPythonだけで完結し、Unified Memoryをフル活用する環境構築手順をまとめました。\n買うならメモリ32GB以上が正義です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-03-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-08-03T15:34:00.433161+09:00",
+    "posted": false
   }
 ]
