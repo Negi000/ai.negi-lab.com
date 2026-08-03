@@ -2628,21 +2628,6 @@
       "collected_at": "2026-08-03T12:38:37"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Qwen3.8-27B announced alongside Qwen3.8-Max",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ve0psn/qwen3827b_announced_alongside_qwen38max/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-08-03T02:21:49+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ve0psn/qwen3827b_announced_alongside_qwen38max/\"> <img alt=\"Qwen3.8-27B announced alongside Qwen3.8-Max\" src=\"https://preview.redd.it/gy0tgokdl2hh1.png?width=140&amp;height=112&amp;auto=webp&amp;s=cb73fedfe8b394186067c20064d330d7118d26aa\" title=\"Qwen3.8-27B announced alongside Qwen3.8-Max\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/gy0tgokdl2hh1.png?width=540&amp;format=png&amp;auto=",
-      "extra": {},
-      "collected_at": "2026-08-03T15:32:06"
-    },
-    {
       "source": "Google News",
       "title": "サム・アルトマン氏「シンギュラリティは始まっている」…5人の著名AI専門家・作家はどう見る？ - businessinsider.jp",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMXl0M2dLc2hMYVlud0RWd0RxX1htRGtmbXhEejBVTFFqTnRxZGZYSi1PN3lMM05PN2w5MGxpdGxjSzhqM2tyeHlBSXlPT0JSRG50RWl0OE1zbXpFVlpjTXV1UXJiQzFVVHJXSVJDbVZPN3ZCN19PLWc2cTRETGtJT3RGM2lmOEVJOXFQV3FMcVg?oc=5",
@@ -3039,7 +3024,107 @@
         "revenue_score": 8
       },
       "collected_at": "2026-08-04T03:51:05"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+      "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 03 Aug 2026 20:02:21 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-04T07:14:02"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Show HN: Hacker News with AI stories filtered out",
+      "url": "https://hcker.news/?view=frontpage&ai=exclude",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 03 Aug 2026 17:39:56 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-04T07:14:02"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "url": "https://armature.tech/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Mon, 03 Aug 2026 16:17:59 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-04T07:14:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 03 Aug 2026 20:00:00 +0000",
+      "summary": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-04T07:14:10"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Inventory",
+      "url": "https://www.producthunt.com/products/inventory",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Search every AI Agent & IDE Conversation </p> <p> <a href=\"https://www.producthunt.com/products/inventory?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1212918?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-08-04T07:14:11"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Hand Wave",
+      "url": "https://www.producthunt.com/products/hand-wave",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn sign language into speech with smart glasses </p> <p> <a href=\"https://www.producthunt.com/products/hand-wave?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1199610?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-04T07:14:11"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ctruh Studio",
+      "url": "https://www.producthunt.com/products/ctruh-studio",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create interactive 3D and XR experiences without coding </p> <p> <a href=\"https://www.producthunt.com/products/ctruh-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1211605?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-04T07:14:11"
     }
   ],
-  "updated_at": "2026-08-04T03:51:05.624342+09:00"
+  "updated_at": "2026-08-04T07:14:14.994240+09:00"
 }
