@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-08-04-mlx-apple-silicon-local-llm-tutorial.jpg",
     "created_at": "2026-08-04T17:41:34.222792+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-04-loopx-ai-agent-state-kernel-review",
+    "title": "loopx 長期実行型AIエージェントの「記憶と実行」を管理する状態管理カーネル",
+    "url": "https://ai.negi-lab.com/posts/loopx-ai-agent-state-kernel-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントを24時間回すなら必須。GitHubで話題の「loopx」は、エージェントの目標忘却やAPI制限による破綻を防ぐ軽量カーネル。\n\n特定フレームワークに依存せず、既存のループに数行足すだけで「耐久性のあるTODO管理」と「実行証拠ログ」を外付けできる。デモではなく、本番で「完遂」させるための設計が熱い。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-04-loopx-ai-agent-state-kernel-review.jpg",
+    "created_at": "2026-08-04T20:23:23.026395+09:00",
+    "posted": false
   }
 ]
