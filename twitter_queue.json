@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-08-04-inventory-ai-agent-conversation-search-review.jpg",
     "created_at": "2026-08-04T12:22:48.066465+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-04-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLX 使い方 入門 Apple Silicon MacでローカルLLMを高速に動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple Siliconの真価はMLXでこそ発揮される。Llama 3.1 8Bがローカルで50-80 tokens/sec超え。クラウドAPI不要、プライバシーも完璧。メモリ16GB以上のMacユーザーなら、今すぐMLXを触るべき。llama.cppよりApple特化で実装も楽。実務で使える「コピペ可能な入門ガイド」を書きました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-04-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-08-04T17:41:34.222792+09:00",
+    "posted": false
   }
 ]
