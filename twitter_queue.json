@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-08-05T01:35:39.731096+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-05-uber-adr-ai-agent-hardware-guide-rtx-mac",
+    "title": "ローカルLLMとAIエージェントを安全に動かすPC選び｜Uber採用のADRから学ぶVRAMとセキュリティの投資基準",
+    "url": "https://ai.negi-lab.com/posts/uber-adr-ai-agent-hardware-guide-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #AIエージェント",
+    "tweet_text": "AIエージェントを実務導入するなら「動く」だけでは不十分。Uberが公開したADRのように、常時監視とセキュリティをセットで回すのが標準になります。\n\nこの「監視コスト」を支えるにはVRAM 24GBが最低ライン。RTX 4090かMacメモリ64GB以上が、失敗しない投資の分岐点です。スペックをケチると、半年後に機材を買い直すことになります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-08-05T07:20:31.594821+09:00",
+    "posted": false
   }
 ]
