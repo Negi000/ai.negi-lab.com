@@ -15275,5 +15275,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-08-06T03:22:40.960113+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-06-local-llm-gpu-comparison-rtx-mac-vram",
+    "title": "ローカルLLM環境の選び方と比較：Kimi K3級を動かすRTX・MacのVRAM基準",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-comparison-rtx-mac-vram/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "Kimi K3級の超巨大モデルがGB10クラスタで20tpsを叩き出す時代。個人開発者がこの波に乗るならVRAM 24GBのRTX 4090か統一メモリ64GB以上のMac Studioが必須の投資になります。12GB以下のGPUは今や「安物買いの銭失い」になるリスク大。まずは16GBを最低ラインに据えて、実務で使える環境を整えるのが正解です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-06-local-llm-gpu-comparison-rtx-mac-vram.jpg",
+    "created_at": "2026-08-06T07:18:15.287566+09:00",
+    "posted": false
   }
 ]
