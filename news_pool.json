@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 27 Jul 2026 12:56:36 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-29T15:05:58"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Agenta: an open-source Claude Cowork alternative where you can use self-hosted models (and any harness)",
-      "url": "https://www.reddit.com/r/ollama/comments/1v9cb8l/agenta_an_opensource_claude_cowork_alternative/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-07-28T21:47:26+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1v9cb8l/agenta_an_opensource_claude_cowork_alternative/\"> <img alt=\"Agenta: an open-source Claude Cowork alternative where you can use self-hosted models (and any harness)\" src=\"https://preview.redd.it/uykxkzbqh1gh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=34b930f30addfb5f2a28adf663a35a8f2f78d84b\" title=\"Agenta: an open-source Claude Cowork alternative where you can use self-hosted models (and any harness)\" /> </a> </td><",
-      "extra": {},
-      "collected_at": "2026-07-29T15:06:01"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Ollama usage v opencode",
-      "url": "https://www.reddit.com/r/ollama/comments/1v9m3c6/ollama_usage_v_opencode/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-07-29T04:52:23+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all, so I posted earlier in the week around “feeling” that recently usage limits had been tightened considerably. I just looked this morning and 11 GLM5.2 requests took 3% of my 5 hour usage. At that rate I’d get around 380 requests. If I look on opencode it says based on typical usage patterns you’ll get 880 requests per 5 hour chunk to GLM5.2. This seems an almighty difference and a no brainer to switch. Have I missed something here, anybody made that switc",
-      "extra": {},
-      "collected_at": "2026-07-29T15:06:01"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Ollama API Key Proxy",
-      "url": "https://www.reddit.com/r/ollama/comments/1v9arhv/ollama_api_key_proxy/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-07-28T20:50:12+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I recently built a lightweight reverse proxy that sits in front of ollama and rotates multiple API keys to use ollama cloud models.</p> <p>The goal was simple, point your AI coding tools to a single endpoint and let the proxy handle key management.</p> <p>Features</p> <ul> <li>Round-robin API key rotation</li> <li>Automatic cooldown for rate-limited (<code>429</code>) keys</li> <li>Retry on <code>429</code> and <code>5xx</code> responses</li> <li><code>/metrics<",
-      "extra": {},
-      "collected_at": "2026-07-29T15:06:01"
-    },
-    {
-      "source": "Google News",
-      "title": "Hugging Faceは女性や子どもの無断ヌード画像生成に使われており予防措置が講じられていないとの調査結果 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRlBaREh4TlhaWjA5MXh0MldhSEszREFIcmttY0J2MHd6eTdLZjNRTlJmNENYNm16YmlibVBtWmNXZVFGd2wxRTZMQUxVeThuU0k3THdnc3dieGRBbF9UZkJoRjFTX0VXTVVnMmdpY01PUXhHb0xJSXBsNDFoaTV0Uk5R?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 29 Jul 2026 06:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNRlBaREh4TlhaWjA5MXh0MldhSEszREFIcmttY0J2MHd6eTdLZjNRTlJmNENYNm16YmlibVBtWmNXZVFGd2wxRTZMQUxVeThuU0k3THdnc3dieGRBbF9UZkJoRjFTX0VXTVVnMmdpY01PUXhHb0xJSXBsNDFoaTV0Uk5R?oc=5\" target=\"_blank\">Hugging Faceは女性や子どもの無断ヌード画像生成に使われており予防措置が講じられていないとの調査結果</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-29T15:06:03"
-    },
-    {
       "source": "Product Hunt",
       "title": "SceneNote",
       "url": "https://www.producthunt.com/products/scenenote-free-video-feedback-tool",
@@ -2905,22 +2835,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Vibe Buddy",
-      "url": "https://www.producthunt.com/products/vibe-buddy",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Hardware for AI coding </p> <p> <a href=\"https://www.producthunt.com/products/vibe-buddy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1213589?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-05T14:52:43"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Glasp MCP Connector",
       "url": "https://www.producthunt.com/products/glasp-mcp-connector",
       "primary_category": "TOOL",
@@ -2933,7 +2847,95 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-05T14:52:43"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Rust-lang/rust is adopting an LLM policy",
+      "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 05 Aug 2026 05:52:24 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-05T17:40:03"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Kimi K3 full model running on 16x GB10 cluster at 20+tps",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfl525/kimi_k3_full_model_running_on_16x_gb10_cluster_at/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-08-04T19:56:16+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vfl525/kimi_k3_full_model_running_on_16x_gb10_cluster_at/\"> <img alt=\"Kimi K3 full model running on 16x GB10 cluster at 20+tps\" src=\"https://preview.redd.it/x4w1912fyehh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8280c2baf350c6319c3be3beea76678c96e14967\" title=\"Kimi K3 full model running on 16x GB10 cluster at 20+tps\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Kimi K3 full model running on 16x GB10 cluster a",
+      "extra": {},
+      "collected_at": "2026-08-05T17:40:04"
+    },
+    {
+      "source": "Google News",
+      "title": "OpenAIがAppleによる訴訟に反論、「提訴する前に相談してくれれば喜んですべて説明していた」 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yWUNFa19KUk9EM1dseUtLaDZfbTRoLTFMUVN1amJPR0hHUzh5RkFGdUFYaXN3NWd1ZzgwZC1ZLThwbEhUVVBTYUpURVhMMnVwMHVyUUNPbFlEaUx6?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Wed, 05 Aug 2026 08:05:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yWUNFa19KUk9EM1dseUtLaDZfbTRoLTFMUVN1amJPR0hHUzh5RkFGdUFYaXN3NWd1ZzgwZC1ZLThwbEhUVVBTYUpURVhMMnVwMHVyUUNPbFlEaUx6?oc=5\" target=\"_blank\">OpenAIがAppleによる訴訟に反論、「提訴する前に相談してくれれば喜んですべて説明していた」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-08-05T17:40:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Hansel",
+      "url": "https://www.producthunt.com/products/hansel-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Remember everything you've worked on </p> <p> <a href=\"https://www.producthunt.com/products/hansel-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1215391?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-05T17:40:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Wispr Flow Notetaker",
+      "url": "https://www.producthunt.com/products/wisprflow",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Meeting notes that get the details right. </p> <p> <a href=\"https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1214897?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-05T17:40:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "BackEngine MCP",
+      "url": "https://www.producthunt.com/products/backengine-mcp",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Make private company knowledge usable for AI </p> <p> <a href=\"https://www.producthunt.com/products/backengine-mcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1215121?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-05T17:40:12"
     }
   ],
-  "updated_at": "2026-08-05T14:52:46.997498+09:00"
+  "updated_at": "2026-08-05T17:40:16.291725+09:00"
 }
