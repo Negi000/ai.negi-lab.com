@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "SceneNote",
-      "url": "https://www.producthunt.com/products/scenenote-free-video-feedback-tool",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Free video feedback tool for editors & clients </p> <p> <a href=\"https://www.producthunt.com/products/scenenote-free-video-feedback-tool?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1208540?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-29T17:44:41"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Totem",
-      "url": "https://www.producthunt.com/products/totem-5",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your Twitter bookmarks organized to make you read them </p> <p> <a href=\"https://www.producthunt.com/products/totem-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1208746?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-29T17:44:41"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "MemoryCustodian",
-      "url": "https://www.producthunt.com/products/memorycustodian",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Repo-native memory for coding agents </p> <p> <a href=\"https://www.producthunt.com/products/memorycustodian?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1205016?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-29T17:44:41"
-    },
-    {
       "source": "GitHub Trending",
       "title": "microsoft/VibeVoice",
       "url": "https://github.com/microsoft/VibeVoice",
@@ -2935,7 +2889,126 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-05T17:40:12"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Wed, 05 Aug 2026 04:36:44 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-05T20:19:59"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Bro, I need you to FOCUS.",
+      "url": "https://www.reddit.com/r/ollama/comments/1vfsgvi/bro_i_need_you_to_focus/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-08-05T00:51:07+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1vfsgvi/bro_i_need_you_to_focus/\"> <img alt=\"Bro, I need you to FOCUS.\" src=\"https://preview.redd.it/puapitn1fghh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=06d92c72d0935429641e031f9dc1c4d8934d0e19\" title=\"Bro, I need you to FOCUS.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Come on guys, we could get deepseek cheaper with more usage directly with them if we wanted. WHERE IS KIMI K3 WITHOUT EXTRA USAGE NEEDED !!?",
+      "extra": {},
+      "collected_at": "2026-08-05T20:20:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "We write your reusable computer vision tools. 💜",
+      "extra": {
+        "stars_today": "132 stars today"
+      },
+      "collected_at": "2026-08-05T20:20:02"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Comfy-Org/workflow_templates",
+      "url": "https://github.com/Comfy-Org/workflow_templates",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "ComfyUI template workflows",
+      "extra": {
+        "stars_today": "9 stars today"
+      },
+      "collected_at": "2026-08-05T20:20:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 05 Aug 2026 11:00:00 +0000",
+      "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-08-05T20:20:02"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "NextDoor.Company",
+      "url": "https://www.producthunt.com/products/nextdoor-company",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Discover startups hiring near you, on a map </p> <p> <a href=\"https://www.producthunt.com/products/nextdoor-company?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1214477?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-05T20:20:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "StepGrab",
+      "url": "https://www.producthunt.com/products/stepgrab",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Turn any Mac task into a step-by-step guide </p> <p> <a href=\"https://www.producthunt.com/products/stepgrab?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1198410?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-05T20:20:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Capacity Desktop",
+      "url": "https://www.producthunt.com/products/capacity",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A free Lovable that lives on your Mac </p> <p> <a href=\"https://www.producthunt.com/products/capacity?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1208916?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-05T20:20:03"
     }
   ],
-  "updated_at": "2026-08-05T17:40:16.291725+09:00"
+  "updated_at": "2026-08-05T20:20:06.626486+09:00"
 }
