@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-04-livekit-agents-hardware-guide-rtx-mac",
-    "title": "LiveKit Agentsで作る音声AIエージェント開発の選び方｜RTX 4090かMac Studioか？買う前の失敗回避ガイド",
-    "url": "https://ai.negi-lab.com/posts/livekit-agents-hardware-guide-rtx-mac/",
-    "category": "MONEY",
-    "viral_tags": "#LiveKit #ローカルLLM",
-    "tweet_text": "音声AI開発のlivekit/agents、仕事で使うなら「VRAM 24GB」か「Macメモリ64GB」が分岐点。API課金は1分数十円〜で速攻溶けるから、本気でやるならRTX 4090への投資が結局一番安い。VRAM 8GBで妥協するとワーカー立ち上げた瞬間に落ちて詰みます。マイクをShure MV7+に変えるだけでSTT誤認識が激減するのも実務の鉄則。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-04-livekit-agents-hardware-guide-rtx-mac.jpg",
-    "created_at": "2026-08-04T07:15:11.219005+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-04-inventory-ai-agent-conversation-search-review",
     "title": "Inventory AIエージェントとIDEの会話を一括検索して開発効率を上げる",
     "url": "https://ai.negi-lab.com/posts/inventory-ai-agent-conversation-search-review/",
