@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-08-06T01:18:49.409893+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-06-qwen-3-8-local-llm-gpu-guide",
+    "title": "Qwen 3.8登場間近？ローカルLLM用GPU・Macの選び方と失敗しないVRAM容量比較",
+    "url": "https://ai.negi-lab.com/posts/qwen-3-8-local-llm-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "Qwen 3.8Bなど軽量・高知能なLLMが続々登場。ローカルLLM環境、実は今が一番の「買い時」です。\n\n仕事で使うならVRAM 16GBが最低ライン。RTX 4060 Ti 16GBなら6万円台で「待ち時間ゼロ」のAIエージェント環境が手に入る。\n\n買う前に見るべきはGPU性能よりメモリバス帯域とKVキャッシュの消費量。失敗しないための選び方をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-08-06T03:22:40.960113+09:00",
+    "posted": false
   }
 ]
