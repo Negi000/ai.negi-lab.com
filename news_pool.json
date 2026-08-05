@@ -2615,21 +2615,6 @@
       "collected_at": "2026-08-04T17:40:47"
     },
     {
-      "source": "GitHub Trending",
-      "title": "uber/ADR",
-      "url": "https://github.com/uber/ADR",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-      "extra": {
-        "stars_today": "140 stars today"
-      },
-      "collected_at": "2026-08-04T20:22:22"
-    },
-    {
       "source": "Product Hunt",
       "title": "Crodo AI",
       "url": "https://www.producthunt.com/products/crodo-ai",
@@ -2891,7 +2876,95 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-05T07:19:20"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+      "url": "https://github.com/tikalk/adlc-team-skills",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Tue, 04 Aug 2026 14:38:31 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-05T12:16:53"
+    },
+    {
+      "source": "r/LocalLLM",
+      "title": "They aren't going to block the models after all",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1vfsaky/they_arent_going_to_block_the_models_after_all/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-08-05T00:43:16+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLM/comments/1vfsaky/they_arent_going_to_block_the_models_after_all/\"> <img alt=\"They aren't going to block the models after all\" src=\"https://preview.redd.it/eq3kjzwidghh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=930479159ada1db8aae02bce7b2a3253c9ca6651\" title=\"They aren't going to block the models after all\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JosieA3672\"> /u/JosieA3672 </a> <br /> <span",
+      "extra": {},
+      "collected_at": "2026-08-05T12:17:01"
+    },
+    {
+      "source": "Google News",
+      "title": "米ＡＭＤ、ＡＩ需要で売上高見通しが予想超え 期待高く株価急落 - ロイター",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NcGRYZ0Vacnh6VkhXRzZaYWE1NVIyZ2tYRW5BRFZoTzd1MTNUa0xZQVBaVEU5WlZ0SjF5aHBGTGdmc2RXbGNqLVJEWHVDOWxwQzFyb1F2TnJZZnh2QndtYUphMGtVSmItMDBBeTgyRUZ1N2NzbklzRA?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 04 Aug 2026 20:35:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9NcGRYZ0Vacnh6VkhXRzZaYWE1NVIyZ2tYRW5BRFZoTzd1MTNUa0xZQVBaVEU5WlZ0SjF5aHBGTGdmc2RXbGNqLVJEWHVDOWxwQzFyb1F2TnJZZnh2QndtYUphMGtVSmItMDBBeTgyRUZ1N2NzbklzRA?oc=5\" target=\"_blank\">米ＡＭＤ、ＡＩ需要で売上高見通しが予想超え 期待高く株価急落</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-05T12:17:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Driven",
+      "url": "https://www.producthunt.com/products/driven-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The trusted AI investment agent, from insight to action </p> <p> <a href=\"https://www.producthunt.com/products/driven-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1203025?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-05T12:17:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Wondering",
+      "url": "https://www.producthunt.com/products/wondering-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Duolingo for learning anything </p> <p> <a href=\"https://www.producthunt.com/products/wondering-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1210439?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-05T12:17:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AirProof AI",
+      "url": "https://www.producthunt.com/products/airproof-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Find the best spot for your air purifier in seconds </p> <p> <a href=\"https://www.producthunt.com/products/airproof-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1211832?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-05T12:17:04"
     }
   ],
-  "updated_at": "2026-08-05T07:19:23.412923+09:00"
+  "updated_at": "2026-08-05T12:17:07.492664+09:00"
 }
