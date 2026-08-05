@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-04-qwen3-8-27b-local-llm-gpu-guide",
-    "title": "Qwen3.8-27B比較と選び方｜ローカルLLMを仕事で使うためのGPU・Mac選定ガイド",
-    "url": "https://ai.negi-lab.com/posts/qwen3-8-27b-local-llm-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "Qwen3.8-27Bが登場し、ローカルLLMは「仕事で使える」レベルへ。ただしVRAM消費はエグい。\n4bit量子化でも18GB超、実用的な5bitなら22GBが必要。つまりRTX 3060/4060の12GB勢は脱落、4060 Ti 16GBでもギリギリ。\n結局、24GB搭載のRTX 3090/4090か、メモリ64GB以上のMacが「勝ち確定」の装備になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-04-qwen3-8-27b-local-llm-gpu-guide.jpg",
-    "created_at": "2026-08-04T03:52:11.678254+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-04-livekit-agents-hardware-guide-rtx-mac",
     "title": "LiveKit Agentsで作る音声AIエージェント開発の選び方｜RTX 4090かMac Studioか？買う前の失敗回避ガイド",
     "url": "https://ai.negi-lab.com/posts/livekit-agents-hardware-guide-rtx-mac/",
