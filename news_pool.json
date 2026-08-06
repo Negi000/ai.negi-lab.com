@@ -1,53 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "Trump says he's looking at AI controls after OpenAI rogue agent - ロイター",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqWGdxX3hEbXV1elh1eFhucTZKTnZTc3p2M2NURk1ZYmRMX25vWDJYcHVtRC11Q1h4bGM3cnktX0FEaTZkYjlSZTQwYTdNb1h0eE9tQlpYV1BiaV9IR1lTa1pOdXhLdw?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Wed, 29 Jul 2026 21:49:49 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqWGdxX3hEbXV1elh1eFhucTZKTnZTc3p2M2NURk1ZYmRMX25vWDJYcHVtRC11Q1h4bGM3cnktX0FEaTZkYjlSZTQwYTdNb1h0eE9tQlpYV1BiaV9IR1lTa1pOdXhLdw?oc=5\" target=\"_blank\">Trump says he's looking at AI controls after OpenAI rogue agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-30T20:07:20"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Premation",
-      "url": "https://www.producthunt.com/products/premation",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> An open-source AI alternative to After Effects </p> <p> <a href=\"https://www.producthunt.com/products/premation?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1210281?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-30T20:07:20"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Claude Code usage tracking by LangWatch",
-      "url": "https://www.producthunt.com/products/langwatch",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> See what your Claude Code sessions actually cost </p> <p> <a href=\"https://www.producthunt.com/products/langwatch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1208851?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-30T20:07:20"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
       "url": "https://github.com/YoanWai/agent-manager",
@@ -2974,7 +2927,131 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-06T17:40:15"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The authentication glue you need.",
+      "extra": {
+        "stars_today": "123 stars today"
+      },
+      "collected_at": "2026-08-06T20:21:59"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "extra": {
+        "stars_today": "28 stars today"
+      },
+      "collected_at": "2026-08-06T20:21:59"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Superlog Responder",
+      "url": "https://www.producthunt.com/products/superlog",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> FREE, open-source AI bug-fixing agent </p> <p> <a href=\"https://www.producthunt.com/products/superlog?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1210682?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-06T20:22:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "hey postcard - digital postcards",
+      "url": "https://www.producthunt.com/products/hey-postcard-slow-messaging",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> delivered tomorrow morning at a random time between 8 -10 AM </p> <p> <a href=\"https://www.producthunt.com/products/hey-postcard-slow-messaging?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1216227?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-06T20:22:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Brandfetch MCP",
+      "url": "https://www.producthunt.com/products/brandfetch",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Stop your AI from guessing brand logos </p> <p> <a href=\"https://www.producthunt.com/products/brandfetch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1215642?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-06T20:22:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.8-2.4T-A95B (aka Qwen3.8-Max) open release time: next wednesday",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx8yu/qwen3824ta95b_aka_qwen38max_open_release_time/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-08-06T07:23:10+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vgx8yu/qwen3824ta95b_aka_qwen38max_open_release_time/\"> <img alt=\"Qwen3.8-2.4T-A95B (aka Qwen3.8-Max) open release time: next wednesday\" src=\"https://external-preview.redd.it/iKe-VCJuazYu-ktph8_9f-LxjWBn85lDYJa3HX8YIsI.png?width=140&amp;height=75&amp;auto=webp&amp;s=d1f9e36ce601fe4f5f66fd47e34d09ff8c95fe4d\" title=\"Qwen3.8-2.4T-A95B (aka Qwen3.8-Max) open release time: next wednesday\" /> </a> </td><td> <!-- SC_OFF --><div cla",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-08-06T20:22:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "you can now buy llm's at your local supermarket",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgj0h8/you_can_now_buy_llms_at_your_local_supermarket/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-08-05T20:27:57+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vgj0h8/you_can_now_buy_llms_at_your_local_supermarket/\"> <img alt=\"you can now buy llm's at your local supermarket\" src=\"https://preview.redd.it/jqspfs9u8mhh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=baf9dbf440339de36a4df894fd1a564b216dacfa\" title=\"you can now buy llm's at your local supermarket\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ECrispy\"> /u/ECrispy </a> <br /> <span><a",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-08-06T20:22:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Zuck will \"share more on open source\" soon",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgp8y8/zuck_will_share_more_on_open_source_soon/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-08-06T00:40:40+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vgp8y8/zuck_will_share_more_on_open_source_soon/\"> <img alt=\"Zuck will &quot;share more on open source&quot; soon\" src=\"https://preview.redd.it/i3vmb4w2inhh1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=01dedd2ca1f7124da8fc7381244a0e0443b1bacd\" title=\"Zuck will &quot;share more on open source&quot; soon\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/realmvp77\"> /u/realmvp77 </a> <br /> <",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-08-06T20:22:01"
     }
   ],
-  "updated_at": "2026-08-06T17:40:18.275713+09:00"
+  "updated_at": "2026-08-06T20:22:01.621060+09:00"
 }

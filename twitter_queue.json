@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-08-06-llamacpp-gguf-python-setup-guide.jpg",
     "created_at": "2026-08-06T17:40:43.991353+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-06-superlog-responder-ai-bug-fix-review",
+    "title": "Superlog Responder ログ解析からコード修正まで完結するOSSの実力",
+    "url": "https://ai.negi-lab.com/posts/superlog-responder-ai-bug-fix-review/",
+    "category": "TOOL",
+    "viral_tags": "#エンジニア #生産性向上",
+    "tweet_text": "ログ監視から修正パッチ生成までを自動化する「Superlog Responder」を検証。エラーが発生した瞬間にAIがコードの該当箇所を特定し、diffを出力する自律型デバッグが実用的。Sentry連携も可能で、一次調査の30分を0.3秒に短縮できる。実務で使うならローカルLLMとの組み合わせがセキュリティ・コスト共に最強。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-06-superlog-responder-ai-bug-fix-review.jpg",
+    "created_at": "2026-08-06T20:22:37.613986+09:00",
+    "posted": false
   }
 ]
