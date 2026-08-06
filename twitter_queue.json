@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-04-loopx-ai-agent-state-kernel-review",
-    "title": "loopx 長期実行型AIエージェントの「記憶と実行」を管理する状態管理カーネル",
-    "url": "https://ai.negi-lab.com/posts/loopx-ai-agent-state-kernel-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #Python",
-    "tweet_text": "AIエージェントを24時間回すなら必須。GitHubで話題の「loopx」は、エージェントの目標忘却やAPI制限による破綻を防ぐ軽量カーネル。\n\n特定フレームワークに依存せず、既存のループに数行足すだけで「耐久性のあるTODO管理」と「実行証拠ログ」を外付けできる。デモではなく、本番で「完遂」させるための設計が熱い。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-04-loopx-ai-agent-state-kernel-review.jpg",
-    "created_at": "2026-08-04T20:23:23.026395+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-04-apple-silicon-mlx-local-llm-tutorial",
-    "title": "Apple Siliconの性能を限界まで引き出し、Llama 3やGemma 2といった最新のLLMをMac上でネイティブ動作させるPythonスクリプトを構築します。",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Siliconの真価はMLXでこそ発揮される。\nM3 MaxならLlama 3が毎秒50トークン超えで爆走。RTX 4090を2枚挿ししている私でも、この「手軽に持ち運べる爆速推論環境」には正直驚く。\nメモリ16GB以上のMacユーザーなら、今すぐMLXでローカルLLMを自作すべき。構築手順を実体験ベースで整理した。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-08-04T23:27:17.057979+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-05-ai-data-center-market-top-25-analysis",
     "title": "AIデータセンター市場トップ25社から読み解く、開発者が知るべきインフラの限界と勝機",
     "url": "https://ai.negi-lab.com/posts/ai-data-center-market-top-25-analysis/",
