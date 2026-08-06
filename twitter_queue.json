@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-06-claude-code-cursor-ai-coding-workflow-guide.jpg",
     "created_at": "2026-08-06T15:02:54.307633+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-06-llamacpp-gguf-python-setup-guide",
+    "title": "llama.cpp 使い方 入門 | GGUF量子化でローカルLLMを動かす",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-python-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llamacpp",
+    "tweet_text": "ローカルLLMを爆速で動かすならllama.cpp一択。RTX 4090やMacBookの性能を限界まで引き出せます。GGUF形式のQ4_K_M量子化なら、8Bクラスのモデルがわずか数GBのメモリでサクサク動作。API料金もデータ漏洩の心配も不要。仕事で使える「自分専用AI」をPythonで構築する最短手順を書きました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-06-llamacpp-gguf-python-setup-guide.jpg",
+    "created_at": "2026-08-06T17:40:43.991353+09:00",
+    "posted": false
   }
 ]
