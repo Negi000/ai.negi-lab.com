@@ -2,109 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
-      "url": "https://github.com/YoanWai/agent-manager",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Thu, 30 Jul 2026 09:34:27 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-07-30T23:11:56"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Why not Ollama Cloud for Opencode?",
-      "url": "https://www.reddit.com/r/ollama/comments/1vasend/why_not_ollama_cloud_for_opencode/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-07-30T12:35:01+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I see a lot of discussion here about best subscriptions or APIs to get. Most of them comes almost always back to DeepSeek API for Flash, Opencode Go and Codex Plus.</p> <p>I have the combo Ollama Cloud + Opencode Go, 20 + 10 respectively, both have almost hit same good open models, Kimi K, Minimax, GLM. DeepSeek.</p> <p>Am I fooling myself thinking I have a good value?</p> <p>I don't think too much in token value as Ollama Cloud currency is not token cost but GP",
-      "extra": {},
-      "collected_at": "2026-07-30T23:12:01"
-    },
-    {
-      "source": "r/ollama",
-      "title": "2 images + 1 prompt > expected output",
-      "url": "https://www.reddit.com/r/ollama/comments/1vas6gd/2_images_1_prompt_expected_output/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-07-30T12:25:20+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>I'm trying to replicate a thing locally, that I can do on ChatGPT.</p> <p>What I want is to give a local AI two reference images (a face and a background item) and a prompt about the composition of the picture and then it generates the picture as defined by the prompt (while not changing how the face looks). </p> <p>I can do this with four pictures with ChatGPT and it will almost allways succede preserving the face exactly and blending other pictures,",
-      "extra": {},
-      "collected_at": "2026-07-30T23:12:01"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "microsoft/TRELLIS.2",
-      "url": "https://github.com/microsoft/TRELLIS.2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Native and Compact Structured Latents for 3D Generation",
-      "extra": {
-        "stars_today": "412 stars today"
-      },
-      "collected_at": "2026-07-30T23:12:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AI Search Console",
-      "url": "https://www.producthunt.com/products/ai-search-console",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Prompt analytics and citation mapping for AI search </p> <p> <a href=\"https://www.producthunt.com/products/ai-search-console?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1187127?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-30T23:12:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "SKI",
-      "url": "https://www.producthunt.com/products/ski",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Free voice coding for Claude Code, Codex and more </p> <p> <a href=\"https://www.producthunt.com/products/ski?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1208711?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-07-30T23:12:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "NINA",
-      "url": "https://www.producthunt.com/products/agenq-nina-ai-product-assistant",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> Guide users step by step inside your product. </p> <p> <a href=\"https://www.producthunt.com/products/agenq-nina-ai-product-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1052113?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-30T23:12:03"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
       "primary_category": "NEWS",
@@ -2960,22 +2857,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Superlog Responder",
-      "url": "https://www.producthunt.com/products/superlog",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> FREE, open-source AI bug-fixing agent </p> <p> <a href=\"https://www.producthunt.com/products/superlog?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1210682?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-06T20:22:00"
-    },
-    {
-      "source": "Product Hunt",
       "title": "hey postcard - digital postcards",
       "url": "https://www.producthunt.com/products/hey-postcard-slow-messaging",
       "primary_category": "TOOL",
@@ -3051,7 +2932,51 @@
         "revenue_score": 4
       },
       "collected_at": "2026-08-06T20:22:01"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "A Gallery of Installing from .dmg",
+      "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 05 Aug 2026 21:34:05 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-06T23:22:25"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 06 Aug 2026 13:31:57 +0000",
+      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-06T23:22:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Channels SDK",
+      "url": "https://www.producthunt.com/products/copilotkit",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Agents in Slack & Teams without the production headaches. </p> <p> <a href=\"https://www.producthunt.com/products/copilotkit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1197608?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-06T23:22:35"
     }
   ],
-  "updated_at": "2026-08-06T20:22:01.621060+09:00"
+  "updated_at": "2026-08-06T23:22:38.686411+09:00"
 }
