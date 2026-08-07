@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-08-07-authentik-idp-python-setup-review.jpg",
     "created_at": "2026-08-07T14:00:59.480395+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-07-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLX 使い方 Apple SiliconでローカルLLMを動かす入門ガイド",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple Siliconのメモリ32GB以上を持っているなら、ローカルLLMを動かさないのは宝の持ち腐れ。llama.cppも良いですが、PythonエンジニアならApple純正のMLXが最短ルートです。Metalへの最適化が凄まじく、4bit量子化モデルなら驚くほど高速。API料金もプライバシーも気にせず、Macの中でAIを飼う手順をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-07-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-08-07T16:20:13.760291+09:00",
+    "posted": false
   }
 ]
