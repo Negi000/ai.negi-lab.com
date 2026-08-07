@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-08-07-local-llm-gpu-mac-comparison-guide.jpg",
     "created_at": "2026-08-07T19:01:40.166441+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-07-llama-cpp-gguf-python-local-llm-guide",
+    "title": "llama.cpp 使い方 入門｜GGUF量子化モデルをローカルPCで高速に動かす方法",
+    "url": "https://ai.negi-lab.com/posts/llama-cpp-gguf-python-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llamacpp",
+    "tweet_text": "ローカルLLMを実務で使うなら、llama.cppとGGUF量子化の組み合わせは避けて通れません。RTX 3060クラスのGPUでも、4bit量子化を使えばLlama 3 8Bが秒速数十トークンで爆走します。VRAM不足に悩む前に、n_gpu_layersの設定を最適化してCPUとGPUのハイブリッド運用を試すべき。構築手順をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-07-llama-cpp-gguf-python-local-llm-guide.jpg",
+    "created_at": "2026-08-07T22:14:06.745900+09:00",
+    "posted": false
   }
 ]
