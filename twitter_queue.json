@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-06-claude-code-cursor-ai-coding-workflow-guide",
-    "title": "Claude CodeとCursorを併用する最強のAIコーディング環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-ai-coding-workflow-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ClaudeCode #Cursor",
-    "tweet_text": "AI開発はCursor単体の時代から「Claude Code併用」へ。\nCLIエージェントに環境構築やデバッグを丸投げし、IDEでUIを磨く。この役割分担で開発速度が3倍は変わる。\n特にClaude Codeのファイル書き換え精度は、既存ツールを圧倒している。\nRTX 4090を2枚挿すより、APIに$20払う方が今の開発効率には効く。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-06-claude-code-cursor-ai-coding-workflow-guide.jpg",
-    "created_at": "2026-08-06T15:02:54.307633+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-06-llamacpp-gguf-python-setup-guide",
-    "title": "llama.cpp 使い方 入門 | GGUF量子化でローカルLLMを動かす",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-python-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llamacpp",
-    "tweet_text": "ローカルLLMを爆速で動かすならllama.cpp一択。RTX 4090やMacBookの性能を限界まで引き出せます。GGUF形式のQ4_K_M量子化なら、8Bクラスのモデルがわずか数GBのメモリでサクサク動作。API料金もデータ漏洩の心配も不要。仕事で使える「自分専用AI」をPythonで構築する最短手順を書きました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-06-llamacpp-gguf-python-setup-guide.jpg",
-    "created_at": "2026-08-06T17:40:43.991353+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-06-superlog-responder-ai-bug-fix-review",
     "title": "Superlog Responder ログ解析からコード修正まで完結するOSSの実力",
     "url": "https://ai.negi-lab.com/posts/superlog-responder-ai-bug-fix-review/",
