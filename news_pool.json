@@ -1,110 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-      "url": "https://arxiv.org/abs/2607.27197",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 31 Jul 2026 11:37:12 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-01T01:18:56"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Is Ornith 1.0 9B Reliable Enough for Complex Backend Development?",
-      "url": "https://www.reddit.com/r/ollama/comments/1vblwx9/is_ornith_10_9b_reliable_enough_for_complex/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-07-31T09:21:53+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey folks, is anyone currently using Ornith 1.0 9B for serious or complex backend development?</p> <p>I’m working on three different applications:</p> <ol> <li>A multi-vendor e-commerce platform with a Node.js backend</li> <li>A service-based website with an existing PHP backend</li> <li>A real estate SaaS platform with a Spring Boot backend</li> </ol> <p>These are not just small demo projects. They will include areas such as authentication, role-based access, d",
-      "extra": {},
-      "collected_at": "2026-08-01T01:19:01"
-    },
-    {
-      "source": "r/ollama",
-      "title": "What's your local AI coding setup on a MacBook Pro M4?",
-      "url": "https://www.reddit.com/r/ollama/comments/1vbluhp/whats_your_local_ai_coding_setup_on_a_macbook_pro/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-07-31T09:17:49+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've spent the last couple of days trying different setups (Ollama, Continue, Claude Code, Gemini CLI, OpenRouter...) and at this point I feel like I've spent more time configuring tools than actually writing code.</p> <p>I'm on a <strong>MacBook Pro M4 with 32GB RAM</strong> and I'd really like to keep things local if possible.</p> <p>Right now I have these models downloaded:</p> <ul> <li>Gemma 4</li> <li>Qwen 3.5 9B</li> <li>Qwen3-Coder 30B</li> </ul> <p>I'm n",
-      "extra": {},
-      "collected_at": "2026-08-01T01:19:01"
-    },
-    {
-      "source": "r/ollama",
-      "title": "When is DeepSeek-V4-Flash-0731 coming to ollama cloud ?",
-      "url": "https://www.reddit.com/r/ollama/comments/1vbtqy0/when_is_deepseekv4flash0731_coming_to_ollama_cloud/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-07-31T15:13:46+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1vbtqy0/when_is_deepseekv4flash0731_coming_to_ollama_cloud/\"> <img alt=\"When is DeepSeek-V4-Flash-0731 coming to ollama cloud ?\" src=\"https://external-preview.redd.it/4wuKMSgR8Kkk0pgA3-HhBYFoQX79t2M-87LJSpJS8lU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd2f6d4f044c0f49c2385b4f8cc5ff8cc853a0b3\" title=\"When is DeepSeek-V4-Flash-0731 coming to ollama cloud ?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.red",
-      "extra": {},
-      "collected_at": "2026-08-01T01:19:01"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Siri AI could come with a paywall for power users",
-      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Fri, 31 Jul 2026 16:08:18 +0000",
-      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-08-01T01:19:03"
-    },
-    {
-      "source": "Google News",
-      "title": "OpenAI､AI利用料を最大8割下げ 中国対抗で価格競争激しく - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hczliUjlJNjhaRjBWNEJJWmhVaHB6dDdDVkJxbERVY1FIQklqQkxIUUtoYUV5UFBUMlRsTERCMDhBMnNsUlhSdEJYOVZiblctUldEUjFsazF3X1F6VWpRdFEtNnlBTHNVTHVvcA?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Fri, 31 Jul 2026 06:25:29 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5hczliUjlJNjhaRjBWNEJJWmhVaHB6dDdDVkJxbERVY1FIQklqQkxIUUtoYUV5UFBUMlRsTERCMDhBMnNsUlhSdEJYOVZiblctUldEUjFsazF3X1F6VWpRdFEtNnlBTHNVTHVvcA?oc=5\" target=\"_blank\">OpenAI､AI利用料を最大8割下げ 中国対抗で価格競争激しく</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-08-01T01:19:04"
-    },
-    {
-      "source": "Google News",
-      "title": "Seven & i to Secure 300 B. Yen in Capital for AI Push - 時事通信ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92RVBGX2t5UzJRaEVkTFRQVkx4MmlFMUs5bEFzUFpoLWIzaFBVR0FhdWJTR3QyallGbVV2NWlfdUJhNEFOd2tZM0x1cmgtdVBSYXc?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Fri, 31 Jul 2026 10:39:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE92RVBGX2t5UzJRaEVkTFRQVkx4MmlFMUs5bEFzUFpoLWIzaFBVR0FhdWJTR3QyallGbVV2NWlfdUJhNEFOd2tZM0x1cmgtdVBSYXc?oc=5\" target=\"_blank\">Seven & i to Secure 300 B. Yen in Capital for AI Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">時事通信ニュース</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-01T01:19:04"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
       "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
@@ -2750,20 +2646,6 @@
       "collected_at": "2026-08-07T22:13:24"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Qwen 3.8 Max now ranked as best overall model ahead of Opus 5 by Artificial Analysis agentic index",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhd416/qwen_38_max_now_ranked_as_best_overall_model/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-08-06T18:50:32+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vhd416/qwen_38_max_now_ranked_as_best_overall_model/\"> <img alt=\"Qwen 3.8 Max now ranked as best overall model ahead of Opus 5 by Artificial Analysis agentic index\" src=\"https://external-preview.redd.it/vxL3J4B1cStZzAInWQ5D4gqyaUYke8i4-GOuqdek2Vw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=16f00fde80195f819fab287244c350a00f7f616a\" title=\"Qwen 3.8 Max now ranked as best overall model ahead of Opus 5 by Artificial Analysi",
-      "extra": {},
-      "collected_at": "2026-08-07T22:13:25"
-    },
-    {
       "source": "GitHub Trending",
       "title": "semantica-agi/semantica",
       "url": "https://github.com/semantica-agi/semantica",
@@ -2884,7 +2766,53 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-08T00:28:36"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Fri, 07 Aug 2026 16:16:09 +0000",
+      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-08-08T02:49:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Coldtea.ai",
+      "url": "https://www.producthunt.com/products/coldtea",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Make your software delivery self-driving </p> <p> <a href=\"https://www.producthunt.com/products/coldtea?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1198904?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-08T02:49:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "BrowserOS neo",
+      "url": "https://www.producthunt.com/products/browseros_ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The Missing Browser for Claude, Cowork & Codex </p> <p> <a href=\"https://www.producthunt.com/products/browseros_ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1031913?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-08T02:49:28"
     }
   ],
-  "updated_at": "2026-08-08T00:28:39.489114+09:00"
+  "updated_at": "2026-08-08T02:49:32.306753+09:00"
 }
