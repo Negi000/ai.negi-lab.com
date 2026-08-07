@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-08-local-llm-gpu-buying-guide-rtx4090-vs-mac.jpg",
     "created_at": "2026-08-08T02:49:55.867595+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-08-local-llm-gpu-comparison-guide-rtx-mac",
+    "title": "ローカルLLM環境の選び方比較！RTX 4090からMac Studioまで失敗しないVRAM投資術",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-comparison-guide-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "ローカルLLM環境の構築、VRAM 8GBや12GBで妥協すると数日で後悔します。DeepSeekやLlamaの70B級を実務で使うなら、VRAM 48GB（RTX 4090×2）かMacの128GB以上が最低ライン。推論速度ならNVIDIA、巨大モデルのロードならApple Silicon。初期投資30万は高いですが、API料金と開発の試行回数を考えれば半年で元が取れます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-08-local-llm-gpu-comparison-guide-rtx-mac.jpg",
+    "created_at": "2026-08-08T06:50:25.070330+09:00",
+    "posted": false
   }
 ]

@@ -1,36 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 31 Jul 2026 17:26:32 +0000",
-      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-08-01T03:21:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "TraceLLM",
-      "url": "https://www.producthunt.com/products/tracellm",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> OpenTelemetry for production AI applications </p> <p> <a href=\"https://www.producthunt.com/products/tracellm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1209887?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-01T03:21:03"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Everyone is building LLM routers, we deprecated ours",
       "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
@@ -1539,20 +1509,6 @@
       "collected_at": "2026-08-05T01:28:47"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Only 3 days ago...",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veqt03/only_3_days_ago/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-08-03T21:37:11+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1veqt03/only_3_days_ago/\"> <img alt=\"Only 3 days ago...\" src=\"https://preview.redd.it/ca91ww1jb8hh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aff991756245b499f8f55ac6133d39db7a2fb119\" title=\"Only 3 days ago...\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fun_Librarian_7699\"> /u/Fun_Librarian_7699 </a> <br /> <span><a href=\"https://i.redd.it/ca91ww1jb8hh1.png\">[link]</a></span> &#32; ",
-      "extra": {},
-      "collected_at": "2026-08-05T07:19:11"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
       "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
@@ -2812,7 +2768,69 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-08T02:49:28"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 07 Aug 2026 21:30:11 +0000",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-08T06:49:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Troopr AI Scrum Master",
+      "url": "https://www.producthunt.com/products/troopr",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Writes your standup from real work. Remembers your team. </p> <p> <a href=\"https://www.producthunt.com/products/troopr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1214599?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-08T06:49:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Reference",
+      "url": "https://www.producthunt.com/products/reference-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Local semantic search for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/reference-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1215309?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-08-08T06:49:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Progress AI Observability",
+      "url": "https://www.producthunt.com/products/progress-ai-observability",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Trace, evaluate, and improve AI agents in production </p> <p> <a href=\"https://www.producthunt.com/products/progress-ai-observability?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1215770?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-08-08T06:49:54"
     }
   ],
-  "updated_at": "2026-08-08T02:49:32.306753+09:00"
+  "updated_at": "2026-08-08T06:49:58.157075+09:00"
 }
