@@ -1,109 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLM",
-      "title": "Kimi K3 is the new crysis",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1vbamfz/kimi_k3_is_the_new_crysis/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-07-31T00:00:59+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLM/comments/1vbamfz/kimi_k3_is_the_new_crysis/\"> <img alt=\"Kimi K3 is the new crysis\" src=\"https://preview.redd.it/yf87hvhjhggh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8f62a34f4d6f40e97f4cacc458372251b43ea21\" title=\"Kimi K3 is the new crysis\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>When do you think we'll reach a stage where kimi k3 can run locally, fast. (Full)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a hr",
-      "extra": {},
-      "collected_at": "2026-07-31T17:53:02"
-    },
-    {
-      "source": "r/LocalLLM",
-      "title": "Kimi K3 is important for open-weight community because you can distill it to create more capable smaller 27B, 35B, 122B models",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1vbfso7/kimi_k3_is_important_for_openweight_community/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-07-31T03:55:43+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just like how Qwen 27B and 35B were created, they're distilled from Qwen Max, so I think the narrative of the community saying Kimi K3 is useless to us because we can't run it is overly biased, it has its use cases.</p> <p>Just wait for the community and rich solo LLM developers to cook from it, open-weight models will stay with us forever, unlike Cloud models they're gone if the company gone.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://ww",
-      "extra": {},
-      "collected_at": "2026-07-31T17:53:02"
-    },
-    {
-      "source": "r/LocalLLM",
-      "title": "Update: Full Kimi K3 now runs below 4 seconds/token on my M1 MacBook",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1vatx2e/update_full_kimi_k3_now_runs_below_4_secondstoken/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-07-30T13:38:08+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/gavamedia/deltafin\">https://github.com/gavamedia/deltafin</a></p> <p>To be clear: this is the <strong>full</strong>, unmodified 2.8T-parameter Kimi K3 model; <em>not</em> a distilled replacement or reduced-expert version. All 16 routed experts are active, and full K3 is the sole authority for every token.</p> <p>On my 64 GB M1 Max MacBook Pro, with the full model stored locally:</p> <ul> <li>The capital of France is — <strong>15.7 tok",
-      "extra": {},
-      "collected_at": "2026-07-31T17:53:02"
-    },
-    {
-      "source": "Google News",
-      "title": "中国軍関連機関、米ＡＩモデルを蒸留し防衛能力向上図る - ロイター",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aOWE4RmNuMjQ2QWoxVHM1cW9WX2NQRnQ2aXQ4Q05mVTZ5S2RRY0VNTHdoNHlSNG9ab2JKbVBkeWtFRHVYYkZ6eWZKZWU0NkdLZG1hUV9xZ2paQVhwZE5BRUxpWFJadVZhOG9NbG02aDNPZGkySDFsd0lB?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 31 Jul 2026 07:40:51 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5aOWE4RmNuMjQ2QWoxVHM1cW9WX2NQRnQ2aXQ4Q05mVTZ5S2RRY0VNTHdoNHlSNG9ab2JKbVBkeWtFRHVYYkZ6eWZKZWU0NkdLZG1hUV9xZ2paQVhwZE5BRUxpWFJadVZhOG9NbG02aDNPZGkySDFsd0lB?oc=5\" target=\"_blank\">中国軍関連機関、米ＡＩモデルを蒸留し防衛能力向上図る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-31T17:53:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Screencap",
-      "url": "https://www.producthunt.com/products/screencap",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn your team's real workflows into AI training data </p> <p> <a href=\"https://www.producthunt.com/products/screencap?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1208135?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-31T17:53:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Poth Labs",
-      "url": "https://www.producthunt.com/products/poth-labs",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The customer brain for your company </p> <p> <a href=\"https://www.producthunt.com/products/poth-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1209426?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-31T17:53:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "witr",
-      "url": "https://www.producthunt.com/products/witr",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Why is this running? Trace process, port, container or file </p> <p> <a href=\"https://www.producthunt.com/products/witr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1211309?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-07-31T17:53:04"
-    },
-    {
       "source": "Google News",
       "title": "AmazonでAIのコストが壊滅的なレベルでかさんで予算を860％も超過した事例が報告される、Amazonは「小規模なケースだし2億円は誤差」と反論 - GIGAZINE",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qRUIybWFBcmExWnBLbHJfWjQzR0tpaUt3RjU4X2FZOERSalB6RnhJcEduRjBtNl8ybjZsanB0Ql83V0VKTmZ5TVByX2NpdHlLMVRkNE81aTZxZUpPMHo0OW4wVDRGdw?oc=5",
@@ -2857,7 +2754,51 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-07T16:19:27"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "I won't read LLM authored fiction",
+      "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 07 Aug 2026 07:45:56 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-07T19:00:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mem0",
+      "url": "https://www.producthunt.com/products/mem0-5",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Persistent Memory Layer for AI Agents </p> <p> <a href=\"https://www.producthunt.com/products/mem0-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1216433?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-08-07T19:00:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "BAP Studio",
+      "url": "https://www.producthunt.com/products/bap-studio",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> An MPC-style drum machine that runs in a browser tab </p> <p> <a href=\"https://www.producthunt.com/products/bap-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1216882?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-07T19:00:53"
     }
   ],
-  "updated_at": "2026-08-07T16:19:30.833585+09:00"
+  "updated_at": "2026-08-07T19:00:56.413871+09:00"
 }
