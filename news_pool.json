@@ -1,50 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Everyone is building LLM routers, we deprecated ours",
-      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 31 Jul 2026 18:06:39 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-01T07:12:39"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "India is starting to pay for apps, not just download them",
-      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Fri, 31 Jul 2026 21:07:45 +0000",
-      "summary": "India's app market generated a record $345 million in Q2.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-01T07:12:49"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Customer.io Summer Release",
-      "url": "https://www.producthunt.com/products/customer-io",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> New ways to reach customers in the moments that matter </p> <p> <a href=\"https://www.producthunt.com/products/customer-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1204978?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-01T07:12:49"
-    },
-    {
       "source": "HN AI Companies",
       "title": "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
       "url": "https://asymco.com/2026/07/31/apple-will-watch-everything-burn-when-ai-bubble-bursts/",
@@ -1214,20 +1170,6 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-04T07:14:11"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Setting up of a 16xGB10 (DGX Spark) cluster",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdcgpm/setting_up_of_a_16xgb10_dgx_spark_cluster/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-08-02T08:22:40+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vdcgpm/setting_up_of_a_16xgb10_dgx_spark_cluster/\"> <img alt=\"Setting up of a 16xGB10 (DGX Spark) cluster\" src=\"https://preview.redd.it/scbp2lcv8xgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5cbcf90255d55037dec7fdfe434e058ab0c14fa\" title=\"Setting up of a 16xGB10 (DGX Spark) cluster\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Preparing this to be able to run locally frontier level open models. Deepseek v4 p",
-      "extra": {},
-      "collected_at": "2026-08-04T12:21:44"
     },
     {
       "source": "TechCrunch AI",
@@ -2830,7 +2772,38 @@
         "revenue_score": 6
       },
       "collected_at": "2026-08-08T06:49:54"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 07 Aug 2026 22:48:24 +0000",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-08T11:04:43"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Orite",
+      "url": "https://www.producthunt.com/products/orite",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Give your AI Agent money. Not a blank check. </p> <p> <a href=\"https://www.producthunt.com/products/orite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1192888?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-08-08T11:04:44"
     }
   ],
-  "updated_at": "2026-08-08T06:49:58.157075+09:00"
+  "updated_at": "2026-08-08T11:04:47.769284+09:00"
 }

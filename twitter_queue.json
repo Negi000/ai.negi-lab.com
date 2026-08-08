@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-08-08-local-llm-gpu-comparison-guide-rtx-mac.jpg",
     "created_at": "2026-08-08T06:50:25.070330+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-08-ollama-openwebui-local-llm-guide",
+    "title": "OllamaとOpen WebUIで自分専用のローカルLLM環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLM環境はOllamaとOpen WebUIの組み合わせが最適解。RTX 3060なら5万円台でChatGPT並みのUIが手に入り、データ漏洩リスクはゼロ。RAGも標準装備で社内文書の検索も爆速。一度組めばAPI代を気にせず24時間回し放題。実務で使い倒すための環境構築手順をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-08-ollama-openwebui-local-llm-guide.jpg",
+    "created_at": "2026-08-08T11:05:07.991413+09:00",
+    "posted": false
   }
 ]
