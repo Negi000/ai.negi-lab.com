@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-08-08-nitro-4-human-translation-api-review.jpg",
     "created_at": "2026-08-08T13:18:19.728083+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-08-mlx-apple-silicon-local-llm-tutorial",
+    "title": "Apple SiliconでLLMを爆速動作させるMLX入門と実践ガイド",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "Apple Siliconの真価はMLXで決まる。M2 MaxでLlama 3 8Bを動かした結果、毎秒50トークン超え。クラウド経由より速い。メモリ32GB以上あればローカルLLMは実務のメイン武器になります。API代も機密漏洩の心配もゼロ。Macユーザーがこの環境を構築しない手はありません。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-08-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-08-08T15:57:37.914999+09:00",
+    "posted": false
   }
 ]
