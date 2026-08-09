@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-08-09-local-llm-gpu-buying-guide-rtx-4090-4060ti.jpg",
     "created_at": "2026-08-09T06:40:17.613357+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-09-ollama-openwebui-local-llm-tutorial",
+    "title": "OllamaとOpen WebUIで自分専用のローカルLLM環境を作る方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "VRAM 8GB以上のPCを持ってるなら、今すぐOllama + Open WebUIでローカルLLM環境を組むべき。外部API一切なし、プライバシー100%保護でChatGPT並のUIが手に入る。RTX 4060 Ti 16GBなら、実務レベルのLlama 3.1が爆速で動く。API課金を気にせず数万行のコードを流し込める快感は、一度味わうと戻れない。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-09-ollama-openwebui-local-llm-tutorial.jpg",
+    "created_at": "2026-08-09T11:12:37.934210+09:00",
+    "posted": false
   }
 ]
