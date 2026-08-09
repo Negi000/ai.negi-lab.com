@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-10-deepseek-v4-local-llm-gpu-guide-24gb-vram.jpg",
     "created_at": "2026-08-10T02:32:09.171756+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-10-code-graph-rag-hardware-guide-rtx-mac",
+    "title": "巨大コード解析の決定版「code-graph-rag」導入ガイド｜ローカルLLM環境のVRAM選びとおすすめPCスペック比較",
+    "url": "https://ai.negi-lab.com/posts/code-graph-rag-hardware-guide-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #エンジニア",
+    "tweet_text": "巨大なコード解析に挑むなら、Vector RAGを超えた「code-graph-rag」が熱い。ただしVRAM消費はえげつない。実務で使うならRTX 4060 Ti 16GBが最低ライン。理想はRTX 4090の24GB。Mac派ならメモリ64GB以上を確保しないと解析待ちで日が暮れる。失敗しないためのVRAM選びと、楽天・Amazonで狙うべき型番をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-10-code-graph-rag-hardware-guide-rtx-mac.jpg",
+    "created_at": "2026-08-10T06:43:20.264365+09:00",
+    "posted": false
   }
 ]

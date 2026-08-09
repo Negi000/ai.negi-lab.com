@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "Pushes to arch AUR are suspendended right now.",
-      "url": "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/message/YPJ3FQYJTJXXY3RUXCYLMHUKHLIUNVFF/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 02 Aug 2026 17:03:02 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-03T03:00:42"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-      "url": "https://website-auditor.io/ai-visibility-index",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 02 Aug 2026 11:53:52 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-03T03:00:42"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Don't credit the LLM",
-      "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 02 Aug 2026 04:07:46 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-03T03:00:42"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Zen Whisper",
-      "url": "https://www.producthunt.com/products/zen-whisper",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> On-device Mac dictation that types into any app </p> <p> <a href=\"https://www.producthunt.com/products/zen-whisper?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1211693?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-03T03:00:43"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Sam Altman and AI’s decel debate",
       "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
@@ -472,21 +418,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1veipya/the_chinese_labs_everyone_lumps_together_are/\"> <img alt=\"The Chinese labs everyone lumps together are making four pretty different bets. I work at one of them.\" src=\"https://preview.redd.it/rlclj3bxu6hh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a538cc55b56a31afb0a5b56be59c05300eff072\" title=\"The Chinese labs everyone lumps together are making four pretty different bets. I work at one of them.\" /> </a> </td><",
       "extra": {
         "revenue_score": 4
-      },
-      "collected_at": "2026-08-04T03:51:05"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I CANNOT believe I've got DeepSeek-V4-Flash-0731, a frontier model, running on my home PC. Insane!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vehn87/i_cannot_believe_ive_got_deepseekv4flash0731_a/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-08-03T16:04:04+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So this is the stuff of absolute insanity. In less than 20 months we've gone from super expensive cloud models only, to being able to run a Q3 quant of DeepSeek on an Intel Windows PC with a very average 24GB of VRAM. No wonder the big boys are panicking (and yes it's slow as porridge). <a href=\"https://ibb.co/zTvqR8YR\">https://ibb.co/zTvqR8YR</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mintybadgerme\"> /u/mintybadge",
-      "extra": {
-        "revenue_score": 8
       },
       "collected_at": "2026-08-04T03:51:05"
     },
@@ -2647,7 +2578,102 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-10T02:31:34"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 09 Aug 2026 20:35:17 +0000",
+      "summary": "The AI-focused hedge fund is still making some big bets.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-10T06:41:55"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ConferenceGrid",
+      "url": "https://www.producthunt.com/products/conferencegrid",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Conference database for B2B teams </p> <p> <a href=\"https://www.producthunt.com/products/conferencegrid?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1213905?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-10T06:41:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Good Assistant 2",
+      "url": "https://www.producthunt.com/products/good-assistant",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn life goals into daily progress. </p> <p> <a href=\"https://www.producthunt.com/products/good-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1218012?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-10T06:41:56"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Speculative decoding in a tools call",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjxhof/speculative_decoding_in_a_tools_call/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-08-09T18:34:14+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjxhof/speculative_decoding_in_a_tools_call/\"> <img alt=\"Speculative decoding in a tools call\" src=\"https://preview.redd.it/n62orc2d8eih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0b1264224c87bc4a007bddcaabd1f0cfc7b3ab40\" title=\"Speculative decoding in a tools call\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>paper : <a href=\"https://arxiv.org/html/2608.00814v1\">https://arxiv.org/html/2608.00814v1</a></p> <p>",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-08-10T06:42:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The Gemma team will host a special event on August 20",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk0o98/the_gemma_team_will_host_a_special_event_on/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-08-09T20:40:08+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Tweet by <a href=\"/u/hackerllama\">u/hackerllama</a></p> <p>Could be copium, but I would love to see Gemma 4.1 there with unified audio input for all model sizes perhaps even up to 120B, much improved tool calling (even with the latest template there are still <a href=\"https://huggingface.co/google/gemma-4-26B-A4B-it/discussions/15#6a5e4c20aefc269fdb459420\">bugs</a>), <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vhw4f5/gemma_4_qat_could_be_improved_furt",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-08-10T06:42:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Lophius: A workbench for language model research, from the creator of Heretic",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjt4vi/lophius_a_workbench_for_language_model_research/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-08-09T15:43:17+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjt4vi/lophius_a_workbench_for_language_model_research/\"> <img alt=\"Lophius: A workbench for language model research, from the creator of Heretic\" src=\"https://preview.redd.it/1d4eyj6ycdih1.png?width=140&amp;height=98&amp;auto=webp&amp;s=9078863e06994f561c92b1d7714b5ca0fd030472\" title=\"Lophius: A workbench for language model research, from the creator of Heretic\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi folks, ",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-08-10T06:42:00"
     }
   ],
-  "updated_at": "2026-08-10T02:31:38.259796+09:00"
+  "updated_at": "2026-08-10T06:42:00.824456+09:00"
 }
