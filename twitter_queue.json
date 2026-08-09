@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-09-hexis-git-backed-ai-agent-skills-review.jpg",
     "created_at": "2026-08-09T13:25:40.842138+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-09-apple-silicon-mlx-local-llm-tutorial",
+    "title": "MLX入門：Apple SiliconでローカルLLMを爆速で動かす方法",
+    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "Apple Silicon Macを所有しているなら、LLMをクラウドで叩くのはもったいない。MLXを使えばLlama-3-8Bが爆速で動きます。ユニファイドメモリの恩恵をフルに受けるので、4bit量子化なら16GBメモリでも十分実用圏内。Pythonで数行書くだけで自分専用のオフラインAI環境が作れる手順をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-09-apple-silicon-mlx-local-llm-tutorial.jpg",
+    "created_at": "2026-08-09T16:01:09.133086+09:00",
+    "posted": false
   }
 ]

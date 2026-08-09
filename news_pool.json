@@ -1,33 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Local Ollama models",
-      "url": "https://www.reddit.com/r/ollama/comments/1vcqc0x/local_ollama_models/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-08-01T15:29:29+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello all - i just got a new mac mini with 24GB of RAM and wanting to run local AI for Home Assistant and Hermes. I have been struggling to find a snapy model that will work with my machine. Currently trying qwen3:14b and qwen3:b and both have been painfully slow and not usable. What local models are people using ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Careful_Cat1323\"> /u/Careful_Cat1323 </a> <br /> <span><a href",
-      "extra": {},
-      "collected_at": "2026-08-02T15:10:02"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Model recommendation",
-      "url": "https://www.reddit.com/r/ollama/comments/1vcvpxa/model_recommendation/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-08-01T19:04:45+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I have a mini pc with sapphire 7800xt, CORSAIR Vengeance DDR5 RAM 32GB (2x16GB) Up to 6000MHz ,GIGABYTE B650I AORUS Ultra AMD AM5 ITX Motherboard, AMD Ryzen 7 7800X3D 8-Core, 16-Thread Desktop Processor, Samsung 2TB ssd. What is the best language modle to run my own trading bots </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Killz4Glory\"> /u/Killz4Glory </a> <br /> <span><a href=\"https://www.reddit.com/r/ollama/comments/1",
-      "extra": {},
-      "collected_at": "2026-08-02T15:10:02"
-    },
-    {
       "source": "Product Hunt",
       "title": "YourSitee",
       "url": "https://www.producthunt.com/products/yoursitee",
@@ -2425,22 +2398,6 @@
       "collected_at": "2026-08-08T21:56:30"
     },
     {
-      "source": "Product Hunt",
-      "title": "Hexis",
-      "url": "https://www.producthunt.com/products/bevel-4",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Git-backed skills, tools & context for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/bevel-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1213979?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-08-08T21:56:31"
-    },
-    {
       "source": "Google News",
       "title": "いまさら聞けない!? 知っておくべきAIの基礎用語33選 - WIRED.jp",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HOUNXVi05ZmYtbnZUeVdDblJ0NDFsYTN6ZjZvRE9vVHVBY1UydHZrYkFyMTdtWE54dXMzQTNZWGxRdnNCVXN2MlpHOGdmN0w2cVFBLXdYVzB4UXdvQV9zWG00QW00ckhkcHlDZg?oc=5",
@@ -2556,7 +2513,66 @@
         "revenue_score": 8
       },
       "collected_at": "2026-08-09T13:25:17"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Quick survey (2 min) on trust in hardware specs for open-source models",
+      "url": "https://www.reddit.com/r/ollama/comments/1vj08k3/quick_survey_2_min_on_trust_in_hardware_specs_for/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-08-08T16:24:29+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I'm a systems analysis student researching a problem a lot of you probably know well: how much you actually trust the published VRAM/RAM requirements for open-source models before trying to run them locally.</p> <p>This is for an academic project (not selling anything, no emails collected). The survey is anonymous and takes 2 minutes: <a href=\"https://forms.gle/nmY6cBSz6Cirq2S19\">https://forms.gle/nmY6cBSz6Cirq2S19</a></p> <p>If you've got 2 ",
+      "extra": {},
+      "collected_at": "2026-08-09T16:00:02"
+    },
+    {
+      "source": "r/ollama",
+      "title": "M3 16GB running Ollama (Qwen 9B) is extremely slow (10-12 mins per task). Am I doing something wrong?",
+      "url": "https://www.reddit.com/r/ollama/comments/1vjfmyr/m3_16gb_running_ollama_qwen_9b_is_extremely_slow/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-08-09T03:56:36+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I constantly see high praise for M3 and M4 Macs for local LLM inference, even the base/16GB models. However, my experience has been quite different, and I'm trying to figure out if I have a misconfiguration.</p> <p>I have an M3 Mac with 16GB of RAM. I'm using Ollama to run <code>qwen:9b</code> for some basic &quot;second brain&quot; tasks (specifically using Codex or Claude Code integrated with my Obsidian vault).</p> <p><strong>The issue:</",
+      "extra": {},
+      "collected_at": "2026-08-09T16:00:02"
+    },
+    {
+      "source": "r/ollama",
+      "title": "I Turned My Underused Gaming Laptop Into a Local AI Workstation",
+      "url": "https://www.reddit.com/r/ollama/comments/1vje2u8/i_turned_my_underused_gaming_laptop_into_a_local/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-08-09T02:35:45+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>TL;DR:<br /> I am building a Windows-first local AI setup for people who want to try local LLMs without spending days choosing models, setting up Ollama, Docker, WSL, Open WebUI, agents, and tool permissions separately.</p> <p>Give it a try:</p> <ul> <li><a href=\"https://github.com/divps0308/dsalgo-local-ai-setup-public/releases/download/v1.0.4/DSAlgo-Local-AI-Setup-v1.0.4.zip\"><strong>Download the installer</strong></a></li> <li><a href=\"https://github.com/divp",
+      "extra": {},
+      "collected_at": "2026-08-09T16:00:02"
+    },
+    {
+      "source": "Google News",
+      "title": "米政権、AIの「ハッキング能力」を測る自主テストの枠組みを決定 AI企業の相次ぐ実験結果公表が背中を押した - 株式会社アクト",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sVGdvTnZXcXdLMnZiTnM5WDlwRENudWVsbms4V1JmZnB6VW95TDBibV9PenZVS0FPTDhrWHMzUkhLSWwyYTFabg?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Thu, 06 Aug 2026 00:51:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sVGdvTnZXcXdLMnZiTnM5WDlwRENudWVsbms4V1JmZnB6VW95TDBibV9PenZVS0FPTDhrWHMzUkhLSWwyYTFabg?oc=5\" target=\"_blank\">米政権、AIの「ハッキング能力」を測る自主テストの枠組みを決定 AI企業の相次ぐ実験結果公表が背中を押した</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株式会社アクト</font>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-09T16:00:04"
     }
   ],
-  "updated_at": "2026-08-09T13:25:17.786833+09:00"
+  "updated_at": "2026-08-09T16:00:08.142607+09:00"
 }
