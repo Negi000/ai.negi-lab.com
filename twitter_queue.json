@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-08-ollama-openwebui-local-llm-guide",
-    "title": "OllamaとOpen WebUIで自分専用のローカルLLM環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "ローカルLLM環境はOllamaとOpen WebUIの組み合わせが最適解。RTX 3060なら5万円台でChatGPT並みのUIが手に入り、データ漏洩リスクはゼロ。RAGも標準装備で社内文書の検索も爆速。一度組めばAPI代を気にせず24時間回し放題。実務で使い倒すための環境構築手順をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-08-ollama-openwebui-local-llm-guide.jpg",
-    "created_at": "2026-08-08T11:05:07.991413+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-08-nitro-4-human-translation-api-review",
-    "title": "Nitro 4.0 レビュー：AIエージェントの「最後の一線」を人間が守る翻訳APIの実力",
-    "url": "https://ai.negi-lab.com/posts/nitro-4-human-translation-api-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #ローカライズ",
-    "tweet_text": "AIエージェントに「人間」を組み込むNitro 4.0が面白い。API経由でプロの翻訳者をサブルーチンのように呼び出せる。LLMのハルシネーションを、最後は人間の目で見極めるワークフロー。速度のAIと、精度の人間をどう接続するか。グローバル展開を狙うエンジニアは、この「人間サブルーチン」の設計が必須スキルになる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-08-nitro-4-human-translation-api-review.jpg",
-    "created_at": "2026-08-08T13:18:19.728083+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-08-mlx-apple-silicon-local-llm-tutorial",
     "title": "Apple SiliconでLLMを爆速動作させるMLX入門と実践ガイド",
     "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
