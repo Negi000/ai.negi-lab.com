@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-09-ollama-openwebui-local-llm-tutorial.jpg",
     "created_at": "2026-08-09T11:12:37.934210+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-09-hexis-git-backed-ai-agent-skills-review",
+    "title": "Hexis レビュー Git管理でAIエージェントのスキルを堅牢にする",
+    "url": "https://ai.negi-lab.com/posts/hexis-git-backed-ai-agent-skills-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #GitHub",
+    "tweet_text": "AIエージェントのスキルやツールをGitで管理する「Hexis」が実用的。\nプロンプトや関数定義をコードから切り離し、Gitリポジトリと同期させることで、本番環境での挙動のズレを完全に防げる。\n単なる実験用ツールではなく、本番システムとしてエージェントを運用したいエンジニアには必須の管理基盤。ブランチ戦略でスキルの検証ができるのが強い。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-09-hexis-git-backed-ai-agent-skills-review.jpg",
+    "created_at": "2026-08-09T13:25:40.842138+09:00",
+    "posted": false
   }
 ]

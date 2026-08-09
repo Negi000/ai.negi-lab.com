@@ -1,37 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "AgentMicro",
-      "url": "https://www.producthunt.com/products/agentmicro",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Live Codex task status in your macOS menu bar </p> <p> <a href=\"https://www.producthunt.com/products/agentmicro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1211380?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-02T12:35:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Terminal Candy",
-      "url": "https://www.producthunt.com/products/terminal-candy",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A native macOS terminal you can skin and theme </p> <p> <a href=\"https://www.producthunt.com/products/terminal-candy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1200935?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-02T12:35:39"
-    },
-    {
       "source": "r/ollama",
       "title": "Local Ollama models",
       "url": "https://www.reddit.com/r/ollama/comments/1vcqc0x/local_ollama_models/",
@@ -2539,7 +2508,55 @@
       "summary": "",
       "extra": {},
       "collected_at": "2026-08-09T11:12:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "RTX 5090 96GB spotted on Alibaba?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjcljq/rtx_5090_96gb_spotted_on_alibaba/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-08-09T01:20:24+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjcljq/rtx_5090_96gb_spotted_on_alibaba/\"> <img alt=\"RTX 5090 96GB spotted on Alibaba?\" src=\"https://preview.redd.it/rzunb9uu39ih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a871629ca059e9bc1e608f1db7ec33ef070cdc9\" title=\"RTX 5090 96GB spotted on Alibaba?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/panchovix\"> /u/panchovix </a> <br /> <span><a href=\"https://i.redd.it/rzunb9uu39ih1.",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-08-09T13:25:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Kimi K3 (Unsloth) IQ2-XXS from 711GB down to 478GB!!! Only Multi-language was removed to trim the size",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjanps/kimi_k3_unsloth_iq2xxs_from_711gb_down_to_478gb/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-08-08T23:47:19+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Firstly a big thanks to the poster &quot;hellohazine&quot;, he basically only removed the multi-lingual fat of the model and just kept the English language intact. It is the exact model, and the rest of the model still intact with all of its high intelligence.</p> <p>I think that was a brilliant move, and more of these approaches should be made on new model to help reduce size. 3.8 Qwen MAX next week anyone?</p> <p>Think about how much you could trim out on Deep",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-08-09T13:25:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "No wonder Qwen and Gemma are so different",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjb15v/no_wonder_qwen_and_gemma_are_so_different/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "2026-08-09T00:04:15+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Pasted the same HTML/JS code (330 lines) into Qwen 35B A3B and Gemma 26B A4B.</p> <p>Qwen: tokenized the input to 1609 tokens</p> <p>Gemma: tokenized the input to 4258 tokens.</p> <p>Damn. I've never noticed this before and I haven't seen people mention it. That alone helps explain why Qwen is regarded as better at coding and Gemma at language tasks.</p> <p>Qwen can literally see the code as some specific form of input/output, while Gemma is breaking it down int",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-08-09T13:25:17"
     }
   ],
-  "updated_at": "2026-08-09T11:12:14.913000+09:00"
+  "updated_at": "2026-08-09T13:25:17.786833+09:00"
 }
