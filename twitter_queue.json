@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-10-ollama-open-webui-local-llm-tutorial.jpg",
     "created_at": "2026-08-10T16:46:07.244324+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-10-google-deepmind-weathernext-review-usage",
+    "title": "google-deepmind/weathernext 使い方と気象予測AIの実力",
+    "url": "https://ai.negi-lab.com/posts/google-deepmind-weathernext-review-usage/",
+    "category": "TOOL",
+    "viral_tags": "#weathernext #DeepMind",
+    "tweet_text": "DeepMindの気象予測AI「weathernext」を検証。従来の物理シミュで数時間かかる計算が、GPU推論なら1分以内で終わる衝撃。RTX 4090（VRAM 24GB）で動くが、ERA5データの準備に数TBのSSDが必須なのが最大の壁。気象ビジネスを変えるポテンシャルはあるが、導入ハードルは極めて高い。本気でやるなら4TB以上のNVMeを積むべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-10-google-deepmind-weathernext-review-usage.jpg",
+    "created_at": "2026-08-10T19:16:17.790654+09:00",
+    "posted": false
   }
 ]
