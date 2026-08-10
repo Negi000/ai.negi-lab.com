@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-09-local-llm-gpu-buying-guide-rtx-4090-4060ti",
-    "title": "ローカルLLM環境の選び方｜情報漏洩を防ぎ業務でAIを使い倒すためのGPU比較とおすすめ構成",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-rtx-4090-4060ti/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "no-replyメールの返信が筒抜けだったニュース、他人事じゃない。クラウドAIに機密情報を投げるリスクも構造は同じ。\n\nエンジニアが身を守るなら、VRAM 16GB以上のGPUを積んだ「ローカルLLM」環境が唯一の解。\n\n・予算重視：RTX 4060 Ti 16GB\n・実力派：RTX 4090 24GB\n・静音：Mac 64GB\n\nVRAM不足のグラボを買うと後悔する。選定基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-09-local-llm-gpu-buying-guide-rtx-4090-4060ti.jpg",
-    "created_at": "2026-08-09T06:40:17.613357+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-09-ollama-openwebui-local-llm-tutorial",
     "title": "OllamaとOpen WebUIで自分専用のローカルLLM環境を作る方法",
     "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-tutorial/",
