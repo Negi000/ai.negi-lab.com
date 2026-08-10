@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Congress’s favorite AI tool? ChatGPT",
-      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Mon, 03 Aug 2026 16:40:55 +0000",
-      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-04T01:57:47"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "MacDupl",
-      "url": "https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Clone any Mac app into a fully isolated instance </p> <p> <a href=\"https://www.producthunt.com/products/macdupl-run-every-acc-in-its-own-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1213078?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-04T01:57:48"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Murmell",
-      "url": "https://www.producthunt.com/products/murmell",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Cloud canvas where your team and AI agents works together </p> <p> <a href=\"https://www.producthunt.com/products/murmell?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1213367?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-08-04T01:57:48"
-    },
-    {
       "source": "HN AI Hot",
       "title": "SQLite Critical CVEs or LLM Slop?",
       "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
@@ -2660,7 +2614,67 @@
         "revenue_score": 3
       },
       "collected_at": "2026-08-11T00:33:11"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 10 Aug 2026 16:20:13 +0000",
+      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-11T02:51:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "SecondBrain Note by GenSpark",
+      "url": "https://www.producthunt.com/products/genspark",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A MagSafe AI Recorder That Acts for You </p> <p> <a href=\"https://www.producthunt.com/products/genspark?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1218939?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-11T02:51:49"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "oqoqo",
+      "url": "https://www.producthunt.com/products/oqoqo",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build evals and custom benchmarks for real-world tasks </p> <p> <a href=\"https://www.producthunt.com/products/oqoqo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1199424?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-08-11T02:51:49"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Remix",
+      "url": "https://www.producthunt.com/products/remix-8",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Figma, but on your production app. Test variants and ship. </p> <p> <a href=\"https://www.producthunt.com/products/remix-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1216148?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-11T02:51:49"
     }
   ],
-  "updated_at": "2026-08-11T00:33:15.226846+09:00"
+  "updated_at": "2026-08-11T02:51:52.437097+09:00"
 }

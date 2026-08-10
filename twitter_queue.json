@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-08-10-ai-alignment-ethics-implementation-guide.jpg",
     "created_at": "2026-08-10T22:18:21.775600+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-11-muse-glimmer-local-agent-gpu-comparison",
+    "title": "ローカルAIエージェント特化モデルMuse GlimmerおすすめPC構成と比較",
+    "url": "https://ai.negi-lab.com/posts/muse-glimmer-local-agent-gpu-comparison/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #AIエージェント",
+    "tweet_text": "常時稼働AIエージェントに特化したMuse Glimmerが登場。ローカルで24時間動かすならVRAM 16GBが最低ライン。8GBだとコンテキストが膨らんだ瞬間にOOMで死にます。コスパならRTX 4060 Ti 16GB、静音と省電力ならMac Studio。実務で使うなら「推論速度」より「メモリの余裕」が成否を分ける。買う前にVRAM容量だけは妥協しちゃダメ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-11-muse-glimmer-local-agent-gpu-comparison.jpg",
+    "created_at": "2026-08-11T02:52:16.692229+09:00",
+    "posted": false
   }
 ]
