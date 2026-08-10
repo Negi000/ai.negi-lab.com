@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Sam Altman and AI’s decel debate",
-      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 02 Aug 2026 20:54:22 +0000",
-      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-03T07:03:38"
-    },
-    {
       "source": "HN AI Companies",
       "title": "AI poster wins Ohio State Fair contest",
       "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
@@ -2430,21 +2415,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "vitali87/code-graph-rag",
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-      "extra": {
-        "stars_today": "59 stars today"
-      },
-      "collected_at": "2026-08-09T21:59:14"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "google-deepmind/weathernext",
       "url": "https://github.com/google-deepmind/weathernext",
       "primary_category": "TOOL",
@@ -2673,7 +2643,67 @@
         "revenue_score": 4
       },
       "collected_at": "2026-08-10T06:42:00"
+    },
+    {
+      "source": "Google News",
+      "title": "「人間はAIを正しい方向へ導けるか」人工知能の危険性を早くから予測していたフリン・コールマンさんにインタビュー - Precious.jp",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iX2xoYmlkQ0lMVXQ2cldDbXRQR3JFTFJzcHZfb1dETGh5aEtwQ2FMY25GdVJTNEViNzZoM3FlTzB4aHl5MGxWTHdvRnE?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 09 Aug 2026 23:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9iX2xoYmlkQ0lMVXQ2cldDbXRQR3JFTFJzcHZfb1dETGh5aEtwQ2FMY25GdVJTNEViNzZoM3FlTzB4aHl5MGxWTHdvRnE?oc=5\" target=\"_blank\">「人間はAIを正しい方向へ導けるか」人工知能の危険性を早くから予測していたフリン・コールマンさんにインタビュー</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Precious.jp</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-10T11:21:42"
+    },
+    {
+      "source": "Google News",
+      "title": "中国Ｍａｃユーザー、アリババのＡＩ「Ｑｗｅｎ」接続可能に - ロイター",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VczRERzFYa01VZ2tjbWx1UFN3T1JYOHpTQ2w4X25IWUxGQWh5M29lZmFtSjRpTE16WklKRXlBUkxBWkZVSEg5NGp2V0Z4NGhad1ppdExWdTUyYzFVYmdYbHg3NjZGZFlfMGN4VW5DX3Q5eThGZkE?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 10 Aug 2026 00:29:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5VczRERzFYa01VZ2tjbWx1UFN3T1JYOHpTQ2w4X25IWUxGQWh5M29lZmFtSjRpTE16WklKRXlBUkxBWkZVSEg5NGp2V0Z4NGhad1ppdExWdTUyYzFVYmdYbHg3NjZGZFlfMGN4VW5DX3Q5eThGZkE?oc=5\" target=\"_blank\">中国Ｍａｃユーザー、アリババのＡＩ「Ｑｗｅｎ」接続可能に</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-10T11:21:42"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "VoiceOS App Store",
+      "url": "https://www.producthunt.com/products/voiceos",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The app store for voice native apps that lives in your notch </p> <p> <a href=\"https://www.producthunt.com/products/voiceos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1218300?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-08-10T11:21:42"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "DocsAlot CLI",
+      "url": "https://www.producthunt.com/products/docsalot-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Let Claude or Codex create and maintain good looking docs </p> <p> <a href=\"https://www.producthunt.com/products/docsalot-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1217602?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-10T11:21:42"
     }
   ],
-  "updated_at": "2026-08-10T06:42:00.824456+09:00"
+  "updated_at": "2026-08-10T11:21:46.251568+09:00"
 }
