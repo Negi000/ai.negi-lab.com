@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-10-mlx-apple-silicon-local-llm-guide",
-    "title": "MLX 使い方 入門 Apple Silicon MacでローカルLLMを動かす方法",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "Apple Silicon Macを最強のAI開発機に変える「MLX」の導入手順をまとめました。\nM2 Max実機でLlama 3 8Bが秒間50トークン超え。クラウドAPIが不要になるレベルの爆速環境が、Python数行で手に入ります。\nメモリ16GB以上あれば、今すぐローカルLLMの恩恵を受けられる。開発者ならOllamaの先へ行きましょう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-10-mlx-apple-silicon-local-llm-guide.jpg",
-    "created_at": "2026-08-10T11:22:09.015357+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-10-agentconnect-ai-agent-integration-review",
-    "title": "AgentConnect 使い方と実務活用のレビュー",
-    "url": "https://ai.negi-lab.com/posts/agentconnect-ai-agent-integration-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #LLMOps",
-    "tweet_text": "AIエージェントを作っても、結局「使いにくいUI」が普及の壁になる。AgentConnectを使えば、自作エージェントをSlackやブラウザに@メンション一つで統合可能。SDKで各プラットフォームの差異を吸収できるのが強い。複数エージェントの断片化に悩むチームは、自作UIを捨てる決断ができるレベル。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-10-agentconnect-ai-agent-integration-review.jpg",
-    "created_at": "2026-08-10T13:47:48.996095+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-10-ollama-open-webui-local-llm-tutorial",
     "title": "OllamaとOpen WebUIで自分専用の機密情報漏洩ゼロなChatGPT環境を構築する方法",
     "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-tutorial/",
