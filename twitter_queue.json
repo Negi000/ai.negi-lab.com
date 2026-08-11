@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-08-11-spotify-ai-persona-label-exclusion-recommendations.jpg",
     "created_at": "2026-08-11T22:15:06.376679+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-12-macos-vm-gpu-passthrough-llama-cpp-guide",
+    "title": "ローカルLLM用Macの選び方と買い方：VM高速化で変わるAI開発の結論",
+    "url": "https://ai.negi-lab.com/posts/macos-vm-gpu-passthrough-llama-cpp-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #MacBookPro",
+    "tweet_text": "MacのVM上でLLM推論が11〜16倍速くなる激アツな検証結果。今まで「開発環境を汚したくないけどVMだと遅い」と悩んでた層には神アプデです。\n\nローカルLLMを仕事で使うなら、チップの世代より「メモリ容量」こそが正義。32GBは入門、実務なら64GB以上が鉄則。Apple Siliconの統一メモリをVRAMとして使い倒すのが一番安上がりな投資になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-12-macos-vm-gpu-passthrough-llama-cpp-guide.jpg",
+    "created_at": "2026-08-12T02:56:59.106448+09:00",
+    "posted": false
   }
 ]
