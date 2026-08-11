@@ -2,91 +2,6 @@
   "items": [
     {
       "source": "HN Local AI",
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 04 Aug 2026 12:01:02 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-04T23:26:20"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
-      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 04 Aug 2026 10:59:08 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-04T23:26:20"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
-      "url": "https://learning-rust.github.io",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "Tue, 04 Aug 2026 10:03:46 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-04T23:26:20"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 04 Aug 2026 14:03:01 +0000",
-      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-04T23:26:29"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Dashi Metrics",
-      "url": "https://www.producthunt.com/products/dashi-metrics",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Visualize your revenue on a 3D globe </p> <p> <a href=\"https://www.producthunt.com/products/dashi-metrics?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1210501?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-04T23:26:30"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "SpeakoFlow",
-      "url": "https://www.producthunt.com/products/speakoflow",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open-source local voice assistant for your desktop </p> <p> <a href=\"https://www.producthunt.com/products/speakoflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1213586?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-04T23:26:30"
-    },
-    {
-      "source": "HN Local AI",
       "title": "FFmpeg 9.0",
       "url": "https://jbkempf.com/blog/2026/ffmpeg-9.0/",
       "primary_category": "NEWS",
@@ -2533,21 +2448,6 @@
       "collected_at": "2026-08-11T22:14:39"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
-      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 11 Aug 2026 13:00:00 +0000",
-      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-11T22:14:40"
-    },
-    {
       "source": "Google News",
       "title": "オープンソースAIを通じた非対称浸透戦略と国家安全保障：日本の「物理AI・標準化戦略」の構造的死角と重要インフラ防御策 - note",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lZHZkbDBpd2RPS2E0cVVfQ0lLQkVORkNTX3dyMjRxenNjcEJUWU56b1phXzQ5U1BOQXNLbkI3Sm1sbnR0bVBOVlZNUGI2UEtPX2xr?oc=5",
@@ -2608,7 +2508,62 @@
         "revenue_score": 2
       },
       "collected_at": "2026-08-11T22:14:41"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "Tue, 11 Aug 2026 14:50:33 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-12T00:32:30"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Nvidia Nemotron 3.5 Lightning",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Tue, 11 Aug 2026 13:26:02 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-12T00:32:30"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Tue, 11 Aug 2026 13:22:00 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-12T00:32:30"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 11 Aug 2026 12:13:47 +0000",
+      "summary": "Anthropic will extend support for watermarking AI generations for older models as well.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-12T00:32:32"
     }
   ],
-  "updated_at": "2026-08-11T22:14:45.022756+09:00"
+  "updated_at": "2026-08-12T00:32:36.736614+09:00"
 }
