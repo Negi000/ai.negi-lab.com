@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-11-semantica-agi-graph-native-ai-infrastructure.jpg",
     "created_at": "2026-08-11T13:36:05.141542+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-11-qwen-25-27b-local-llm-python-guide",
+    "title": "Qwen 2.5 27B 使い方 | 16GB以上のVRAMを使い切るローカルLLM構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/qwen-25-27b-local-llm-python-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "Qwen 2.5の27Bモデルは、VRAM 16GB〜24GBを持つ個人開発者にとって「正解」の一枚になる。70Bは重すぎるが8Bでは物足りない、そんな層の悩みを一掃する推論精度。Ollamaを使えば数分でPython環境に組み込める。4bit量子化ならRTX 4060 Ti 16GBでも実用速度。AIをローカルで飼い慣らす時代の幕開け。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-11-qwen-25-27b-local-llm-python-guide.jpg",
+    "created_at": "2026-08-11T16:12:29.136962+09:00",
+    "posted": false
   }
 ]
