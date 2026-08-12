@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-13-local-llm-qwen-hardware-guide-rtx-mac.jpg",
     "created_at": "2026-08-13T02:56:47.828017+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-13-qwen3-8-95b-local-llm-hardware-guide",
+    "title": "ローカルLLM向けおすすめGPU・Mac比較：Qwen3.8-95Bを動かすための選び方",
+    "url": "https://ai.negi-lab.com/posts/qwen3-8-95b-local-llm-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "Qwen3.8-95Bが登場しましたが、4bit量子化でもVRAM 60GB以上が必要な「怪物」です。RTX 4090単体では歯が立たず、現実解はMac Studio（128GBメモリ以上）か、3090/4090の複数枚挿しのみ。仕事で使うなら設定の安定性でMac、学習も視野に入れるならNVIDIA複数構成。中途半端なスペックで挑むと、推論速度0.5tok/sの絶望を味わうことになります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-13-qwen3-8-95b-local-llm-hardware-guide.jpg",
+    "created_at": "2026-08-13T06:56:35.336722+09:00",
+    "posted": false
   }
 ]

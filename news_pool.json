@@ -1,22 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Hark previews its browser use agent for completing tasks",
-      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "Wed, 05 Aug 2026 15:46:27 +0000",
-      "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-08-06T03:21:53"
-    },
-    {
       "source": "HN Local AI",
       "title": "Pam Bondi Implicated in as Much as $5.5M in Insider Trading",
       "url": "https://cmarmitage.substack.com/p/pam-bondi-implicated-in-as-much-as",
@@ -2296,20 +2280,6 @@
       "collected_at": "2026-08-12T22:18:39"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "It's the final countdown, baby! Qwen is out in just over 7 hours!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vm7iqx/its_the_final_countdown_baby_qwen_is_out_in_just/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-08-12T07:45:19+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vm7iqx/its_the_final_countdown_baby_qwen_is_out_in_just/\"> <img alt=\"It's the final countdown, baby! Qwen is out in just over 7 hours!\" src=\"https://preview.redd.it/dqfzpcs2fwih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=835eef2456dd1a218485e3ca3e27b2b257cc1fe4\" title=\"It's the final countdown, baby! Qwen is out in just over 7 hours!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Historic event! We're ready! Goo",
-      "extra": {},
-      "collected_at": "2026-08-12T22:18:39"
-    },
-    {
       "source": "GitHub Trending",
       "title": "smicallef/spiderfoot",
       "url": "https://github.com/smicallef/spiderfoot",
@@ -2461,7 +2431,99 @@
         "revenue_score": 3
       },
       "collected_at": "2026-08-13T02:56:21"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Qwen3.8-2.4T-A95B Released",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmgozv/qwen3824ta95b_released/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-08-12T15:04:31+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vmgozv/qwen3824ta95b_released/\"> <img alt=\"Qwen3.8-2.4T-A95B Released\" src=\"https://external-preview.redd.it/f3ZMlQDL1jjt4_SfLZ1BBaS5LHm0VAAdCDLlji2qoj0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=afe2a6bbb4dee761a1c3a26039ea396e6182bf8f\" title=\"Qwen3.8-2.4T-A95B Released\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/de4dee\"> /u/de4dee </a> <br /> <span><a href=\"https://huggingface.co/",
+      "extra": {},
+      "collected_at": "2026-08-13T06:55:54"
+    },
+    {
+      "source": "r/LocalLLM",
+      "title": "Qwen 3.8 release on hugging face",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1vmgpz3/qwen_38_release_on_hugging_face/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-08-12T15:05:32+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLM/comments/1vmgpz3/qwen_38_release_on_hugging_face/\"> <img alt=\"Qwen 3.8 release on hugging face\" src=\"https://external-preview.redd.it/f3ZMlQDL1jjt4_SfLZ1BBaS5LHm0VAAdCDLlji2qoj0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=afe2a6bbb4dee761a1c3a26039ea396e6182bf8f\" title=\"Qwen 3.8 release on hugging face\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cerpmen7\"> /u/cerpmen7 </a> <br /> <span><a href=\"",
+      "extra": {},
+      "collected_at": "2026-08-13T06:56:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 12 Aug 2026 20:10:40 +0000",
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-13T06:56:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Chat Agent by Trigger.dev",
+      "url": "https://www.producthunt.com/products/trigger-dev",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI chat that keeps running after you close the tab </p> <p> <a href=\"https://www.producthunt.com/products/trigger-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1219801?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-13T06:56:06"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Linforge",
+      "url": "https://www.producthunt.com/products/linforge",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn Anki flashcards into real English conversations </p> <p> <a href=\"https://www.producthunt.com/products/linforge?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1220706?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-13T06:56:06"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Sidekick™",
+      "url": "https://www.producthunt.com/products/sidekick-16",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The agentic interface </p> <p> <a href=\"https://www.producthunt.com/products/sidekick-16?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1220714?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-13T06:56:06"
     }
   ],
-  "updated_at": "2026-08-13T02:56:24.491583+09:00"
+  "updated_at": "2026-08-13T06:56:09.875967+09:00"
 }
