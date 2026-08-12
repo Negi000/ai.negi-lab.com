@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-11-ai-agent-docker-sandbox-tutorial",
-    "title": "DockerでAIエージェント用セキュア実行環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ai-agent-docker-sandbox-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#AIエージェント #Docker",
-    "tweet_text": "AIエージェントにPC操作を任せるなら、Dockerでのサンドボックス構築は必須。ホストOSを保護しつつ、実行コードを隔離するのが実務の鉄則です。Python SDKを使えば、コンテナの起動からエラー時のセルフヒーリングまで全て自動化可能。メモリ制限512MB、ネットワーク遮断のガチガチ設定から始めるのが安全。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-11-ai-agent-docker-sandbox-tutorial.jpg",
-    "created_at": "2026-08-11T11:15:19.683976+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-11-semantica-agi-graph-native-ai-infrastructure",
-    "title": "Semantica グラフ構造でLLMの「根拠なき回答」を打破する新世代インフラ",
-    "url": "https://ai.negi-lab.com/posts/semantica-agi-graph-native-ai-infrastructure/",
-    "category": "TOOL",
-    "viral_tags": "#GraphRAG #AI開発",
-    "tweet_text": "RAGの「回答がふわっとしている」問題を根本から叩き切るsemantica-agiが熱い。ベクトル検索の限界だった情報の断片化をグラフ構造で解決し、AIの推論に明確な「根拠の地図」を持たせる。100件の複雑な規約もノードを辿ればハルシネーションは激減する。検証には32GB以上のRAM推奨。B2B開発者は今すぐ触るべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-11-semantica-agi-graph-native-ai-infrastructure.jpg",
-    "created_at": "2026-08-11T13:36:05.141542+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-11-qwen-25-27b-local-llm-python-guide",
     "title": "Qwen 2.5 27B 使い方 | 16GB以上のVRAMを使い切るローカルLLM構築ガイド",
     "url": "https://ai.negi-lab.com/posts/qwen-25-27b-local-llm-python-guide/",
