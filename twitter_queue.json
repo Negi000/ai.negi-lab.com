@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-12-local-llm-pc-selection-guide-rtx-mac.jpg",
     "created_at": "2026-08-12T06:58:30.855180+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-12-unsloth-desktop-local-llm-fine-tuning-guide",
+    "title": "Unsloth Desktop 使い方：ローカルLLMのファインチューニングをGUIで完結させる方法",
+    "url": "https://ai.negi-lab.com/posts/unsloth-desktop-local-llm-fine-tuning-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Unsloth",
+    "tweet_text": "ローカルLLMの学習がGUIだけで完結する時代。Unsloth Desktopを試したが、RTX 3060 12GBさえあればLlama 3のファインチューニングがコードなしで完了する。\n通常の2倍速く、VRAM消費70%減の恩恵はデカい。もはや「環境構築で1日溶かす」のは過去の話。データの質に時間を全振りできるのが実務上の最大の利点。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-12-unsloth-desktop-local-llm-fine-tuning-guide.jpg",
+    "created_at": "2026-08-12T11:29:26.357031+09:00",
+    "posted": false
   }
 ]
