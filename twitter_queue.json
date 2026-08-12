@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-11-needle2-14mb-llm-on-device-hardware-guide",
-    "title": "ローカルLLM開発が変わるNeedle2登場！オンデバイスAI時代のハードウェア選び方とおすすめ比較",
-    "url": "https://ai.negi-lab.com/posts/needle2-14mb-llm-on-device-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #オンデバイスAI",
-    "tweet_text": "14MBの超軽量LLM「Needle2」が登場。エージェント機能付きでスマホやエッジ端末で爆速動作。\n実務で使うなら、巨大なGPUを買う前に「16GB以上の統一メモリを持つMac」か「RTX 4060 Ti 16GB」を確保すべき。\n軽量モデルを常時稼働させるなら、省電力なMac mini M2/M3が今の最適解。VRAM不足で後悔する前に、足回りを固める投資を。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-11-needle2-14mb-llm-on-device-hardware-guide.jpg",
-    "created_at": "2026-08-11T06:53:37.612815+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-11-ai-agent-docker-sandbox-tutorial",
     "title": "DockerでAIエージェント用セキュア実行環境を構築する方法",
     "url": "https://ai.negi-lab.com/posts/ai-agent-docker-sandbox-tutorial/",
