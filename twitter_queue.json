@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-12-amp-by-canyontechs-ai-agent-review.jpg",
     "created_at": "2026-08-12T13:56:23.922716+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-12-ollama-open-webui-local-llm-setup-guide",
+    "title": "OllamaとOpen WebUIで自分専用のChatGPTを構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "RTX 4090を2枚挿して分かったが、LLMは「持てる」時代になった。\nOllama + Open WebUIの組み合わせなら、30分でプライバシー完全保護のRAG環境が手に入る。\nVRAM 12GBあれば日常業務はローカルで完結可能。\nAPI代を気にしてプロンプトを削る日々はもう終わり。\n買うべきGPUとハマりどころを実機検証ベースでまとめた。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-12-ollama-open-webui-local-llm-setup-guide.jpg",
+    "created_at": "2026-08-12T16:29:20.172139+09:00",
+    "posted": false
   }
 ]
