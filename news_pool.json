@@ -2,80 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Rust-lang/rust is adopting an LLM policy",
-      "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 05 Aug 2026 05:52:24 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-05T17:40:03"
-    },
-    {
-      "source": "Google News",
-      "title": "OpenAIがAppleによる訴訟に反論、「提訴する前に相談してくれれば喜んですべて説明していた」 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yWUNFa19KUk9EM1dseUtLaDZfbTRoLTFMUVN1amJPR0hHUzh5RkFGdUFYaXN3NWd1ZzgwZC1ZLThwbEhUVVBTYUpURVhMMnVwMHVyUUNPbFlEaUx6?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Wed, 05 Aug 2026 08:05:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yWUNFa19KUk9EM1dseUtLaDZfbTRoLTFMUVN1amJPR0hHUzh5RkFGdUFYaXN3NWd1ZzgwZC1ZLThwbEhUVVBTYUpURVhMMnVwMHVyUUNPbFlEaUx6?oc=5\" target=\"_blank\">OpenAIがAppleによる訴訟に反論、「提訴する前に相談してくれれば喜んですべて説明していた」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-08-05T17:40:12"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Hansel",
-      "url": "https://www.producthunt.com/products/hansel-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Remember everything you've worked on </p> <p> <a href=\"https://www.producthunt.com/products/hansel-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1215391?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-05T17:40:12"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Wispr Flow Notetaker",
-      "url": "https://www.producthunt.com/products/wisprflow",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Meeting notes that get the details right. </p> <p> <a href=\"https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1214897?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-05T17:40:12"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "BackEngine MCP",
-      "url": "https://www.producthunt.com/products/backengine-mcp",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Make private company knowledge usable for AI </p> <p> <a href=\"https://www.producthunt.com/products/backengine-mcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1215121?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-05T17:40:12"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
       "url": "https://arxiv.org/abs/2607.29377",
       "primary_category": "NEWS",
@@ -2555,7 +2481,92 @@
         "revenue_score": 6
       },
       "collected_at": "2026-08-12T16:28:28"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "url": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Wed, 12 Aug 2026 06:53:17 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-12T19:02:42"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 12 Aug 2026 02:05:42 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-12T19:02:42"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "OpenAI and Anthropic hidden CoT leaks when given deep_think tool.",
+      "url": "https://twitter.com/_can1357/status/2087228354399265125",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Tue, 11 Aug 2026 22:06:14 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-12T19:02:42"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Nearfield",
+      "url": "https://www.producthunt.com/products/nearfield",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn two or more Studio Displays into stereo speakers </p> <p> <a href=\"https://www.producthunt.com/products/nearfield?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1220486?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-12T19:02:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "LaraCopilot",
+      "url": "https://www.producthunt.com/products/laracopilot",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Agentic AI Engineer that builds real apps </p> <p> <a href=\"https://www.producthunt.com/products/laracopilot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1220190?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-12T19:02:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Swipe",
+      "url": "https://www.producthunt.com/products/swipe-9",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Swipe right on your next customer </p> <p> <a href=\"https://www.producthunt.com/products/swipe-9?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1216886?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-12T19:02:45"
     }
   ],
-  "updated_at": "2026-08-12T16:28:32.442035+09:00"
+  "updated_at": "2026-08-12T19:02:48.876753+09:00"
 }
