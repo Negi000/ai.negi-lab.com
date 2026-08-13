@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-08-13-llama-cpp-gguf-local-llm-tutorial.jpg",
     "created_at": "2026-08-13T11:31:12.975451+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-13-trigger-dev-chat-agent-review-timeout-fix",
+    "title": "Chat Agent by Trigger.dev タイムアウトを克服するAIエージェント開発の新標準",
+    "url": "https://ai.negi-lab.com/posts/trigger-dev-chat-agent-review-timeout-fix/",
+    "category": "TOOL",
+    "viral_tags": "#個人開発 #AIエージェント",
+    "tweet_text": "AIエージェント開発で「Vercelのタイムアウト制限」に泣かされてきた人へ。Chat Agent by Trigger.devが解決策の筆頭です。\nブラウザを閉じてもサーバー側でAIが数分〜数時間考え続け、完了後に結果を返す「非同期チャット」が即実装可能。\n単なるUIキットではなく、背後の堅牢なジョブ基盤が本質。504エラーと決別したいならこれ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-13-trigger-dev-chat-agent-review-timeout-fix.jpg",
+    "created_at": "2026-08-13T14:00:13.262569+09:00",
+    "posted": false
   }
 ]
