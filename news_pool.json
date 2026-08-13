@@ -1,50 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "A Gallery of Installing from .dmg",
-      "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 05 Aug 2026 21:34:05 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-06T23:22:25"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 06 Aug 2026 13:31:57 +0000",
-      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-06T23:22:34"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Channels SDK",
-      "url": "https://www.producthunt.com/products/copilotkit",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Agents in Slack & Teams without the production headaches. </p> <p> <a href=\"https://www.producthunt.com/products/copilotkit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1197608?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-06T23:22:35"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
       "url": "https://www.aleksagordic.com/blog/vllm",
@@ -2209,21 +2165,6 @@
       "collected_at": "2026-08-13T11:30:31"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 12 Aug 2026 22:26:37 +0000",
-      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-13T11:30:38"
-    },
-    {
       "source": "Google News",
       "title": "世界のニュース：テクノロジー — 国際ジャーナリスト連合（JMH） - Organización Mundial Bullying Sin Fronteras",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IU2N5UmRKOHlzYXAwVzROYVV4dnozSnI4T1VwOHZMY1JLb3BTcFhranpsbXo1MjZ0c2tDM1E1UnlpbWw0dzMxYjQtbzdWQzloQUpWd0wtNEZFNFRPZmdYcnkySXB3eFhzZUF3Q2xCa1RJRGVJdmxjZ2ln?oc=5",
@@ -2524,7 +2465,78 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-13T22:20:50"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There",
+      "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 13 Aug 2026 14:37:51 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-14T00:32:37"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Thu, 13 Aug 2026 13:28:45 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-14T00:32:37"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 13 Aug 2026 15:30:52 +0000",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-14T00:32:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Caveman",
+      "url": "https://www.producthunt.com/products/caveman",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> why use many token when few do trick </p> <p> <a href=\"https://www.producthunt.com/products/caveman?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1220849?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-14T00:32:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Skilldocs",
+      "url": "https://www.producthunt.com/products/skilldocs",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Figma for markdown </p> <p> <a href=\"https://www.producthunt.com/products/skilldocs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1221646?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-14T00:32:46"
     }
   ],
-  "updated_at": "2026-08-13T22:20:53.749859+09:00"
+  "updated_at": "2026-08-14T00:32:49.935416+09:00"
 }
