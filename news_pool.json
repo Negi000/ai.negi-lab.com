@@ -1,78 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "Pam Bondi Implicated in as Much as $5.5M in Insider Trading",
-      "url": "https://cmarmitage.substack.com/p/pam-bondi-implicated-in-as-much-as",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 05 Aug 2026 20:52:05 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-06T07:17:24"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Muse Code and Muse Spark 1.2",
-      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 05 Aug 2026 19:15:52 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-06T07:17:24"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "You're not uncool. Making friends as an adult is just hard (2021)",
-      "url": "https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 05 Aug 2026 18:53:17 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-06T07:17:24"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Wed, 05 Aug 2026 21:21:28 +0000",
-      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
-      "extra": {
-        "revenue_score": 9
-      },
-      "collected_at": "2026-08-06T07:17:32"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Keystroke",
-      "url": "https://www.producthunt.com/products/keystroke-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Build powerful AI agents & workflows </p> <p> <a href=\"https://www.producthunt.com/products/keystroke-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1215053?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-08-06T07:17:33"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Born Against, or why hobby programming communities are against LLM usage",
       "url": "https://blog.fogus.me/llm/born-against.html",
@@ -2433,21 +2361,6 @@
       "collected_at": "2026-08-13T02:56:21"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Qwen3.8-2.4T-A95B Released",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmgozv/qwen3824ta95b_released/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-08-12T15:04:31+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vmgozv/qwen3824ta95b_released/\"> <img alt=\"Qwen3.8-2.4T-A95B Released\" src=\"https://external-preview.redd.it/f3ZMlQDL1jjt4_SfLZ1BBaS5LHm0VAAdCDLlji2qoj0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=afe2a6bbb4dee761a1c3a26039ea396e6182bf8f\" title=\"Qwen3.8-2.4T-A95B Released\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/de4dee\"> /u/de4dee </a> <br /> <span><a href=\"https://huggingface.co/",
-      "extra": {},
-      "collected_at": "2026-08-13T06:55:54"
-    },
-    {
       "source": "r/LocalLLM",
       "title": "Qwen 3.8 release on hugging face",
       "url": "https://www.reddit.com/r/LocalLLM/comments/1vmgpz3/qwen_38_release_on_hugging_face/",
@@ -2523,7 +2436,91 @@
         "revenue_score": 3
       },
       "collected_at": "2026-08-13T06:56:06"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "AI is removing the middle class of software engineering?",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Wed, 12 Aug 2026 13:20:05 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-13T11:30:31"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Why Target Common Lisp for Code Generation?",
+      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 12 Aug 2026 08:40:53 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-13T11:30:31"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Tue, 11 Aug 2026 21:56:18 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-13T11:30:31"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 12 Aug 2026 22:26:37 +0000",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-13T11:30:38"
+    },
+    {
+      "source": "Google News",
+      "title": "世界のニュース：テクノロジー — 国際ジャーナリスト連合（JMH） - Organización Mundial Bullying Sin Fronteras",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IU2N5UmRKOHlzYXAwVzROYVV4dnozSnI4T1VwOHZMY1JLb3BTcFhranpsbXo1MjZ0c2tDM1E1UnlpbWw0dzMxYjQtbzdWQzloQUpWd0wtNEZFNFRPZmdYcnkySXB3eFhzZUF3Q2xCa1RJRGVJdmxjZ2ln?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 13 Aug 2026 01:29:41 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9IU2N5UmRKOHlzYXAwVzROYVV4dnozSnI4T1VwOHZMY1JLb3BTcFhranpsbXo1MjZ0c2tDM1E1UnlpbWw0dzMxYjQtbzdWQzloQUpWd0wtNEZFNFRPZmdYcnkySXB3eFhzZUF3Q2xCa1RJRGVJdmxjZ2ln?oc=5\" target=\"_blank\">世界のニュース：テクノロジー — 国際ジャーナリスト連合（JMH）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Organización Mundial Bullying Sin Fronteras</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-13T11:30:39"
+    },
+    {
+      "source": "Google News",
+      "title": "AIによる学業不正撲滅のため「提出した筆記課題についての口頭試問」がデンマークの高校生に義務づけられる - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeXdGc25RUVZDY2dRSTh2b2FoX1ZRQWYtRXk0OGtLbEFUcjROeUVHbWJIR3YwVW1pYlU2TVVSWWtnQnd1ckRBdXVoUzRoNmhubi14azA5MDNJaWNfVG5xcENNWTNueUg5N1ZUaWZTUFRYZFJ3NFA1b21XTzV5Ym9KdzVzQ3g?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 12 Aug 2026 10:45:51 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOeXdGc25RUVZDY2dRSTh2b2FoX1ZRQWYtRXk0OGtLbEFUcjROeUVHbWJIR3YwVW1pYlU2TVVSWWtnQnd1ckRBdXVoUzRoNmhubi14azA5MDNJaWNfVG5xcENNWTNueUg5N1ZUaWZTUFRYZFJ3NFA1b21XTzV5Ym9KdzVzQ3g?oc=5\" target=\"_blank\">AIによる学業不正撲滅のため「提出した筆記課題についての口頭試問」がデンマークの高校生に義務づけられる</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-13T11:30:39"
     }
   ],
-  "updated_at": "2026-08-13T06:56:09.875967+09:00"
+  "updated_at": "2026-08-13T11:30:42.686227+09:00"
 }
