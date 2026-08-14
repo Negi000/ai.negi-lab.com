@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-08-14-writer-glm52-token-cost-harness.jpg",
     "created_at": "2026-08-14T22:16:06.962630+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-15-qwen-27b-local-llm-gpu-buying-guide",
+    "title": "Qwen 27B比較・選び方ガイド｜ローカルLLM最強の「27B」を実務で回すGPU構成",
+    "url": "https://ai.negi-lab.com/posts/qwen-27b-local-llm-gpu-buying-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "Qwen 27Bは「1枚の24GB GPU」で実用できる現役最強のローカルLLM。8Bでは物足りず70Bは重すぎる個人開発者にこそ、このミドル級の破壊力を体感してほしい。\n\n選定基準は明確で、VRAM 24GBを積んだRTX 4090か、中古の3090、あるいは64GBメモリのMac。16GB以下で妥協すると27Bの真価である「論理的思考」を量子化で捨てることになる。買う前にVRAMの壁だけは絶対に見て。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-15-qwen-27b-local-llm-gpu-buying-guide.jpg",
+    "created_at": "2026-08-15T02:53:37.353120+09:00",
+    "posted": false
   }
 ]
