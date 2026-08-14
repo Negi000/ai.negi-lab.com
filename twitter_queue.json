@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-15-qwen-27b-local-llm-gpu-buying-guide.jpg",
     "created_at": "2026-08-15T02:53:37.353120+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-15-qwen3-27b-local-llm-gpu-guide",
+    "title": "Qwen3-27Bを自宅で動かす！後悔しないGPU・Macの選び方と24GB VRAMの壁",
+    "url": "https://ai.negi-lab.com/posts/qwen3-27b-local-llm-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #Qwen3",
+    "tweet_text": "Qwen3-27Bが登場し、ローカルLLMの「実用ライン」が一段上がった。27BサイズはRTX 3090/4090のVRAM 24GB1枚にFP8で収まる、まさにエンジニアのための最強モデル。16GB以下のGPUで妥協すると、長文コンテキストで即死する。仕事で使うなら24GB GPUか64GB以上のMacを選ばないと、結果的に買い直す羽目になる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-15-qwen3-27b-local-llm-gpu-guide.jpg",
+    "created_at": "2026-08-15T06:35:00.930638+09:00",
+    "posted": false
   }
 ]
