@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-14-webbrain-browser-ai-agent-review.jpg",
     "created_at": "2026-08-14T13:57:03.162486+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-14-llamacpp-gguf-beginner-guide-local-llm",
+    "title": "llama.cpp 使い方 入門！GGUF量子化モデルをローカルPCで動かす実践ガイド",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-beginner-guide-local-llm/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llamacpp",
+    "tweet_text": "ローカルLLMを動かすなら、まずはllama.cppを直接ビルドするのが正解。\nRTX 3060 12GBなら8Bモデルが30t/s以上で爆速。M2 Macでも快適。\nAPI料金ゼロ、プライバシー100%で「自分専用の知能」を所有する快感は一度味わうと戻れません。\nまずはQ4_K_M量子化で、推論サーバーを立てる手順をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-14-llamacpp-gguf-beginner-guide-local-llm.jpg",
+    "created_at": "2026-08-14T16:28:02.502861+09:00",
+    "posted": false
   }
 ]
