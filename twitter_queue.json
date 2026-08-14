@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-14-ai-memory-shortage-2027-local-llm-pc-guide.jpg",
     "created_at": "2026-08-14T06:56:42.628436+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-14-local-llm-august-2026-practical-guide",
+    "title": "ローカルLLMを実務で使い倒す環境構築とPython連携の手順",
+    "url": "https://ai.negi-lab.com/posts/local-llm-august-2026-practical-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "2026年8月、ついにローカルLLMがクローズドモデルに並びました。Llama 4級のモデルをRTX 3090/4090で回せば、API代0円で「爆速・機密・高精度」な環境が手に入ります。実務で必須のJSON強制出力とPydantic連携の実装手順を整理しました。AIを「動かす」フェーズから「道具として組み込む」フェーズへ移行しましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-14-local-llm-august-2026-practical-guide.jpg",
+    "created_at": "2026-08-14T11:29:53.768425+09:00",
+    "posted": false
   }
 ]
