@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-14-freebuff-ai-coding-agent-review.jpg",
     "created_at": "2026-08-14T19:00:44.471985+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-14-writer-glm52-token-cost-harness",
+    "title": "Writerの新モデルがLLM運用の「トークン破産」を救うか？GLM-5.2ベースでコスト破壊を狙う",
+    "url": "https://ai.negi-lab.com/posts/writer-glm52-token-cost-harness/",
+    "category": "NEWS",
+    "viral_tags": "#LLM #エンジニア",
+    "tweet_text": "LLM運用の最大課題「トークンコスト」に Writerが正面から回答。GLM-5.2ベースの新モデルと、トークン消費を抑制する独自基盤「Harness」を発表。GPT-4o比で大幅なコスト削減を狙う。RAGの課金で頭を悩ませる開発者には、性能より「実行コスト」の視点が今こそ必要。安く、速く、仕事に使えるかが次の主戦場になる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-14-writer-glm52-token-cost-harness.jpg",
+    "created_at": "2026-08-14T22:16:06.962630+09:00",
+    "posted": false
   }
 ]
