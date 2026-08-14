@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-13-local-llm-qwen-hardware-guide-rtx-mac",
-    "title": "Qwenを動かすローカルLLM環境の選び方。実務で使えるPC・GPU比較と買う前の注意点",
-    "url": "https://ai.negi-lab.com/posts/local-llm-qwen-hardware-guide-rtx-mac/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "Qwen2.5など最新のローカルLLMを仕事で使うなら、VRAM 16GBが最低ライン。RTX 4060 Ti 16GBなら実質5万円台から環境が作れる。逆に8GB版はKVキャッシュ不足で即詰むので避けるのが正解。Mac派ならメモリ32GB以上が必須。推論速度のNVIDIAか、メモリ容量のMacか。実務者の視点で失敗しないPC選びをまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-13-local-llm-qwen-hardware-guide-rtx-mac.jpg",
-    "created_at": "2026-08-13T02:56:47.828017+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-13-qwen3-8-95b-local-llm-hardware-guide",
     "title": "ローカルLLM向けおすすめGPU・Mac比較：Qwen3.8-95Bを動かすための選び方",
     "url": "https://ai.negi-lab.com/posts/qwen3-8-95b-local-llm-hardware-guide/",
