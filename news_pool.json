@@ -1,36 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "The GTM Co-Founder",
-      "url": "https://www.producthunt.com/products/the-gtm-co-founder",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open-source GTM skills for technical founders </p> <p> <a href=\"https://www.producthunt.com/products/the-gtm-co-founder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1207906?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-08T18:36:27"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AstraPixels",
-      "url": "https://www.producthunt.com/products/astrapixels",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> ​​A pixel-art solar system at its real current positions.​ </p> <p> <a href=\"https://www.producthunt.com/products/astrapixels?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1216176?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-08T18:36:27"
-    },
-    {
       "source": "Google News",
       "title": "いまさら聞けない!? 知っておくべきAIの基礎用語33選 - WIRED.jp",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HOUNXVi05ZmYtbnZUeVdDblJ0NDFsYTN6ZjZvRE9vVHVBY1UydHZrYkFyMTdtWE54dXMzQTNZWGxRdnNCVXN2MlpHOGdmN0w2cVFBLXdYVzB4UXdvQV9zWG00QW00ckhkcHlDZg?oc=5",
@@ -2557,22 +2527,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "SalesCloser.ai",
-      "url": "https://www.producthunt.com/products/salescloser-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Proactive sales agent that books, shows up, and runs demos </p> <p> <a href=\"https://www.producthunt.com/products/salescloser-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1216762?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-15T18:24:22"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Chronock",
       "url": "https://www.producthunt.com/products/chronock",
       "primary_category": "TOOL",
@@ -2600,7 +2554,67 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-15T18:24:22"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A collective list of free APIs",
+      "extra": {
+        "stars_today": "2,476 stars today"
+      },
+      "collected_at": "2026-08-15T21:45:16"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "MakazhanAlpamys/Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "extra": {
+        "stars_today": "303 stars today"
+      },
+      "collected_at": "2026-08-15T21:45:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Zetik",
+      "url": "https://www.producthunt.com/products/zetik",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A chief of staff in your pocket </p> <p> <a href=\"https://www.producthunt.com/products/zetik?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1217720?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-15T21:45:17"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "nenspace",
+      "url": "https://www.producthunt.com/products/nenspace",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> the lo-fi of LLMs: your mind, made larger </p> <p> <a href=\"https://www.producthunt.com/products/nenspace?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1221450?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-15T21:45:17"
     }
   ],
-  "updated_at": "2026-08-15T18:24:25.494901+09:00"
+  "updated_at": "2026-08-15T21:45:20.779924+09:00"
 }
