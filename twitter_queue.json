@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-14-unsloth-local-llm-gpu-guide-rtx4090",
-    "title": "ローカルLLMを爆速化するUnsloth入門：RTX 4090かMacか？失敗しないGPU選びと推奨構成",
-    "url": "https://ai.negi-lab.com/posts/unsloth-local-llm-gpu-guide-rtx4090/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #Unsloth",
-    "tweet_text": "ローカルLLM学習を2倍速にするUnsloth。実務で使うならRTX 4090 24GBが最低ライン。16GBの4060 Tiは入門には良いが、QwenやDeepSeekの大規模モデルを回すと即VRAM不足に陥る。Mac Studio 128GBは推論に強いが、Unslothの「学習爆速化」をフル享受するならNVIDIA一択。買う前にVRAM帯域と電源容量を確認すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-14-unsloth-local-llm-gpu-guide-rtx4090.jpg",
-    "created_at": "2026-08-14T02:57:06.608902+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-14-ai-memory-shortage-2027-local-llm-pc-guide",
     "title": "2027年のメモリ枯渇は確定。ローカルLLM用PCの選び方と今買うべきVRAM搭載モデル比較",
     "url": "https://ai.negi-lab.com/posts/ai-memory-shortage-2027-local-llm-pc-guide/",
