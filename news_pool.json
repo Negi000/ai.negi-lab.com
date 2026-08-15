@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "いまさら聞けない!? 知っておくべきAIの基礎用語33選 - WIRED.jp",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HOUNXVi05ZmYtbnZUeVdDblJ0NDFsYTN6ZjZvRE9vVHVBY1UydHZrYkFyMTdtWE54dXMzQTNZWGxRdnNCVXN2MlpHOGdmN0w2cVFBLXdYVzB4UXdvQV9zWG00QW00ckhkcHlDZg?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 04 Aug 2026 00:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9HOUNXVi05ZmYtbnZUeVdDblJ0NDFsYTN6ZjZvRE9vVHVBY1UydHZrYkFyMTdtWE54dXMzQTNZWGxRdnNCVXN2MlpHOGdmN0w2cVFBLXdYVzB4UXdvQV9zWG00QW00ckhkcHlDZg?oc=5\" target=\"_blank\">いまさら聞けない!? 知っておくべきAIの基礎用語33選</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED.jp</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-09T00:01:32"
-    },
-    {
       "source": "HN Local AI",
       "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
       "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
@@ -2672,7 +2657,23 @@
         "revenue_score": 3
       },
       "collected_at": "2026-08-15T23:53:24"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Sat, 15 Aug 2026 16:30:00 +0000",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-08-16T02:19:44"
     }
   ],
-  "updated_at": "2026-08-15T23:53:27.606826+09:00"
+  "updated_at": "2026-08-16T02:19:48.858292+09:00"
 }
