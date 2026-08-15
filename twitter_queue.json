@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-16-glm-5-3-release-local-llm-gpu-guide.jpg",
     "created_at": "2026-08-16T02:20:13.564627+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-16-local-llm-15b-shell-command-hardware-guide",
+    "title": "ローカルLLMで開発効率化！Shell特化1.5Bモデルを使い倒すためのPCスペック比較と選び方",
+    "url": "https://ai.negi-lab.com/posts/local-llm-15b-shell-command-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #業務効率化",
+    "tweet_text": "シェル操作でtarのフラグをググる時間はもう終わり。1.5Bの軽量モデルなら今のノートPCで1秒以内にコマンドを生成できる。\n\nただ、CursorやClineと連携して本気でAI開発を加速させるならVRAM 16GBが分岐点。RTX 4060 Ti 16GBは今、AIエンジニアにとって最も賢い投資先です。8GBモデルを買って後悔する前にスペックの確認を。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-16-local-llm-15b-shell-command-hardware-guide.jpg",
+    "created_at": "2026-08-16T06:30:24.849458+09:00",
+    "posted": false
   }
 ]
