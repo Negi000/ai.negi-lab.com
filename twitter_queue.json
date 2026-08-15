@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-15-munder-difflin-claude-code-agent-review.jpg",
     "created_at": "2026-08-15T12:49:18.746166+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-15-ollama-open-webui-local-llm-guide",
+    "title": "OllamaとOpen WebUIで自分専用のローカルChatGPT環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLM環境はOllama + Open WebUIが現状の最適解。VRAM 12GB以上のGPUがあれば、本家ChatGPT並のUIとRAG機能が完全無料で手に入る。機密書類を放り込んでも外部に漏れない安心感は異常。RTX 3060なら数万円で構築可能。API利用料に怯える日々はもう終わり。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-15-ollama-open-webui-local-llm-guide.jpg",
+    "created_at": "2026-08-15T15:41:52.619104+09:00",
+    "posted": false
   }
 ]
