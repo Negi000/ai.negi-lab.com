@@ -1,65 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Quick survey (2 min) on trust in hardware specs for open-source models",
-      "url": "https://www.reddit.com/r/ollama/comments/1vj08k3/quick_survey_2_min_on_trust_in_hardware_specs_for/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-08-08T16:24:29+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I'm a systems analysis student researching a problem a lot of you probably know well: how much you actually trust the published VRAM/RAM requirements for open-source models before trying to run them locally.</p> <p>This is for an academic project (not selling anything, no emails collected). The survey is anonymous and takes 2 minutes: <a href=\"https://forms.gle/nmY6cBSz6Cirq2S19\">https://forms.gle/nmY6cBSz6Cirq2S19</a></p> <p>If you've got 2 ",
-      "extra": {},
-      "collected_at": "2026-08-09T16:00:02"
-    },
-    {
-      "source": "r/ollama",
-      "title": "M3 16GB running Ollama (Qwen 9B) is extremely slow (10-12 mins per task). Am I doing something wrong?",
-      "url": "https://www.reddit.com/r/ollama/comments/1vjfmyr/m3_16gb_running_ollama_qwen_9b_is_extremely_slow/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-08-09T03:56:36+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I constantly see high praise for M3 and M4 Macs for local LLM inference, even the base/16GB models. However, my experience has been quite different, and I'm trying to figure out if I have a misconfiguration.</p> <p>I have an M3 Mac with 16GB of RAM. I'm using Ollama to run <code>qwen:9b</code> for some basic &quot;second brain&quot; tasks (specifically using Codex or Claude Code integrated with my Obsidian vault).</p> <p><strong>The issue:</",
-      "extra": {},
-      "collected_at": "2026-08-09T16:00:02"
-    },
-    {
-      "source": "r/ollama",
-      "title": "I Turned My Underused Gaming Laptop Into a Local AI Workstation",
-      "url": "https://www.reddit.com/r/ollama/comments/1vje2u8/i_turned_my_underused_gaming_laptop_into_a_local/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-08-09T02:35:45+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>TL;DR:<br /> I am building a Windows-first local AI setup for people who want to try local LLMs without spending days choosing models, setting up Ollama, Docker, WSL, Open WebUI, agents, and tool permissions separately.</p> <p>Give it a try:</p> <ul> <li><a href=\"https://github.com/divps0308/dsalgo-local-ai-setup-public/releases/download/v1.0.4/DSAlgo-Local-AI-Setup-v1.0.4.zip\"><strong>Download the installer</strong></a></li> <li><a href=\"https://github.com/divp",
-      "extra": {},
-      "collected_at": "2026-08-09T16:00:02"
-    },
-    {
-      "source": "Google News",
-      "title": "米政権、AIの「ハッキング能力」を測る自主テストの枠組みを決定 AI企業の相次ぐ実験結果公表が背中を押した - 株式会社アクト",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sVGdvTnZXcXdLMnZiTnM5WDlwRENudWVsbms4V1JmZnB6VW95TDBibV9PenZVS0FPTDhrWHMzUkhLSWwyYTFabg?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Thu, 06 Aug 2026 00:51:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sVGdvTnZXcXdLMnZiTnM5WDlwRENudWVsbms4V1JmZnB6VW95TDBibV9PenZVS0FPTDhrWHMzUkhLSWwyYTFabg?oc=5\" target=\"_blank\">米政権、AIの「ハッキング能力」を測る自主テストの枠組みを決定 AI企業の相次ぐ実験結果公表が背中を押した</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">株式会社アクト</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-09T16:00:04"
-    },
-    {
       "source": "Google News",
       "title": "アンソロピック、独自AI半導体開発へ 「Claude」に最適化 - 日本経済新聞",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UdHpDRTFkSlBON2l2dDNmWEhuWmNHbm96WEhkaWUtbE1jUHFRcE9IeXVEaXBoSnRFVk5CRmtmWlEyVWhFa0tMUDhLSWtIVzNjRmZyQmVNdTdZSVR0RW9tbUVhRkxvUjk1djcyaQ?oc=5",
@@ -2661,20 +2602,63 @@
       "collected_at": "2026-08-16T15:43:08"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "How many people have 24gb over gpu here?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpm70f/how_many_people_have_24gb_over_gpu_here/",
-      "primary_category": "GUIDE",
+      "source": "HN AI Hot",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "primary_category": "NEWS",
       "possible_categories": [
-        "MONEY"
+        "TOOL"
       ],
-      "published": "2026-08-16T03:27:29+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was surprised by the fact that the qwen 3.8 27b download count is about 1 million (globally). This means that even on this subreddit, very few people have used 27b.</p> <p>At most 50k–100k active users, and once you break down the hardware distribution, 8GB, 16GB, 24GB, 32GB cards, Macs, whatever, it's probably under a thousand people who've actually run one on a 24GB+ card.</p> <p>And that figure still counts the tinkerers and casual image-gen gamers. Strip t",
+      "published": "Sun, 16 Aug 2026 07:37:53 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-16T18:25:11"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Expeditione",
+      "url": "https://www.producthunt.com/products/expeditione",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The Interactive 3D Encyclopedia </p> <p> <a href=\"https://www.producthunt.com/products/expeditione?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1221007?app_id=339\">Link</a> </p>",
       "extra": {
-        "revenue_score": 8
+        "revenue_score": 0
       },
-      "collected_at": "2026-08-16T15:43:08"
+      "collected_at": "2026-08-16T18:25:20"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AirAlarm",
+      "url": "https://www.producthunt.com/products/airalarm",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Wake at the end of your sleep cycle </p> <p> <a href=\"https://www.producthunt.com/products/airalarm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1219365?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-16T18:25:20"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Blume",
+      "url": "https://www.producthunt.com/products/blume-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI-ready, Markdown-first documentation framework </p> <p> <a href=\"https://www.producthunt.com/products/blume-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1200353?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-16T18:25:20"
     }
   ],
-  "updated_at": "2026-08-16T15:43:08.563286+09:00"
+  "updated_at": "2026-08-16T18:25:23.760119+09:00"
 }

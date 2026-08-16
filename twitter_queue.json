@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-16-qwen25-27b-vram24gb-setup-guide.jpg",
     "created_at": "2026-08-16T15:43:37.178232+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-16-needle-tiny-foundation-model-review",
+    "title": "Needle 使い方：14MBの極小基盤モデルでオンデバイスAIを実装する",
+    "url": "https://ai.negi-lab.com/posts/needle-tiny-foundation-model-review/",
+    "category": "TOOL",
+    "viral_tags": "#エッジAI #IoT開発",
+    "tweet_text": "14MBの極小AIモデル「Needle」が衝撃的。\nRTXもクラウドも不要、ESP32やスマホ、ウェアラブルで直接動く「基盤モデル」です。\n従来はif-elseで書いていたセンサー制御や命令解釈を、わずか数MBの知能に置き換える。\n日本語は弱いが、エッジAIの設計思想を根本から変えるポテンシャルがあります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-16-needle-tiny-foundation-model-review.jpg",
+    "created_at": "2026-08-16T18:25:46.657098+09:00",
+    "posted": false
   }
 ]
