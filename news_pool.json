@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Argos",
-      "url": "https://www.producthunt.com/products/argos-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The AI that acts as you, right in your browser </p> <p> <a href=\"https://www.producthunt.com/products/argos-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1218316?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-10T02:31:34"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
@@ -2572,19 +2557,6 @@
       "collected_at": "2026-08-17T02:18:54"
     },
     {
-      "source": "HN AI Companies",
-      "title": "AI Coding Without the Vibes",
-      "url": "https://peterbloem.nl/blog/craft-coding",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Sun, 16 Aug 2026 10:31:36 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-17T02:18:54"
-    },
-    {
       "source": "r/LocalLLM",
       "title": "How the loop of infinite agony started",
       "url": "https://www.reddit.com/r/LocalLLM/comments/1vptz4a/how_the_loop_of_infinite_agony_started/",
@@ -2655,7 +2627,35 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-17T02:19:03"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 16 Aug 2026 12:48:21 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-17T06:28:56"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 16 Aug 2026 20:57:04 +0000",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-08-17T06:29:02"
     }
   ],
-  "updated_at": "2026-08-17T02:19:06.735060+09:00"
+  "updated_at": "2026-08-17T06:29:06.896546+09:00"
 }
