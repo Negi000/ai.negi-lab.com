@@ -1,32 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
-      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 08 Aug 2026 10:07:06 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-09T06:39:39"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "url": "https://genesisopenmodels.anl.gov/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 07 Aug 2026 22:24:27 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-09T06:39:39"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Message your other Claude Code sessions",
       "url": "https://code.claude.com/docs/en/cross-session-messaging",
@@ -2095,23 +2069,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Trained a 1.5B to write shell commands so I'd stop googling tar flags. Runs on a laptop CPU in ~1 sec.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnl0um/trained_a_15b_to_write_shell_commands_so_id_stop/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-08-13T19:39:21+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vnl0um/trained_a_15b_to_write_shell_commands_so_id_stop/\"> <img alt=\"Trained a 1.5B to write shell commands so I'd stop googling tar flags. Runs on a laptop CPU in ~1 sec.\" src=\"https://preview.redd.it/di0yenio27jh1.gif?width=640&amp;crop=smart&amp;s=d39275a4e908c41b9172d01bcf8ec7a8db33ad68\" title=\"Trained a 1.5B to write shell commands so I'd stop googling tar flags. Runs on a laptop CPU in ~1 sec.\" /> </a> </td><td> <!-- S",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-08-14T11:29:26"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "MiniMax-Music3 released!",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vngww3/minimaxmusic3_released/",
       "primary_category": "GUIDE",
@@ -2722,7 +2679,22 @@
         "revenue_score": 7
       },
       "collected_at": "2026-08-16T06:30:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The perfect way for Google to screw over OAI and Anthropic is by releasing a 120B dense multimodal Gemma model",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpf8j1/the_perfect_way_for_google_to_screw_over_oai_and/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-08-15T21:53:02+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>The two leading labs are already feeling extremely threatened by Qwen &amp; friends, however I think there are tons of enterprises and organizations in the West that don't feel comfortable using Chinese models.</p> <p>I believe these orgs would be all over a near-frontier open-weight model with the Google brand, and it's the perfect way to mess up OAI/Anthropics IPOs.</p> <p>Please do it, Google.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https:/",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-08-16T10:47:01"
     }
   ],
-  "updated_at": "2026-08-16T06:30:00.789226+09:00"
+  "updated_at": "2026-08-16T10:47:01.660447+09:00"
 }

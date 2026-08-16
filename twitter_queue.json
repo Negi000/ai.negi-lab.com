@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-16-local-llm-15b-shell-command-hardware-guide.jpg",
     "created_at": "2026-08-16T06:30:24.849458+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-16-qwen-3-8-27b-local-setup-guide",
+    "title": "Qwen-3.8-27Bをローカル環境で動かし、長文コンテキストにも対応した実用的なチャットUIを構築します。",
+    "url": "https://ai.negi-lab.com/posts/qwen-3-8-27b-local-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen3",
+    "tweet_text": "Qwen 3.8 27Bが遂に登場。VRAM 24GBのRTX 4090なら4-bit量子化で全レイヤーが余裕で載り、爆速で推論可能です。\n\n実務で使うならAPIよりローカル。llama-cpp-pythonでストリーミング実装すれば、セキュアな自炊AIチャットが30分で完成します。\n\nn_gpu_layers=-1の設定でGPUを使い切る快感をぜひ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-16-qwen-3-8-27b-local-setup-guide.jpg",
+    "created_at": "2026-08-16T10:47:28.947812+09:00",
+    "posted": false
   }
 ]
