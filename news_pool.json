@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "GitHub Trending",
-      "title": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "extra": {
-        "stars_today": "333 stars today"
-      },
-      "collected_at": "2026-08-09T21:59:14"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Papaya",
-      "url": "https://www.producthunt.com/products/papaya-4",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your sex's private recap — never leaves your phone </p> <p> <a href=\"https://www.producthunt.com/products/papaya-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1212982?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-09T21:59:15"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Omniwork",
-      "url": "https://www.producthunt.com/products/omniwork-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The Creative Agent OS — create better with desktop AI agents </p> <p> <a href=\"https://www.producthunt.com/products/omniwork-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1196035?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-08-09T21:59:15"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
       "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
@@ -1887,22 +1841,6 @@
       "collected_at": "2026-08-14T13:56:40"
     },
     {
-      "source": "Google News",
-      "title": "中国ＳＭＩＣ、第2四半期利益が3倍超に ＡＩ半導体需要堅調 - ロイター",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oUVl3WEY5N0RReTNXZkxNcVVrdEFFRWZSblVRMm5pRm5IRXMyaWhNWXhjYVRWRnF2eTZ1eU12Vk1LRFZ6Tl94Tlh0MXdGV21VTHlsUXk2TWlIUU5wSjQ1Z0RybG1TVGV1OGdzazBjRWdQOFN5YUE?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Fri, 14 Aug 2026 00:52:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9oUVl3WEY5N0RReTNXZkxNcVVrdEFFRWZSblVRMm5pRm5IRXMyaWhNWXhjYVRWRnF2eTZ1eU12Vk1LRFZ6Tl94Tlh0MXdGV21VTHlsUXk2TWlIUU5wSjQ1Z0RybG1TVGV1OGdzazBjRWdQOFN5YUE?oc=5\" target=\"_blank\">中国ＳＭＩＣ、第2四半期利益が3倍超に ＡＩ半導体需要堅調</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-14T13:56:40"
-    },
-    {
       "source": "HN Local AI",
       "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
       "url": "https://z.ai/blog/glm-5.3",
@@ -2609,7 +2547,64 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-16T21:47:33"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Need for better models on ollama cloud .",
+      "url": "https://www.reddit.com/r/ollama/comments/1vptp65/need_for_better_models_on_ollama_cloud/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-08-16T10:36:57+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We currently have an ancient qwen 3.5 27b on the cloud probably and that sucks compared to later versions , why doesnt ollama update automatically . </p> <p>We have practically ancient models right now on the cloud , support for them should be ended , and only the latest models from open source families should be cloud only . This will really make ollama very pleasing to use as model options will be available. </p> <p>Specially there are a ton of very good open ",
+      "extra": {},
+      "collected_at": "2026-08-16T23:54:02"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Created a 309K Turkish Python Instruction Dataset to fine-tune custom coding models for Ollama / llama.cpp",
+      "url": "https://www.reddit.com/r/ollama/comments/1vpwv5n/created_a_309k_turkish_python_instruction_dataset/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-08-16T13:18:49+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey Ollama community,</p> <p>If you are planning to fine-tune and build your own local Turkish coding models (using Unsloth / LoRA to export to GGUF and run in</p> <p>Ollama via custom Modelfiles), I've open-sourced a massive 309K+ instruction dataset.</p> <p>🔗 **Hugging Face Hub:** <a href=\"https://huggingface.co/datasets/bysismo/Turkish-Python-instruction-300k\">https://huggingface.co/datasets/bysismo/Turkish-Python-instruction-300k</a></p> <p>---</p> <p>### 🛠️",
+      "extra": {},
+      "collected_at": "2026-08-16T23:54:02"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Gaining 3x inference while running Ollama on iGPU instead of CPU",
+      "url": "https://www.reddit.com/r/ollama/comments/1vpvm8e/gaining_3x_inference_while_running_ollama_on_igpu/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-08-16T12:20:24+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1vpvm8e/gaining_3x_inference_while_running_ollama_on_igpu/\"> <img alt=\"Gaining 3x inference while running Ollama on iGPU instead of CPU\" src=\"https://external-preview.redd.it/r2ulWDZ2YjyDXADWX2zQr6nN5qfN30LFL7CnIqfbeiw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=589c83aea1d0450b079b4eee231c2e1ddc84abe5\" title=\"Gaining 3x inference while running Ollama on iGPU instead of CPU\" /> </a> </td><td> &#32; submitted by &#32; <a hre",
+      "extra": {},
+      "collected_at": "2026-08-16T23:54:02"
+    },
+    {
+      "source": "Google News",
+      "title": "米ハイパースケーラーのAI投資は加速 注目すべきポイントは？ - ピクテ・ジャパン",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWXRSTnlxbVB2bkUxR1dldnlWOVoybHppTXBqZGszQXBuUmlLODVxZ0RNOWJQMWUzYVBoTlViMEFXYUlBMGw3Umw4UE10RlB0N3AyNVNfMnU0ZUprNkFHam9pN1cwdVRwMUVaZTlNYXlKLXVoT2xtUjBIS3hyTGZwS2ZYUEM3aVRQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 14 Aug 2026 08:07:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWXRSTnlxbVB2bkUxR1dldnlWOVoybHppTXBqZGszQXBuUmlLODVxZ0RNOWJQMWUzYVBoTlViMEFXYUlBMGw3Umw4UE10RlB0N3AyNVNfMnU0ZUprNkFHam9pN1cwdVRwMUVaZTlNYXlKLXVoT2xtUjBIS3hyTGZwS2ZYUEM3aVRQ?oc=5\" target=\"_blank\">米ハイパースケーラーのAI投資は加速 注目すべきポイントは？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ピクテ・ジャパン</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-16T23:54:03"
     }
   ],
-  "updated_at": "2026-08-16T21:47:36.824244+09:00"
+  "updated_at": "2026-08-16T23:54:06.683070+09:00"
 }
