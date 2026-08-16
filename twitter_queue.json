@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-16-soup-llm-fine-tuning-4gb-vram-review.jpg",
     "created_at": "2026-08-16T12:55:48.600588+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-16-qwen25-27b-vram24gb-setup-guide",
+    "title": "RTX3090・4090でQwen2.5-27Bを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/qwen25-27b-vram24gb-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "24GB VRAMの真価は27Bモデルを動かして初めて分かる。RTX 3090/4090ならQwen2.5-27Bが4-bit量子化でVRAM 18GB程度に収まり、残り6GBを文脈保持に全振り可能。API代を気にせず、ローカルで爆速推論環境を作るPythonガイドを書きました。1000人の壁を越えて「こっち側」へ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-16-qwen25-27b-vram24gb-setup-guide.jpg",
+    "created_at": "2026-08-16T15:43:37.178232+09:00",
+    "posted": false
   }
 ]

@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLaMA",
-      "title": "RTX 5090 96GB spotted on Alibaba?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjcljq/rtx_5090_96gb_spotted_on_alibaba/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-08-09T01:20:24+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vjcljq/rtx_5090_96gb_spotted_on_alibaba/\"> <img alt=\"RTX 5090 96GB spotted on Alibaba?\" src=\"https://preview.redd.it/rzunb9uu39ih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a871629ca059e9bc1e608f1db7ec33ef070cdc9\" title=\"RTX 5090 96GB spotted on Alibaba?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/panchovix\"> /u/panchovix </a> <br /> <span><a href=\"https://i.redd.it/rzunb9uu39ih1.",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-08-09T13:25:17"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Kimi K3 (Unsloth) IQ2-XXS from 711GB down to 478GB!!! Only Multi-language was removed to trim the size",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjanps/kimi_k3_unsloth_iq2xxs_from_711gb_down_to_478gb/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-08-08T23:47:19+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Firstly a big thanks to the poster &quot;hellohazine&quot;, he basically only removed the multi-lingual fat of the model and just kept the English language intact. It is the exact model, and the rest of the model still intact with all of its high intelligence.</p> <p>I think that was a brilliant move, and more of these approaches should be made on new model to help reduce size. 3.8 Qwen MAX next week anyone?</p> <p>Think about how much you could trim out on Deep",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-08-09T13:25:17"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "No wonder Qwen and Gemma are so different",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjb15v/no_wonder_qwen_and_gemma_are_so_different/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "2026-08-09T00:04:15+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Pasted the same HTML/JS code (330 lines) into Qwen 35B A3B and Gemma 26B A4B.</p> <p>Qwen: tokenized the input to 1609 tokens</p> <p>Gemma: tokenized the input to 4258 tokens.</p> <p>Damn. I've never noticed this before and I haven't seen people mention it. That alone helps explain why Qwen is regarded as better at coding and Gemma at language tasks.</p> <p>Qwen can literally see the code as some specific form of input/output, while Gemma is breaking it down int",
-      "extra": {
-        "revenue_score": 8
-      },
-      "collected_at": "2026-08-09T13:25:17"
-    },
-    {
       "source": "r/ollama",
       "title": "Quick survey (2 min) on trust in hardware specs for open-source models",
       "url": "https://www.reddit.com/r/ollama/comments/1vj08k3/quick_survey_2_min_on_trust_in_hardware_specs_for/",
@@ -2470,21 +2422,6 @@
       "collected_at": "2026-08-15T21:45:16"
     },
     {
-      "source": "GitHub Trending",
-      "title": "MakazhanAlpamys/Soup",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-      "extra": {
-        "stars_today": "303 stars today"
-      },
-      "collected_at": "2026-08-15T21:45:16"
-    },
-    {
       "source": "Product Hunt",
       "title": "Zetik",
       "url": "https://www.producthunt.com/products/zetik",
@@ -2664,7 +2601,80 @@
         "revenue_score": 6
       },
       "collected_at": "2026-08-16T10:47:01"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "url": "https://arxiv.org/abs/2608.13122",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Sat, 15 Aug 2026 22:41:51 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-16T15:42:32"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Software Engineering fundamentals matter more",
+      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sat, 15 Aug 2026 22:31:09 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-16T15:42:32"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "extra": {
+        "stars_today": "892 stars today"
+      },
+      "collected_at": "2026-08-16T15:42:39"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.8-27B vs Qwen3.6-27B writing ray-tracers in BASIC",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpiyj9/qwen3827b_vs_qwen3627b_writing_raytracers_in_basic/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-08-16T00:45:04+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vpiyj9/qwen3827b_vs_qwen3627b_writing_raytracers_in_basic/\"> <img alt=\"Qwen3.8-27B vs Qwen3.6-27B writing ray-tracers in BASIC\" src=\"https://preview.redd.it/cjjqj9n7smjh1.png?width=140&amp;height=105&amp;auto=webp&amp;s=e632a1a28885ca173a47ec8d3ba3aa0ddc4f2e24\" title=\"Qwen3.8-27B vs Qwen3.6-27B writing ray-tracers in BASIC\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>one of my llm hobbies is re-creating graphics demo",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-08-16T15:43:08"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "How many people have 24gb over gpu here?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpm70f/how_many_people_have_24gb_over_gpu_here/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-08-16T03:27:29+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I was surprised by the fact that the qwen 3.8 27b download count is about 1 million (globally). This means that even on this subreddit, very few people have used 27b.</p> <p>At most 50k–100k active users, and once you break down the hardware distribution, 8GB, 16GB, 24GB, 32GB cards, Macs, whatever, it's probably under a thousand people who've actually run one on a 24GB+ card.</p> <p>And that figure still counts the tinkerers and casual image-gen gamers. Strip t",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-08-16T15:43:08"
     }
   ],
-  "updated_at": "2026-08-16T12:55:20.041049+09:00"
+  "updated_at": "2026-08-16T15:43:08.563286+09:00"
 }
