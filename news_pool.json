@@ -1,83 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "アンソロピック、独自AI半導体開発へ 「Claude」に最適化 - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UdHpDRTFkSlBON2l2dDNmWEhuWmNHbm96WEhkaWUtbE1jUHFRcE9IeXVEaXBoSnRFVk5CRmtmWlEyVWhFa0tMUDhLSWtIVzNjRmZyQmVNdTdZSVR0RW9tbUVhRkxvUjk1djcyaQ?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 05 Aug 2026 20:38:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5UdHpDRTFkSlBON2l2dDNmWEhuWmNHbm96WEhkaWUtbE1jUHFRcE9IeXVEaXBoSnRFVk5CRmtmWlEyVWhFa0tMUDhLSWtIVzNjRmZyQmVNdTdZSVR0RW9tbUVhRkxvUjk1djcyaQ?oc=5\" target=\"_blank\">アンソロピック、独自AI半導体開発へ 「Claude」に最適化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本経済新聞</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-09T18:37:57"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "SoloUno",
-      "url": "https://www.producthunt.com/products/solouno",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Take control of hair pulling, nail biting & skin picking </p> <p> <a href=\"https://www.producthunt.com/products/solouno?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1210454?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-09T18:37:57"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Macrobite",
-      "url": "https://www.producthunt.com/products/macrobite",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The fastest way to actually get your macros right </p> <p> <a href=\"https://www.producthunt.com/products/macrobite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1205840?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-09T18:37:57"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Persodex",
-      "url": "https://www.producthunt.com/products/persodex-contacts-with-context-for-ios",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your personal CRM that lives on top of your iOS contacts. </p> <p> <a href=\"https://www.producthunt.com/products/persodex-contacts-with-context-for-ios?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1206717?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-09T18:37:57"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "DeepSeek V4 Flash 0731 hits 82.7% on Terminal-Bench 2.1 in an independent public-harness run (445 trials)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjklwo/deepseek_v4_flash_0731_hits_827_on_terminalbench/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-08-09T08:39:12+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Disclosure: I’m the author of Ante.</p> <p>DeepSeek recently reported an 82.7% score on Terminal-Bench 2.1 for DeepSeek V4 Flash 0731. Its evaluation used “DeepSeek Harness minimal mode,” which hasn’t been released yet.</p> <p>We wanted to see whether the reported result could be independently matched using a public, downloadable harness.</p> <p>With Ante 0.preview.71, we got:</p> <ul> <li><strong>368 successful trials out of 445</strong></li> <li><strong>82.7% ",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-08-09T18:38:01"
-    },
-    {
       "source": "GitHub Trending",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
@@ -1655,21 +1578,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "cactus-compute/needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "extra": {
-        "stars_today": "315 stars today"
-      },
-      "collected_at": "2026-08-13T22:20:49"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "megadose/holehe",
       "url": "https://github.com/megadose/holehe",
       "primary_category": "TOOL",
@@ -2658,7 +2566,50 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-16T18:25:20"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Ask HN: Do you know of any company that went back to hand-written code?",
+      "url": "https://news.ycombinator.com/item?id=49318906",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 16 Aug 2026 11:05:47 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-16T21:47:24"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "xai-org/grok-1",
+      "url": "https://github.com/xai-org/grok-1",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "",
+      "summary": "Grok open release",
+      "extra": {
+        "stars_today": "13 stars today"
+      },
+      "collected_at": "2026-08-16T21:47:32"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "CostLogic",
+      "url": "https://www.producthunt.com/products/costlogic",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI-powered construction takeoffs, estimates, and invoices </p> <p> <a href=\"https://www.producthunt.com/products/costlogic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1211172?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-16T21:47:33"
     }
   ],
-  "updated_at": "2026-08-16T18:25:23.760119+09:00"
+  "updated_at": "2026-08-16T21:47:36.824244+09:00"
 }
