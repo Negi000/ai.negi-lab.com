@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Mon, 10 Aug 2026 06:02:38 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-10T19:15:18"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "The Philippines' big offshoring industry is growing despite AI",
-      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 10 Aug 2026 04:35:24 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-10T19:15:18"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "url": "https://www.whodunnitai.com/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 10 Aug 2026 03:18:40 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-10T19:15:18"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AI Group Call",
-      "url": "https://www.producthunt.com/products/ai-group-call",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Type a goal, join a live voice call with six AI minds </p> <p> <a href=\"https://www.producthunt.com/products/ai-group-call?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1218783?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-10T19:15:51"
-    },
-    {
       "source": "GitHub Trending",
       "title": "NanmiCoder/MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
@@ -2492,22 +2438,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Omni by xpander",
-      "url": "https://www.producthunt.com/products/omni-by-xpander",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Stop babysitting your AI agents </p> <p> <a href=\"https://www.producthunt.com/products/omni-by-xpander?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1223058?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-08-17T18:39:43"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Bulbthings",
       "url": "https://www.producthunt.com/products/bulbthings",
       "primary_category": "TOOL",
@@ -2535,7 +2465,95 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-17T18:39:43"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Let’s all thank Georgi Gerganov who gave use llama.cpp",
+      "url": "https://www.reddit.com/r/ollama/comments/1vqm0nu/lets_all_thank_georgi_gerganov_who_gave_use/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-08-17T08:02:39+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1vqm0nu/lets_all_thank_georgi_gerganov_who_gave_use/\"> <img alt=\"Let’s all thank Georgi Gerganov who gave use llama.cpp\" src=\"https://external-preview.redd.it/nubphS13Xx7EWRx86cjsPd4mYfJM2LGzxno7zbC1qsQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e64f3057e565b19ee5c2815d3d23aeb8e903ce9\" title=\"Let’s all thank Georgi Gerganov who gave use llama.cpp\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I was looking into the s",
+      "extra": {},
+      "collected_at": "2026-08-17T21:52:01"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Mindblow with Qwen 3.8 (Cline + VSC on a 5090 mobile)",
+      "url": "https://www.reddit.com/r/ollama/comments/1vqbnez/mindblow_with_qwen_38_cline_vsc_on_a_5090_mobile/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-08-16T23:13:50+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Honestly I am surprise at the speed and performance I am getting from the model, it does not allow for complete hands on as a Claude 5.0 but that is not what I want, i want to be able to iterate and check what I am building step by step, I want a good car I can drive not a self driving car, and I think this is what it is doing for me. </p> <p>Not perfect though, on a task I had it stopped midway to tell me it had deviated from the task (and pointing to some prio",
+      "extra": {},
+      "collected_at": "2026-08-17T21:52:01"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Ollama Cloud Subscription Confusion.",
+      "url": "https://www.reddit.com/r/ollama/comments/1vqlzzs/ollama_cloud_subscription_confusion/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-08-17T08:01:34+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Now that OpenCode plan isn't really worth it anymore, I'm looking for other options. I'm trying to figure out the Ollama Cloud subscription, specifically the $20 tier, because that's my budget for monthly AI usage.</p> <p>If anyone could give me some numbers, for example running a simple test with DeepSeek V4 flash around ~100k tokens, and give me what kind of Session and Weekly usage numbers they see in their settings. It seems to be really difficult to figure ",
+      "extra": {},
+      "collected_at": "2026-08-17T21:52:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "envfix",
+      "url": "https://www.producthunt.com/products/envfix",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A tiny .env doctor for Node.js projects </p> <p> <a href=\"https://www.producthunt.com/products/envfix?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1219620?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-17T21:52:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Vendo",
+      "url": "https://www.producthunt.com/products/vendo",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Let your users build their own features inside your product </p> <p> <a href=\"https://www.producthunt.com/products/vendo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1224529?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-17T21:52:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "TinyFish",
+      "url": "https://www.producthunt.com/products/tinyfish-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The web operating layer for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/tinyfish-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1224641?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-08-17T21:52:04"
     }
   ],
-  "updated_at": "2026-08-17T18:39:47.266245+09:00"
+  "updated_at": "2026-08-17T21:52:07.530793+09:00"
 }

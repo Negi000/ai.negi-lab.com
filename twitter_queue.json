@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-17-omni-xpander-ai-agent-tool-integration-review.jpg",
     "created_at": "2026-08-17T18:40:12.777558+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-17-ai-favorite-color-blue-bias-analysis",
+    "title": "AIが「青」を好む統計学的理由とLLMの出力バイアス",
+    "url": "https://ai.negi-lab.com/posts/ai-favorite-color-blue-bias-analysis/",
+    "category": "NEWS",
+    "viral_tags": "#生成AI #LLMバイアス",
+    "tweet_text": "AIに好きな色を聞くと「青」と答える現象。天声人語でも話題ですが、開発者視点ではエモい話ではなく「統計的な出力バイアス」の問題です。\n\nYouGov等の調査通り、Web上の好意的な文脈で最も頻出する単語がBlueであるため、トークンの予測確率が偏っているだけ。\n\n実務でLLMを使う際は、この「無難な回答への回帰」を理解してプロンプトを組まないと、成果物が平凡な色に染まります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-17-ai-favorite-color-blue-bias-analysis.jpg",
+    "created_at": "2026-08-17T21:52:29.704311+09:00",
+    "posted": false
   }
 ]
