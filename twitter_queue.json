@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-08-17-ai-favorite-color-blue-bias-analysis.jpg",
     "created_at": "2026-08-17T21:52:29.704311+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-18-local-llm-hardware-comparison-guide",
+    "title": "ローカルLLM環境の選び方比較：llama.cpp時代に買うべきGPUとMacの決定打",
+    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLM環境、結局どれを買えばいい？RTX 4090を2枚挿し運用する実務者の結論。推論速度ならRTX 4060 Ti 16GBが最低ライン。巨大モデルならMac Studioのメモリ128GB一択。VRAM 8GB以下は今買うと数ヶ月で後悔します。llama.cpp時代に「仕事で使える」スペックを実機検証ベースでまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-18-local-llm-hardware-comparison-guide.jpg",
+    "created_at": "2026-08-18T02:26:58.421922+09:00",
+    "posted": false
   }
 ]
