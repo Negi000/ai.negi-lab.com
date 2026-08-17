@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-16-qwen25-27b-vram24gb-setup-guide",
-    "title": "RTX3090・4090でQwen2.5-27Bを動かす方法",
-    "url": "https://ai.negi-lab.com/posts/qwen25-27b-vram24gb-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "24GB VRAMの真価は27Bモデルを動かして初めて分かる。RTX 3090/4090ならQwen2.5-27Bが4-bit量子化でVRAM 18GB程度に収まり、残り6GBを文脈保持に全振り可能。API代を気にせず、ローカルで爆速推論環境を作るPythonガイドを書きました。1000人の壁を越えて「こっち側」へ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-16-qwen25-27b-vram24gb-setup-guide.jpg",
-    "created_at": "2026-08-16T15:43:37.178232+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-16-needle-tiny-foundation-model-review",
-    "title": "Needle 使い方：14MBの極小基盤モデルでオンデバイスAIを実装する",
-    "url": "https://ai.negi-lab.com/posts/needle-tiny-foundation-model-review/",
-    "category": "TOOL",
-    "viral_tags": "#エッジAI #IoT開発",
-    "tweet_text": "14MBの極小AIモデル「Needle」が衝撃的。\nRTXもクラウドも不要、ESP32やスマホ、ウェアラブルで直接動く「基盤モデル」です。\n従来はif-elseで書いていたセンサー制御や命令解釈を、わずか数MBの知能に置き換える。\n日本語は弱いが、エッジAIの設計思想を根本から変えるポテンシャルがあります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-16-needle-tiny-foundation-model-review.jpg",
-    "created_at": "2026-08-16T18:25:46.657098+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-16-smic-q2-profit-tripled-ai-chip-demand",
     "title": "中国SMIC利益3倍が示すAI半導体分断の現実と開発者へのインフラ戦略",
     "url": "https://ai.negi-lab.com/posts/smic-q2-profit-tripled-ai-chip-demand/",
