@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-15-google-ai-image-visible-watermark-removal-synthid",
-    "title": "Google生成画像の「可視透かし」削除設定が追加。SynthIDの不可視追跡が変えるAI著作権の実務",
-    "url": "https://ai.negi-lab.com/posts/google-ai-image-visible-watermark-removal-synthid/",
-    "category": "NEWS",
-    "viral_tags": "#画像生成AI #GoogleCloud",
-    "tweet_text": "GoogleのAI画像から「可視ロゴ」が消去可能に。Imagen 3等の生成画像で邪魔だった右下の透かしをオフにできます。\n\nただし重要なのは「不可視の電子透かし」SynthIDは維持される点。ピクセルに埋め込む技術でトリミングや圧縮にも耐えます。\n\nプロの実務では「AI生成感」を消しつつ、権利関係を裏で担保する運用が標準になりそうです。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-15-google-ai-image-visible-watermark-removal-synthid.jpg",
-    "created_at": "2026-08-15T21:45:41.396970+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-16-glm-5-3-release-local-llm-gpu-guide",
     "title": "GLM 5.3リリース！ローカルLLM構築におすすめのGPU・Mac選び方と比較",
     "url": "https://ai.negi-lab.com/posts/glm-5-3-release-local-llm-gpu-guide/",
