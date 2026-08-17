@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-17-ai-agent-safe-docker-sandbox-tutorial.jpg",
     "created_at": "2026-08-17T16:01:16.291559+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-17-omni-xpander-ai-agent-tool-integration-review",
+    "title": "Omni by xpander：AIエージェントの「API連携」に費やす時間をゼロにするインターフェース",
+    "url": "https://ai.negi-lab.com/posts/omni-xpander-ai-agent-tool-integration-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントにAPI操作をさせる際の「ベビーシッター」を卒業できる。Omni by xpanderはGitHubやSlack、Salesforce等100以上のツール連携を数行のコードで標準化。認証管理やリトライ処理を抽象化してくれるから、開発者はプロンプトとロジックに集中できる。CrewAI使いなら試す価値あり。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-17-omni-xpander-ai-agent-tool-integration-review.jpg",
+    "created_at": "2026-08-17T18:40:12.777558+09:00",
+    "posted": false
   }
 ]
