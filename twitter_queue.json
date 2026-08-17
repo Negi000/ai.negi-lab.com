@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-16-qwen-3-8-27b-local-setup-guide",
-    "title": "Qwen-3.8-27Bをローカル環境で動かし、長文コンテキストにも対応した実用的なチャットUIを構築します。",
-    "url": "https://ai.negi-lab.com/posts/qwen-3-8-27b-local-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen3",
-    "tweet_text": "Qwen 3.8 27Bが遂に登場。VRAM 24GBのRTX 4090なら4-bit量子化で全レイヤーが余裕で載り、爆速で推論可能です。\n\n実務で使うならAPIよりローカル。llama-cpp-pythonでストリーミング実装すれば、セキュアな自炊AIチャットが30分で完成します。\n\nn_gpu_layers=-1の設定でGPUを使い切る快感をぜひ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-16-qwen-3-8-27b-local-setup-guide.jpg",
-    "created_at": "2026-08-16T10:47:28.947812+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-16-soup-llm-fine-tuning-4gb-vram-review",
-    "title": "Soup 使い方｜VRAM 4GBで8Bモデルを学習させる新星をレビュー",
-    "url": "https://ai.negi-lab.com/posts/soup-llm-fine-tuning-4gb-vram-review/",
-    "category": "TOOL",
-    "viral_tags": "#ローカルLLM #個人開発",
-    "tweet_text": "VRAM 4GBのノートPCでLlama-3-8Bを学習できる「Soup」が凄い。レイヤーストリーミング技術で、本来なら絶望的な低スペック環境でもファインチューニングが可能に。YAMLファイル1つで設定完結、Pythonコード不要。速度より「まず動かす」を優先する個人開発者の救世主。RTX 4050/3050勢は試す価値あり。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-16-soup-llm-fine-tuning-4gb-vram-review.jpg",
-    "created_at": "2026-08-16T12:55:48.600588+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-16-qwen25-27b-vram24gb-setup-guide",
     "title": "RTX3090・4090でQwen2.5-27Bを動かす方法",
     "url": "https://ai.negi-lab.com/posts/qwen25-27b-vram24gb-setup-guide/",
