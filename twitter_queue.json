@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-17-ai-agent-safe-docker-sandbox-tutorial",
-    "title": "AIエージェントをDockerで安全に動かすサンドボックス構築方法",
-    "url": "https://ai.negi-lab.com/posts/ai-agent-safe-docker-sandbox-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#AIエージェント #Python",
-    "tweet_text": "AIエージェントに「rm -rf」される恐怖から卒業。Dockerを使った完全隔離型のサンドボックス構築手法をまとめました。\n単に動かすだけでなく、メモリ制限・CPU割当・ネットワーク遮断など、SIer実務視点での「ガードレール」を徹底解説。\nRTX 4090環境で検証済みですが、CPU実行メインなので全エンジニアが今すぐ試せます。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-17-ai-agent-safe-docker-sandbox-tutorial.jpg",
-    "created_at": "2026-08-17T16:01:16.291559+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-17-omni-xpander-ai-agent-tool-integration-review",
     "title": "Omni by xpander：AIエージェントの「API連携」に費やす時間をゼロにするインターフェース",
     "url": "https://ai.negi-lab.com/posts/omni-xpander-ai-agent-tool-integration-review/",
