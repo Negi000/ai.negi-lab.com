@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-17-apple-silicon-mlx-local-llm-tutorial",
-    "title": "MLX 使い方 入門 (Apple Silicon搭載MacでLLMを動かす方法)",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Siliconの力を解放する。MacでLLMを動かすなら、PyTorchよりMLXが圧倒的に速い。Unified Memoryを直接叩く「ゼロコピー」の恩恵で、M2/M3なら7Bモデルが爆速で動く。API代ゼロ、プライバシー100%のローカルAI環境は30分で作れる。メモリは最低16GB、理想は32GB以上。買う前にメモリだけはケチるな。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-17-apple-silicon-mlx-local-llm-tutorial.jpg",
-    "created_at": "2026-08-17T10:45:06.293455+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-17-public-apis-free-api-list-review",
-    "title": "public-apis 使い方と無料APIの選定基準",
-    "url": "https://ai.negi-lab.com/posts/public-apis-free-api-list-review/",
-    "category": "TOOL",
-    "viral_tags": "#個人開発 #API",
-    "tweet_text": "外部APIを探す時間はもう不要。GitHubでスター28万超えの「public-apis」は無料APIの宝庫。\n\nAuthの有無、HTTPS、CORS対応が表形式で一発でわかる。プロトタイプ開発や、AIエージェントに渡す外部ツールを探すならこれ一択。\n\nただし、リンク切れも15%ほど混ざるから「本番導入」より「検証・爆速モック用」として割り切るのがエンジニアの賢い使い方。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-17-public-apis-free-api-list-review.jpg",
-    "created_at": "2026-08-17T12:58:07.596869+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-17-ai-agent-safe-docker-sandbox-tutorial",
     "title": "AIエージェントをDockerで安全に動かすサンドボックス構築方法",
     "url": "https://ai.negi-lab.com/posts/ai-agent-safe-docker-sandbox-tutorial/",
