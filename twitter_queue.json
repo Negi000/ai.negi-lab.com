@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-08-18-whisper-transcription-microphone-recommendation-guide.jpg",
     "created_at": "2026-08-18T06:34:40.596181+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-18-llama-cpp-16gb-vram-qwen-73k-context",
+    "title": "16GB VRAMでQwen 2.5 32Bを73kコンテキストで動かすllama.cpp最適化設定",
+    "url": "https://ai.negi-lab.com/posts/llama-cpp-16gb-vram-qwen-73k-context/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "16GB VRAMのGPUで32BクラスのLLMを実用レベルで回す。llama.cppのKVキャッシュをq4_0に圧縮すれば、RTX 4060 Tiでも73kコンテキストを確保可能です。Agentic Codingで「プロジェクト全体を読み込ませる」なら、モデルの巨大化よりコンテキストの確保を優先すべき。検証の結果、精度低下も体感不能なレベルでした。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-18-llama-cpp-16gb-vram-qwen-73k-context.jpg",
+    "created_at": "2026-08-18T10:40:29.385980+09:00",
+    "posted": false
   }
 ]

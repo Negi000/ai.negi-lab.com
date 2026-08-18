@@ -1,47 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Learning more about Claude's mathematical capabilities",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 10 Aug 2026 17:41:13 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-11T06:53:09"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 10 Aug 2026 14:20:41 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-11T06:53:09"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 10 Aug 2026 20:53:02 +0000",
-      "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-11T06:53:11"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
       "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
@@ -2549,7 +2508,139 @@
         "revenue_score": 6
       },
       "collected_at": "2026-08-18T06:34:12"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 17 Aug 2026 21:03:18 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-18T10:39:49"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "30-year Treasury yield tops 5.31%, the highest in 19 years",
+      "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 17 Aug 2026 18:14:07 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-18T10:39:49"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Llama.cpp v0.1.0",
+      "url": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Mon, 17 Aug 2026 17:56:06 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-18T10:39:49"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 17 Aug 2026 23:56:26 +0000",
+      "summary": "The model maker added $18 billion in annualized revenue in two months.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-18T10:39:58"
+    },
+    {
+      "source": "Google News",
+      "title": "クラーケンの親会社PaywardがAnthropicのProject Glasswingに参加し、AIセキュリティ推進に取り組む - CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUdFakxMWi1DbjJGS2hUeUVObFNmWl9KNXNPaXZ1aXBlVkxlZHNxRWU5eUdQY1JiVU1KSXZZYmFxa29fYkNIWlAtWU9lSkhLVXZOZTUyZVN0MldlNlNKRUdSQ0tPNnBKb1RSR1RWNEZscTRFN1J3TGl4WFVXVDJJMHIwVGtTLXpnNEtoT0Q4d29wUWIyamZWRFlmSlIwdnhnOUFYOTdCSERkdzZTWVpWek5nWXBIb19YbEJoR1I4TQ?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 17 Aug 2026 22:12:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUdFakxMWi1DbjJGS2hUeUVObFNmWl9KNXNPaXZ1aXBlVkxlZHNxRWU5eUdQY1JiVU1KSXZZYmFxa29fYkNIWlAtWU9lSkhLVXZOZTUyZVN0MldlNlNKRUdSQ0tPNnBKb1RSR1RWNEZscTRFN1J3TGl4WFVXVDJJMHIwVGtTLXpnNEtoT0Q4d29wUWIyamZWRFlmSlIwdnhnOUFYOTdCSERkdzZTWVpWek5nWXBIb19YbEJoR1I4TQ?oc=5\" target=\"_blank\">クラーケンの親会社PaywardがAnthropicのProject Glasswingに参加し、AIセキュリティ推進に取り組む</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinDesk</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-18T10:39:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Meridian",
+      "url": "https://www.producthunt.com/products/meridian-16",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Don't let your work go unnoticed. Get promoted! </p> <p> <a href=\"https://www.producthunt.com/products/meridian-16?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1222691?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-18T10:39:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Artificial Analysis' Qwen3.8-27B benchmarks put it neck and neck with DeepSeek V4 and GPT-5.6 Luna Max",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqyq8r/artificial_analysis_qwen3827b_benchmarks_put_it/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-08-17T17:26:46+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/anderspitman\"> /u/anderspitman </a> <br /> <span><a href=\"https://artificialanalysis.ai/models/qwen3-8-27b\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vqyq8r/artificial_analysis_qwen3827b_benchmarks_put_it/\">[comments]</a></span>",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-08-18T10:40:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB VRAM (73k Context, Agentic Coding)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrt86/after_pushing_1m_tokens_through_qwen_38_27b_here/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-08-17T13:05:26+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vqrt86/after_pushing_1m_tokens_through_qwen_38_27b_here/\"> <img alt=\"After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB VRAM (73k Context, Agentic Coding)\" src=\"https://preview.redd.it/9new0k9toxjh1.png?width=140&amp;height=82&amp;auto=webp&amp;s=1e5a1ae2b537d4e282a31a1efce1b1915e0b61e9\" title=\"After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB",
+      "extra": {
+        "revenue_score": 16
+      },
+      "collected_at": "2026-08-18T10:40:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Waiting for Qwen 3.8 35B A3B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vr7wz5/waiting_for_qwen_38_35b_a3b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-08-17T23:06:05+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vr7wz5/waiting_for_qwen_38_35b_a3b/\"> <img alt=\"Waiting for Qwen 3.8 35B A3B\" src=\"https://preview.redd.it/1z436nq2o0kh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4adce81ce47a094512ecdda7766246965ecc86b0\" title=\"Waiting for Qwen 3.8 35B A3B\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/puffyarizona\"> /u/puffyarizona </a> <br /> <span><a href=\"https://i.redd.it/1z436nq2o0kh1.jpeg\">[l",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-08-18T10:40:01"
     }
   ],
-  "updated_at": "2026-08-18T06:34:15.334684+09:00"
+  "updated_at": "2026-08-18T10:40:01.024344+09:00"
 }
