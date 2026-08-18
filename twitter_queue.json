@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-08-18-llama-cpp-16gb-vram-qwen-73k-context.jpg",
     "created_at": "2026-08-18T10:40:29.385980+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-18-blender-agent-bridge-mcp-workflow-review",
+    "title": "Blender Agent Bridge レビュー：3D制作をAIエージェントで自動化する方法",
+    "url": "https://ai.negi-lab.com/posts/blender-agent-bridge-mcp-workflow-review/",
+    "category": "TOOL",
+    "viral_tags": "#Blender3d #MCP",
+    "tweet_text": "BlenderをAIエージェントで直接操作する「Blender Agent Bridge」が実用的。MCP対応でClaude等から自然言語でbpyを叩ける。\n「赤い球体を10個ランダムに配置してレンダリング」が数秒。手動のコピペ作業から解放される。\n3Dアセットの量産や自動化パイプラインを組むエンジニアなら導入しない理由がない。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-18-blender-agent-bridge-mcp-workflow-review.jpg",
+    "created_at": "2026-08-18T12:53:59.425190+09:00",
+    "posted": false
   }
 ]

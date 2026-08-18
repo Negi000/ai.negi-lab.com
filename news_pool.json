@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 11 Aug 2026 00:03:18 +0000",
-      "summary": "San Francisco's housing market is in trouble again.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-11T11:11:18"
-    },
-    {
       "source": "HN AI Companies",
       "title": "How Claude marks AI-generated content",
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
@@ -2610,23 +2595,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB VRAM (73k Context, Agentic Coding)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrt86/after_pushing_1m_tokens_through_qwen_38_27b_here/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-08-17T13:05:26+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vqrt86/after_pushing_1m_tokens_through_qwen_38_27b_here/\"> <img alt=\"After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB VRAM (73k Context, Agentic Coding)\" src=\"https://preview.redd.it/9new0k9toxjh1.png?width=140&amp;height=82&amp;auto=webp&amp;s=1e5a1ae2b537d4e282a31a1efce1b1915e0b61e9\" title=\"After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB",
-      "extra": {
-        "revenue_score": 16
-      },
-      "collected_at": "2026-08-18T10:40:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Waiting for Qwen 3.8 35B A3B",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vr7wz5/waiting_for_qwen_38_35b_a3b/",
       "primary_category": "GUIDE",
@@ -2640,7 +2608,38 @@
         "revenue_score": 7
       },
       "collected_at": "2026-08-18T10:40:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Skriptr",
+      "url": "https://www.producthunt.com/products/skriptr",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI workspace for students </p> <p> <a href=\"https://www.producthunt.com/products/skriptr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1224203?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-18T12:52:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Blender Agent Bridge",
+      "url": "https://www.producthunt.com/products/blender-agent-bridge",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Open-source MCP bridge for Blender AI workflows </p> <p> <a href=\"https://www.producthunt.com/products/blender-agent-bridge?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1224464?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-18T12:52:46"
     }
   ],
-  "updated_at": "2026-08-18T10:40:01.024344+09:00"
+  "updated_at": "2026-08-18T12:52:49.731095+09:00"
 }
