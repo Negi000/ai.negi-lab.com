@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-17-local-llm-python-dataset-gpu-guide",
-    "title": "ローカルLLMで自作コーディングAIを作るためのGPU・Mac選び方ガイド",
-    "url": "https://ai.negi-lab.com/posts/local-llm-python-dataset-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "ローカルLLMで自作AIを作るならVRAM 16GBが最低ライン。30万件超のPythonデータセットを扱うなら、推論速度より「メモリ不足で落ちないこと」が最優先です。RTX 4060 Ti 16GBなら10万円以下で戦える環境が作れる。Mac派ならメモリ64GB以上を死守。実務で後悔しないための機材選定基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-17-local-llm-python-dataset-gpu-guide.jpg",
-    "created_at": "2026-08-17T06:29:34.891164+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-17-apple-silicon-mlx-local-llm-tutorial",
     "title": "MLX 使い方 入門 (Apple Silicon搭載MacでLLMを動かす方法)",
     "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
