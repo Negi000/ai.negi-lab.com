@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-19-local-llm-vram-gpu-comparison-guide.jpg",
     "created_at": "2026-08-19T06:33:10.718791+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-19-apple-silicon-mlx-local-llm-tutorial",
+    "title": "MLX入門：Apple SiliconでローカルLLMを爆速で動かす方法",
+    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "M4 Macも登場し、Apple SiliconでのローカルLLM運用が一段と現実的になりました。MLXを使えば、Llama 3 8Bクラスなら30 tokens/sec超えの爆速で動きます。API料金もプライバシーも気にせず、Macのユニファイドメモリをフル活用して自分専用のAI環境を作る手順を徹底解説。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-19-apple-silicon-mlx-local-llm-tutorial.jpg",
+    "created_at": "2026-08-19T10:42:04.280546+09:00",
+    "posted": false
   }
 ]
