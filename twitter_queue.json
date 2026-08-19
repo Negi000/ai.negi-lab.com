@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-18-llama-cpp-16gb-vram-qwen-73k-context",
-    "title": "16GB VRAMでQwen 2.5 32Bを73kコンテキストで動かすllama.cpp最適化設定",
-    "url": "https://ai.negi-lab.com/posts/llama-cpp-16gb-vram-qwen-73k-context/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "16GB VRAMのGPUで32BクラスのLLMを実用レベルで回す。llama.cppのKVキャッシュをq4_0に圧縮すれば、RTX 4060 Tiでも73kコンテキストを確保可能です。Agentic Codingで「プロジェクト全体を読み込ませる」なら、モデルの巨大化よりコンテキストの確保を優先すべき。検証の結果、精度低下も体感不能なレベルでした。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-18-llama-cpp-16gb-vram-qwen-73k-context.jpg",
-    "created_at": "2026-08-18T10:40:29.385980+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-18-blender-agent-bridge-mcp-workflow-review",
-    "title": "Blender Agent Bridge レビュー：3D制作をAIエージェントで自動化する方法",
-    "url": "https://ai.negi-lab.com/posts/blender-agent-bridge-mcp-workflow-review/",
-    "category": "TOOL",
-    "viral_tags": "#Blender3d #MCP",
-    "tweet_text": "BlenderをAIエージェントで直接操作する「Blender Agent Bridge」が実用的。MCP対応でClaude等から自然言語でbpyを叩ける。\n「赤い球体を10個ランダムに配置してレンダリング」が数秒。手動のコピペ作業から解放される。\n3Dアセットの量産や自動化パイプラインを組むエンジニアなら導入しない理由がない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-18-blender-agent-bridge-mcp-workflow-review.jpg",
-    "created_at": "2026-08-18T12:53:59.425190+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-18-claude-code-cursor-hybrid-coding-guide",
     "title": "Claude CodeとCursorを併用して爆速でWebアプリを開発する方法",
     "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-coding-guide/",
