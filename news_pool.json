@@ -1,36 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "Claudeの生成した文章に「目に見えない透かし」を埋め込むとAnthropicが発表、日本を含めた全世界で適用される予定 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RQkpkam9lY2V0MlV4a1dEVjdvSmxZVlJJRHBhRXpIOE96WHJoWVpGQzhiWFZibktmTzQzZE55T01DYW4xWVBIV19sMGhZbGRVS2tzNF9jQWJMNmE4NGd1LWVHMmE2NGxwR1Z6QVMzSVVLeExZbm1zVzln?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 12 Aug 2026 01:40:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5RQkpkam9lY2V0MlV4a1dEVjdvSmxZVlJJRHBhRXpIOE96WHJoWVpGQzhiWFZibktmTzQzZE55T01DYW4xWVBIV19sMGhZbGRVS2tzNF9jQWJMNmE4NGd1LWVHMmE2NGxwR1Z6QVMzSVVLeExZbm1zVzln?oc=5\" target=\"_blank\">Claudeの生成した文章に「目に見えない透かし」を埋め込むとAnthropicが発表、日本を含めた全世界で適用される予定</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-12T11:28:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "All the more reason not to use Closed Models ... Claude now officially \"marks\" AI-generated content ... steganographically, apparently ... and there are false positives already",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlr43b/all_the_more_reason_not_to_use_closed_models/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "2026-08-11T19:18:30+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/johnnyApplePRNG\"> /u/johnnyApplePRNG </a> <br /> <span><a href=\"https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vlr43b/all_the_more_reason_not_to_use_closed_models/\">[comments]</a></span>",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-08-12T11:29:02"
-    },
-    {
       "source": "r/LocalLLaMA Weekly",
       "title": "They almost catched up on Frontier performance, so now catching up on prices",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh2pss/they_almost_catched_up_on_frontier_performance_so/",
@@ -2763,7 +2733,70 @@
         "revenue_score": 6
       },
       "collected_at": "2026-08-19T10:41:36"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Reckon",
+      "url": "https://www.producthunt.com/products/reckon",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The decision journal that helps you calibrate </p> <p> <a href=\"https://www.producthunt.com/products/reckon?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1216574?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-19T12:54:16"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Alibaba's RISC-V CPU, XuanTie C950, Runs Qwen-3.8 27B at 30 tps",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs0wsl/alibabas_riscv_cpu_xuantie_c950_runs_qwen38_27b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-08-18T20:24:39+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vs0wsl/alibabas_riscv_cpu_xuantie_c950_runs_qwen38_27b/\"> <img alt=\"Alibaba's RISC-V CPU, XuanTie C950, Runs Qwen-3.8 27B at 30 tps\" src=\"https://external-preview.redd.it/GbBzuE6CtmuYsp0wg607iWjhYOFzTGo8N_b2fc6ejFw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d1f6dc52d233539bb4257874c2ce7001a5cc165\" title=\"Alibaba's RISC-V CPU, XuanTie C950, Runs Qwen-3.8 27B at 30 tps\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\">",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-08-19T12:54:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "DFlash 2 available for Qwen 3.8 27B and Muse Glimmer",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs2tsn/dflash_2_available_for_qwen_38_27b_and_muse/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-08-18T21:36:48+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vs2tsn/dflash_2_available_for_qwen_38_27b_and_muse/\"> <img alt=\"DFlash 2 available for Qwen 3.8 27B and Muse Glimmer\" src=\"https://external-preview.redd.it/iuO32Xb48TjWt4YmwJd44nG542Ne4GwmhvY39wDlppY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ee1b1c50f194e27259230944976fba9d09d2e4b7\" title=\"DFlash 2 available for Qwen 3.8 27B and Muse Glimmer\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Apparently a second vers",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-08-19T12:54:17"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "New midsize Qwen 3.8 model coming next week (hopefully) according to community manager!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs9zym/new_midsize_qwen_38_model_coming_next_week/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-08-19T02:44:37+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Community manager mentioned this in the Qwen Ambassador Discord, put an X reaction on someone asking for 35B... and said </p> <blockquote> <p>We'll have a new midsize open weight model coming next week (hopfully), This midsize model won't provide early access due to the schedule</p> </blockquote> <p>Thinking it's going to be over 100B.</p> <p>Exciting!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/sleepy_roger\"> /u/sleep",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-08-19T12:54:17"
     }
   ],
-  "updated_at": "2026-08-19T10:41:40.122499+09:00"
+  "updated_at": "2026-08-19T12:54:17.423439+09:00"
 }
