@@ -1,81 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Wed, 12 Aug 2026 07:51:20 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-12T22:18:39"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "smicallef/spiderfoot",
-      "url": "https://github.com/smicallef/spiderfoot",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "extra": {
-        "stars_today": "40 stars today"
-      },
-      "collected_at": "2026-08-12T22:18:41"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "Lightricks/LTX-2",
-      "url": "https://github.com/Lightricks/LTX-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-      "extra": {
-        "stars_today": "40 stars today"
-      },
-      "collected_at": "2026-08-12T22:18:41"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Ballet",
-      "url": "https://www.producthunt.com/products/ballet",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Agentic workflows that deliver the same outcome every time </p> <p> <a href=\"https://www.producthunt.com/products/ballet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1217503?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-12T22:18:42"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "tash",
-      "url": "https://www.producthunt.com/products/tash",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The investment platform for trading cards </p> <p> <a href=\"https://www.producthunt.com/products/tash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1218956?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-12T22:18:42"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
       "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
@@ -2717,21 +2642,6 @@
       "collected_at": "2026-08-19T21:54:46"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 19 Aug 2026 12:00:00 +0000",
-      "summary": "It's the data, stupid.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-19T21:54:55"
-    },
-    {
       "source": "Product Hunt",
       "title": "Sider 6.0",
       "url": "https://www.producthunt.com/products/chatgpt-sidebar-chrome-extension",
@@ -2761,7 +2671,98 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-19T21:54:55"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "marceloprates/prettymaps",
+      "url": "https://github.com/marceloprates/prettymaps",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "extra": {
+        "stars_today": "58 stars today"
+      },
+      "collected_at": "2026-08-20T00:04:46"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "youssofal/MTPLX",
+      "url": "https://github.com/youssofal/MTPLX",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.",
+      "extra": {
+        "stars_today": "44 stars today"
+      },
+      "collected_at": "2026-08-20T00:04:46"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 19 Aug 2026 15:00:00 +0000",
+      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-20T00:04:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Loopcase",
+      "url": "https://www.producthunt.com/products/loopcase",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Looping case study videos from your images, no keyframes </p> <p> <a href=\"https://www.producthunt.com/products/loopcase?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1226291?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-20T00:04:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ressearch AI",
+      "url": "https://www.producthunt.com/products/ressearch-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI workspace for reproducible scientific research </p> <p> <a href=\"https://www.producthunt.com/products/ressearch-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1226016?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-20T00:04:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Claude Watermark Remover",
+      "url": "https://www.producthunt.com/products/claude-watermark",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Find and remove every trace AI leaves in your text </p> <p> <a href=\"https://www.producthunt.com/products/claude-watermark?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1226478?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-20T00:04:47"
     }
   ],
-  "updated_at": "2026-08-19T21:54:59.062757+09:00"
+  "updated_at": "2026-08-20T00:04:50.763814+09:00"
 }
