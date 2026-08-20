@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-19-claude-code-cursor-ai-coding-tutorial",
-    "title": "Claude CodeとCursorを併用する最強のAIコーディング環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-ai-coding-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ClaudeCode #Cursor",
-    "tweet_text": "Cursor ProとClaude Codeを併用する開発フローが、現時点でAIコーディングの完成形だと確信した。\n\nCursorでフロントの骨組みを書き、Claude Code（CLI）でバックエンドの実装とテストを全自動で回す。\n特にClaude Codeの「テストが通るまで自律的にデバッグし続ける粘り強さ」はCursorのComposerを凌駕する。\n\nAPI代（Tier 2推奨）はかかるが、複雑なリファクタリングが数分で終わる体験は全エンジニアが通るべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-19-claude-code-cursor-ai-coding-tutorial.jpg",
-    "created_at": "2026-08-19T15:48:37.334800+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-19-microsoft-qlib-quant-ai-review-tutorial",
-    "title": "microsoft/qlib AIでクオンツ投資を自動化するプラットフォームの真価",
-    "url": "https://ai.negi-lab.com/posts/microsoft-qlib-quant-ai-review-tutorial/",
-    "category": "TOOL",
-    "viral_tags": "#クオンツ #Python",
-    "tweet_text": "MicrosoftのQlib、本気でAIクオンツやるなら避けて通れないツール。10年分のデータ演算が数秒で終わる独自エンジンと、先読みバイアスを構造的に防ぐ設計は流石。\n\n正直セットアップは激ムズで、ドキュメントも不親切。でも、これを使いこなせばMLモデルのABテストをABテスト感覚で回せる。\n\n本気で勝てるアルゴリズムを追いたいエンジニアは、連休を潰してでも環境構築する価値がある。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-19-microsoft-qlib-quant-ai-review-tutorial.jpg",
-    "created_at": "2026-08-19T18:34:38.839955+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-19-ai-cancer-cure-data-quality-startup",
     "title": "AIが癌を治せない残酷な理由。創薬を加速する「質の高いデータ」の正体",
     "url": "https://ai.negi-lab.com/posts/ai-cancer-cure-data-quality-startup/",
