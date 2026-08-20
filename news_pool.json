@@ -1,77 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "McDonald's Built a 515-Page Dossier on Me. It Says I'll Never Stop Eating There",
-      "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 13 Aug 2026 14:37:51 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-14T00:32:37"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "AI agents lie, cheat and steal. That is putting off users",
-      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Thu, 13 Aug 2026 13:28:45 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-14T00:32:37"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Thu, 13 Aug 2026 15:30:52 +0000",
-      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-14T00:32:45"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Caveman",
-      "url": "https://www.producthunt.com/products/caveman",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> why use many token when few do trick </p> <p> <a href=\"https://www.producthunt.com/products/caveman?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1220849?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-14T00:32:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Skilldocs",
-      "url": "https://www.producthunt.com/products/skilldocs",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Figma for markdown </p> <p> <a href=\"https://www.producthunt.com/products/skilldocs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1221646?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-14T00:32:46"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Gemini 3.7 Flash",
       "url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash",
@@ -2648,7 +2577,64 @@
         "revenue_score": 3
       },
       "collected_at": "2026-08-21T00:08:03"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Clean up Claude 5's token vomit with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 20 Aug 2026 15:26:02 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-21T02:28:17"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Hacking with Claude on a $27 Smart Watch",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 20 Aug 2026 14:08:09 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-21T02:28:17"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 20 Aug 2026 17:18:58 +0000",
+      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-21T02:28:26"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "MeetStream AI",
+      "url": "https://www.producthunt.com/products/meetstream-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Unified API & Infra for AI Meeting Agents </p> <p> <a href=\"https://www.producthunt.com/products/meetstream-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1226457?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-21T02:28:27"
     }
   ],
-  "updated_at": "2026-08-21T00:08:06.331053+09:00"
+  "updated_at": "2026-08-21T02:28:30.840031+09:00"
 }

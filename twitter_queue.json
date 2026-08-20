@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-08-20-global-ai-market-forecast-2032-local-shift.jpg",
     "created_at": "2026-08-20T21:57:18.632386+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-21-qwen38-27b-unsloth-gguf-gpu-guide",
+    "title": "Qwen3.8-27Bをローカルで動かすためのGPU・Mac選び方ガイド",
+    "url": "https://ai.negi-lab.com/posts/qwen38-27b-unsloth-gguf-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "Qwen3.8-27BのUnsloth GGUF版が登場。精度10%向上はデカいけど、27Bクラスを仕事で使うならハード選びが全て。\n\nVRAM 24GB（RTX 3090/4090）なら快適だけど、12GB以下だとメインメモリへのオフロードで推論が激重になる。\n\nMacなら統一メモリ32GBは最低ライン、64GBが安牌。中途半端なスペックで挑むと、思考の速度にAIが追いつかずストレス溜まるだけです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-21-qwen38-27b-unsloth-gguf-gpu-guide.jpg",
+    "created_at": "2026-08-21T02:28:54.734700+09:00",
+    "posted": false
   }
 ]
