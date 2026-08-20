@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "Flutter 3.47",
-      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 12 Aug 2026 23:46:00 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-13T19:04:12"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "White House Authorizes Private U.S. Companies to Hack Foreign Cybercrime Groups",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 12 Aug 2026 23:29:49 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-13T19:04:12"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
-      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 12 Aug 2026 16:54:25 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-13T19:04:12"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Dishylink",
-      "url": "https://www.producthunt.com/products/dishylink",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open-source Starlink monitoring app for Mac, Windows and Web </p> <p> <a href=\"https://www.producthunt.com/products/dishylink?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1221239?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-13T19:04:22"
-    },
-    {
       "source": "HN AI Hot",
       "title": "If I own Claude's outputs why can't I train my own model on them?",
       "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
@@ -2612,22 +2558,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Shape",
-      "url": "https://www.producthunt.com/products/shape-5",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The agentic IDE for designers and programmers </p> <p> <a href=\"https://www.producthunt.com/products/shape-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1227189?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-20T18:33:03"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Peach Co-Pilot",
       "url": "https://www.producthunt.com/products/peach-co-pilot",
       "primary_category": "TOOL",
@@ -2640,7 +2570,115 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-20T18:33:03"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "extra": {
+        "stars_today": "28 stars today"
+      },
+      "collected_at": "2026-08-20T21:56:42"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Osmantic/ODS",
+      "url": "https://github.com/Osmantic/ODS",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+      "extra": {
+        "stars_today": "168 stars today"
+      },
+      "collected_at": "2026-08-20T21:56:42"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "microsoft/agent-framework",
+      "url": "https://github.com/microsoft/agent-framework",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "extra": {
+        "stars_today": "85 stars today"
+      },
+      "collected_at": "2026-08-20T21:56:42"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 20 Aug 2026 12:11:57 +0000",
+      "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-20T21:56:42"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Lifelong",
+      "url": "https://www.producthunt.com/products/lifelong-the-family-health-company",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your whole family’s health in one place. </p> <p> <a href=\"https://www.producthunt.com/products/lifelong-the-family-health-company?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1227258?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-20T21:56:43"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "The New Calendly",
+      "url": "https://www.producthunt.com/products/calendly",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Handle all of the work before, during, and after meetings </p> <p> <a href=\"https://www.producthunt.com/products/calendly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1227327?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-20T21:56:43"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Grok 4.6",
+      "url": "https://www.producthunt.com/products/grok-4-6-7",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Frontier Intelligence for Long-Running Agents </p> <p> <a href=\"https://www.producthunt.com/products/grok-4-6-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1226841?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-20T21:56:43"
     }
   ],
-  "updated_at": "2026-08-20T18:33:06.467195+09:00"
+  "updated_at": "2026-08-20T21:56:46.243042+09:00"
 }
