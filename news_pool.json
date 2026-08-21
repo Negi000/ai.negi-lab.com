@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "中国ＳＭＩＣが値上げ、ＡＩ需要旺盛で - ロイター",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lcjlURC1DaWFmWjNMeWN3Z2t3c1l2Q2JrM1BRZVc3R2pURnIwQm1nOXJOWmZmdXpvc2g5UkVFU2U2d0x3dXI3UWthTFF2aUhxaHdhR0xCLXNOZGl2VjlhYzB1NENsQUpzaWxrZWM1dVFoRFRzUjlIdg?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 14 Aug 2026 04:45:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1lcjlURC1DaWFmWjNMeWN3Z2t3c1l2Q2JrM1BRZVc3R2pURnIwQm1nOXJOWmZmdXpvc2g5UkVFU2U2d0x3dXI3UWthTFF2aUhxaHdhR0xCLXNOZGl2VjlhYzB1NENsQUpzaWxrZWM1dVFoRFRzUjlIdg?oc=5\" target=\"_blank\">中国ＳＭＩＣが値上げ、ＡＩ需要旺盛で</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-14T13:56:40"
-    },
-    {
       "source": "HN Local AI",
       "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
       "url": "https://z.ai/blog/glm-5.3",
@@ -2232,21 +2217,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "Osmantic/ODS",
-      "url": "https://github.com/Osmantic/ODS",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
-      "extra": {
-        "stars_today": "168 stars today"
-      },
-      "collected_at": "2026-08-20T21:56:42"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "microsoft/agent-framework",
       "url": "https://github.com/microsoft/agent-framework",
       "primary_category": "TOOL",
@@ -2498,7 +2468,21 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-21T10:45:21"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Ladies and gentlemen I present to you Qwen3.8 27b 1bit brain damage quant",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtr3h0/ladies_and_gentlemen_i_present_to_you_qwen38_27b/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-08-20T18:08:26+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vtr3h0/ladies_and_gentlemen_i_present_to_you_qwen38_27b/\"> <img alt=\"Ladies and gentlemen I present to you Qwen3.8 27b 1bit brain damage quant\" src=\"https://preview.redd.it/mmfz8gnqlkkh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=89c436bc7ccc750638d6eb4720c181e55d1dcf8a\" title=\"Ladies and gentlemen I present to you Qwen3.8 27b 1bit brain damage quant\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I wanted to just",
+      "extra": {},
+      "collected_at": "2026-08-21T15:51:46"
     }
   ],
-  "updated_at": "2026-08-21T12:56:30.260433+09:00"
+  "updated_at": "2026-08-21T15:51:58.783869+09:00"
 }
