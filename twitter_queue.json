@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-21-apple-silicon-mlx-local-llm-tutorial.jpg",
     "created_at": "2026-08-21T15:52:25.125232+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-21-microsoft-agent-framework-review-tutorial",
+    "title": "microsoft/agent-framework 使い方 | 分散型AIエージェント構築の新標準を実務目線でレビュー",
+    "url": "https://ai.negi-lab.com/posts/microsoft-agent-framework-review-tutorial/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "Microsoftの次世代Agent Frameworkが、これまでの「AIエージェント開発」の常識を壊しに来ている。非同期イベント駆動とgRPC対応で、エージェントを異なるサーバーに分散配置できる。\n\nLangChainや旧AutoGenで課題だったステート管理の複雑さが、アクターモデル的な思想で整理されている。本番環境で「止まらないエージェント」を組むなら、これが最短ルート。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-21-microsoft-agent-framework-review-tutorial.jpg",
+    "created_at": "2026-08-21T18:37:07.989688+09:00",
+    "posted": false
   }
 ]
