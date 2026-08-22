@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-21-apple-silicon-mlx-local-llm-tutorial",
-    "title": "MLXでApple Silicon Macを最強のAI実行環境に変える方法",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "Apple Silicon Macを放置してるのは勿体ない。MLXを使えばLlama 3.1 8Bが16GBメモリで秒間25トークン以上で爆走します。\n\nユニファイドメモリのおかげで、RTX 4090でも厳しい巨大モデルを載せられるのがMacの真の強み。API料金0円、完全オフラインで自分専用のAIサーバーを作る全手順を書きました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-21-apple-silicon-mlx-local-llm-tutorial.jpg",
-    "created_at": "2026-08-21T15:52:25.125232+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-21-microsoft-agent-framework-review-tutorial",
     "title": "microsoft/agent-framework 使い方 | 分散型AIエージェント構築の新標準を実務目線でレビュー",
     "url": "https://ai.negi-lab.com/posts/microsoft-agent-framework-review-tutorial/",
