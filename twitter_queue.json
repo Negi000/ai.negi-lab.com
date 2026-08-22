@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-21-llamacpp-gguf-local-llm-guide",
-    "title": "llama.cppとGGUF量子化でローカルLLM環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llama_cpp",
-    "tweet_text": "ローカルLLMはRTX 3060 12GBがあれば3万円台から仕事道具になる。llama.cppとGGUF量子化を組み合わせれば、Llama-3-8Bが秒間100トークン超えで爆速。API料金を気にせず、社外秘データをローカルで処理できる自由度は一度体験すると戻れない。ビルドからPython連携までの最短ルートを実機検証ベースで書きました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-21-llamacpp-gguf-local-llm-guide.jpg",
-    "created_at": "2026-08-21T10:45:54.880445+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-21-osmantic-ods-local-ai-server-review",
-    "title": "Osmantic/ODS レビュー：自宅PCを最強のAIサーバーに変えるフルスタック基盤",
-    "url": "https://ai.negi-lab.com/posts/osmantic-ods-local-ai-server-review/",
-    "category": "TOOL",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "自宅PCを最強のAIサーバーに変える「Osmantic/ODS」が凄い。Ollama、RAG、画像生成、音声合成を一つのOSのように統合できる。単なるUIではなく、PostgreSQLやRedisを含むフルスタックな開発基盤。VRAM 12GB以上のRTX環境なら、自前で高機能なAI Agentを即座に構築可能。中級エンジニアの土台選びはこれ一択。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-21-osmantic-ods-local-ai-server-review.jpg",
-    "created_at": "2026-08-21T12:56:52.090318+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-21-apple-silicon-mlx-local-llm-tutorial",
     "title": "MLXでApple Silicon Macを最強のAI実行環境に変える方法",
     "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
