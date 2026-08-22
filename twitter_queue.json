@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-08-22-jmh-ai-bullying-prevention-standard-analysis.jpg",
     "created_at": "2026-08-22T21:47:27.829700+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-23-qwen-32b-local-llm-gpu-mac-comparison-guide",
+    "title": "ローカルLLM向け最強GPU・Mac比較：Qwen 32Bクラスを快適に動かす機材の選び方",
+    "url": "https://ai.negi-lab.com/posts/qwen-32b-local-llm-gpu-mac-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "Redditで話題のQwen 2.5-32B、自分でPythonを書いてタスク完結させる自律挙動がヤバすぎる。実務で使うならVRAM 24GBのRTX 4090はもはや「最低ライン」。Q8量子化で本気運用するならVRAM 32GB以上、つまりMac Studio 64GBモデルかGPU 2枚挿しが境界線になる。中途半端な8GB/12GBノートPCを買うと、待ち時間だけで詰むので要注意。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-23-qwen-32b-local-llm-gpu-mac-comparison-guide.jpg",
+    "created_at": "2026-08-23T02:20:50.486856+09:00",
+    "posted": false
   }
 ]

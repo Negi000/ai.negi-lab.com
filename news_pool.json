@@ -2,69 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Fri, 14 Aug 2026 15:43:28 +0000",
-      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-15T23:53:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Inferock Bench",
-      "url": "https://www.producthunt.com/products/inferock-bench",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> An independent receipt for every LLM API call </p> <p> <a href=\"https://www.producthunt.com/products/inferock-bench?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1220779?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-15T23:53:24"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Attyn",
-      "url": "https://www.producthunt.com/products/attyn",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Bringing intelligence to your cursor </p> <p> <a href=\"https://www.producthunt.com/products/attyn?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1218955?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-15T23:53:24"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Sat, 15 Aug 2026 16:30:00 +0000",
-      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-08-16T02:19:44"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "primary_category": "NEWS",
@@ -2476,7 +2413,80 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-22T23:53:25"
+    },
+    {
+      "source": "r/LocalLLM",
+      "title": "Got Qwen3.8-27B-FP8 running on a DGX Spark via lmstack",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1vvdwke/got_qwen3827bfp8_running_on_a_dgx_spark_via/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-08-22T14:28:55+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLM/comments/1vvdwke/got_qwen3827bfp8_running_on_a_dgx_spark_via/\"> <img alt=\"Got Qwen3.8-27B-FP8 running on a DGX Spark via lmstack\" src=\"https://preview.redd.it/xy4wsbo6sxkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=243c437df19400647998dbcc6cf7b542f89f9efa\" title=\"Got Qwen3.8-27B-FP8 running on a DGX Spark via lmstack\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Spent this weekend turning a DGX Spark into an actual local ",
+      "extra": {},
+      "collected_at": "2026-08-23T02:20:02"
+    },
+    {
+      "source": "r/LocalLLM",
+      "title": "Qwen 3.8 blows mind - and this time it's real",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1vv0neo/qwen_38_blows_mind_and_this_time_its_real/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-08-22T02:58:02+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Edit: for anyone interested - that's a q8 Qwen 3.8 27b running on double v100 totaling 64gb, 256k context window, q8 kv quantization.</p> <p>I never saw a behavior like that from any other local LLM - can't vouch for global since we never see what's going on under the hood.</p> <p>Anyways - Qwen 3.8 got a task to go through a lot of files (over 700) and sort them out by content.</p> <p>It never spun subagents.</p> <p>It wrote and ran a python script to prompt it",
+      "extra": {},
+      "collected_at": "2026-08-23T02:20:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 22 Aug 2026 16:30:34 +0000",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-23T02:20:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Toplify",
+      "url": "https://www.producthunt.com/products/toplify",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Track your App Store ranking worldwide </p> <p> <a href=\"https://www.producthunt.com/products/toplify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1209555?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-23T02:20:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Open Analytics",
+      "url": "https://www.producthunt.com/products/open-analytics-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI-Native Google Analytics alternative for the modern web </p> <p> <a href=\"https://www.producthunt.com/products/open-analytics-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1228617?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-23T02:20:04"
     }
   ],
-  "updated_at": "2026-08-22T23:53:29.120324+09:00"
+  "updated_at": "2026-08-23T02:20:08.012020+09:00"
 }
