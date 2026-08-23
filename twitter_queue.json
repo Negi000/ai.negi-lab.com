@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-21-microsoft-agent-framework-review-tutorial",
-    "title": "microsoft/agent-framework 使い方 | 分散型AIエージェント構築の新標準を実務目線でレビュー",
-    "url": "https://ai.negi-lab.com/posts/microsoft-agent-framework-review-tutorial/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #Python",
-    "tweet_text": "Microsoftの次世代Agent Frameworkが、これまでの「AIエージェント開発」の常識を壊しに来ている。非同期イベント駆動とgRPC対応で、エージェントを異なるサーバーに分散配置できる。\n\nLangChainや旧AutoGenで課題だったステート管理の複雑さが、アクターモデル的な思想で整理されている。本番環境で「止まらないエージェント」を組むなら、これが最短ルート。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-21-microsoft-agent-framework-review-tutorial.jpg",
-    "created_at": "2026-08-21T18:37:07.989688+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-21-japan-legal-ai-guidelines-compliance",
-    "title": "法務AIガイドライン確定：非弁リスク回避と開発者が守るべき線引き",
-    "url": "https://ai.negi-lab.com/posts/japan-legal-ai-guidelines-compliance/",
-    "category": "NEWS",
-    "viral_tags": "#リーガルテック #エンジニア",
-    "tweet_text": "法務省からAI活用のガイドラインが公表。注目は弁護士法72条との「線引き」が明文化された点。AIに判断を丸投げする設計はアウトだが、RAGで根拠を示しユーザーが最終判断するUXなら商機あり。リーガルテック開発者は、自動化の誘惑を捨てて「高度な下書きツール」への振り切りが必要。決定権をユーザーに持たせるUI/UXが、法務リスク回避の必須要件。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-21-japan-legal-ai-guidelines-compliance.jpg",
-    "created_at": "2026-08-21T21:56:13.808199+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-22-local-llm-gpu-vram-quantization-guide",
     "title": "ローカルLLM用GPUの選び方｜Qwen 27Bを動かすVRAM容量と量子化の罠",
     "url": "https://ai.negi-lab.com/posts/local-llm-gpu-vram-quantization-guide/",
