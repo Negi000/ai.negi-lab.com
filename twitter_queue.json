@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-23-claude-code-effort-levels-hardware-guide.jpg",
     "created_at": "2026-08-23T06:30:55.628161+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-23-ollama-open-webui-local-llm-tutorial",
+    "title": "OllamaとOpen WebUIで自分専用のセキュアなローカルLLM環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLM環境、まだLM Studioだけで満足してませんか？実務で使い倒すならOllama + Open WebUIの構成が最強です。\n\nVRAM 12GB以上のRTXがあれば、プライバシー完全保護の「自分専用ChatGPT」が30分で爆誕します。特にRAG機能の完成度が凄まじく、社外秘ドキュメントの解析もこれなら安心。導入手順を徹底解説しました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-23-ollama-open-webui-local-llm-tutorial.jpg",
+    "created_at": "2026-08-23T10:49:07.143974+09:00",
+    "posted": false
   }
 ]
