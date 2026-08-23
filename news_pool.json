@@ -2,34 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 16 Aug 2026 12:48:21 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-17T06:28:56"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 16 Aug 2026 20:57:04 +0000",
-      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-08-17T06:29:02"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
       "primary_category": "NEWS",
@@ -2357,21 +2329,6 @@
       "collected_at": "2026-08-23T23:54:25"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Qwen3.8-27b has the highest level of \"agency\" I've ever seen in a local model",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt78xd/qwen3827b_has_the_highest_level_of_agency_ive/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-08-20T02:45:59+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vt78xd/qwen3827b_has_the_highest_level_of_agency_ive/\"> <img alt=\"Qwen3.8-27b has the highest level of &quot;agency&quot; I've ever seen in a local model\" src=\"https://preview.redd.it/gs573xy8yfkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b4d446b6025beb00d950bff340d72125c5ff75c\" title=\"Qwen3.8-27b has the highest level of &quot;agency&quot; I've ever seen in a local model\" /> </a> </td><td> <!-- SC_OFF --><div clas",
-      "extra": {},
-      "collected_at": "2026-08-24T02:19:55"
-    },
-    {
       "source": "r/LocalLLM",
       "title": "\"Qwen 3.8 isn't Opus level\": I re-ran the test.",
       "url": "https://www.reddit.com/r/LocalLLM/comments/1vvzkl9/qwen_38_isnt_opus_level_i_reran_the_test/",
@@ -2430,7 +2387,101 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-24T02:20:05"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 23 Aug 2026 20:01:36 +0000",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-24T06:29:56"
+    },
+    {
+      "source": "Google News",
+      "title": "AIパソコン「DGX Spark」試用リポート - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04Ml9fbms2Q241ZEtTT0hMMUdVaUl2ajJ4cUVlbjIwbmJTYUVrbkJCcWpYZDdOakN1b1Y5VURQVlBMUkZaVnl5WXQ5VEhJam9vOHl0YkV3VDB1aHU5TTNv?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 23 Aug 2026 20:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE04Ml9fbms2Q241ZEtTT0hMMUdVaUl2ajJ4cUVlbjIwbmJTYUVrbkJCcWpYZDdOakN1b1Y5VURQVlBMUkZaVnl5WXQ5VEhJam9vOHl0YkV3VDB1aHU5TTNv?oc=5\" target=\"_blank\">AIパソコン「DGX Spark」試用リポート</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日経クロステック</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-24T06:29:57"
+    },
+    {
+      "source": "Google News",
+      "title": "テクノロジー。JMH国際ジャーナリスト・コンソーシアム。8月23日。 - Organización Mundial Bullying Sin Fronteras",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VNXdCM3VnSkVBSWlZaUd1MG5VWHJzQ0hWX2xEVXZLZEs1Tm90Z0luSEJIU21LUndRZGJuRGJ0Y0l4VVFQNzFGako4cGFZaFdmbFd0RmNaTTBqRldiMWtDVFZFWGx3TE5XZ2JyaXN3?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 23 Aug 2026 18:59:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1VNXdCM3VnSkVBSWlZaUd1MG5VWHJzQ0hWX2xEVXZLZEs1Tm90Z0luSEJIU21LUndRZGJuRGJ0Y0l4VVFQNzFGako4cGFZaFdmbFd0RmNaTTBqRldiMWtDVFZFWGx3TE5XZ2JyaXN3?oc=5\" target=\"_blank\">テクノロジー。JMH国際ジャーナリスト・コンソーシアム。8月23日。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Organización Mundial Bullying Sin Fronteras</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-24T06:29:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "New qwen3.8:27b on a 39k line C to single-file HTML / three.js port",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwde84/new_qwen3827b_on_a_39k_line_c_to_singlefile_html/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-08-23T17:32:32+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vwde84/new_qwen3827b_on_a_39k_line_c_to_singlefile_html/\"> <img alt=\"New qwen3.8:27b on a 39k line C to single-file HTML / three.js port\" src=\"https://external-preview.redd.it/dTJkZWwyM2ptNWxoMZpPiNpO6-z1yRSEsaDMAenxNQI2THOPKcC_npyKRr3M.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b67ed5d528d886f099a12fa123bf51db05d83bae\" title=\"New qwen3.8:27b on a 39k line C to single-file HTML / three.js port\" /> </a> </td><td> <!-- S",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-08-24T06:30:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Don't want to be this guy, but I need Qwen 3.8 35B A3B",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw2cop/dont_want_to_be_this_guy_but_i_need_qwen_38_35b/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-08-23T09:13:39+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Qwen 3.8 27B is great, however it takes me ages to do tasks on xhigh. I need Qwen 3.8 35B A3B. It'll be a little dumber but faster. I am also aware of the fact that 27B gets its &quot;intelligence&quot; from the long thinking time. I therefore assume that 35B would also be a long-thinking model, however running Qwen 3.8 27B over night on my M1 Max for just one task is impractical and no fun.</p> <p>I love the progress and the work of alibaba with 27B but... yeah",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-08-24T06:30:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen 3.8 27B is a game changer.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-08-23T05:19:48+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Our devs got their hands on it a few days ago. One wired it into Codex to compare with GPT Luna, our usual workhorse right now for its cost effectiveness. Another tried it out on one of our OCR pipelines. </p> <p>It's comparable to Luna for coding and ***OCR quality appears to be better than Gemini 3.5 Flash Lite***. That's huge. We pay a ton of money for OCR. </p> <p>This is the first local model that feels like more than a toy. It's truly as capable as the fro",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-08-24T06:30:01"
     }
   ],
-  "updated_at": "2026-08-24T02:20:08.624623+09:00"
+  "updated_at": "2026-08-24T06:30:01.407275+09:00"
 }

@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-24-qwen25-27b-agency-gpu-selection-guide.jpg",
     "created_at": "2026-08-24T02:20:31.540250+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-24-local-llm-gpu-buying-guide-vram-comparison",
+    "title": "ローカルLLMおすすめGPU・PC選び方：なぜ「賢くない」と感じるのか？後悔しないためのVRAM・メモリ基準と比較",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-vram-comparison/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLMが「バカ」に感じる原因はVRAM不足による過度な圧縮です。実務で使うならRTX 4060 Ti 16GBが最低ライン。8GBモデルではLlama 3.1の知能を維持できません。Macなら32GB、理想は64GB。投資をケチると結局クラウド代を払い続けることになります。購入前にVRAMと量子化の壁を理解すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-24-local-llm-gpu-buying-guide-vram-comparison.jpg",
+    "created_at": "2026-08-24T06:30:23.056355+09:00",
+    "posted": false
   }
 ]
