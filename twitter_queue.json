@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-23-salesforce-sf-skills-agent-toolkit-review.jpg",
     "created_at": "2026-08-23T12:57:24.991575+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-23-python-e2b-ai-agent-sandbox-tutorial",
+    "title": "PythonとE2BでAIエージェント用セキュア実行環境を作る方法",
+    "url": "https://ai.negi-lab.com/posts/python-e2b-ai-agent-sandbox-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントにコードを実行させるなら、ローカル環境は絶対に避けるべき。os.removeなどの破壊的コードのリスクを0にするには、E2Bのような隔離サンドボックスが必須です。Pythonから数行でネット接続ありのLinux環境を呼び出せるので、Docker管理の苦行から解放されます。Claude 3.5 Sonnetと組み合わせた実用的なデータ分析構成をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-23-python-e2b-ai-agent-sandbox-tutorial.jpg",
+    "created_at": "2026-08-23T15:44:48.917002+09:00",
+    "posted": false
   }
 ]
