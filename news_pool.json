@@ -1,49 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Coding",
-      "title": "Ask HN: Do you know of any company that went back to hand-written code?",
-      "url": "https://news.ycombinator.com/item?id=49318906",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 16 Aug 2026 11:05:47 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-16T21:47:24"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "xai-org/grok-1",
-      "url": "https://github.com/xai-org/grok-1",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "",
-      "summary": "Grok open release",
-      "extra": {
-        "stars_today": "13 stars today"
-      },
-      "collected_at": "2026-08-16T21:47:32"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "CostLogic",
-      "url": "https://www.producthunt.com/products/costlogic",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI-powered construction takeoffs, estimates, and invoices </p> <p> <a href=\"https://www.producthunt.com/products/costlogic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1211172?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-16T21:47:33"
-    },
-    {
       "source": "r/ollama",
       "title": "Need for better models on ollama cloud .",
       "url": "https://www.reddit.com/r/ollama/comments/1vptp65/need_for_better_models_on_ollama_cloud/",
@@ -2405,21 +2362,6 @@
       "collected_at": "2026-08-23T12:57:02"
     },
     {
-      "source": "GitHub Trending",
-      "title": "shy3130/tick-stock-panel",
-      "url": "https://github.com/shy3130/tick-stock-panel",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
-      "extra": {
-        "stars_today": "82 stars today"
-      },
-      "collected_at": "2026-08-23T15:44:15"
-    },
-    {
       "source": "Product Hunt",
       "title": "Tab Notes",
       "url": "https://www.producthunt.com/products/tab-notes",
@@ -2463,7 +2405,84 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-23T18:26:10"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "extra": {
+        "stars_today": "1,040 stars today"
+      },
+      "collected_at": "2026-08-23T21:48:14"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "extra": {
+        "stars_today": "190 stars today"
+      },
+      "collected_at": "2026-08-23T21:48:14"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "extra": {
+        "stars_today": "179 stars today"
+      },
+      "collected_at": "2026-08-23T21:48:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Aximote",
+      "url": "https://www.producthunt.com/products/aximote",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your car data, finally in your pocket </p> <p> <a href=\"https://www.producthunt.com/products/aximote?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1217834?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-23T21:48:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Claude Academy",
+      "url": "https://www.producthunt.com/products/claude-academy",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The Official Learning Hub by Anthropic </p> <p> <a href=\"https://www.producthunt.com/products/claude-academy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1228104?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-23T21:48:15"
     }
   ],
-  "updated_at": "2026-08-23T18:26:14.021153+09:00"
+  "updated_at": "2026-08-23T21:48:18.597144+09:00"
 }
