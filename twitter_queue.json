@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-22-local-llm-gpu-vram-quantization-guide",
-    "title": "ローカルLLM用GPUの選び方｜Qwen 27Bを動かすVRAM容量と量子化の罠",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-vram-quantization-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "ローカルLLMでQwen 27Bを動かすならVRAM 24GBが最低ライン。話題の1-bit量子化は知能が崩壊する「脳損傷」状態で、実務には到底使えません。\n\n結局、RTX 4090か中古3090の24GBを確保するのが一番安上がり。中途半端なGPUで低ビット量子化に逃げるより、モデルサイズを下げて4-bit以上で回すのが鉄則です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-22-local-llm-gpu-vram-quantization-guide.jpg",
-    "created_at": "2026-08-22T02:28:54.775333+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-22-qwen3-27b-benchmark-vram-guide-rtx-mac",
     "title": "Qwen3-27B比較と選び方！GPT-5.6超えの性能をローカルLLMで動かすVRAM別おすすめ構成",
     "url": "https://ai.negi-lab.com/posts/qwen3-27b-benchmark-vram-guide-rtx-mac/",
