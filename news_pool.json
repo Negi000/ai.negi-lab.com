@@ -1,50 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Need for better models on ollama cloud .",
-      "url": "https://www.reddit.com/r/ollama/comments/1vptp65/need_for_better_models_on_ollama_cloud/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-08-16T10:36:57+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>We currently have an ancient qwen 3.5 27b on the cloud probably and that sucks compared to later versions , why doesnt ollama update automatically . </p> <p>We have practically ancient models right now on the cloud , support for them should be ended , and only the latest models from open source families should be cloud only . This will really make ollama very pleasing to use as model options will be available. </p> <p>Specially there are a ton of very good open ",
-      "extra": {},
-      "collected_at": "2026-08-16T23:54:02"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Gaining 3x inference while running Ollama on iGPU instead of CPU",
-      "url": "https://www.reddit.com/r/ollama/comments/1vpvm8e/gaining_3x_inference_while_running_ollama_on_igpu/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-08-16T12:20:24+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1vpvm8e/gaining_3x_inference_while_running_ollama_on_igpu/\"> <img alt=\"Gaining 3x inference while running Ollama on iGPU instead of CPU\" src=\"https://external-preview.redd.it/r2ulWDZ2YjyDXADWX2zQr6nN5qfN30LFL7CnIqfbeiw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=589c83aea1d0450b079b4eee231c2e1ddc84abe5\" title=\"Gaining 3x inference while running Ollama on iGPU instead of CPU\" /> </a> </td><td> &#32; submitted by &#32; <a hre",
-      "extra": {},
-      "collected_at": "2026-08-16T23:54:02"
-    },
-    {
-      "source": "Google News",
-      "title": "米ハイパースケーラーのAI投資は加速 注目すべきポイントは？ - ピクテ・ジャパン",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWXRSTnlxbVB2bkUxR1dldnlWOVoybHppTXBqZGszQXBuUmlLODVxZ0RNOWJQMWUzYVBoTlViMEFXYUlBMGw3Umw4UE10RlB0N3AyNVNfMnU0ZUprNkFHam9pN1cwdVRwMUVaZTlNYXlKLXVoT2xtUjBIS3hyTGZwS2ZYUEM3aVRQ?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 14 Aug 2026 08:07:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWXRSTnlxbVB2bkUxR1dldnlWOVoybHppTXBqZGszQXBuUmlLODVxZ0RNOWJQMWUzYVBoTlViMEFXYUlBMGw3Umw4UE10RlB0N3AyNVNfMnU0ZUprNkFHam9pN1cwdVRwMUVaZTlNYXlKLXVoT2xtUjBIS3hyTGZwS2ZYUEM3aVRQ?oc=5\" target=\"_blank\">米ハイパースケーラーのAI投資は加速 注目すべきポイントは？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ピクテ・ジャパン</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-16T23:54:03"
-    },
-    {
       "source": "HN AI Companies",
       "title": "The AI Credit Resale Economy",
       "url": "https://vectoral.com/blog/who-are-the-token-brokers",
@@ -2284,21 +2240,6 @@
       "collected_at": "2026-08-23T10:48:32"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 22 Aug 2026 21:46:56 +0000",
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-23T10:48:40"
-    },
-    {
       "source": "Product Hunt",
       "title": "Maccess",
       "url": "https://www.producthunt.com/products/maccess",
@@ -2482,7 +2423,37 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-23T21:48:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Local Music Organizer for Mac",
+      "url": "https://www.producthunt.com/products/local-music-organizer-for-mac",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ultimate toolkit for local Apple Music library maintenance </p> <p> <a href=\"https://www.producthunt.com/products/local-music-organizer-for-mac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1209530?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-23T23:54:25"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Construct Computer",
+      "url": "https://www.producthunt.com/products/construct-computer",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your AI coworker gets a computer. You get your day back. </p> <p> <a href=\"https://www.producthunt.com/products/construct-computer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1186033?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-23T23:54:25"
     }
   ],
-  "updated_at": "2026-08-23T21:48:18.597144+09:00"
+  "updated_at": "2026-08-23T23:54:28.589314+09:00"
 }
