@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-08-23-ollama-open-webui-local-llm-tutorial.jpg",
     "created_at": "2026-08-23T10:49:07.143974+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-23-salesforce-sf-skills-agent-toolkit-review",
+    "title": "sf-skills レビュー：Salesforceが提唱するAIエージェントの「スキル標準化」を読み解く",
+    "url": "https://ai.negi-lab.com/posts/salesforce-sf-skills-agent-toolkit-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Salesforce",
+    "tweet_text": "Salesforceが公開したsf-skillsが面白い。AIエージェントの「スキル」をコードから分離してメタデータで管理する思想。\n実務で100個以上のToolを管理する時、コードのDocstringに頼るのは限界がある。このYAML駆動の設計は大規模開発のヒントになるはず。\nSalesforce勢以外も「スキルの設計図」として読む価値あり。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-23-salesforce-sf-skills-agent-toolkit-review.jpg",
+    "created_at": "2026-08-23T12:57:24.991575+09:00",
+    "posted": false
   }
 ]
