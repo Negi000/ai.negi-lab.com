@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-22-llamacpp-gguf-local-llm-beginner-guide",
-    "title": "llama.cppとGGUF量子化でローカルLLMを動かす完全ガイド",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-beginner-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llama_cpp",
-    "tweet_text": "ローカルLLMの鉄板「llama.cpp」と「GGUF」を実務で使うための導入ガイドを書きました。RTX 4090を2枚挿しして検証した結論として、初心者が最初に触るならQ4_K_M量子化が最強の選択肢。VRAM不足で挫折しないための設定や、Pythonでの自動化スクリプトまで具体的にまとめています。API代をゼロにして、自分だけのプライベートAIを構築しましょう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-22-llamacpp-gguf-local-llm-beginner-guide.jpg",
-    "created_at": "2026-08-22T10:39:09.661502+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-22-tencent-ai-infra-guard-fullstack-security-review",
-    "title": "Tencent/AI-Infra-GuardでAIシステムの脆弱性を全方位スキャンする",
-    "url": "https://ai.negi-lab.com/posts/tencent-ai-infra-guard-fullstack-security-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIセキュリティ #AIエージェント",
-    "tweet_text": "AIエージェントのセキュリティ、プロンプト対策だけで終わってませんか？TencentのAI-Infra-Guardを検証。単なる脱獄テストじゃなく、MCP経由の攻撃やインフラ層の脆弱性までフルスタックでスキャンできるのが強すぎる。エージェントに実務権限を与えるなら、このレベルの自動レッドチーミングは必須。RTX 4090 2枚挿し環境での回帰テストが捗る。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-22-tencent-ai-infra-guard-fullstack-security-review.jpg",
-    "created_at": "2026-08-22T12:50:11.696959+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-22-claude-code-cursor-ai-coding-guide",
     "title": "Claude CodeとCursorを併用した最強のAIコーディング環境構築と実践ガイド",
     "url": "https://ai.negi-lab.com/posts/claude-code-cursor-ai-coding-guide/",
