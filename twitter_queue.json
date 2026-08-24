@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-23-ollama-open-webui-local-llm-tutorial",
-    "title": "OllamaとOpen WebUIで自分専用のセキュアなローカルLLM環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "ローカルLLM環境、まだLM Studioだけで満足してませんか？実務で使い倒すならOllama + Open WebUIの構成が最強です。\n\nVRAM 12GB以上のRTXがあれば、プライバシー完全保護の「自分専用ChatGPT」が30分で爆誕します。特にRAG機能の完成度が凄まじく、社外秘ドキュメントの解析もこれなら安心。導入手順を徹底解説しました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-23-ollama-open-webui-local-llm-tutorial.jpg",
-    "created_at": "2026-08-23T10:49:07.143974+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-23-salesforce-sf-skills-agent-toolkit-review",
-    "title": "sf-skills レビュー：Salesforceが提唱するAIエージェントの「スキル標準化」を読み解く",
-    "url": "https://ai.negi-lab.com/posts/salesforce-sf-skills-agent-toolkit-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #Salesforce",
-    "tweet_text": "Salesforceが公開したsf-skillsが面白い。AIエージェントの「スキル」をコードから分離してメタデータで管理する思想。\n実務で100個以上のToolを管理する時、コードのDocstringに頼るのは限界がある。このYAML駆動の設計は大規模開発のヒントになるはず。\nSalesforce勢以外も「スキルの設計図」として読む価値あり。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-23-salesforce-sf-skills-agent-toolkit-review.jpg",
-    "created_at": "2026-08-23T12:57:24.991575+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-23-python-e2b-ai-agent-sandbox-tutorial",
     "title": "PythonとE2BでAIエージェント用セキュア実行環境を作る方法",
     "url": "https://ai.negi-lab.com/posts/python-e2b-ai-agent-sandbox-tutorial/",
