@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
-      "summary": "Relay, which offered businesses workflow automation, will stop operating next month. Its CEO and some of its staff plan to get to work on Google Chrome next.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-08-18T06:34:11"
-    },
-    {
-      "source": "Google News",
-      "title": "中国の新興ＡＩモデル、ソフトの脆弱性検出でミュトス５に迫る - ロイター",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PR0tHVzhkY2ppT3ZsT0hYNk5yYm9tWWNwQUxTRVJMb3NGOURIaWd3cmhlMGJnVjZkTGZiNXlIVndYckhiRG9Ua2NsLWxSd0hicUF2dEFkSzluV2VBUlJPaU92VDZ5LUw1WXgyMWZRQTRCY0Y2QVhscm1ZWXZldw?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 17 Aug 2026 04:26:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1PR0tHVzhkY2ppT3ZsT0hYNk5yYm9tWWNwQUxTRVJMb3NGOURIaWd3cmhlMGJnVjZkTGZiNXlIVndYckhiRG9Ua2NsLWxSd0hicUF2dEFkSzluV2VBUlJPaU92VDZ5LUw1WXgyMWZRQTRCY0Y2QVhscm1ZWXZldw?oc=5\" target=\"_blank\">中国の新興ＡＩモデル、ソフトの脆弱性検出でミュトス５に迫る</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ロイター</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-18T06:34:11"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Clears",
-      "url": "https://www.producthunt.com/products/clears",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Move beyond AI coding to Agentic Software Delivery </p> <p> <a href=\"https://www.producthunt.com/products/clears?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1214248?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-08-18T06:34:12"
-    },
-    {
       "source": "HN Local AI",
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
@@ -2126,23 +2080,6 @@
       "collected_at": "2026-08-24T06:30:01"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen 3.8 27B is a game changer.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-08-23T05:19:48+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Our devs got their hands on it a few days ago. One wired it into Codex to compare with GPT Luna, our usual workhorse right now for its cost effectiveness. Another tried it out on one of our OCR pipelines. </p> <p>It's comparable to Luna for coding and ***OCR quality appears to be better than Gemini 3.5 Flash Lite***. That's huge. We pay a ton of money for OCR. </p> <p>This is the first local model that feels like more than a toy. It's truly as capable as the fro",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-08-24T06:30:01"
-    },
-    {
       "source": "Google News",
       "title": "教皇レオ14世、AIが新たな「経済的植民地主義」の形態になりかねないと警告 - Business Insider Japan",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVUlrX2xEY1NDVno0SFhJc0lER19SWE9XaWxaWkpZWk1qbUlRekxmc1ZmLTdoNjluM2R1TFB3SGREdzZUVnBrdWpBYUQyeU4xRXlEZ2Vva3ZaZkwwSUVibmtmc2J0bFZKNmJQcXFTaGlGZkJjUUw5Y2N0M01TMjBRTU1pdlVBdHJGQWpIWmNwWk9jeDRTS2U5MmNB?oc=5",
@@ -2429,7 +2366,77 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-25T02:30:23"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 24 Aug 2026 15:22:43 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-25T06:38:07"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Anthropic Claude and API service outages",
+      "url": "https://status.claude.com/uptime",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 24 Aug 2026 06:32:28 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-25T06:38:07"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 24 Aug 2026 06:25:31 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-25T06:38:07"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 24 Aug 2026 21:24:17 +0000",
+      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-08-25T06:38:09"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Antigravity Remote Control",
+      "url": "https://www.producthunt.com/products/google-antigravity",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Drive Antigravity agents from any browser </p> <p> <a href=\"https://www.producthunt.com/products/google-antigravity?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1230451?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-25T06:38:10"
     }
   ],
-  "updated_at": "2026-08-25T02:30:26.641034+09:00"
+  "updated_at": "2026-08-25T06:38:13.699632+09:00"
 }
