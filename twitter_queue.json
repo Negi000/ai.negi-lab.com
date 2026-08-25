@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-24-apple-silicon-mlx-local-llm-tutorial",
-    "title": "MLX 使い方 入門｜MacでローカルLLMを爆速で動かす方法",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "MacのGPUを眠らせておくのは勿体ない。MLXを使えばLlama 3.1クラスの8BモデルがM2 Maxで秒間60トークン超えで爆走します。PyTorchよりメモリ管理が賢く、Pythonから数行で最新AIを呼び出せるのが強み。メモリ16GB以上のApple Silicon勢は今すぐ試すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-24-apple-silicon-mlx-local-llm-tutorial.jpg",
-    "created_at": "2026-08-24T10:46:59.690065+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-24-free-claude-code-review-tutorial-13b-tokens",
-    "title": "free-claude-code 使い方と実戦レビュー：13億トークン無料の衝撃",
-    "url": "https://ai.negi-lab.com/posts/free-claude-code-review-tutorial-13b-tokens/",
-    "category": "TOOL",
-    "viral_tags": "#ClaudeCode #個人開発",
-    "tweet_text": "Claude CodeのAPI代に悩む個人開発者へ。GitHubで爆伸び中の「free-claude-code」が異次元。PiやCodexの無料枠を統合して13億トークン分をCLIやIDEに開放できる。設定はnpm installから2分。レスポンスも数秒と実用的。API破産を恐れずAIエージェントを回せる環境が、ついに手に入る。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-24-free-claude-code-review-tutorial-13b-tokens.jpg",
-    "created_at": "2026-08-24T13:02:06.733611+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-24-claude-code-cursor-hybrid-workflow-guide",
     "title": "Claude CodeとCursorを使い分ける最強のAIコーディング環境構築ガイド",
     "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-workflow-guide/",
