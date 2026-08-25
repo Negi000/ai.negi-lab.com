@@ -1,67 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 18 Aug 2026 17:21:58 +0000",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-08-19T02:26:56"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Deepmark",
-      "url": "https://www.producthunt.com/products/deepmark",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Search your bookmarks by what's inside them, not the title </p> <p> <a href=\"https://www.producthunt.com/products/deepmark?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1221930?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-19T02:26:57"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Taku AI",
-      "url": "https://www.producthunt.com/products/taku-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Borrow the best AI setups and make them yours. </p> <p> <a href=\"https://www.producthunt.com/products/taku-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1224258?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-08-19T02:26:57"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Linux Improves VRAM Management in 7.3 Kernel 🥳",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vro3vf/linux_improves_vram_management_in_73_kernel/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-08-18T12:43:26+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/johnnyApplePRNG\"> /u/johnnyApplePRNG </a> <br /> <span><a href=\"https://pixelcluster.dev/VRAM-Overcommit/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vro3vf/linux_improves_vram_management_in_73_kernel/\">[comments]</a></span>",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-08-19T02:27:01"
-    },
-    {
       "source": "HN Local AI",
       "title": "Trump 2.0 has deleted or altered nearly 400 US datasets",
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/18/trump-federal-data-deleted-altered",
@@ -2371,7 +2310,68 @@
         "revenue_score": 3
       },
       "collected_at": "2026-08-26T00:25:08"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "marin-community/marin",
+      "url": "https://github.com/marin-community/marin",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Open-source framework for the research and development of foundation models.",
+      "extra": {
+        "stars_today": "277 stars today"
+      },
+      "collected_at": "2026-08-26T02:31:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "akta.pro",
+      "url": "https://www.producthunt.com/products/akta-pro",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Private company data and signals API for the agent economy </p> <p> <a href=\"https://www.producthunt.com/products/akta-pro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1216588?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-26T02:31:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Diet Claude",
+      "url": "https://www.producthunt.com/products/diet-claude",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Never get blindsided by Claude's usage limits again </p> <p> <a href=\"https://www.producthunt.com/products/diet-claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1229322?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-26T02:31:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Hacktron Automations",
+      "url": "https://www.producthunt.com/products/hacktron",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Close the loop between vulnerability discovery and patching. </p> <p> <a href=\"https://www.producthunt.com/products/hacktron?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1209635?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-26T02:31:47"
     }
   ],
-  "updated_at": "2026-08-26T00:25:12.381984+09:00"
+  "updated_at": "2026-08-26T02:31:50.591499+09:00"
 }
