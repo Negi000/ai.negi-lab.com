@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-24-qwen25-27b-agency-gpu-selection-guide",
-    "title": "ローカルLLMで「エージェント」を動かすならQwen2.5-27Bが最強？失敗しないGPU・Macの選び方",
-    "url": "https://ai.negi-lab.com/posts/qwen25-27b-agency-gpu-selection-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "ローカルLLMで「エージェント」を動かすならQwen2.5-27Bが現時点の到達点。14Bより賢く70Bより速い、まさに仕事で使えるバランス。ただしVRAM 24GB（RTX 4090/3090）が最低ラインです。16GB以下だと本来のAgency性能を活かせない。買う前にVRAM容量と電源容量だけは絶対に妥協してはいけません。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-24-qwen25-27b-agency-gpu-selection-guide.jpg",
-    "created_at": "2026-08-24T02:20:31.540250+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-24-local-llm-gpu-buying-guide-vram-comparison",
     "title": "ローカルLLMおすすめGPU・PC選び方：なぜ「賢くない」と感じるのか？後悔しないためのVRAM・メモリ基準と比較",
     "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-vram-comparison/",
