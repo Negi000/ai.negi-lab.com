@@ -1,80 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "What is wrong with Deepseek v4 Pro",
-      "url": "https://www.reddit.com/r/ollama/comments/1vr7h52/what_is_wrong_with_deepseek_v4_pro/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-08-17T22:48:23+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1vr7h52/what_is_wrong_with_deepseek_v4_pro/\"> <img alt=\"What is wrong with Deepseek v4 Pro\" src=\"https://preview.redd.it/s7738oklk0kh1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=bd54b1e6ff90f9813bfaa5c7b884621a2ff643b4\" title=\"What is wrong with Deepseek v4 Pro\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I don't understand this. Deepseek used half as many requests as GLM 5.2 for 3 times the usage, and I'm getting 1",
-      "extra": {},
-      "collected_at": "2026-08-18T21:54:01"
-    },
-    {
-      "source": "r/ollama",
-      "title": "should i go back to ollama cloud(it was great for me)",
-      "url": "https://www.reddit.com/r/ollama/comments/1vrlaop/should_i_go_back_to_ollama_cloudit_was_great_for/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-08-18T10:27:48+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>i was having ollama cloud in last two month and it was great with generous amount of ds v4 pro and glm5.2 usage and actually i built so much with it without worrying about costs or limits. and i was using sonnet 4.6 with ghcp when some task were not solved with open models.</p> <p>note: i have 10$ ghcp(forever haha)</p> <p>i switched to 5$ opencode go</p> <p>now it want to stop opencode go cause i think it mentally limiting me on how much work i should do and al",
-      "extra": {},
-      "collected_at": "2026-08-18T21:54:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Open Index",
-      "url": "https://www.producthunt.com/products/open-brain",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Build Smarter Agents using Structured Context </p> <p> <a href=\"https://www.producthunt.com/products/open-brain?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1218197?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-18T21:54:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Hubble",
-      "url": "https://www.producthunt.com/products/hubble-11",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Retrieve medical records other APIs can't </p> <p> <a href=\"https://www.producthunt.com/products/hubble-11?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1218375?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-18T21:54:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ElevenLabs MCP in Claude",
-      "url": "https://www.producthunt.com/products/elevenlabs-mcp-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Create and manage ElevenLabs voice agents in your chat </p> <p> <a href=\"https://www.producthunt.com/products/elevenlabs-mcp-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1225074?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-18T21:54:03"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
       "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
@@ -1706,22 +1632,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "anthropics/claude-plugins-community",
-      "url": "https://github.com/anthropics/claude-plugins-community",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "extra": {
-        "stars_today": "190 stars today"
-      },
-      "collected_at": "2026-08-23T21:48:14"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "primary_category": "TOOL",
@@ -2427,7 +2337,83 @@
         "revenue_score": 4
       },
       "collected_at": "2026-08-25T18:34:01"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Tue, 25 Aug 2026 12:00:00 +0000",
+      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-25T21:54:27"
+    },
+    {
+      "source": "Google News",
+      "title": "令和8年版 情報通信白書｜AIを巡る各国等の動向 - soumu.go.jp",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGlMZUNQWU1NcU5TTGdtQS1aSmxCWVpkV21SVGNuMExrT09QN2FzVk10QkpzZVhtQkVtd3RxWmN5dlcyRGhyQ01KX3JidnhmQ1Z0RjJsOXYwV2VybVRTRWxSbWdrYm9lWDdNQXdrSkx1TXBwbjFPZTdiZU53bWtldThR?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 25 Aug 2026 10:21:12 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGlMZUNQWU1NcU5TTGdtQS1aSmxCWVpkV21SVGNuMExrT09QN2FzVk10QkpzZVhtQkVtd3RxWmN5dlcyRGhyQ01KX3JidnhmQ1Z0RjJsOXYwV2VybVRTRWxSbWdrYm9lWDdNQXdrSkx1TXBwbjFPZTdiZU53bWtldThR?oc=5\" target=\"_blank\">令和8年版 情報通信白書｜AIを巡る各国等の動向</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">soumu.go.jp</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-25T21:54:27"
+    },
+    {
+      "source": "Google News",
+      "title": "OECD閣僚理事会とAI - ビジネスネットワーク",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvbUJUelVEZGVDc21IanBDYmFqZUlyOFMyZmw3OWFQWlVEc281am9KbV9kc05zcWx5cTZST1l5a2d1dXJMdFE4d3JWc2E1QlFZbnY0?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 25 Aug 2026 04:58:50 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvbUJUelVEZGVDc21IanBDYmFqZUlyOFMyZmw3OWFQWlVEc281am9KbV9kc05zcWx5cTZST1l5a2d1dXJMdFE4d3JWc2E1QlFZbnY0?oc=5\" target=\"_blank\">OECD閣僚理事会とAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ビジネスネットワーク</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-25T21:54:27"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Purchase API by Agentcard",
+      "url": "https://www.producthunt.com/products/agent-card",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> one API call and your agent buys anything online </p> <p> <a href=\"https://www.producthunt.com/products/agent-card?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1230236?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-25T21:54:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "DockDuck",
+      "url": "https://www.producthunt.com/products/dockduck",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The native macOS file manager Finder should be </p> <p> <a href=\"https://www.producthunt.com/products/dockduck?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1163717?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-25T21:54:28"
     }
   ],
-  "updated_at": "2026-08-25T18:34:01.495833+09:00"
+  "updated_at": "2026-08-25T21:54:31.453010+09:00"
 }
