@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-25-ai-job-search-claude-code-full-review.jpg",
     "created_at": "2026-08-25T12:55:39.678775+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-25-llamacpp-gguf-local-llm-tutorial",
+    "title": "llama.cppとGGUFでローカルLLMを爆速で動かす環境構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llamacpp",
+    "tweet_text": "ローカルLLMを実務で使うなら、llama.cppとGGUFの組み合わせが最適解。RTX 4090を2枚刺している私でも、VRAM制限を回避してモデルを検証する際はこれ一択です。\n\n・GPUメモリが足りなくてもRAMで動く\n・1ファイルで完結する手軽さ\n・Pythonから数行でストリーミング実装\n\nまずはLlama-3-8BをQ4_K_Mで動かすところから。API料金を気にせず、オフラインでAIを飼い慣らす感覚を。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-25-llamacpp-gguf-local-llm-tutorial.jpg",
+    "created_at": "2026-08-25T15:52:39.405749+09:00",
+    "posted": false
   }
 ]
