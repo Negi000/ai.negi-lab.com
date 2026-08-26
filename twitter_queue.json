@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-24-decawork-ai-agent-governance-review",
-    "title": "Decawork 企業内AIエージェントの統制と実務運用の最適解",
-    "url": "https://ai.negi-lab.com/posts/decawork-ai-agent-governance-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #業務効率化",
-    "tweet_text": "企業内AIエージェントの管理に頭を抱えているならDecaworkが解になる。複数モデルのログ一元化、権限管理、そして「人間による実行承認」をSDK1つで実装できる。自前で管理画面を作るのは時間の無駄。セキュリティと統制が求められる中堅以上の実務案件なら、これくらい割り切ったツールを導入すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-24-decawork-ai-agent-governance-review.jpg",
-    "created_at": "2026-08-24T18:46:40.612159+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-24-ox-alpha-stealth-model-benchmarks-review",
-    "title": "謎のAI Ox Alphaの正体と実力：GPT-4oを凌駕する推論速度の衝撃",
-    "url": "https://ai.negi-lab.com/posts/ox-alpha-stealth-model-benchmarks-review/",
-    "category": "NEWS",
-    "viral_tags": "#OxAlpha #AI開発",
-    "tweet_text": "謎のAI「Ox Alpha」がベンチマークを席巻。秒間250トークンの爆速推論は、GPT-4oの2倍以上のスピード感。実務で使えば「生成待ち」の時間が消滅します。単なる速さだけでなく、コーディング精度もトップクラス。既存のプロンプトを構造化して準備しておくべき。AIエージェント開発の主役が入れ替わるかもしれません。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-24-ox-alpha-stealth-model-benchmarks-review.jpg",
-    "created_at": "2026-08-24T21:58:09.838742+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-25-qwen-27b-local-llm-gpu-guide",
     "title": "Qwen 27B比較と選び方：RTX 4090/3090やMacでローカルLLMを実務投入する推奨スペック",
     "url": "https://ai.negi-lab.com/posts/qwen-27b-local-llm-gpu-guide/",
