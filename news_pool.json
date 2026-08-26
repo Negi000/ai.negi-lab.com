@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "AI usage patterns in software teams",
-      "url": "https://linear.app/data",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 18 Aug 2026 22:08:07 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-19T21:54:46"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "fx :Tiny, open, native coding agent.",
-      "url": "https://fx.sh",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Tue, 18 Aug 2026 22:00:21 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-19T21:54:46"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Norway should buy OpenAI",
-      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 18 Aug 2026 19:30:29 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-19T21:54:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Sider 6.0",
-      "url": "https://www.producthunt.com/products/chatgpt-sidebar-chrome-extension",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your AI Agent for the Browser </p> <p> <a href=\"https://www.producthunt.com/products/chatgpt-sidebar-chrome-extension?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1202116?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-08-19T21:54:55"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Paper Critters",
-      "url": "https://www.producthunt.com/products/paper-critters",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Kid friendly paper toys, free to decorate and COPPA safe. </p> <p> <a href=\"https://www.producthunt.com/products/paper-critters?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1216898?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-19T21:54:55"
-    },
-    {
       "source": "GitHub Trending",
       "title": "marceloprates/prettymaps",
       "url": "https://github.com/marceloprates/prettymaps",
@@ -2282,22 +2212,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Screenify Studio",
-      "url": "https://www.producthunt.com/products/screenify-studio",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Polished product demos on Mac recorded by an AI agent </p> <p> <a href=\"https://www.producthunt.com/products/screenify-studio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1202067?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-08-26T18:39:28"
-    },
-    {
-      "source": "Product Hunt",
       "title": "EasySwitch",
       "url": "https://www.producthunt.com/products/easyswitch",
       "primary_category": "TOOL",
@@ -2310,7 +2224,69 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-26T18:39:28"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Arga is building a better way to train enterprise AI agents",
+      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Wed, 26 Aug 2026 12:55:28 +0000",
+      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-08-26T22:01:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Arena AI Agent",
+      "url": "https://www.producthunt.com/products/arena-5",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Get real work done, moving from idea to shipping in minutes </p> <p> <a href=\"https://www.producthunt.com/products/arena-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1226279?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-08-26T22:01:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ChatCut Desktop",
+      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Video editor built for humans & AI. Edit with GPT & Claude. </p> <p> <a href=\"https://www.producthunt.com/products/chatcut-ai-video-editor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1229226?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-26T22:01:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ify",
+      "url": "https://www.producthunt.com/products/ify-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Resolution AI that works on top of your existing helpdesk </p> <p> <a href=\"https://www.producthunt.com/products/ify-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1221455?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-26T22:01:35"
     }
   ],
-  "updated_at": "2026-08-26T18:39:32.241116+09:00"
+  "updated_at": "2026-08-26T22:01:39.164801+09:00"
 }
