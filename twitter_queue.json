@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-25-deepseek-v4-flash-rtx3060-multi-gpu-guide",
-    "title": "ローカルLLM向けGPUの選び方と比較：RTX 3060 12GB×4枚でDeepSeek V4 Flashを爆速にする方法",
-    "url": "https://ai.negi-lab.com/posts/deepseek-v4-flash-rtx3060-multi-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "DeepSeek V4 Flashを100 tok/sで動かすなら、RTX 4090を買うより「RTX 3060 12GB × 4枚」の方が合理的。48GB VRAMが約15万円で手に入る。ローカルLLMはもはや単体GPUの性能より、いかにVRAM単価を下げて器を広げるかの勝負。自作PC派なら電源1200W積んで多段GPU構成が正解。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-25-deepseek-v4-flash-rtx3060-multi-gpu-guide.jpg",
-    "created_at": "2026-08-25T06:38:35.539965+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-25-qwen-3-8-27b-local-coding-guide",
     "title": "Qwen 3.8 27B 使い方：Code Arena 9位の最強コーディングAIをローカルで動かす",
     "url": "https://ai.negi-lab.com/posts/qwen-3-8-27b-local-coding-guide/",
