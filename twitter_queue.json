@@ -15205,5 +15205,19 @@
     "image_path": "/images/posts/2026-08-28-nvidia-huggingface-gpu-selection-guide.jpg",
     "created_at": "2026-08-28T04:27:13.607060+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-28-mlx-apple-silicon-local-llm-guide",
+    "title": "MLX 使い方 入門 Apple SiliconでローカルLLMを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "Apple Siliconの真価はMLXでこそ発揮される。PyTorch経由より圧倒的に速く、メモリ効率も抜群。\nM2/M3 MacならLlama 3 8Bが30〜50 tokens/secで爆走します。\n選ぶべきは「メモリ24GB以上のMac」。これだけで開発環境が変わる。\nローカルLLMをPythonで動かす最短ルートをまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-28-mlx-apple-silicon-local-llm-guide.jpg",
+    "created_at": "2026-08-28T07:03:06.017812+09:00",
+    "posted": false
   }
 ]
