@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-26-mac-studio-m5-ultra-local-llama-guide",
-    "title": "M5 Max/Ultra搭載Mac Studioは買いか？ローカルLLM特化の選び方とRTX比較",
-    "url": "https://ai.negi-lab.com/posts/mac-studio-m5-ultra-local-llama-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #MacStudio",
-    "tweet_text": "M5 Max/Ultra搭載Mac Studioがついに登場。最大512GBのユニファイドメモリは、ローカルLLM勢にとって「最強の1台」になる。\n\nRTX 4090を複数枚挿すよりメモリ単価が安く、Llama 3 405BやDeepSeek-V3を1台でロードできるのはApple Siliconだけの特権。速度のNVIDIA、容量と省電力のApple。仕事で使うなら128GB以上が最低ラインですね。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-26-mac-studio-m5-ultra-local-llama-guide.jpg",
-    "created_at": "2026-08-26T06:40:05.250363+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-26-ollama-open-webui-local-llm-setup-guide",
-    "title": "OllamaとOpen WebUIで自分専用のローカルChatGPTを構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "VRAM 8GB以上のPCがあれば、今日からChatGPTへの課金は不要になるかもしれない。OllamaとOpen WebUIの組み合わせは、プライバシー完全保護のままRAGや画像認識までローカルで完結できる最強の構成。Dockerを使えば環境構築も30分。仕事で使うなら「LM Studio」よりこっちの方が拡張性で圧倒的に勝る。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-26-ollama-open-webui-local-llm-setup-guide.jpg",
-    "created_at": "2026-08-26T10:46:43.505247+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-26-claude-obsidian-ai-pkm-review",
     "title": "claude-obsidian ObsidianとClaude Codeを連携させたAIセカンドブレイン構築術",
     "url": "https://ai.negi-lab.com/posts/claude-obsidian-ai-pkm-review/",
