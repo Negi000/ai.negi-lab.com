@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-08-26-arga-enterprise-ai-agent-training-funding.jpg",
     "created_at": "2026-08-26T22:03:50.201446+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-27-serve-markdown-to-ai-agents-hardware-guide",
+    "title": "AIエージェント専用のMarkdown返却（Accept Header）対応とCursor/Claude Codeを爆速化する開発環境の選び方",
+    "url": "https://ai.negi-lab.com/posts/serve-markdown-to-ai-agents-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #Cursor",
+    "tweet_text": "AIエージェントにWebを読ませるならHTMLよりMarkdownが圧倒的に効率的。acceptmarkdown.comの提唱する仕様はトークン代を削り精度を上げる実務の知恵。これに伴い開発環境もVRAM 16GB以上のRTX機かメモリ32GB以上のMacが人権ライン。性能不足でエージェントの推論を待つ時間は最大の損失です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-27-serve-markdown-to-ai-agents-hardware-guide.jpg",
+    "created_at": "2026-08-27T09:39:37.240568+09:00",
+    "posted": false
   }
 ]
