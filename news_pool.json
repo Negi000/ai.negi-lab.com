@@ -1,63 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Clean up Claude 5's token vomit with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 20 Aug 2026 15:26:02 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-21T02:28:17"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Hacking with Claude on a $27 Smart Watch",
-      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 20 Aug 2026 14:08:09 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-21T02:28:17"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
-      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 20 Aug 2026 17:18:58 +0000",
-      "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-21T02:28:26"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "MeetStream AI",
-      "url": "https://www.producthunt.com/products/meetstream-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Unified API & Infra for AI Meeting Agents </p> <p> <a href=\"https://www.producthunt.com/products/meetstream-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1226457?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-21T02:28:27"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Ok, can we actually cool data centers with our pee?",
       "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
@@ -2058,21 +2001,6 @@
       "collected_at": "2026-08-27T17:49:13"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "NVIDIA buying HF isn't a good thing for open source",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzmqrk/nvidia_buying_hf_isnt_a_good_thing_for_open_source/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-08-27T07:07:00+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vzmqrk/nvidia_buying_hf_isnt_a_good_thing_for_open_source/\"> <img alt=\"NVIDIA buying HF isn't a good thing for open source\" src=\"https://preview.redd.it/efwj1ve3avlh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c3380df3138be105e6091b69eb5f428e2f005071\" title=\"NVIDIA buying HF isn't a good thing for open source\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/johnnyApplePRNG\"> /u/johnnyApp",
-      "extra": {},
-      "collected_at": "2026-08-27T23:05:01"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Here’s all the times AI has gone rogue and hacked other companies",
       "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
@@ -2191,7 +2119,91 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-28T02:27:39"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 27 Aug 2026 17:17:57 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-28T04:26:40"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Gemini Omni 1.1 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 27 Aug 2026 17:06:32 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-28T04:26:40"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Hollywood's Video Game Era Is Here. Will It Be Any Good?",
+      "url": "https://www.statsignificant.com/p/hollywoods-video-game-era-is-here",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 27 Aug 2026 14:48:47 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-28T04:26:40"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Nvidia has been in talks to acquire Hugging Face for more than $13 billion - Business Insider",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzfwnd/nvidia_has_been_in_talks_to_acquire_hugging_face/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-08-27T01:19:24+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1vzfwnd/nvidia_has_been_in_talks_to_acquire_hugging_face/\"> <img alt=\"Nvidia has been in talks to acquire Hugging Face for more than $13 billion - Business Insider\" src=\"https://preview.redd.it/hovd1e6xjtlh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=8d5f225fa921d74bf9dca90f5c475098b51e773c\" title=\"Nvidia has been in talks to acquire Hugging Face for more than $13 billion - Business Insider\" /> </a> <",
+      "extra": {},
+      "collected_at": "2026-08-28T04:26:40"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 27 Aug 2026 17:43:24 +0000",
+      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-28T04:26:42"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Lenz",
+      "url": "https://www.producthunt.com/products/lenz-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Independent, multi-model fact-checking API for AI workflows </p> <p> <a href=\"https://www.producthunt.com/products/lenz-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1113358?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-28T04:26:43"
     }
   ],
-  "updated_at": "2026-08-28T02:27:43.160562+09:00"
+  "updated_at": "2026-08-28T04:26:46.728233+09:00"
 }

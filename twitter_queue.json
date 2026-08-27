@@ -15205,5 +15205,19 @@
     "image_path": "/images/posts/2026-08-28-nvidia-buying-hf-local-llm-hardware-guide.jpg",
     "created_at": "2026-08-28T02:28:41.922308+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-28-nvidia-huggingface-gpu-selection-guide",
+    "title": "ローカルLLM環境の選び方：NvidiaのHugging Face買収報道で変わるGPUとMacの投資判断",
+    "url": "https://ai.negi-lab.com/posts/nvidia-huggingface-gpu-selection-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "NvidiaによるHugging Face買収報道。これは個人開発者にとって「VRAM容量が武器になる」時代の決定打です。実務でローカルLLMを回すならVRAM 16GBは最低ライン。理想はRTX 4090の24GB。Macならメモリ64GB以上。今、何に投資すべきか。結論は「推論速度を金で買って、開発サイクルを回すこと」に尽きます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-28-nvidia-huggingface-gpu-selection-guide.jpg",
+    "created_at": "2026-08-28T04:27:13.607060+09:00",
+    "posted": false
   }
 ]
