@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-25-openai-product-head-interview-agentic-ux",
-    "title": "OpenAI製品責任者が明かす「エージェント」の真実：チャットの終焉と自律UXの幕開け",
-    "url": "https://ai.negi-lab.com/posts/openai-product-head-interview-agentic-ux/",
-    "category": "NEWS",
-    "viral_tags": "#AIエージェント #OpenAI",
-    "tweet_text": "OpenAIの製品責任者が「チャットの次」を明言。ChatGPTは単なるUIになり、裏側でAIが勝手にタスクを完結させるエージェント型UXへ移行します。\n\n・プロンプト不要の「自律実行」が標準に\n・推論速度0.5秒以下の超低遅延化\n・開発者は「AIを監視するガードレール」の設計が必須\n\n3ヶ月後、入力欄のないAIアプリが当たり前になる世界が来ます。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-25-openai-product-head-interview-agentic-ux.jpg",
-    "created_at": "2026-08-25T21:54:55.232594+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-26-apple-m5-server-vs-m4-local-llama-guide",
-    "title": "ローカルLLM用Macの選び方！Apple M5 Serverを待つべきかM4モデルを買うべきか徹底比較",
-    "url": "https://ai.negi-lab.com/posts/apple-m5-server-vs-m4-local-llama-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "ローカルLLM環境、Apple M5 Serverを待つより現行M4 Max/M2 Ultraのメモリ特盛が実務上の正解。判断基準はVRAM容量。70Bモデルを回すなら128GBは必須。Macは搭載メモリの約75%しかVRAMに割けない「75%の壁」があるから、モデルサイズ+30%の余裕を見ないと詰みます。失敗したくないならMac mini M4の64GBモデルが最小構成。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-26-apple-m5-server-vs-m4-local-llama-guide.jpg",
-    "created_at": "2026-08-26T02:32:56.747884+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-26-mac-studio-m5-ultra-local-llama-guide",
     "title": "M5 Max/Ultra搭載Mac Studioは買いか？ローカルLLM特化の選び方とRTX比較",
     "url": "https://ai.negi-lab.com/posts/mac-studio-m5-ultra-local-llama-guide/",
