@@ -1,66 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 19 Aug 2026 23:32:00 +0000",
-      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-20T10:40:33"
-    },
-    {
-      "source": "Google News",
-      "title": "自動車向け人工知能（AI）の日本市場（2026年-2035年）、市場規模・分析レポートを発表 - アットプレス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UcjBiOHdoYjZZbzlWVThqYlRTTXppbWpDUGZaVFdfaXUxY3g3d2h0eTJUX3pwUUw2QXpxUlNVbnZxUXZ5aDBFN29SN2FHTFE?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 20 Aug 2026 03:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UcjBiOHdoYjZZbzlWVThqYlRTTXppbWpDUGZaVFdfaXUxY3g3d2h0eTJUX3pwUUw2QXpxUlNVbnZxUXZ5aDBFN29SN2FHTFE?oc=5\" target=\"_blank\">自動車向け人工知能（AI）の日本市場（2026年-2035年）、市場規模・分析レポートを発表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">アットプレス</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-20T12:53:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Expert Chase 2.0",
-      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Where human life runs with AI </p> <p> <a href=\"https://www.producthunt.com/products/expert-chase-deleted-1107920?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1222356?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-20T12:53:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Fairphone Gen 6+",
-      "url": "https://www.producthunt.com/products/fairphone",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A modular phone built to last through 2033 </p> <p> <a href=\"https://www.producthunt.com/products/fairphone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1226377?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-20T15:50:15"
-    },
-    {
       "source": "r/ollama",
       "title": "I benchmarked Qwen3.8 27B on browser tasks. It's on par with GPT 5.6 Luna (xhigh)",
       "url": "https://www.reddit.com/r/ollama/comments/1vsxgqy/i_benchmarked_qwen38_27b_on_browser_tasks_its_on/",
@@ -2152,19 +2092,6 @@
     },
     {
       "source": "HN AI Companies",
-      "title": "Serve Markdown to AI Agents with Accept Headers",
-      "url": "https://acceptmarkdown.com/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Wed, 26 Aug 2026 19:45:59 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-27T09:39:07"
-    },
-    {
-      "source": "HN AI Companies",
       "title": "The risks of AI are real but manageable (2023)",
       "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable",
       "primary_category": "NEWS",
@@ -2247,7 +2174,71 @@
         "revenue_score": 3
       },
       "collected_at": "2026-08-27T09:39:10"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Thu, 27 Aug 2026 06:32:51 +0000",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "extra": {
+        "revenue_score": 1
+      },
+      "collected_at": "2026-08-27T17:49:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ojin",
+      "url": "https://www.producthunt.com/products/ojin",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Talk to an AI Agent with a real face and voice, in real time </p> <p> <a href=\"https://www.producthunt.com/products/ojin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1191085?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-08-27T17:49:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Skydive",
+      "url": "https://www.producthunt.com/products/skydive",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build cloud agents that work across your tools </p> <p> <a href=\"https://www.producthunt.com/products/skydive?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1214277?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-27T17:49:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GitNexus (Akon Labs)",
+      "url": "https://www.producthunt.com/products/gitnexus-akon-labs",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The Open Source Kernel for Coding Agents </p> <p> <a href=\"https://www.producthunt.com/products/gitnexus-akon-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1232678?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-27T17:49:13"
     }
   ],
-  "updated_at": "2026-08-27T09:39:14.002839+09:00"
+  "updated_at": "2026-08-27T17:49:17.154380+09:00"
 }
