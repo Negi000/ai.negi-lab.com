@@ -15205,5 +15205,19 @@
     "image_path": "/images/posts/2026-08-27-apple-silicon-mlx-local-llm-tutorial.jpg",
     "created_at": "2026-08-27T23:06:16.358582+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-28-nvidia-buying-hf-local-llm-hardware-guide",
+    "title": "ローカルLLM推奨スペック決定版。NVIDIA/Hugging Face買収騒動に備えるハードウェア選び",
+    "url": "https://ai.negi-lab.com/posts/nvidia-buying-hf-local-llm-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "NVIDIAのHF買収説でざわついていますが、エンジニアが今取るべき防衛策は「VRAM 16GB以上の確保」です。RTX 4060 Ti 16GBかメモリ32GB以上のMac、このどちらかがないと最新のLlama 3やQwenの検証すらままなりません。特定ベンダーへの依存リスクを考え、CUDAとAppleの二刀流、あるいは大容量メモリ構成を検討すべき時期です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-28-nvidia-buying-hf-local-llm-hardware-guide.jpg",
+    "created_at": "2026-08-28T02:28:41.922308+09:00",
+    "posted": false
   }
 ]

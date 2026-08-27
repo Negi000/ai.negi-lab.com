@@ -1,66 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLM",
-      "title": "I think people are seriously underestimating Qwen 3.8 27B.",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1vtergw/i_think_people_are_seriously_underestimating_qwen/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-08-20T09:39:15+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Honestly, I think people are seriously underestimating Qwen 3.8 27B.</p> <p>It’s actually insane and, in some ways, genuinely competes with Opus 4.8, just not in the way people seem to think.</p> <p>The biggest mistake is comparing their raw frontend/design output. Qwen probably isn’t going to match Opus there, and I don’t think it’s supposed to. Opus has basically been trained with an absurd amount of data/compute specifically around design and UI generation.</",
-      "extra": {},
-      "collected_at": "2026-08-21T00:08:00"
-    },
-    {
-      "source": "Google News",
-      "title": "AAAI-26、ウェアラブル端末から医療データをAIに使うデバイス開発を解説するセッションを紹介 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwVDJLbS1LZ2Q4Uy1ibXQzcXlKRlZpZkpTVEhRejh3OS1RNGZtaGo0cWVqUlVJMjAya2dPU18xR0hMNXFhcERFdUdPYw?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "Thu, 20 Aug 2026 10:52:17 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwVDJLbS1LZ2Q4Uy1ibXQzcXlKRlZpZkpTVEhRejh3OS1RNGZtaGo0cWVqUlVJMjAya2dPU18xR0hMNXFhcERFdUdPYw?oc=5\" target=\"_blank\">AAAI-26、ウェアラブル端末から医療データをAIに使うデバイス開発を解説するセッションを紹介</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thinkit.co.jp</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-21T00:08:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Prized",
-      "url": "https://www.producthunt.com/products/prized",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Let non-engineers build secure internal tools </p> <p> <a href=\"https://www.producthunt.com/products/prized?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1227170?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-21T00:08:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "bitdrift.ai",
-      "url": "https://www.producthunt.com/products/bitdrift",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The world’s first agentic mobile observability platform </p> <p> <a href=\"https://www.producthunt.com/products/bitdrift?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1225203?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-21T00:08:03"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Clean up Claude 5's token vomit with a separate LLM",
       "url": "https://github.com/zachahn/vomit",
@@ -2177,7 +2117,81 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-27T23:05:03"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 27 Aug 2026 08:59:49 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-08-28T02:27:36"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Thu, 27 Aug 2026 16:00:00 +0000",
+      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-08-28T02:27:38"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Wondering Canvas",
+      "url": "https://www.producthunt.com/products/wondering-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Visual ChatGPT in Parallel </p> <p> <a href=\"https://www.producthunt.com/products/wondering-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1233740?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-28T02:27:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Savvy",
+      "url": "https://www.producthunt.com/products/savvy-12",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> An assistant that whispers what to say during a meeting </p> <p> <a href=\"https://www.producthunt.com/products/savvy-12?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1228625?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-28T02:27:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Kira Community",
+      "url": "https://www.producthunt.com/products/kira-art",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Curate moments with #hashtag </p> <p> <a href=\"https://www.producthunt.com/products/kira-art?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1183484?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-28T02:27:39"
     }
   ],
-  "updated_at": "2026-08-27T23:05:07.129247+09:00"
+  "updated_at": "2026-08-28T02:27:43.160562+09:00"
 }
