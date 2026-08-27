@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-08-27-mlx-apple-silicon-local-llm-tutorial.jpg",
     "created_at": "2026-08-27T17:49:53.211184+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-27-apple-silicon-mlx-local-llm-tutorial",
+    "title": "MLX入門 Apple SiliconでローカルLLMを爆速で動かす方法",
+    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple SiliconでローカルLLMを動かすならMLX一択。M2 Max環境でLlama 3 8Bが秒間50トークン以上で爆走する。ユニファイドメモリを直接叩くからPyTorch経由より圧倒的に効率的。開発者ならOllamaだけで終わらず、Pythonから直接制御できるMLXで「仕事に使える」AI環境を自前で構築しよう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-27-apple-silicon-mlx-local-llm-tutorial.jpg",
+    "created_at": "2026-08-27T23:06:16.358582+09:00",
+    "posted": false
   }
 ]
