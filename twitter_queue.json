@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-27-mlx-apple-silicon-local-llm-tutorial",
-    "title": "MLX 使い方 Apple Silicon ローカルLLM 入門",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "Apple Silicon Macの真価はMLXで発揮される。RTX 4090を2枚挿す私でも、Mac + MLXの「静音・爆速」な推論環境には驚かされた。メモリ16GBあれば、Qwen2.5-7Bが秒間50トークン超で動く。API課金も情報漏洩も気にせず、オフラインでLLMを飼い慣らす。エンジニアなら環境構築して損はない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-27-mlx-apple-silicon-local-llm-tutorial.jpg",
-    "created_at": "2026-08-27T17:49:53.211184+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-27-apple-silicon-mlx-local-llm-tutorial",
     "title": "MLX入門 Apple SiliconでローカルLLMを爆速で動かす方法",
     "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
