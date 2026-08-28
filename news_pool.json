@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 21 Aug 2026 19:43:39 +0000",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "extra": {
-        "revenue_score": 9
-      },
-      "collected_at": "2026-08-22T06:33:10"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "fx (by Vercel)",
-      "url": "https://www.producthunt.com/products/fx-by-vercel",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Vercel's tiny, open-source coding agent </p> <p> <a href=\"https://www.producthunt.com/products/fx-by-vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1227471?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-22T06:33:10"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Supernova",
-      "url": "https://www.producthunt.com/products/supernova-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> All your data in Claude and Codex </p> <p> <a href=\"https://www.producthunt.com/products/supernova-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1220506?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-22T06:33:10"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Quick impressions: A week of using Codex more than Claude",
       "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
@@ -2090,21 +2044,6 @@
       "collected_at": "2026-08-28T14:18:20"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "With HuggingFace, Nvidia is also acquiring llama.cpp and the team behind it",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w01y1f/with_huggingface_nvidia_is_also_acquiring/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-08-27T18:20:54+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>With this move Nvidia is not only acquiring the HuggingFace platform, but they might also effectively acquire the copyright to the <code>llama.cpp</code> project, together with the entire team behind it.</p> <p>In February 2026 the llama.cpp team was employed by HF in order to continue working on llama.cpp and the ggml library.</p> <p>This includes:</p> <ul> <li>Georgi Gerganov</li> <li>Xuan-Son Nguyen</li> <li>Aleksander Grygier</li> <li>Victor Mustar</li> <li>",
-      "extra": {},
-      "collected_at": "2026-08-28T20:02:06"
-    },
-    {
       "source": "Product Hunt",
       "title": "Microduck",
       "url": "https://www.producthunt.com/products/hugging-face",
@@ -2355,7 +2294,22 @@
         "revenue_score": 6
       },
       "collected_at": "2026-08-29T05:42:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Gemini Omni 1.1 Flash",
+      "url": "https://www.producthunt.com/products/gemini-omni-1-1-flash",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Our newest multimodal model for video generation and editing </p> <p> <a href=\"https://www.producthunt.com/products/gemini-omni-1-1-flash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1234397?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-29T06:59:22"
     }
   ],
-  "updated_at": "2026-08-29T05:43:01.545905+09:00"
+  "updated_at": "2026-08-29T06:59:25.575297+09:00"
 }
