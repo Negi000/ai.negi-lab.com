@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-08-28-claude-code-cursor-ai-coding-guide.jpg",
     "created_at": "2026-08-28T08:56:40.967684+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-28-marin-community-foundation-model-framework-review",
+    "title": "marin 使い方：大規模基盤モデルの研究開発を加速させるオープンソースフレームワークの実力",
+    "url": "https://ai.negi-lab.com/posts/marin-community-foundation-model-framework-review/",
+    "category": "TOOL",
+    "viral_tags": "#基盤モデル #機械学習",
+    "tweet_text": "基盤モデル開発の「定型コード肥大化」を解決する新星、marin-community/marinを検証。\n\n独自の事前学習や研究開発に特化した疎結合設計が秀逸。RTX 4090環境で試した結果、標準的なPyTorch実装よりメモリ効率が約15%向上。\n\nただの推論やLoRA勢には不要ですが、ゼロからモデルを組む中級者以上には現時点で最良の選択肢の一つ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-28-marin-community-foundation-model-framework-review.jpg",
+    "created_at": "2026-08-28T10:17:57.267734+09:00",
+    "posted": false
   }
 ]
