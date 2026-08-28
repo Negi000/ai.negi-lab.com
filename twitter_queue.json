@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-08-29-ollama-open-webui-local-llm-guide.jpg",
     "created_at": "2026-08-29T06:59:49.428489+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-29-langchain-faiss-rag-tutorial-local-search",
+    "title": "PythonとFAISSで作るRAGパイプライン実装入門",
+    "url": "https://ai.negi-lab.com/posts/langchain-faiss-rag-tutorial-local-search/",
+    "category": "GUIDE",
+    "viral_tags": "#LangChain #RAG",
+    "tweet_text": "RAGの精度は「検索」で8割決まる。クラウドのベクトルDBを契約する前に、まずはPythonとFAISSでローカル環境を組むのが実務の鉄則です。gpt-4o-miniと最新の埋め込みモデルを組み合わせれば、月額10円以下のAPI費用で超高速な社内文書検索が作れる。環境構築から保存・再利用まで最短ルートをまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-08-29T08:42:24.396339+09:00",
+    "posted": false
   }
 ]
