@@ -1,64 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "GPT 5.6 Sol 20% price reduction",
-      "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 22 Aug 2026 04:33:06 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-22T18:25:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "SubtitleGenerator",
-      "url": "https://www.producthunt.com/products/subtitlegenerator",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> From video to publish-ready AI subtitles—all in one browser </p> <p> <a href=\"https://www.producthunt.com/products/subtitlegenerator?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1223324?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-22T18:25:16"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "VeloFiler",
-      "url": "https://www.producthunt.com/products/velofiler",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Keyboard-first dual-pane file manager for macOS </p> <p> <a href=\"https://www.producthunt.com/products/velofiler?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1226284?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-22T18:25:16"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Port Radar for macOS",
-      "url": "https://www.producthunt.com/products/port-radar-for-macos",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The AI port manager for Mac. Never run lsof again. </p> <p> <a href=\"https://www.producthunt.com/products/port-radar-for-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1228833?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-22T18:25:16"
-    },
-    {
       "source": "r/ollama",
       "title": "Row-Bot v4.8.0 is live",
       "url": "https://www.reddit.com/r/ollama/comments/1vv7a1w/rowbot_v480_is_live/",
@@ -2206,21 +2148,6 @@
       "collected_at": "2026-08-29T03:20:38"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 28 Aug 2026 20:24:11 +0000",
-      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "extra": {
-        "revenue_score": 1
-      },
-      "collected_at": "2026-08-29T05:42:56"
-    },
-    {
       "source": "Product Hunt",
       "title": "Aramb",
       "url": "https://www.producthunt.com/products/aramb",
@@ -2324,7 +2251,80 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-29T15:47:55"
+    },
+    {
+      "source": "r/LocalLLM",
+      "title": "GLM-5.3 makes the $1T Anthropic valuation look kinda wild",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1w0y0n5/glm53_makes_the_1t_anthropic_valuation_look_kinda/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-08-28T18:05:53+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Not saying GLM is better than Claude at everything. But another open-weight model getting this close to the frontier is a big deal.</p> <p>If good enough models keep becoming cheap/free and you can run them yourself, what's the moat?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dieSpaghettiCarbona\"> /u/dieSpaghettiCarbona </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLM/comments/1w0y0n5/glm53_makes_the_1t_ant",
+      "extra": {},
+      "collected_at": "2026-08-29T18:58:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 28 Aug 2026 19:30:38 +0000",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-08-29T18:58:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mossy",
+      "url": "https://www.producthunt.com/products/mossy-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A desk plant that wilts. You write what the break is. </p> <p> <a href=\"https://www.producthunt.com/products/mossy-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1231231?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-29T18:58:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "God’s Eye View",
+      "url": "https://www.producthunt.com/products/god-s-eye-view",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Spy satellite simulator in your browser but the data is real </p> <p> <a href=\"https://www.producthunt.com/products/god-s-eye-view?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1235253?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-29T18:58:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Einfall",
+      "url": "https://www.producthunt.com/products/einfall-a-place-for-fugitive-thoughts",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Capture fugitive thoughts + route them to where they belong </p> <p> <a href=\"https://www.producthunt.com/products/einfall-a-place-for-fugitive-thoughts?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1231087?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-29T18:58:04"
     }
   ],
-  "updated_at": "2026-08-29T15:47:58.739642+09:00"
+  "updated_at": "2026-08-29T18:58:08.331124+09:00"
 }
