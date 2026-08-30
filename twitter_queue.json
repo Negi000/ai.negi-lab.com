@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-08-31-warp-claude-agent-pc-spec-guide.jpg",
     "created_at": "2026-08-31T03:11:14.193730+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-31-claude-code-vs-cursor-hardware-guide",
+    "title": "Claude Code比較と選び方。AIコーディング環境を構築する前に知るべき注意点とおすすめ構成",
+    "url": "https://ai.negi-lab.com/posts/claude-code-vs-cursor-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #ClaudeCode",
+    "tweet_text": "Claude Codeのデフォルト設定でセッションURLがコミットログに残る仕様、企業開発では要注意。AIツールの利便性は高いが、実務なら設定変更やCursor、Aiderへの乗り換えも検討すべき。投資するならVRAM 16GB以上のRTX 4060 Tiか、メモリ32GB以上のMacが後悔しない最低ライン。ケチるとレスポンスの数秒が地獄に変わる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-31-claude-code-vs-cursor-hardware-guide.jpg",
+    "created_at": "2026-08-31T04:40:07.797493+09:00",
+    "posted": false
   }
 ]
