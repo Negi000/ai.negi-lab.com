@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-29-langchain-faiss-rag-tutorial-local-search",
-    "title": "PythonとFAISSで作るRAGパイプライン実装入門",
-    "url": "https://ai.negi-lab.com/posts/langchain-faiss-rag-tutorial-local-search/",
-    "category": "GUIDE",
-    "viral_tags": "#LangChain #RAG",
-    "tweet_text": "RAGの精度は「検索」で8割決まる。クラウドのベクトルDBを契約する前に、まずはPythonとFAISSでローカル環境を組むのが実務の鉄則です。gpt-4o-miniと最新の埋め込みモデルを組み合わせれば、月額10円以下のAPI費用で超高速な社内文書検索が作れる。環境構築から保存・再利用まで最短ルートをまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-08-29T08:42:24.396339+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-29-screenshot-to-code-review-frontend-automation",
-    "title": "abi/screenshot-to-codeでUIデザインを即コード化する方法と実務での実用性",
-    "url": "https://ai.negi-lab.com/posts/screenshot-to-code-review-frontend-automation/",
-    "category": "TOOL",
-    "viral_tags": "#screenshot2code #フロントエンド開発",
-    "tweet_text": "UIデザインを30秒でReact/Tailwindコードに変換する「screenshot-to-code」を検証。\n画像1枚でHTML構造からCSSクラスまで完璧に再現する。\n特筆すべきは対話修正機能。生成後の「ボタンを中央寄せにして」といった微調整が効く。\nAPI代はかかるが、UIの下書き工数が8割削減できる。フロントエンド開発者はローカルに入れておくべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-29-screenshot-to-code-review-frontend-automation.jpg",
-    "created_at": "2026-08-29T09:52:49.046565+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-29-almanac-ai-agent-second-brain-review",
     "title": "Almanac 使い方と実務活用ガイド：AIエージェントに「第2の脳」を持たせる方法",
     "url": "https://ai.negi-lab.com/posts/almanac-ai-agent-second-brain-review/",
