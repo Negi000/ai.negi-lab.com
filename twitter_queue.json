@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-08-31-claude-code-vs-cursor-hardware-guide.jpg",
     "created_at": "2026-08-31T04:40:07.797493+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-08-31-apple-silicon-mlx-local-llm-tutorial",
+    "title": "Apple Siliconの性能を限界まで引き出すMLXでローカルLLMを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "MacユーザーがローカルLLMを動かすなら、Apple公式のMLX一択。ユニファイドメモリの特性を活かした計算効率は、他を圧倒するレスポンスを生みます。M2/M3ならLlama 3が毎秒50トークン超え。API料金もプライバシーも気にせず、手元のMacを最強のAI開発機に変える具体的なPythonコードをまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-08-31-apple-silicon-mlx-local-llm-tutorial.jpg",
+    "created_at": "2026-08-31T08:25:47.170078+09:00",
+    "posted": false
   }
 ]
