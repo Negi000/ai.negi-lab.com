@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-01-local-llm-hardware-guide-rtx-vs-mac.jpg",
     "created_at": "2026-09-01T03:59:42.940716+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-01-local-llm-gpu-vram-guide-vibecoding",
+    "title": "ローカルLLMで「vibecoding」を実現するGPUの選び方とVRAMの境界線",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-vram-guide-vibecoding/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "ローカルLLMでMinecraftクローンが作れる時代。Qwen2.5-32Bクラスを快適に動かすならVRAM 24GBが絶対的な境界線です。RTX 4090なら1秒間に50トークン近く出せるので、思考を止めない「vibecoding」が実用レベルに。妥協して12GB以下のGPUを買うと、知能の低いモデルしか動かせず後悔します。買う前に見るべきスペックをまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-01-local-llm-gpu-vram-guide-vibecoding.jpg",
+    "created_at": "2026-09-01T05:21:59.749308+09:00",
+    "posted": false
   }
 ]
