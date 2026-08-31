@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-01-local-llm-gpu-vram-guide-vibecoding.jpg",
     "created_at": "2026-09-01T05:21:59.749308+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-01-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLX 使い方 入門 Apple Silicon MacでローカルLLMを高速動作させる方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "MacBookのメモリを16GB以上にしているなら、MLXでローカルLLMを動かさないのは宝の持ち腐れ。API料金0円、オフライン、機密情報投げ放題の環境がPython数行で手に入ります。M2/M3チップならGemma 2やLlama 3が爆速。統合メモリの恩恵をフルに活かす「仕事で使える」環境構築をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-01-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-09-01T06:45:20.274071+09:00",
+    "posted": false
   }
 ]
