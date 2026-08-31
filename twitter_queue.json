@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-30-local-llm-gpu-mac-comparison-guide",
-    "title": "ローカルLLM環境の選び方と比較：Claudeの制限を突破し業務効率を最大化するRTX・Mac購入ガイド",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "Claudeのモデレーションや制限に仕事の手を止められていませんか？実務でAIをフル活用するなら「VRAM 16GB」が生存ライン。RTX 4060 Ti 16GBはコスパ最強の解ですが、将来を見据えるならApple Siliconの64GB以上が理想。速度より「メモリ容量」で選ぶのが、AI投資で失敗しない鉄則です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-30-local-llm-gpu-mac-comparison-guide.jpg",
-    "created_at": "2026-08-30T02:52:40.452905+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-08-30-xiaomi-ai-cube-memory-bandwidth-comparison-guide",
-    "title": "ローカルLLM用PCの選び方とXiaomi AI Cubeの衝撃｜RTX 4090やMac Studioと比較すべき判断基準",
-    "url": "https://ai.negi-lab.com/posts/xiaomi-ai-cube-memory-bandwidth-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "Xiaomi AI Cubeの1.2TB/sというメモリ帯域、これはローカルLLM運用のゲームチェンジャーになる数字。RTX 4090が1TB/s、Mac Studio Ultraが800GB/sなのを考えると、70Bクラスのモデルが爆速で動く基準を定義したと言える。今はプロトタイプだが、今後のPC選びは「VRAM容量」だけでなく「帯域幅」が実務の生死を分ける時代。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-30-xiaomi-ai-cube-memory-bandwidth-comparison-guide.jpg",
-    "created_at": "2026-08-30T04:37:27.733157+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-30-mlx-apple-silicon-local-llm-guide",
     "title": "Apple Siliconを最大活用！MLXでローカルLLMを爆速で動かす入門ガイド",
     "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-guide/",
