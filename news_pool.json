@@ -1,80 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Your model fits in VRAM. Your context doesn't. The KV cache math nobody shows you.",
-      "url": "https://www.reddit.com/r/ollama/comments/1vwbtrb/your_model_fits_in_vram_your_context_doesnt_the/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-08-23T16:32:07+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Spent way too long confused about why an 8B at Q4_K_M, about 4.9GB on disk, would OOM on a 12GB card. The weights fit twice over. The answer is the KV cache, and the math is simple enough that you can work out your own ceiling in about a minute.</p> <p><strong>The formula</strong></p> <pre><code>KV bytes = 2 x layers x kv_heads x head_dim x context_tokens x bytes_per_value </code></pre> <p>The 2 is K and V. bytes_per_value is 2 at fp16.</p> <p><strong>Llama 3.1 ",
-      "extra": {},
-      "collected_at": "2026-08-24T18:46:00"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Treebar",
-      "url": "https://www.producthunt.com/products/treebar-where-is-codex",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Treebar gives you one view of every active worktree </p> <p> <a href=\"https://www.producthunt.com/products/treebar-where-is-codex?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1230074?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-24T18:46:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Trama",
-      "url": "https://www.producthunt.com/products/trama-mac-automation-in-plain-language",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Talk plainly and create macOS native automations </p> <p> <a href=\"https://www.producthunt.com/products/trama-mac-automation-in-plain-language?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1229465?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-24T18:46:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "PaymentKit",
-      "url": "https://www.producthunt.com/products/paymentkit",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Billing that survives a processor shutdown </p> <p> <a href=\"https://www.producthunt.com/products/paymentkit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1227796?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-24T21:57:44"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Localdock",
-      "url": "https://www.producthunt.com/products/localdock",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Every local project gets a real address. </p> <p> <a href=\"https://www.producthunt.com/products/localdock?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1229902?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-24T21:57:44"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "OpenAI is building AI agents for everything. Will everyone use them?",
       "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
@@ -2330,22 +2256,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Video Agent by Fotor",
-      "url": "https://www.producthunt.com/products/fotor",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Create and edit precision motion graphics & video with chat </p> <p> <a href=\"https://www.producthunt.com/products/fotor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1224981?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-31T18:37:53"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Radar by Particle",
       "url": "https://www.producthunt.com/products/particle-5",
       "primary_category": "TOOL",
@@ -2373,7 +2283,98 @@
         "revenue_score": 0
       },
       "collected_at": "2026-08-31T18:37:53"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "extra": {
+        "stars_today": "472 stars today"
+      },
+      "collected_at": "2026-08-31T22:02:52"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "kaifcodec/user-scanner",
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
+      "extra": {
+        "stars_today": "462 stars today"
+      },
+      "collected_at": "2026-08-31T22:02:52"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 31 Aug 2026 12:56:46 +0000",
+      "summary": "Circleback is also introducing new pricing plans starting from $14 per month",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-31T22:02:52"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "EP–2350 FX–MIC",
+      "url": "https://www.producthunt.com/products/teenage-engineering",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The programmable mic you can squeeze, shake & play </p> <p> <a href=\"https://www.producthunt.com/products/teenage-engineering?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1237061?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-31T22:02:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Orato",
+      "url": "https://www.producthunt.com/products/orato-speech-coach",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Practice speaking with AI. </p> <p> <a href=\"https://www.producthunt.com/products/orato-speech-coach?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1235917?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-08-31T22:02:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Interactive Sessions",
+      "url": "https://www.producthunt.com/products/revolte",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Drive the full SDLC with AI agents, step by step </p> <p> <a href=\"https://www.producthunt.com/products/revolte?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1225427?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-08-31T22:02:53"
     }
   ],
-  "updated_at": "2026-08-31T18:37:56.524650+09:00"
+  "updated_at": "2026-08-31T22:02:57.074772+09:00"
 }
