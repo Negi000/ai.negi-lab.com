@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-01-minimind-llm-scratch-training-review.jpg",
     "created_at": "2026-09-01T13:44:08.530880+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-01-user-scanner-osint-email-username-guide",
+    "title": "user-scanner 使い方とOSINT調査の実践的レビュー",
+    "url": "https://ai.negi-lab.com/posts/user-scanner-osint-email-username-guide/",
+    "category": "TOOL",
+    "viral_tags": "#OSINT #サイバーセキュリティ",
+    "tweet_text": "メルアド1つから465以上のWebサービス登録状況を特定する「user-scanner」が強烈。SherlockとHoleheの良いとこ取りで、とにかくスキャンが速い。\n調査対象はEmail 175、Username 290以上。\nセキュリティ実務でデジタルフットプリントを追うなら、現状これが最速の選択肢。\n自宅鯖やVPN環境で回すのが正解です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-01-user-scanner-osint-email-username-guide.jpg",
+    "created_at": "2026-09-01T17:34:17.301746+09:00",
+    "posted": false
   }
 ]
