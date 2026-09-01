@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-08-30-llamaindex-rag-local-search-guide",
-    "title": "PythonとLlamaIndexで作るRAGローカル検索の実装ガイド",
-    "url": "https://ai.negi-lab.com/posts/llamaindex-rag-local-search-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#LlamaIndex #RAG",
-    "tweet_text": "RAG実装でLangChainを使って挫折した人はLlamaIndexを試すべき。\n検索に特化しているから、わずか30行でローカルファイルを検索するAIが作れます。\n精度を出すコツは「chunk_size=512」と「similarity_top_k=3」のバランス。\nGPT-4o-miniを使えば、100ドキュメント程度の検証ならAPI代は缶コーヒー1本分で収まります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-08-30-llamaindex-rag-local-search-guide.jpg",
-    "created_at": "2026-08-30T20:34:51.695723+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-08-30-libreoffice-24-8-no-ai-privacy-first",
     "title": "LibreOffice 24.8がAI機能を「搭載しない」と決めた理由：プライバシーと主権を守る実務的な選択",
     "url": "https://ai.negi-lab.com/posts/libreoffice-24-8-no-ai-privacy-first/",
