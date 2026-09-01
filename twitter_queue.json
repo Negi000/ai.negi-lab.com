@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-01-apple-openai-lawsuit-data-theft-evidence.jpg",
     "created_at": "2026-09-01T20:19:25.368477+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-02-glm-5-3-flash-local-llm-gpu-guide",
+    "title": "ローカルLLM選びの新基準？GLM-5.3-Flash比較と実務で勝てるGPU・Mac選び",
+    "url": "https://ai.negi-lab.com/posts/glm-5-3-flash-local-llm-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "GLM-5.3-Flashの衝撃。軽量モデルなのにLlama 3.1 70Bに迫る知能でAPIコストは激減。ローカルLLM構築ならVRAM 16GBがもはや「最低ライン」です。RTX 4060 Ti 16GBか、それとも4090か。実務でAgentを回すなら24GBないと話にならない時代が来ました。Mac派ならM4のメモリ64GB積みがコスパ最強の投資先。失敗しない選び方をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-02-glm-5-3-flash-local-llm-gpu-guide.jpg",
+    "created_at": "2026-09-02T02:56:40.414590+09:00",
+    "posted": false
   }
 ]
