@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-01-glm-5-3-flash-python-tutorial-guide.jpg",
     "created_at": "2026-09-01T09:34:41.543428+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-01-minimind-llm-scratch-training-review",
+    "title": "minimind LLMの仕組みを2時間で完全理解するための最小実装",
+    "url": "https://ai.negi-lab.com/posts/minimind-llm-scratch-training-review/",
+    "category": "TOOL",
+    "viral_tags": "#ローカルLLM #PyTorch",
+    "tweet_text": "LLMの仕組みを2時間で掌握できる「MiniMind」が熱い。64Mという極小サイズながら、Llama 3やDeepSeek-V3の最新構造をPyTorchで完全再現。RTX 3060クラスのGPUがあれば、事前学習からDPOまで手元で完結。巨大モデルのAPIを叩くだけの日常から脱却し、内部構造をコードレベルで解剖したいエンジニアにはこれ以上ない教材です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-01-minimind-llm-scratch-training-review.jpg",
+    "created_at": "2026-09-01T13:44:08.530880+09:00",
+    "posted": false
   }
 ]
