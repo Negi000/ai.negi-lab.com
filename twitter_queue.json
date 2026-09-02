@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-02-murmell-ai-agent-google-docs-review.jpg",
     "created_at": "2026-09-02T13:05:53.184700+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-02-ollama-open-webui-local-llm-setup-guide",
+    "title": "OllamaとOpen WebUIで自分専用のローカルLLM環境を作る方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLMを仕事で使うならOllama + Open WebUIの一択。RTX 3060なら秒間40トークン超えで、セキュリティを気にせず社外秘資料をRAGで読み込める。Dockerを使えば環境構築も10分で完了。API代を気にせず24時間AIを回し続けられる環境は、一度作ると戻れません。VRAM 12GB以上を推奨。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-02-ollama-open-webui-local-llm-setup-guide.jpg",
+    "created_at": "2026-09-02T16:51:46.528332+09:00",
+    "posted": false
   }
 ]
