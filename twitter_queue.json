@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-09-02-openai-next-model-high-performance-safety-report.jpg",
     "created_at": "2026-09-02T22:16:05.856396+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-03-local-llm-hardware-guide-engrams-vram-comparison",
+    "title": "ローカルLLMのためのGPU・Mac選び：Engramsの幻想と現実的なVRAM投資術",
+    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-engrams-vram-comparison/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "Engrams（N-gram）で1TモデルがSSDで動くという期待は一旦捨てた方がいい。RTX 4090の帯域1TB/sに対し、Gen5 SSDでも14GB/s。この70倍の壁は魔法では埋まりません。\n\n結局、ローカルLLMの快適さは物理VRAM量で決まる。失敗したくないなら16GBを最低ラインに、70Bモデルを見据えるなら中古3090かMac Studioの64GB以上を狙うのが実務者の鉄則です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-03-local-llm-hardware-guide-engrams-vram-comparison.jpg",
+    "created_at": "2026-09-03T03:02:51.590136+09:00",
+    "posted": false
   }
 ]
