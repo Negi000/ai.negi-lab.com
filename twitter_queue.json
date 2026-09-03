@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-03-userlens-ai-agent-product-adoption-review.jpg",
     "created_at": "2026-09-03T13:04:36.275087+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-03-llamacpp-gguf-local-llm-setup-guide",
+    "title": "llama.cppとGGUF量子化でローカルLLMを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llamacpp",
+    "tweet_text": "ローカルLLMを動かすならllama.cpp一択。RTX 4090なら100 token/sec超え、MacでもQ4_K_M量子化なら爆速で動く。\nAPI課金やプライバシーを気にせず、OpenAI互換サーバーを自前で立てる手順をまとめました。\n「動かしてみた」で終わらず、実務でCursorやPythonから叩くための最短ルートです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-03-llamacpp-gguf-local-llm-setup-guide.jpg",
+    "created_at": "2026-09-03T17:00:07.486207+09:00",
+    "posted": false
   }
 ]
