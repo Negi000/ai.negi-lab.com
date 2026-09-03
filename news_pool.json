@@ -2202,21 +2202,6 @@
       "collected_at": "2026-09-02T22:15:32"
     },
     {
-      "source": "GitHub Trending",
-      "title": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "Agent skill that removes signs of AI-generated writing from text",
-      "extra": {
-        "stars_today": "366 stars today"
-      },
-      "collected_at": "2026-09-02T22:15:32"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
       "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
@@ -2707,7 +2692,66 @@
         "revenue_score": 4
       },
       "collected_at": "2026-09-03T19:53:00"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Can a 4B local model actually feel like an AI assistant?",
+      "url": "https://www.reddit.com/r/ollama/comments/1w6066y/can_a_4b_local_model_actually_feel_like_an_ai/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-09-03T07:12:40+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've been building Arcon around Qwen3-4B + LoRA. Instead of just making it a chatbot, I'm experimenting with persistent memory, personality/mood, internal state, tools, and eventually having it process things before replying.</p> <p>I'm curious what people who've built local agents think - <strong>how far can you realistically push a small model with good architecture around it?</strong></p> <p>I put the whole thing on GitHub if anyone wants to poke around, roas",
+      "extra": {},
+      "collected_at": "2026-09-03T22:16:01"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Thu, 03 Sep 2026 12:42:45 +0000",
+      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-09-03T22:16:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tabbit AI",
+      "url": "https://www.producthunt.com/products/tabbitai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Give your browser a task, not just a question </p> <p> <a href=\"https://www.producthunt.com/products/tabbitai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1228465?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-03T22:16:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "MagiCrew",
+      "url": "https://www.producthunt.com/products/magicrew",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Give everyone their own AI workforce in one platform </p> <p> <a href=\"https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1226006?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-03T22:16:04"
     }
   ],
-  "updated_at": "2026-09-03T19:53:00.630402+09:00"
+  "updated_at": "2026-09-03T22:16:07.461012+09:00"
 }
