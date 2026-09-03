@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-04-tencent-hy4-gguf-local-llm-hardware-guide.jpg",
     "created_at": "2026-09-04T04:41:53.384882+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-04-mlx-apple-silicon-local-llm-guide",
+    "title": "MLXでApple Silicon MacをローカルLLM専用機に変える方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "M3 MaxでLlama 3.1 8Bを動かすと秒間40トークン超え。Apple純正のMLXを使えば、Macは最強のローカルLLM機になります。\n\n検証した結果、16GBメモリなら8Bモデルが常用範囲。8GBだとスワップが発生して厳しい。\nこれから買うなら「GPU性能よりメモリ容量」を優先するのが、ローカルLLM運用の鉄則です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-04-mlx-apple-silicon-local-llm-guide.jpg",
+    "created_at": "2026-09-04T08:14:25.997849+09:00",
+    "posted": false
   }
 ]
