@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-04-nvidia-hugging-face-acquisition-gpu-comparison.jpg",
     "created_at": "2026-09-04T03:03:08.479564+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-04-tencent-hy4-gguf-local-llm-hardware-guide",
+    "title": "ローカルLLM環境の選び方！1.5TBモデルが200GBで動く時代の最強PCスペック比較",
+    "url": "https://ai.negi-lab.com/posts/tencent-hy4-gguf-local-llm-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "TencentのHy4が1.5TB→200GBへ圧縮、性能98%維持という衝撃。ついに超巨大モデルが「自宅」に降りてきた。動かすなら192GB以上のMac Studioか、RTX 4090の多段積みが最低条件。24GB VRAM1枚で戦える時代は終わったかもしれない。今から投資するなら「メモリ容量」を最優先にすべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-04-tencent-hy4-gguf-local-llm-hardware-guide.jpg",
+    "created_at": "2026-09-04T04:41:53.384882+09:00",
+    "posted": false
   }
 ]
