@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-02-glm-5-3-flash-local-llm-gpu-guide",
-    "title": "ローカルLLM選びの新基準？GLM-5.3-Flash比較と実務で勝てるGPU・Mac選び",
-    "url": "https://ai.negi-lab.com/posts/glm-5-3-flash-local-llm-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "GLM-5.3-Flashの衝撃。軽量モデルなのにLlama 3.1 70Bに迫る知能でAPIコストは激減。ローカルLLM構築ならVRAM 16GBがもはや「最低ライン」です。RTX 4060 Ti 16GBか、それとも4090か。実務でAgentを回すなら24GBないと話にならない時代が来ました。Mac派ならM4のメモリ64GB積みがコスパ最強の投資先。失敗しない選び方をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-02-glm-5-3-flash-local-llm-gpu-guide.jpg",
-    "created_at": "2026-09-02T02:56:40.414590+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-02-claude-code-auto-mode-security-hardware-guide",
-    "title": "AIコーディング時代の選び方：Claude Code/Aider用ローカルLLM環境と安全なハードウェア比較",
-    "url": "https://ai.negi-lab.com/posts/claude-code-auto-mode-security-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ClaudeCode #ローカルLLM",
-    "tweet_text": "Claude CodeのAuto Modeに潜む「意図しないコマンド実行」のリスクが判明。AIエージェントにPCを操作させるなら、隔離されたサンドボックス環境が必須です。今の買いはVRAM 24GBのRTX 4090か、メモリ64GB以上のMac。スペック不足はエージェントの思考停止を招きます。失敗しないハード選びをまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-02-claude-code-auto-mode-security-hardware-guide.jpg",
-    "created_at": "2026-09-02T04:47:20.478526+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-02-python-rag-local-implementation-guide",
     "title": "PythonとLangChainを使って、手元のPDFやテキストファイルを知識源として回答する「RAG（検索拡張生成）システム」をゼロから構築します。",
     "url": "https://ai.negi-lab.com/posts/python-rag-local-implementation-guide/",
