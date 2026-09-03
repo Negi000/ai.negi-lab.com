@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-02-python-rag-local-implementation-guide",
-    "title": "PythonとLangChainを使って、手元のPDFやテキストファイルを知識源として回答する「RAG（検索拡張生成）システム」をゼロから構築します。",
-    "url": "https://ai.negi-lab.com/posts/python-rag-local-implementation-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#RAG #Python",
-    "tweet_text": "RAGは「とりあえず動く」を作るのは簡単。でも仕事で使える精度を出すには、チャンク分割の戦略とリトリーバーの設定が全てです。\n\nOpenAI APIとChromaを使い、30分で自作PDFを知識源にする検索エンジンをPythonで構築するガイドを書きました。\n\n「なんとなく」ではなく、なぜその設定にするのか。SIer時代からの実地経験に基づいた実装手順です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-02-python-rag-local-implementation-guide.jpg",
-    "created_at": "2026-09-02T08:15:33.585233+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-02-murmell-ai-agent-google-docs-review",
     "title": "Murmell 使い方：AIエージェントの共同作業を「ドキュメント化」する新時代の管理ツール",
     "url": "https://ai.negi-lab.com/posts/murmell-ai-agent-google-docs-review/",
