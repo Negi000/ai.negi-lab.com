@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-02-ollama-open-webui-local-llm-setup-guide",
-    "title": "OllamaとOpen WebUIで自分専用のローカルLLM環境を作る方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "ローカルLLMを仕事で使うならOllama + Open WebUIの一択。RTX 3060なら秒間40トークン超えで、セキュリティを気にせず社外秘資料をRAGで読み込める。Dockerを使えば環境構築も10分で完了。API代を気にせず24時間AIを回し続けられる環境は、一度作ると戻れません。VRAM 12GB以上を推奨。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-02-ollama-open-webui-local-llm-setup-guide.jpg",
-    "created_at": "2026-09-02T16:51:46.528332+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-02-doop-ai-agent-design-canvas-review",
-    "title": "Doop 使い方と実務レビュー：AIエージェントと並行作業する次世代デザイン環境",
-    "url": "https://ai.negi-lab.com/posts/doop-ai-agent-design-canvas-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #UIデザイン",
-    "tweet_text": "デザイン版のGitHub Copilotというより、キャンバスに住み着く「自律型デザイナー軍団」との共同作業。Doopが面白いのは、指示待ちAIじゃなく勝手に隣でレイアウト案を組み始める体験。\n\nプロンプトを待つ時間が消えて、人間は「選んで直す」ディレクションに専念できる。0から1を作る速度が異次元。RTX 4090環境なら描画も爆速で、もう戻れない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-02-doop-ai-agent-design-canvas-review.jpg",
-    "created_at": "2026-09-02T19:53:50.052034+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-02-openai-next-model-high-performance-safety-report",
     "title": "OpenAI次期モデルは「極めて高性能」ゆえに足踏みか？実務者が注視すべき安全対策の裏側",
     "url": "https://ai.negi-lab.com/posts/openai-next-model-high-performance-safety-report/",
