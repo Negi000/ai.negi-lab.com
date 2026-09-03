@@ -1,80 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Show HN: The load-bearing vocabulary of Claude",
-      "url": "https://louisabraham.github.io/load-bearing/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 27 Aug 2026 08:59:49 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-08-28T02:27:36"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Thu, 27 Aug 2026 16:00:00 +0000",
-      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-28T02:27:38"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Wondering Canvas",
-      "url": "https://www.producthunt.com/products/wondering-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Visual ChatGPT in Parallel </p> <p> <a href=\"https://www.producthunt.com/products/wondering-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1233740?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-28T02:27:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Savvy",
-      "url": "https://www.producthunt.com/products/savvy-12",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> An assistant that whispers what to say during a meeting </p> <p> <a href=\"https://www.producthunt.com/products/savvy-12?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1228625?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-28T02:27:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Kira Community",
-      "url": "https://www.producthunt.com/products/kira-art",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Curate moments with #hashtag </p> <p> <a href=\"https://www.producthunt.com/products/kira-art?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1183484?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-28T02:27:39"
-    },
-    {
       "source": "HN Local AI",
       "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
       "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
@@ -2733,7 +2659,67 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-04T01:08:20"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "It's official! Nvidia to acquire Hugging Face for 12.9 billion dollars.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w65uhf/its_official_nvidia_to_acquire_hugging_face_for/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-09-03T12:22:05+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1w65uhf/its_official_nvidia_to_acquire_hugging_face_for/\"> <img alt=\"It's official! Nvidia to acquire Hugging Face for 12.9 billion dollars.\" src=\"https://external-preview.redd.it/Durt-G_xQd1weYfbP9UuDPyGhgCtrJxyW-uKyNbevL8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=046c3fcbdabf8e01e05712db12340e441f931e93\" title=\"It's official! Nvidia to acquire Hugging Face for 12.9 billion dollars.\" /> </a> </td><td> &#32; submitted ",
+      "extra": {},
+      "collected_at": "2026-09-04T03:01:15"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 03 Sep 2026 16:09:01 +0000",
+      "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-04T03:01:17"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Grove",
+      "url": "https://www.producthunt.com/products/grove-8",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> One terminal for you and your AI agent </p> <p> <a href=\"https://www.producthunt.com/products/grove-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1239492?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-09-04T03:01:17"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Readr",
+      "url": "https://www.producthunt.com/products/readr-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A free reader that answers your questions and reads aloud </p> <p> <a href=\"https://www.producthunt.com/products/readr-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1239691?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-04T03:01:17"
     }
   ],
-  "updated_at": "2026-09-04T01:08:24.091221+09:00"
+  "updated_at": "2026-09-04T03:01:21.207947+09:00"
 }
