@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-09-03-llamacpp-gguf-local-llm-setup-guide.jpg",
     "created_at": "2026-09-03T17:00:07.486207+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-03-blader-humanizer-review-ai-text-rewriter",
+    "title": "blader/humanizer レビュー: AI生成テキストの「不自然な癖」を自動修正するエージェントスキルの実力",
+    "url": "https://ai.negi-lab.com/posts/blader-humanizer-review-ai-text-rewriter/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #業務効率化",
+    "tweet_text": "AI生成テキストの「正論臭さ」を消し去るblader/humanizerが面白い。\n\n統計的な文章のゆらぎ（Burstiness）を自動調整するエージェントスキル。GPT-4の出力を通すだけでAI検知率を90%から20%以下まで下げられた。\n\nAPIコストは増えるが、SEO記事や読後感を重視するコンテンツなら導入価値あり。RTX 4090環境でローカルLLMを刺して運用するのが現状の最適解か。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-03-blader-humanizer-review-ai-text-rewriter.jpg",
+    "created_at": "2026-09-03T19:53:48.781584+09:00",
+    "posted": false
   }
 ]

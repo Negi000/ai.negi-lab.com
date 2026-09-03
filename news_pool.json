@@ -2,70 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Thu, 27 Aug 2026 06:32:51 +0000",
-      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
-      "extra": {
-        "revenue_score": 1
-      },
-      "collected_at": "2026-08-27T17:49:13"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Ojin",
-      "url": "https://www.producthunt.com/products/ojin",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Talk to an AI Agent with a real face and voice, in real time </p> <p> <a href=\"https://www.producthunt.com/products/ojin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1191085?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-08-27T17:49:13"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Skydive",
-      "url": "https://www.producthunt.com/products/skydive",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Build cloud agents that work across your tools </p> <p> <a href=\"https://www.producthunt.com/products/skydive?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1214277?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-27T17:49:13"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "GitNexus (Akon Labs)",
-      "url": "https://www.producthunt.com/products/gitnexus-akon-labs",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The Open Source Kernel for Coding Agents </p> <p> <a href=\"https://www.producthunt.com/products/gitnexus-akon-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1232678?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-08-27T17:49:13"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Here’s all the times AI has gone rogue and hacked other companies",
       "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
       "primary_category": "NEWS",
@@ -2693,7 +2629,85 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-03T16:58:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Blume.codes",
+      "url": "https://www.producthunt.com/products/blume-codes",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turns coding agent sessions into better rules and skills </p> <p> <a href=\"https://www.producthunt.com/products/blume-codes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1237725?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-09-03T19:52:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Thaw",
+      "url": "https://www.producthunt.com/products/thaw-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The only app that owns your whole menu bar, in and out </p> <p> <a href=\"https://www.producthunt.com/products/thaw-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1239794?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-03T19:52:56"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Best Local Vision Language Models - August 2026",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-08-24T16:18:56+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Share what your favorite models are right now and <strong><em>why</em></strong>. Given the nature of the beast in evaluating VLMs (untrustworthiness of benchmarks, immature tooling, intrinsic stochasticity), please be as detailed as possible in describing your setup, nature of your usage (<strong>what applications</strong>, how much, personal/professional use), tools/frameworks/prompts etc.</p> <p><strong>Rules</strong></p> <ol> <li>Should be open weights models",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-09-03T19:53:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "My RULE of Thumb of choosing a models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5zdx4/my_rule_of_thumb_of_choosing_a_models/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-09-03T06:27:49+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1w5zdx4/my_rule_of_thumb_of_choosing_a_models/\"> <img alt=\"My RULE of Thumb of choosing a models\" src=\"https://preview.redd.it/e0lge2ns09nh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d4022ef471fa2b1ad2e721ef8fdc305bdc041a3\" title=\"My RULE of Thumb of choosing a models\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This is mostly for setting up for expectation, since personally without LLM i could take 3 days (15",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-09-03T19:53:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Muse Spark open weights coming soon",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5l8bw/muse_spark_open_weights_coming_soon/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-09-02T19:56:18+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1w5l8bw/muse_spark_open_weights_coming_soon/\"> <img alt=\"Muse Spark open weights coming soon\" src=\"https://preview.redd.it/apwfejcow5nh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c768ac8c209159279deefb650ef182b61e3d6e2\" title=\"Muse Spark open weights coming soon\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I am still waiting for Llama 5, because Muse Spark will be too big for me, or just something between Glim",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-09-03T19:53:00"
     }
   ],
-  "updated_at": "2026-09-03T16:58:51.444264+09:00"
+  "updated_at": "2026-09-03T19:53:00.630402+09:00"
 }
