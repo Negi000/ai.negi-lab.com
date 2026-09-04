@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-04-ai-generated-menu-sameness-problem-analysis.jpg",
     "created_at": "2026-09-04T22:11:31.234367+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-05-local-llm-gpu-mac-comparison-guide",
+    "title": "ローカルLLM用GPU・Mac選び方比較 2024年最新ベンチマークから見る本当に買いな構成",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLMを仕事で使うなら、VRAM 8GBはもう「おもちゃ」です。Llama 3 70Bクラスを実用速度で動かすなら、RTX 3090の2枚挿しかRAM 128GBのMac Studioが最低ライン。推論速度ならGPU、モデルサイズならMacという使い分けが重要。初期投資は高いですが、API代と開発効率を考えれば1年で回収できる投資になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-05-local-llm-gpu-mac-comparison-guide.jpg",
+    "created_at": "2026-09-05T02:46:01.251079+09:00",
+    "posted": false
   }
 ]
