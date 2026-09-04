@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-04-fillo-native-forms-ai-agent-review.jpg",
     "created_at": "2026-09-04T13:07:24.618638+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-04-mlx-apple-silicon-llm-tutorial-guide",
+    "title": "MLX入門 Apple SiliconでローカルLLMを爆速で動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-llm-tutorial-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "Apple Siliconの統一メモリを最大活用するMLXなら、Llama 3.1 8BがMacBookで爆速で動く。PyTorch経由より圧倒的に低レイテンシ。\n16GBメモリなら4-bit量子化版が余裕。8GB環境はGemma 2 2Bから始めるのが正解。\nAPI料金もプライバシーも気にせず、ローカルLLMをPythonから叩く最短ルートをまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-04-mlx-apple-silicon-llm-tutorial-guide.jpg",
+    "created_at": "2026-09-04T16:55:39.095555+09:00",
+    "posted": false
   }
 ]
