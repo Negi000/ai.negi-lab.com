@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-05-local-llm-gpu-buying-guide-rtx-vram.jpg",
     "created_at": "2026-09-05T04:20:07.317775+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-05-apple-silicon-mlx-local-llm-tutorial",
+    "title": "Apple SiliconでLLMを爆速化するMLXの使い方と環境構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple SiliconのMacでローカルLLMを動かすならMLX一択。M2 MaxでLlama 3 8Bを叩くと、クラウドAPIを凌駕するレスポンス速度が出ます。\n\nエンジニアなら「動かしてみた」の先へ。Python数行でストリーミング実装まで完了する実践ガイドを書きました。メモリ16GBあれば十分戦えます。買う前に見るべきスペック判断基準も公開。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-05-apple-silicon-mlx-local-llm-tutorial.jpg",
+    "created_at": "2026-09-05T07:59:52.171351+09:00",
+    "posted": false
   }
 ]
