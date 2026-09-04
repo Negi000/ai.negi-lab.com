@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-03-local-llm-hardware-guide-engrams-vram-comparison",
-    "title": "ローカルLLMのためのGPU・Mac選び：Engramsの幻想と現実的なVRAM投資術",
-    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-engrams-vram-comparison/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "Engrams（N-gram）で1TモデルがSSDで動くという期待は一旦捨てた方がいい。RTX 4090の帯域1TB/sに対し、Gen5 SSDでも14GB/s。この70倍の壁は魔法では埋まりません。\n\n結局、ローカルLLMの快適さは物理VRAM量で決まる。失敗したくないなら16GBを最低ラインに、70Bモデルを見据えるなら中古3090かMac Studioの64GB以上を狙うのが実務者の鉄則です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-03-local-llm-hardware-guide-engrams-vram-comparison.jpg",
-    "created_at": "2026-09-03T03:02:51.590136+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-03-superlinked-sie-gpu-mac-comparison-guide",
-    "title": "superlinked/sie比較：ローカルLLMとRAG構築で失敗しないGPU・Macの選び方",
-    "url": "https://ai.negi-lab.com/posts/superlinked-sie-gpu-mac-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "AIエージェント構築に欠かせないsuperlinked/sieを実務で使うなら、VRAM 16GBが「生存ライン」です。8GBクラスで無理に動かしても、量子化による精度低下とレスポンスの遅さで開発が詰まります。\n\n現時点の最適解はRTX 4060 Ti 16GBか、予算があるならRTX 4090の一択。Mac派ならメモリ64GB以上を確保してください。ハード選びの失敗は最大のタイムロスになります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-03-superlinked-sie-gpu-mac-comparison-guide.jpg",
-    "created_at": "2026-09-03T04:39:21.901811+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-03-claude-code-cursor-ai-coding-tutorial",
     "title": "Claude CodeとCursorを使い分け爆速でWebAPIを開発する方法",
     "url": "https://ai.negi-lab.com/posts/claude-code-cursor-ai-coding-tutorial/",
