@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-04-nvidia-hugging-face-acquisition-gpu-comparison",
-    "title": "ローカルLLM環境の選び方と比較。NvidiaのHF買収報道から考える後悔しないGPU・Mac選定術",
-    "url": "https://ai.negi-lab.com/posts/nvidia-hugging-face-acquisition-gpu-comparison/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "NvidiaによるHugging Face買収報道。我々開発者が取るべき行動はシンプルです。\n\nローカルLLMを仕事で使うなら「VRAM 16GB」が生存ライン。RTX 4060 Ti 16GBが最低構成で、ガチ勢なら4090一択。\n\n買収でCUDA最適化がさらに加速するなら、MacよりもNvidia環境への投資が盤石。VRAM不足で後悔する前に、判断基準を固めておきましょう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-04-nvidia-hugging-face-acquisition-gpu-comparison.jpg",
-    "created_at": "2026-09-04T03:03:08.479564+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-04-tencent-hy4-gguf-local-llm-hardware-guide",
     "title": "ローカルLLM環境の選び方！1.5TBモデルが200GBで動く時代の最強PCスペック比較",
     "url": "https://ai.negi-lab.com/posts/tencent-hy4-gguf-local-llm-hardware-guide/",
