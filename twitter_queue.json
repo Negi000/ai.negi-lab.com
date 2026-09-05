@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-06-claude-code-token-usage-reduction-portal-spotify.jpg",
     "created_at": "2026-09-06T03:48:49.559123+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-06-local-llm-hardware-guide-rtx-vs-mac",
+    "title": "ローカルLLM推奨スペック比較：RTXかMacか？PSPでAIが動く時代の失敗しない選び方",
+    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-rtx-vs-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "PSPでLLMが動く時代ですが、実務で使うならハード選びが全て。RTXならVRAM 16GB、Macならメモリ32GBが「後悔しない最低ライン」です。8GBモデルを選んで推論速度が10倍遅くなる失敗は避けるべき。推論の速さならRTX 4090、巨大モデルの安定感ならApple Siliconの統一メモリ。自分の用途に合わせた投資判断を。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-06-local-llm-hardware-guide-rtx-vs-mac.jpg",
+    "created_at": "2026-09-06T07:50:06.386035+09:00",
+    "posted": false
   }
 ]
