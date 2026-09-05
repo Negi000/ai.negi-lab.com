@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-05-ollama-openwebui-local-llm-setup-guide.jpg",
     "created_at": "2026-09-05T16:36:40.881592+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-05-hyperprobe-ai-agent-production-debug-review",
+    "title": "Hyperprobe 使い方とAIエージェントのデバッグ手法",
+    "url": "https://ai.negi-lab.com/posts/hyperprobe-ai-agent-production-debug-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #個人開発",
+    "tweet_text": "AIエージェントの本番デバッグ、いつまでログ分析→再デプロイを繰り返すつもり？\n\nHyperprobeは実行中のエージェントに直接介入できる異色のツール。本番のコンテキストを維持したままプロンプトを即時修正したり、変数を書き換えて挙動を確認できる。\n\n修正サイクルが5分から10秒に縮まる。自律型エージェントを運用するなら必須級。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-05-hyperprobe-ai-agent-production-debug-review.jpg",
+    "created_at": "2026-09-05T19:11:33.770283+09:00",
+    "posted": false
   }
 ]

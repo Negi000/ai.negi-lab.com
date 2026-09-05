@@ -1,79 +1,6 @@
 {
   "items": [
     {
-      "source": "r/LocalLLM",
-      "title": "GLM-5.3 makes the $1T Anthropic valuation look kinda wild",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1w0y0n5/glm53_makes_the_1t_anthropic_valuation_look_kinda/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-08-28T18:05:53+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Not saying GLM is better than Claude at everything. But another open-weight model getting this close to the frontier is a big deal.</p> <p>If good enough models keep becoming cheap/free and you can run them yourself, what's the moat?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dieSpaghettiCarbona\"> /u/dieSpaghettiCarbona </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLM/comments/1w0y0n5/glm53_makes_the_1t_ant",
-      "extra": {},
-      "collected_at": "2026-08-29T18:58:02"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 28 Aug 2026 19:30:38 +0000",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-08-29T18:58:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Mossy",
-      "url": "https://www.producthunt.com/products/mossy-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A desk plant that wilts. You write what the break is. </p> <p> <a href=\"https://www.producthunt.com/products/mossy-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1231231?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-29T18:58:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "God’s Eye View",
-      "url": "https://www.producthunt.com/products/god-s-eye-view",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Spy satellite simulator in your browser but the data is real </p> <p> <a href=\"https://www.producthunt.com/products/god-s-eye-view?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1235253?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-29T18:58:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Einfall",
-      "url": "https://www.producthunt.com/products/einfall-a-place-for-fugitive-thoughts",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Capture fugitive thoughts + route them to where they belong </p> <p> <a href=\"https://www.producthunt.com/products/einfall-a-place-for-fugitive-thoughts?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1231087?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-29T18:58:04"
-    },
-    {
       "source": "Product Hunt",
       "title": "Neo",
       "url": "https://www.producthunt.com/products/neo",
@@ -2757,7 +2684,55 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-05T16:36:15"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "You can now run a 90M conversational LLM on the Sony PSP (hardware from 2004). Doesn't get more local than this.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w78ztg/you_can_now_run_a_90m_conversational_llm_on_the/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-09-04T16:20:15+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1w78ztg/you_can_now_run_a_90m_conversational_llm_on_the/\"> <img alt=\"You can now run a 90M conversational LLM on the Sony PSP (hardware from 2004). Doesn't get more local than this.\" src=\"https://preview.redd.it/0es1egxa3jnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9eb1567f3efd02e24931f052c1d6957147f02bca\" title=\"You can now run a 90M conversational LLM on the Sony PSP (hardware from 2004). Doesn't get more local th",
+      "extra": {},
+      "collected_at": "2026-09-05T19:11:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Hyperprobe",
+      "url": "https://www.producthunt.com/products/hyperprobe",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Lets your AI agents debug production without redeploying </p> <p> <a href=\"https://www.producthunt.com/products/hyperprobe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1237032?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-09-05T19:11:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GitWarren",
+      "url": "https://www.producthunt.com/products/gitwarren",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Review code with your coding agents before committing </p> <p> <a href=\"https://www.producthunt.com/products/gitwarren?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1240932?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-09-05T19:11:05"
     }
   ],
-  "updated_at": "2026-09-05T16:36:18.650813+09:00"
+  "updated_at": "2026-09-05T19:11:08.920278+09:00"
 }
