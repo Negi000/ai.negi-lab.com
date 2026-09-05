@@ -2,21 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 29 Aug 2026 17:36:47 +0000",
-      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-30T02:51:44"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "primary_category": "NEWS",
@@ -2721,7 +2706,56 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-06T01:55:18"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "Sat, 05 Sep 2026 18:05:27 +0000",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-09-06T03:48:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "AA Update! Here's how the Frontier ranks.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y261/aa_update_heres_how_the_frontier_ranks/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-09-05T11:20:35+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1w7y261/aa_update_heres_how_the_frontier_ranks/\"> <img alt=\"AA Update! Here's how the Frontier ranks.\" src=\"https://preview.redd.it/k1dfo6ulronh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=70247aed868201e28bbaacd1ecf33ff5f15273eb\" title=\"AA Update! Here's how the Frontier ranks.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Along with everyone's favorite here, qwen3.8-27B</p> </div><!-- SC_ON --> &#32; submitted ",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-09-06T03:48:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "AA Update! Here's how the small models score.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y3sa/aa_update_heres_how_the_small_models_score/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-09-05T11:22:49+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1w7y3sa/aa_update_heres_how_the_small_models_score/\"> <img alt=\"AA Update! Here's how the small models score.\" src=\"https://preview.redd.it/w6n11m70sonh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5cc2634e2606e5142304a00b9982dd02f68d2d1\" title=\"AA Update! Here's how the small models score.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Ling 3.0 Tiny still seems to be leading the pack despite only having 1.3B acti",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-09-06T03:48:01"
     }
   ],
-  "updated_at": "2026-09-06T01:55:21.695410+09:00"
+  "updated_at": "2026-09-06T03:48:01.844531+09:00"
 }
