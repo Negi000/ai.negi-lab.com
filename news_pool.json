@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "PageIndex",
-      "url": "https://www.producthunt.com/products/pageindexai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Accurate, trustworthy answers across professional documents </p> <p> <a href=\"https://www.producthunt.com/products/pageindexai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1228394?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-29T08:39:43"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "OpenTag",
-      "url": "https://www.producthunt.com/products/opentag",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI coworker lives on Slack and Teams </p> <p> <a href=\"https://www.producthunt.com/products/opentag?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1234433?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-29T09:52:22"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AureaCam",
-      "url": "https://www.producthunt.com/products/aureacam-learn-photo-composition",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Real-time scoring to master the rule of thirds </p> <p> <a href=\"https://www.producthunt.com/products/aureacam-learn-photo-composition?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1233618?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-29T12:08:35"
-    },
-    {
       "source": "HN AI Hot",
       "title": "I accidentally turned LLM memory into program analysis",
       "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
@@ -2759,7 +2714,48 @@
         "revenue_score": -2
       },
       "collected_at": "2026-09-05T07:59:22"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Fri, 04 Sep 2026 23:38:50 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-05T13:03:10"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 04 Sep 2026 21:39:19 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-05T13:03:10"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 04 Sep 2026 23:36:14 +0000",
+      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-09-05T13:03:12"
     }
   ],
-  "updated_at": "2026-09-05T07:59:26.645594+09:00"
+  "updated_at": "2026-09-05T13:03:16.586455+09:00"
 }
