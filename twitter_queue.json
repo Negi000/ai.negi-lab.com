@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-06-local-llm-hardware-guide-rtx-vs-mac.jpg",
     "created_at": "2026-09-06T07:50:06.386035+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-06-dif-sh-ai-agent-feature-flags-review",
+    "title": "dif.sh で実現する「AIエージェント専用のフィーチャーフラグ」開発プロセス",
+    "url": "https://ai.negi-lab.com/posts/dif-sh-ai-agent-feature-flags-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #フィーチャーフラグ",
+    "tweet_text": "AIエージェントにコードを書かせるなら、直接上書きさせるのはもうやめましょう。dif.shを使えば、AIの変更を自動でフィーチャーフラグに封じ込めます。本番でオンオフできる「安全な実験場」がコマンド一つ。100回のレビューより1回のフラグ制御。AI駆動開発の生存戦略はここにある。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-06-dif-sh-ai-agent-feature-flags-review.jpg",
+    "created_at": "2026-09-06T13:11:30.162613+09:00",
+    "posted": false
   }
 ]
