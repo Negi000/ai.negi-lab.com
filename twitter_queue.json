@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-07-openai-microsoft-lawsuit-seattle-times-newsday-analysis.jpg",
     "created_at": "2026-09-07T00:13:44.602245+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-07-autohedge-ai-agent-hardware-comparison-guide",
+    "title": "AutoHedge導入比較！AIエージェントでヘッジファンド構築。買うべきRTXとMacの構成",
+    "url": "https://ai.negi-lab.com/posts/autohedge-ai-agent-hardware-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#AIエージェント #ローカルLLM",
+    "tweet_text": "GitHubで話題のAutoHedge、AIエージェントでヘッジファンドを自動構築する試みとして面白い。ただ「Swarm」構成はVRAM消費が激しい。ローカルで回すならRTX 4090かMac Studioのメモリ64GBが実務上の最低ラインですね。API課金で溶かすか、ハード投資で資産にするか。エンジニアなら迷わず後者を選びたいところ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-07-autohedge-ai-agent-hardware-comparison-guide.jpg",
+    "created_at": "2026-09-07T02:21:03.997912+09:00",
+    "posted": false
   }
 ]
