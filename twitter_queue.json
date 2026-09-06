@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-05-local-llm-gpu-mac-comparison-guide",
-    "title": "ローカルLLM用GPU・Mac選び方比較 2024年最新ベンチマークから見る本当に買いな構成",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "ローカルLLMを仕事で使うなら、VRAM 8GBはもう「おもちゃ」です。Llama 3 70Bクラスを実用速度で動かすなら、RTX 3090の2枚挿しかRAM 128GBのMac Studioが最低ライン。推論速度ならGPU、モデルサイズならMacという使い分けが重要。初期投資は高いですが、API代と開発効率を考えれば1年で回収できる投資になります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-05-local-llm-gpu-mac-comparison-guide.jpg",
-    "created_at": "2026-09-05T02:46:01.251079+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-05-local-llm-gpu-buying-guide-rtx-vram",
-    "title": "ローカルLLM環境の選び方とおすすめGPU比較：RTX 4060 Tiから4090、Macまで",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-rtx-vram/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLM環境、VRAM 8GBで妥協すると後悔します。Llama 3やQwenの実務運用なら16GB（RTX 4060 Ti）が最低ライン、開発の試行回数を最大化するなら24GB（RTX 4090）が正解。\n「動く」と「仕事で使える」の差はVRAM容量の余裕に直結する。今買うならチェックすべき型番と、Macとの使い分けをまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-05-local-llm-gpu-buying-guide-rtx-vram.jpg",
-    "created_at": "2026-09-05T04:20:07.317775+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-05-apple-silicon-mlx-local-llm-tutorial",
     "title": "Apple SiliconでLLMを爆速化するMLXの使い方と環境構築ガイド",
     "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
