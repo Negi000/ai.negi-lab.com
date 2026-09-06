@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-09-06-speakeasy-kit-ai-agent-sdk-review.jpg",
     "created_at": "2026-09-06T19:32:13.977184+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-06-ai-agent-sandbox-e2b-python-guide",
+    "title": "AIエージェント実行環境をE2Bで安全に構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ai-agent-sandbox-e2b-python-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントにコード実行させるなら、ローカル環境は絶対ダメ。rm -rfでOSが飛ぶリスクを個人で負うのは非効率すぎる。\n\nE2Bを使えば、0.5秒で使い捨ての安全な隔離環境がクラウドに立ち上がる。月100時間無料。Claude 3.5 Sonnetと組み合わせれば、グラフ作成まで全自動化できる。実務で「動くもの」を作るための必須装備。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-06-ai-agent-sandbox-e2b-python-guide.jpg",
+    "created_at": "2026-09-06T21:39:00.858094+09:00",
+    "posted": false
   }
 ]
