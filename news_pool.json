@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Caplio",
-      "url": "https://www.producthunt.com/products/caplio",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Find, organize, and reuse every image on your Mac </p> <p> <a href=\"https://www.producthunt.com/products/caplio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1225018?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-08-30T23:17:24"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
@@ -2684,7 +2669,52 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-06T21:38:32"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Skills Catalog for Codex",
+      "extra": {
+        "stars_today": "44 stars today"
+      },
+      "collected_at": "2026-09-07T00:13:17"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "extra": {
+        "stars_today": "137 stars today"
+      },
+      "collected_at": "2026-09-07T00:13:17"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "sooryathejas/METATRON",
+      "url": "https://github.com/sooryathejas/METATRON",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
+      "extra": {
+        "stars_today": "73 stars today"
+      },
+      "collected_at": "2026-09-07T00:13:17"
     }
   ],
-  "updated_at": "2026-09-06T21:38:35.965632+09:00"
+  "updated_at": "2026-09-07T00:13:21.973477+09:00"
 }
