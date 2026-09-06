@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-07-local-llm-gpu-mac-comparison-guide.jpg",
     "created_at": "2026-09-07T03:53:26.868237+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-07-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLXでMacをAIサーバー化！Apple SiliconでローカルLLMを動かす入門ガイド",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Macのユニファイドメモリを使い切る。MLXを使えばApple SiliconでローカルLLMが驚くほど高速に動く。\nRTX 4090 2枚挿しの自作サーバーも運用しているが、MacBook 1台で完結する手軽さと静音性は別格だ。\nメモリ16GBあればLlama 3 8Bが実用速度で回る。買う前に見るべきはチップ名より「メモリ容量」なのが今の結論。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-07-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-09-07T07:52:15.224845+09:00",
+    "posted": false
   }
 ]
