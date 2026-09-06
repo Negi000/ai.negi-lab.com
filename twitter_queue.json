@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-05-ollama-openwebui-local-llm-setup-guide",
-    "title": "OllamaとOpen WebUIで自宅に専用ChatGPTを構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "RTX 4060 Ti 16GBやApple Silicon Macがあるなら、ローカルLLM環境を作らないのは損です。OllamaとOpen WebUIを組み合わせれば、プライバシー完全保護の「自分専用ChatGPT」が30分で完成します。API課金を気にせず、社外秘データも1000ファイル一括要約。実務で使える構築手順をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-05-ollama-openwebui-local-llm-setup-guide.jpg",
-    "created_at": "2026-09-05T16:36:40.881592+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-05-hyperprobe-ai-agent-production-debug-review",
-    "title": "Hyperprobe 使い方とAIエージェントのデバッグ手法",
-    "url": "https://ai.negi-lab.com/posts/hyperprobe-ai-agent-production-debug-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #個人開発",
-    "tweet_text": "AIエージェントの本番デバッグ、いつまでログ分析→再デプロイを繰り返すつもり？\n\nHyperprobeは実行中のエージェントに直接介入できる異色のツール。本番のコンテキストを維持したままプロンプトを即時修正したり、変数を書き換えて挙動を確認できる。\n\n修正サイクルが5分から10秒に縮まる。自律型エージェントを運用するなら必須級。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-05-hyperprobe-ai-agent-production-debug-review.jpg",
-    "created_at": "2026-09-05T19:11:33.770283+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-05-deep-learning-logic-vs-statistics-practical-guide",
     "title": "ディープラーニングが「何でもできる魔法」ではないと理解することが、現在のLLM（大規模言語モデル）バブルを生き抜くエンジニアの必須条件です。",
     "url": "https://ai.negi-lab.com/posts/deep-learning-logic-vs-statistics-practical-guide/",
