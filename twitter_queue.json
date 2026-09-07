@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-07-langchain-rag-local-pdf-tutorial.jpg",
     "created_at": "2026-09-07T17:12:16.787589+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-07-browser-use-ai-agent-automation-review",
+    "title": "browser-use Web操作をAIエージェントに完全に任せる新標準",
+    "url": "https://ai.negi-lab.com/posts/browser-use-ai-agent-automation-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "ブラウザ操作をAIに丸投げできる「browser-use」が実用的。\n従来のPlaywright等と違い、DOM構造が変わってもLLMの視覚・文脈理解で突き進む。\n1ステップごとにAPI代がかかるが、保守コストを考えれば余裕でペイするレベル。\nAPI未公開サイトの自動化や、複雑なワークフローを自律エージェントに実装したいなら現状これ一択。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-07-browser-use-ai-agent-automation-review.jpg",
+    "created_at": "2026-09-07T20:55:37.920213+09:00",
+    "posted": false
   }
 ]
