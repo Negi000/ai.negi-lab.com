@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-08-muse-spark-local-llm-gpu-guide.jpg",
     "created_at": "2026-09-08T03:51:31.945366+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-08-local-llm-gpu-mac-comparison-31b-122b",
+    "title": "ローカルLLM用GPU・Mac比較！31B超えモデルを快適に動かすための選び方",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-31b-122b/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #GPU選び",
+    "tweet_text": "ローカルLLMで31B〜122Bクラスを狙うなら、中途半端な投資は後悔します。VRAM 24GBのRTX 4090が最低ラインの入り口。本格運用なら2枚差しの48GBか、Mac Studioの128GB構成が実務の分水嶺です。16GB以下のGPUでは9Bモデルが限界。自分が「知能」を買うのか「速度」を買うのか、判断基準をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-08-local-llm-gpu-mac-comparison-31b-122b.jpg",
+    "created_at": "2026-09-08T05:22:53.079476+09:00",
+    "posted": false
   }
 ]
