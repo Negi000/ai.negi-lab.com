@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-07-anthropic-settlement-author-publisher-conflict.jpg",
     "created_at": "2026-09-07T23:49:37.203250+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-08-muse-spark-local-llm-gpu-guide",
+    "title": "ローカルLLM向けGPU比較と選び方！Muse Spark公開前に整えるVRAM環境",
+    "url": "https://ai.negi-lab.com/posts/muse-spark-local-llm-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "Muse Sparkの重み公開が近いですが、ローカルLLM勢はVRAM容量の再確認を。Redditでも「大きすぎる」と懸念される通り、24GBのRTX 4090でも4-bit量子化で戦えるかどうか。今から投資するなら12GB以下は避けて、最低でも4060 Ti 16GB、仕事なら4090かMacのメモリ64GB以上が失敗しない境界線です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-08-muse-spark-local-llm-gpu-guide.jpg",
+    "created_at": "2026-09-08T03:51:31.945366+09:00",
+    "posted": false
   }
 ]
