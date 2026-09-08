@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-09-09-switch-ai-agent-slack-teams-integration.jpg",
     "created_at": "2026-09-09T01:21:23.202843+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-09-local-llm-hardware-selection-guide-rtx-mac",
+    "title": "ローカルLLM環境の選び方と比較：Ollamaで満足できない人のためのGPU・Mac選定ガイド",
+    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-selection-guide-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #エンジニア",
+    "tweet_text": "ローカルLLMを仕事で使うなら「とりあえずOllama」は卒業すべき。内部でコンテキスト長が制限され、本来の知能を発揮できていないケースが多い。重要なのはツール以上にVRAM容量。Llama 3 8Bなら16GB、70B級を実用的に回すなら24GB以上かMacのメモリ64GBが境界線になる。安易なスペック不足は投資の失敗に直結する。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-09-local-llm-hardware-selection-guide-rtx-mac.jpg",
+    "created_at": "2026-09-09T03:04:17.956376+09:00",
+    "posted": false
   }
 ]
