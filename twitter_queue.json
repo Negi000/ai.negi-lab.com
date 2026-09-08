@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-09-09-local-llm-hardware-selection-guide-rtx-mac.jpg",
     "created_at": "2026-09-09T03:04:17.956376+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-09-ai-agent-sandbox-vm-comparison-guide",
+    "title": "ローカルLLMとAIエージェントの実行環境比較｜Claude Codeを安全・高速に動かすVMの選び方",
+    "url": "https://ai.negi-lab.com/posts/ai-agent-sandbox-vm-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #AIエージェント",
+    "tweet_text": "AIエージェントを「自分のPC」で直接動かすのはもう危ない。Claude CodeやInstinctの裏側で動く軽量VMの選定が、開発者の標準スキルになりつつあります。\n実務で選ぶなら、VRAM 24GBのRTX 4090か、メモリ64GB以上のMac。Docker隔離は最低条件で、0.1秒起動を狙うならFirecrackerが熱い。\n「思考待ち」をゼロにする投資は、数ヶ月で元が取れます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-09-ai-agent-sandbox-vm-comparison-guide.jpg",
+    "created_at": "2026-09-09T04:45:15.458674+09:00",
+    "posted": false
   }
 ]
