@@ -2,124 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 01 Sep 2026 18:01:24 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-02T04:46:15"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 01 Sep 2026 19:39:22 +0000",
-      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-02T04:46:23"
-    },
-    {
-      "source": "r/LocalLLM",
-      "title": "Which LLMs will run on the Mac Mini and Studio",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1w4688n/which_llms_will_run_on_the_mac_mini_and_studio/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-09-01T08:52:44+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLM/comments/1w4688n/which_llms_will_run_on_the_mac_mini_and_studio/\"> <img alt=\"Which LLMs will run on the Mac Mini and Studio\" src=\"https://preview.redd.it/b0u8qz3ghvmh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=89c04bd31749b4e3765f3b9994bb53eb3a31d189\" title=\"Which LLMs will run on the Mac Mini and Studio\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A mildly interesting video about which models can run on the Mac Mini and ",
-      "extra": {},
-      "collected_at": "2026-09-02T08:15:02"
-    },
-    {
-      "source": "r/LocalLLM",
-      "title": "Is Qwen3.8 27B more powerful than Qwen3.8 Flash? I’m confused about the pricing.",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1w4fc3g/is_qwen38_27b_more_powerful_than_qwen38_flash_im/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-09-01T15:30:43+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLM/comments/1w4fc3g/is_qwen38_27b_more_powerful_than_qwen38_flash_im/\"> <img alt=\"Is Qwen3.8 27B more powerful than Qwen3.8 Flash? I’m confused about the pricing.\" src=\"https://preview.redd.it/nvusm4iqfxmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b77b2adee1095207df0da878fa082d18758ac7d7\" title=\"Is Qwen3.8 27B more powerful than Qwen3.8 Flash? I’m confused about the pricing.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I w",
-      "extra": {},
-      "collected_at": "2026-09-02T08:15:02"
-    },
-    {
-      "source": "r/LocalLLM",
-      "title": "Qwen not being a snitch 😂",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1w3yuzm/qwen_not_being_a_snitch/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-09-01T02:21:42+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLM/comments/1w3yuzm/qwen_not_being_a_snitch/\"> <img alt=\"Qwen not being a snitch 😂\" src=\"https://preview.redd.it/gprj90gtjtmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f6c878f84ca08fe3b690692615c04426a9cb583e\" title=\"Qwen not being a snitch 😂\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>For context: I was working with Qwen3.8-27b in LMStudio and asking it to do some work on my contacts via iMCP. My name and therefore email",
-      "extra": {},
-      "collected_at": "2026-09-02T08:15:02"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 01 Sep 2026 22:08:24 +0000",
-      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-09-02T08:15:04"
-    },
-    {
-      "source": "Google News",
-      "title": "FSB議長、フロンティアAIのサイバーリスクを「金融システムへの最も差し迫った懸念」と警告 日本でも金融庁・日銀が対策を加速 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNa05Qb1JHLTFJRDhBbUZaSkhZUDNWZng3c2xyVkpmdGkxdldyTGprQmVIQlVPdm9yN3lIZHUtVEtrUDdncHluTzFUd005QW1walM5ODIxZ1g5bXRKaVlBXzBKTGpBTzk3VEtkQ3lSVFFQNGs1N1ZjQzctVXFXN1hHUy01eFVJSGdDZ0NRREtGMA?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "Tue, 01 Sep 2026 20:00:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNa05Qb1JHLTFJRDhBbUZaSkhZUDNWZng3c2xyVkpmdGkxdldyTGprQmVIQlVPdm9yN3lIZHUtVEtrUDdncHluTzFUd005QW1walM5ODIxZ1g5bXRKaVlBXzBKTGpBTzk3VEtkQ3lSVFFQNGs1N1ZjQzctVXFXN1hHUy01eFVJSGdDZ0NRREtGMA?oc=5\" target=\"_blank\">FSB議長、フロンティアAIのサイバーリスクを「金融システムへの最も差し迫った懸念」と警告 日本でも金融庁・日銀が対策を加速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">合同会社ロケットボーイズ</font>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-09-02T08:15:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Kilo Code for JetBrains",
-      "url": "https://www.producthunt.com/products/kilocode",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Fully native, open-source coding agent built for JetBrains </p> <p> <a href=\"https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1198993?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-09-02T08:15:05"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Claude Fable 5.1 made me a nice animated pelican",
       "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
       "primary_category": "NEWS",
@@ -2111,19 +1993,6 @@
       "collected_at": "2026-09-08T22:20:27"
     },
     {
-      "source": "HN AI Hot",
-      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-      "url": "https://rohanadwankar.github.io/posts/platforms.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Tue, 08 Sep 2026 04:36:26 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-09T01:20:46"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
       "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
@@ -2282,7 +2151,50 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-09T04:44:48"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "OpenAI alleged of stealing mathematicians work",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wapjaw/openai_alleged_of_stealing_mathematicians_work/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-09-08T14:12:10+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Privacy have been concern of many of us to have their own hardware to run llms, and here's another reason why: two mathematicians spent a year cracking one of the hardest problems in math and fed every draft of their works into Codex. A few days before they could publish, OpenAI suddenly showed up with the same solutions. When asked if their model (Sol and Astra) was trained on the pair's private chats, OpenAI did not answer the question.</p> <p>Full statement f",
+      "extra": {},
+      "collected_at": "2026-09-09T08:19:31"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 08 Sep 2026 21:10:27 +0000",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-09T08:19:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "bonds",
+      "url": "https://www.producthunt.com/products/bonds-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI messenger that builds shared apps inside your group chats </p> <p> <a href=\"https://www.producthunt.com/products/bonds-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1244325?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-09T08:19:40"
     }
   ],
-  "updated_at": "2026-09-09T04:44:51.814781+09:00"
+  "updated_at": "2026-09-09T08:19:43.410327+09:00"
 }
