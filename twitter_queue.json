@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-06-ai-agent-sandbox-e2b-python-guide",
-    "title": "AIエージェント実行環境をE2Bで安全に構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ai-agent-sandbox-e2b-python-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#AIエージェント #Python",
-    "tweet_text": "AIエージェントにコード実行させるなら、ローカル環境は絶対ダメ。rm -rfでOSが飛ぶリスクを個人で負うのは非効率すぎる。\n\nE2Bを使えば、0.5秒で使い捨ての安全な隔離環境がクラウドに立ち上がる。月100時間無料。Claude 3.5 Sonnetと組み合わせれば、グラフ作成まで全自動化できる。実務で「動くもの」を作るための必須装備。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-06-ai-agent-sandbox-e2b-python-guide.jpg",
-    "created_at": "2026-09-06T21:39:00.858094+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-07-openai-microsoft-lawsuit-seattle-times-newsday-analysis",
-    "title": "OpenAI・MS提訴の拡大で判明した「高品質データ」の終焉と実務者が備えるべきRAG戦略",
-    "url": "https://ai.negi-lab.com/posts/openai-microsoft-lawsuit-seattle-times-newsday-analysis/",
-    "category": "NEWS",
-    "viral_tags": "#RAG #AI開発",
-    "tweet_text": "OpenAIとマイクロソフトがまた提訴された。今度はシアトル・タイムズ等の地方紙だ。\n\n「高品質なデータ」を食い尽くしたAI企業と、生存権をかけるメディアの戦い。実務者が警戒すべきはAPIコストへの転嫁と、学習データ削除によるモデルの劣化。\n\nこれからは「モデルに聞く」から「クリーンなデータでRAGを組む」設計スキルが生存の分かれ目になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-07-openai-microsoft-lawsuit-seattle-times-newsday-analysis.jpg",
-    "created_at": "2026-09-07T00:13:44.602245+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-07-autohedge-ai-agent-hardware-comparison-guide",
     "title": "AutoHedge導入比較！AIエージェントでヘッジファンド構築。買うべきRTXとMacの構成",
     "url": "https://ai.negi-lab.com/posts/autohedge-ai-agent-hardware-comparison-guide/",
