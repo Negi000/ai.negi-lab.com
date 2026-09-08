@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-09-08-apple-silicon-mlx-local-llm-guide.jpg",
     "created_at": "2026-09-08T22:21:09.895654+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-09-switch-ai-agent-slack-teams-integration",
+    "title": "Switch 既存のAIエージェントをSlack/Teamsへ即時デプロイする中継基盤",
+    "url": "https://ai.negi-lab.com/posts/switch-ai-agent-slack-teams-integration/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #業務効率化",
+    "tweet_text": "AIエージェントの社内展開で一番面倒な「Slack/Teamsのボット設定」を丸投げできるSwitchが優秀。\n\n・エージェント側は1つのAPIを作るだけ\n・各ツール固有の認証やUI変換を自動化\n・プラットフォームを跨いでログを一元管理\n\nボット開発の8割を占める雑務を捨てて、LLMのロジックに集中したいエンジニア向け。RTX4090環境で組んだ自作エージェントも数分でSlack化できました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-09-switch-ai-agent-slack-teams-integration.jpg",
+    "created_at": "2026-09-09T01:21:23.202843+09:00",
+    "posted": false
   }
 ]
