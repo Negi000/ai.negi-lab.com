@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-07-autohedge-ai-agent-hardware-comparison-guide",
-    "title": "AutoHedge導入比較！AIエージェントでヘッジファンド構築。買うべきRTXとMacの構成",
-    "url": "https://ai.negi-lab.com/posts/autohedge-ai-agent-hardware-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#AIエージェント #ローカルLLM",
-    "tweet_text": "GitHubで話題のAutoHedge、AIエージェントでヘッジファンドを自動構築する試みとして面白い。ただ「Swarm」構成はVRAM消費が激しい。ローカルで回すならRTX 4090かMac Studioのメモリ64GBが実務上の最低ラインですね。API課金で溶かすか、ハード投資で資産にするか。エンジニアなら迷わず後者を選びたいところ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-07-autohedge-ai-agent-hardware-comparison-guide.jpg",
-    "created_at": "2026-09-07T02:21:03.997912+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-07-local-llm-gpu-mac-comparison-guide",
-    "title": "ローカルLLM・AIモデル選び方ガイド！失敗しないRTX/Macスペック比較と購入基準",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLM環境、結局「VRAM容量」が正義です。仕事で使うならRTX 4060 Ti 16GBが最低ライン、Llama 3 70B級を快適に回すならRTX 4090かMacのメモリ64GB盛りが必須。推論速度より、まずはモデルが「載るか載らないか」で機材を選ばないと後悔します。自作派なら中古3090の2枚挿しもアリ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-07-local-llm-gpu-mac-comparison-guide.jpg",
-    "created_at": "2026-09-07T03:53:26.868237+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-07-mlx-apple-silicon-local-llm-tutorial",
-    "title": "MLXでMacをAIサーバー化！Apple SiliconでローカルLLMを動かす入門ガイド",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Macのユニファイドメモリを使い切る。MLXを使えばApple SiliconでローカルLLMが驚くほど高速に動く。\nRTX 4090 2枚挿しの自作サーバーも運用しているが、MacBook 1台で完結する手軽さと静音性は別格だ。\nメモリ16GBあればLlama 3 8Bが実用速度で回る。買う前に見るべきはチップ名より「メモリ容量」なのが今の結論。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-07-mlx-apple-silicon-local-llm-tutorial.jpg",
-    "created_at": "2026-09-07T07:52:15.224845+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-07-metatron-ai-pentest-assistant-review",
     "title": "METATRON 使い方：AIによるペネトレーションテスト自動化の実力",
     "url": "https://ai.negi-lab.com/posts/metatron-ai-pentest-assistant-review/",
