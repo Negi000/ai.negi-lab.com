@@ -1,108 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 02 Sep 2026 15:44:06 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-03T01:17:39"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Gemini 3.8 Flash",
-      "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 02 Sep 2026 15:12:40 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-03T01:17:39"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "url": "https://github.com/mlc-ai/web-llm",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 02 Sep 2026 14:02:35 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-03T01:17:39"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 02 Sep 2026 16:04:10 +0000",
-      "summary": "Wonderful's $550M Series C was led by Insight Partners, with Salesforce, Index Ventures, IVP, Vine Ventures, 9Yards and Bessemer participating.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-03T01:17:48"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Dyson CameraJet",
-      "url": "https://www.producthunt.com/products/dyson-humidifier",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Precision-floss between teeth while you brush </p> <p> <a href=\"https://www.producthunt.com/products/dyson-humidifier?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1239062?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-03T01:18:12"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "LocalLLaMA is unironically one of the best places to go to get up to date AI news.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w50ur8/localllama_is_unironically_one_of_the_best_places/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-09-02T05:09:30+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>One of the other posts today by user <a href=\"/u/Howard_banister\">u/Howard_banister</a> confirmed what I've been seeing from the other AI subreddits as well.</p> <p>Most of these other subs are 90% trend hopping crypto-bros equivalent people who are seemingly irrelevant most of the time when it comes to advancing AI as the vast majority is not just AI slop, but also human slop whether that be fearmongering or straight anti-ai arguments spat out by relatively une",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-09-03T01:18:12"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen will be the king?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w53ti8/qwen_will_be_the_king/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-09-02T07:53:02+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1w53ti8/qwen_will_be_the_king/\"> <img alt=\"Qwen will be the king?\" src=\"https://preview.redd.it/m9c7ldofb2nh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3fa2b09a0a7fc2da1b30cfaa23102f824909a943\" title=\"Qwen will be the king?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Extended reasoning and post-training appear to be the keys used by DeepSeek, Qwen, and GLM to boost performance (leveraging higher token counts).",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-09-03T01:18:12"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
       "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
@@ -2168,7 +2066,81 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-10T01:16:40"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Deepseek Has Soft Retired Deepseek V4 Pro",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbfrut/deepseek_has_soft_retired_deepseek_v4_pro/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-09-09T08:34:28+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wbfrut/deepseek_has_soft_retired_deepseek_v4_pro/\"> <img alt=\"Deepseek Has Soft Retired Deepseek V4 Pro\" src=\"https://preview.redd.it/01k8gclhggoh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a0ca4a08e2fd8148514faf383322ba6b734b590c\" title=\"Deepseek Has Soft Retired Deepseek V4 Pro\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Few_Painter_5588\"> /u/Few_Painter_5588 </a> <br /> <span><a",
+      "extra": {},
+      "collected_at": "2026-09-10T02:57:37"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Wed, 09 Sep 2026 17:36:05 +0000",
+      "summary": "The company also argued that its on-device models offer consumers more privacy.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-09-10T02:57:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "DuckFightClub",
+      "url": "https://www.producthunt.com/products/duckfightclub",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Train your MicroDuck and win the Golden Beak Belt </p> <p> <a href=\"https://www.producthunt.com/products/duckfightclub?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1244990?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-10T02:57:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Ass Auction",
+      "url": "https://www.producthunt.com/products/ass-auction",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Brands outbid each other to put their logo on my ass </p> <p> <a href=\"https://www.producthunt.com/products/ass-auction?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1244551?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-10T02:57:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "WorkID.ai",
+      "url": "https://www.producthunt.com/products/workid-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Where verified talent meets opportunity. Hire with trust! </p> <p> <a href=\"https://www.producthunt.com/products/workid-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1242714?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-10T02:57:46"
     }
   ],
-  "updated_at": "2026-09-10T01:16:44.764655+09:00"
+  "updated_at": "2026-09-10T02:57:49.810796+09:00"
 }
