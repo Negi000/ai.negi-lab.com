@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-10-artificial-movie-sam-altman-openai-documentary.jpg",
     "created_at": "2026-09-10T22:20:57.026402+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-11-procedural-graphs-llm-agent-hardware-guide",
+    "title": "AIエージェント自律進化時代のGPU・Mac選び：Procedural Graphsを実戦投入する構成比較",
+    "url": "https://ai.negi-lab.com/posts/procedural-graphs-llm-agent-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#AIエージェント #ローカルLLM",
+    "tweet_text": "エージェントが自ら実行フローを書き換えるProcedural Graphs時代が到来。この手の自己進化型は試行錯誤のループ回数が桁違いなので、VRAM 8GB環境は正直もう厳しい。実務で使うならRTX 4060 Ti 16GBが最低ライン、理想はMac Studioの128GB構成。API破産を避けるための「ローカル推論環境」への投資が、2025年の開発者にとって最大の節約になる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-11-procedural-graphs-llm-agent-hardware-guide.jpg",
+    "created_at": "2026-09-11T02:51:18.171144+09:00",
+    "posted": false
   }
 ]
