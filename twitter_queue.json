@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-09-llamacpp-gguf-quantization-setup-guide",
-    "title": "llama.cppとGGUF量子化でローカルLLMを爆速動作させる環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-quantization-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llamacpp",
-    "tweet_text": "ローカルLLMを動かすならllama.cppとGGUF量子化の習得は必須。Llama 3.1 8Bも4bit量子化すればVRAM 8GB以下でサクサク動く。MacならMetal、WinならCUDAをビルド時に指定するのが鉄則。高価なGPUを買う前に、手元のPCで限界まで最適化する手順をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-09-llamacpp-gguf-quantization-setup-guide.jpg",
-    "created_at": "2026-09-09T17:04:19.041554+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-09-text-to-cad-agent-skills-review",
-    "title": "text-to-cad 評価と実機レビュー：設計エージェントの構築",
-    "url": "https://ai.negi-lab.com/posts/text-to-cad-agent-skills-review/",
-    "category": "TOOL",
-    "viral_tags": "#CAD自動化 #AIエージェント",
-    "tweet_text": "GitHubで話題のearthtojake/text-to-cadを検証。単なる3D生成ではなく、LLMがCAD/CAE操作を「スキル」として実行するエージェント特化型。STEP出力対応で実務に耐える設計思想。RTX 4090環境ならローカルLLMと組み合わせて、設計から修正まで自律的に回す自動化パイプラインが現実味を帯びてきた。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-09-text-to-cad-agent-skills-review.jpg",
-    "created_at": "2026-09-09T19:57:45.484523+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-09-instacart-clementine-ai-grocery-agent-analysis",
     "title": "Instacart AIアシスタント「Clementine」の実力とEC開発がエージェント化する必然性",
     "url": "https://ai.negi-lab.com/posts/instacart-clementine-ai-grocery-agent-analysis/",
