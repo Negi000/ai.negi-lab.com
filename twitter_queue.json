@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-09-mlx-apple-silicon-local-llm-tutorial",
-    "title": "Apple Siliconの性能を限界まで引き出すMLXでローカルLLMを動かす方法",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Silicon MacでローカルLLMを動かすなら、もはやMLX一択です。llama.cppより書きやすく、GPU最適化によりLlama 3 8Bが秒間40トークン以上で爆速動作。メモリ16GBあれば十分実用レベルです。API料金を気にせず、プライバシー守ってAIを自作したいエンジニア向けの決定版ガイド。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-09-mlx-apple-silicon-local-llm-tutorial.jpg",
-    "created_at": "2026-09-09T08:20:09.841052+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-09-openai-skills-catalog-review-practical-guide",
     "title": "openai/skills レビュー：公式が示すAIエージェント設計の「正解」と実務への転用",
     "url": "https://ai.negi-lab.com/posts/openai-skills-catalog-review-practical-guide/",
