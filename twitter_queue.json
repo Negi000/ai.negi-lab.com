@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-10-frigade-assist-api-review-ai-onboarding.jpg",
     "created_at": "2026-09-10T13:15:25.350869+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-10-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLX入門 Apple SiliconでローカルLLMを爆速で動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple Silicon Macの真の力を引き出すならMLX一択。M2 MaxでLlama 3.1 8Bが毎秒45トークン超え。\nAPI不要、完全無料で自分専用のAIが爆速で動く。\n重要なのはメモリ容量。8GBなら最小モデル、16GB以上で実用、32GBあれば70Bクラスも見えてくる。\n「動かして終わり」にしないPythonでの実装ガイドをまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-10-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-09-10T17:03:53.691424+09:00",
+    "posted": false
   }
 ]
