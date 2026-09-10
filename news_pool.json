@@ -1,53 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Blume.codes",
-      "url": "https://www.producthunt.com/products/blume-codes",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turns coding agent sessions into better rules and skills </p> <p> <a href=\"https://www.producthunt.com/products/blume-codes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1237725?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-09-03T19:52:56"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Thaw",
-      "url": "https://www.producthunt.com/products/thaw-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The only app that owns your whole menu bar, in and out </p> <p> <a href=\"https://www.producthunt.com/products/thaw-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1239794?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-03T19:52:56"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Best Local Vision Language Models - August 2026",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-08-24T16:18:56+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Share what your favorite models are right now and <strong><em>why</em></strong>. Given the nature of the beast in evaluating VLMs (untrustworthiness of benchmarks, immature tooling, intrinsic stochasticity), please be as detailed as possible in describing your setup, nature of your usage (<strong>what applications</strong>, how much, personal/professional use), tools/frameworks/prompts etc.</p> <p><strong>Rules</strong></p> <ol> <li>Should be open weights models",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-09-03T19:53:00"
-    },
-    {
       "source": "r/ollama",
       "title": "Can a 4B local model actually feel like an AI assistant?",
       "url": "https://www.reddit.com/r/ollama/comments/1w6066y/can_a_4b_local_model_actually_feel_like_an_ai/",
@@ -2065,7 +2018,67 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-10T17:03:23"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "jiji262/douyin-downloader",
+      "url": "https://github.com/jiji262/douyin-downloader",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
+      "extra": {
+        "stars_today": "53 stars today"
+      },
+      "collected_at": "2026-09-10T19:53:34"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "NVIDIA/Megatron-LM",
+      "url": "https://github.com/NVIDIA/Megatron-LM",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Ongoing research training transformer models at scale",
+      "extra": {
+        "stars_today": "32 stars today"
+      },
+      "collected_at": "2026-09-10T19:53:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Typewise Nova",
+      "url": "https://www.producthunt.com/products/typewise",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI customer experience that builds and improves itself </p> <p> <a href=\"https://www.producthunt.com/products/typewise?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1240780?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-10T19:53:35"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mock Magic: Video Presets",
+      "url": "https://www.producthunt.com/products/mockmagic",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Use saved presets to quickly get a branded device video </p> <p> <a href=\"https://www.producthunt.com/products/mockmagic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078041?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-10T19:53:35"
     }
   ],
-  "updated_at": "2026-09-10T17:03:26.594456+09:00"
+  "updated_at": "2026-09-10T19:53:39.212907+09:00"
 }
