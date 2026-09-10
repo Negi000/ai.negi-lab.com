@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-11-local-llm-gpu-comparison-rtx4090-vs-mac.jpg",
     "created_at": "2026-09-11T04:29:13.455657+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-11-apple-silicon-mlx-local-llm-tutorial",
+    "title": "MLX入門 Apple Silicon MacでローカルLLMを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "M3 MaxのMacBookならLlama 3 8Bが40 tokens/sec超えで爆速動作。API課金を気にせずPythonからローカルLLMを制御できるのは快感です。Apple公式のMLXを使えばUnified Memoryをフル活用して手軽にAI環境を構築可能。メモリは16GB、できれば32GB以上が必須。買う前に自分のMacのメモリ残量を要チェック。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-11-apple-silicon-mlx-local-llm-tutorial.jpg",
+    "created_at": "2026-09-11T08:06:05.590631+09:00",
+    "posted": false
   }
 ]
