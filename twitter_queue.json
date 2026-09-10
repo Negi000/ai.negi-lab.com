@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-08-apple-silicon-mlx-local-llm-guide",
-    "title": "MLXでApple Siliconの性能を引き出すローカルLLM構築入門",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "M2/M3 MacユーザーでローカルLLMを試さないのは宝の持ち腐れです。MLXを使えば、Llama 3.1 8Bが秒間50トークン超えで爆走します。\n\nRTX 4090を2枚挿す私でも、この静音性とワットパフォーマンスには正直ビビりました。メモリ16GB以上あれば、API料金を気にせず自分専用のAIをPythonで構築できます。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-08-apple-silicon-mlx-local-llm-guide.jpg",
-    "created_at": "2026-09-08T22:21:09.895654+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-09-switch-ai-agent-slack-teams-integration",
     "title": "Switch 既存のAIエージェントをSlack/Teamsへ即時デプロイする中継基盤",
     "url": "https://ai.negi-lab.com/posts/switch-ai-agent-slack-teams-integration/",
