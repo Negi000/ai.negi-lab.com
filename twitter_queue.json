@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-09-switch-ai-agent-slack-teams-integration",
-    "title": "Switch 既存のAIエージェントをSlack/Teamsへ即時デプロイする中継基盤",
-    "url": "https://ai.negi-lab.com/posts/switch-ai-agent-slack-teams-integration/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #業務効率化",
-    "tweet_text": "AIエージェントの社内展開で一番面倒な「Slack/Teamsのボット設定」を丸投げできるSwitchが優秀。\n\n・エージェント側は1つのAPIを作るだけ\n・各ツール固有の認証やUI変換を自動化\n・プラットフォームを跨いでログを一元管理\n\nボット開発の8割を占める雑務を捨てて、LLMのロジックに集中したいエンジニア向け。RTX4090環境で組んだ自作エージェントも数分でSlack化できました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-09-switch-ai-agent-slack-teams-integration.jpg",
-    "created_at": "2026-09-09T01:21:23.202843+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-09-local-llm-hardware-selection-guide-rtx-mac",
-    "title": "ローカルLLM環境の選び方と比較：Ollamaで満足できない人のためのGPU・Mac選定ガイド",
-    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-selection-guide-rtx-mac/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "ローカルLLMを仕事で使うなら「とりあえずOllama」は卒業すべき。内部でコンテキスト長が制限され、本来の知能を発揮できていないケースが多い。重要なのはツール以上にVRAM容量。Llama 3 8Bなら16GB、70B級を実用的に回すなら24GB以上かMacのメモリ64GBが境界線になる。安易なスペック不足は投資の失敗に直結する。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-09-local-llm-hardware-selection-guide-rtx-mac.jpg",
-    "created_at": "2026-09-09T03:04:17.956376+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-09-ai-agent-sandbox-vm-comparison-guide",
-    "title": "ローカルLLMとAIエージェントの実行環境比較｜Claude Codeを安全・高速に動かすVMの選び方",
-    "url": "https://ai.negi-lab.com/posts/ai-agent-sandbox-vm-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #AIエージェント",
-    "tweet_text": "AIエージェントを「自分のPC」で直接動かすのはもう危ない。Claude CodeやInstinctの裏側で動く軽量VMの選定が、開発者の標準スキルになりつつあります。\n実務で選ぶなら、VRAM 24GBのRTX 4090か、メモリ64GB以上のMac。Docker隔離は最低条件で、0.1秒起動を狙うならFirecrackerが熱い。\n「思考待ち」をゼロにする投資は、数ヶ月で元が取れます。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-09-ai-agent-sandbox-vm-comparison-guide.jpg",
-    "created_at": "2026-09-09T04:45:15.458674+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-09-mlx-apple-silicon-local-llm-tutorial",
     "title": "Apple Siliconの性能を限界まで引き出すMLXでローカルLLMを動かす方法",
     "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
