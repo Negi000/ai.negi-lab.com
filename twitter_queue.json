@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-12-deepseek-v4-1-flash-hardware-guide-rtx-vram.jpg",
     "created_at": "2026-09-12T02:53:09.299684+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-12-huggingface-security-local-llm-gpu-guide",
+    "title": "ローカルLLM環境の選び方と比較｜Hugging Faceセキュリティ強化で変わる開発者用PCの最適解",
+    "url": "https://ai.negi-lab.com/posts/huggingface-security-local-llm-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "Hugging Faceがsecurity.txtを公開。プラットフォームの信頼性が増した今、エンジニアが投資すべきは「ローカル実行環境」です。\n\nVRAM 8GBは正直もう厳しい。実務でAIエージェントを回すなら、RTX 4060 Ti 16GBが最低ライン、Macなら統一メモリ64GB以上が必須。\n\n「動く」と「仕事に使える」の間には、VRAMという巨大な壁があります。買う前にここを間違えると、数ヶ月で後悔することに。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-12-huggingface-security-local-llm-gpu-guide.jpg",
+    "created_at": "2026-09-12T04:30:55.468019+09:00",
+    "posted": false
   }
 ]

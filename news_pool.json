@@ -1,36 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "sidebranch",
-      "url": "https://www.producthunt.com/products/sidebranch",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Easy git-based visual diffing </p> <p> <a href=\"https://www.producthunt.com/products/sidebranch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1239730?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-05T04:19:05"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Inline",
-      "url": "https://www.producthunt.com/products/inline-5",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Multiplayer work with AI, teammates, and friends </p> <p> <a href=\"https://www.producthunt.com/products/inline-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1240322?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-05T04:19:05"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
@@ -1479,21 +1449,6 @@
       "collected_at": "2026-09-10T22:20:17"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "DeepSeek V4-1 Flash is out",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-09-10T06:54:19+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/\"> <img alt=\"DeepSeek V4-1 Flash is out\" src=\"https://preview.redd.it/6c1tvzhn4noh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=6d491c59edb2545a53f1ac5c9c4f8ce0d2bb59c9\" title=\"DeepSeek V4-1 Flash is out\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Here we go again, DeepSeek is back again with a new model V4-1 Flash</p> <p>A multimodal Mixture-of-Experts (MoE) ",
-      "extra": {},
-      "collected_at": "2026-09-11T01:07:16"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "AI agents are flooding public services with new requests",
       "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
@@ -2070,7 +2025,80 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-12T02:52:09"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
+      "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 11 Sep 2026 11:36:24 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-12T04:28:22"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "ANOTHER researcher accuses OpenAI of training on conversations and then claiming a breakthrough",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcmgbn/another_researcher_accuses_openai_of_training_on/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-09-10T15:29:46+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wcmgbn/another_researcher_accuses_openai_of_training_on/\"> <img alt=\"ANOTHER researcher accuses OpenAI of training on conversations and then claiming a breakthrough\" src=\"https://external-preview.redd.it/9xaXXGScBj12GtK5fFHVbvoce4hLBVR24mKKmykX82s.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=68e31c2b86f97c0cf748598523f374ddc5947353\" title=\"ANOTHER researcher accuses OpenAI of training on conversations and then claiming ",
+      "extra": {},
+      "collected_at": "2026-09-12T04:28:23"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 11 Sep 2026 18:41:49 +0000",
+      "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&#160;It&#8217;s&#160;the kind of&#160;doomer&#160;warning the AI industry has flirted with before, but the timing, with Anthropic reportedly&#160;preparing for&#160;an IPO, makes it land differently.&",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-09-12T04:28:25"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GLYPH Immersive",
+      "url": "https://www.producthunt.com/products/glyph-immersive",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> a free tool for modular grid lettering </p> <p> <a href=\"https://www.producthunt.com/products/glyph-immersive?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1247047?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-12T04:28:26"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ChatHop",
+      "url": "https://www.producthunt.com/products/chathop",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Take your conversation anywhere. </p> <p> <a href=\"https://www.producthunt.com/products/chathop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1246820?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-12T04:28:26"
     }
   ],
-  "updated_at": "2026-09-12T02:52:12.911216+09:00"
+  "updated_at": "2026-09-12T04:28:29.579893+09:00"
 }
