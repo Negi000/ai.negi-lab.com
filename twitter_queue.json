@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-10-deepseek-v4-pro-retired-local-llm-gpu-guide",
-    "title": "DeepSeek V4 Pro終了？ローカルLLM環境の選び方とおすすめGPU・Mac比較",
-    "url": "https://ai.negi-lab.com/posts/deepseek-v4-pro-retired-local-llm-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "DeepSeek V4 Proの突然の終了。API依存の開発がいかに危ういか痛感します。実務でAIを使い倒すならVRAM 16GB以上のローカル環境構築が急務。RTX 4060 Ti 16GBなら10万円以下、4090なら無敵。Macなら統一メモリ32GBが最低ライン。思考の速度を落とさないためのハード選びが、結局一番の節約になります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-10-deepseek-v4-pro-retired-local-llm-gpu-guide.jpg",
-    "created_at": "2026-09-10T02:58:12.583957+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-10-local-llm-qwen-gpu-comparison-guide",
-    "title": "ローカルLLMでGPT-o1級の推論性能を出す構成比較｜Qwen/QwQ対応GPU・Mac選び方",
-    "url": "https://ai.negi-lab.com/posts/local-llm-qwen-gpu-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "ローカルLLMでQwenやQwQの「推論モデル」を動かすなら、もはやVRAM 12GBは脱落ライン。実務でGPT-o1級の論理推論をさせるならRTX 4090の24GBか、メモリ64GB以上のMacが最低条件です。推論中の思考プロセスがメモリを食いつぶすため、スペック不足は致命的なストレス。買う前に見るべきVRAMの壁と、失敗しない型番を整理しました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-10-local-llm-qwen-gpu-comparison-guide.jpg",
-    "created_at": "2026-09-10T04:37:19.867958+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-10-mlx-apple-silicon-llm-tutorial",
     "title": "Apple SiliconでLLMを動かすならMLX一択！MLX 使い方 入門",
     "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-llm-tutorial/",
