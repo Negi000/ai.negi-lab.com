@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-11-nvidia-70-percent-growth-2026-analysis-jensen-huang.jpg",
     "created_at": "2026-09-11T22:16:23.931228+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-12-deepseek-v4-1-flash-hardware-guide-rtx-vram",
+    "title": "DeepSeek V4-1 Flash 比較と選び方：ローカルLLM開発で失敗しないVRAM容量とハードウェア選定",
+    "url": "https://ai.negi-lab.com/posts/deepseek-v4-1-flash-hardware-guide-rtx-vram/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #DeepSeek",
+    "tweet_text": "DeepSeek V4-1 Flashが登場。マルチモーダルMoEをローカルで活かすなら、ハード選定の分岐点は「VRAM 16GB」です。8GB版を買うと画像処理で即詰みます。\n\n爆速レスポンスを実務で体感したいならRTX 4090一択ですが、コスパ重視ならRTX 4060 Ti 16GBが現実的な解。妥協してはいけないのはビデオメモリの容量。ここをケチるとFlashの良さが消えます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-12-deepseek-v4-1-flash-hardware-guide-rtx-vram.jpg",
+    "created_at": "2026-09-12T02:53:09.299684+09:00",
+    "posted": false
   }
 ]
