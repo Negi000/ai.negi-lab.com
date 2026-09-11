@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 04 Sep 2026 21:12:11 +0000",
-      "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-09-05T07:59:22"
-    },
-    {
       "source": "HN AI Hot",
       "title": "GPT-6 Astra on OpenRouter",
       "url": "https://openrouter.ai/openai/gpt-6-astra",
@@ -1908,21 +1893,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "Hugging Face security.txt",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdbvlt/hugging_face_securitytxt/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-09-11T10:01:25+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wdbvlt/hugging_face_securitytxt/\"> <img alt=\"Hugging Face security.txt\" src=\"https://preview.redd.it/yxfgrg3t6voh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4970e20ddbbef20ccbf9efd03d1d70425a4b56de\" title=\"Hugging Face security.txt\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/security.txt\">https://huggingface.co/security.txt</a></p> </div><!-- SC_ON --> &#32; submitted by &#32;",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-09-11T22:16:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Someone apparently managed to kind of replicate what V4.1 flash does on KV for fast prefill on Qwen",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wd4xxv/someone_apparently_managed_to_kind_of_replicate/",
       "primary_category": "GUIDE",
@@ -2098,7 +2068,61 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-12T04:28:26"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "ElevenLabs Music v2.5",
+      "url": "https://elevenmusic.io/blog/introducing-music-v2-5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 11 Sep 2026 20:53:16 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-12T08:11:22"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "GCC 13.5 Released with 256 bugs fixed, closing release series",
+      "url": "https://gcc.gnu.org/pipermail/gcc/2026-September/248876.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 11 Sep 2026 15:54:04 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-12T08:11:22"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "HuggingFace: Security.txt",
+      "url": "https://huggingface.co/security.txt",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 11 Sep 2026 14:38:13 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-12T08:11:22"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 11 Sep 2026 22:58:17 +0000",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-12T08:11:23"
     }
   ],
-  "updated_at": "2026-09-12T04:28:29.579893+09:00"
+  "updated_at": "2026-09-12T08:11:27.792535+09:00"
 }

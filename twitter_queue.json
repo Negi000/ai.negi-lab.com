@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-12-huggingface-security-local-llm-gpu-guide.jpg",
     "created_at": "2026-09-12T04:30:55.468019+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-12-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLX 使い方 入門 Apple Silicon MacでローカルLLMを動かす",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple Silicon Macを「置物」にしてませんか？MLXを使えば、Llama 3やGemma 2がローカルで爆速動作。RTX 4090不要、ユニファイドメモリを活かして自分専用のプライベートAIを構築する手順をまとめました。Python歴8年の私が、現場で使える最小構成コードを解説します。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-12-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-09-12T08:11:49.332919+09:00",
+    "posted": false
   }
 ]
