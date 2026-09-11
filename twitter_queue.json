@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-11-openobserve-ai-observability-review-guide.jpg",
     "created_at": "2026-09-11T13:14:51.806851+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-11-e2b-ai-agent-sandbox-tutorial-python",
+    "title": "AIエージェント専用サンドボックスE2Bの使い方入門",
+    "url": "https://ai.negi-lab.com/posts/e2b-ai-agent-sandbox-tutorial-python/",
+    "category": "GUIDE",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントにコード実行を任せるなら「E2B」が現状の最適解。\nローカルDockerで苦労していた環境隔離が、SDK数行で完結。月100時間まで無料、起動も数秒と爆速。\n自作サーバーでRTX 4090を回す私でも、セキュリティと手軽さのバランスでこれを選びます。\n実務でAIにファイル操作をさせるなら、安全な砂場は必須。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-11-e2b-ai-agent-sandbox-tutorial-python.jpg",
+    "created_at": "2026-09-11T16:59:48.041225+09:00",
+    "posted": false
   }
 ]
