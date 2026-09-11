@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-11-apple-silicon-mlx-local-llm-tutorial.jpg",
     "created_at": "2026-09-11T08:06:05.590631+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-11-openobserve-ai-observability-review-guide",
+    "title": "OpenObserve AI Observability 使い方と実務への導入メリットを徹底解説",
+    "url": "https://ai.negi-lab.com/posts/openobserve-ai-observability-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#OpenObserve #LLMOps",
+    "tweet_text": "LLMアプリの監視でLangSmithの課金に怯えるのはもう終わり。Rust製のOpenObserveが凄まじい。Elasticsearchより140倍効率的なストレージ設計で、S3を直にログ保存先にできる。RTX 4090環境でもメモリ消費わずか200MB。OpenTelemetry標準対応なので特定ベンダーに縛られない。本番運用のコストを削るならこれが最適解。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-11-openobserve-ai-observability-review-guide.jpg",
+    "created_at": "2026-09-11T13:14:51.806851+09:00",
+    "posted": false
   }
 ]
