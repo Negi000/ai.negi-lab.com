@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-13-deepseek-v4-flash-local-llm-gpu-guide.jpg",
     "created_at": "2026-09-13T03:59:00.913494+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-13-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLX 使い方 入門 Apple Silicon MacでローカルLLMを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "Apple Silicon Macを最強のAI環境に変えるMLX。M2 Ultraで検証した結果、PyTorchより最大2倍近く推論が速いことも。メモリ32GB以上のMacならLlama 3.1 8Bが驚くほど滑らかに動く。API料金を気にせずローカルで機密データを回せるのは、実務エンジニアにとって最大の武器。買う前にメモリだけはケチるな。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-13-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-09-13T07:59:01.400312+09:00",
+    "posted": false
   }
 ]
