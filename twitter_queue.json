@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-12-mecka-ai-valuation-robot-training-data-analysis.jpg",
     "created_at": "2026-09-12T21:38:32.979387+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-13-local-llm-gpu-selection-guide-rtx-vs-mac",
+    "title": "OpenAI疑惑から考えるローカルLLM環境の選び方！RTX vs Mac比較と失敗しないVRAM容量",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-selection-guide-rtx-vs-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "OpenAIがユーザー対話を学習に使っている疑惑で、ローカルLLMへの回帰が加速しています。結論、実務で使うならRTX 4060 Ti 16GBが最低ライン。8GBでは最新のQwen 2.5やLlama 3.1を活かしきれません。VRAM容量は妥協すると数ヶ月で買い直す羽目になる。仕事で使える環境の選び方を実務目線で整理しました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-13-local-llm-gpu-selection-guide-rtx-vs-mac.jpg",
+    "created_at": "2026-09-13T02:25:31.551833+09:00",
+    "posted": false
   }
 ]
