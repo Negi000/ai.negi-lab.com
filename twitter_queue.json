@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-11-procedural-graphs-llm-agent-hardware-guide",
-    "title": "AIエージェント自律進化時代のGPU・Mac選び：Procedural Graphsを実戦投入する構成比較",
-    "url": "https://ai.negi-lab.com/posts/procedural-graphs-llm-agent-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#AIエージェント #ローカルLLM",
-    "tweet_text": "エージェントが自ら実行フローを書き換えるProcedural Graphs時代が到来。この手の自己進化型は試行錯誤のループ回数が桁違いなので、VRAM 8GB環境は正直もう厳しい。実務で使うならRTX 4060 Ti 16GBが最低ライン、理想はMac Studioの128GB構成。API破産を避けるための「ローカル推論環境」への投資が、2025年の開発者にとって最大の節約になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-11-procedural-graphs-llm-agent-hardware-guide.jpg",
-    "created_at": "2026-09-11T02:51:18.171144+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-11-local-llm-gpu-comparison-rtx4090-vs-mac",
-    "title": "ローカルLLM用PCの選び方比較！RTX 4090かMacか？VRAM不足で後悔しない実務者ガイド",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-comparison-rtx4090-vs-mac/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "ローカルLLM用にハードを買うなら「VRAM 24GB」が実務の境界線。RTX 4090ならLlama 3 70Bも現実的な速度で動くが、VRAMが1MBでも不足した瞬間に速度は1/100へ。予算30万〜なら拡張性重視で4090自作PC、巨大モデルの実験ならMac Studioメモリ128GB超が正解。中途半端なスペックでAPIに頼るより、一気に「右腕」を構築すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-11-local-llm-gpu-comparison-rtx4090-vs-mac.jpg",
-    "created_at": "2026-09-11T04:29:13.455657+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-11-apple-silicon-mlx-local-llm-tutorial",
     "title": "MLX入門 Apple Silicon MacでローカルLLMを動かす方法",
     "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
