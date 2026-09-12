@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "GPT-6 Astra on OpenRouter",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 04 Sep 2026 21:39:19 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-05T13:03:10"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 04 Sep 2026 23:36:14 +0000",
-      "summary": "The round is being raised just months after the robot data startup exited from stealth.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-09-05T13:03:12"
-    },
-    {
       "source": "Product Hunt",
       "title": "PostBox",
       "url": "https://www.producthunt.com/products/postbox",
@@ -2122,7 +2094,93 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-12T08:11:23"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sat, 12 Sep 2026 02:39:39 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-12T13:13:25"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Measuring the sloppiness of code",
+      "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 11 Sep 2026 13:42:28 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-12T13:13:25"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
+      "url": "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 11 Sep 2026 13:41:58 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-12T13:13:25"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "TIM PG",
+      "url": "https://www.producthunt.com/products/tim-pg",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Anonymize sensitive data before pasting into AI tools </p> <p> <a href=\"https://www.producthunt.com/products/tim-pg?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1217842?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-12T13:13:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cadenya",
+      "url": "https://www.producthunt.com/products/cadenya-the-agent-runtime",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A hosted agentic loop to bring agentic possibilities to life </p> <p> <a href=\"https://www.producthunt.com/products/cadenya-the-agent-runtime?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1247121?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-09-12T13:13:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Spaces",
+      "url": "https://www.producthunt.com/products/spaces-21",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> One shared space where your team and AI agents work </p> <p> <a href=\"https://www.producthunt.com/products/spaces-21?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1245062?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-09-12T13:13:28"
     }
   ],
-  "updated_at": "2026-09-12T08:11:27.792535+09:00"
+  "updated_at": "2026-09-12T13:13:31.789641+09:00"
 }
