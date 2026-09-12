@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-12-spaces-ai-agent-team-collaboration-review.jpg",
     "created_at": "2026-09-12T13:14:16.991867+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-12-ollama-open-webui-local-llm-tutorial",
+    "title": "OllamaとOpen WebUIで自分専用のChatGPTをローカル構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "VRAM 12GBのGPUが1枚あれば、自分専用の「一切漏洩しないChatGPT」が爆速で動く。\nOllamaとOpen WebUIの組み合わせは、もはやローカルLLM構築の決定版。\nDocker一発でRAGも画像生成連携も手に入る。\nネットに流せない機密書類をPDFで食わせて、手元で分析させるのが最強の贅沢。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-12-ollama-open-webui-local-llm-tutorial.jpg",
+    "created_at": "2026-09-12T16:53:05.492676+09:00",
+    "posted": false
   }
 ]
