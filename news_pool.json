@@ -1,77 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Coding",
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "Sat, 05 Sep 2026 03:38:56 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-05T21:23:48"
-    },
-    {
-      "source": "HN AI Coding",
-      "title": "Claude Code skills for advanced context engineering techniques and patterns",
-      "url": "https://github.com/NeoLabHQ/context-engineering-kit",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 04 Sep 2026 22:52:14 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-05T21:23:48"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "sgl-project/sglang",
-      "url": "https://github.com/sgl-project/sglang",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "SGLang is a high-performance serving framework for large language models and multimodal models.",
-      "extra": {
-        "stars_today": "836 stars today"
-      },
-      "collected_at": "2026-09-05T21:23:50"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Queuebrick",
-      "url": "https://www.producthunt.com/products/queuebrick",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The Letterboxd alternative </p> <p> <a href=\"https://www.producthunt.com/products/queuebrick?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1239518?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-05T21:23:51"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Ponytail",
-      "url": "https://www.producthunt.com/products/ponytail",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Make new code the last resort </p> <p> <a href=\"https://www.producthunt.com/products/ponytail?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1241345?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-05T21:23:51"
-    },
-    {
       "source": "Product Hunt",
       "title": "Retold",
       "url": "https://www.producthunt.com/products/retold",
@@ -1667,21 +1596,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "jordan-gibbs/hyperresearch",
-      "url": "https://github.com/jordan-gibbs/hyperresearch",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
-      "extra": {
-        "stars_today": "118 stars today"
-      },
-      "collected_at": "2026-09-11T19:50:19"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "primary_category": "TOOL",
@@ -2206,7 +2120,68 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-12T19:18:41"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "extra": {
+        "stars_today": "99 stars today"
+      },
+      "collected_at": "2026-09-12T21:38:07"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "extra": {
+        "stars_today": "193 stars today"
+      },
+      "collected_at": "2026-09-12T21:38:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "FrameSketch",
+      "url": "https://www.producthunt.com/products/framesketch",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Scrub vids frame-by-frame and sketch on them at 60fps </p> <p> <a href=\"https://www.producthunt.com/products/framesketch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1246593?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-12T21:38:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "QApilot MCP for Android",
+      "url": "https://www.producthunt.com/products/qapilot",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Android app testing inside your coding agent </p> <p> <a href=\"https://www.producthunt.com/products/qapilot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1239880?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-09-12T21:38:07"
     }
   ],
-  "updated_at": "2026-09-12T19:18:44.520370+09:00"
+  "updated_at": "2026-09-12T21:38:11.097775+09:00"
 }
