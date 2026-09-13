@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-14-claude-code-ai-coding-hardware-guide.jpg",
     "created_at": "2026-09-14T02:37:32.341731+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-14-local-llm-hardware-guide-rtx-vs-mac",
+    "title": "ローカルLLM構築ガイド：RTX 4090とMac Studio、今買うならどっち？比較と選び方",
+    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-rtx-vs-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "ローカルLLMを実務で使うならVRAM 16GBが最低ライン。8GBや12GBは開発では即エラーの壁に当たります。\n\n最速を目指すならRTX 4090一択ですが、巨大モデルを動かすだけならMac Studio 128GB超が実は高コスパ。\n\n「動かしてみた」で終わらせず仕事で使うための、失敗しないハードウェア選びをまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-14-local-llm-hardware-guide-rtx-vs-mac.jpg",
+    "created_at": "2026-09-14T04:13:37.964025+09:00",
+    "posted": false
   }
 ]
