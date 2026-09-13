@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 06 Sep 2026 01:52:45 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-06T13:10:51"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Which agent harness do you use and why?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8f7bp/which_agent_harness_do_you_use_and_why/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "2026-09-05T22:57:24+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I see a new one being launched every few days... How do these new harnesses compare to claude code, pi etc. has anyone switched from these? </p> <p>which harness to prefer and why</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Background-Job-862\"> /u/Background-Job-862 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1w8f7bp/which_agent_harness_do_you_use_and_why/\">[link]</a></span> &#32; <span><a hr",
-      "extra": {
-        "revenue_score": 8
-      },
-      "collected_at": "2026-09-06T13:11:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen3.8-27B \"Unhacked\" my PC",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8jahs/qwen3827b_unhacked_my_pc/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-09-06T02:08:39+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Right, so this is going to be embarrassing but it's presumably something we've all been through at one point or another, and I guess this is my first time resolving something like this in the way that I did so figured I'd share if only to share that it's now a thing and that it's pretty cool..</p> <p>A friend of mine sent a message asking what's up and if I wanted to watch a movie together, I was kinda hesitant but she buttered things a bit and finally I'm like ",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-09-06T13:11:01"
-    },
-    {
       "source": "Product Hunt",
       "title": "DocsAlot Visual Editor",
       "url": "https://www.producthunt.com/products/docsalot-2",
@@ -2111,7 +2065,50 @@
         "revenue_score": -4
       },
       "collected_at": "2026-09-13T07:58:11"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Qwen3.8 Flash Next llama.cpp config tuning",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we6tau/qwen38_flash_next_llamacpp_config_tuning/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-09-12T08:18:04+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1we6tau/qwen38_flash_next_llamacpp_config_tuning/\"> <img alt=\"Qwen3.8 Flash Next llama.cpp config tuning\" src=\"https://preview.redd.it/n8ofcc8qr1ph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f04107230d0db21e698d6bb705098f544cad8fd9\" title=\"Qwen3.8 Flash Next llama.cpp config tuning\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hola all.</p> <p>Do you guys mind sharing your LLama.cpp config and system setup detai",
+      "extra": {},
+      "collected_at": "2026-09-13T13:25:19"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "What TTS models do you recommend as today?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wceiz6/what_tts_models_do_you_recommend_as_today/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-09-10T09:46:36+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Trying to get Hermes a local, efficient, tts voice. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JLeonsarmiento\"> /u/JLeonsarmiento </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wceiz6/what_tts_models_do_you_recommend_as_today/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wceiz6/what_tts_models_do_you_recommend_as_today/\">[comments]</a></span>",
+      "extra": {},
+      "collected_at": "2026-09-13T13:25:19"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "I trained an audio model that can generate infinite one-shots for music production and turn text prompts into fully playable synths. I'm not only releasing the model but I've also released a video on exactly how I did it (and the inferencing pipeline to let others make text based synths.)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbtqt7/i_trained_an_audio_model_that_can_generate/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-09-09T18:24:19+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wbtqt7/i_trained_an_audio_model_that_can_generate/\"> <img alt=\"I trained an audio model that can generate infinite one-shots for music production and turn text prompts into fully playable synths. I'm not only releasing the model but I've also released a video on exactly how I did it (and the inferencing pipeline to let others make text based synths.)\" src=\"https://external-preview.redd.it/azNlOHRidWhlam9oMVvZgXiGqd_hyK3pgOGh",
+      "extra": {},
+      "collected_at": "2026-09-13T13:25:19"
     }
   ],
-  "updated_at": "2026-09-13T07:58:15.140237+09:00"
+  "updated_at": "2026-09-13T13:25:24.165486+09:00"
 }
