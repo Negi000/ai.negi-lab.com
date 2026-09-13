@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-12-ollama-open-webui-local-llm-tutorial",
-    "title": "OllamaとOpen WebUIで自分専用のChatGPTをローカル構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "VRAM 12GBのGPUが1枚あれば、自分専用の「一切漏洩しないChatGPT」が爆速で動く。\nOllamaとOpen WebUIの組み合わせは、もはやローカルLLM構築の決定版。\nDocker一発でRAGも画像生成連携も手に入る。\nネットに流せない機密書類をPDFで食わせて、手元で分析させるのが最強の贅沢。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-12-ollama-open-webui-local-llm-tutorial.jpg",
-    "created_at": "2026-09-12T16:53:05.492676+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-12-hyperresearch-agent-driven-knowledge-base-review",
-    "title": "jordan-gibbs/hyperresearch 調査からWiki構築まで自動化するAIエージェント",
-    "url": "https://ai.negi-lab.com/posts/hyperresearch-agent-driven-knowledge-base-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIAgent #生産性向上",
-    "tweet_text": "AI検索は「その場」で終わるのが欠点だった。jordan-gibbs/hyperresearchは、エージェントが自律的にWebを掘り、調査結果を「検索可能なWiki」として永続化する。1回数ドルのAPI代で、翌朝には構造化された技術資料が手元に。情報のフローをストックに変えたいエンジニアには最高の実務ツール。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-12-hyperresearch-agent-driven-knowledge-base-review.jpg",
-    "created_at": "2026-09-12T19:19:08.174387+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-12-mecka-ai-valuation-robot-training-data-analysis",
     "title": "Mecka AIが評価額5億ドルへ、ロボット制御の「データ枯渇」を救うSequoiaの勝負",
     "url": "https://ai.negi-lab.com/posts/mecka-ai-valuation-robot-training-data-analysis/",
