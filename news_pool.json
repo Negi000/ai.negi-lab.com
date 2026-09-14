@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 07 Sep 2026 19:24:00 +0000",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-08T05:22:23"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
       "url": "https://github.com/trailofbits/coop",
@@ -234,19 +219,6 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-09T04:44:48"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "OpenAI alleged of stealing mathematicians work",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wapjaw/openai_alleged_of_stealing_mathematicians_work/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-09-08T14:12:10+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Privacy have been concern of many of us to have their own hardware to run llms, and here's another reason why: two mathematicians spent a year cracking one of the hardest problems in math and fed every draft of their works into Codex. A few days before they could publish, OpenAI suddenly showed up with the same solutions. When asked if their model (Sol and Astra) was trained on the pair's private chats, OpenAI did not answer the question.</p> <p>Full statement f",
-      "extra": {},
-      "collected_at": "2026-09-09T08:19:31"
     },
     {
       "source": "TechCrunch AI",
@@ -2221,7 +2193,91 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-15T04:34:17"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude is a Contrarian",
+      "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 14 Sep 2026 16:14:24 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-15T05:45:22"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 14 Sep 2026 12:01:32 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-15T05:45:22"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "url": "https://github.com/anuj0456/OpenArch",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 14 Sep 2026 07:55:19 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-15T05:45:22"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 14 Sep 2026 20:44:14 +0000",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-15T05:45:31"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Afterglow",
+      "url": "https://www.producthunt.com/products/afterglow-4",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Run classic After Dark screen savers on modern macOS </p> <p> <a href=\"https://www.producthunt.com/products/afterglow-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1246217?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-15T05:45:31"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Elva",
+      "url": "https://www.producthunt.com/products/elva",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Goodbye, Postman. Your APIs have new consumers </p> <p> <a href=\"https://www.producthunt.com/products/elva?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1243798?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-15T05:45:31"
     }
   ],
-  "updated_at": "2026-09-15T04:34:20.450233+09:00"
+  "updated_at": "2026-09-15T05:45:35.370689+09:00"
 }
