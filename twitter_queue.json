@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-15-apple-silicon-mlx-local-llm-tutorial.jpg",
     "created_at": "2026-09-15T05:45:59.456888+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-15-mirofish-swarm-intelligence-optimization-review",
+    "title": "MiroFish 使い方：群知能で「万物を予測する」エンジンの実力と実装方法",
+    "url": "https://ai.negi-lab.com/posts/mirofish-swarm-intelligence-optimization-review/",
+    "category": "TOOL",
+    "viral_tags": "#機械学習 #Python",
+    "tweet_text": "群知能（Swarm Intelligence）で最適解を導き出す「MiroFish」が面白い。勾配法でハマる局所解をエージェントの群れで突破する。100変数の最適化をCPUだけで0.5秒以内に処理。LLMのプロンプト重み付けや数理モデルの変数調整に悩むなら、重厚な強化学習よりこれくらいの軽量エンジンが実務では正義。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-15-mirofish-swarm-intelligence-optimization-review.jpg",
+    "created_at": "2026-09-15T13:32:58.356251+09:00",
+    "posted": false
   }
 ]
