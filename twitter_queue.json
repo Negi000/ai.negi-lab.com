@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-13-voicestudio-local-elevenlabs-alternative-review",
-    "title": "VoiceStudio レビュー | ローカル環境で構築するオープンソース版ElevenLabs",
-    "url": "https://ai.negi-lab.com/posts/voicestudio-local-elevenlabs-alternative-review/",
-    "category": "TOOL",
-    "viral_tags": "#VoiceStudio #ローカルAI",
-    "tweet_text": "ElevenLabsをローカルで再現するVoiceStudioが凄い。RTX 3060以上のGPUがあれば、音声クローンや動画ダビングが完全無料で回し放題。646言語対応で日本語の精度も実用レベル。VRAM 12GB以上推奨だけど、機密情報を外に出せない案件や、大量の音声生成が必要な開発者は試す価値あり。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-13-voicestudio-local-elevenlabs-alternative-review.jpg",
-    "created_at": "2026-09-13T20:19:52.352120+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-13-sam-altman-movie-artificial-openai-risk",
-    "title": "サム・アルトマン映画『Artificial』が描くOpenAIの混沌と開発者が備えるべき「中央集権型AI」のリスク",
-    "url": "https://ai.negi-lab.com/posts/sam-altman-movie-artificial-openai-risk/",
-    "category": "NEWS",
-    "viral_tags": "#OpenAI #ローカルLLM",
-    "tweet_text": "サム・アルトマンの映画『Artificial』予告編が公開されたが、開発者が注目すべきはドラマ性ではなく「中央集権型AI」のリスクだ。2023年の解任騒動は、特定企業のガバナンスが世界のインフラを揺るがす危うさを露呈した。今こそマルチLLM化とローカルLLM検証で、API一本足打法から脱却する時だ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-13-sam-altman-movie-artificial-openai-risk.jpg",
-    "created_at": "2026-09-13T22:41:33.572072+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-14-claude-code-ai-coding-hardware-guide",
     "title": "Claude CodeとローカルLLM開発環境の選び方：実務で差がつくGPU・Mac比較ガイド",
     "url": "https://ai.negi-lab.com/posts/claude-code-ai-coding-hardware-guide/",
