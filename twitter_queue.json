@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-09-15-mirofish-swarm-intelligence-optimization-review.jpg",
     "created_at": "2026-09-15T13:32:58.356251+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-15-langchain-rag-local-pdf-tutorial",
+    "title": "Python RAG入門 ローカル検索の実装方法",
+    "url": "https://ai.negi-lab.com/posts/langchain-rag-local-pdf-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#LangChain #RAG",
+    "tweet_text": "RAGは「何を使うか」より「どう分割するか」で精度が決まる。LangChainとChromaDBを使い、手元のPDFから回答を生成する最小構成をまとめました。chunk_overlapの設定ミスは実務での失敗あるある。まずはOpenAI APIで安定したベースを作り、そこからローカルLLMへの移行を検討するのが最短ルートです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-15-langchain-rag-local-pdf-tutorial.jpg",
+    "created_at": "2026-09-15T17:36:07.507953+09:00",
+    "posted": false
   }
 ]
