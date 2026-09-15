@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 08 Sep 2026 16:20:31 +0000",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-09T01:20:54"
-    },
-    {
-      "source": "Google News",
-      "title": "白木山 ドローン空撮 周防大島町 Artificial Intelligence (WRORa4N4IS) - Mshale",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mQ0xYWDdBUmYyU2d6VjMxVDBxLUF5NDJxS2RTSVA3NG5UWF8yQnBCR3hEVGhWWjRvYmhQNUlfbUhTVjY5VUZrVkJINGNLTjJpUGVTTWZleXVUNjg?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 08 Sep 2026 10:45:49 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mQ0xYWDdBUmYyU2d6VjMxVDBxLUF5NDJxS2RTSVA3NG5UWF8yQnBCR3hEVGhWWjRvYmhQNUlfbUhTVjY5VUZrVkJINGNLTjJpUGVTTWZleXVUNjg?oc=5\" target=\"_blank\">白木山 ドローン空撮 周防大島町 Artificial Intelligence (WRORa4N4IS)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-09T01:20:55"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Widgo",
-      "url": "https://www.producthunt.com/products/paillor",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI Sales rep for your website visitors </p> <p> <a href=\"https://www.producthunt.com/products/paillor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1209261?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-09T01:20:55"
-    },
-    {
       "source": "HN Local AI",
       "title": "Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
       "url": "https://cepr.org/publications/dp21706",
@@ -2349,22 +2304,6 @@
       "collected_at": "2026-09-15T23:11:38"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-09-15T23:11:46"
-    },
-    {
       "source": "Product Hunt",
       "title": "Multimodal Agents by Sierra",
       "url": "https://www.producthunt.com/products/sierra",
@@ -2409,7 +2348,83 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-15T23:11:47"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Quick update: LST is now live on the Chrome Web Store",
+      "url": "https://www.reddit.com/r/ollama/comments/1wgx90h/quick_update_lst_is_now_live_on_the_chrome_web/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-09-15T11:05:07+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Small update from my post a few days ago — <strong>LST — Local Subtitle Translate</strong> is now live on the Chrome Web Store.</p> <p>Chrome:<br /> <a href=\"https://chromewebstore.google.com/detail/lst-%E2%80%94-local-subtitle-tran/hfncilnklfikagkcgkanimojjmflfohm\">https://chromewebstore.google.com/detail/lst-%E2%80%94-local-subtitle-tran/hfncilnklfikagkcgkanimojjmflfohm</a></p> <p>It still uses Ollama to translate Netflix subtitles locally, with realtime trans",
+      "extra": {},
+      "collected_at": "2026-09-16T01:38:01"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Ollama Pro enough for Kimi K3/GLM 5.3/Qwen 3.8 Max as reviewer?",
+      "url": "https://www.reddit.com/r/ollama/comments/1wh17b8/ollama_pro_enough_for_kimi_k3glm_53qwen_38_max_as/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-09-15T13:59:52+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Does Ollama Pro provide enough usage to have Kimi K3 act as a planner/conversational code reviewer? Or even GLM 5.3?</p> <p>I'm thinking of using them to plan, while Deepseek v4.1/GLM 5.3 Flash as the subagents/coding models.</p> <p>I probably won't be using them as planners or reviewers everyday, as I'll be iterating with the coding models most days anyways.</p> <p>Would it be more worth it to get Ollama Pro, Qwen Token Pro Plan or, GLM coding pro plan?</p> </d",
+      "extra": {},
+      "collected_at": "2026-09-16T01:38:01"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 15 Sep 2026 15:47:03 +0000",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-16T01:38:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "is.team",
+      "url": "https://www.producthunt.com/products/is-team",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your AI agent joins the board like a teammate </p> <p> <a href=\"https://www.producthunt.com/products/is-team?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1115300?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-09-16T01:38:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mac Duo",
+      "url": "https://www.producthunt.com/products/mac-duo",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn your display into frosted glass as you close the lid </p> <p> <a href=\"https://www.producthunt.com/products/mac-duo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1250781?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-16T01:38:03"
     }
   ],
-  "updated_at": "2026-09-15T23:11:50.913446+09:00"
+  "updated_at": "2026-09-16T01:38:07.231029+09:00"
 }
