@@ -2,21 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 09 Sep 2026 22:25:22 +0000",
-      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-10T08:09:28"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
       "primary_category": "NEWS",
@@ -2420,19 +2405,6 @@
       "collected_at": "2026-09-17T03:23:21"
     },
     {
-      "source": "HN AI Hot",
-      "title": "Claude Cowork and chat are now one Claude",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 16 Sep 2026 16:26:25 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-17T04:51:28"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
       "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
@@ -2461,7 +2433,22 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-17T04:51:37"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 16 Sep 2026 21:07:24 +0000",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-09-17T08:37:47"
     }
   ],
-  "updated_at": "2026-09-17T04:51:41.130365+09:00"
+  "updated_at": "2026-09-17T08:37:52.012928+09:00"
 }
