@@ -15233,5 +15233,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-09-16T23:04:06.172314+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-17-tencentcloud-octop-ai-agent-review",
+    "title": "TencentCloud Octop レビュー｜マルチエージェント管理を自社完結させるOSSの新本命",
+    "url": "https://ai.negi-lab.com/posts/tencentcloud-octop-ai-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #セルフホスト",
+    "tweet_text": "GitHubで話題のTencentCloud/Octopを検証。Docker一発で構築できるマルチエージェント基盤で、特にユーザー権限管理とPythonプラグインの統合が優秀。Difyよりも「エンジニア向けのバックエンド基盤」に寄った設計で、社内AIプラットフォームを自前で立てるなら有力な選択肢。メモリ16GB以上のサーバーかRTX環境での運用が現実的。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-17-tencentcloud-octop-ai-agent-review.jpg",
+    "created_at": "2026-09-17T01:31:35.944257+09:00",
+    "posted": false
   }
 ]
