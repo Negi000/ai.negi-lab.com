@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-09-17-tencentcloud-octop-ai-agent-review.jpg",
     "created_at": "2026-09-17T01:31:35.944257+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-17-roboflow-supervision-gpu-guide-comparison",
+    "title": "Supervisionで物体検出を効率化！RTX 4090かMac Studioか？CV開発を加速する推奨スペック比較と選び方",
+    "url": "https://ai.negi-lab.com/posts/roboflow-supervision-gpu-guide-comparison/",
+    "category": "MONEY",
+    "viral_tags": "#物体検出 #エンジニア",
+    "tweet_text": "RoboflowのSupervision、物体検出の可視化が数行で書けて神だけど、ハード選びをケチると詰みます。4K動画でリアルタイム解析するならVRAM 16GBが最低ライン。8GBモデルは後悔します。実務ならRTX 4060 Ti 16GBか、Macならメモリ32GB以上の構成を。失敗しないためのVRAMと電源容量の判断基準をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-17-roboflow-supervision-gpu-guide-comparison.jpg",
+    "created_at": "2026-09-17T03:23:53.433936+09:00",
+    "posted": false
   }
 ]

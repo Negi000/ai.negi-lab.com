@@ -1,66 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Wed, 09 Sep 2026 17:36:05 +0000",
-      "summary": "The company also argued that its on-device models offer consumers more privacy.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-09-10T02:57:45"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "DuckFightClub",
-      "url": "https://www.producthunt.com/products/duckfightclub",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Train your MicroDuck and win the Golden Beak Belt </p> <p> <a href=\"https://www.producthunt.com/products/duckfightclub?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1244990?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-10T02:57:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Ass Auction",
-      "url": "https://www.producthunt.com/products/ass-auction",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Brands outbid each other to put their logo on my ass </p> <p> <a href=\"https://www.producthunt.com/products/ass-auction?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1244551?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-10T02:57:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "WorkID.ai",
-      "url": "https://www.producthunt.com/products/workid-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Where verified talent meets opportunity. Hire with trust! </p> <p> <a href=\"https://www.producthunt.com/products/workid-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1242714?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-10T02:57:46"
-    },
-    {
       "source": "HN AI Hot",
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
       "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
@@ -2356,21 +2296,6 @@
       "collected_at": "2026-09-16T20:04:18"
     },
     {
-      "source": "GitHub Trending",
-      "title": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-      "extra": {
-        "stars_today": "419 stars today"
-      },
-      "collected_at": "2026-09-16T20:04:18"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Amazon launches Alexa+ in India with Hindi support",
       "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
@@ -2534,7 +2459,24 @@
         "revenue_score": 3
       },
       "collected_at": "2026-09-17T01:31:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "Wed, 16 Sep 2026 17:00:00 +0000",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-09-17T03:23:21"
     }
   ],
-  "updated_at": "2026-09-17T01:31:07.284810+09:00"
+  "updated_at": "2026-09-17T03:23:25.840700+09:00"
 }
