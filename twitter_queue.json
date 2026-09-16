@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-15-oh-my-hermes-local-llm-hardware-guide",
-    "title": "ローカルLLMコーディング環境の選び方：oh-my-hermesを快適に動かすVRAMとMacの比較",
-    "url": "https://ai.negi-lab.com/posts/oh-my-hermes-local-llm-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #個人開発",
-    "tweet_text": "ローカルLLMコーディングの決定版「oh-my-hermes」を実戦投入するなら、VRAM 16GB以下は今すぐ卒業すべき。Hermes-3-70Bをまともに動かすなら、RTX 4090 2枚挿しかMac Studioのメモリ64GB以上が最低ライン。API代をケチるのではなく、推論速度を買って開発のフローを止めないのが、2024年のエンジニアの投資術。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-15-oh-my-hermes-local-llm-hardware-guide.jpg",
-    "created_at": "2026-09-15T02:57:39.907386+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-15-local-llm-gpu-comparison-openai-privacy-risk",
-    "title": "ローカルLLM環境の選び方とおすすめGPU比較｜OpenAI盗用疑惑から考える開発者のプライバシー防衛術",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-comparison-openai-privacy-risk/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4060Ti",
-    "tweet_text": "OpenAIの盗用疑惑で、改めて「思考をクラウドに預けるリスク」が浮き彫りになった。数学者がCodexに入れた成果がモデルに流用されたなら、我々のコードも例外じゃない。\n\n対策は「ローカルLLM」への投資。\n・WindowsならRTX 4060 Ti 16GB以上\n・Macならメモリ32GB以上\n\nVRAM容量こそが、プライバシーを守る唯一の盾になる。今買うべき型番と判断基準をまとめた。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-15-local-llm-gpu-comparison-openai-privacy-risk.jpg",
-    "created_at": "2026-09-15T04:34:48.820240+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-15-apple-silicon-mlx-local-llm-tutorial",
     "title": "Apple SiliconでMLXを使いローカルLLMを爆速で動かす方法",
     "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
