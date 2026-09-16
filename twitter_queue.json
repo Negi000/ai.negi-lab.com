@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-09-16-local-llm-hardware-guide-hugging-bay.jpg",
     "created_at": "2026-09-16T20:04:48.390667+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-16-claude-code-cursor-hybrid-workflow-guide",
+    "title": "Claude CodeとCursorを併用して爆速でアプリ開発する使い方",
+    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-workflow-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ClaudeCode #Cursor",
+    "tweet_text": "Claude CodeとCursorの併用が現状の最適解。大規模な構造変更やテスト自動化はCLIのClaude Codeに任せ、UIの微調整はCursorのComposerで叩く。この分業で開発速度が3倍は変わる。API料金はかかるが、ボイラープレートを書く時間を時給換算すれば余裕でペイできる。買う前にAPIチャージを忘れずに。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-09-16T23:04:06.172314+09:00",
+    "posted": false
   }
 ]
