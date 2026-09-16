@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-09-16-local-llm-ollama-python-setup-guide.jpg",
     "created_at": "2026-09-16T17:30:28.911359+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-16-local-llm-hardware-guide-hugging-bay",
+    "title": "ローカルLLM用PCの選び方比較：The Hugging Bay登場で加速する脱クラウド環境とRTX/Macおすすめ構成",
+    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-hugging-bay/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLMを仕事で使うなら、VRAM 16GBがもはや最低人権です。Hugging Faceの検閲リスクに備える「The Hugging Bay」の登場は、モデルをローカルに所有する重要性を示唆しています。RTX 4060 Ti 16GBなら10万円以下で買える。8GBを買って後悔する前に、VRAM容量だけは妥協せずに選ぶのが鉄則です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-16-local-llm-hardware-guide-hugging-bay.jpg",
+    "created_at": "2026-09-16T20:04:48.390667+09:00",
+    "posted": false
   }
 ]
