@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-16-mg1937-asc-android-decompiler-ai-agent-review",
-    "title": "MG1937/ASC 使い方：Android解析をAIエージェント化する最速のデコンパイラ",
-    "url": "https://ai.negi-lab.com/posts/mg1937-asc-android-decompiler-ai-agent-review/",
-    "category": "TOOL",
-    "viral_tags": "#Android解析 #AIエージェント",
-    "tweet_text": "Android解析の常識が変わる。Rust製デコンパイラ「ASC」が爆速すぎる。\nJadx比で数倍の速度、しかも出力がLLMフレンドリーな構造化データ。\n\n・Rust製でシングルバイナリ動作\n・JSON/YAMLで解析結果を抽出\n・AIエージェントの「目」として最適\n\n手動解析を卒業して、Androidアプリ診断を自動化したいならこれ一択。SSD性能が処理速度に直結するのでNVMe環境は必須。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-16-mg1937-asc-android-decompiler-ai-agent-review.jpg",
-    "created_at": "2026-09-16T13:28:45.754639+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-16-local-llm-ollama-python-setup-guide",
     "title": "RTX 5090を待たずに中古3090で最強のローカルLLM環境を構築する方法",
     "url": "https://ai.negi-lab.com/posts/local-llm-ollama-python-setup-guide/",
