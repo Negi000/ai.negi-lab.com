@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-09-17-appwrite-2-review-ai-agent-backend.jpg",
     "created_at": "2026-09-17T13:34:47.196084+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-17-ollama-openwebui-rag-tutorial-local-ai",
+    "title": "OllamaとOpen-WebUIで構築するローカルAI検索マシンの作り方",
+    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-rag-tutorial-local-ai/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #個人開発",
+    "tweet_text": "ローカルLLMを「動かして終わり」にするのはもったいない。RTX 3060（VRAM 12GB）1枚あれば、OllamaとOpen-WebUIを組み合わせて爆速のプライベートRAG環境が作れる。\n\n外部APIを一切介さないから、社外秘のPDFも未公開メモも投げ放題。この自由度は一度体験すると戻れない。Dockerコマンド1つでこの環境が手に入るのは、もはや魔法。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-17-ollama-openwebui-rag-tutorial-local-ai.jpg",
+    "created_at": "2026-09-17T17:35:27.252594+09:00",
+    "posted": false
   }
 ]
