@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-17-lectra-apogy-agentic-ai-fashion-development.jpg",
     "created_at": "2026-09-17T23:07:53.385652+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-18-local-llm-server-vram-128gb-guide",
+    "title": "ローカルLLM用サーバー選び方ガイド！VRAM 128GB構成からRTX 4090/Mac Studio比較まで",
+    "url": "https://ai.negi-lab.com/posts/local-llm-server-vram-128gb-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLM用にVRAM 128GB環境を45万円で組む夢。実務で選ぶならRTX 3090の複数枚挿しか、保守の手間を捨ててMac Studio 128GBに投資するのが正解。VRAM不足でモデルが動かない絶望を避けるには、まず「動かしたいモデルのパラメータ数×量子化ビット」から逆算する。電源容量とPCIeレーン数の確認は必須です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-18-local-llm-server-vram-128gb-guide.jpg",
+    "created_at": "2026-09-18T03:31:21.961702+09:00",
+    "posted": false
   }
 ]
