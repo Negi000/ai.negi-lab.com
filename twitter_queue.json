@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-17-ollama-openwebui-rag-tutorial-local-ai",
-    "title": "OllamaとOpen-WebUIで構築するローカルAI検索マシンの作り方",
-    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-rag-tutorial-local-ai/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #個人開発",
-    "tweet_text": "ローカルLLMを「動かして終わり」にするのはもったいない。RTX 3060（VRAM 12GB）1枚あれば、OllamaとOpen-WebUIを組み合わせて爆速のプライベートRAG環境が作れる。\n\n外部APIを一切介さないから、社外秘のPDFも未公開メモも投げ放題。この自由度は一度体験すると戻れない。Dockerコマンド1つでこの環境が手に入るのは、もはや魔法。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-17-ollama-openwebui-rag-tutorial-local-ai.jpg",
-    "created_at": "2026-09-17T17:35:27.252594+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-17-text-agent-store-sms-ai-review",
-    "title": "Text Agent Store 使い方と実用性レビュー",
-    "url": "https://ai.negi-lab.com/posts/text-agent-store-sms-ai-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIAgent #生産性向上",
-    "tweet_text": "AIエージェントを「電話番号」として登録するText Agent Storeが面白い。\nブラウザもアプリも不要、いつものSMSでメッセージを送るだけでGPT-4や専用AIが即答。\nログインの摩擦がゼロになるだけで、外出中の「ちょっとした確認」の頻度が劇的に変わる。\nただしSMS送信料には注意。リッチなUIより速さを求める人向けの割り切ったツール。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-17-text-agent-store-sms-ai-review.jpg",
-    "created_at": "2026-09-17T20:14:43.902039+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-17-lectra-apogy-agentic-ai-fashion-development",
     "title": "Lectra Apogyが変えるファッション開発。自律型エージェントAIの実力と実務への影響",
     "url": "https://ai.negi-lab.com/posts/lectra-apogy-agentic-ai-fashion-development/",
