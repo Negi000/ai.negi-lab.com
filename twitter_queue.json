@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-19-local-llm-mac-vs-rtx-buying-guide.jpg",
     "created_at": "2026-09-19T04:28:47.564927+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-19-python-qdrant-vector-database-guide",
+    "title": "Qdrant 使い方 Python ベクトルデータベース入門",
+    "url": "https://ai.negi-lab.com/posts/python-qdrant-vector-database-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#Qdrant #RAG",
+    "tweet_text": "ベクトルDB選定で迷うならQdrantが正解。Rust製の爆速レスポンスと、Dockerでの手軽なセルフホストが実務では強力。OpenAIのEmbedding APIと組み合わせれば、月額ほぼ無料で数千件の意味検索エンジンが完成する。SaaSの料金に怯える前に、まずはローカルでこの構成を試すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-19-python-qdrant-vector-database-guide.jpg",
+    "created_at": "2026-09-19T08:13:35.761806+09:00",
+    "posted": false
   }
 ]
