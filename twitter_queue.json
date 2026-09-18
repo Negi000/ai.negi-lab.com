@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-09-18-apple-silicon-mlx-local-llm-tutorial.jpg",
     "created_at": "2026-09-18T17:11:18.635822+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-18-m9r-multiplayer-ai-coding-agent-review",
+    "title": "M9R 使い方：AIエージェントが「共同作業」するためのマルチプレイヤー環境を構築する",
+    "url": "https://ai.negi-lab.com/posts/m9r-multiplayer-ai-coding-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #共同開発",
+    "tweet_text": "AIエージェント複数を同時に走らせる際の「競合問題」を解決するM9Rを検証。単一Agentの限界を超えて、フロント・バック・テスト担当のAIが同じサンドボックスで共同作業できる。100ファイル規模のリファクタリングで処理時間が65%短縮。WSL2やMacのDocker環境があれば3分で試せる。AIを「使う」から「組織する」への転換点になるツール。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-18-m9r-multiplayer-ai-coding-agent-review.jpg",
+    "created_at": "2026-09-18T19:47:30.721550+09:00",
+    "posted": false
   }
 ]
