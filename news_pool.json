@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "sizeless",
-      "url": "https://www.producthunt.com/products/sizeless",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Spatial AI for underground infrastructure </p> <p> <a href=\"https://www.producthunt.com/products/sizeless?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1246922?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-11T16:59:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Design Studio by Monday Merch",
-      "url": "https://www.producthunt.com/products/design-studio-by-monday-merch",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A browser canvas to design merch with over 1.000+ products </p> <p> <a href=\"https://www.producthunt.com/products/design-studio-by-monday-merch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1246789?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-11T16:59:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Moji",
-      "url": "https://www.producthunt.com/products/moji-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open Markdown files like PDFs. </p> <p> <a href=\"https://www.producthunt.com/products/moji-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1247185?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-11T16:59:07"
-    },
-    {
       "source": "HN AI Hot",
       "title": "The Gemini app is now available for Windows",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
@@ -2095,21 +2050,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "arnegiacomo/fugleramme",
-      "url": "https://github.com/arnegiacomo/fugleramme",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.",
-      "extra": {
-        "stars_today": "712 stars today"
-      },
-      "collected_at": "2026-09-17T20:14:13"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "onyx-dot-app/onyx",
       "url": "https://github.com/onyx-dot-app/onyx",
       "primary_category": "TOOL",
@@ -2424,7 +2364,96 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-18T13:19:12"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "Thu, 17 Sep 2026 21:48:38 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-18T17:10:44"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Ternary Bonsai 2 (27B) just released on Hugging Face. At <6GB in size, it can even run locally in-browser on WebGPU.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj6c4l/ternary_bonsai_2_27b_just_released_on_hugging/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-09-17T21:05:48+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wj6c4l/ternary_bonsai_2_27b_just_released_on_hugging/\"> <img alt=\"Ternary Bonsai 2 (27B) just released on Hugging Face. At &lt;6GB in size, it can even run locally in-browser on WebGPU.\" src=\"https://external-preview.redd.it/anl5bGRiY2VpNHFoMcHQBj9sRv79S69RJPJhnukJChD-jMXuXDCCIm0Y2tGS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=19a4affbe2ffdcf985b56ed50d3f562325a2259a\" title=\"Ternary Bonsai 2 (27B) just released on Hugg",
+      "extra": {},
+      "collected_at": "2026-09-18T17:10:45"
+    },
+    {
+      "source": "Google News",
+      "title": "Introducing Sakana AI's Frontier Intelligence Group (FIG) - Sakana AI",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvUVNHVnBhYmRQc1lZcFpwSkdDQ0Y3aFlzbEcydjNDM1VCTTktZjlfd3hwYWJ0YXNTRVlzVEc5ajEwWWlJbU9feEpwMDFYMzlnQ004SkxZQ2lQdw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 17 Sep 2026 15:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvUVNHVnBhYmRQc1lZcFpwSkdDQ0Y3aFlzbEcydjNDM1VCTTktZjlfd3hwYWJ0YXNTRVlzVEc5ajEwWWlJbU9feEpwMDFYMzlnQ004SkxZQ2lQdw?oc=5\" target=\"_blank\">Introducing Sakana AI's Frontier Intelligence Group (FIG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sakana AI</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-18T17:10:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Nepotism Network",
+      "url": "https://www.producthunt.com/products/nepo-network",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Great things start by knowing friend of a friend of a friend </p> <p> <a href=\"https://www.producthunt.com/products/nepo-network?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1251773?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-18T17:10:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Dictation API by AssemblyAI",
+      "url": "https://www.producthunt.com/products/assemblyai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Add fast, accurate dictation with a single line API call </p> <p> <a href=\"https://www.producthunt.com/products/assemblyai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1247191?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-18T17:10:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Makersclaw 2.0",
+      "url": "https://www.producthunt.com/products/makersclaw",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The operating system for a company run by agents </p> <p> <a href=\"https://www.producthunt.com/products/makersclaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1252237?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-09-18T17:10:53"
     }
   ],
-  "updated_at": "2026-09-18T13:19:16.013281+09:00"
+  "updated_at": "2026-09-18T17:10:56.422504+09:00"
 }
