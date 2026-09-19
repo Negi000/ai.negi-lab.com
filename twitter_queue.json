@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-09-19-llamacpp-gguf-setup-guide-python.jpg",
     "created_at": "2026-09-19T16:59:03.924120+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-19-python-bazi-skill-fortune-engine-review",
+    "title": "bazi-skill 使い方とPythonによる四柱八字ロジック実装の徹底レビュー",
+    "url": "https://ai.negi-lab.com/posts/python-bazi-skill-fortune-engine-review/",
+    "category": "TOOL",
+    "viral_tags": "#個人開発 #Python",
+    "tweet_text": "Pythonで四柱推命ロジックを組むならbazi-skillが現実解。節入り時刻を考慮した八字算出から五行バランスの定量化まで、わずか数行で完結する。0.02秒で計算が終わる爆速仕様。鑑定文をLLMに生成させるAI占いサービスのバックエンドに最適だ。ただし用語が中国語/英語メインなのでマッピング実装は必須。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-19-python-bazi-skill-fortune-engine-review.jpg",
+    "created_at": "2026-09-19T19:31:45.221426+09:00",
+    "posted": false
   }
 ]
