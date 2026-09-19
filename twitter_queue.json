@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-09-20T02:25:58.900532+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-20-tensorrt-llm-rtx-gpu-selection-guide",
+    "title": "ローカルLLMを爆速化するTensorRT-LLM導入ガイド！RTX 4090かMacか？失敗しない選び方",
+    "url": "https://ai.negi-lab.com/posts/tensorrt-llm-rtx-gpu-selection-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "ローカルLLM推論を爆速化するTensorRT-LLM、実務で使うならRTX 4090一択。VRAM 24GBあればLlama-3-70Bの4bit運用も現実的。Macの統一メモリも魅力だが、秒間トークン数とFP8量子化の恩恵はNVIDIAが圧倒的。16GB以下のVRAMはもはや「人権」がない。買う前に電源容量とケースサイズを確認しないと詰みます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-09-20T04:11:48.913167+09:00",
+    "posted": false
   }
 ]
