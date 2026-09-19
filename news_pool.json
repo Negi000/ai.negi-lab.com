@@ -1,37 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "FrameSketch",
-      "url": "https://www.producthunt.com/products/framesketch",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Scrub vids frame-by-frame and sketch on them at 60fps </p> <p> <a href=\"https://www.producthunt.com/products/framesketch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1246593?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-12T21:38:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "QApilot MCP for Android",
-      "url": "https://www.producthunt.com/products/qapilot",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Android app testing inside your coding agent </p> <p> <a href=\"https://www.producthunt.com/products/qapilot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1239880?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-09-12T21:38:07"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
@@ -1945,21 +1914,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "jinchenma94/bazi-skill",
-      "url": "https://github.com/jinchenma94/bazi-skill",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "四柱八字命理分析",
-      "extra": {
-        "stars_today": "25 stars today"
-      },
-      "collected_at": "2026-09-18T19:47:04"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "bobeff/open-source-games",
       "url": "https://github.com/bobeff/open-source-games",
       "primary_category": "TOOL",
@@ -2536,7 +2490,69 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-19T19:31:17"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Get your documents ready for gen AI",
+      "extra": {
+        "stars_today": "94 stars today"
+      },
+      "collected_at": "2026-09-19T21:53:22"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "NVIDIA/TensorRT-LLM",
+      "url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "extra": {
+        "stars_today": "16 stars today"
+      },
+      "collected_at": "2026-09-19T21:53:22"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "openai/openai-python",
+      "url": "https://github.com/openai/openai-python",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The official Python library for the OpenAI API",
+      "extra": {
+        "stars_today": "12 stars today"
+      },
+      "collected_at": "2026-09-19T21:53:22"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Bolt Forge",
+      "url": "https://www.producthunt.com/products/bolt-new",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Bolt's new agent with open-source models and 50X usage </p> <p> <a href=\"https://www.producthunt.com/products/bolt-new?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1252832?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-09-19T21:53:23"
     }
   ],
-  "updated_at": "2026-09-19T19:31:20.790626+09:00"
+  "updated_at": "2026-09-19T21:53:27.247347+09:00"
 }
