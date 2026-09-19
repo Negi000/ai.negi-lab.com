@@ -2360,22 +2360,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "NVIDIA/TensorRT-LLM",
-      "url": "https://github.com/NVIDIA/TensorRT-LLM",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
-      "extra": {
-        "stars_today": "16 stars today"
-      },
-      "collected_at": "2026-09-19T21:53:22"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "openai/openai-python",
       "url": "https://github.com/openai/openai-python",
       "primary_category": "TOOL",
@@ -2505,7 +2489,76 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-20T04:11:19"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "OpenAI and Anthropic oversold AI security breaches",
+      "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 19 Sep 2026 19:59:28 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-20T07:54:34"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+      "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 19 Sep 2026 18:36:44 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-20T07:54:34"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sat, 19 Sep 2026 18:21:30 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-20T07:54:34"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 19 Sep 2026 20:39:13 +0000",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-20T07:54:36"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Doneit 3.2",
+      "url": "https://www.producthunt.com/products/doneit",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Reimagined Doneit Assist, support for Siri AI, and more </p> <p> <a href=\"https://www.producthunt.com/products/doneit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1249894?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-20T07:54:36"
     }
   ],
-  "updated_at": "2026-09-20T04:11:23.472843+09:00"
+  "updated_at": "2026-09-20T07:54:40.047559+09:00"
 }
