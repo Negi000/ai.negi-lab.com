@@ -1,64 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 12 Sep 2026 20:19:16 +0000",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "extra": {
-        "revenue_score": -4
-      },
-      "collected_at": "2026-09-13T07:58:11"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Qwen3.8 Flash Next llama.cpp config tuning",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we6tau/qwen38_flash_next_llamacpp_config_tuning/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-09-12T08:18:04+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1we6tau/qwen38_flash_next_llamacpp_config_tuning/\"> <img alt=\"Qwen3.8 Flash Next llama.cpp config tuning\" src=\"https://preview.redd.it/n8ofcc8qr1ph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f04107230d0db21e698d6bb705098f544cad8fd9\" title=\"Qwen3.8 Flash Next llama.cpp config tuning\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hola all.</p> <p>Do you guys mind sharing your LLama.cpp config and system setup detai",
-      "extra": {},
-      "collected_at": "2026-09-13T13:25:19"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "What TTS models do you recommend as today?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wceiz6/what_tts_models_do_you_recommend_as_today/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-09-10T09:46:36+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Trying to get Hermes a local, efficient, tts voice. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JLeonsarmiento\"> /u/JLeonsarmiento </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wceiz6/what_tts_models_do_you_recommend_as_today/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wceiz6/what_tts_models_do_you_recommend_as_today/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-09-13T13:25:19"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "I trained an audio model that can generate infinite one-shots for music production and turn text prompts into fully playable synths. I'm not only releasing the model but I've also released a video on exactly how I did it (and the inferencing pipeline to let others make text based synths.)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbtqt7/i_trained_an_audio_model_that_can_generate/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-09-09T18:24:19+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wbtqt7/i_trained_an_audio_model_that_can_generate/\"> <img alt=\"I trained an audio model that can generate infinite one-shots for music production and turn text prompts into fully playable synths. I'm not only releasing the model but I've also released a video on exactly how I did it (and the inferencing pipeline to let others make text based synths.)\" src=\"https://external-preview.redd.it/azNlOHRidWhlam9oMVvZgXiGqd_hyK3pgOGh",
-      "extra": {},
-      "collected_at": "2026-09-13T13:25:19"
-    },
-    {
       "source": "Product Hunt",
       "title": "Cognition's SWE-2",
       "url": "https://www.producthunt.com/products/cognition-s-swe-2",
@@ -2558,7 +2500,53 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-20T07:54:36"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Lumiko",
+      "url": "https://www.producthunt.com/products/lumiko",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Screen recordings that edit themselves with Auto Zoom-Pan </p> <p> <a href=\"https://www.producthunt.com/products/lumiko?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1249952?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-20T13:35:10"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "With Gemini 4, bench goes up.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkxx8e/with_gemini_4_bench_goes_up/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-09-19T21:18:19+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wkxx8e/with_gemini_4_bench_goes_up/\"> <img alt=\"With Gemini 4, bench goes up.\" src=\"https://preview.redd.it/bggvjg6xmjqh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=28688ffaaca2c001f9c0494cb64284e7af185bc6\" title=\"With Gemini 4, bench goes up.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>They claimed open-weight models are dangerous but the benchmarks say otherwise.</strong></p> <p><a href=\"https://www.",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-09-20T13:35:11"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Radeon RX 10800 XT can outperform the RTX 5090 by 15-25% in 4K gaming and local AI",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl1hlj/radeon_rx_10800_xt_can_outperform_the_rtx_5090_by/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "2026-09-19T23:54:03+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://en.gamegpu.com/news/zhelezo/radeon-rx-10800-xt-mozhet-obojti-rtx-5090-na-15-25-v-igrakh-v-v-4k-i-lokalnom-ii\">https://en.gamegpu.com/news/zhelezo/radeon-rx-10800-xt-mozhet-obojti-rtx-5090-na-15-25-v-igrakh-v-v-4k-i-lokalnom-ii</a></p> <p>The more competition, the better!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lumpy_Phase_9539\"> /u/Lumpy_Phase_9539 </a> <br /> <span><a href=\"https://en.gamegpu.com/n",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-09-20T13:35:11"
     }
   ],
-  "updated_at": "2026-09-20T07:54:40.047559+09:00"
+  "updated_at": "2026-09-20T13:35:11.385879+09:00"
 }
