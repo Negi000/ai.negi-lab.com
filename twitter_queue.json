@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-09-20T13:37:08.985934+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-20-radeon-rocm-ollama-local-llm-guide",
+    "title": "RadeonでローカルLLMを動かすROCm環境構築とAPIサーバー作成",
+    "url": "https://ai.negi-lab.com/posts/radeon-rocm-ollama-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Radeon",
+    "tweet_text": "Radeon RX 10800 XTがRTX 5090をAI性能で凌駕するとの噂。でもAMDでLLMを動かすのはNVIDIAより難易度が高いのが現実。実務で使えるレベルにするなら、ROCm＋Docker＋Ollamaの構成が鉄板です。VRAM 24GBを15万円台で確保できるRadeonを、今すぐAIサーバー化する最短手順をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-09-20T17:31:28.604321+09:00",
+    "posted": false
   }
 ]
