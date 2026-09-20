@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-09-21-qwen-image-2-1-local-llm-gpu-guide.jpg",
     "created_at": "2026-09-21T04:17:35.550661+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-21-ollama-openwebui-local-llm-tutorial",
+    "title": "OllamaとOpen WebUIでChatGPT風のローカルLLM環境を作る方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLMを「動かしてみた」で終わらせるのは勿体ない。OllamaとOpen WebUIをDockerで繋げば、業務で即戦力になる秘匿RAG環境が30分で作れます。VRAM 12GBあればLlama 3.1がサクサク。機密情報をChatGPTに投げられないストレスから解放されましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-21-ollama-openwebui-local-llm-tutorial.jpg",
+    "created_at": "2026-09-21T08:10:46.168225+09:00",
+    "posted": false
   }
 ]
