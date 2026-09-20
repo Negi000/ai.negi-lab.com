@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-19-ternary-bonsai-2-local-llm-gpu-guide",
-    "title": "27Bが6GBで動く？Ternary Bonsai 2登場で変わるローカルLLM用PCの選び方と比較",
-    "url": "https://ai.negi-lab.com/posts/ternary-bonsai-2-local-llm-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX",
-    "tweet_text": "27Bモデルが6GB未満で動く「Ternary Bonsai 2」が登場。VRAM 8GBの格安PCやブラウザだけで巨大モデルが動く時代になりました。ただし、三値量子化による精度劣化は無視できません。実務で「使える」PC構成の境界線はどこにあるのか？RTX 4060 Ti 16GBからMacの統一メモリまで、失敗しない選び方をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-19-ternary-bonsai-2-local-llm-gpu-guide.jpg",
-    "created_at": "2026-09-19T02:51:04.980921+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-19-local-llm-mac-vs-rtx-buying-guide",
-    "title": "ローカルLLM向けMac miniとRTXの選び方｜8GBメモリで27Bモデルを動かす設定と失敗しない実務環境",
-    "url": "https://ai.negi-lab.com/posts/local-llm-mac-vs-rtx-buying-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "8GBのM2 Mac miniで27Bモデルが7.6 tok/sで動く。衝撃的な実機検証ですが、実務で使うなら「動く」の先を見るべき。\nメモリ不足によるカーネルパニックやSSDへのスワップ負荷を考えると、仕事用は24GB以上が最低ライン。\n安く済ませるならMac mini、Python実務ならRTX 4060 Ti 16GB。失敗しない選び方をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-19-local-llm-mac-vs-rtx-buying-guide.jpg",
-    "created_at": "2026-09-19T04:28:47.564927+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-19-python-qdrant-vector-database-guide",
     "title": "Qdrant 使い方 Python ベクトルデータベース入門",
     "url": "https://ai.negi-lab.com/posts/python-qdrant-vector-database-guide/",
