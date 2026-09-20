@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Kirokune",
-      "url": "https://www.producthunt.com/products/kirokune",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Keep work incident notes on your iPhone, without an account </p> <p> <a href=\"https://www.producthunt.com/products/kirokune?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1247126?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-14T04:13:13"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "What’s behind the AI industry’s latest warnings of doom?",
       "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
@@ -1092,22 +1077,6 @@
         "revenue_score": 6
       },
       "collected_at": "2026-09-17T17:34:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "I literally built the Jev architecture one year back and completely open-sourced it with model, dataset and paper",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-09-17T04:18:15+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Everyone now talks about the architecture that's not auto regressive and does lightning fast probability prediction with a json schema. I worked on this literally one year back in March 2025, published an arxiv paper, pushed the model to huggingface along with the pypi package and training dataset. And then one year later, a</p> <p>frontier lab came, proposing the same idea like literal breakthrough without technical papers, open weights and no open dataset. I p",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-09-17T17:35:02"
     },
     {
       "source": "r/LocalLLaMA",
@@ -2550,7 +2519,48 @@
       "summary": "",
       "extra": {},
       "collected_at": "2026-09-21T02:38:42"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Show HN: Radius – A Meetup.com Alternative",
+      "url": "https://radius.to/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 20 Sep 2026 16:51:26 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-21T04:17:02"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Sun, 20 Sep 2026 13:09:25 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-21T04:17:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Is the AI industry really ready to slow down?",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 20 Sep 2026 18:56:04 +0000",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-21T04:17:04"
     }
   ],
-  "updated_at": "2026-09-21T02:38:47.047529+09:00"
+  "updated_at": "2026-09-21T04:17:08.828261+09:00"
 }
