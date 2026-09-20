@@ -15247,5 +15247,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-09-20T17:31:28.604321+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-20-paperless-ngx-review-and-setup-guide",
+    "title": "paperless-ngx 使い方と実機レビュー",
+    "url": "https://ai.negi-lab.com/posts/paperless-ngx-review-and-setup-guide/",
+    "category": "TOOL",
+    "viral_tags": "#自作サーバー #業務効率化",
+    "tweet_text": "紙書類やPDFを放り込むだけで、OCR解析からタグ付けまで自動化する「paperless-ngx」が実用的。\nDockerで1発起動、正規表現やMLでの自動分類が強力で、自前サーバー派ならNotionから乗り換える価値あり。\n日本語OCRは環境変数設定が肝。月額課金なしで数千枚の書類を全文検索可能な資産に変える、エンジニア向けドキュメント管理の決定版。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-09-20T19:54:59.881939+09:00",
+    "posted": false
   }
 ]
