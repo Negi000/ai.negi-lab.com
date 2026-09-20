@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-19-llamacpp-gguf-setup-guide-python",
-    "title": "llama.cppとGGUFでローカルLLMを爆速にする環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-setup-guide-python/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "VRAM 8GBのPCが最強のAIサーバーに変わる。llama.cppとGGUFを使えば、Llama 3が1秒間に50トークン以上の爆速で動く。API代を気にせず、プライバシーを保ったまま実務に投入できる。MacならMetal、WindowsならCUDA。この設定一つで「動かない」が「仕事で使える」に進化します。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-19-llamacpp-gguf-setup-guide-python.jpg",
-    "created_at": "2026-09-19T16:59:03.924120+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-19-python-bazi-skill-fortune-engine-review",
-    "title": "bazi-skill 使い方とPythonによる四柱八字ロジック実装の徹底レビュー",
-    "url": "https://ai.negi-lab.com/posts/python-bazi-skill-fortune-engine-review/",
-    "category": "TOOL",
-    "viral_tags": "#個人開発 #Python",
-    "tweet_text": "Pythonで四柱推命ロジックを組むならbazi-skillが現実解。節入り時刻を考慮した八字算出から五行バランスの定量化まで、わずか数行で完結する。0.02秒で計算が終わる爆速仕様。鑑定文をLLMに生成させるAI占いサービスのバックエンドに最適だ。ただし用語が中国語/英語メインなのでマッピング実装は必須。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-19-python-bazi-skill-fortune-engine-review.jpg",
-    "created_at": "2026-09-19T19:31:45.221426+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-19-india-forces-truecaller-spam-data-sharing",
     "title": "Truecallerのデータ独占に終止符か。インド政府が命じたスパム通報の通信キャリア共有義務化",
     "url": "https://ai.negi-lab.com/posts/india-forces-truecaller-spam-data-sharing/",
