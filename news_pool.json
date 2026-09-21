@@ -2,90 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Claude is a Contrarian",
-      "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 14 Sep 2026 16:14:24 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-15T05:45:22"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Mon, 14 Sep 2026 12:01:32 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-15T05:45:22"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "url": "https://github.com/anuj0456/OpenArch",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 14 Sep 2026 07:55:19 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-15T05:45:22"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Mon, 14 Sep 2026 20:44:14 +0000",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-15T05:45:31"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Afterglow",
-      "url": "https://www.producthunt.com/products/afterglow-4",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Run classic After Dark screen savers on modern macOS </p> <p> <a href=\"https://www.producthunt.com/products/afterglow-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1246217?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-15T05:45:31"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Elva",
-      "url": "https://www.producthunt.com/products/elva",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Goodbye, Postman. Your APIs have new consumers </p> <p> <a href=\"https://www.producthunt.com/products/elva?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1243798?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-15T05:45:31"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
       "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
       "primary_category": "NEWS",
@@ -2301,22 +2217,6 @@
       "collected_at": "2026-09-21T04:17:04"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Qwen-Image-2.1 released!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-09-20T13:12:41+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/\"> <img alt=\"Qwen-Image-2.1 released!\" src=\"https://preview.redd.it/p1a5g5x9doqh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=257099f472f2689a17ca5478f1181b8f4197c39c\" title=\"Qwen-Image-2.1 released!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Meet Qwen-Image-2.1, the most balanced and cost-effective image generation model in the Qwen-Image series! Now open weights! 🎨</p> <p>A unified",
-      "extra": {},
-      "collected_at": "2026-09-21T08:10:18"
-    },
-    {
       "source": "Product Hunt",
       "title": "Mycel",
       "url": "https://www.producthunt.com/products/mycel",
@@ -2697,7 +2597,53 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-22T04:42:26"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 21 Sep 2026 20:15:58 +0000",
+      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-22T05:48:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AI Creative Insights by Decode",
+      "url": "https://www.producthunt.com/products/decode-by-entropik",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Predict which ad wins before you spend on media </p> <p> <a href=\"https://www.producthunt.com/products/decode-by-entropik?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1252057?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-22T05:48:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Refoid",
+      "url": "https://www.producthunt.com/products/refoid-decline-unreasonable-refunds",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Automate App Store refund responses and track every outcome </p> <p> <a href=\"https://www.producthunt.com/products/refoid-decline-unreasonable-refunds?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1252511?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-09-22T05:48:16"
     }
   ],
-  "updated_at": "2026-09-22T04:42:29.469528+09:00"
+  "updated_at": "2026-09-22T05:48:19.703625+09:00"
 }
