@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-09-21-claude-code-cursor-ai-workflow-guide.jpg",
     "created_at": "2026-09-21T17:51:00.520900+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-21-mvt-mobile-verification-toolkit-forensics-review",
+    "title": "mvt 使い方 モバイルデバイスの不審な痕跡を特定するフォレンジック手法",
+    "url": "https://ai.negi-lab.com/posts/mvt-mobile-verification-toolkit-forensics-review/",
+    "category": "TOOL",
+    "viral_tags": "#モバイルセキュリティ #サイバーセキュリティ",
+    "tweet_text": "iPhoneが高度なスパイウェア「Pegasus」に感染しているか、自前で調査できる時代。MVT（Mobile Verification Toolkit）は、バックアップ内のSQLiteを直接解析して攻撃の痕跡を炙り出す。\n\nGUIなし、Python必須のプロ用ツールだけど、既知のドメインリストと照合して「WARNING」が出る瞬間の緊張感は別格。自分の身は自分で守りたいエンジニア向けのデジタル鑑識官、検証しました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-21-mvt-mobile-verification-toolkit-forensics-review.jpg",
+    "created_at": "2026-09-21T21:21:00.603153+09:00",
+    "posted": false
   }
 ]
