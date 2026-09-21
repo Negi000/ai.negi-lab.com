@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-20-python-ollama-local-rag-tutorial",
-    "title": "PythonとOllamaで実用的なローカルRAGシステムを構築する方法",
-    "url": "https://ai.negi-lab.com/posts/python-ollama-local-rag-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Python",
-    "tweet_text": "ローカルLLMでRAGを構築するなら、APIに頼る前にまずPythonとOllamaで自作すべき。VRAM 12GBあれば機密情報を一切外に出さない完全オフラインの検索システムが数十分で完成する。\nポイントはchunk_sizeの調整とtemperature=0の徹底。実務で「使える」かどうかの差はここに出る。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-09-20T07:55:05.994744+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-20-docling-pdf-to-markdown-rag-review",
     "title": "doclingでPDFの構造を維持したままMarkdown変換を行う方法",
     "url": "https://ai.negi-lab.com/posts/docling-pdf-to-markdown-rag-review/",
