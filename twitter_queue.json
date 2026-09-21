@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-20-docling-pdf-to-markdown-rag-review",
-    "title": "doclingでPDFの構造を維持したままMarkdown変換を行う方法",
-    "url": "https://ai.negi-lab.com/posts/docling-pdf-to-markdown-rag-review/",
-    "category": "TOOL",
-    "viral_tags": "#RAG #Python",
-    "tweet_text": "PDFの表組みが崩れてRAGの精度が出ない問題、IBMのdoclingで解決する。RTX 4090環境なら1ページ0.4秒。\n構造を維持したままMarkdown化できるから、セルの結合も階層構造もLLMが正しく理解できる形式に。\n有料SaaSのLlamaParseに近い精度をローカル・商用無料ライセンスで回せるのが強すぎる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-09-20T13:37:08.985934+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-20-radeon-rocm-ollama-local-llm-guide",
     "title": "RadeonでローカルLLMを動かすROCm環境構築とAPIサーバー作成",
     "url": "https://ai.negi-lab.com/posts/radeon-rocm-ollama-local-llm-guide/",
