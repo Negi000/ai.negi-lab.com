@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-20-claude-code-agents-md-hardware-guide",
-    "title": "Claude Code / Cursor本格導入に向けたPC・GPU選びと比較｜AGENTS.md対応で見えた開発環境の最適解",
-    "url": "https://ai.negi-lab.com/posts/claude-code-agents-md-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ClaudeCode #ローカルLLM",
-    "tweet_text": "Claude CodeがAGENTS.mdを優先参照。AIは「ツール」から「自走するエージェント」へ。\nこの波に乗るならMacはメモリ32GB、PCはVRAM 16GBが最低ラインです。\n8GB環境でAPI代を溶かすより、VRAM重視のハード投資が結局安上がり。\n16GB版RTX 4060 Tiや型落ちMac Studioが今、最も賢い選択肢になります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-09-20T02:25:58.900532+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-20-tensorrt-llm-rtx-gpu-selection-guide",
-    "title": "ローカルLLMを爆速化するTensorRT-LLM導入ガイド！RTX 4090かMacか？失敗しない選び方",
-    "url": "https://ai.negi-lab.com/posts/tensorrt-llm-rtx-gpu-selection-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLM推論を爆速化するTensorRT-LLM、実務で使うならRTX 4090一択。VRAM 24GBあればLlama-3-70Bの4bit運用も現実的。Macの統一メモリも魅力だが、秒間トークン数とFP8量子化の恩恵はNVIDIAが圧倒的。16GB以下のVRAMはもはや「人権」がない。買う前に電源容量とケースサイズを確認しないと詰みます。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-09-20T04:11:48.913167+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-20-python-ollama-local-rag-tutorial",
     "title": "PythonとOllamaで実用的なローカルRAGシステムを構築する方法",
     "url": "https://ai.negi-lab.com/posts/python-ollama-local-rag-tutorial/",
