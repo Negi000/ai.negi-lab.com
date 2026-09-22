@@ -762,22 +762,6 @@
       "collected_at": "2026-09-17T17:34:58"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "I literally built the Jev architecture one year back and completely open-sourced it with model, dataset and paper",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wihgum/i_literally_built_the_jev_architecture_one_year/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-09-17T02:31:04+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Everyone now talks about the architecture that's not auto regressive and does lightning fast probability prediction with a json schema. I worked on this literally one year back in March 2025, published an arxiv paper, pushed the model to huggingface along with the pypi package and training dataset. And then one year later, a</p> <p>frontier lab came, proposing the same idea like literal breakthrough without technical papers, open weights and no open dataset. I p",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-09-17T17:35:02"
-    },
-    {
       "source": "GitHub Trending",
       "title": "onyx-dot-app/onyx",
       "url": "https://github.com/onyx-dot-app/onyx",
@@ -2643,7 +2627,38 @@
         "revenue_score": 3
       },
       "collected_at": "2026-09-22T05:48:16"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 21 Sep 2026 23:44:28 +0000",
+      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-22T09:01:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "PostSider",
+      "url": "https://www.producthunt.com/products/postsider",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Social media scheduling platform for humans and agents </p> <p> <a href=\"https://www.producthunt.com/products/postsider?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1253812?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-09-22T09:01:47"
     }
   ],
-  "updated_at": "2026-09-22T05:48:19.703625+09:00"
+  "updated_at": "2026-09-22T09:01:50.362222+09:00"
 }
