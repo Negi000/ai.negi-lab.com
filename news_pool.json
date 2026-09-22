@@ -1,82 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Quick update: LST is now live on the Chrome Web Store",
-      "url": "https://www.reddit.com/r/ollama/comments/1wgx90h/quick_update_lst_is_now_live_on_the_chrome_web/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-09-15T11:05:07+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Small update from my post a few days ago — <strong>LST — Local Subtitle Translate</strong> is now live on the Chrome Web Store.</p> <p>Chrome:<br /> <a href=\"https://chromewebstore.google.com/detail/lst-%E2%80%94-local-subtitle-tran/hfncilnklfikagkcgkanimojjmflfohm\">https://chromewebstore.google.com/detail/lst-%E2%80%94-local-subtitle-tran/hfncilnklfikagkcgkanimojjmflfohm</a></p> <p>It still uses Ollama to translate Netflix subtitles locally, with realtime trans",
-      "extra": {},
-      "collected_at": "2026-09-16T01:38:01"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Ollama Pro enough for Kimi K3/GLM 5.3/Qwen 3.8 Max as reviewer?",
-      "url": "https://www.reddit.com/r/ollama/comments/1wh17b8/ollama_pro_enough_for_kimi_k3glm_53qwen_38_max_as/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-09-15T13:59:52+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Does Ollama Pro provide enough usage to have Kimi K3 act as a planner/conversational code reviewer? Or even GLM 5.3?</p> <p>I'm thinking of using them to plan, while Deepseek v4.1/GLM 5.3 Flash as the subagents/coding models.</p> <p>I probably won't be using them as planners or reviewers everyday, as I'll be iterating with the coding models most days anyways.</p> <p>Would it be more worth it to get Ollama Pro, Qwen Token Pro Plan or, GLM coding pro plan?</p> </d",
-      "extra": {},
-      "collected_at": "2026-09-16T01:38:01"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 15 Sep 2026 15:47:03 +0000",
-      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-16T01:38:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "is.team",
-      "url": "https://www.producthunt.com/products/is-team",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your AI agent joins the board like a teammate </p> <p> <a href=\"https://www.producthunt.com/products/is-team?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1115300?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-09-16T01:38:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Mac Duo",
-      "url": "https://www.producthunt.com/products/mac-duo",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn your display into frosted glass as you close the lid </p> <p> <a href=\"https://www.producthunt.com/products/mac-duo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1250781?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-16T01:38:03"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
@@ -2789,7 +2713,94 @@
         "revenue_score": 2
       },
       "collected_at": "2026-09-23T01:38:01"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Moving from cash to credit cards, PayPal, etc. is an ongoing privacy disaster",
+      "url": "https://grapheneos.social/@GrapheneOS/117249893761790371",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 22 Sep 2026 17:12:09 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-23T05:01:19"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 22 Sep 2026 16:51:31 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-23T05:01:19"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 22 Sep 2026 19:09:11 +0000",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-23T05:01:20"
+    },
+    {
+      "source": "Google News",
+      "title": "トランプ氏、米政府文書でAIを「スーパー・インテリジェンス」に改称 - Yellow.com",
+      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOVldtNnlqa1lBcEw5TU9VVnlNSDVNQ2JyUUNkTEpnbng3U2ZjVW8tY1ppMTZzTTk2TlpqZ0stV0JTdVdYaWNEeVZGejJMbG44eEdrclB6VDh5UWZmek54aWkxZ1VoZUR5eUUxZTNxbS1GTkhmWGhsRWFpQ3h3VFlkZ3RTRFV2c0hqUE9qNkhnT0k3Yk1Vay15bkZyb2xwXzFPRlBRZEp4MEJaaXdJQVlqeEozR09maVd3WjFVSUVZbkNnUkpYVkROUW9CcEtMNVcxbzFvZGFvVS1OUV9Dd1ZQdVlFWTdfWmROTTdYWW1CQnBzME12SlNiSzgtYy1sNlR3YzFYRGhDRXpmaXZXRXVubWJoSEJ3UU5aNml2bmlsOWdUVUdfdWh6amVtZVFxaVVXRk8tejhyOC1oeGQ3bEpOSThUTjdfZFlSRmx5RC1JdHFxOUhWb0cyTnBoZVh6d2Y2M2dmUldQUWU4cFFabm1SaDgzQWN1bHNFT2djVEdrUURYWWstRkVacjlGaE83N2NMbk1Wcl9zcWxXLXJjRVpGcm1XS0VPaUd6ZmxaLTdEeXk1Zk9xQWZr?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 22 Sep 2026 19:06:11 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwNBVV95cUxOVldtNnlqa1lBcEw5TU9VVnlNSDVNQ2JyUUNkTEpnbng3U2ZjVW8tY1ppMTZzTTk2TlpqZ0stV0JTdVdYaWNEeVZGejJMbG44eEdrclB6VDh5UWZmek54aWkxZ1VoZUR5eUUxZTNxbS1GTkhmWGhsRWFpQ3h3VFlkZ3RTRFV2c0hqUE9qNkhnT0k3Yk1Vay15bkZyb2xwXzFPRlBRZEp4MEJaaXdJQVlqeEozR09maVd3WjFVSUVZbkNnUkpYVkROUW9CcEtMNVcxbzFvZGFvVS1OUV9Dd1ZQdVlFWTdfWmROTTdYWW1CQnBzME12SlNiSzgtYy1sNlR3YzFYRGhDRXpmaXZXRXVubWJoSEJ3UU5aNml2bmlsOWdUVUdfdWh6amVtZVFxaVVXRk8tejhyOC1oeGQ3bEpOSThUTjdfZFlSRmx5RC1JdH",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-23T05:01:20"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Clueso MCP",
+      "url": "https://www.producthunt.com/products/clueso",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create and edit videos by chatting </p> <p> <a href=\"https://www.producthunt.com/products/clueso?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1252189?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-23T05:01:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Prowler Cloud",
+      "url": "https://www.producthunt.com/products/prowler",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Where your AI agent becomes a cloud security defender </p> <p> <a href=\"https://www.producthunt.com/products/prowler?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1253740?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-09-23T05:01:21"
     }
   ],
-  "updated_at": "2026-09-23T01:38:01.620323+09:00"
+  "updated_at": "2026-09-23T05:01:24.166129+09:00"
 }
