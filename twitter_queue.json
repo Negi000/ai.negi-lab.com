@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-21-local-llm-gpu-comparison-rtx-4090-mac-studio",
-    "title": "ローカルLLM推論機おすすめ比較！RTX 4090 vs Mac Studio 買う前に知るべきJev型高速推論の現実",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-comparison-rtx-4090-mac-studio/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLM推論を高速化するJev等の非自己回帰型アーキテクチャが話題ですが、実務で使うなら結局「VRAM容量」が全てです。RTX 4090の24GBがあればQwen 32Bクラスも快適ですが、12GB以下だとAgentを回した瞬間にOOMで死にます。今買うならRTX 4060 Ti 16GBが最低ライン。妥協は失敗の元です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-21-local-llm-gpu-comparison-rtx-4090-mac-studio.jpg",
-    "created_at": "2026-09-21T02:39:15.536782+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-21-qwen-image-2-1-local-llm-gpu-guide",
-    "title": "Qwen Image 2.1比較と選び方｜ローカルLLMで画像解析を極めるためのRTX・Mac構成ガイド",
-    "url": "https://ai.negi-lab.com/posts/qwen-image-2-1-local-llm-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "Qwen Image 2.1をローカルで動かすなら、VRAM 16GBが最低ライン。実務で図面やUI解析をするなら24GBのRTX 4090か、統一メモリ64GB以上のMacを選ばないと高解像度画像で詰まる。7Bモデルの進化が凄まじく、APIコストを気にせずドキュメント解析できる環境は、今やエンジニアにとって最強の武器になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-21-qwen-image-2-1-local-llm-gpu-guide.jpg",
-    "created_at": "2026-09-21T04:17:35.550661+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-21-ollama-openwebui-local-llm-tutorial",
     "title": "OllamaとOpen WebUIでChatGPT風のローカルLLM環境を作る方法",
     "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-tutorial/",
