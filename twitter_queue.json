@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-09-22-llamacpp-gguf-local-llm-guide.jpg",
     "created_at": "2026-09-22T17:28:07.048220+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-22-treg-ai-agent-tool-registry-review",
+    "title": "treg 使い方とAIエージェントのツール管理を統一する実務的メリット",
+    "url": "https://ai.negi-lab.com/posts/treg-ai-agent-tool-registry-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #個人開発",
+    "tweet_text": "AIエージェント開発で一番面倒な「モデルごとのツール定義の書き分け」を解消するtregが熱い。OpenRouterのツール版。一度の定義でGPT-4o、Claude 3.5、Llama 3の仕様差分をプロキシ側で吸収。APIキーも集約できるから、エージェント側のコードが劇的に綺麗になる。マルチモデル運用なら必須級。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-22-treg-ai-agent-tool-registry-review.jpg",
+    "created_at": "2026-09-22T20:11:43.630283+09:00",
+    "posted": false
   }
 ]
