@@ -1,82 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "TPS Slowdown on Cloud",
-      "url": "https://www.reddit.com/r/ollama/comments/1whz0fu/tps_slowdown_on_cloud/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-09-16T14:35:41+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Has anyone noticed severe slowdown of TPS using exact same settings compared to a few weeks prior? Models I've seen affected are GLM 5.3, GLM 5.3 Flash, Deepseek 4 Flash 0731, and Kimi K3. Full-turn TPS average reported by opencode is 58 on GLM 5.3. Response is fine at ~330, but that's just final output. Mid-turn thinking is especially slow and &quot;chunky&quot;, doing 2-3 lines -&gt; waiting -&gt; 2-3 lines. </p> <p>Same project flow that would get a template ",
-      "extra": {},
-      "collected_at": "2026-09-17T01:31:02"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Testing Qwen 3.8 27B running locally on a single 5090 via Ollama",
-      "url": "https://www.reddit.com/r/ollama/comments/1whtu01/testing_qwen_38_27b_running_locally_on_a_single/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-09-16T10:52:17+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1whtu01/testing_qwen_38_27b_running_locally_on_a_single/\"> <img alt=\"Testing Qwen 3.8 27B running locally on a single 5090 via Ollama\" src=\"https://external-preview.redd.it/ZW8zdnVtbmg0dnBoMb0K1HcLak6vTnudcTw6EClmUPnEmnaBGaQtH_ZzRt-4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0f7f5365d22a55ed5026abbd02bae58bc0a26c3\" title=\"Testing Qwen 3.8 27B running locally on a single 5090 via Ollama\" /> </a> </td><td> <!-- SC_OFF --><d",
-      "extra": {},
-      "collected_at": "2026-09-17T01:31:02"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Trying to use local models with Agent Zero",
-      "url": "https://www.reddit.com/r/ollama/comments/1wi000j/trying_to_use_local_models_with_agent_zero/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-09-16T15:12:15+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to use Agent Zero with</p> <p>Embedding model <code>text-embedding-nomic-embed-text-v1.5 on LM Studio on the mac</code></p> <p>2 local models on my DGX Spark (qwen in vLLM and nenotron in ollama)</p> <table><thead> <tr> <th align=\"left\">Thinker / planner</th> <th align=\"left\"><code>qwen3.6-35b-a3b</code></th> <th align=\"left\">8000</th> </tr> </thead><tbody> <tr> <td align=\"left\">Fast util / executer</td> <td align=\"left\"><code>nemotron-3.5-lightning-",
-      "extra": {},
-      "collected_at": "2026-09-17T01:31:02"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Wed, 16 Sep 2026 15:00:00 +0000",
-      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-09-17T01:31:03"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Your AI agents can now control your Google Home devices",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "Wed, 16 Sep 2026 17:00:00 +0000",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-      "extra": {
-        "revenue_score": 8
-      },
-      "collected_at": "2026-09-17T03:23:21"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
       "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
@@ -2771,7 +2695,93 @@
         "revenue_score": 3
       },
       "collected_at": "2026-09-23T23:05:33"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Stripe's Knowledge AI Platform",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Wed, 23 Sep 2026 13:38:00 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-24T03:35:41"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+      "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 23 Sep 2026 12:32:00 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-24T03:35:41"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "The Download: why AI's latest breakthroughs and fears may be more hype than rea",
+      "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 23 Sep 2026 11:01:50 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-24T03:35:41"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "Wed, 23 Sep 2026 17:00:00 +0000",
+      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-09-24T03:35:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "RankControl",
+      "url": "https://www.producthunt.com/products/rankcontrol",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Get Cited by ChatGPT & Ranked on Google </p> <p> <a href=\"https://www.producthunt.com/products/rankcontrol?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1212061?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-24T03:35:49"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Koreshield",
+      "url": "https://www.producthunt.com/products/koreshield",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Security and evidence for AI support agents </p> <p> <a href=\"https://www.producthunt.com/products/koreshield?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1258208?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-09-24T03:35:49"
     }
   ],
-  "updated_at": "2026-09-23T23:05:36.940606+09:00"
+  "updated_at": "2026-09-24T03:35:52.273040+09:00"
 }
