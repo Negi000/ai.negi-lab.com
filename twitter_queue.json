@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-22-ai-agent-secure-sandbox-docker-python-guide",
-    "title": "DockerとPythonでAIエージェントの安全なサンドボックスを構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ai-agent-secure-sandbox-docker-python-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#AIエージェント #Docker",
-    "tweet_text": "AIエージェントにコード実行を任せるなら、サンドボックス構築は必須。exec()で直叩きするのは、全財産を泥棒に預けるようなものです。Dockerを使ってネットワーク遮断、メモリ512MB制限、CPU0.5コア制限をかけるのが実務の鉄則。30分で構築できるPython隔離環境の作り方を実機検証ベースでまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-22-ai-agent-secure-sandbox-docker-python-guide.jpg",
-    "created_at": "2026-09-22T09:02:14.667165+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-22-autoclip-ai-video-highlight-automation-review",
     "title": "autoclip 使い方 | AIで動画ハイライトを自動抽出・編集",
     "url": "https://ai.negi-lab.com/posts/autoclip-ai-video-highlight-automation-review/",
