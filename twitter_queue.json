@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-22-local-llm-pc-selection-jev-vram-guide",
-    "title": "ローカルLLM用PCの選び方比較：Jev型構造と構造化出力で変わるVRAM投資基準",
-    "url": "https://ai.negi-lab.com/posts/local-llm-pc-selection-jev-vram-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLM用PC選びでVRAM 8GB/12GBを選ぶのは、仕事効率を下げる「失敗」になりかねない。Jevのような次世代アーキテクチャの登場で、構造化出力の速度基準が激変している。今買うならRTX 4060 Ti 16GBが最低ライン。推論速度0.5秒を切る快感を知ると、もうクラウドAPIの待ち時間には戻れない。購入前に見るべきVRAM投資の判断基準をまとめた。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-22-local-llm-pc-selection-jev-vram-guide.jpg",
-    "created_at": "2026-09-22T05:48:45.940911+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-22-ai-agent-secure-sandbox-docker-python-guide",
     "title": "DockerとPythonでAIエージェントの安全なサンドボックスを構築する方法",
     "url": "https://ai.negi-lab.com/posts/ai-agent-secure-sandbox-docker-python-guide/",
