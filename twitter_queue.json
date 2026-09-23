@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-09-24-local-llm-gpu-buying-guide-rtx-mac.jpg",
     "created_at": "2026-09-24T03:36:16.357215+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-24-vscode-ssh-local-llm-pc-guide",
+    "title": "ローカルLLM開発PCのおすすめ比較！VSCode SSHの罠と後悔しないGPU・メモリの選び方",
+    "url": "https://ai.negi-lab.com/posts/vscode-ssh-local-llm-pc-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #エンジニア",
+    "tweet_text": "VSCode Remote-SSHの挙動リスクが話題ですが、AI開発を快適にするなら「ローカル環境のVRAM」への投資が結局一番コスパが良い。VRAM 8GBで妥協するとCursorやClaude Codeの真価を発揮できず、時間を溶かします。WindowsならRTX 4060 Ti 16GB、Macならメモリ32GB以上が2025年の最低ライン。買う前にここだけは譲らないで。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-24-vscode-ssh-local-llm-pc-guide.jpg",
+    "created_at": "2026-09-24T08:37:09.114152+09:00",
+    "posted": false
   }
 ]
