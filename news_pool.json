@@ -2,21 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 16 Sep 2026 21:07:24 +0000",
-      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-09-17T08:37:47"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
       "primary_category": "NEWS",
@@ -2751,19 +2736,6 @@
     },
     {
       "source": "HN AI Companies",
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Wed, 23 Sep 2026 21:01:48 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-24T08:36:19"
-    },
-    {
-      "source": "HN AI Companies",
       "title": "Cloud Agents Are Inevitable AI Prisons",
       "url": "https://normanponte.io/19df691f",
       "primary_category": "NEWS",
@@ -2819,7 +2791,105 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-24T08:36:28"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "url": "https://artificialanalysis.ai/models/mercury-2-5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 23 Sep 2026 22:16:19 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-24T13:22:10"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude's Load-Bearing Seams",
+      "url": "https://madradavid.com/claudes-load-bearing-seams/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 23 Sep 2026 21:31:04 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-24T13:22:10"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Once Claude can measure something, it can make it faster",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 23 Sep 2026 19:23:40 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-24T13:22:10"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Mods: can we do something about half the forum getting filled with these advertising posts for Jev?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-09-23T13:54:12+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Jev is a paid product that dumped a lot of venture capitol money into shill their product here and in other subreddits. Obvious shill posts are obvious. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Acrobatic_Stress1388\"> /u/Acrobatic_Stress1388 </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum/\">[link]</a></span> &#32; <span><a href=\"https://www",
+      "extra": {},
+      "collected_at": "2026-09-24T13:22:11"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Thu, 24 Sep 2026 01:13:32 +0000",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-09-24T13:22:12"
+    },
+    {
+      "source": "Google News",
+      "title": "AIは「SI」に改称、トランプ大統領が宣言「フェイクに聞こえる」（朝日新聞） - news.yahoo.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tS3VxNGtQUlgxWTZuQkJuQmlSYUVzTW5NS3BpbHdvSlRQS0JvaXJtR0JMSVlvak0wdmlLS3JvcnlRR1p3NW1lSnFTd21uLW50WmQ0eC1ZN09jWkxNN3JFNXFqVk11YU5LcVhBUGI0MS1UM1g0bWg0OFFtZFd3Y2M?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 22 Sep 2026 18:54:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0tS3VxNGtQUlgxWTZuQkJuQmlSYUVzTW5NS3BpbHdvSlRQS0JvaXJtR0JMSVlvak0wdmlLS3JvcnlRR1p3NW1lSnFTd21uLW50WmQ0eC1ZN09jWkxNN3JFNXFqVk11YU5LcVhBUGI0MS1UM1g0bWg0OFFtZFd3Y2M?oc=5\" target=\"_blank\">AIは「SI」に改称、トランプ大統領が宣言「フェイクに聞こえる」（朝日新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.yahoo.co.jp</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-24T13:22:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Linguo Translate",
+      "url": "https://www.producthunt.com/products/linguo-translate-for-macos",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Offline & AI Translation for macOS </p> <p> <a href=\"https://www.producthunt.com/products/linguo-translate-for-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1257418?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-24T13:22:13"
     }
   ],
-  "updated_at": "2026-09-24T08:36:31.771313+09:00"
+  "updated_at": "2026-09-24T13:22:16.965354+09:00"
 }
