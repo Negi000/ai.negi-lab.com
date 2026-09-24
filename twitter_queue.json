@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-09-24-noan-ai-agent-fact-layer-review.jpg",
     "created_at": "2026-09-24T20:20:51.094205+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-24-ollama-open-webui-local-llm-setup-guide",
+    "title": "OllamaとOpen WebUIで最強のローカルLLM環境を作る方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLM環境をOllama + Open WebUIで構築。VRAM 12GBあればLlama 3.1が秒速で返ってくる。\nクラウドへの情報漏洩リスクをゼロにできるのはデカい。\n単なるチャットじゃなく、標準のRAG機能でPDF読み込ませて社内文書検索に使えるのが実務的な強み。\nRTX 3060/4060 Tiあたりが検証用にはコスパ最強の投資になる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-24-ollama-open-webui-local-llm-setup-guide.jpg",
+    "created_at": "2026-09-24T23:02:55.056689+09:00",
+    "posted": false
   }
 ]
