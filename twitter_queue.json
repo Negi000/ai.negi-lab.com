@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-23-qwen-4-local-llm-hardware-guide",
-    "title": "Qwen 4発表でローカルLLMの基準が変わる！失敗しないGPUとMacの選び方比較",
-    "url": "https://ai.negi-lab.com/posts/qwen-4-local-llm-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #Qwen4",
-    "tweet_text": "Qwen 4発表でローカルLLMの勢力図が激変。実務で使うならVRAM 8GBはもう「卒業」です。最低でもRTX 4060 Ti 16GB、理想は4090かMacのメモリ64GB以上。Qwenの推論能力をフルに活かすならコンテキスト維持のためのメモリ確保が勝負。失敗しないハード選びの基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-23-qwen-4-local-llm-hardware-guide.jpg",
-    "created_at": "2026-09-23T05:01:49.013861+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-23-alibaba-medical-ai-local-gpu-guide",
     "title": "ローカルLLMで医療AIを動かす：Alibabaの癌検知モデルを検証するためのGPU・Mac選び方",
     "url": "https://ai.negi-lab.com/posts/alibaba-medical-ai-local-gpu-guide/",
