@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-09-24-agentscore-latitude-ai-agent-evaluation-review.jpg",
     "created_at": "2026-09-24T13:22:42.079572+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-24-llamaindex-rag-local-search-tutorial",
+    "title": "PythonでRAGパイプラインを自作する方法",
+    "url": "https://ai.negi-lab.com/posts/llamaindex-rag-local-search-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#LlamaIndex #RAG",
+    "tweet_text": "RAG実装はLlamaIndexを使えば10分で動くが、実務で使える精度にするには「チャンク分割」と「プロンプト制御」の泥臭い調整が8割。OpenAI APIのtext-embedding-3-smallは100万トークン$0.02と爆安なので、ケチらずに使うのが正解。機密情報はRTX 3060以上のVRAM 12GB環境を組んでOllamaで回すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-24-llamaindex-rag-local-search-tutorial.jpg",
+    "created_at": "2026-09-24T17:22:50.260937+09:00",
+    "posted": false
   }
 ]
