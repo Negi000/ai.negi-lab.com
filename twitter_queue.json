@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-09-24-llamaindex-rag-local-search-tutorial.jpg",
     "created_at": "2026-09-24T17:22:50.260937+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-24-noan-ai-agent-fact-layer-review",
+    "title": "NOAN AIエージェントに正確な知識を与えるファクトレイヤーの使い方とレビュー",
+    "url": "https://ai.negi-lab.com/posts/noan-ai-agent-fact-layer-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIAgent #RAG",
+    "tweet_text": "RAGの精度限界に悩む開発者はNOANを試すべき。単なるベクトル検索ではなく、AIエージェント専用の「ファクトレイヤー」を構築できる。\nNotionやSlackと同期して情報を構造化、ハルシネーションを物理的に抑え込む設計。\n検証した結果、0.5秒以内のレスポンスで鮮度の高い事実を抽出可能。複数エージェント運用で知識を共有させるならこれが最適解。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-24-noan-ai-agent-fact-layer-review.jpg",
+    "created_at": "2026-09-24T20:20:51.094205+09:00",
+    "posted": false
   }
 ]
