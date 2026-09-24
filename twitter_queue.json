@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-23-mlx-apple-silicon-local-llm-tutorial",
-    "title": "Apple SiliconでローカルLLMを最速稼働させるMLX導入ガイド",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "Apple Siliconのメモリ効率を最大化するMLXを試した。RTX 4090使いから見ても、Macのユニファイドメモリを活かした4-bit量子化モデルの推論は速い。Llama 3が秒間100トークン近くで回る快感。API課金も外部送信もなし。AI開発を加速させるならMac Studio 64GBモデルが中古でも買いの一択です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-23-mlx-apple-silicon-local-llm-tutorial.jpg",
-    "created_at": "2026-09-23T17:29:54.387705+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-23-harness-sdk-ai-agent-sandbox-review",
-    "title": "harness-sdk レビュー：本番用AIエージェントの制御を標準化する",
-    "url": "https://ai.negi-lab.com/posts/harness-sdk-ai-agent-sandbox-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIAgent #Python",
-    "tweet_text": "AIエージェントを「本番で動かす怖さ」を解消するharness-sdkが実務的で良い。推論ロジックと実行環境を完全に分離し、Docker等のサンドボックスで安全に制御。\nLangChain不問、Python/TS両対応。プロトタイプは卒業して「安全に壊れない」仕組みを作りたい開発者は今すぐ触るべき。月$20のAPI代を溶かす前にこの防壁を。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-23-harness-sdk-ai-agent-sandbox-review.jpg",
-    "created_at": "2026-09-23T20:02:29.862246+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-23-apple-silicon-mlx-local-llm-tutorial",
     "title": "Apple Silicon MacでMLXを使いローカルLLMを動かす方法",
     "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
