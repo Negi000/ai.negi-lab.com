@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Sider Omni Sidebar",
-      "url": "https://www.producthunt.com/products/sider-omni",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Give every Mac app an Agent Sidebar </p> <p> <a href=\"https://www.producthunt.com/products/sider-omni?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1252242?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-09-18T22:24:43"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "GameToMac",
-      "url": "https://www.producthunt.com/products/gametomac",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Play Windows games on Mac with AI-powered compatibility </p> <p> <a href=\"https://www.producthunt.com/products/gametomac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1252513?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-18T22:24:43"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Ari by Ariso",
-      "url": "https://www.producthunt.com/products/ariso",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI bar raiser for the most ambitious teams </p> <p> <a href=\"https://www.producthunt.com/products/ariso?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1250743?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-18T22:24:43"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
@@ -2349,22 +2303,6 @@
       "collected_at": "2026-09-24T17:22:18"
     },
     {
-      "source": "GitHub Trending",
-      "title": "NVIDIA/Model-Optimizer",
-      "url": "https://github.com/NVIDIA/Model-Optimizer",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
-      "extra": {
-        "stars_today": "22 stars today"
-      },
-      "collected_at": "2026-09-24T20:20:22"
-    },
-    {
       "source": "Product Hunt",
       "title": "Opaline",
       "url": "https://www.producthunt.com/products/rudel",
@@ -2895,7 +2833,37 @@
         "revenue_score": 5
       },
       "collected_at": "2026-09-25T20:26:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "derv82/wifit3",
+      "url": "https://github.com/derv82/wifit3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Wifite but USB-only & cross-platform.",
+      "extra": {
+        "stars_today": "168 stars today"
+      },
+      "collected_at": "2026-09-25T23:26:22"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 25 Sep 2026 14:15:00 +0000",
+      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-25T23:26:22"
     }
   ],
-  "updated_at": "2026-09-25T20:26:01.344215+09:00"
+  "updated_at": "2026-09-25T23:26:26.572028+09:00"
 }
