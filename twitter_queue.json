@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-09-25-mlx-apple-silicon-local-llm-tutorial.jpg",
     "created_at": "2026-09-25T17:44:46.934902+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-25-nvidia-model-optimizer-review-quantization",
+    "title": "NVIDIA/Model-Optimizer 使い方と推論コストを最小化する最適化手法の導入",
+    "url": "https://ai.negi-lab.com/posts/nvidia-model-optimizer-review-quantization/",
+    "category": "TOOL",
+    "viral_tags": "#ローカルLLM #NVIDIA",
+    "tweet_text": "NVIDIA製GPUの性能を限界まで引き出す「Model-Optimizer」が実務で手放せない。\n量子化、枝刈り、蒸留を1つのAPIで完結。RTX 4090/H100ならFP8量子化で精度を維持しつつ推論速度を2倍、VRAMを半分に。\nTensorRT-LLMへの書き出しもシームレス。\n検証レベルではなく、本番の運用コストを本気で削りたいエンジニアは今すぐ触るべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-25-nvidia-model-optimizer-review-quantization.jpg",
+    "created_at": "2026-09-25T20:26:28.251802+09:00",
+    "posted": false
   }
 ]
