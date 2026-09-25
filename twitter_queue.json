@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-23-apple-silicon-mlx-local-llm-tutorial",
-    "title": "Apple Silicon MacでMLXを使いローカルLLMを動かす方法",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Silicon Macの真価はMLXにある。PyTorch対比で推論速度が最大2倍近く変わる実機検証の結果、メモリ24GB以上のM系チップなら9BクラスのLLMが爆速で動く。ローカルLLMは「動くか」ではなく「仕事で使えるか」が基準。環境構築からストリーミング実装まで、Pythonで完結する最短ルートをまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-23-apple-silicon-mlx-local-llm-tutorial.jpg",
-    "created_at": "2026-09-23T23:07:32.085117+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-24-local-llm-gpu-buying-guide-rtx-mac",
     "title": "ローカルLLM環境の選び方とおすすめ比較！RTX 4090かMacか？規制に負けない最強開発環境の作り方",
     "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-rtx-mac/",
