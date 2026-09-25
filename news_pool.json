@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Fri, 18 Sep 2026 18:49:30 +0000",
-      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-19T04:27:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Notch Design",
-      "url": "https://www.producthunt.com/products/notch-design-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Give your notch a personality </p> <p> <a href=\"https://www.producthunt.com/products/notch-design-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1254314?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-19T04:27:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Poke Battle Announcer",
-      "url": "https://www.producthunt.com/products/poke-battle-announcer",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Give your Pokémon Champions battles a live announcer </p> <p> <a href=\"https://www.producthunt.com/products/poke-battle-announcer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1251702?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-19T04:27:03"
-    },
-    {
       "source": "HN AI Coding",
       "title": "Anthropic finally adds AGENTS.md support to Claude Code",
       "url": "https://twitter.com/trq212/status/2101009392611278961",
@@ -2807,19 +2761,6 @@
       "collected_at": "2026-09-26T01:55:03"
     },
     {
-      "source": "HN AI Hot",
-      "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
-      "url": "https://github.com/Avinash-jetwani/jevmem",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 25 Sep 2026 16:04:04 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-26T03:51:20"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
       "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
@@ -2833,7 +2774,92 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-26T03:51:21"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Yes, Claude can do nine loops",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 25 Sep 2026 18:11:48 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-26T05:18:37"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Show HN: Agentic CUDA Kernel Optimizer",
+      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Fri, 25 Sep 2026 10:32:58 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-26T05:18:37"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Jev Based Code Review",
+      "url": "https://github.com/egma-ai/jev-code-reviewer",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "Fri, 25 Sep 2026 04:49:23 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-26T05:18:37"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 25 Sep 2026 19:13:38 +0000",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-26T05:18:40"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GitHub statistics · Velocity Radar",
+      "url": "https://www.producthunt.com/products/github-statistics-velocity-radar",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Real GitHub momentum, including private repos & AI agents </p> <p> <a href=\"https://www.producthunt.com/products/github-statistics-velocity-radar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1260000?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-09-26T05:18:40"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AgreeGuard",
+      "url": "https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI reads the fine print before you click \"I Agree\" </p> <p> <a href=\"https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1258558?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-26T05:18:40"
     }
   ],
-  "updated_at": "2026-09-26T03:51:25.923245+09:00"
+  "updated_at": "2026-09-26T05:18:44.172940+09:00"
 }
