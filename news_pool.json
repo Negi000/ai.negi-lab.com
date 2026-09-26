@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sat, 19 Sep 2026 17:30:00 +0000",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-20T04:11:19"
-    },
-    {
       "source": "HN AI Companies",
       "title": "OpenAI and Anthropic oversold AI security breaches",
       "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
@@ -2739,19 +2724,6 @@
       "collected_at": "2026-09-27T01:06:06"
     },
     {
-      "source": "HN AI Hot",
-      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Sat, 26 Sep 2026 13:05:36 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-27T02:58:41"
-    },
-    {
       "source": "Product Hunt",
       "title": "SOUND",
       "url": "https://www.producthunt.com/products/sound",
@@ -2765,7 +2737,20 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-27T02:58:44"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Sat, 26 Sep 2026 15:34:53 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-27T04:32:30"
     }
   ],
-  "updated_at": "2026-09-27T02:58:47.524197+09:00"
+  "updated_at": "2026-09-27T04:32:36.344108+09:00"
 }
