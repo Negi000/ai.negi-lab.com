@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-25-hindsight-ai-agent-memory-learning-review",
-    "title": "hindsight レビュー 失敗から学ぶAIエージェントの長期記憶",
-    "url": "https://ai.negi-lab.com/posts/hindsight-ai-agent-memory-learning-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #Python",
-    "tweet_text": "AIエージェントに「失敗から学ぶ能力」を後付けできるhindsightが凄い。\n一度起きたエラーや非効率な手順をLLMが自己批判して、次回の実行時には「教訓」としてプロンプトに自動反映。\nGitHubで1,600スター超えも納得。\nLangChain等の会話保持とは次元が違う「プロセスの記憶」。\nRTX 4090環境でローカルLLMと組めば、最強の自律型エージェントが作れる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-09-25T13:34:27.311929+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-25-mlx-apple-silicon-local-llm-tutorial",
     "title": "MLX 使い方 入門 Apple Silicon MacでローカルLLMを高速動作させる方法",
     "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
