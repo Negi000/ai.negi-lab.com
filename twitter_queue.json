@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-25-mlx-apple-silicon-local-llm-tutorial",
-    "title": "MLX 使い方 入門 Apple Silicon MacでローカルLLMを高速動作させる方法",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Siliconの力を引き出すならMLX一択。M2 Max環境でLlama 3 8Bを動かすと、秒間50トークンを超える爆速レスポンスが手に入ります。PyTorchのMPSより断然速い。メモリ32GB以上のMacなら、月額$20を払わずともローカルで快適な開発環境が構築できます。エンジニアなら一度は自機で回すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-25-mlx-apple-silicon-local-llm-tutorial.jpg",
-    "created_at": "2026-09-25T17:44:46.934902+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-25-nvidia-model-optimizer-review-quantization",
-    "title": "NVIDIA/Model-Optimizer 使い方と推論コストを最小化する最適化手法の導入",
-    "url": "https://ai.negi-lab.com/posts/nvidia-model-optimizer-review-quantization/",
-    "category": "TOOL",
-    "viral_tags": "#ローカルLLM #NVIDIA",
-    "tweet_text": "NVIDIA製GPUの性能を限界まで引き出す「Model-Optimizer」が実務で手放せない。\n量子化、枝刈り、蒸留を1つのAPIで完結。RTX 4090/H100ならFP8量子化で精度を維持しつつ推論速度を2倍、VRAMを半分に。\nTensorRT-LLMへの書き出しもシームレス。\n検証レベルではなく、本番の運用コストを本気で削りたいエンジニアは今すぐ触るべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-25-nvidia-model-optimizer-review-quantization.jpg",
-    "created_at": "2026-09-25T20:26:28.251802+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-25-llamacpp-gguf-beginner-guide-python",
     "title": "llama.cppとGGUF量子化の使い方：低スペックPCでLLMを動かす完全ガイド",
     "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-beginner-guide-python/",
