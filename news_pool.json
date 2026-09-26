@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "OpenAI and Anthropic oversold AI security breaches",
-      "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 19 Sep 2026 19:59:28 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-20T07:54:34"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
-      "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 19 Sep 2026 18:36:44 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-20T07:54:34"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sat, 19 Sep 2026 18:21:30 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-20T07:54:34"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 19 Sep 2026 20:39:13 +0000",
-      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-20T07:54:36"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Doneit 3.2",
-      "url": "https://www.producthunt.com/products/doneit",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Reimagined Doneit Assist, support for Siri AI, and more </p> <p> <a href=\"https://www.producthunt.com/products/doneit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1249894?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-20T07:54:36"
-    },
-    {
       "source": "Product Hunt",
       "title": "Lumiko",
       "url": "https://www.producthunt.com/products/lumiko",
@@ -83,21 +14,6 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-20T13:35:10"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "With Gemini 4, bench goes up.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wkxx8e/with_gemini_4_bench_goes_up/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-09-19T21:18:19+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wkxx8e/with_gemini_4_bench_goes_up/\"> <img alt=\"With Gemini 4, bench goes up.\" src=\"https://preview.redd.it/bggvjg6xmjqh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=28688ffaaca2c001f9c0494cb64284e7af185bc6\" title=\"With Gemini 4, bench goes up.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>They claimed open-weight models are dangerous but the benchmarks say otherwise.</strong></p> <p><a href=\"https://www.",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-09-20T13:35:11"
     },
     {
       "source": "Product Hunt",
@@ -2750,7 +2666,37 @@
       "summary": "",
       "extra": {},
       "collected_at": "2026-09-27T04:32:30"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Jev isn't new tech. Its marketing targets people who think AI started with LLMs.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woe70t/jev_isnt_new_tech_its_marketing_targets_people/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-09-23T18:33:21+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I keep seeing Jev presented as some new class of decision model, but most of what’s being advertised is just normal classifier behavior with modern zero-shot capabilities.</p> <p>It outputs probabilities over constrained choices, doesn’t generate autoregressively, can’t output an invalid class, and can use labels defined at inference time. None of that is new. Zero-shot/NLI classifiers, embedding models, cross-encoders and rerankers have been doing variations of",
+      "extra": {},
+      "collected_at": "2026-09-27T08:31:14"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sat, 26 Sep 2026 21:02:06 +0000",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-27T08:31:15"
     }
   ],
-  "updated_at": "2026-09-27T04:32:36.344108+09:00"
+  "updated_at": "2026-09-27T08:31:20.541918+09:00"
 }
