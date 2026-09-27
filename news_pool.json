@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "Show HN: Radius – A Meetup.com Alternative",
-      "url": "https://radius.to/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 20 Sep 2026 16:51:26 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-21T04:17:02"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Is the AI industry really ready to slow down?",
-      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 20 Sep 2026 18:56:04 +0000",
-      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-21T04:17:04"
-    },
-    {
       "source": "Product Hunt",
       "title": "Mycel",
       "url": "https://www.producthunt.com/products/mycel",
@@ -2397,21 +2369,6 @@
       "collected_at": "2026-09-27T04:32:30"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Jev isn't new tech. Its marketing targets people who think AI started with LLMs.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woe70t/jev_isnt_new_tech_its_marketing_targets_people/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-09-23T18:33:21+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I keep seeing Jev presented as some new class of decision model, but most of what’s being advertised is just normal classifier behavior with modern zero-shot capabilities.</p> <p>It outputs probabilities over constrained choices, doesn’t generate autoregressively, can’t output an invalid class, and can use labels defined at inference time. None of that is new. Zero-shot/NLI classifiers, embedding models, cross-encoders and rerankers have been doing variations of",
-      "extra": {},
-      "collected_at": "2026-09-27T08:31:14"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Insurers claim AI is already increasing healthcare costs",
       "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
@@ -2660,7 +2617,22 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-28T03:37:56"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 27 Sep 2026 19:57:30 +0000",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-28T04:58:36"
     }
   ],
-  "updated_at": "2026-09-28T03:37:59.575635+09:00"
+  "updated_at": "2026-09-28T04:58:40.739505+09:00"
 }
