@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-09-27-cuey-llm-comparison-review-efficiency.jpg",
     "created_at": "2026-09-27T18:11:15.185108+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-27-local-llm-evaluation-harness-qwen-tutorial",
+    "title": "Qwen 2.5 Coderで実務用ローカルLLM評価環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/local-llm-evaluation-harness-qwen-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "ローカルLLMを「動かして満足」していませんか？実務で使うなら、自分のタスクで「正解率」と「速度」を数値化する評価ハーネスが不可欠です。RTX 3090/4090環境なら、Qwen2.5-CoderがGPT-4にどこまで迫れるか、30分で計測できるスクリプトを公開しました。モデルの良し悪しを感覚ではなく、自分のデータによる数字で判断しましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-27-local-llm-evaluation-harness-qwen-tutorial.jpg",
+    "created_at": "2026-09-27T20:40:30.839373+09:00",
+    "posted": false
   }
 ]
