@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Mycel",
-      "url": "https://www.producthunt.com/products/mycel",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Bring one past deliverable. Mycel drafts every future one. </p> <p> <a href=\"https://www.producthunt.com/products/mycel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1241715?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-21T13:32:13"
-    },
-    {
       "source": "HN AI Companies",
       "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
       "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
@@ -259,22 +244,6 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-22T00:41:00"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Clarification on the Qwen-image-2.1 license",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wm4o8x/clarification_on_the_qwenimage21_license/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-09-21T06:17:43+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wm4o8x/clarification_on_the_qwenimage21_license/\"> <img alt=\"Clarification on the Qwen-image-2.1 license\" src=\"https://preview.redd.it/36k6lzy2gtqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=35bf4b0cbac45377ca1d6cc609d16098e89e05f6\" title=\"Clarification on the Qwen-image-2.1 license\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://x.com/QwenDevs/status/2101917379785838660\">https://x.com/QwenDevs/",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-09-22T00:41:01"
     },
     {
       "source": "r/LocalLLaMA",
@@ -2632,7 +2601,22 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-28T04:58:36"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 27 Sep 2026 20:34:28 +0000",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-09-28T13:58:23"
     }
   ],
-  "updated_at": "2026-09-28T04:58:40.739505+09:00"
+  "updated_at": "2026-09-28T13:58:27.511809+09:00"
 }
