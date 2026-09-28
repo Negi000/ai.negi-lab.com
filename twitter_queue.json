@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-27-llamacpp-gguf-quantization-tutorial-python",
-    "title": "llama.cppとGGUF量子化でローカルLLMを爆速動かす方法",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-quantization-tutorial-python/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "ローカルLLMを動かすならllama.cpp＋GGUFが鉄板。RTX 4060 Ti 16GBなら、Llama 3 8Bが秒間40トークン以上で爆走する。\n\n・VRAM不足もRAMオフロードで粘る安定感\n・Q4_K_M量子化なら精度劣化は最小限\n・OpenAI API互換でCursor等からも接続可能\n\n実務で「秘匿データを扱いたい」なら、まずはここから。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-27-llamacpp-gguf-quantization-tutorial-python.jpg",
-    "created_at": "2026-09-27T08:31:45.066129+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-27-eclatira-conversational-video-agent-review",
-    "title": "Eclatira レビュー 会話型ビデオAIを自社アプリへ統合する実用性",
-    "url": "https://ai.negi-lab.com/posts/eclatira-conversational-video-agent-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #Web開発",
-    "tweet_text": "動画を「リアルタイムに答えるAIボット」に変えるEclatiraを検証。\n従来の静的な動画とチャットボットの不満を、WebRTCストリーミングで解決する。\nSDKが優秀でReactなら数行で統合可能。応答も2秒以内。\n1分単位のコスト計算は必須だが、対面に近いUXが必要なBtoCサービスなら、今すぐ検討すべき選択肢。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-27-eclatira-conversational-video-agent-review.jpg",
-    "created_at": "2026-09-27T13:57:58.237484+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-27-cuey-llm-comparison-review-efficiency",
-    "title": "Cuey 使い方 レビュー：ChatGPT・Claude・Geminiを1画面で同時比較する効率化ツール",
-    "url": "https://ai.negi-lab.com/posts/cuey-llm-comparison-review-efficiency/",
-    "category": "TOOL",
-    "viral_tags": "#生成AI #業務効率化",
-    "tweet_text": "ChatGPT、Claude、Geminiを1画面で同時比較できる「Cuey」がプロンプトエンジニアリングの苦痛を消してくれる。\n\n3つのタブを往復してコピペする時間は、1回あたり40秒の損失。1日20回やるなら月7時間をドブに捨てているのと同じ。\n\n実務で「どのモデルが最適か」を即答したいなら、比較UIの導入は必須。APIキー管理と視認性のバランスが優秀。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-27-cuey-llm-comparison-review-efficiency.jpg",
-    "created_at": "2026-09-27T18:11:15.185108+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-27-local-llm-evaluation-harness-qwen-tutorial",
     "title": "Qwen 2.5 Coderで実務用ローカルLLM評価環境を構築する方法",
     "url": "https://ai.negi-lab.com/posts/local-llm-evaluation-harness-qwen-tutorial/",
