@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Anomalo",
-      "url": "https://www.producthunt.com/products/anomalo",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your data is always talking. Don't miss what it's saying. </p> <p> <a href=\"https://www.producthunt.com/products/anomalo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1246175?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-22T22:54:41"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Plane Agents",
-      "url": "https://www.producthunt.com/products/planehq",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Assign work to AI agents, like any teammate </p> <p> <a href=\"https://www.producthunt.com/products/planehq?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1257313?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-09-22T22:54:41"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Reeno",
-      "url": "https://www.producthunt.com/products/reeno",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI calls you randomly to practice speaking a new language </p> <p> <a href=\"https://www.producthunt.com/products/reeno?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1256727?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-22T22:54:41"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
@@ -2328,7 +2282,95 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-29T21:22:46"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude partial outage",
+      "url": "https://status.claude.com/incidents/4xvtc2gnq73l",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 29 Sep 2026 14:25:41 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-09-30T00:23:00"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-09-29T09:21:01+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is/\"> <img alt=\"Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.\" src=\"https://preview.redd.it/zgrwz1cyffsh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a19d5922434d3c77c558e5bfcc5704c3dee1f99e\" title=\"Looks like the era of subsidised compute is",
+      "extra": {},
+      "collected_at": "2026-09-30T00:23:00"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Tue, 29 Sep 2026 15:12:07 +0000",
+      "summary": "Instinct founder said that the platform is growing 10% day-by-day",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-30T00:23:02"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "LUCI Desktop",
+      "url": "https://www.producthunt.com/products/luci-desktop",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Let your AI agents remember what you've seen </p> <p> <a href=\"https://www.producthunt.com/products/luci-desktop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1255956?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-09-30T00:23:02"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GhostDeck",
+      "url": "https://www.producthunt.com/products/ghostdeck-retro-music-player",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Offline Mac music player with living low-poly worlds </p> <p> <a href=\"https://www.producthunt.com/products/ghostdeck-retro-music-player?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1263092?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-30T00:23:02"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Timeful",
+      "url": "https://www.producthunt.com/products/timeful",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Design web apps and sync with your own codebase </p> <p> <a href=\"https://www.producthunt.com/products/timeful?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1263469?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-30T00:23:02"
     }
   ],
-  "updated_at": "2026-09-29T21:22:50.054957+09:00"
+  "updated_at": "2026-09-30T00:23:06.217001+09:00"
 }
