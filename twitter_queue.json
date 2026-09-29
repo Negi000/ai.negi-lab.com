@@ -15205,5 +15205,19 @@
     "image_path": "/images/posts/2026-09-29-hexstrike-ai-mcp-pentest-hardware-guide.jpg",
     "created_at": "2026-09-29T07:26:15.327983+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-29-tensorfold-mlx-apple-silicon-review",
+    "title": "TensorFold Apple SiliconでMLXをOpenAI互換APIとして高速運用する",
+    "url": "https://ai.negi-lab.com/posts/tensorfold-mlx-apple-silicon-review/",
+    "category": "TOOL",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple Siliconの力を引き出すMLX推論を、OpenAI互換APIで即座に運用できるTensorFoldが熱い。M2 MaxでLlama 3が100 tok/sec超え。\n特筆すべきは「Exact decoding」。高速化で犠牲になりがちな推論精度を、Transformers実装に極限まで近づけている。\nMacを開発サーバーにするならOllamaよりこっち。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-29-tensorfold-mlx-apple-silicon-review.jpg",
+    "created_at": "2026-09-29T14:24:36.951603+09:00",
+    "posted": false
   }
 ]

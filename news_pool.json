@@ -1,65 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Mon, 21 Sep 2026 23:44:28 +0000",
-      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-22T09:01:46"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "PostSider",
-      "url": "https://www.producthunt.com/products/postsider",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Social media scheduling platform for humans and agents </p> <p> <a href=\"https://www.producthunt.com/products/postsider?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1253812?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-09-22T09:01:47"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Claude Status – Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 22 Sep 2026 01:05:19 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-22T13:28:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Sai",
-      "url": "https://www.producthunt.com/products/simular",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The autonomous computer fleet at your command </p> <p> <a href=\"https://www.producthunt.com/products/simular?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1255660?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-22T13:28:13"
-    },
-    {
       "source": "HN Local AI",
       "title": "Jev introduces a new shape of LLM",
       "url": "https://simonwillison.net/2026/Sep/21/jev/",
@@ -2307,22 +2248,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "0x4m4/hexstrike-ai",
-      "url": "https://github.com/0x4m4/hexstrike-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
-      "extra": {
-        "stars_today": "56 stars today"
-      },
-      "collected_at": "2026-09-29T07:25:17"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "ashhart/TensorFold",
       "url": "https://github.com/ashhart/TensorFold",
       "primary_category": "TOOL",
@@ -2398,7 +2323,52 @@
         "revenue_score": 6
       },
       "collected_at": "2026-09-29T07:25:17"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 29 Sep 2026 05:13:43 +0000",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-29T14:23:36"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "MuM",
+      "url": "https://www.producthunt.com/products/mum-multi-project-markdown",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A reading-first Markdown engine for macOS </p> <p> <a href=\"https://www.producthunt.com/products/mum-multi-project-markdown?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1263042?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-29T14:23:37"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Harness Router",
+      "url": "https://www.producthunt.com/products/harness-103",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Fast AI tool routing powered by Jev. </p> <p> <a href=\"https://www.producthunt.com/products/harness-103?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1262277?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-29T14:23:37"
     }
   ],
-  "updated_at": "2026-09-29T07:25:21.022410+09:00"
+  "updated_at": "2026-09-29T14:23:40.946812+09:00"
 }
