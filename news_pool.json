@@ -1,91 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "Jev introduces a new shape of LLM",
-      "url": "https://simonwillison.net/2026/Sep/21/jev/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 22 Sep 2026 04:38:31 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-22T17:27:26"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 22 Sep 2026 04:02:09 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-22T17:27:26"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Smart Ring Maker Oura, Backers Seek $2.2B in US IPO",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/smart-ring-maker-oura-backers-seek-2-2-billion-in-us-ipo",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 22 Sep 2026 02:53:48 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-22T17:27:26"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Keet",
-      "url": "https://www.producthunt.com/products/keet-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Learn Anything </p> <p> <a href=\"https://www.producthunt.com/products/keet-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1255502?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-22T17:27:35"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Grok 4.7",
-      "url": "https://www.producthunt.com/products/grok-4-7-8",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> SpaceXAI's most powerful model for coding and knowledge work </p> <p> <a href=\"https://www.producthunt.com/products/grok-4-7-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1257464?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-22T17:27:35"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Fez",
-      "url": "https://www.producthunt.com/products/fez-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI agents that work as a team and make decisions together </p> <p> <a href=\"https://www.producthunt.com/products/fez-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1257466?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-09-22T17:27:35"
-    },
-    {
       "source": "Product Hunt",
       "title": "Xem",
       "url": "https://www.producthunt.com/products/xem",
@@ -2247,22 +2162,6 @@
       "collected_at": "2026-09-29T07:25:15"
     },
     {
-      "source": "GitHub Trending",
-      "title": "ashhart/TensorFold",
-      "url": "https://github.com/ashhart/TensorFold",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint",
-      "extra": {
-        "stars_today": "160 stars today"
-      },
-      "collected_at": "2026-09-29T07:25:17"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
       "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
@@ -2368,7 +2267,69 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-29T14:23:37"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "NVIDIA shipped OpenShell, an open source sandbox that gives local and open agents real runtime limits instead of prompt rules. Over 100 firms joined the safety stack. OpenAI did not.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws9ydg/nvidia_shipped_openshell_an_open_source_sandbox/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-09-28T09:27:53+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1ws9ydg/nvidia_shipped_openshell_an_open_source_sandbox/\"> <img alt=\"NVIDIA shipped OpenShell, an open source sandbox that gives local and open agents real runtime limits instead of prompt rules. Over 100 firms joined the safety stack. OpenAI did not.\" src=\"https://preview.redd.it/nuzy27pac8sh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=278da8d407af4508b4c836cdea904295498336b2\" title=\"NVIDIA shipped OpenShell, an open ",
+      "extra": {},
+      "collected_at": "2026-09-29T18:43:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "iFixAi",
+      "url": "https://www.producthunt.com/products/ifixai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Independent auditing of AI agents to uncover misalignment </p> <p> <a href=\"https://www.producthunt.com/products/ifixai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1252633?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-09-29T18:43:36"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Curie",
+      "url": "https://www.producthunt.com/products/curie-4",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Assistant for scientific literature and document analysis. </p> <p> <a href=\"https://www.producthunt.com/products/curie-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1246006?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-29T18:43:36"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Semos.ai Manager Agents",
+      "url": "https://www.producthunt.com/products/semos-ai-manager-agents",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI agents purpose-built for managers </p> <p> <a href=\"https://www.producthunt.com/products/semos-ai-manager-agents?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1222819?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-09-29T18:43:36"
     }
   ],
-  "updated_at": "2026-09-29T14:23:40.946812+09:00"
+  "updated_at": "2026-09-29T18:43:39.894573+09:00"
 }
