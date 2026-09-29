@@ -15177,5 +15177,19 @@
     "image_path": "/images/posts/2026-09-29-nvidia-openshell-local-llm-gpu-guide.jpg",
     "created_at": "2026-09-29T18:44:11.714510+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-09-29-llamacpp-gguf-local-llm-setup-guide",
+    "title": "llama.cpp 使い方 入門！GGUF量子化でローカルLLMを動かす全手順",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llamacpp",
+    "tweet_text": "RTX 4060 Ti 16GBなら7B〜14Bモデルが爆速。llama.cppとGGUF量子化を組み合わせれば、月額$20のサブスクに頼らず自前で高性能AI環境が作れます。VRAMさえ確保すれば、機密データもオフラインで処理し放題。エンジニアなら「動かしてみた」で終わらず、APIサーバー化して実務に組み込むのが正解です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-09-29-llamacpp-gguf-local-llm-setup-guide.jpg",
+    "created_at": "2026-09-29T21:23:18.229164+09:00",
+    "posted": false
   }
 ]
