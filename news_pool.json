@@ -1,109 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Claude Opus 5.5",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 22 Sep 2026 16:29:05 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-23T01:37:54"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 22 Sep 2026 13:52:15 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-23T01:37:54"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 22 Sep 2026 16:30:07 +0000",
-      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-23T01:37:56"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "SereneDB",
-      "url": "https://www.producthunt.com/products/serenedb-krummelanke",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Ultra-Fast Search & Analytics Database, Agentic AI ready </p> <p> <a href=\"https://www.producthunt.com/products/serenedb-krummelanke?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1250875?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-09-23T01:37:57"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Diurnal",
-      "url": "https://www.producthunt.com/products/diurnal",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The fastest way to get a thought out of your head </p> <p> <a href=\"https://www.producthunt.com/products/diurnal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1250348?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-23T01:37:57"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Ngram and world knowledge - why are we just building a coding model?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wn2ybk/ngram_and_world_knowledge_why_are_we_just/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-09-22T07:42:34+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This post is written by a human and I'd appreciate it if you treated it as such. Thanks.</p> <p>So, I've been noticing a pretty clear interest in developing as good a coding and agentic tool-calling model as possible, especially at smaller sizes, sub-50 gigs. However, I'm finding that at least for my use of AI, if I really want to move away from big providers, I am going to require a model that has better world knowledge than the current offerings.</p> <p>Qwen 3",
-      "extra": {
-        "revenue_score": 8
-      },
-      "collected_at": "2026-09-23T01:38:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmyh9z/alibaba_plans_ai_model_with_5_trillion_to_10/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-09-22T03:35:45+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/tengo_harambe\"> /u/tengo_harambe </a> <br /> <span><a href=\"https://www.reuters.com/business/retail-consumer/alibaba-plans-ai-model-with-5-trillion-10-trillion-parameters-unveils-new-chip-2026-09-22/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wmyh9z/alibaba_plans_ai_model_with_5_trillion_to_10/\">[comments]</a></span>",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-09-23T01:38:01"
-    },
-    {
       "source": "HN Local AI",
       "title": "Moving from cash to credit cards, PayPal, etc. is an ongoing privacy disaster",
       "url": "https://grapheneos.social/@GrapheneOS/117249893761790371",
@@ -2370,7 +2267,53 @@
         "revenue_score": 0
       },
       "collected_at": "2026-09-30T00:23:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Tue, 29 Sep 2026 17:45:51 +0000",
+      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-30T02:54:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Gladys Assistant 5",
+      "url": "https://www.producthunt.com/products/gladys-assistant",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Private, self-hosted smart home, no YAML required </p> <p> <a href=\"https://www.producthunt.com/products/gladys-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1263586?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-30T02:54:55"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Would you pay?",
+      "url": "https://www.producthunt.com/products/would-you-pay",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Find out who'd pay before you build more </p> <p> <a href=\"https://www.producthunt.com/products/would-you-pay?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1263543?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-09-30T02:54:55"
     }
   ],
-  "updated_at": "2026-09-30T00:23:06.217001+09:00"
+  "updated_at": "2026-09-30T02:54:58.806009+09:00"
 }
