@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-27-local-llm-evaluation-harness-qwen-tutorial",
-    "title": "Qwen 2.5 Coderで実務用ローカルLLM評価環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/local-llm-evaluation-harness-qwen-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Qwen",
-    "tweet_text": "ローカルLLMを「動かして満足」していませんか？実務で使うなら、自分のタスクで「正解率」と「速度」を数値化する評価ハーネスが不可欠です。RTX 3090/4090環境なら、Qwen2.5-CoderがGPT-4にどこまで迫れるか、30分で計測できるスクリプトを公開しました。モデルの良し悪しを感覚ではなく、自分のデータによる数字で判断しましょう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-27-local-llm-evaluation-harness-qwen-tutorial.jpg",
-    "created_at": "2026-09-27T20:40:30.839373+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-28-ai-genomics-manufacturer-ranking-2024",
-    "title": "ゲノムAIメーカーランキングの真実：解析コストを9割削減するNVIDIAとGoogleの独走態勢",
-    "url": "https://ai.negi-lab.com/posts/ai-genomics-manufacturer-ranking-2024/",
-    "category": "NEWS",
-    "viral_tags": "#ゲノム解析 #NVIDIA",
-    "tweet_text": "ゲノム解析AIの最新ランキングが確定。NVIDIA Parabricksによる20分での全ゲノム解析と、Google DeepVariantの精度99.9%超えが実務の標準になった。もはや「スパコンで数日」は過去の話。RTX 4090を2枚挿せば個人でも解析可能な時代。開発者は解析速度の先にある、マルチモーダルRAGによる臨床解釈の自動化を急ぐべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-28-ai-genomics-manufacturer-ranking-2024.jpg",
-    "created_at": "2026-09-28T01:43:11.682755+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-28-jev-ai-decision-model-vs-local-llm-hardware",
     "title": "Jevに騙されるな？AI意思決定モデルの正体と実務で選ぶべきローカルLLM環境比較",
     "url": "https://ai.negi-lab.com/posts/jev-ai-decision-model-vs-local-llm-hardware/",
