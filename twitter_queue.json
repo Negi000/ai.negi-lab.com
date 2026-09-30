@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-01-us-china-ai-si-new-definition-impact.jpg",
     "created_at": "2026-10-01T00:39:51.732253+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-01-amd-epyc-256core-rtx5090-comparison-localllm",
+    "title": "AMD EPYC 256コア vs RTX 5090比較！ローカルLLM用PC選びと失敗しないメモリ帯域の知識",
+    "url": "https://ai.negi-lab.com/posts/amd-epyc-256core-rtx5090-comparison-localllm/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "新型EPYCがDDR5の16枚挿しでメモリ帯域1.6TB/sに到達。RTX 5090の9割超えという数字は、CPU推論の常識を覆します。VRAM不足に悩む層への最終回答ですが、一般的にはRTX 5090を2枚挿す方が開発効率もコスパも上。巨大モデルを私物化したいならThreadripper、手軽さならMac Studioが現実的なライン。買う前にメモリチャネル数の罠だけは確認を。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-01-amd-epyc-256core-rtx5090-comparison-localllm.jpg",
+    "created_at": "2026-10-01T02:51:51.884080+09:00",
+    "posted": false
   }
 ]

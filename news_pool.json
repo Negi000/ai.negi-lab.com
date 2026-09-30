@@ -2115,21 +2115,6 @@
       "collected_at": "2026-09-30T18:35:28"
     },
     {
-      "source": "Google News",
-      "title": "AIではなく“SI”、米中首脳が新呼称で合意？ 訳すと「超知能」だけど、ASIとは別（アスキー） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZVURTbDlQZzNtTklXMlItd2RVMmJkaFRINERBZVdQcXhfV2dVenZaMHBFNk8xUXRudWNkbjg4TTFDWUI4d1gwS1pQeGVHT09CYllzOTNzdFZTMFh0YnlFT2FfV2xpa25IWTNFR3hsNGV4cVN3MFdnYjlyU0NjWlE?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 28 Sep 2026 01:35:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZVURTbDlQZzNtTklXMlItd2RVMmJkaFRINERBZVdQcXhfV2dVenZaMHBFNk8xUXRudWNkbjg4TTFDWUI4d1gwS1pQeGVHT09CYllzOTNzdFZTMFh0YnlFT2FfV2xpa25IWTNFR3hsNGV4cVN3MFdnYjlyU0NjWlE?oc=5\" target=\"_blank\">AIではなく“SI”、米中首脳が新呼称で合意？ 訳すと「超知能」だけど、ASIとは別（アスキー）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-30T18:35:30"
-    },
-    {
       "source": "Product Hunt",
       "title": "NotchDodo",
       "url": "https://www.producthunt.com/products/notchdodo",
@@ -2349,7 +2334,103 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-01T00:39:17"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The ugly economics of consumer AI",
+      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 30 Sep 2026 17:24:45 +0000",
+      "summary": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-01T02:49:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Autonomyware",
+      "url": "https://www.producthunt.com/products/autonomyware",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Idea to physical product, engineer anything you can imagine </p> <p> <a href=\"https://www.producthunt.com/products/autonomyware?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1244102?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-01T02:49:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Evlat",
+      "url": "https://www.producthunt.com/products/evlat",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Know which AI coding agent is waiting on you </p> <p> <a href=\"https://www.producthunt.com/products/evlat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1264672?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-01T02:49:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu0bdf/add_glm53flash_glm5next_support_by_timkhronos/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-09-30T09:22:03+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wu0bdf/add_glm53flash_glm5next_support_by_timkhronos/\"> <img alt=\"add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/Zf7AhN3F_Tsz0JMllUCGPEOk7I8J8MM4zrXDPaYV2DA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=073326754eb65ddcd594ab5265d34ccaf1a007cd\" title=\"add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/l",
+      "extra": {
+        "revenue_score": 13
+      },
+      "collected_at": "2026-10-01T02:50:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Oído: speech recognition that beats Whisper-tiny, running on a $5 microcontroller (open source)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu2jjy/oído_speech_recognition_that_beats_whispertiny/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-09-30T11:34:48+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm part of the Lokutor team that built this.</p> <p>Model: NVIDIA Conformer-CTC Small (13M params, int8). It runs on an ESP32-S3 with 8 MB PSRAM, no GPU or NPU. LibriSpeech WER is 3.7 / 8.2, versus 6.3 / 15.9 for Whisper tiny.en on a laptop. Under real noise (DEMAND: car, kitchen, cafeteria) plus babble and reverb, mean WER is 8.4 vs 12.1 for Whisper tiny.en. You can try the exact chip arithmetic on your laptop mic with live_demo.py. <a href=\"https://github.com",
+      "extra": {
+        "revenue_score": 8
+      },
+      "collected_at": "2026-10-01T02:50:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-09-30T16:02:55+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu/\"> <img alt=\"We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face\" src=\"https://external-preview.redd.it/YWQ3cnd0NmE3b3NoMTBKDQJN6ZSvIFSkWx1kgbte5j9-96xoo8GzdJiLdmHo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=39ba3fd23fa330743bc3e7be3c43a89b8d7757a1\" title=\"We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-10-01T02:50:02"
     }
   ],
-  "updated_at": "2026-10-01T00:39:21.015146+09:00"
+  "updated_at": "2026-10-01T02:50:02.284241+09:00"
 }
