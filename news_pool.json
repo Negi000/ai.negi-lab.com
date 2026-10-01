@@ -1,37 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Opaline",
-      "url": "https://www.producthunt.com/products/rudel",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> PostHog for team Claude Code and Codex sessions. </p> <p> <a href=\"https://www.producthunt.com/products/rudel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1258336?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-09-24T20:20:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "LockLines",
-      "url": "https://www.producthunt.com/products/locklines",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Design Mac lock screen messages that fit </p> <p> <a href=\"https://www.producthunt.com/products/locklines?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1259576?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-24T20:20:23"
-    },
-    {
       "source": "HN AI Companies",
       "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
       "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
@@ -2411,22 +2380,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Dots by OpenAI",
-      "url": "https://www.producthunt.com/products/dots-by-openai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Always on agents built to handle everything </p> <p> <a href=\"https://www.producthunt.com/products/dots-by-openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1264932?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-01T19:02:04"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Yedric.ai",
       "url": "https://www.producthunt.com/products/yedric-ai",
       "primary_category": "TOOL",
@@ -2454,7 +2407,113 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-01T19:02:04"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "tile-ai/tilelang",
+      "url": "https://github.com/tile-ai/tilelang",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
+      "extra": {
+        "stars_today": "157 stars today"
+      },
+      "collected_at": "2026-10-01T21:41:39"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Useful tool to track location or mobile number",
+      "extra": {
+        "stars_today": "635 stars today"
+      },
+      "collected_at": "2026-10-01T21:41:39"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Friedrich-M/UniMate",
+      "url": "https://github.com/Friedrich-M/UniMate",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+      "extra": {
+        "stars_today": "225 stars today"
+      },
+      "collected_at": "2026-10-01T21:41:39"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 01 Oct 2026 12:00:00 +0000",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-10-01T21:41:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Starlie",
+      "url": "https://www.producthunt.com/products/starlie",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A fast, native Jira client for Mac </p> <p> <a href=\"https://www.producthunt.com/products/starlie?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1235021?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-01T21:41:40"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Omnia Agent",
+      "url": "https://www.producthunt.com/products/omnia-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AI Agent that does 95% of your GEO work </p> <p> <a href=\"https://www.producthunt.com/products/omnia-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1263672?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-01T21:41:40"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Helo",
+      "url": "https://www.producthunt.com/products/helo-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> An independent email API from former Postmark folks </p> <p> <a href=\"https://www.producthunt.com/products/helo-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1266002?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-01T21:41:40"
     }
   ],
-  "updated_at": "2026-10-01T19:02:07.671813+09:00"
+  "updated_at": "2026-10-01T21:41:43.633779+09:00"
 }
