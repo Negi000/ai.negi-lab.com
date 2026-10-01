@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-30-local-llm-gpu-mac-comparison-vram-guide",
-    "title": "ローカルLLMを自由に動かすGPU・Macおすすめ比較｜VRAM不足で後悔しないPCの選び方",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-vram-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "ローカルLLMを動かすならVRAM容量が全て。8GB以下のGPUで妥協すると、数ヶ月後に必ず後悔します。最低16GB、理想は24GB。RTX 4060 Ti 16GBはエントリーとして優秀ですが、仕事でAIコーディングやエージェント開発を加速させるなら4090一択。巨大モデル狙いならMac Studioのメモリ128GB以上が実は最もコスパが良い。買う前に見るべき判断基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-30-local-llm-gpu-mac-comparison-vram-guide.jpg",
-    "created_at": "2026-09-30T02:55:26.792945+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-30-local-llm-gpu-mac-comparison-guide",
-    "title": "ChatGPT Pro値上げで考えるローカルLLM移行ガイド：おすすめGPU・Mac比較と選び方",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "OpenAIのサブスク高騰、$200払っても制限半分。計算資源の補助金時代が終わる今、投資すべきは「ローカル環境」です。VRAM 16GB以下のGPUは今すぐ選択肢から外すべき。RTX 4060 Ti 16GBか4090、Macならメモリ64GB以上。月額費用を資産に変える判断基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-30-local-llm-gpu-mac-comparison-guide.jpg",
-    "created_at": "2026-09-30T06:17:28.897653+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-30-claude-code-cursor-hybrid-workflow-guide",
     "title": "Claude CodeとCursorを併用する最強のAIコーディング環境構築ガイド",
     "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-workflow-guide/",
