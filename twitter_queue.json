@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-10-01-squint-ai-screen-capture-review.jpg",
     "created_at": "2026-10-01T14:26:52.654087+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-01-dots-by-openai-agent-review-and-guide",
+    "title": "Dots by OpenAI 自律型エージェントの実務導入と技術仕様",
+    "url": "https://ai.negi-lab.com/posts/dots-by-openai-agent-review-and-guide/",
+    "category": "TOOL",
+    "viral_tags": "#OpenAI #AIエージェント",
+    "tweet_text": "OpenAIから登場した「Dots」が、エージェント開発の常識を塗り替えつつある。自前で書いていたリトライや状態管理のループが、OpenAI側のインフラで完結。実装コストは激減するが、モデルの自律走行によるトークン消費には注意が必要だ。爆速で実用的なエージェントをデプロイしたいなら、これ一択になる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-01-dots-by-openai-agent-review-and-guide.jpg",
+    "created_at": "2026-10-01T19:02:29.615684+09:00",
+    "posted": false
   }
 ]
