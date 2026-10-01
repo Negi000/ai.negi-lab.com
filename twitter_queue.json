@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-09-29-nvidia-openshell-local-llm-gpu-guide",
-    "title": "ローカルLLM開発に必須のVRAM容量とNVIDIA OpenShellの衝撃｜RTX vs Mac 選び方ガイド",
-    "url": "https://ai.negi-lab.com/posts/nvidia-openshell-local-llm-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #NVIDIA",
-    "tweet_text": "NVIDIA OpenShellが変えるローカルLLMの常識。プロンプト頼みの安全策は終わり、OSレベルのサンドボックスでAIエージェントを制御する時代へ。実務でこの波に乗るならVRAM 16GB（RTX 4060 Ti）が最低ライン。4090なら70Bモデルも視野に入る。API代を削って自分専用の最強AIサーバーを構築する判断基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-29-nvidia-openshell-local-llm-gpu-guide.jpg",
-    "created_at": "2026-09-29T18:44:11.714510+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-09-29-llamacpp-gguf-local-llm-setup-guide",
-    "title": "llama.cpp 使い方 入門！GGUF量子化でローカルLLMを動かす全手順",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llamacpp",
-    "tweet_text": "RTX 4060 Ti 16GBなら7B〜14Bモデルが爆速。llama.cppとGGUF量子化を組み合わせれば、月額$20のサブスクに頼らず自前で高性能AI環境が作れます。VRAMさえ確保すれば、機密データもオフラインで処理し放題。エンジニアなら「動かしてみた」で終わらず、APIサーバー化して実務に組み込むのが正解です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-09-29-llamacpp-gguf-local-llm-setup-guide.jpg",
-    "created_at": "2026-09-29T21:23:18.229164+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-09-30-ollama-open-webui-local-llm-setup-guide",
     "title": "OllamaとOpen WebUIでローカルLLM環境を構築する方法",
     "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup-guide/",
