@@ -1,77 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "OpenAI breaches Medicare, Albanese reveals",
-      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 23 Sep 2026 21:01:48 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-24T08:36:19"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Cloud Agents Are Inevitable AI Prisons",
-      "url": "https://normanponte.io/19df691f",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Wed, 23 Sep 2026 18:16:41 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-24T08:36:19"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic says its biology lab has already found something big",
-      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 23 Sep 2026 22:17:39 +0000",
-      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-24T08:36:27"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Claude Opus 5.5",
-      "url": "https://www.producthunt.com/products/claude-fable-5-1",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Anthropic's first model in their new Claude 5.5 family </p> <p> <a href=\"https://www.producthunt.com/products/claude-fable-5-1?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1258400?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-24T08:36:28"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Pactto",
-      "url": "https://www.producthunt.com/products/pactto-replay",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The room where creative teams align and AI takes action </p> <p> <a href=\"https://www.producthunt.com/products/pactto-replay?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1146521?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-24T08:36:28"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Mercury 2.5 LLM hits 770 tokens per second",
       "url": "https://artificialanalysis.ai/models/mercury-2-5",
@@ -2486,7 +2415,107 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-01T06:14:07"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 30 Sep 2026 20:50:28 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-01T09:30:54"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 30 Sep 2026 20:04:37 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-01T09:30:54"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Says",
+      "url": "https://ohhfishal.net/Posts/claude",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 30 Sep 2026 17:32:06 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-01T09:30:54"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 30 Sep 2026 23:43:07 +0000",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-01T09:30:56"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Styx",
+      "url": "https://www.producthunt.com/products/styx-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> An agentic development environment (ADE) for Mac </p> <p> <a href=\"https://www.producthunt.com/products/styx-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1260993?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-01T09:30:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Preorder for new AMD Ryzen™ AI Max 400 Series 192GB from framework just started",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wue339/preorder_for_new_amd_ryzen_ai_max_400_series/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "2026-09-30T19:19:05+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Framework Desktop Framework Desktop DIY Edition (AMD Ryzen™ AI Max 400 Series) 192GB</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Educational_Sun_8813\"> /u/Educational_Sun_8813 </a> <br /> <span><a href=\"https://frame.work/de/en/products/desktop-diy-amd-aimax400/configuration/new\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wue339/preorder_for_new_amd_ryzen_ai_max_400_series/\">[co",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-10-01T09:31:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "If one hour of AI is costing me 0.12€ is paying for frontier a cheaper option?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuhrop/if_one_hour_of_ai_is_costing_me_012_is_paying_for/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-09-30T21:44:48+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Running Qwen flash next of even Qwen 27b dense, I can do any,burning sticking to flash due to its speed, and the kwh cost is at 0.25€ where I live in, ranging from 0.11€ to 0.35€, so I used chatgpt to help me calculate the total kwh consumption on my 7900xtx plus 9800x3D, and well that is the result.</p> <p>Judging by this, if deepseek flash is indeed then faster to use per 1m token, does it mean that frontier is cheaper for me or am I calculating something wron",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-10-01T09:31:01"
     }
   ],
-  "updated_at": "2026-10-01T06:14:10.594727+09:00"
+  "updated_at": "2026-10-01T09:31:01.350874+09:00"
 }

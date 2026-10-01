@@ -15289,5 +15289,19 @@
     "image_path": "/images/posts/2026-10-01-apple-silicon-mlx-local-llm-tutorial.jpg",
     "created_at": "2026-10-01T06:14:34.776444+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-01-huggingface-fastest-webgpu-kernel-tutorial",
+    "title": "ブラウザでAIを動かす常識が変わる。Hugging Faceが公開した「世界最速のWebGPUカーネル」を使えば、あなたのブラウザがそのまま高性能なAI実行環境になります。",
+    "url": "https://ai.negi-lab.com/posts/huggingface-fastest-webgpu-kernel-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #WebGPU",
+    "tweet_text": "ブラウザがAI実行環境の主役に。Hugging Faceが「世界最速のWebGPUカーネル」を公開。\nLlama 3 8BがChrome上で爆速動作。Pythonもサーバーも不要で、VRAMをフルに使い切るWGSL最適化が凄まじい。\n一度キャッシュすればオフラインで動くし、プライバシーも完璧。これからのAIアプリの標準構成になる予感。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-01-huggingface-fastest-webgpu-kernel-tutorial.jpg",
+    "created_at": "2026-10-01T09:31:24.098887+09:00",
+    "posted": false
   }
 ]
