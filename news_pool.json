@@ -2,88 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 24 Sep 2026 18:11:44 +0000",
-      "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-25T03:38:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "NotchPop",
-      "url": "https://www.producthunt.com/products/notchpop",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The Dynamic Island your MacBook notch was missing </p> <p> <a href=\"https://www.producthunt.com/products/notchpop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1259856?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-09-25T03:38:02"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Qwen-3.8-27B is good enough that I stopped using API",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp0z3i/qwen3827b_is_good_enough_that_i_stopped_using_api/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-09-24T12:59:28+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Many a praise have been sung on Qwen-3.8, but here is mine.</p> <p>Qwen-3.8 and I had a rocky start, because it thinks so much. Watching it working is painful, so you have to stop doing that. You have to let it work unsupervised. And that's okay, because it really is able to complete complex refactors on its own, making good decisions along the way. Not perfect, but hey, neither is API.</p> <p>The model quant is Q4_K_S, context is quantized to Q8_0, which seems ",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-09-25T03:38:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "UkisAI Swift Series / 27B, Flash Next and Bonsai 2 + GSQ-RCO / -63.4% thinking, x1.95 speed with xhigh accuracy",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp6gal/ukisai_swift_series_27b_flash_next_and_bonsai_2/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-09-24T16:32:57+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wp6gal/ukisai_swift_series_27b_flash_next_and_bonsai_2/\"> <img alt=\"UkisAI Swift Series / 27B, Flash Next and Bonsai 2 + GSQ-RCO / -63.4% thinking, x1.95 speed with xhigh accuracy\" src=\"https://external-preview.redd.it/c3VpZ2NnN3lraHJoMX2MIfgflAdSs8gxXxoeisROXk1qV6B2Bc34hml8Ukji.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=66d6caf430889f2e387d2d80a0e2bb7b12c339b7\" title=\"UkisAI Swift Series / 27B, Flash Next and Bonsai 2",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-09-25T03:38:03"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "list of entities hacked by openai grows by one",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wp36gx/list_of_entities_hacked_by_openai_grows_by_one/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-09-24T14:29:03+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wp36gx/list_of_entities_hacked_by_openai_grows_by_one/\"> <img alt=\"list of entities hacked by openai grows by one\" src=\"https://preview.redd.it/jky67wsjahrh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f22224ca0ffb6d5712c34e01a29ee5fe200b44c4\" title=\"list of entities hacked by openai grows by one\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Rogue OpenAI agent 'infiltrated' Australian government website in world",
-      "extra": {
-        "revenue_score": 10
-      },
-      "collected_at": "2026-09-25T03:38:03"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
       "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
       "primary_category": "NEWS",
@@ -1452,20 +1370,6 @@
       "collected_at": "2026-09-30T06:16:58"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-09-29T17:55:48+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/\"> <img alt=\"Anthropic just dropped the greatest advertisement for GLM ever.\" src=\"https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ee66c64f45d8b66dc3163d3dd6898176780fc61\" title=\"Anthropic just dropped the greatest advertisement for GLM ever.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md",
-      "extra": {},
-      "collected_at": "2026-09-30T06:16:58"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "OpenAI’s latest features take direct aim at the app store model",
       "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
@@ -2431,7 +2335,76 @@
         "revenue_score": 3
       },
       "collected_at": "2026-10-02T03:15:46"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "url": "https://blog.gitbutler.com/git-3-sha-256",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 01 Oct 2026 16:57:03 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-02T04:46:27"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+      "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 01 Oct 2026 13:05:51 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-02T04:46:27"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "10-year Treasury yield climbs above 5.3% to a level not seen in 24 years",
+      "url": "https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 01 Oct 2026 01:40:50 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-02T04:46:27"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 01 Oct 2026 19:21:53 +0000",
+      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-02T04:46:29"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Stardrift for iOS",
+      "url": "https://www.producthunt.com/products/stardrift-for-ios",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AI travel assistant in your pocket </p> <p> <a href=\"https://www.producthunt.com/products/stardrift-for-ios?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1266003?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-02T04:46:30"
     }
   ],
-  "updated_at": "2026-10-02T03:15:49.636102+09:00"
+  "updated_at": "2026-10-02T04:46:33.423526+09:00"
 }

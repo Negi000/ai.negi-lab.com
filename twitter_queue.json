@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-10-02T03:19:03.594608+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-02-llamacpp-prompt-lookup-drafting-gpu-guide",
+    "title": "ローカルLLMが爆速に。llama.cppの新機能をフル活用するRTX・Macの選び方と比較",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-prompt-lookup-drafting-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "llama.cppのPrompt Lookup Draftingが強烈。コード生成やRAG等の繰り返しを含む推論なら、専用モデルなしで速度が数倍から最大42倍に跳ね上がる。\nこれまでは「VRAMは多いが計算が遅い」と言われたRTX 4060 Ti 16GBが、PLDの登場で一気に「仕事で使える高コスパ枠」に化けました。買う前にVRAM容量とバス幅の相関を知っておくのが失敗しないコツ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-02-llamacpp-prompt-lookup-drafting-gpu-guide.jpg",
+    "created_at": "2026-10-02T04:46:57.246400+09:00",
+    "posted": false
   }
 ]
