@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-01-huggingface-fastest-webgpu-kernel-tutorial",
-    "title": "ブラウザでAIを動かす常識が変わる。Hugging Faceが公開した「世界最速のWebGPUカーネル」を使えば、あなたのブラウザがそのまま高性能なAI実行環境になります。",
-    "url": "https://ai.negi-lab.com/posts/huggingface-fastest-webgpu-kernel-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #WebGPU",
-    "tweet_text": "ブラウザがAI実行環境の主役に。Hugging Faceが「世界最速のWebGPUカーネル」を公開。\nLlama 3 8BがChrome上で爆速動作。Pythonもサーバーも不要で、VRAMをフルに使い切るWGSL最適化が凄まじい。\n一度キャッシュすればオフラインで動くし、プライバシーも完璧。これからのAIアプリの標準構成になる予感。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-01-huggingface-fastest-webgpu-kernel-tutorial.jpg",
-    "created_at": "2026-10-01T09:31:24.098887+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-01-squint-ai-screen-capture-review",
-    "title": "Squint レビュー 画面上の領域をAIのコンテキストに変える新習慣",
-    "url": "https://ai.negi-lab.com/posts/squint-ai-screen-capture-review/",
-    "category": "TOOL",
-    "viral_tags": "#生産性向上 #AIツール",
-    "tweet_text": "画面をドラッグして囲むだけでAIが即答する「Squint」が思考の摩擦をゼロにする。\n\nスクショ→保存→ブラウザにアップという無駄な3ステップが消滅。\nIDEのエラーやダッシュボードのグラフも、囲むだけでClaude 3.5やGPT-4oが解析。\nレスポンス1.2秒。この速度は実務で武器になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-01-squint-ai-screen-capture-review.jpg",
-    "created_at": "2026-10-01T14:26:52.654087+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-01-dots-by-openai-agent-review-and-guide",
     "title": "Dots by OpenAI 自律型エージェントの実務導入と技術仕様",
     "url": "https://ai.negi-lab.com/posts/dots-by-openai-agent-review-and-guide/",
