@@ -1,78 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Coding",
-      "title": "Yes, Claude can do nine loops",
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 25 Sep 2026 18:11:48 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-26T05:18:37"
-    },
-    {
-      "source": "HN AI Coding",
-      "title": "Jev Based Code Review",
-      "url": "https://github.com/egma-ai/jev-code-reviewer",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "Fri, 25 Sep 2026 04:49:23 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-26T05:18:37"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 25 Sep 2026 19:13:38 +0000",
-      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-26T05:18:40"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "GitHub statistics · Velocity Radar",
-      "url": "https://www.producthunt.com/products/github-statistics-velocity-radar",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Real GitHub momentum, including private repos & AI agents </p> <p> <a href=\"https://www.producthunt.com/products/github-statistics-velocity-radar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1260000?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-09-26T05:18:40"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AgreeGuard",
-      "url": "https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI reads the fine print before you click \"I Agree\" </p> <p> <a href=\"https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1258558?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-26T05:18:40"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
@@ -2308,19 +2236,6 @@
       "collected_at": "2026-10-03T02:41:16"
     },
     {
-      "source": "HN AI Hot",
-      "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
-      "url": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 02 Oct 2026 13:19:47 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-03T04:29:24"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
       "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
@@ -2364,7 +2279,79 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-03T04:29:32"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 02 Oct 2026 18:01:16 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-03T06:10:43"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 02 Oct 2026 02:51:27 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-03T06:10:43"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 02 Oct 2026 21:09:14 +0000",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-03T06:10:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cue by Manus",
+      "url": "https://www.producthunt.com/products/cue-by-manus",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Personal agents with identity, handling life end to end </p> <p> <a href=\"https://www.producthunt.com/products/cue-by-manus?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1263902?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-03T06:10:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Bambu Lab R1",
+      "url": "https://www.producthunt.com/products/bambu-lab-r1",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> CO2 laser cutting with Bambu-style automation </p> <p> <a href=\"https://www.producthunt.com/products/bambu-lab-r1?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1266817?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-03T06:10:53"
     }
   ],
-  "updated_at": "2026-10-03T04:29:36.270007+09:00"
+  "updated_at": "2026-10-03T06:10:57.010686+09:00"
 }
