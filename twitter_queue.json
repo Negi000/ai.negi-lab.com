@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-02-llamacpp-gguf-quantization-guide-beginners",
-    "title": "llama.cppの使い方とGGUF量子化入門：自分のPCでLLMを動かす最強環境の構築",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-quantization-guide-beginners/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llamacpp",
-    "tweet_text": "ローカルLLMを動かすなら、GUIツールで満足せずllama.cppを直接ビルドすべき。VRAM 12GBあれば8Bモデルが爆速で回るし、VRAM不足もメインメモリで補完できる。Q4_K_M量子化なら精度を維持しつつメモリ消費を1/3に抑制。この「自分のPCで完結する」自由度は、一度体験するとAPIには戻れない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-02-llamacpp-gguf-quantization-guide-beginners.jpg",
-    "created_at": "2026-10-02T06:34:53.819066+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-02-claude-code-cursor-ai-coding-setup",
     "title": "Claude CodeとCursorを併用する最強のAI開発環境作り",
     "url": "https://ai.negi-lab.com/posts/claude-code-cursor-ai-coding-setup/",
