@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-03-meta-muse-edge-ai-framework-release.jpg",
     "created_at": "2026-10-03T20:18:09.078551+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-04-local-llm-gpu-buying-guide-rtx-mac",
+    "title": "ローカルLLM用PCの選び方比較｜VRAM不足を回避してQwenやGemmaを動かす推奨スペック",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "iPhoneをMacのGPUにしてQwen 2.5 27Bを高速化させる実験が話題ですが、実務で使うなら「VRAM 16GB」の壁を物理的に超えるのが正解。RTX 4060 Ti 16GBなら、分散推論のラグに悩まされず27Bモデルがサクサク動きます。自作派なら中古RTX 3090、Mac派ならメモリ36GB以上が、2024年の投資ラインですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-04-local-llm-gpu-buying-guide-rtx-mac.jpg",
+    "created_at": "2026-10-04T03:09:22.712543+09:00",
+    "posted": false
   }
 ]
