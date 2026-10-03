@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Chit",
-      "url": "https://www.producthunt.com/products/chit-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A printed receipt of your day in Claude Code </p> <p> <a href=\"https://www.producthunt.com/products/chit-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1254383?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-09-26T17:31:15"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Hemory",
-      "url": "https://www.producthunt.com/products/hemory",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Keep listening. Searchable memory for your AI agents. </p> <p> <a href=\"https://www.producthunt.com/products/hemory?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1258326?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-09-26T17:31:15"
-    },
-    {
       "source": "HN Local AI",
       "title": "HomelabFest will be in St. Louis in September 2027",
       "url": "https://www.homelabfest.org",
@@ -2010,21 +1978,6 @@
       "collected_at": "2026-10-02T18:38:50"
     },
     {
-      "source": "GitHub Trending",
-      "title": "getsentry/sentry",
-      "url": "https://github.com/getsentry/sentry",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Developer-first error tracking and performance monitoring",
-      "extra": {
-        "stars_today": "12 stars today"
-      },
-      "collected_at": "2026-10-02T21:06:25"
-    },
-    {
       "source": "Product Hunt",
       "title": "Sayonic",
       "url": "https://www.producthunt.com/products/sayonic",
@@ -2350,7 +2303,84 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-03T13:57:05"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvxl4n/qwen3827bhumanlikechat_20_texts_like_a_human_now/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-10-02T16:00:50+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wvxl4n/qwen3827bhumanlikechat_20_texts_like_a_human_now/\"> <img alt=\"Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following\" src=\"https://preview.redd.it/aoqjtx2ds2th1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e3dc734a081fd57adef754261dba4c612b6e47db\" title=\"Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instructio",
+      "extra": {},
+      "collected_at": "2026-10-03T18:03:59"
+    },
+    {
+      "source": "r/ollama",
+      "title": "I benchmarked Qwen 3.8 27B on my M4 Max — here's what I learned about local models, context, and coding performance",
+      "url": "https://www.reddit.com/r/ollama/comments/1wvxih5/i_benchmarked_qwen_38_27b_on_my_m4_max_heres_what/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-10-02T15:58:02+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1wvxih5/i_benchmarked_qwen_38_27b_on_my_m4_max_heres_what/\"> <img alt=\"I benchmarked Qwen 3.8 27B on my M4 Max — here's what I learned about local models, context, and coding performance\" src=\"https://preview.redd.it/pgc5sa04p2th1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=461f5e0c50a9e7a5557a26d60d60af9e2574eef5\" title=\"I benchmarked Qwen 3.8 27B on my M4 Max — here's what I learned about local models, context, and coding",
+      "extra": {},
+      "collected_at": "2026-10-03T18:04:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Muse Gadgets",
+      "url": "https://www.producthunt.com/products/muse-22",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Meta's open-source kit for building your own AI gadgets </p> <p> <a href=\"https://www.producthunt.com/products/muse-22?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1268160?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-03T18:04:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "FoundrRadio",
+      "url": "https://www.producthunt.com/products/foundrradio",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Pick a frequency, launch your radio station and go on air </p> <p> <a href=\"https://www.producthunt.com/products/foundrradio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1266483?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-03T18:04:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "una mano",
+      "url": "https://www.producthunt.com/products/una-mano",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A familiar iPhone keyboard that moves to your thumb </p> <p> <a href=\"https://www.producthunt.com/products/una-mano?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1262324?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-03T18:04:03"
     }
   ],
-  "updated_at": "2026-10-03T13:57:08.452508+09:00"
+  "updated_at": "2026-10-03T18:04:07.025747+09:00"
 }
