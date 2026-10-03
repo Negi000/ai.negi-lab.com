@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-02-claude-code-cursor-ai-coding-setup",
-    "title": "Claude CodeとCursorを併用する最強のAI開発環境作り",
-    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-ai-coding-setup/",
-    "category": "GUIDE",
-    "viral_tags": "#ClaudeCode #Cursor",
-    "tweet_text": "Claude CodeとCursorの併用がAI開発の最適解。Claude Codeにテスト駆動で基盤を作らせ、CursorでUIを磨き上げる。この役割分担でFastAPI+Reactのアプリが15分で完成した。API料金はかかるが、開発速度10倍を考えれば月$50なんて安い投資。環境構築から実践まで手順をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-02-claude-code-cursor-ai-coding-setup.jpg",
-    "created_at": "2026-10-02T09:41:31.032457+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-02-tilelang-gpu-kernel-dsl-review",
-    "title": "tilelang GPUカーネル開発の複雑さをタイル抽象化で解決するPython DSL",
-    "url": "https://ai.negi-lab.com/posts/tilelang-gpu-kernel-dsl-review/",
-    "category": "TOOL",
-    "viral_tags": "#GPU #CUDA",
-    "tweet_text": "GPUカーネル開発の「CUDA難しすぎ問題」に終止符。tilelangはPythonでタイリングを抽象化し、共有メモリ操作を宣言的に書けるDSL。RTX 4090で検証したが、Tritonより柔軟でTVMより軽い絶妙な立ち位置。独自のFlashAttention実装や推論の極限最適化を目指すなら、今すぐ触るべき武器。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-02-tilelang-gpu-kernel-dsl-review.jpg",
-    "created_at": "2026-10-02T14:14:59.252713+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-02-ghosttrack-phone-number-osint-review",
     "title": "GhostTrack 使い方と電話番号OSINTの限界を実機検証",
     "url": "https://ai.negi-lab.com/posts/ghosttrack-phone-number-osint-review/",
