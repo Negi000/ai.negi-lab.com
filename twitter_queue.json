@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-10-04-cursor-remote-lite-mobile-ai-coding-review.jpg",
     "created_at": "2026-10-04T18:38:28.995740+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-04-python-ai-agent-docker-sandbox-tutorial",
+    "title": "AIエージェント用サンドボックス構築入門：Dockerで安全なコード実行環境を作る方法",
+    "url": "https://ai.negi-lab.com/posts/python-ai-agent-docker-sandbox-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントに「PC内の操作」を任せるなら、サンドボックス構築は必須。\nDocker-pyを使い、ネットワーク遮断・メモリ128MB制限・CPU50%制限をかけた隔離環境をPythonで自作する方法をまとめました。\n「AIが親切心でデータを破壊する」リスクを、コード30行で水際対策。\n仕事で使える安全な自動化への第一歩。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-04-python-ai-agent-docker-sandbox-tutorial.jpg",
+    "created_at": "2026-10-04T20:58:04.323098+09:00",
+    "posted": false
   }
 ]
