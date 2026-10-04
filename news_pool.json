@@ -2,36 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 27 Sep 2026 16:30:00 +0000",
-      "summary": "\"AI is the devil and I its maker.\"",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-28T03:37:55"
-    },
-    {
-      "source": "Google News",
-      "title": "Introducing Sakana AI's Frontier Intelligence Group (FIG) - Sakana AI",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvUVNHVnBhYmRQc1lZcFpwSkdDQ0Y3aFlzbEcydjNDM1VCTTktZjlfd3hwYWJ0YXNTRVlzVEc5ajEwWWlJbU9feEpwMDFYMzlnQ004SkxZQ2lQdw?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvUVNHVnBhYmRQc1lZcFpwSkdDQ0Y3aFlzbEcydjNDM1VCTTktZjlfd3hwYWJ0YXNTRVlzVEc5ajEwWWlJbU9feEpwMDFYMzlnQ004SkxZQ2lQdw?oc=5\" target=\"_blank\">Introducing Sakana AI's Frontier Intelligence Group (FIG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sakana AI</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-28T03:37:56"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Can Muse overcome Meta’s trust issues?",
       "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
       "primary_category": "NEWS",
@@ -1930,22 +1900,6 @@
       "collected_at": "2026-10-03T13:57:05"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvxl4n/qwen3827bhumanlikechat_20_texts_like_a_human_now/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-10-02T16:00:50+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wvxl4n/qwen3827bhumanlikechat_20_texts_like_a_human_now/\"> <img alt=\"Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following\" src=\"https://preview.redd.it/aoqjtx2ds2th1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e3dc734a081fd57adef754261dba4c612b6e47db\" title=\"Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instructio",
-      "extra": {},
-      "collected_at": "2026-10-03T18:03:59"
-    },
-    {
       "source": "r/ollama",
       "title": "I benchmarked Qwen 3.8 27B on my M4 Max — here's what I learned about local models, context, and coding performance",
       "url": "https://www.reddit.com/r/ollama/comments/1wvxih5/i_benchmarked_qwen_38_27b_on_my_m4_max_heres_what/",
@@ -2676,7 +2630,72 @@
         "revenue_score": 3
       },
       "collected_at": "2026-10-05T03:20:37"
+    },
+    {
+      "source": "Google News",
+      "title": "Introducing Sakana AI's Frontier Intelligence Group (FIG) - sakana.ai",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvUVNHVnBhYmRQc1lZcFpwSkdDQ0Y3aFlzbEcydjNDM1VCTTktZjlfd3hwYWJ0YXNTRVlzVEc5ajEwWWlJbU9feEpwMDFYMzlnQ004SkxZQ2lQdw?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvUVNHVnBhYmRQc1lZcFpwSkdDQ0Y3aFlzbEcydjNDM1VCTTktZjlfd3hwYWJ0YXNTRVlzVEc5ajEwWWlJbU9feEpwMDFYMzlnQ004SkxZQ2lQdw?oc=5\" target=\"_blank\">Introducing Sakana AI's Frontier Intelligence Group (FIG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sakana.ai</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-05T04:54:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-10-04T14:09:31+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/\"> <img alt=\"From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck\" src=\"https://preview.redd.it/yiqnv7c6kgth1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9a00f334fb52f12418ae58d3b5a5bc2d71f13ae5\" title=\"From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>From ",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-10-05T04:55:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxma3a/micron_ceo_says_memory_supply_will_be_much/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-10-04T18:08:12+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wxma3a/micron_ceo_says_memory_supply_will_be_much/\"> <img alt=\"Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026\" src=\"https://external-preview.redd.it/UCI3Pidz4XSjT3fJja1xDexKtG1ChCBOX7HQ0wL49UA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf8aa80ebf65cdbc2b3c6371f62e59274fc468f8\" title=\"Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026\" /> </a> </td><td> &#",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-10-05T04:55:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.5 arch implementation in FPGA fabric for 9B/27B INT4 models on relatively cheap eBay mining hardware",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-10-04T16:51:07+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for/\"> <img alt=\"Qwen3.5 arch implementation in FPGA fabric for 9B/27B INT4 models on relatively cheap eBay mining hardware\" src=\"https://preview.redd.it/azuq3dls8hth1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=a95dc04ed9a8d019dfe44e1adf0af8874933b46f\" title=\"Qwen3.5 arch implementation in FPGA fabric for 9B/27B INT4 models on relatively cheap eBay min",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-10-05T04:55:01"
     }
   ],
-  "updated_at": "2026-10-05T03:20:41.023075+09:00"
+  "updated_at": "2026-10-05T04:55:01.673334+09:00"
 }
