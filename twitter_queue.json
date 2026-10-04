@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-03-gpt3-discontinued-local-llm-hardware-guide",
-    "title": "ローカルLLM移行かRTX/Mac新調か？GPT-3終了で加速するAI開発ハードウェアの選び方と比較",
-    "url": "https://ai.negi-lab.com/posts/gpt3-discontinued-local-llm-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "GPT-3がサポート終了。クラウドAPI依存の怖さを再認識したエンジニアは多いはず。今こそ「ローカルLLM」が動く環境を整えるべき。判断基準はVRAM容量。RTX 4060 Ti 16GBなら6万円台でLlama 3が爆速で動く。8GBモデルは絶対に避けて。Macならメモリ32GB以上が最低ライン。後で増やせないから、ここはケチる場所じゃない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-03-gpt3-discontinued-local-llm-hardware-guide.jpg",
-    "created_at": "2026-10-03T02:41:48.308370+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-03-gpt-6-astra-agent-wow-gpu-guide",
-    "title": "AIエージェント本格稼働。GPT-6 Astra/WoW検証から選ぶ、後悔しないGPUとMacの選び方",
-    "url": "https://ai.negi-lab.com/posts/gpt-6-astra-agent-wow-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#AIエージェント #RTX4090",
-    "tweet_text": "AIエージェントがWoWをプレイするagent-wowが登場。マルチモーダルLLMの推論速度が「生死」を分ける時代に。検証した結果、VRAM 16GB以下はもはや人権なし。RTX 4090なら0.5秒で済む判断が、低スペックだと数秒かかりエージェントが詰みます。買うならRTX 40シリーズの16GB版か、メモリ64GB以上のMac一択。中途半端な投資はゴミになります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-03-gpt-6-astra-agent-wow-gpu-guide.jpg",
-    "created_at": "2026-10-03T04:30:00.157753+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-03-ai-agent-safe-sandbox-e2b-tutorial",
-    "title": "AIエージェントを安全に動かすE2Bサンドボックス構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/ai-agent-safe-sandbox-e2b-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#AIエージェント #Python",
-    "tweet_text": "AIエージェントに「rm -rf /」をさせない防波堤、E2Bでサンドボックスを構築。\nGPT-4oが書いたコードを0.5秒で立ち上がる隔離VMで実行し、グラフだけを安全に受け取る。\nローカル実行でヒヤッとしたくないなら、このMicroVM構成が実務でのデファクト。\n無料枠100セッションで十分試せるので、エージェント開発者は即導入すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-03-ai-agent-safe-sandbox-e2b-tutorial.jpg",
-    "created_at": "2026-10-03T06:11:43.342671+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-03-apple-silicon-mlx-local-llm-tutorial",
     "title": "MLX 使い方 入門：Apple SiliconでローカルLLMを爆速で動かす方法",
     "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
