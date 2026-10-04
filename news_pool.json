@@ -2,21 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 27 Sep 2026 19:57:30 +0000",
-      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-28T04:58:36"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Anthropic’s CEO is about to have dinner with President Trump",
       "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
       "primary_category": "NEWS",
@@ -2271,19 +2256,6 @@
     },
     {
       "source": "HN AI Hot",
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Sat, 03 Oct 2026 18:29:30 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-04T08:44:31"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Gemini ending free use of Flash and Pro models",
       "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
       "primary_category": "NEWS",
@@ -2695,7 +2667,68 @@
         "revenue_score": 7
       },
       "collected_at": "2026-10-05T04:55:01"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sun, 04 Oct 2026 20:31:07 +0000",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-05T08:55:52"
+    },
+    {
+      "source": "Google News",
+      "title": "AIは「SI」に改称、トランプ大統領が宣言「フェイクに聞こえる」（朝日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tS3VxNGtQUlgxWTZuQkJuQmlSYUVzTW5NS3BpbHdvSlRQS0JvaXJtR0JMSVlvak0wdmlLS3JvcnlRR1p3NW1lSnFTd21uLW50WmQ0eC1ZN09jWkxNN3JFNXFqVk11YU5LcVhBUGI0MS1UM1g0bWg0OFFtZFd3Y2M?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0tS3VxNGtQUlgxWTZuQkJuQmlSYUVzTW5NS3BpbHdvSlRQS0JvaXJtR0JMSVlvak0wdmlLS3JvcnlRR1p3NW1lSnFTd21uLW50WmQ0eC1ZN09jWkxNN3JFNXFqVk11YU5LcVhBUGI0MS1UM1g0bWg0OFFtZFd3Y2M?oc=5\" target=\"_blank\">AIは「SI」に改称、トランプ大統領が宣言「フェイクに聞こえる」（朝日新聞）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-05T08:55:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Sellio",
+      "url": "https://www.producthunt.com/products/sellio-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI customer support in one shared inbox powered by AI agents </p> <p> <a href=\"https://www.producthunt.com/products/sellio-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1268954?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-05T08:55:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Quven",
+      "url": "https://www.producthunt.com/products/quven",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The self-hosted media server that puts native playback first </p> <p> <a href=\"https://www.producthunt.com/products/quven?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1264825?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-05T08:55:53"
     }
   ],
-  "updated_at": "2026-10-05T04:55:01.673334+09:00"
+  "updated_at": "2026-10-05T08:55:56.975197+09:00"
 }
