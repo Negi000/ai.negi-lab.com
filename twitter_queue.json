@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-04-claude-code-cursor-workflow-guide.jpg",
     "created_at": "2026-10-04T08:45:08.320837+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-04-singularity-parallel-ai-coding-agent-review",
+    "title": "Singularity 使い方と並列AIエージェントのレビュー",
+    "url": "https://ai.negi-lab.com/posts/singularity-parallel-ai-coding-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #GitHub",
+    "tweet_text": "AIエージェントは「対話」から「並列処理」のフェーズへ。Singularityは複数のGitHub Issueを同時に自律解決し、一気にPRまで作成する。1つずつ指示を出す時代は終わった。10並列でリファクタリングを回せば、エンジニアの待機時間はゼロになる。自動テストが整備されたリポジトリなら、これほど頼もしい軍団はいない。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-04-singularity-parallel-ai-coding-agent-review.jpg",
+    "created_at": "2026-10-04T14:30:29.226469+09:00",
+    "posted": false
   }
 ]

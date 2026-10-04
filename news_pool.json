@@ -1,36 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 27 Sep 2026 01:30:00 +0000",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-27T13:57:12"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "MakerMap",
-      "url": "https://www.producthunt.com/products/makermap",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A living map of makers and what they’re building </p> <p> <a href=\"https://www.producthunt.com/products/makermap?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1261392?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-27T13:57:13"
-    },
-    {
       "source": "HN AI Coding",
       "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
       "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
@@ -2527,7 +2497,84 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-04T08:44:40"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Writing code by hand is over, forever",
+      "url": "https://eliocapella.com/blog/writing-code-by-hand-is-over/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 03 Oct 2026 22:22:45 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-04T14:29:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Singularity",
+      "url": "https://www.producthunt.com/products/singularity-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Run AI coding agents in parallel, one ticket at a time </p> <p> <a href=\"https://www.producthunt.com/products/singularity-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1266692?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-04T14:30:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "The Rise of Overfit Inference Engines",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-10-03T18:24:42+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/\"> <img alt=\"The Rise of Overfit Inference Engines\" src=\"https://external-preview.redd.it/aNcJUYeEP8Q3f5LSIpNIZjjRXbxAsnMQfvsJVWEZJys.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e668fe8e3d796c2ff6f6ff2f3793c0fc0c24340e\" title=\"The Rise of Overfit Inference Engines\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>There seems to be a whole category of extremely narrow infer",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-10-04T14:30:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Yes bots we get it, Strata is good now please stop",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwobfg/yes_bots_we_get_it_strata_is_good_now_please_stop/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-10-03T14:15:21+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wwobfg/yes_bots_we_get_it_strata_is_good_now_please_stop/\"> <img alt=\"Yes bots we get it, Strata is good now please stop\" src=\"https://preview.redd.it/wcaopun0g9th1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb2d0ca3fb372325c987b7840371ac043b8039b9\" title=\"Yes bots we get it, Strata is good now please stop\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>It's like the entire sub has become that scene from Konosuba",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-10-04T14:30:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Is all the work that's being put into Qwen3.8 Flash Next going to set us up for a very quick uplift to Qwen4?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx3sxu/is_all_the_work_thats_being_put_into_qwen38_flash/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "2026-10-04T01:52:48+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Given the commentary on the Q3.8FN release page here <a href=\"https://qwen.ai/blog?id=qwen3.8-flash-next\">https://qwen.ai/blog?id=qwen3.8-flash-next</a> I assume/hope that all the work that's going on to optimise the hell out of running it will be useful when Qwen4 drops?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/demomanca\"> /u/demomanca </a> <br /> <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wx3sxu/i",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-10-04T14:30:02"
     }
   ],
-  "updated_at": "2026-10-04T08:44:44.118686+09:00"
+  "updated_at": "2026-10-04T14:30:02.975282+09:00"
 }
