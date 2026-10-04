@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-03-sentry-error-tracking-review-python-llm",
-    "title": "Sentry 使い方とエラー監視の自動化・LLM運用の実力をレビュー",
-    "url": "https://ai.negi-lab.com/posts/sentry-error-tracking-review-python-llm/",
-    "category": "TOOL",
-    "viral_tags": "#Sentry #Python開発",
-    "tweet_text": "本番環境のエラーデバッグで消耗しているなら、今すぐSentryを入れるべき。\nログファイルをgrepする時代は終わりました。エラー発生時の変数の中身やユーザーの行動履歴が1画面で完結。\n特にAPI連携が多いAIアプリ運用では、レート制限や形式不一致を即座に検知できるのがデカい。\nセルフホストはメモリ16GB以上必須なので、最初はSaaS版が安定です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-03-sentry-error-tracking-review-python-llm.jpg",
-    "created_at": "2026-10-03T13:59:11.840845+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-03-unimate-ai-3d-animation-skeleton-unified-model",
     "title": "UniMate 使い方：多様な3Dキャラを一つのモデルで動かす次世代アニメーション技術",
     "url": "https://ai.negi-lab.com/posts/unimate-ai-3d-animation-skeleton-unified-model/",
