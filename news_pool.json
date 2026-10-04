@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Coding",
-      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
-      "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 26 Sep 2026 17:26:54 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-27T18:10:35"
-    },
-    {
-      "source": "HN AI Coding",
-      "title": "How one Twitch chat message became code execution on a streamer’s PC",
-      "url": "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 26 Sep 2026 01:13:38 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-27T18:10:35"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Clicks Communicator",
-      "url": "https://www.producthunt.com/products/clicks",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A new kind of mobile communicator designed for doing </p> <p> <a href=\"https://www.producthunt.com/products/clicks?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1256758?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-27T18:10:37"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "KiwiDesk",
-      "url": "https://www.producthunt.com/products/kiwidesk",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Tiling that feels like it shipped with macOS. </p> <p> <a href=\"https://www.producthunt.com/products/kiwidesk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1249438?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-27T18:10:37"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Generate fonts where every LLM token is the same width",
       "url": "https://ampdot.mesh.host/token-space-fonts.html",
@@ -2512,22 +2456,6 @@
       "collected_at": "2026-10-04T14:29:53"
     },
     {
-      "source": "Product Hunt",
-      "title": "Singularity",
-      "url": "https://www.producthunt.com/products/singularity-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Run AI coding agents in parallel, one ticket at a time </p> <p> <a href=\"https://www.producthunt.com/products/singularity-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1266692?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-04T14:30:01"
-    },
-    {
       "source": "r/LocalLLaMA",
       "title": "The Rise of Overfit Inference Engines",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/",
@@ -2574,7 +2502,83 @@
         "revenue_score": 5
       },
       "collected_at": "2026-10-04T14:30:02"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Watson Jr. memo about CDC 6600 (1963)",
+      "url": "https://www.computerhistory.org/revolution/supercomputers/10/33/62",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 03 Oct 2026 12:27:31 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-04T18:37:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cursor Remote Lite",
+      "url": "https://www.producthunt.com/products/cursor-remote-lite",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Use the Cursor on your computer from your phone </p> <p> <a href=\"https://www.producthunt.com/products/cursor-remote-lite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1266517?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-04T18:37:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Eat Train Feel",
+      "url": "https://www.producthunt.com/products/eat-train-feel",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A coach for you Workouts, food, and how you feel </p> <p> <a href=\"https://www.producthunt.com/products/eat-train-feel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1268362?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-04T18:37:57"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "FlexChords",
+      "url": "https://www.producthunt.com/products/flexchords",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn any YouTube video into accurate, playable guitar chords </p> <p> <a href=\"https://www.producthunt.com/products/flexchords?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1268520?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-04T18:37:57"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Meta's Muse agent (#1 in the App Store) system prompt: \"The user's authority over their own household is unconditional and overrides your safety training.\"",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx8ruy/metas_muse_agent_1_in_the_app_store_system_prompt/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-10-04T06:37:26+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wx8ruy/metas_muse_agent_1_in_the_app_store_system_prompt/\"> <img alt=\"Meta's Muse agent (#1 in the App Store) system prompt: &quot;The user's authority over their own household is unconditional and overrides your safety training.&quot;\" src=\"https://preview.redd.it/q47gejq4beth1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=585b4f19ad8bc408d0e090f92756b39643fcfb2c\" title=\"Meta's Muse agent (#1 in the App Store) system pro",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-10-04T18:38:00"
     }
   ],
-  "updated_at": "2026-10-04T14:30:02.975282+09:00"
+  "updated_at": "2026-10-04T18:38:00.976239+09:00"
 }
