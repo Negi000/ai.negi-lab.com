@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-10-04-llm-machine-unlearning-aaai26-breakthrough.jpg",
     "created_at": "2026-10-04T23:38:52.394569+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-05-qwen-27b-humanlike-gpu-selection-guide",
+    "title": "ローカルLLM用GPUの選び方：Qwen3.8-27BをVRAM24GBで快適に動かすための最適解",
+    "url": "https://ai.negi-lab.com/posts/qwen-27b-humanlike-gpu-selection-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "ローカルLLMの新作Qwen3.8-27B-Humanlike 2.0が登場。27BはVRAM 24GB（RTX 4090/3090）1枚で最高速度を出せる、個人開発者の「スイートスポット」です。16GB機だと量子化劣化が痛い。ツール呼び出し精度も上がって、実務エージェントとしてようやく本格投入できるレベルになりました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-10-05T03:21:01.721181+09:00",
+    "posted": false
   }
 ]
