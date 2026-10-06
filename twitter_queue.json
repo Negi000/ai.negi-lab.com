@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-10-06-apple-silicon-mlx-local-llm-tutorial.jpg",
     "created_at": "2026-10-06T22:01:45.065329+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-07-openchart-vs-tradingview-ai-gpu-guide",
+    "title": "OpenChartとTradingViewを比較！AI投資エージェント構築で失敗しないGPUとPCの選び方",
+    "url": "https://ai.negi-lab.com/posts/openchart-vs-tradingview-ai-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #個人開発",
+    "tweet_text": "TradingViewのサブスクに月9,000円払うなら、OSSのOpenChartに乗り換えてハードウェアに投資するのが正解。AIエージェントをローカルLLMで動かすなら、VRAM 16GB（RTX 4060 Ti等）が最低ラインです。8GBモデルを買うと、推論とチャート描画の並列処理で詰みます。自分専用の投資環境を構築したいエンジニア向けに、失敗しないPC選びをまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-10-07T06:27:35.036731+09:00",
+    "posted": false
   }
 ]

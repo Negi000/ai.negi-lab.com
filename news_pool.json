@@ -2,181 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Claude partial outage",
-      "url": "https://status.claude.com/incidents/4xvtc2gnq73l",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 29 Sep 2026 14:25:41 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-30T00:23:00"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 29 Sep 2026 15:12:07 +0000",
-      "summary": "Instinct founder said that the platform is growing 10% day-by-day",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-30T00:23:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "LUCI Desktop",
-      "url": "https://www.producthunt.com/products/luci-desktop",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Let your AI agents remember what you've seen </p> <p> <a href=\"https://www.producthunt.com/products/luci-desktop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1255956?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-09-30T00:23:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "GhostDeck",
-      "url": "https://www.producthunt.com/products/ghostdeck-retro-music-player",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Offline Mac music player with living low-poly worlds </p> <p> <a href=\"https://www.producthunt.com/products/ghostdeck-retro-music-player?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1263092?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-30T00:23:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Timeful",
-      "url": "https://www.producthunt.com/products/timeful",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Design web apps and sync with your own codebase </p> <p> <a href=\"https://www.producthunt.com/products/timeful?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1263469?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-30T00:23:02"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Tue, 29 Sep 2026 17:45:51 +0000",
-      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-30T02:54:54"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Gladys Assistant 5",
-      "url": "https://www.producthunt.com/products/gladys-assistant",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Private, self-hosted smart home, no YAML required </p> <p> <a href=\"https://www.producthunt.com/products/gladys-assistant?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1263586?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-30T02:54:55"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Would you pay?",
-      "url": "https://www.producthunt.com/products/would-you-pay",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Find out who'd pay before you build more </p> <p> <a href=\"https://www.producthunt.com/products/would-you-pay?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1263543?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-30T02:54:55"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 29 Sep 2026 19:30:17 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-30T06:16:58"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "OpenAI Targets $30B in New Funding at $1.4T Value",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 29 Sep 2026 17:44:21 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-30T06:16:58"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 29 Sep 2026 17:31:26 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-30T06:16:58"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Tue, 29 Sep 2026 20:15:47 +0000",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-09-30T06:17:00"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
       "primary_category": "NEWS",
@@ -2891,7 +2716,106 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-06T21:59:47"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 06 Oct 2026 17:01:52 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-07T06:27:03"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "AI is now capable of developing its own inference hardware",
+      "url": "https://github.com/FeSens/openTPU",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 06 Oct 2026 16:23:25 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-07T06:27:03"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Show HN: OpenChart – OSS TradingView alternative with your own AI agent",
+      "url": "https://github.com/longsurf-ai/openchart",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Tue, 06 Oct 2026 15:16:45 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-07T06:27:03"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Microsoft confirms OpenAI has been using Looped Transformers in the GPT-6 series",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz00vv/microsoft_confirms_openai_has_been_using_looped/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-10-06T11:21:30+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wz00vv/microsoft_confirms_openai_has_been_using_looped/\"> <img alt=\"Microsoft confirms OpenAI has been using Looped Transformers in the GPT-6 series\" src=\"https://preview.redd.it/uxhxqwx00uth1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f4598320452912586c58c15a8bb598ff263aa4c\" title=\"Microsoft confirms OpenAI has been using Looped Transformers in the GPT-6 series\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Mi",
+      "extra": {},
+      "collected_at": "2026-10-07T06:27:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 06 Oct 2026 20:35:20 +0000",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-10-07T06:27:05"
+    },
+    {
+      "source": "Google News",
+      "title": "サム・アルトマン描く映画『Artificial』、なぜAmazonは配給を断念？OpenAIとの関係に注目（The Hollywood Reporter Japan） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ycVh0ak5MNUpidmpOQV9sR1ZhNS1zcU9rdV9MMU1hREhUS0pYc1JnWjlzUnBHcjlYVkN6RERiV0hlWmZFbDNPSVB5NWtxQXhxQnNvcXRXVTRFa1dIOEpnUDdsRGl2VUwyb3JpVmY5dEFmYnQ5dlpoQW5qQ056T0k?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 06 Oct 2026 20:16:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5ycVh0ak5MNUpidmpOQV9sR1ZhNS1zcU9rdV9MMU1hREhUS0pYc1JnWjlzUnBHcjlYVkN6RERiV0hlWmZFbDNPSVB5NWtxQXhxQnNvcXRXVTRFa1dIOEpnUDdsRGl2VUwyb3JpVmY5dEFmYnQ5dlpoQW5qQ056T0k?oc=5\" target=\"_blank\">サム・アルトマン描く映画『Artificial』、なぜAmazonは配給を断念？OpenAIとの関係に注目（The Hollywood Reporter Japan）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-07T06:27:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Chunk",
+      "url": "https://www.producthunt.com/products/chunk-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The time-blocking app for macOS </p> <p> <a href=\"https://www.producthunt.com/products/chunk-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1271029?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-07T06:27:06"
     }
   ],
-  "updated_at": "2026-10-06T21:59:50.985479+09:00"
+  "updated_at": "2026-10-07T06:27:09.240701+09:00"
 }
