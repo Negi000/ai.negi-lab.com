@@ -1,109 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 28 Sep 2026 18:58:53 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-29T07:25:15"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Prompting Claude Opus 5.5",
-      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 28 Sep 2026 07:33:29 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-09-29T07:25:15"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Finally found a model my hardware can run at full precision: me",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsiepp/finally_found_a_model_my_hardware_can_run_at_full/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-09-28T15:55:07+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wsiepp/finally_found_a_model_my_hardware_can_run_at_full/\"> <img alt=\"Finally found a model my hardware can run at full precision: me\" src=\"https://preview.redd.it/jsk9hq8e9ash1.gif?width=640&amp;crop=smart&amp;s=c10bac9400c691f5b8d7a4dc53712c3ac6aabf7a\" title=\"Finally found a model my hardware can run at full precision: me\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Was getting bored trying to squeeze every last t/",
-      "extra": {},
-      "collected_at": "2026-09-29T07:25:15"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 28 Sep 2026 21:29:18 +0000",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-29T07:25:17"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Lattice",
-      "url": "https://www.producthunt.com/products/lattice-11",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Reshape your text across languages while preserving meaning </p> <p> <a href=\"https://www.producthunt.com/products/lattice-11?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1262593?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-09-29T07:25:17"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "vantage.ai",
-      "url": "https://www.producthunt.com/products/vantage-ai-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> See and control what your coding agent does. </p> <p> <a href=\"https://www.producthunt.com/products/vantage-ai-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1261662?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-09-29T07:25:17"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "VibeDefend by CybeDefend",
-      "url": "https://www.producthunt.com/products/cybedefend",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The one command line to secure your Cursor and Claude Code </p> <p> <a href=\"https://www.producthunt.com/products/cybedefend?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1253533?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-09-29T07:25:17"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
       "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
@@ -2513,23 +2410,6 @@
     },
     {
       "source": "r/LocalLLaMA",
-      "title": "From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-10-04T14:09:31+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/\"> <img alt=\"From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck\" src=\"https://preview.redd.it/yiqnv7c6kgth1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9a00f334fb52f12418ae58d3b5a5bc2d71f13ae5\" title=\"From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>From ",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-10-05T04:55:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
       "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxma3a/micron_ceo_says_memory_supply_will_be_much/",
       "primary_category": "GUIDE",
@@ -2910,7 +2790,138 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-06T05:25:13"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Example.com Just Launched the Biggest Redesign in Decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 05 Oct 2026 22:55:11 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-06T10:44:00"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Mon, 05 Oct 2026 21:00:21 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-06T10:44:00"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "The mental health of young men is declining. Experts warn it could get worse",
+      "url": "https://www.cbc.ca/news/health/the-mental-health-of-young-men-is-declining-experts-warn-it-could-get-worse-9.7361010",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 05 Oct 2026 20:07:25 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-06T10:44:00"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "How is it possible that qwen 27b is so good? When GPT 4o had a trillion parameters and was worse?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyefkt/how_is_it_possible_that_qwen_27b_is_so_good_when/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-10-05T17:20:38+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wyefkt/how_is_it_possible_that_qwen_27b_is_so_good_when/\"> <img alt=\"How is it possible that qwen 27b is so good? When GPT 4o had a trillion parameters and was worse?\" src=\"https://preview.redd.it/30cg5bmsmoth1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d44b8ff477ced26c69de015f18396bd9c68e7690\" title=\"How is it possible that qwen 27b is so good? When GPT 4o had a trillion parameters and was worse?\" /> </a> </td><td> <!",
+      "extra": {},
+      "collected_at": "2026-10-06T10:44:01"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-10-05T22:37:19+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So PewDiePie decides to fine-tune a local AI model called Ajax on his own computer. Pretty normal stuff for local model fans.</p> <p>To make his dataset, he uses OpenAI's API. OpenAI catches him using their outputs to train another model, flags his account for breaking their terms, and bans him.</p> <p>He files an appeal, gets unbanned, goes right back to pulling data from the API, and immediately gets banned a second time.</p> <p>So instead of giving up, he use",
+      "extra": {},
+      "collected_at": "2026-10-06T10:44:01"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 05 Oct 2026 20:36:48 +0000",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-06T10:44:08"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "devpit",
+      "url": "https://www.producthunt.com/products/devpit",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A native control room for your Claude Code agents </p> <p> <a href=\"https://www.producthunt.com/products/devpit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1267967?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-06T10:44:09"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "HyperFrames Studio (Desktop)",
+      "url": "https://www.producthunt.com/products/heygen",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The First Video Editor built for Agents </p> <p> <a href=\"https://www.producthunt.com/products/heygen?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1270060?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-06T10:44:09"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "crosswalk",
+      "url": "https://www.producthunt.com/products/crosswalk",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A third place for people & their agents, starting with inbox </p> <p> <a href=\"https://www.producthunt.com/products/crosswalk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1269975?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-06T10:44:09"
     }
   ],
-  "updated_at": "2026-10-06T05:25:17.056257+09:00"
+  "updated_at": "2026-10-06T10:44:12.910106+09:00"
 }
