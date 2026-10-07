@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-10-07-llamacpp-gguf-beginner-guide-setup.jpg",
     "created_at": "2026-10-07T21:53:52.113210+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-08-qwen-local-llm-rtx-vram-comparison-guide",
+    "title": "ローカルLLM選びの新基準｜Qwen 2.5がGPT-4o超え？実務で勝てるRTX・Macの買い方比較",
+    "url": "https://ai.negi-lab.com/posts/qwen-local-llm-rtx-vram-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "Qwen 2.5-Coder-32Bの登場で、もはや巨大なGPT-4oをAPIで叩くより「VRAM 24GB環境で中規模モデルを爆速で回す」ほうが開発効率が高い。4bit量子化ならRTX 4090で秒間40トークン超え。このラグなし体験を一度知ると戻れません。買うならVRAM容量をケチるのが一番の失敗。Macならメモリ64GB以上、Windowsなら24GB一択です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-08-qwen-local-llm-rtx-vram-comparison-guide.jpg",
+    "created_at": "2026-10-08T03:42:37.381551+09:00",
+    "posted": false
   }
 ]

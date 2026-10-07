@@ -1,156 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Wed, 30 Sep 2026 13:50:50 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-01T00:39:14"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
-      "url": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 30 Sep 2026 13:36:37 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-01T00:39:14"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Wed, 30 Sep 2026 14:30:00 +0000",
-      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-10-01T00:39:16"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Foglio",
-      "url": "https://www.producthunt.com/products/foglio",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Simple, private docs with smart AI templates, zero bloat. </p> <p> <a href=\"https://www.producthunt.com/products/foglio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1264534?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-01T00:39:17"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Cyluma",
-      "url": "https://www.producthunt.com/products/cyluma",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your Mac’s battery as a living, breathing landscape </p> <p> <a href=\"https://www.producthunt.com/products/cyluma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1265223?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-01T00:39:17"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The ugly economics of consumer AI",
-      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 30 Sep 2026 17:24:45 +0000",
-      "summary": "There’s a reason frontier labs have gotten gunshy about consumer AI — and it’s not because the tech isn’t good enough.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-01T02:49:57"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Autonomyware",
-      "url": "https://www.producthunt.com/products/autonomyware",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Idea to physical product, engineer anything you can imagine </p> <p> <a href=\"https://www.producthunt.com/products/autonomyware?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1244102?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-01T02:49:58"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Evlat",
-      "url": "https://www.producthunt.com/products/evlat",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Know which AI coding agent is waiting on you </p> <p> <a href=\"https://www.producthunt.com/products/evlat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1264672?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-01T02:49:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu0bdf/add_glm53flash_glm5next_support_by_timkhronos/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-09-30T09:22:03+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wu0bdf/add_glm53flash_glm5next_support_by_timkhronos/\"> <img alt=\"add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/Zf7AhN3F_Tsz0JMllUCGPEOk7I8J8MM4zrXDPaYV2DA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=073326754eb65ddcd594ab5265d34ccaf1a007cd\" title=\"add GLM-5.3-Flash (GLM5-Next) support by timkhronos · Pull Request #27773 · ggml-org/l",
-      "extra": {
-        "revenue_score": 13
-      },
-      "collected_at": "2026-10-01T02:50:02"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Oído: speech recognition that beats Whisper-tiny, running on a $5 microcontroller (open source)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu2jjy/oído_speech_recognition_that_beats_whispertiny/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-09-30T11:34:48+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm part of the Lokutor team that built this.</p> <p>Model: NVIDIA Conformer-CTC Small (13M params, int8). It runs on an ESP32-S3 with 8 MB PSRAM, no GPU or NPU. LibriSpeech WER is 3.7 / 8.2, versus 6.3 / 15.9 for Whisper tiny.en on a laptop. Under real noise (DEMAND: car, kitchen, cafeteria) plus babble and reverb, mean WER is 8.4 vs 12.1 for Whisper tiny.en. You can try the exact chip arithmetic on your laptop mic with live_demo.py. <a href=\"https://github.com",
-      "extra": {
-        "revenue_score": 8
-      },
-      "collected_at": "2026-10-01T02:50:02"
-    },
-    {
       "source": "HN AI Coding",
       "title": "What makes software development engineering",
       "url": "https://parksb.github.io/en/article/44.html",
@@ -2777,7 +2627,55 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-07T21:53:19"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Wed, 07 Oct 2026 18:30:57 +0000",
+      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-08T03:41:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Proofsource",
+      "url": "https://www.producthunt.com/products/proofsource",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI search visibility, with agents that fix the gaps </p> <p> <a href=\"https://www.producthunt.com/products/proofsource?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1271245?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-08T03:41:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Featherweight Dictation",
+      "url": "https://www.producthunt.com/products/featherweight-dictation",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Dictation that weighs nothing, for Mac and Windows </p> <p> <a href=\"https://www.producthunt.com/products/featherweight-dictation?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1271569?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-08T03:41:54"
     }
   ],
-  "updated_at": "2026-10-07T21:53:23.254812+09:00"
+  "updated_at": "2026-10-08T03:41:57.782754+09:00"
 }
