@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-06-apple-silicon-mlx-local-llm-tutorial",
-    "title": "Apple SiliconでLLMを爆速化するMLX入門：環境構築からストリーミング実装まで",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Siliconのメモリ帯域をフル活用するならMLX一択。Llama 3 8BクラスがM2/M3 Macで秒間50トークン超えの爆速で動く。API料金や機密情報の流出を気にせず、手元でLLMを回せる快感は一度知ると戻れない。16GB以上のメモリがあれば即戦力。環境構築からストリーミング実装までの最短ルートを書いた。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-06-apple-silicon-mlx-local-llm-tutorial.jpg",
-    "created_at": "2026-10-06T10:44:39.918212+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-06-cloudflare-web-search-api-review-usage",
-    "title": "Cloudflare Web Search API 使い方と実務評価",
-    "url": "https://ai.negi-lab.com/posts/cloudflare-web-search-api-review-usage/",
-    "category": "TOOL",
-    "viral_tags": "#Cloudflare #AIエージェント",
-    "tweet_text": "AIエージェント開発の「検索API遅すぎ問題」がCloudflare Web Search APIで解決する。Workers環境なら設定0秒、レスポンスもエッジ動作で爆速。Google APIのパースで消耗するのはもう終わり。検索精度はGoogleに一歩譲るが、RAGの文脈補完にはこれで十分すぎる。実務派は今すぐAPI叩くべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-06-cloudflare-web-search-api-review-usage.jpg",
-    "created_at": "2026-10-06T14:59:01.437621+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-06-orgcomputers-ai-agent-workspace-review",
     "title": "OrgComputers 実行環境の切り出しでAIエージェントの安全性と再現性を担保する",
     "url": "https://ai.negi-lab.com/posts/orgcomputers-ai-agent-workspace-review/",
