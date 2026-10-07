@@ -15233,5 +15233,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-10-07T06:27:35.036731+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-07-heretic-llm-censorship-removal-guide",
+    "title": "heretic 使い方 | ローカルLLMの「ガードレール」を自動で解除する手法を検証",
+    "url": "https://ai.negi-lab.com/posts/heretic-llm-censorship-removal-guide/",
+    "category": "TOOL",
+    "viral_tags": "#ローカルLLM #Llama3",
+    "tweet_text": "ローカルLLMの「AIとしての説教」を数分で解除するhereticを検証。RTX 4090環境ならLlama 3 8Bの拒絶ベクトル特定から重みの直交化まで一瞬。SFTやDPOと違い、モデルの知能指数を削らずにガードレールだけを外せるのが強み。研究用途や特定ドメインのRAGで拒絶に悩む開発者は、一度重みの手術を試すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-07-heretic-llm-censorship-removal-guide.jpg",
+    "created_at": "2026-10-07T14:33:08.907657+09:00",
+    "posted": false
   }
 ]
