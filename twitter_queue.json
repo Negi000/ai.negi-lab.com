@@ -15205,5 +15205,19 @@
     "image_path": "/images/posts/2026-10-08-qwen-local-llm-rtx-vram-comparison-guide.jpg",
     "created_at": "2026-10-08T03:42:37.381551+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-08-gpt-6-looped-transformers-gpu-selection-guide",
+    "title": "ローカルLLM環境の選び方！OpenAI GPT-6採用「Looped Transformer」時代に備えるGPU・Mac比較",
+    "url": "https://ai.negi-lab.com/posts/gpt-6-looped-transformers-gpu-selection-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "GPT-6がLooped Transformers採用との報道。これ、ローカルLLM勢には「VRAM量だけでなく演算性能（TFLOPS）も死守せよ」というメッセージです。モデルが軽量化しても、推論時のループ計算でGPUパワーが食いつぶされる。今買うならRTX 4090か、メモリ64GB以上のMac一択。中途半端なスペックは数ヶ月でゴミになるリスク大。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-08-gpt-6-looped-transformers-gpu-selection-guide.jpg",
+    "created_at": "2026-10-08T06:48:07.473278+09:00",
+    "posted": false
   }
 ]
