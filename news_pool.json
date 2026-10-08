@@ -1,78 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 01 Oct 2026 10:21:36 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-02T01:00:42"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "FT: Corporate America rejects overpriced frontier, embraces open models",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrzpzg/ft_corporate_america_rejects_overpriced_frontier/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-09-28T00:03:49+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/chocolateUI\"> /u/chocolateUI </a> <br /> <span><a href=\"https://archive.ph/https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1wrzpzg/ft_corporate_america_rejects_overpriced_frontier/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-10-02T01:00:42"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Thu, 01 Oct 2026 15:12:00 +0000",
-      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-02T01:00:44"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Monospace from Directus",
-      "url": "https://www.producthunt.com/products/directus",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The governed API layer for every app, person, and agent </p> <p> <a href=\"https://www.producthunt.com/products/directus?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1251614?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-02T01:00:45"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Bracket",
-      "url": "https://www.producthunt.com/products/bracket-2027",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The memory layer for your business </p> <p> <a href=\"https://www.producthunt.com/products/bracket-2027?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1258620?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-02T01:00:45"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "OpenAI cuts ties with three safety researchers, WSJ reports",
       "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
@@ -2550,7 +2478,121 @@
         "revenue_score": 3
       },
       "collected_at": "2026-10-08T22:02:04"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 08 Oct 2026 12:00:20 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-09T01:08:44"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Thu, 08 Oct 2026 07:07:34 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-09T01:08:44"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 08 Oct 2026 05:14:14 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-09T01:08:44"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "llama.cpp on the stage",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-10-07T20:25:51+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage/\"> <img alt=\"llama.cpp on the stage\" src=\"https://preview.redd.it/97agn332u3uh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=31d1478deb11ab01ddee2a3fc057d36d73e853da\" title=\"llama.cpp on the stage\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://x.com/ggerganov/status/2107908265032229261\">https://x.com/ggerganov/status/2107908265032229261</a></p> </div><!-- SC_ON --> &#3",
+      "extra": {},
+      "collected_at": "2026-10-09T01:08:45"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Thu, 08 Oct 2026 16:00:00 +0000",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-09T01:08:52"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "OpenSEO - AI Visibility",
+      "url": "https://www.producthunt.com/products/openseo",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The open source Semrush alternative </p> <p> <a href=\"https://www.producthunt.com/products/openseo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1272262?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-09T01:08:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "OpenSwarm",
+      "url": "https://www.producthunt.com/products/openswarm-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A swarm of agents, in the same place you work </p> <p> <a href=\"https://www.producthunt.com/products/openswarm-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1271048?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-09T01:08:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Polylane for Vercel",
+      "url": "https://www.producthunt.com/products/polylane",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> An AI on-call engineer for your Vercel apps </p> <p> <a href=\"https://www.producthunt.com/products/polylane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1273143?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-09T01:08:53"
     }
   ],
-  "updated_at": "2026-10-08T22:02:07.310873+09:00"
+  "updated_at": "2026-10-09T01:08:56.988204+09:00"
 }
