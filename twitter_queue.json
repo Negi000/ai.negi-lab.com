@@ -15219,5 +15219,19 @@
     "image_path": "/images/posts/2026-10-08-figma-agent-ai-review-and-tutorial.jpg",
     "created_at": "2026-10-08T14:41:15.771769+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-08-allenai-olmocr-pdf-linearization-review",
+    "title": "allenai/olmocr PDFをLLMに最適なデータへ変換する「リニアライズ」ツールの実力",
+    "url": "https://ai.negi-lab.com/posts/allenai-olmocr-pdf-linearization-review/",
+    "category": "TOOL",
+    "viral_tags": "#olmocr #RAG",
+    "tweet_text": "PDFをLLMの学習データにする際、レイアウト崩れで悩むのはもう終わり。Allen AIの「olmocr」はVLMを使ってPDFを最適なMarkdownへリニアライズする。単なるOCRではなく情報の順序を再構成するのが肝。VRAM 24GBは欲しいが、RAGの精度を極めるなら現状これが最適解。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-08-allenai-olmocr-pdf-linearization-review.jpg",
+    "created_at": "2026-10-08T19:30:10.373053+09:00",
+    "posted": false
   }
 ]
