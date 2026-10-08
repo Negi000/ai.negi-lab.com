@@ -1,67 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Thu, 01 Oct 2026 12:00:00 +0000",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-10-01T21:41:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Starlie",
-      "url": "https://www.producthunt.com/products/starlie",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A fast, native Jira client for Mac </p> <p> <a href=\"https://www.producthunt.com/products/starlie?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1235021?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-01T21:41:40"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Omnia Agent",
-      "url": "https://www.producthunt.com/products/omnia-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The AI Agent that does 95% of your GEO work </p> <p> <a href=\"https://www.producthunt.com/products/omnia-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1263672?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-01T21:41:40"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Helo",
-      "url": "https://www.producthunt.com/products/helo-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> An independent email API from former Postmark folks </p> <p> <a href=\"https://www.producthunt.com/products/helo-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1266002?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-01T21:41:40"
-    },
-    {
       "source": "HN AI Hot",
       "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
       "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
@@ -2166,21 +2105,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "allenai/olmocr",
-      "url": "https://github.com/allenai/olmocr",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Toolkit for linearizing PDFs for LLM datasets/training",
-      "extra": {
-        "stars_today": "22 stars today"
-      },
-      "collected_at": "2026-10-07T21:53:18"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "MDX-Tom/gpt-instruct",
       "url": "https://github.com/MDX-Tom/gpt-instruct",
       "primary_category": "TOOL",
@@ -2518,7 +2442,115 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-08T19:25:17"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Open-source alternative to ChatGPT's new Intelligent UI works with any model (local too)",
+      "url": "https://www.reddit.com/r/ollama/comments/1x0duco/opensource_alternative_to_chatgpts_new/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "2026-10-08T01:11:45+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>ChatGPT launched Intelligent UI, where answers come back as charts, forms and small tools instead of text. It only works inside ChatGPT, so I built an open-source alternative that runs with any OpenAI-compatible model: Ollama, LM Studio, Kimi, OpenRouter, Groq or OpenAI.</p> <p>GitHub: <a href=\"https://github.com/0xcro3dile/answerui\">https://github.com/0xcro3dile/answerui</a> (demo video in the README)</p> <ul> <li>Answers stream in as real interfaces: sliders, ",
+      "extra": {},
+      "collected_at": "2026-10-08T22:02:02"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Tracer-Cloud/opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+      "extra": {
+        "stars_today": "107 stars today"
+      },
+      "collected_at": "2026-10-08T22:02:03"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "abrignoni/ALEAPP",
+      "url": "https://github.com/abrignoni/ALEAPP",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Android Logs Events And Protobuf Parser",
+      "extra": {
+        "stars_today": "18 stars today"
+      },
+      "collected_at": "2026-10-08T22:02:03"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "extra": {
+        "stars_today": "193 stars today"
+      },
+      "collected_at": "2026-10-08T22:02:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Moonwalkers Dusk",
+      "url": "https://www.producthunt.com/products/moonwalkers-dusk",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Strap-on motorized wheels that let you walk twice as fast </p> <p> <a href=\"https://www.producthunt.com/products/moonwalkers-dusk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1268445?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-08T22:02:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Termaxa",
+      "url": "https://www.producthunt.com/products/termaxa",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> See what an AI agent's command would destroy before it runs </p> <p> <a href=\"https://www.producthunt.com/products/termaxa?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1273125?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-08T22:02:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "KloudMate 2.0",
+      "url": "https://www.producthunt.com/products/kloudmate",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI-powered Full-Stack Observability & Agentic SRE-Ops </p> <p> <a href=\"https://www.producthunt.com/products/kloudmate?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1237294?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-08T22:02:04"
     }
   ],
-  "updated_at": "2026-10-08T19:25:21.228288+09:00"
+  "updated_at": "2026-10-08T22:02:07.310873+09:00"
 }
