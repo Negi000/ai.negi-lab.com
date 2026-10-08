@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-      "url": "https://blog.gitbutler.com/git-3-sha-256",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 01 Oct 2026 16:57:03 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-02T04:46:27"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-      "url": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 01 Oct 2026 13:05:51 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-02T04:46:27"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "10-year Treasury yield climbs above 5.3% to a level not seen in 24 years",
-      "url": "https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 01 Oct 2026 01:40:50 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-02T04:46:27"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Thu, 01 Oct 2026 19:21:53 +0000",
-      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-02T04:46:29"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Stardrift for iOS",
-      "url": "https://www.producthunt.com/products/stardrift-for-ios",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The AI travel assistant in your pocket </p> <p> <a href=\"https://www.producthunt.com/products/stardrift-for-ios?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1266003?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-02T04:46:30"
-    },
-    {
       "source": "Product Hunt",
       "title": "Buddy Drop",
       "url": "https://www.producthunt.com/products/buddy",
@@ -2488,20 +2419,6 @@
       "collected_at": "2026-10-09T01:08:44"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "llama.cpp on the stage",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-10-07T20:25:51+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage/\"> <img alt=\"llama.cpp on the stage\" src=\"https://preview.redd.it/97agn332u3uh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=31d1478deb11ab01ddee2a3fc057d36d73e853da\" title=\"llama.cpp on the stage\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://x.com/ggerganov/status/2107908265032229261\">https://x.com/ggerganov/status/2107908265032229261</a></p> </div><!-- SC_ON --> &#3",
-      "extra": {},
-      "collected_at": "2026-10-09T01:08:45"
-    },
-    {
       "source": "Product Hunt",
       "title": "OpenSEO - AI Visibility",
       "url": "https://www.producthunt.com/products/openseo",
@@ -2576,7 +2493,80 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-09T03:40:20"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+      "url": "https://github.com/SamsungLabs/LittleBit",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 08 Oct 2026 13:29:46 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-09T05:04:36"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 08 Oct 2026 20:04:26 +0000",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-09T05:04:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Strac Comply",
+      "url": "https://www.producthunt.com/products/strac-comply",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Get SOC 2 without the sales call </p> <p> <a href=\"https://www.producthunt.com/products/strac-comply?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1273245?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-09T05:04:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "judged.systems",
+      "url": "https://www.producthunt.com/products/judged-systems",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The judgment API platform for support systems. </p> <p> <a href=\"https://www.producthunt.com/products/judged-systems?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1273038?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-09T05:04:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mailwell",
+      "url": "https://www.producthunt.com/products/mailwell-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Native Mac mail for IMAP, JMAP and Microsoft 365 </p> <p> <a href=\"https://www.producthunt.com/products/mailwell-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1272144?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-09T05:04:45"
     }
   ],
-  "updated_at": "2026-10-09T03:40:23.747992+09:00"
+  "updated_at": "2026-10-09T05:04:48.432514+09:00"
 }
