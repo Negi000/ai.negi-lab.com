@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-09-claude-code-cursor-ai-coding-guide.jpg",
     "created_at": "2026-10-09T10:10:29.625796+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-09-opensre-ai-agent-toolkit-review",
+    "title": "OpenSRE 自律型AI SREエージェントを構築するためのオープンソースツールキット",
+    "url": "https://ai.negi-lab.com/posts/opensre-ai-agent-toolkit-review/",
+    "category": "TOOL",
+    "viral_tags": "#SRE #AIエージェント",
+    "tweet_text": "GitHubで話題のOpenSRE、これは「本気で仕事に使える」AIエージェント構築キット。\n\nインシデント発生時にAIが自律してPrometheusを叩き、K8sのログを解析して原因を特定。単なる要約ではなく、復旧アクションまで実行可能。\n\nIaCが進んでいる現場なら、オンコール対応の精神的負荷を劇的に減らせる。RTX 4090でローカルLLM運用すれば機密ログも安心。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-09-opensre-ai-agent-toolkit-review.jpg",
+    "created_at": "2026-10-09T14:45:55.605091+09:00",
+    "posted": false
   }
 ]
