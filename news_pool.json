@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "A new AI model just showed up on DEV·TV",
-      "url": "https://www.reddit.com/r/ollama/comments/1wv6f6p/a_new_ai_model_just_showed_up_on_devtv/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-10-01T17:57:59+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1wv6f6p/a_new_ai_model_just_showed_up_on_devtv/\"> <img alt=\"A new AI model just showed up on DEV·TV\" src=\"https://preview.redd.it/l4uvopoe8wsh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d317003bced4ee374088d29489e9d180c647291d\" title=\"A new AI model just showed up on DEV·TV\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I was watching the DEV·TV feed today and noticed something new:</p> <p><strong>Apodex 1.1 Mini (fr",
-      "extra": {},
-      "collected_at": "2026-10-02T09:41:02"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "JevGPT",
-      "url": "https://www.producthunt.com/products/jevgpt",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A chatbot built on a model that can't write </p> <p> <a href=\"https://www.producthunt.com/products/jevgpt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1263659?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-02T09:41:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Phare C1®",
-      "url": "https://www.producthunt.com/products/phare-c1",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A smoke alarm that detects fire, not toast. </p> <p> <a href=\"https://www.producthunt.com/products/phare-c1?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1264611?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-02T09:41:04"
-    },
-    {
       "source": "Product Hunt",
       "title": "DSH Desktop",
       "url": "https://www.producthunt.com/products/deepseek",
@@ -2584,7 +2538,64 @@
         "revenue_score": 6
       },
       "collected_at": "2026-10-09T06:51:37"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 08 Oct 2026 17:08:02 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-09T10:09:54"
+    },
+    {
+      "source": "r/LocalLLM",
+      "title": "PSA: LMCache phones home by default",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1wzhtld/psa_lmcache_phones_home_by_default/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-10-06T23:42:19+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I log every new outbound connection on my LAN at the router. A few days ago my inference box started making about 18 connections an hour to an AWS IP I didn't recognise, <code>34.236.19.149:8080</code>. It turned out to be <code>stats.lmcache.ai</code>.</p> <p><strong>Source:</strong> LMCache's built-in usage telemetry, which is <strong>on by default</strong>. It only fired while a vLLM container with the LMCache KV-cache tier enabled was serving, and it stopped",
+      "extra": {},
+      "collected_at": "2026-10-09T10:10:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Revela",
+      "url": "https://www.producthunt.com/products/revela",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A film camera for iPhone that makes you wait for the lab </p> <p> <a href=\"https://www.producthunt.com/products/revela?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1258562?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-09T10:10:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "tide",
+      "url": "https://www.producthunt.com/products/tide-simple-self-hostable-video-calls",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A Jitsi alternative that does a few things really well </p> <p> <a href=\"https://www.producthunt.com/products/tide-simple-self-hostable-video-calls?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1272541?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-09T10:10:03"
     }
   ],
-  "updated_at": "2026-10-09T06:51:40.815755+09:00"
+  "updated_at": "2026-10-09T10:10:06.651712+09:00"
 }
