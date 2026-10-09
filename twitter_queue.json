@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-08-llamacpp-gguf-local-llm-guide-beginners",
-    "title": "llama.cpp 使い方 入門 GGUF量子化でローカルLLMを動かす方法",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-guide-beginners/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llama_cpp",
-    "tweet_text": "RTX 4090を2枚挿して20件以上のAI案件をこなした結論。ローカルLLM入門ならllama.cppとGGUF量子化の組み合わせが最強。\n\n・VRAM 8GBあればLlama 3 8Bが爆速で動く\n・Q4_K_M量子化なら精度低下はほぼ体感不能\n・Python API化してOpenAI互換で運用可能\n\n「動かしてみた」で終わらせず、実務で使える自分専用サーバーを構築する手順をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-08-llamacpp-gguf-local-llm-guide-beginners.jpg",
-    "created_at": "2026-10-08T09:57:09.244630+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-08-figma-agent-ai-review-and-tutorial",
-    "title": "Figma Agent キャンバス上でデザイン生成からプロトタイプまで完結させるAIの実力",
-    "url": "https://ai.negi-lab.com/posts/figma-agent-ai-review-and-tutorial/",
-    "category": "TOOL",
-    "viral_tags": "#FigmaAI #UIデザイン",
-    "tweet_text": "Figma Agentを実務投入。デザインの「白紙から作る苦労」が消えた。プロンプト一発で既存ライブラリからUIを組み上げ、レイヤー名までエンジニアフレンドリーに整理。3分かかっていたプロトタイプ接続が0.5秒で終わる快感。センス不要で「動く叩き台」が作れる時代。デザインシステムを持つチームなら導入必須のレベル。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-08-figma-agent-ai-review-and-tutorial.jpg",
-    "created_at": "2026-10-08T14:41:15.771769+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-08-allenai-olmocr-pdf-linearization-review",
     "title": "allenai/olmocr PDFをLLMに最適なデータへ変換する「リニアライズ」ツールの実力",
     "url": "https://ai.negi-lab.com/posts/allenai-olmocr-pdf-linearization-review/",
