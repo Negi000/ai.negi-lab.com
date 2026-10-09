@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-10-09-opensre-ai-agent-toolkit-review.jpg",
     "created_at": "2026-10-09T14:45:55.605091+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-09-aleapp-android-forensics-parser-review",
+    "title": "ALEAPP Androidの複雑なログ・Protobufを自動解析する実力",
+    "url": "https://ai.negi-lab.com/posts/aleapp-android-forensics-parser-review/",
+    "category": "TOOL",
+    "viral_tags": "#Androidフォレンジック #Python",
+    "tweet_text": "Androidの深層ログを丸裸にする「ALEAPP」を検証。SQLiteやProtobufに隠された位置情報やアプリ履歴を、Pythonスクリプトで一括パースして時系列レポート化できる。手動解析なら数日かかる作業が数分で完結。DFIRやアプリ開発者、挙動調査をするエンジニアには代えがたい武器になるはず。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-09-aleapp-android-forensics-parser-review.jpg",
+    "created_at": "2026-10-09T19:25:20.272078+09:00",
+    "posted": false
   }
 ]
