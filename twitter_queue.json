@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-10-local-llm-gpu-mac-comparison-guide.jpg",
     "created_at": "2026-10-10T03:11:28.400312+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-10-local-llm-hardware-guide-privacy-risk",
+    "title": "ローカルLLM環境の選び方と比較。Claude通報事件から学ぶプライバシー重視のGPU・Mac選定ガイド",
+    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-privacy-risk/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #GPU選び",
+    "tweet_text": "Claudeに日記を書いて警察に通報される事例が発生。クラウドAIの「検閲リスク」はエンジニアの機密情報や個人のプライバシーにとって無視できない脅威です。対策はハードウェアへの投資。RTX 4060 Ti 16GBやメモリ64GB以上のMacを選べば、誰にも邪魔されない自分専用のAI環境が手に入ります。VRAM不足で後悔する前に、実務者が重視するスペック基準を確認してください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-10-local-llm-hardware-guide-privacy-risk.jpg",
+    "created_at": "2026-10-10T04:42:01.704115+09:00",
+    "posted": false
   }
 ]

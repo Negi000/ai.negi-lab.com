@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 02 Oct 2026 19:15:51 +0000",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-03T04:29:32"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Gauth Unlimited Digital Canvas",
-      "url": "https://www.producthunt.com/products/gauth-ai-course",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> An AI tutor on an infinite whiteboard, not a chat thread </p> <p> <a href=\"https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1264587?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-03T04:29:32"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Codync",
-      "url": "https://www.producthunt.com/products/codync",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The open-source alternative to Grok Bot, Muse and Dots </p> <p> <a href=\"https://www.producthunt.com/products/codync?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1267264?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-03T04:29:32"
-    },
-    {
       "source": "HN AI Hot",
       "title": "From the creator of Redis; run LLM locally with ds4",
       "url": "https://dwarfstar.sh/",
@@ -2415,21 +2370,6 @@
       "collected_at": "2026-10-09T14:45:28"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-10-08T10:11:02+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/\"> <img alt=\"Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)\" src=\"https://preview.redd.it/8qx5q9h6w7uh1.jpg?width=140&amp;height=66&",
-      "extra": {},
-      "collected_at": "2026-10-09T19:23:00"
-    },
-    {
       "source": "r/ollama",
       "title": "rate the terminal setup",
       "url": "https://www.reddit.com/r/ollama/comments/1x19j0z/rate_the_terminal_setup/",
@@ -2735,7 +2675,53 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-10T03:10:57"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-10T04:41:30"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Playground by Google Labs",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create, play, and share your own games with Google AI </p> <p> <a href=\"https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1273308?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-10T04:41:30"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Gemini Agent for Google Cloud",
+      "url": "https://www.producthunt.com/products/google",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The work agent that runs on both Gemini and Claude </p> <p> <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1273798?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-10T04:41:30"
     }
   ],
-  "updated_at": "2026-10-10T03:11:01.027516+09:00"
+  "updated_at": "2026-10-10T04:41:34.330661+09:00"
 }
