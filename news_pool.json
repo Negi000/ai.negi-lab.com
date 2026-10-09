@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Sayonic",
-      "url": "https://www.producthunt.com/products/sayonic",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A voice assistant in your Mac's notch that does the task </p> <p> <a href=\"https://www.producthunt.com/products/sayonic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1264332?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-02T21:06:26"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "WMail",
-      "url": "https://www.producthunt.com/products/wmail-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Beautifully native iPhone app for Fastmail </p> <p> <a href=\"https://www.producthunt.com/products/wmail-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1263186?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-02T21:06:26"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "CodeAF",
-      "url": "https://www.producthunt.com/products/codeaf",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open Source Software Factory </p> <p> <a href=\"https://www.producthunt.com/products/codeaf?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1266853?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-02T21:06:26"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
       "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
@@ -2151,21 +2106,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "abrignoni/ALEAPP",
-      "url": "https://github.com/abrignoni/ALEAPP",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Android Logs Events And Protobuf Parser",
-      "extra": {
-        "stars_today": "18 stars today"
-      },
-      "collected_at": "2026-10-08T22:02:03"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "smicallef/spiderfoot",
       "url": "https://github.com/smicallef/spiderfoot",
       "primary_category": "TOOL",
@@ -2639,7 +2579,83 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-09T19:23:03"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "extra": {
+        "stars_today": "95 stars today"
+      },
+      "collected_at": "2026-10-09T21:48:20"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "extra": {
+        "stars_today": "109 stars today"
+      },
+      "collected_at": "2026-10-09T21:48:20"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Tencent-Hunyuan/Hy-MT2",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "",
+      "extra": {
+        "stars_today": "147 stars today"
+      },
+      "collected_at": "2026-10-09T21:48:20"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Odyssey 3",
+      "url": "https://www.producthunt.com/products/odyssey-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A world model that simulates physics in real time </p> <p> <a href=\"https://www.producthunt.com/products/odyssey-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1274026?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-09T21:48:21"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Murmur",
+      "url": "https://www.producthunt.com/products/murmur-15",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A private voice-first notepad for your thoughts </p> <p> <a href=\"https://www.producthunt.com/products/murmur-15?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1261173?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-09T21:48:21"
     }
   ],
-  "updated_at": "2026-10-09T19:23:06.584763+09:00"
+  "updated_at": "2026-10-09T21:48:24.398915+09:00"
 }
