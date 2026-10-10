@@ -15289,5 +15289,19 @@
     "image_path": "/images/posts/2026-10-10-apple-silicon-mlx-local-llm-tutorial.jpg",
     "created_at": "2026-10-10T09:43:10.993926+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-10-ambiguous-workspace-ai-agent-tools-review",
+    "title": "Ambiguous Workspace レビュー：AIエージェントに「手足」を与える18種の専用ツール群",
+    "url": "https://ai.negi-lab.com/posts/ambiguous-workspace-ai-agent-tools-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントに「手足」を与えるAmbiguous Workspaceを検証。カレンダーやブラウザなど18種のアプリをLLM向けAPIとして統合。自前でSaaSのAPIラッパーを書く苦行から解放される。15分で自律型エージェントの骨格が完成する密度。Function Callingの精度が重要なので、実用ならClaude 3.5 SonnetかRTX 4090でのローカル推論が前提。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-10-ambiguous-workspace-ai-agent-tools-review.jpg",
+    "created_at": "2026-10-10T14:29:24.045019+09:00",
+    "posted": false
   }
 ]
