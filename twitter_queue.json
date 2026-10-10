@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-08-mlx-apple-silicon-local-llm-tutorial",
-    "title": "MLX 使い方 入門！Apple SiliconでローカルLLMを動かす方法",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "M2 Maxで秒間45トークン超え。Apple Silicon専用のMLXはローカルLLMの正解の一つです。\nメモリ16GBあればLlama 3.1の7Bモデルがストレスなく動く時代。\nクラウドAPIの料金やプライバシーを気にせず24時間使い倒せる環境をPython数行で構築する方法をまとめました。\n買うならメモリ優先、最低16GBは必須です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-08-mlx-apple-silicon-local-llm-tutorial.jpg",
-    "created_at": "2026-10-08T22:02:33.530621+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-09-natura-interface-ai-smart-ring-99-dollars",
-    "title": "Natura $99スマートリング「Interface」がAIエージェントの物理インターフェースを奪いにきた",
-    "url": "https://ai.negi-lab.com/posts/natura-interface-ai-smart-ring-99-dollars/",
-    "category": "NEWS",
-    "viral_tags": "#AIエージェント #スマートリング",
-    "tweet_text": "AIガジェットの正解は「$99のリング」かもしれない。Natura Interfaceは画面を捨て、物理ボタンでAIエージェントを叩く。HumaneやRabbitが苦戦したレイテンシと羞恥心を、指先の1アクションで解決する設計。開発者向けSDKで、物理的な「意図」をAPIで受ける時代が来る。買う前に、自分のサービスのどの機能を指先に割り当てるか考えるべきだ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-10-09T01:09:18.359858+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-09-llamacpp-local-llm-gpu-mac-guide",
     "title": "ローカルLLM環境の失敗しない選び方：llama.cppを実務で使い倒すためのRTX・Mac構成ガイド",
     "url": "https://ai.negi-lab.com/posts/llamacpp-local-llm-gpu-mac-guide/",
