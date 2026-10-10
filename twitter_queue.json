@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-10-anthropic-ai-agent-internet-cutoff-analysis.jpg",
     "created_at": "2026-10-10T21:07:03.446195+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-11-local-llm-gpu-guide-pewdiepie-ban",
+    "title": "ローカルLLM構築の落とし穴とおすすめPCスペック比較：PewDiePieのBANから学ぶ、今買うべきVRAM搭載GPU",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-guide-pewdiepie-ban/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "PewDiePieがOpenAI APIを自作モデルの訓練に使って2回BANされた件、笑い事じゃない。結局「規約に縛られない自由」を買うのが一番安い投資。\n\n今のローカルLLM環境の最適解は「VRAM 16GB」が最低ライン。RTX 4060 Ti 16GBかApple Silicon 32GB以上を選べば、Llama 3やQwenクラスが手元で爆速。買う前にVRAM容量だけは絶対妥協しちゃダメ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-11-local-llm-gpu-guide-pewdiepie-ban.jpg",
+    "created_at": "2026-10-11T02:10:42.237393+09:00",
+    "posted": false
   }
 ]
