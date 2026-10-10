@@ -1,78 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "City building games have a Soul Problem pt.2",
-      "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 03 Oct 2026 15:52:07 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-04T03:08:45"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "We Investigated Starlink. The Corruption We Found Will Shock You",
-      "url": "https://www.youtube.com/watch?v=LQYnlg4pO9o",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 03 Oct 2026 10:21:24 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-04T03:08:45"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sat, 03 Oct 2026 16:30:01 +0000",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-04T03:08:53"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Cubicle",
-      "url": "https://www.producthunt.com/products/cubicle-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A live office for your AI agents, read-only by design </p> <p> <a href=\"https://www.producthunt.com/products/cubicle-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1264987?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-04T03:08:54"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Prefer",
-      "url": "https://www.producthunt.com/products/prefer-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The execution layer for AEO </p> <p> <a href=\"https://www.producthunt.com/products/prefer-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1264658?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-04T03:08:54"
-    },
-    {
       "source": "HN AI Coding",
       "title": "Pop!_OS bans AI-generated code from much of its codebase",
       "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
@@ -867,21 +795,6 @@
       "summary": "",
       "extra": {},
       "collected_at": "2026-10-06T10:44:00"
-    },
-    {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-10-05T22:37:19+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So PewDiePie decides to fine-tune a local AI model called Ajax on his own computer. Pretty normal stuff for local model fans.</p> <p>To make his dataset, he uses OpenAI's API. OpenAI catches him using their outputs to train another model, flags his account for breaking their terms, and bans him.</p> <p>He files an appeal, gets unbanned, goes right back to pulling data from the API, and immediately gets banned a second time.</p> <p>So instead of giving up, he use",
-      "extra": {},
-      "collected_at": "2026-10-06T10:44:01"
     },
     {
       "source": "TechCrunch AI",
@@ -2667,7 +2580,66 @@
         "revenue_score": 3
       },
       "collected_at": "2026-10-11T02:10:12"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "big or small?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-10-10T07:54:15+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/\"> <img alt=\"big or small?\" src=\"https://preview.redd.it/kfn7dsililuh1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f631efaeaa3a3e8d4a53bb774732db8d277e2a78\" title=\"big or small?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>what size do you want? tell them on X:</p> <p><a href=\"https://x.com/QwenDevs/status/2108764909798641737\">https://x.com/QwenDevs/status/2108764909798641737</a></p> </div><!",
+      "extra": {},
+      "collected_at": "2026-10-11T03:48:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ReSO AI",
+      "url": "https://www.producthunt.com/products/reso",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Get discovered & recommended when customers ask AI </p> <p> <a href=\"https://www.producthunt.com/products/reso?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1245921?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-11T03:48:27"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Maildun for Mac",
+      "url": "https://www.producthunt.com/products/maildun-for-mac",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Design on-brand emails by hand, with AI, or over MCP </p> <p> <a href=\"https://www.producthunt.com/products/maildun-for-mac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1275415?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-11T03:48:27"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Kitbar",
+      "url": "https://www.producthunt.com/products/kitbar",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your dev tools, in one bar. </p> <p> <a href=\"https://www.producthunt.com/products/kitbar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1273865?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-11T03:48:27"
     }
   ],
-  "updated_at": "2026-10-11T02:10:16.176047+09:00"
+  "updated_at": "2026-10-11T03:48:31.025768+09:00"
 }

@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-11-local-llm-gpu-guide-pewdiepie-ban.jpg",
     "created_at": "2026-10-11T02:10:42.237393+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-11-local-llm-gpu-vram-comparison-guide",
+    "title": "ローカルLLM用PCの選び方｜QwenやGemmaを実用レベルで動かすVRAM容量と比較",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-vram-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLM用のPC選びは「BigかSmallか」で決まる。QwenやGemmaの7B〜14Bを爆速で回すならVRAM 16GBのRTX 4060 Tiがコスパ最強。\n一方でLlama 70B級を実用するなら4090の2枚挿しか、メモリ128GBのMac Studioが必須。中途半端なVRAM 12GB機が一番後悔する。まずは自分がどのサイズを主力にするか決めるのが失敗しないコツ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-11-local-llm-gpu-vram-comparison-guide.jpg",
+    "created_at": "2026-10-11T03:48:58.303791+09:00",
+    "posted": false
   }
 ]
