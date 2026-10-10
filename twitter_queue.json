@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-11-local-llm-gpu-vram-comparison-guide.jpg",
     "created_at": "2026-10-11T03:48:58.303791+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-11-ollama-open-webui-local-llm-guide",
+    "title": "OllamaとOpen WebUIで自分専用のChatGPTをローカルに構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLM環境、結局「Ollama + Open WebUI」が実務の最適解です。VRAM 12GB以上のRTXか、メモリ16GB以上のMacがあれば、30分で自分専用のChatGPTが爆誕します。Dockerで構築すればRAGもWeb検索連携も自由自在。機密情報を扱う開発者こそ、API不要の「閉じられたAI」を手に入れるべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-11-ollama-open-webui-local-llm-guide.jpg",
+    "created_at": "2026-10-11T05:29:53.877388+09:00",
+    "posted": false
   }
 ]
