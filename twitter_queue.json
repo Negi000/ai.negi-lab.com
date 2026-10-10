@@ -15289,5 +15289,19 @@
     "image_path": "/images/posts/2026-10-10-llamaindex-rag-tutorial-local-pdf-search.jpg",
     "created_at": "2026-10-10T06:33:19.347943+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-10-apple-silicon-mlx-local-llm-tutorial",
+    "title": "Apple Siliconの性能を限界まで引き出すMLXでローカルLLMを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "M2 Maxで秒間40トークン超。Apple Siliconの真の力を引き出すなら、ローカルLLMはMLX一択です。llama.cppも良いですが、ユニファイドメモリを直接叩くMLXの効率は別次元。16GBメモリがあればLlama 3が爆速で動きます。機密情報を扱う実務こそ、APIを捨てて「手元のMac」で完結させましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-10-apple-silicon-mlx-local-llm-tutorial.jpg",
+    "created_at": "2026-10-10T09:43:10.993926+09:00",
+    "posted": false
   }
 ]
