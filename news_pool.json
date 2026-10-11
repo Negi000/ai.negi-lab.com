@@ -2,51 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "qarunbook",
-      "url": "https://www.producthunt.com/products/qarunbook",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A test plan your team and your AI can work through </p> <p> <a href=\"https://www.producthunt.com/products/qarunbook?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1267919?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-04T20:57:32"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Cupola",
-      "url": "https://www.producthunt.com/products/cupola",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Apple calendar, reminders & notes, together in one app </p> <p> <a href=\"https://www.producthunt.com/products/cupola?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1264536?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-04T20:57:32"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ChatGPT Space",
-      "url": "https://www.producthunt.com/products/chatgpt-space",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Create, collaborate, and build together with AI in Space </p> <p> <a href=\"https://www.producthunt.com/products/chatgpt-space?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1264913?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-04T20:57:32"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Blume 2.0",
       "url": "https://www.producthunt.com/products/blume-3",
       "primary_category": "TOOL",
@@ -2227,21 +2182,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "extra": {
-        "stars_today": "94 stars today"
-      },
-      "collected_at": "2026-10-10T21:06:37"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "fastapi/fastapi",
       "url": "https://github.com/fastapi/fastapi",
       "primary_category": "TOOL",
@@ -2650,7 +2590,93 @@
         "revenue_score": 4
       },
       "collected_at": "2026-10-11T18:55:15"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Anthropic asks users to stop being mean to Claude",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 11 Oct 2026 01:17:22 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-11T21:19:58"
+    },
+    {
+      "source": "r/ollama",
+      "title": "I tested 14 \"decision models\" against local LLMs on 56 real triage tasks. Qwen3.5-9B beat every one of them.",
+      "url": "https://www.reddit.com/r/ollama/comments/1x35tup/i_tested_14_decision_models_against_local_llms_on/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-10-11T11:26:53+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jeeleelee\"> /u/jeeleelee </a> <br /> <span><a href=\"/r/LocalLLM/comments/1x35tkp/i_tested_14_decision_models_against_local_llms_on/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1x35tup/i_tested_14_decision_models_against_local_llms_on/\">[comments]</a></span>",
+      "extra": {},
+      "collected_at": "2026-10-11T21:20:01"
+    },
+    {
+      "source": "r/ollama",
+      "title": "GLM-5.3-Flash (320B) on an M5 Ultra Mac Studio with llama.cpp: 61 tok/s, 262K context",
+      "url": "https://www.reddit.com/r/ollama/comments/1x2y2ao/glm53flash_320b_on_an_m5_ultra_mac_studio_with/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-10-11T03:43:45+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1x2y2ao/glm53flash_320b_on_an_m5_ultra_mac_studio_with/\"> <img alt=\"GLM-5.3-Flash (320B) on an M5 Ultra Mac Studio with llama.cpp: 61 tok/s, 262K context\" src=\"https://external-preview.redd.it/xkf4DFGJJVQAcOm-gRv1XUfT76S6eJbOZ5vCHrldqoM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f656ffd07e1fc84f2c67c820634d95c13752753\" title=\"GLM-5.3-Flash (320B) on an M5 Ultra Mac Studio with llama.cpp: 61 tok/s, 262K context\" /> </a> </",
+      "extra": {},
+      "collected_at": "2026-10-11T21:20:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "FloorGen",
+      "url": "https://www.producthunt.com/products/floorgen",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Draw the house, or just ask. Free floor plans with AI </p> <p> <a href=\"https://www.producthunt.com/products/floorgen?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1275171?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-11T21:20:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Agibot",
+      "url": "https://www.producthunt.com/products/agibot",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Personal AI agent for your Mac using your own keys </p> <p> <a href=\"https://www.producthunt.com/products/agibot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1275891?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-11T21:20:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "HireKey",
+      "url": "https://www.producthunt.com/products/hirekey",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your recruiter-informed AI copilot for tech job search </p> <p> <a href=\"https://www.producthunt.com/products/hirekey?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1267423?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-11T21:20:03"
     }
   ],
-  "updated_at": "2026-10-11T18:55:15.418806+09:00"
+  "updated_at": "2026-10-11T21:20:07.344936+09:00"
 }
