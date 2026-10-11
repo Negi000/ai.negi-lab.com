@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-10-11-ollama-open-webui-local-llm-guide.jpg",
     "created_at": "2026-10-11T05:29:53.877388+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-11-rtx-4090-dual-gpu-setup-guide-for-llm",
+    "title": "RTX 4090を2枚挿しでVRAM 48GB環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/rtx-4090-dual-gpu-setup-guide-for-llm/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "RTX 5090の供給不安や価格高騰の噂が出る中、現実解は「RTX 4090の2枚挿し」一択です。VRAM 48GBを確保すれば、Llama-3-70Bが毎秒40トークン超えで爆速動作。Pro向け高額チップを待つより、今の在庫で環境を組むのが賢明。電源1600Wとスロット間隔さえクリアすれば、そこはもう個人開発者の聖域です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-11-rtx-4090-dual-gpu-setup-guide-for-llm.jpg",
+    "created_at": "2026-10-11T09:12:25.557780+09:00",
+    "posted": false
   }
 ]
