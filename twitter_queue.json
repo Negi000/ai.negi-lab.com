@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-10-12-local-llm-mac-embedding-gemma-2-guide.jpg",
     "created_at": "2026-10-12T02:34:00.103489+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-12-local-llm-gpu-buying-guide-2025",
+    "title": "ローカルLLM用PCの選び方と失敗しないGPU・メモリ構成比較 2025年版",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-2025/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "ローカルLLMを仕事で使うなら「VRAM 16GB」が最低ライン。Redditで話題の「低スペックで巨大モデルが動いた」報告は精度崩壊したQ1量子化が多く、実務では使い物になりません。RTX 4060 Ti 16GBか、Macならメモリ32GB以上を選ばないと必ず後悔します。買う前に量子化ビット数とVRAMの壁を知っておくべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-12-local-llm-gpu-buying-guide-2025.jpg",
+    "created_at": "2026-10-12T04:09:31.558864+09:00",
+    "posted": false
   }
 ]
