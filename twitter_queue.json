@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-10-12-techcrunch-disrupt-2026-ai-agent-monetization.jpg",
     "created_at": "2026-10-12T23:47:45.907235+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-13-local-llm-server-4x-rtx4090-guide",
+    "title": "ローカルLLMサーバー構築の選び方！RTX 4090を4枚積む実務構成と失敗しないパーツ比較",
+    "url": "https://ai.negi-lab.com/posts/local-llm-server-4x-rtx4090-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLMサーバー構築、スタートアップならRTX 4090を4枚積む前に考えるべきは「電源」と「GPUの厚み」です。VRAM 96GBは魅力ですが、100V環境では2000W超えの負荷に耐えられません。実務ならMac Studio 192GBモデルか、RTX 3090中古2枚挿しが最もコスト対効果が高い。失敗しないためのVRAM判断軸をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-13-local-llm-server-4x-rtx4090-guide.jpg",
+    "created_at": "2026-10-13T03:37:47.372358+09:00",
+    "posted": false
   }
 ]
