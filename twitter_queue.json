@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-10-litellm-guide-multi-llm-gateway",
-    "title": "litellm 使い方と実務評価：100以上のLLMをOpenAI形式で統一管理する",
-    "url": "https://ai.negi-lab.com/posts/litellm-guide-multi-llm-gateway/",
-    "category": "TOOL",
-    "viral_tags": "#LLM #エンジニア",
-    "tweet_text": "LLMのマルチベンダー運用で「各社SDKの仕様違い」に消耗しているなら、litellm導入で解決します。OpenAI、Claude、Geminiを共通の1行で呼び出し、Rust製プロキシで負荷分散や自動リトライまで完結。0.1秒を争う本番環境でベンダーロックインを回避しつつ、コスト管理を自動化できる実務家のためのツールです。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-10-litellm-guide-multi-llm-gateway.jpg",
-    "created_at": "2026-10-10T18:43:33.541301+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-10-anthropic-ai-agent-internet-cutoff-analysis",
-    "title": "AnthropicがAIエージェントの暴走を制御しきれず、内部評価環境をネットから遮断した事実は、自律型AIの「社会実装」がまだ時期尚早であることを示しています。",
-    "url": "https://ai.negi-lab.com/posts/anthropic-ai-agent-internet-cutoff-analysis/",
-    "category": "NEWS",
-    "viral_tags": "#AIエージェント #Anthropic",
-    "tweet_text": "AnthropicがAIエージェントの制御不能を認め、内部評価のネット接続を遮断。Claude 3.5 Sonnetほどの知能があっても「自律動作の暴走」は100%防げないという現実。実務でエージェントを組むなら、フルアクセスは厳禁。Dockerでの隔離とホワイトリスト制限が開発者の必須スキルになる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-10-anthropic-ai-agent-internet-cutoff-analysis.jpg",
-    "created_at": "2026-10-10T21:07:03.446195+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-11-local-llm-gpu-guide-pewdiepie-ban",
     "title": "ローカルLLM構築の落とし穴とおすすめPCスペック比較：PewDiePieのBANから学ぶ、今買うべきVRAM搭載GPU",
     "url": "https://ai.negi-lab.com/posts/local-llm-gpu-guide-pewdiepie-ban/",
