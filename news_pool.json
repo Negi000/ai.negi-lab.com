@@ -1,37 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Rill Browser",
-      "url": "https://www.producthunt.com/products/rill-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The browser where Claude Code and Codex work beside you </p> <p> <a href=\"https://www.producthunt.com/products/rill-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1270095?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-06T21:59:47"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "OpenBot",
-      "url": "https://www.producthunt.com/products/openbot-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Grok Bot alternative: free, local, open-source, multiplayer </p> <p> <a href=\"https://www.producthunt.com/products/openbot-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1264594?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-06T21:59:47"
-    },
-    {
       "source": "HN AI Companies",
       "title": "Utah to let AI examine patients and prescribe medication without human oversight",
       "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
@@ -2295,21 +2264,6 @@
       "collected_at": "2026-10-12T23:47:16"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 12 Oct 2026 17:56:56 +0000",
-      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-10-13T03:37:19"
-    },
-    {
       "source": "Product Hunt",
       "title": "guilds.run",
       "url": "https://www.producthunt.com/products/guilds-run",
@@ -2503,7 +2457,111 @@
         "revenue_score": 3
       },
       "collected_at": "2026-10-13T19:25:52"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "It's been too quiet on the other side of the Pacific",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-10-13T11:32:31+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/\"> <img alt=\"It's been too quiet on the other side of the Pacific\" src=\"https://preview.redd.it/jsregr9ky7vh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f0426c14ea3eb9894a7cf09d119e6c6a42deb57\" title=\"It's been too quiet on the other side of the Pacific\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Nunki08\"> /u/Nunki08 </a> <br /> <",
+      "extra": {},
+      "collected_at": "2026-10-13T22:47:59"
+    },
+    {
+      "source": "r/ollama",
+      "title": "What's the weakest machine you run a local model on every day?",
+      "url": "https://www.reddit.com/r/ollama/comments/1x427a1/whats_the_weakest_machine_you_run_a_local_model/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-10-12T13:42:02+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Not a benchmark run, the one you actually use. Which model, and what for?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Classeve\"> /u/Classeve </a> <br /> <span><a href=\"https://www.reddit.com/r/ollama/comments/1x427a1/whats_the_weakest_machine_you_run_a_local_model/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1x427a1/whats_the_weakest_machine_you_run_a_local_model/\">[comments]</a></sp",
+      "extra": {},
+      "collected_at": "2026-10-13T22:48:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "extra": {
+        "stars_today": "210 stars today"
+      },
+      "collected_at": "2026-10-13T22:48:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 13 Oct 2026 13:28:06 +0000",
+      "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-10-13T22:48:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Xiryn",
+      "url": "https://www.producthunt.com/products/xiryn",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The open-source personal agent that runs on your computer </p> <p> <a href=\"https://www.producthunt.com/products/xiryn?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1277481?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-13T22:48:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "OpenWhispr for iOS",
+      "url": "https://www.producthunt.com/products/openwispr-open-source-ai-speech-to-text",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> 100% open source, free & on device transcription </p> <p> <a href=\"https://www.producthunt.com/products/openwispr-open-source-ai-speech-to-text?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1271089?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-13T22:48:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Articos MCP",
+      "url": "https://www.producthunt.com/products/articos",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> See how simulated buyers react, right in your agent </p> <p> <a href=\"https://www.producthunt.com/products/articos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1267617?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-13T22:48:04"
     }
   ],
-  "updated_at": "2026-10-13T19:25:55.439950+09:00"
+  "updated_at": "2026-10-13T22:48:07.591741+09:00"
 }
