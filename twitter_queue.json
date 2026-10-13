@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-12-local-llm-gpu-buying-guide-2025",
-    "title": "ローカルLLM用PCの選び方と失敗しないGPU・メモリ構成比較 2025年版",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-2025/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLMを仕事で使うなら「VRAM 16GB」が最低ライン。Redditで話題の「低スペックで巨大モデルが動いた」報告は精度崩壊したQ1量子化が多く、実務では使い物になりません。RTX 4060 Ti 16GBか、Macならメモリ32GB以上を選ばないと必ず後悔します。買う前に量子化ビット数とVRAMの壁を知っておくべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-12-local-llm-gpu-buying-guide-2025.jpg",
-    "created_at": "2026-10-12T04:09:31.558864+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-12-apple-silicon-mlx-local-llm-tutorial",
-    "title": "Apple SiliconでLLMを最速動作させるMLX環境を構築し、Llama 3等の最新モデルを日本語で動かすスクリプトを完成させます。",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Siliconの真価はMLXで決まる。RTX 4090を2枚挿す私でも、Macのユニファイドメモリをフル活用したローカルLLMの滑らかさには驚く。Llama 3 8Bが4bit量子化なら16GBメモリで爆速。環境構築からストリーミング表示の実装まで、仕事で使える構成をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-10-12T05:49:20.259355+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-12-docker-ai-agent-sandbox-tutorial",
     "title": "AIエージェントの暴走を防ぐDockerサンドボックス構築入門",
     "url": "https://ai.negi-lab.com/posts/docker-ai-agent-sandbox-tutorial/",
