@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-12-docker-ai-agent-sandbox-tutorial",
-    "title": "AIエージェントの暴走を防ぐDockerサンドボックス構築入門",
-    "url": "https://ai.negi-lab.com/posts/docker-ai-agent-sandbox-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#AIエージェント #Python",
-    "tweet_text": "AIエージェントに「rm -rf /」を喰らわないための鉄則。exec()を直接叩くのは自殺行為です。Dockerで0.5秒起動のサンドボックスを作り、メモリ128MB・ネットワーク遮断の隔離環境でLLMコードを実行する。実務で使える安全なPython実行環境の構築手順をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-12-docker-ai-agent-sandbox-tutorial.jpg",
-    "created_at": "2026-10-12T09:27:55.712338+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-12-poke-finder-chrome-extension-review-gaming-browsing",
-    "title": "Poke Finder 使い方とレビュー：ブラウジングをポケモン図鑑作りに変える拡張機能",
-    "url": "https://ai.negi-lab.com/posts/poke-finder-chrome-extension-review-gaming-browsing/",
-    "category": "TOOL",
-    "viral_tags": "#個人開発 #Chrome拡張機能",
-    "tweet_text": "ブラウジングをポケモン図鑑作りに変える「Poke Finder」を試した。DOM要素に出現させる実装だが、Manifest V3準拠で動作は意外なほど軽い。生産性は確実に落ちるが、リサーチ作業の単調さを壊すには最高。効率化ばかり求めて疲れたエンジニアの脳に、ほどよいノイズ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-12-poke-finder-chrome-extension-review-gaming-browsing.jpg",
-    "created_at": "2026-10-12T14:34:46.479990+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-12-cube-forms-review-ai-agent-friendly",
     "title": "Cube Forms レビュー AIエージェント専用の次世代フォーム",
     "url": "https://ai.negi-lab.com/posts/cube-forms-review-ai-agent-friendly/",
