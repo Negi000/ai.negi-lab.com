@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-13-open-webui-local-llm-hardware-guide",
-    "title": "Open WebUIを快適に動かすローカルLLM環境の選び方とおすすめPC構成比較",
-    "url": "https://ai.negi-lab.com/posts/open-webui-local-llm-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #OpenWebUI",
-    "tweet_text": "Open WebUIを導入するなら「VRAM 16GB」が生存ライン。RTX 4060 Ti 16GBなら8Bモデルが爆速で、RAGや画像生成も余裕で回る。8GBだとRAG連携した瞬間にパンクして使い物にならない。仕事で使うなら最初からメモリを積んだMacか、4090搭載PCへの投資が結局一番安上がりになる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-13-open-webui-local-llm-hardware-guide.jpg",
-    "created_at": "2026-10-13T06:07:21.631579+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-13-claude-code-cursor-hybrid-workflow-guide",
-    "title": "Claude CodeとCursorを併用して爆速でモダンWebアプリを開発する方法",
-    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-hybrid-workflow-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ClaudeCode #Cursor",
-    "tweet_text": "CursorだけでAI開発を完結させるのはもう古い。Claude Codeを併用した「GUI×CLI」のハイブリッド環境が今の最適解。\nCursorでコードを俯瞰し、Claude Codeにデバッグと依存関係解決を丸投げする。\nAPI課金は月数千円増えるが、開発速度は体感で3倍。\nメモリ24GB以上のMacを用意して、今すぐこの流れに乗るべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-13-claude-code-cursor-hybrid-workflow-guide.jpg",
-    "created_at": "2026-10-13T07:14:02.334352+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-13-python-rag-local-chromadb-tutorial",
     "title": "Pythonで自社文書を即座に検索できるRAGパイプラインをローカル実装する方法",
     "url": "https://ai.negi-lab.com/posts/python-rag-local-chromadb-tutorial/",
