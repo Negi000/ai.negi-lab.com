@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-10-14-mlx-apple-silicon-local-llm-tutorial-for-engineers.jpg",
     "created_at": "2026-10-14T09:15:54.108452+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-14-opencode-2-0-ai-agent-review",
+    "title": "OpenCode 2.0 使い方と自律型AIエージェントの実務導入レビュー",
+    "url": "https://ai.negi-lab.com/posts/opencode-2-0-ai-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#OpenCode #AIエージェント",
+    "tweet_text": "OpenCode 2.0を検証。Docker環境で「書いて、動かして、直す」を勝手に繰り返す自律型AIエージェントの完成度が凄い。\n\n人間がログをコピペしてAIに渡す時代は終わった。\nRTX 4090のローカルLLM運用ならAPI費用もゼロ。\nただ消費トークンは激しいから、実務ならClaude 3.5 Sonnetとの併用が現実的。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-14-opencode-2-0-ai-agent-review.jpg",
+    "created_at": "2026-10-14T13:33:00.110998+09:00",
+    "posted": false
   }
 ]
