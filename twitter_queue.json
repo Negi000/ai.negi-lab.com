@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-14-science-corp-prima-vision-chip-implant.jpg",
     "created_at": "2026-10-14T20:26:01.475065+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-15-local-llm-gpu-buying-guide-rtx-vs-mac",
+    "title": "ローカルLLM用GPU・PCの選び方｜PS5でQwenが動く時代の最適解と比較",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-rtx-vs-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "PS5のGPUでQwen 27Bが20 tok/sで動作したニュース、本質は「メモリ帯域幅」の重要性。\nローカルLLMを仕事で使うなら、改造の手間よりVRAM 16GB以上のRTX 4060 Tiか、メモリ64GB以上のMacを選ぶのが最短ルートです。\n失敗しないための判断基準は、計算性能よりVRAM容量と帯域幅。買う前に見るべきスペックをまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-15-local-llm-gpu-buying-guide-rtx-vs-mac.jpg",
+    "created_at": "2026-10-15T03:55:37.799654+09:00",
+    "posted": false
   }
 ]
