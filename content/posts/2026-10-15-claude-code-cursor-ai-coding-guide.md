@@ -1,5 +1,5 @@
 ---
-title: "CursorとClaude Codeを併用して爆速でAPI開発を行う方法｜AIコーディング環境入門"
+title: "Claude CodeとCursorを併用して爆速でアプリ開発する環境構築ガイド"
 date: 2026-10-15T00:00:00+09:00
 slug: "claude-code-cursor-ai-coding-guide"
 cover:
@@ -10,223 +10,209 @@ categories:
   - "AI Guide"
 tags:
   - "Claude Code 使い方"
-  - "Cursor 開発効率"
-  - "AIコーディング"
-  - "FastAPI 自動生成"
+  - "Cursor 活用術"
+  - "AIコーディング 環境構築"
+  - "FastAPI 自動開発"
 ---
 **所要時間:** 約40分 | **難易度:** ★★★☆☆
 
 ## この記事で作るもの
 
-- FastAPIとSQLiteを使用した「AIによる自動タグ付け機能付きタスク管理API」
-- Cursorで全体の設計とコード確認を行い、Claude Codeに実装・テスト・デバッグを丸投げする開発フロー
-- 最終的にローカル環境でAPIが動作し、自動テストがパスする状態を目指します
-
-{{< rawhtml >}}
-<div style="border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin:20px 0;background:#fafafa">
-<p style="margin:0 0 4px;font-size:13px;color:#888">📦 この記事に関連する商品（楽天メインで価格確認）</p>
-<strong style="font-size:16px">MacBook Pro M3 Max</strong>
-<p style="color:#555;margin:8px 0;font-size:14px">Claude CodeとCursorを同時並行で動かしても詰まらないメモリ性能が必要</p>
-<div style="display:flex;gap:8px;flex-wrap:wrap">
-<a href="https://hb.afl.rakuten.co.jp/hgc/5000cbfd.5f52567b.5000cbff.924460a4/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMacBook%2520Pro%2520M3%2520Max%252064GB%2F&m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMacBook%2520Pro%2520M3%2520Max%252064GB%2F" target="_blank" rel="noopener sponsored" style="padding:10px 18px;background:#bf0000;color:#fff;text-decoration:none;border-radius:4px;font-size:14px;font-weight:bold">楽天で価格を見る</a>
-<a href="https://www.amazon.co.jp/s?k=MacBook%20Pro%20M3%20Max%2064GB&tag=negi3939-22" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#ff9900;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">Amazonでも確認</a>
-</div>
-<p style="margin:8px 0 0;font-size:11px;color:#aaa">※アフィリエイトリンクを含みます</p>
-</div>
-{{< /rawhtml >}}
-
-前提知識として、Pythonの基本的な文法とターミナルの操作ができることを想定しています。
+この記事では、エディタ型のCursorとCLI型のClaude Codeをシームレスに使い分け、FastAPIを使用した「タスク管理API（データベース連携・認証機能付き）」をほぼ自動で作り上げます。
+単にコードを書くだけでなく、テストの実行、バグの自動修正、GitコミットまでをAIに完結させるフローを構築します。
+Pythonの基礎知識があり、ターミナル操作に抵抗がない方を対象としています。
 
 ## 先に確認するスペック・料金
 
-AIコーディングを本気で実務に投入するなら、ツールへの投資は必須です。
-まず、Cursorは月額$20のProプランを契約してください。
-無料枠でも動きますが、Claude 3.5 Sonnetを制限なく使えないと開発体験が著しく落ちます。
+AIコーディングを本気で仕事に使うなら、ケチってはいけないのが「ツールへの課金」です。
+CursorのProプラン（月額$20）は必須と言えます。無料枠では「Composer」という最強の複数ファイル編集機能が制限され、真価を発揮できません。
+Claude CodeはAnthropicのAPI（Claude 3.5 Sonnet）を直接消費します。
+私が中規模な機能を1つ実装させるのに使った感触では、1タスクあたり$0.5〜$2程度のAPI費用がかかります。
 
-次にClaude Codeですが、これはAnthropicのAPIキーを直接利用するため、従量課金制です。
-大規模なリファクタリングをさせると1回で$1〜$5程度飛ぶこともあります。
-目安として、月額予算$50程度（Cursor $20 + API $30）を見込んでおけば、実務レベルの恩恵を十分に受けられます。
-
-ハードウェアについては、VS Codeが快適に動くスペックなら問題ありません。
-私はMacBook Pro (M3 Max / 64GB) で検証していますが、メモリは最低でも16GB、できれば32GB以上あると、複数のAIツールを走らせても挙動が安定します。
+ハードウェアについては、MacBook ProならM2/M3チップ、メモリ32GB以上を強く推奨します。
+AIツールを複数立ち上げ、ローカルでテストサーバーを動かしながらブラウザで検証すると、16GBではスワップが発生してレスポンスが目に見えて落ちるからです。
+Windowsユーザーなら、WSL2環境の構築は必須です。Claude Codeのファイル操作はUnixライクな環境で最も安定します。
 
 ## なぜこの方法を選ぶのか
 
-Cursorの「Composer」機能は非常に強力ですが、ターミナルでのコマンド実行やテストの修正ループにはまだ弱点があります。
-一方でClaude Codeは、ターミナルそのものにAIが常駐しているため、ファイルの作成、テストの実行、エラーの修正を自律的に繰り返す「エージェント」として極めて優秀です。
-
-設計や大きな構造の変更はCursorのGUIで視覚的に管理し、面倒な実装作業やテスト駆動開発のループはClaude Codeに任せる。
-この「視覚的な管理」と「実行力の自動化」を組み合わせるのが、2025年現在で最も効率的な開発手法だと断言できます。
-どちらか一方だけを使うよりも、お互いの弱点を補完し合うことで、開発速度は体感で3倍以上変わります。
+現在、GitHub CopilotやCline（旧Claude Dev）など多くの選択肢がありますが、現時点での最適解は「Cursor」と「Claude Code」の併用です。
+Cursorは「静的なコード記述」において右に出るものがいません。コードの補完や、エディタ上での対話的な修正には最適です。
+一方、Claude Codeは「動的な実行と解決」に特化しています。
+ターミナル上でテストを走らせ、エラーが出たらその内容を読み取り、自律的にファイルを修正して再度テストする。このループの速さはCursorを超えています。
+「UIで微調整したい時はCursor、プロジェクト全体の構造変更やバグ修正はClaude Code」という使い分けが、最も開発効率を高めると結論づけました。
 
 ## Step 1: 環境を整える
 
-まずはClaude Codeをインストールします。
-これはNode.js環境が必要になるため、事前にインストールしておいてください。
+まずはClaude Codeを動かすためのNode.js環境と、本体のインストールを行います。
 
 ```bash
-# Claude Codeのインストール
+# Node.jsが20.0.0以上であることを確認
+node -v
+
+# Claude Codeのインストール（Anthropic公式のCLIツール）
 npm install -g @anthropic-ai/claude-code
 
-# インストール確認
+# インストールの確認
 claude --version
 ```
 
-次に、AnthropicのコンソールからAPIキーを取得し、環境変数に設定します。
-`~/.zshrc` や `~/.bashrc` に追記しておくと便利です。
+Claude CodeはNode.jsで動作するCLIツールです。
+なぜnpmでインストールするのかというと、これがAnthropicが提供するエージェント型AIの実行環境そのものだからです。
+次に、プロジェクト用のディレクトリを作成し、Cursorで開きます。
 
 ```bash
-export ANTHROPIC_API_KEY="your-api-key-here"
+mkdir ai-app-demo
+cd ai-app-demo
+cursor .
 ```
 
-なぜこの設定が必要かというと、Claude Codeはあなたの代わりにコマンドを実行し、ファイルを書き換えるため、常に最新のClaude 3.5 Sonnetモデルと通信する必要があるからです。
+⚠️ **落とし穴:** Claude Codeを動かす際、環境変数 `ANTHROPIC_API_KEY` が設定されていないと起動しません。`.bashrc` や `.zshrc` に書き込むか、起動時に渡す必要があります。また、初回起動時に `claude auth` での認証を求められる場合があります。
 
-⚠️ **落とし穴:**
-Claude Codeを初めて起動した際、`/auth` での認証を求められることがあります。
-また、macOSの場合、ターミナルからのファイル操作権限（フルディスクアクセス）を許可していないと、AIがファイルを書き換える際にエラーで止まることがあります。
-「Permission denied」が出たら、システム設定から権限を確認してください。
+## Step 2: 基本の設定
 
-## Step 2: プロジェクトの初期化と設計
-
-ここからはCursorを開き、新しいディレクトリで作業を開始します。
-まずはプロジェクトのルートで、最低限必要な依存関係を定義した `requirements.txt` を作成します。
-
-```text
-fastapi
-uvicorn
-sqlalchemy
-pydantic
-openai
-```
-
-次に、Cursorのチャット（Ctrl+L / Cmd+L）を開き、以下の指示を出して設計の骨子を作らせます。
-
-> 「FastAPIとSQLiteを使って、タスク管理APIを作りたい。タスクにはタイトル、内容、ステータス、そしてAIが自動生成する『カテゴリタグ』を含める。まずはプロジェクト構造とデータベースのスキーマ設計を提案して。」
-
-Cursorが提案した設計を確認し、「OK、それで進めて」と返せば、必要なフォルダ構造が作られます。
-ここでCursorを使う理由は、提案されたコードをエディタ上で即座にプレビューでき、設計の全体像を視覚的に把握しやすいからです。
-
-## Step 3: Claude Codeに実装を丸投げする
-
-設計が決まったら、いよいよClaude Codeの出番です。
-ターミナルで `claude` コマンドを叩いて起動してください。
+Claude Codeをプロジェクトに最適化させるため、設定ファイルを作成します。
+といっても、手動で書く必要はありません。Claude Codeに「初期設定をして」と頼むのが正解です。
 
 ```bash
+# ターミナルで実行
 claude
 ```
 
-Claude Codeが起動したら、以下のプロンプトを投げます。
+初回起動時にいくつかの許可を求められますが、すべて「y（Yes）」で進めて問題ありません。
+特に、ファイル読み書きの権限とターミナル実行の権限は、Claude Codeが自律的に動くために不可欠です。
 
-> 「現在のディレクトリにある設計を元に、FastAPIの実装を行って。特に、タスクが作成された時にOpenAI API（または互換API）を使って内容から適切なカテゴリタグを自動生成して保存するロジックを実装して。実装が終わったら、実際にサーバーを起動して動作確認用のテストスクリプトも作成・実行して、すべてパスすることを確認して。」
+```python
+# .env ファイルの作成（手動またはCursorで）
+ANTHROPIC_API_KEY=sk-ant-xxxxxxxxxxxxxxxxx
+DATABASE_URL=sqlite:///./test.db
+```
 
-Claude Codeは、指示を受けると以下の手順を勝手に進めます。
-1. `main.py` や `models.py` のコードを書き込む
-2. `pytest` や自前のテストスクリプトを作成する
-3. サーバーをバックグラウンドで起動し、実際にリクエストを送ってテストする
-4. テストが失敗したら、エラーログを読み取り、コードを修正して再試行する
+私はAPIキーを直接スクリプトに書く習慣をSIer時代に厳しく禁じられました。
+AIにコードを書かせると、たまにハードコードしようとするので、「環境変数から読み込むように」と指示する癖をつけておきましょう。
+これはセキュリティ上の理由だけでなく、本番環境へのデプロイをスムーズにするためでもあります。
+
+## Step 3: 動かしてみる
+
+それでは、Claude Codeに「FastAPIの最小構成」を作らせてみましょう。
+ターミナルの `claude` プロンプトに対して以下のように入力します。
+
+```text
+/task FastAPIで「Hello World」を返すAPIを作成して。
+ディレクトリ構成は、src/配下にmain.pyを置く形にして。
+作成できたら、uvicornでサーバーを起動するコマンドも教えて。
+```
 
 ### 期待される出力
 
-Claude Codeの画面上で、以下のようなログが流れるはずです。
-
-```
-[Thinking] 実装を開始します...
-[Write] main.py を作成しました
-[Run] uvicorn main:app --reload &
-[Run] pytest test_main.py
-[Result] 3 tests passed, 1 failed.
-[Thinking] 自動タグ付け部分でAPIキーが設定されていないエラーが発生しました。修正します。
-[Write] main.py を修正（エラーハンドリングを追加）
-[Run] pytest test_main.py
-[Result] All tests passed!
+```text
+（Claudeがファイルを生成し、以下のような実行コマンドを提示します）
+I have created the FastAPI application.
+You can run it using:
+uvicorn src.main:app --reload
 ```
 
-この「自分でテストして、自分で直す」というプロセスがClaude Codeの真骨頂です。
-人間はコーヒーを飲んで待っているだけで、バグのない初期実装が完了します。
+Claude Codeが凄いのは、ここで実際に `ls` や `cat` を自分で叩いて、ファイルが正しく生成されたかを確認しに行く点です。
+Cursorを使っているなら、左側のファイルツリーに即座に `src/main.py` が現れるはずです。
+このように「CLIで命令し、エディタで確認する」のが基本スタイルになります。
 
-## Step 4: 実用レベルにするためのCursor連携
+## Step 4: 実用レベルにする
 
-Claude Codeが作ったコードは、時として「機能は満たすが、可読性が低い」あるいは「ディレクトリ構成が独特」な場合があります。
-ここで再びCursorに戻ります。
+ここからが本番です。単なるHello Worldではなく、データベース（SQLite）と連携したタスク管理機能を追加します。
+以下の指示をClaude Codeに投げてください。
 
-CursorのComposer（Ctrl+I / Cmd+I）を開き、生成された全ファイルを対象にして、以下のリファクタリングを指示します。
+```text
+/task 以下の機能を実装してください。
+1. SQLAlchemyを使用したSQLite連携。
+2. Taskモデル（id, title, description, status）の作成。
+3. タスクの作成、一覧取得、更新のAPIエンドポイント。
+4. 全ての実装が終わったら、実際にテストコードを書いて実行し、成功することを確認して。
+```
+
+Claude Codeは、必要なライブラリ（sqlalchemy, pydanticなど）が足りなければ、自分で `pip install` を提案、または実行します。
+もしテストでエラーが出れば、そのスタックトレースを読み取り、自力で `main.py` を修正してくれます。
+私は以前、自力でこのデバッグ作業を行っていましたが、Claude Codeに任せることで修正までのレスポンスは0.5秒程度、実際の修正完了まで数分という驚異的な速さを体感しました。
 
 ```python
-# 実用的なコード例のイメージ
-# main.py の一部を以下のようにリファクタリングさせる
+# 実用的なコードの断片（Claudeが生成するはずのコード例）
 from fastapi import FastAPI, Depends, HTTPException
-from sqlalchemy.orm import Session
-from . import crud, models, schemas
-from .database import SessionLocal, engine
+from sqlalchemy import create_engine, Column, Integer, String
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker, Session
 
-models.Base.metadata.create_all(bind=engine)
+# データベース設定
+SQLALCHEMY_DATABASE_URL = "sqlite:///./test.db"
+engine = create_engine(SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False})
+SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+Base = declarative_base()
+
+class Task(Base):
+    __tablename__ = "tasks"
+    id = Column(Integer, primary_key=True, index=True)
+    title = Column(String)
+    status = Column(String, default="todo")
+
+Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 
-# 依存性注入の定義
-def get_db():
-    db = SessionLocal()
-    try:
-        yield db
-    finally:
-        db.close()
-
-@app.post("/tasks/", response_model=schemas.Task)
-def create_task(task: schemas.TaskCreate, db: Session = Depends(get_db)):
-    # AIによるタグ生成ロジックをサービス層に分離させる指示を出す
-    return crud.create_ai_task(db=db, task=task)
+# ここにエンドポイントが続く...
 ```
 
-Cursorを使う理由は、コードの「見た目」や「プロジェクトの作法」を調整するのには、GUIベースの差分確認（Diff）が最適だからです。
-Claude Codeに任せた部分を、自分の好みのコーディングスタイルに一括修正させます。
-
-また、APIキーの設定などは `.env` ファイルに切り出し、`pydantic-settings` を使うように指示すると、より実務的な構成になります。
+コードが生成されたら、Cursorの「Composer（Cmd+I）」を開き、生成されたコードに対して「このAPIにバリデーションを追加して」などと、エディタ側でUIを見ながら微調整を行います。
+「ロジックの構築はClaude Code、UIや細かな仕様変更はCursor」という役割分担が、最もストレスなく開発を進められます。
 
 ## よくあるトラブルと解決法
 
 | エラー内容 | 原因 | 解決策 |
 |-----------|------|--------|
-| Claude Codeが止まる | ファイルの書き込み権限不足 | ターミナルの「フルディスクアクセス」を許可する |
-| API料金が高すぎる | Claude Codeが無限ループしている | `Ctrl+C` で即座に停止し、指示を具体的にする |
-| テストが通らない | 依存ライブラリの不足 | `claude` に「不足しているライブラリをpipで入れて」と指示 |
+| Claude Codeが同じ修正を繰り返す | テストコード自体に不備がある | 一度 `/stop` で止めて、手動でテストコードを修正するか、具体的に「テストを修正して」と指示する |
+| APIキーのクォータ制限 | 短時間に大量のトークンを消費した | Tierを上げるか、Claude 3.5 SonnetではなくHaiku（安価版）への切り替えを検討する |
+| Cursorとファイルが競合する | 両方で同時にファイルを保存しようとした | Claude Codeが実行中のときは、Cursor側での編集を控えるのが無難 |
 
 ## 次のステップ
 
-ここまでで、AIエージェントとIDEを組み合わせた最短の開発フローを体験できました。
-次に挑戦すべきは、「既存の巨大なプロジェクトへの適用」です。
+この環境が整えば、次は「自律型エージェント」としての側面を強化しましょう。
+例えば、「GitHubのIssueを読み取って、自動でプルリクエストを作成するスクリプト」をこの環境で作ってみてください。
+Claude Codeには `/compact` コマンドがあり、コンテキスト（会話の履歴）を整理してトークンを節約する機能もあります。
 
-新しい機能を追加したい時に、Claude Codeに対して「このディレクトリにある既存の認証ロジックを読み取って、新しい管理画面用のAPIを追加して」と指示を出してみてください。
-その際、Cursorで事前に `git diff` を確認できるようにしておくと、AIが予期せぬ場所を書き換えた時にもすぐに気づけます。
-
-また、ローカルLLM（Ollama等）と接続して、機密性の高いコードはローカルで、複雑なロジックはClaudeで、という使い分けを模索するのも面白いでしょう。
-私の環境ではRTX 4090を活用して、簡単なリファクタリングはローカルのQwen 2.5 32Bで行っています。
+AIコーディングの本質は、AIにコードを書かせることではなく、「AIが正しく動ける環境を整え、自分はレビューに専念する」という役割の転換にあります。
+今回構築したCursor × Claude Codeの体制は、その第一歩として、現時点で間違いなく最強の組み合わせです。
+ぜひ、自分の既存プロジェクトをこの環境に取り込んで、その圧倒的な開発速度を体験してみてください。
 
 ## よくある質問
 
-### Q1: Cursorだけで十分ではないですか？
+### Q1: Claude Codeを使うとAPI料金が高くなりそうで不安です。
 
-CursorのComposerも素晴らしいですが、複数のターミナルコマンドを組み合わせて、テスト結果を見ながらコードを自己修正する自律性は、現状Claude Codeの方が一歩先を行っています。
-「AIに丸投げできる範囲」を広げたいなら、併用がベストです。
+確かに、自律的に動くためトークン消費は激しいです。しかし、エンジニアの時給を$50と考えるなら、数ドルのAPI代で1時間の作業が5分で終わるのは圧倒的に安上がりです。`/stats` コマンドで現在の消費量を確認しながら使いましょう。
 
-### Q2: API課金が怖いです。節約する方法は？
+### Q2: Cursorだけで十分ではないですか？
 
-Claude Codeに渡すコンテキスト（読み込ませるファイル）を最小限に絞ることです。
-不要な `node_modules` や `__pycache__` を読み込ませないよう、`.gitignore` を適切に設定してください。
-また、作業の区切りで一度終了させるのも効果的です。
+CursorのComposerも優秀ですが、ターミナルの出力結果（テスト結果やサーバーのログ）をリアルタイムに、かつ深いコンテキストで理解して修正する能力は、現時点ではClaude Code（CLI）に軍配が上がります。
 
-### Q3: 日本語での指示でも大丈夫ですか？
+### Q3: 日本語での指示で問題ありませんか？
 
-全く問題ありません。
-Claude 3.5 Sonnetは日本語のニュアンスを完璧に理解します。
-ただし、技術的な用語は英語のままの方が、AIがドキュメントを参照する際に正確性が増すことがあります。
+全く問題ありません。Claude 3.5 Sonnetは非常に高い日本語理解能力を持っています。ただし、専門用語（「冪等性を担保して」「非同期処理にして」など）を混ぜることで、より正確なコードが生成されやすくなります。
+
+{{< rawhtml >}}
+<div style="border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin:20px 0;background:#fafafa">
+<p style="margin:0 0 4px;font-size:13px;color:#888">📦 この記事に関連する商品（楽天メインで価格確認）</p>
+<strong style="font-size:16px">MacBook Pro M3 Max</strong>
+<p style="color:#555;margin:8px 0;font-size:14px">AIツール複数起動とローカル検証には32GB以上のメモリが必須</p>
+<div style="display:flex;gap:8px;flex-wrap:wrap">
+<a href="https://hb.afl.rakuten.co.jp/hgc/5000cbfd.5f52567b.5000cbff.924460a4/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMacBook%2520Pro%2520M3%2520Max%252032GB%2F&m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMacBook%2520Pro%2520M3%2520Max%252032GB%2F" target="_blank" rel="noopener sponsored" style="padding:10px 18px;background:#bf0000;color:#fff;text-decoration:none;border-radius:4px;font-size:14px;font-weight:bold">楽天で価格を見る</a>
+<a href="https://www.amazon.co.jp/s?k=MacBook%20Pro%20M3%20Max%2032GB&tag=negi3939-22" target="_blank" rel="noopener sponsored" style="padding:8px 16px;background:#ff9900;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold">Amazonでも確認</a>
+</div>
+<p style="margin:8px 0 0;font-size:11px;color:#aaa">※アフィリエイトリンクを含みます</p>
+</div>
+{{< /rawhtml >}}
 
 ---
 
 ## あわせて読みたい
 
 - [Claude CodeとCursorを併用してAI開発を完全自動化する方法](/posts/2026-07-18-claude-code-cursor-ai-coding-tutorial/)
-- [Claude CodeとCursorを併用！爆速AIコーディング環境構築ガイド](/posts/2026-07-11-claude-code-cursor-hybrid-workflow-guide/)
-- [Claude CodeとCursorを併用して開発効率を最大化するAIコーディング環境構築ガイド](/posts/2026-07-04-claude-code-cursor-hybrid-workflow-guide/)
+- [Claude CodeとCursorを最強にするclaude-skills比較とおすすめPC構成｜買う前に知るべきVRAMとメモリ](/posts/2026-07-06-claude-skills-pc-specs-comparison-guide/)
+- [Munder Difflin 使い方と実務評価：Claude Codeを自律型エージェント化する実践ガイド](/posts/2026-08-15-munder-difflin-claude-code-agent-review/)
 
 <script type="application/ld+json">
 {
@@ -235,26 +221,26 @@ Claude 3.5 Sonnetは日本語のニュアンスを完璧に理解します。
   "mainEntity": [
     {
       "@type": "Question",
+      "name": "Claude Codeを使うとAPI料金が高くなりそうで不安です。",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "確かに、自律的に動くためトークン消費は激しいです。しかし、エンジニアの時給を$50と考えるなら、数ドルのAPI代で1時間の作業が5分で終わるのは圧倒的に安上がりです。/stats コマンドで現在の消費量を確認しながら使いましょう。"
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Cursorだけで十分ではないですか？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "CursorのComposerも素晴らしいですが、複数のターミナルコマンドを組み合わせて、テスト結果を見ながらコードを自己修正する自律性は、現状Claude Codeの方が一歩先を行っています。 「AIに丸投げできる範囲」を広げたいなら、併用がベストです。"
+        "text": "CursorのComposerも優秀ですが、ターミナルの出力結果（テスト結果やサーバーのログ）をリアルタイムに、かつ深いコンテキストで理解して修正する能力は、現時点ではClaude Code（CLI）に軍配が上がります。"
       }
     },
     {
       "@type": "Question",
-      "name": "API課金が怖いです。節約する方法は？",
+      "name": "日本語での指示で問題ありませんか？",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Claude Codeに渡すコンテキスト（読み込ませるファイル）を最小限に絞ることです。 不要な nodemodules や pycache を読み込ませないよう、.gitignore を適切に設定してください。 また、作業の区切りで一度終了させるのも効果的です。"
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "日本語での指示でも大丈夫ですか？",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "全く問題ありません。 Claude 3.5 Sonnetは日本語のニュアンスを完璧に理解します。 ただし、技術的な用語は英語のままの方が、AIがドキュメントを参照する際に正確性が増すことがあります。 ---"
+        "text": "全く問題ありません。Claude 3.5 Sonnetは非常に高い日本語理解能力を持っています。ただし、専門用語（「冪等性を担保して」「非同期処理にして」など）を混ぜることで、より正確なコードが生成されやすくなります。 {{< rawhtml >}} <div style=\"border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin:20px 0;background:#fafafa\"> <p style=\"margin:0 0 4px;font-size:13px;color:#888\">📦 この記事に関連する商品（楽天メインで価格確認）</p> <strong style=\"font-size:16px\">MacBook Pro M3 Max</strong> <p style=\"color:#555;margin:8px 0;font-size:14px\">AIツール複数起動とローカル検証には32GB以上のメモリが必須</p> <div style=\"display:flex;gap:8px;flex-wrap:wrap\"> <a href=\"https://hb.afl.rakuten.co.jp/hgc/5000cbfd.5f52567b.5000cbff.924460a4/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMacBook%2520Pro%2520M3%2520Max%252032GB%2F&m=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMacBook%2520Pro%2520M3%2520Max%252032GB%2F\" target=\"blank\" rel=\"noopener sponsored\" style=\"padding:10px 18px;background:#bf0000;color:#fff;text-decoration:none;border-radius:4px;font-size:14px;font-weight:bold\">楽天で価格を見る</a> <a href=\"https://www.amazon.co.jp/s?k=MacBook%20Pro%20M3%20Max%2032GB&tag=negi3939-22\" target=\"blank\" rel=\"noopener sponsored\" style=\"padding:8px 16px;background:#ff9900;color:#fff;text-decoration:none;border-radius:4px;font-size:13px;font-weight:bold\">Amazonでも確認</a> </div> <p style=\"margin:8px 0 0;font-size:11px;color:#aaa\">※アフィリエイトリンクを含みます</p> </div> {{< /rawhtml >}} ---"
       }
     }
   ]

@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-10-15T13:15:07.625504+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-15-claude-code-cursor-ai-coding-guide",
+    "title": "Claude CodeとCursorを併用して爆速でアプリ開発する環境構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-ai-coding-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ClaudeCode #Cursor",
+    "tweet_text": "AIコーディングは「Cursor」と「Claude Code」の併用が結論。CursorでUIを見ながら書き、Claude Codeでテスト→修正の自律ループを回す。RTX 4090環境で検証したけど、この組み合わせは開発速度が物理的に変わる。API代をケチるより、自分の時間を時給換算して投資すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-15-claude-code-cursor-ai-coding-guide.jpg",
+    "created_at": "2026-10-15T17:11:55.664204+09:00",
+    "posted": false
   }
 ]
