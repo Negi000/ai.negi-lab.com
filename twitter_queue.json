@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-15-claude-code-cursor-ai-coding-guide.jpg",
     "created_at": "2026-10-15T17:11:55.664204+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-15-withhuman-ai-agent-human-approval-layer-review",
+    "title": "withHuman 使い方とレビュー：AIエージェントの暴走を止める承認レイヤーの実装",
+    "url": "https://ai.negi-lab.com/posts/withhuman-ai-agent-human-approval-layer-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #HumanInTheLoop",
+    "tweet_text": "AIエージェントを本番導入する際、最大の壁は「信頼性」です。勝手に決済したりメールを送ったりするリスクは、withHumanのような承認APIで解決するのが正解。自前で承認画面や通知機能を組むと数週間吹っ飛びますが、これならAPIを数行足すだけ。B2B開発なら工数削減と顧客の安心感を両立できます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-15-withhuman-ai-agent-human-approval-layer-review.jpg",
+    "created_at": "2026-10-15T20:03:38.193981+09:00",
+    "posted": false
   }
 ]
