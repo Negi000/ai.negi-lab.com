@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-14-tiden-ai-coding-agent-intent-verification-review",
-    "title": "Tiden コーディングエージェントの暴走を防ぐ意図検証ガイド",
-    "url": "https://ai.negi-lab.com/posts/tiden-ai-coding-agent-intent-verification-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #個人開発",
-    "tweet_text": "AIエージェントに自律開発を任せるなら、実行前の「意図検証」は必須。Tidenはエージェントが提案するプランをポリシーと照らし合わせて自動チェックする。\n例えば「テスト削除禁止」などのルールを定義し、GPT-4oやClaudeで検証を回す仕組み。1段上のAgent Sandbox環境を作るなら、このレイヤーの実装は避けて通れない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-14-tiden-ai-coding-agent-intent-verification-review.jpg",
-    "created_at": "2026-10-14T17:36:42.489581+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-14-science-corp-prima-vision-chip-implant",
-    "title": "Neuralink元共同創設者のScience社が視力回復チップを初移植。BCI実用化への分岐点",
-    "url": "https://ai.negi-lab.com/posts/science-corp-prima-vision-chip-implant/",
-    "category": "NEWS",
-    "viral_tags": "#BCI #バイオテック",
-    "tweet_text": "Neuralink元共同創設者が率いるScience社が、視力回復チップの初移植に成功。脳ではなく「網膜下」に378ピクセルの自律駆動チップを埋め込む手法は、侵襲性が低く極めて現実的。\n\nAIで処理した映像を直接神経へ流し込む「生体インターフェース」の商用化が、ついに臨床段階で動き出しました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-14-science-corp-prima-vision-chip-implant.jpg",
-    "created_at": "2026-10-14T20:26:01.475065+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-15-local-llm-gpu-buying-guide-rtx-vs-mac",
     "title": "ローカルLLM用GPU・PCの選び方｜PS5でQwenが動く時代の最適解と比較",
     "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-rtx-vs-mac/",
