@@ -1,83 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Open-source alternative to ChatGPT's new Intelligent UI works with any model (local too)",
-      "url": "https://www.reddit.com/r/ollama/comments/1x0duco/opensource_alternative_to_chatgpts_new/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "2026-10-08T01:11:45+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>ChatGPT launched Intelligent UI, where answers come back as charts, forms and small tools instead of text. It only works inside ChatGPT, so I built an open-source alternative that runs with any OpenAI-compatible model: Ollama, LM Studio, Kimi, OpenRouter, Groq or OpenAI.</p> <p>GitHub: <a href=\"https://github.com/0xcro3dile/answerui\">https://github.com/0xcro3dile/answerui</a> (demo video in the README)</p> <ul> <li>Answers stream in as real interfaces: sliders, ",
-      "extra": {},
-      "collected_at": "2026-10-08T22:02:02"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "smicallef/spiderfoot",
-      "url": "https://github.com/smicallef/spiderfoot",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "extra": {
-        "stars_today": "193 stars today"
-      },
-      "collected_at": "2026-10-08T22:02:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Moonwalkers Dusk",
-      "url": "https://www.producthunt.com/products/moonwalkers-dusk",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Strap-on motorized wheels that let you walk twice as fast </p> <p> <a href=\"https://www.producthunt.com/products/moonwalkers-dusk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1268445?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-08T22:02:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Termaxa",
-      "url": "https://www.producthunt.com/products/termaxa",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> See what an AI agent's command would destroy before it runs </p> <p> <a href=\"https://www.producthunt.com/products/termaxa?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1273125?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-08T22:02:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "KloudMate 2.0",
-      "url": "https://www.producthunt.com/products/kloudmate",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI-powered Full-Stack Observability & Agentic SRE-Ops </p> <p> <a href=\"https://www.producthunt.com/products/kloudmate?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1237294?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-08T22:02:04"
-    },
-    {
       "source": "HN Local AI",
       "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
       "url": "https://quesma.com/blog/invisible-cities-one-shot/",
@@ -2960,21 +2883,65 @@
       "collected_at": "2026-10-15T20:03:09"
     },
     {
+      "source": "TechCrunch AI",
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 15 Oct 2026 12:00:00 +0000",
+      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-10-15T22:58:38"
+    },
+    {
       "source": "Product Hunt",
-      "title": "withHuman",
-      "url": "https://www.producthunt.com/products/withhuman",
+      "title": "Fwrd",
+      "url": "https://www.producthunt.com/products/fwrd",
       "primary_category": "TOOL",
       "possible_categories": [
-        "MONEY",
         "TOOL"
       ],
       "published": "",
-      "summary": "<p> A human approval layer for AI Agents </p> <p> <a href=\"https://www.producthunt.com/products/withhuman?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1280444?app_id=339\">Link</a> </p>",
+      "summary": "<p> Forward iPhone texts to Slack, Discord, or Telegram </p> <p> <a href=\"https://www.producthunt.com/products/fwrd?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1274337?app_id=339\">Link</a> </p>",
       "extra": {
-        "revenue_score": 6
+        "revenue_score": 0
       },
-      "collected_at": "2026-10-15T20:03:09"
+      "collected_at": "2026-10-15T22:58:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Backdrop",
+      "url": "https://www.producthunt.com/products/backdrop",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build AI coworkers for any workflow, any industry </p> <p> <a href=\"https://www.producthunt.com/products/backdrop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1278526?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-15T22:58:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Talanoa",
+      "url": "https://www.producthunt.com/products/talanoa-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Email that feels like chat. </p> <p> <a href=\"https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1267030?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-15T22:58:39"
     }
   ],
-  "updated_at": "2026-10-15T20:03:12.673149+09:00"
+  "updated_at": "2026-10-15T22:58:42.470438+09:00"
 }
