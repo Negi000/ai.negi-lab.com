@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-16-llamacpp-gguf-beginner-guide-setup.jpg",
     "created_at": "2026-10-16T17:05:11.552072+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-16-parallax-coding-agent-orchestrator-review",
+    "title": "Parallax 複数AIエージェントを統合する「司令塔」の実力と導入手順",
+    "url": "https://ai.negi-lab.com/posts/parallax-coding-agent-orchestrator-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #個人開発",
+    "tweet_text": "AiderやClineなど、増えすぎたAIエージェントを1箇所に統合する「Parallax」が面白い。各ツールでバラバラだったAPIキーやコンテキスト、作業ログを一つの司令塔で管理できる。RTX 4090環境でローカルLLMをレビュアーとして常駐させてみたが、ツール間の切り替えコストが消えるのは快感。特定ツールに依存せず、自分だけの最強エージェント軍団を作りたい人向け。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-16-parallax-coding-agent-orchestrator-review.jpg",
+    "created_at": "2026-10-16T19:58:59.279663+09:00",
+    "posted": false
   }
 ]
