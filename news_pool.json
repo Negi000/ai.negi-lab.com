@@ -1,63 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 08 Oct 2026 17:08:02 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-09T10:09:54"
-    },
-    {
-      "source": "r/LocalLLM",
-      "title": "PSA: LMCache phones home by default",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1wzhtld/psa_lmcache_phones_home_by_default/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-10-06T23:42:19+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I log every new outbound connection on my LAN at the router. A few days ago my inference box started making about 18 connections an hour to an AWS IP I didn't recognise, <code>34.236.19.149:8080</code>. It turned out to be <code>stats.lmcache.ai</code>.</p> <p><strong>Source:</strong> LMCache's built-in usage telemetry, which is <strong>on by default</strong>. It only fired while a vLLM container with the LMCache KV-cache tier enabled was serving, and it stopped",
-      "extra": {},
-      "collected_at": "2026-10-09T10:10:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Revela",
-      "url": "https://www.producthunt.com/products/revela",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A film camera for iPhone that makes you wait for the lab </p> <p> <a href=\"https://www.producthunt.com/products/revela?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1258562?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-09T10:10:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "tide",
-      "url": "https://www.producthunt.com/products/tide-simple-self-hostable-video-calls",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A Jitsi alternative that does a few things really well </p> <p> <a href=\"https://www.producthunt.com/products/tide-simple-self-hostable-video-calls?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1272541?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-09T10:10:03"
-    },
-    {
       "source": "Google News",
       "title": "トランプ米大統領、「AI」という言葉を使う者は「敵」　政府サイト「AI.gov」は「SI GOV」表記に - ｄメニューニュース",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEQwRXppRkVTbHhnVWpUV1hQZVhTSFFFNy1nMXR6MzdQYzB2cDJDRndtRFdzNThwRHg1UXY4UTJreGo5OGZuMlN3c2Q1ajlSWEFZa3B5WDIyMkRyUW42dk5aUVFQSkNON1pBcENvRjhUNk9YQTRtVDdLcEJHeVFlbm1xLWFCYXVRbXRQTFVFWGU2T2o0MF94RWlka9IBmwFBVV95cUxOeEQwRXppRkVTbHhnVWpUV1hQZVhTSFFFNy1nMXR6MzdQYzB2cDJDRndtRFdzNThwRHg1UXY4UTJreGo5OGZuMlN3c2Q1ajlSWEFZa3B5WDIyMkRyUW42dk5aUVFQSkNON1pBcENvRjhUNk9YQTRtVDdLcEJHeVFlbm1xLWFCYXVRbXRQTFVFWGU2T2o0MF94RWlkaw?oc=5",
@@ -2911,7 +2854,53 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-16T08:39:09"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Introducing Muse Spark Open: the most capable US open-weight model to date",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6r9pz/introducing_muse_spark_open_the_most_capable_us/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-10-15T17:03:45+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x6r9pz/introducing_muse_spark_open_the_most_capable_us/\"> <img alt=\"Introducing Muse Spark Open: the most capable US open-weight model to date\" src=\"https://preview.redd.it/4nv4g9cnvnvh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=11f3c65df3cc1462f31dfc1687560ee48acb4aa2\" title=\"Introducing Muse Spark Open: the most capable US open-weight model to date\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey <a href=\"/r",
+      "extra": {},
+      "collected_at": "2026-10-16T13:10:31"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 15 Oct 2026 23:44:56 +0000",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-16T13:10:39"
+    },
+    {
+      "source": "Google News",
+      "title": "JMA Journal 医学AI研究の最前線─JMA Journal掲載論文から - 日本医師会",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96a3NHSWVBSloySXNEWE1DdzF1TEo4Ny1XOS1wWTJVblNyX0FyUzA3SWVKQ2hrUXFrMXNabmEyNkJZM3RVWHc1b1hMWmxLZWRsdWl6cF9VNVZtTFlTZUN1bEJzZ2I?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 16 Oct 2026 00:58:21 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE96a3NHSWVBSloySXNEWE1DdzF1TEo4Ny1XOS1wWTJVblNyX0FyUzA3SWVKQ2hrUXFrMXNabmEyNkJZM3RVWHc1b1hMWmxLZWRsdWl6cF9VNVZtTFlTZUN1bEJzZ2I?oc=5\" target=\"_blank\">JMA Journal 医学AI研究の最前線─JMA Journal掲載論文から</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">日本医師会</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-16T13:10:39"
     }
   ],
-  "updated_at": "2026-10-16T08:39:12.994836+09:00"
+  "updated_at": "2026-10-16T13:10:43.212708+09:00"
 }
