@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-16-replit-ceo-self-driving-company-agent-impact.jpg",
     "created_at": "2026-10-16T22:45:58.677124+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-17-muse-spark-open-local-llm-hardware-guide",
+    "title": "Muse Spark Openをローカルで動かすおすすめPCスペック比較！RTX 4090とMac Studioの選び方",
+    "url": "https://ai.negi-lab.com/posts/muse-spark-open-local-llm-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "Muse Spark Openをローカルで動かすなら、VRAM 24GBのRTX 4090か、メモリ64GB以上のMacが最低ライン。8GBのGPUは現行のUSオープンウェイトモデルを前には無力です。推論速度ならNVIDIA、巨大モデルのロードならMac Studio。実務で使うなら「将来の2枚挿し」を見据えた電源選びが成否を分けます。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-17-muse-spark-open-local-llm-hardware-guide.jpg",
+    "created_at": "2026-10-17T03:19:12.613355+09:00",
+    "posted": false
   }
 ]
