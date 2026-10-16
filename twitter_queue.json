@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-15-claude-code-cursor-ai-coding-guide",
-    "title": "Claude CodeとCursorを併用して爆速でアプリ開発する環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-ai-coding-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ClaudeCode #Cursor",
-    "tweet_text": "AIコーディングは「Cursor」と「Claude Code」の併用が結論。CursorでUIを見ながら書き、Claude Codeでテスト→修正の自律ループを回す。RTX 4090環境で検証したけど、この組み合わせは開発速度が物理的に変わる。API代をケチるより、自分の時間を時給換算して投資すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-15-claude-code-cursor-ai-coding-guide.jpg",
-    "created_at": "2026-10-15T17:11:55.664204+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-15-withhuman-ai-agent-human-approval-layer-review",
-    "title": "withHuman 使い方とレビュー：AIエージェントの暴走を止める承認レイヤーの実装",
-    "url": "https://ai.negi-lab.com/posts/withhuman-ai-agent-human-approval-layer-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #HumanInTheLoop",
-    "tweet_text": "AIエージェントを本番導入する際、最大の壁は「信頼性」です。勝手に決済したりメールを送ったりするリスクは、withHumanのような承認APIで解決するのが正解。自前で承認画面や通知機能を組むと数週間吹っ飛びますが、これならAPIを数行足すだけ。B2B開発なら工数削減と顧客の安心感を両立できます。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-15-withhuman-ai-agent-human-approval-layer-review.jpg",
-    "created_at": "2026-10-15T20:03:38.193981+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-15-ai-chip-market-share-nvidia-amd-google-tpu",
     "title": "NVIDIA 1強を崩す勢力はどこか？AIチップ最新シェアと実務者が直面する演算リソースの現実",
     "url": "https://ai.negi-lab.com/posts/ai-chip-market-share-nvidia-amd-google-tpu/",
