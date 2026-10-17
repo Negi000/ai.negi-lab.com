@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-10-17-korinotch-macbook-notch-command-center-review.jpg",
     "created_at": "2026-10-17T21:43:19.799709+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-18-jma-journal-medical-ai-frontier-2024",
+    "title": "日本の医学AIは「精度競争」を終え、医師の責任とAIの判断をどう分離するかという「実効性」の検証フェーズに突入しました。",
+    "url": "https://ai.negi-lab.com/posts/jma-journal-medical-ai-frontier-2024/",
+    "category": "NEWS",
+    "viral_tags": "#医学AI #ローカルLLM",
+    "tweet_text": "日本の医学AIは「精度」から「社会実装」へ。JMA Journalの最新論文が示すのは、単なる診断AIではなく、日本の医療制度に即したRAGと説明責任の実装。GPT-4oのレスポンスより、医療現場が求めるのは情報の「根拠」と「鮮度」です。VRAM 24GB以上の環境でローカルLLMを回し、特化型モデルを模索する時期。開発者はHL7 FHIRの理解が必須になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-18-jma-journal-medical-ai-frontier-2024.jpg",
+    "created_at": "2026-10-18T00:17:19.451395+09:00",
+    "posted": false
   }
 ]
