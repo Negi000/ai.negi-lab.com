@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-16-llamacpp-gguf-beginner-guide-setup",
-    "title": "llama.cpp 使い方 入門！GGUF量子化でローカルLLMを動かす実践ガイド",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-beginner-guide-setup/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llamacpp",
-    "tweet_text": "ローカルLLMを仕事で使うなら、llama.cppとGGUF量子化の組み合わせが最強。RTX 4090を2枚挿す必要はありません。メモリ16GBのMacや普通のPCでも、設定次第で秒間20トークン以上の爆速推論が可能。環境構築からPython連携まで、コピペで動く最短ガイドを書きました。VRAM不足で諦める前にQ4_K_M量子化を試してほしい。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-16-llamacpp-gguf-beginner-guide-setup.jpg",
-    "created_at": "2026-10-16T17:05:11.552072+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-16-parallax-coding-agent-orchestrator-review",
-    "title": "Parallax 複数AIエージェントを統合する「司令塔」の実力と導入手順",
-    "url": "https://ai.negi-lab.com/posts/parallax-coding-agent-orchestrator-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #個人開発",
-    "tweet_text": "AiderやClineなど、増えすぎたAIエージェントを1箇所に統合する「Parallax」が面白い。各ツールでバラバラだったAPIキーやコンテキスト、作業ログを一つの司令塔で管理できる。RTX 4090環境でローカルLLMをレビュアーとして常駐させてみたが、ツール間の切り替えコストが消えるのは快感。特定ツールに依存せず、自分だけの最強エージェント軍団を作りたい人向け。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-16-parallax-coding-agent-orchestrator-review.jpg",
-    "created_at": "2026-10-16T19:58:59.279663+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-16-replit-ceo-self-driving-company-agent-impact",
     "title": "Replitが描く「自動運転企業」の衝撃。開発環境からビジネス基盤への進化を読み解く",
     "url": "https://ai.negi-lab.com/posts/replit-ceo-self-driving-company-agent-impact/",
