@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-15-ai-chip-market-share-nvidia-amd-google-tpu",
-    "title": "NVIDIA 1強を崩す勢力はどこか？AIチップ最新シェアと実務者が直面する演算リソースの現実",
-    "url": "https://ai.negi-lab.com/posts/ai-chip-market-share-nvidia-amd-google-tpu/",
-    "category": "NEWS",
-    "viral_tags": "#AI半導体 #NVIDIA",
-    "tweet_text": "AIチップ市場はNVIDIAが80%超を占める独走状態ですが、AMD MI300Xのメモリ192GBやGoogle TPU v5pの台頭で「脱CUDA」の現実味が増しています。実務ではH100一択から、コスト効率重視のマルチベンダー活用へシフトすべき局面。推論コストを半分にするなら、カタログスペック以上にメモリ帯域とバッチ処理能力に注目です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-15-ai-chip-market-share-nvidia-amd-google-tpu.jpg",
-    "created_at": "2026-10-15T22:59:04.052168+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-16-ai-coding-benchmark-parsimony-comparison-guide",
-    "title": "Claude Code時代のAIコーディング比較！Parsimonyベンチマークから選ぶ最強MacとRTX構成",
-    "url": "https://ai.negi-lab.com/posts/ai-coding-benchmark-parsimony-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ClaudeCode #ローカルLLM",
-    "tweet_text": "AIコーディングの質は「正解率」より「修正の少なさ」で決まる。Parsimonyベンチマークが示す通り、Claude 3.5 Sonnetの簡潔さは圧倒的。\n\nこの恩恵を最大化するならMacはメモリ36GB以上、ローカルLLMならVRAM 24GBが最低ライン。メモリをケチるとAIが生成した冗長なコードのデバッグで時間を溶かす。まずは道具に投資してレビューコストを削るのが正解。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-16-ai-coding-benchmark-parsimony-comparison-guide.jpg",
-    "created_at": "2026-10-16T03:36:53.250479+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-16-local-llm-gpu-buying-guide-nvidia-vs-mac",
     "title": "ローカルLLM用GPUの選び方｜RTX 4090かMacか？AMDのCUDA互換性は待つべき？",
     "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-nvidia-vs-mac/",
