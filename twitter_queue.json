@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-16-navige-ai-agent-cost-control-review",
-    "title": "Navige AIエージェントのコスト暴走を阻止する予算管理ガードレール",
-    "url": "https://ai.negi-lab.com/posts/navige-ai-agent-cost-control-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIAgent #APIコスト削減",
-    "tweet_text": "AIエージェントの「無限ループ」で一晩数万円溶かす恐怖から解放されるツール、Navigeを検証。SDKでOpenAIクライアントを1行ラップするだけで、予算超過した瞬間に物理的にリクエストを遮断できる。後からグラフを見て青ざめる時代は終わり。マルチテナントSaaSでユーザーごとに課金枠を絞りたい開発者は導入一択。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-16-navige-ai-agent-cost-control-review.jpg",
-    "created_at": "2026-10-16T13:11:08.911623+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-16-llamacpp-gguf-beginner-guide-setup",
     "title": "llama.cpp 使い方 入門！GGUF量子化でローカルLLMを動かす実践ガイド",
     "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-beginner-guide-setup/",
