@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "ReSO AI",
-      "url": "https://www.producthunt.com/products/reso",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Get discovered & recommended when customers ask AI </p> <p> <a href=\"https://www.producthunt.com/products/reso?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1245921?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-11T03:48:27"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Maildun for Mac",
-      "url": "https://www.producthunt.com/products/maildun-for-mac",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Design on-brand emails by hand, with AI, or over MCP </p> <p> <a href=\"https://www.producthunt.com/products/maildun-for-mac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1275415?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-11T03:48:27"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Kitbar",
-      "url": "https://www.producthunt.com/products/kitbar",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your dev tools, in one bar. </p> <p> <a href=\"https://www.producthunt.com/products/kitbar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1273865?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-11T03:48:27"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
       "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
@@ -2720,18 +2675,65 @@
     },
     {
       "source": "r/LocalLLaMA Weekly",
-      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/",
+      "title": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
       "primary_category": "MONEY",
       "possible_categories": [
         "MONEY",
         "GUIDE"
       ],
-      "published": "2026-10-17T08:09:21+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/\"> <img alt=\"deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face\" src=\"https://external-preview.redd.it/D2UVohhAgR3IbcnduvNZh_TqvAGrIOo_AiDF7ei-clA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=89814e011d91f093cb07105d7ff22c8195f0bec0\" title=\"deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/use",
+      "published": "2026-10-17T16:13:13+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/\"> <img alt=\"Linux creator says anti-AI rules are &quot;idiotic.&quot; (Absolute god-tier take.)\" src=\"https://preview.redd.it/nhlbvepgx1wh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1632cf2b934dd97fc4d2e98ca4bcf3d0f8fb19e\" title=\"Linux creator says anti-AI rules are &quot;idiotic.&quot; (Absolute god-tier take.)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"h",
       "extra": {},
-      "collected_at": "2026-10-18T02:30:47"
+      "collected_at": "2026-10-18T04:02:50"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Sat, 17 Oct 2026 18:48:08 +0000",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-10-18T04:02:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "DeepSeek V4.1 Flash (1017) Now Leads Open-Weight Models",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "2026-10-17T14:15:01+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight/\"> <img alt=\"DeepSeek V4.1 Flash (1017) Now Leads Open-Weight Models\" src=\"https://preview.redd.it/zw362oj6c1wh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3dfe82db0fc744b1a858acb7eb2cb78a44f1269\" title=\"DeepSeek V4.1 Flash (1017) Now Leads Open-Weight Models\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Informal-Trouble2183\"> /u/In",
+      "extra": {
+        "revenue_score": 4
+      },
+      "collected_at": "2026-10-18T04:03:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Nvidia has officially confirmed that the 5090 is not discontinued and will continue shipping.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x88txd/nvidia_has_officially_confirmed_that_the_5090_is/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-10-17T12:18:00+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x88txd/nvidia_has_officially_confirmed_that_the_5090_is/\"> <img alt=\"Nvidia has officially confirmed that the 5090 is not discontinued and will continue shipping.\" src=\"https://external-preview.redd.it/WOAsxB4KqN_tOhz8prnLIEEIfaenoRa4mjZH1tbas2o.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=078c3ad8dfae373f219ca58d13b0be241e71c065\" title=\"Nvidia has officially confirmed that the 5090 is not discontinued and will continue",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-10-18T04:03:01"
     }
   ],
-  "updated_at": "2026-10-18T02:30:59.592137+09:00"
+  "updated_at": "2026-10-18T04:03:01.417550+09:00"
 }
