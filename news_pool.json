@@ -1,81 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "Recommendations for Local AI Long-Term Memory and User Personalization Modules",
-      "url": "https://www.reddit.com/r/ollama/comments/1x27obv/recommendations_for_local_ai_longterm_memory_and/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-10-10T06:03:12+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am developing a Windows-based local AI virtual spouse application that supports adult roleplay. My goal is to run it without a server or external AI APIs.</p> <p>I am looking for existing open-source modules or integrated code that can extract a user's preferences, personality traits, habits, promises, and shared experiences from conversations, store them as long-term memories, and retrieve and naturally incorporate relevant information into future conversatio",
-      "extra": {},
-      "collected_at": "2026-10-10T18:43:01"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Web automation with Ollama on a 4 GB GPU: Qwen 3.5 4B plans, a heuristic clicks, and saved tasks replay with no model at all",
-      "url": "https://www.reddit.com/r/ollama/comments/1x1xdrk/web_automation_with_ollama_on_a_4_gb_gpu_qwen_35/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-10-09T21:21:19+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1x1xdrk/web_automation_with_ollama_on_a_4_gb_gpu_qwen_35/\"> <img alt=\"Web automation with Ollama on a 4 GB GPU: Qwen 3.5 4B plans, a heuristic clicks, and saved tasks replay with no model at all\" src=\"https://preview.redd.it/jt290ycldiuh1.gif?width=640&amp;crop=smart&amp;s=64c1566a9ba42baf22ae95534660c1341d733dbc\" title=\"Web automation with Ollama on a 4 GB GPU: Qwen 3.5 4B plans, a heuristic clicks, and saved tasks replay with n",
-      "extra": {},
-      "collected_at": "2026-10-10T18:43:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "The Computer Game",
-      "url": "https://www.producthunt.com/products/the-computer-game",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Build the best computer, from stone tools to your own chips </p> <p> <a href=\"https://www.producthunt.com/products/the-computer-game?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1275148?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-10T18:43:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "New Windows Search",
-      "url": "https://www.producthunt.com/products/new-windows-search",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Windows Search now takes action, not just finds files </p> <p> <a href=\"https://www.producthunt.com/products/new-windows-search?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1274432?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-10T18:43:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Isly",
-      "url": "https://www.producthunt.com/products/isly",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your MacBook notch, brought to life. </p> <p> <a href=\"https://www.producthunt.com/products/isly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1272046?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-10T18:43:03"
-    },
-    {
       "source": "GitHub Trending",
       "title": "fastapi/fastapi",
       "url": "https://github.com/fastapi/fastapi",
@@ -2840,7 +2765,50 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-17T16:42:15"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Sat, 17 Oct 2026 04:36:53 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-17T19:19:43"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "NitroStack",
+      "url": "https://www.producthunt.com/products/nitrostack",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build, test, and deploy MCP servers in one place </p> <p> <a href=\"https://www.producthunt.com/products/nitrostack?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1273961?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-17T19:19:52"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Spiralens",
+      "url": "https://www.producthunt.com/products/spiralens",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Golden ratio camera that tells you where to move your phone </p> <p> <a href=\"https://www.producthunt.com/products/spiralens?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1278738?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-17T19:19:52"
     }
   ],
-  "updated_at": "2026-10-17T16:42:18.620756+09:00"
+  "updated_at": "2026-10-17T19:19:56.348981+09:00"
 }
