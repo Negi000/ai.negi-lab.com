@@ -1,36 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "Introducing Sakana AI's Frontier Intelligence Group (FIG) - Sakana AI",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvUVNHVnBhYmRQc1lZcFpwSkdDQ0Y3aFlzbEcydjNDM1VCTTktZjlfd3hwYWJ0YXNTRVlzVEc5ajEwWWlJbU9feEpwMDFYMzlnQ004SkxZQ2lQdw?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvUVNHVnBhYmRQc1lZcFpwSkdDQ0Y3aFlzbEcydjNDM1VCTTktZjlfd3hwYWJ0YXNTRVlzVEc5ajEwWWlJbU9feEpwMDFYMzlnQ004SkxZQ2lQdw?oc=5\" target=\"_blank\">Introducing Sakana AI's Frontier Intelligence Group (FIG)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sakana AI</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-12T05:48:55"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "NotchPit",
-      "url": "https://www.producthunt.com/products/notchpit",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your Mac's notch, rearranged into a control center </p> <p> <a href=\"https://www.producthunt.com/products/notchpit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1275909?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-12T05:48:55"
-    },
-    {
       "source": "HN Local AI",
       "title": "Passkeys are a trap. Do not use them",
       "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
@@ -2124,19 +2094,6 @@
       "collected_at": "2026-10-17T16:42:15"
     },
     {
-      "source": "HN AI Hot",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Sat, 17 Oct 2026 04:36:53 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-17T19:19:43"
-    },
-    {
       "source": "Product Hunt",
       "title": "Spiralens",
       "url": "https://www.producthunt.com/products/spiralens",
@@ -2666,7 +2623,88 @@
         "revenue_score": 3
       },
       "collected_at": "2026-10-19T04:14:53"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-10-18T12:16:59+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/\"> <img alt=\"Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport\" src=\"https://external-preview.redd.it/Pft2o03LsPI0kYXdZtCeSS9_N3TbLTI_I2XWVr1THKo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9785244c37e65c8d88524e1b75af9a81263bc0f\" title=\"Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
+      "extra": {},
+      "collected_at": "2026-10-19T08:00:55"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 18 Oct 2026 20:37:40 +0000",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-19T08:00:55"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Vampire Crawlers™",
+      "url": "https://www.producthunt.com/products/vampire-crawlers",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The Turbo Wildcard from Vampire Survivors </p> <p> <a href=\"https://www.producthunt.com/products/vampire-crawlers?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1283989?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-19T08:00:56"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-10-18T20:10:16+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/\"> <img alt=\"72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.\" src=\"https://preview.redd.it/g4zpnde59awh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e5c1e0affb41326deea8ebd21ae207ccab88106\" title=\"72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.\" /> ",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-10-19T08:01:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Google Open Sources Harness2 for Self Improving AI Agents",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-10-18T22:33:51+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving/\"> <img alt=\"Google Open Sources Harness2 for Self Improving AI Agents\" src=\"https://preview.redd.it/zhvkeo9uyawh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ff3ef8c83c84a4446349c448279fc4d57b56aa7b\" title=\"Google Open Sources Harness2 for Self Improving AI Agents\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Google just released Harness2 as open source. It",
+      "extra": {
+        "revenue_score": 10
+      },
+      "collected_at": "2026-10-19T08:01:00"
     }
   ],
-  "updated_at": "2026-10-19T04:14:57.041580+09:00"
+  "updated_at": "2026-10-19T08:01:00.942701+09:00"
 }
