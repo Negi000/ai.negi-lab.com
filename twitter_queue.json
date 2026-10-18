@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-18-notion-context-for-agents-review-guide.jpg",
     "created_at": "2026-10-18T13:08:21.450043+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-18-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLX入門：Apple SiliconでローカルLLMを爆速かつ低メモリで動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "MacBookを最強のAI端末に変える。MLXならApple Siliconの共有メモリをフル活用して、7BクラスのLLMが秒間50トークン超えで爆速動作します。Pythonだけで完結し、外部API不要でプライバシーも万全。メモリ16GB以上のMacユーザーなら、今すぐローカルLLMを実務に組み込むべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-18-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-10-18T16:57:37.635784+09:00",
+    "posted": false
   }
 ]
