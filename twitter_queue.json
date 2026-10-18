@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-18-claude-3-5-sonnet-nsa-cipher-solved.jpg",
     "created_at": "2026-10-18T21:59:44.203182+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-19-china-ai-export-control-local-llm-gpu-guide",
+    "title": "AI技術の輸出規制で加速する「ローカル回帰」：失敗しないGPU・Macの選び方と比較",
+    "url": "https://ai.negi-lab.com/posts/china-ai-export-control-local-llm-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #GPU選び",
+    "tweet_text": "中国のAI技術輸出規制案で「Qwen等の最新モデル」に不透明感。対策はOS版をローカルで回す環境の確保です。\n失敗しない基準はVRAM 16GB以上のGPUか、メモリ64GB以上のMac一択。8GBモデルは実務ではゴミになります。\n特にRTX 4060 Ti 16GBは10万円以下で買える「仕事用AI」の最低ライン。買う前にVRAM容量だけは死守してください。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-10-19T02:31:14.076832+09:00",
+    "posted": false
   }
 ]
