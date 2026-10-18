@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-17-ollama-open-webui-local-llm-setup-guide",
-    "title": "OllamaとOpen WebUIで自分専用のChatGPTを爆速で構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "ローカルLLMを仕事で使うなら「Ollama + Open WebUI」の組み合わせが結論。VRAM 12GB以上のRTX 3060環境なら、月額20ドルのAPI代をゼロにしてChatGPT同等のUIが手に入る。PDF読み込みのRAGもDocker一発で構築。プライバシー重視の現場こそ、この自前基盤への投資は1ヶ月で回収できる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-17-ollama-open-webui-local-llm-setup-guide.jpg",
-    "created_at": "2026-10-17T16:42:49.471807+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-17-nitrostack-mcp-server-development-review",
-    "title": "NitroStack 使い方 MCPサーバーの開発・テスト・デプロイを統合管理する",
-    "url": "https://ai.negi-lab.com/posts/nitrostack-mcp-server-development-review/",
-    "category": "TOOL",
-    "viral_tags": "#MCP #個人開発",
-    "tweet_text": "MCPサーバーの開発、まだ手動でconfigを書き換えてますか？NitroStackならBuildからSSEデプロイまで1つのワークフローで完結。\nローカルで動くのにデプロイすると動かない「環境差異」をSDKが吸収してくれます。\n無料枠で3サーバーまで試せるので、自社専用エージェントを作りたいエンジニアは今のうちに触っておくべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-17-nitrostack-mcp-server-development-review.jpg",
-    "created_at": "2026-10-17T19:20:17.144568+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-17-korinotch-macbook-notch-command-center-review",
     "title": "Korinotch MacBookのノッチを最強のコマンドセンターに変える方法",
     "url": "https://ai.negi-lab.com/posts/korinotch-macbook-notch-command-center-review/",
