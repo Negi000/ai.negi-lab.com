@@ -1,92 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Anthropic asks users to stop being mean to Claude",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 11 Oct 2026 01:17:22 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-11T21:19:58"
-    },
-    {
-      "source": "r/ollama",
-      "title": "I tested 14 \"decision models\" against local LLMs on 56 real triage tasks. Qwen3.5-9B beat every one of them.",
-      "url": "https://www.reddit.com/r/ollama/comments/1x35tup/i_tested_14_decision_models_against_local_llms_on/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-10-11T11:26:53+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jeeleelee\"> /u/jeeleelee </a> <br /> <span><a href=\"/r/LocalLLM/comments/1x35tkp/i_tested_14_decision_models_against_local_llms_on/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1x35tup/i_tested_14_decision_models_against_local_llms_on/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-10-11T21:20:01"
-    },
-    {
-      "source": "r/ollama",
-      "title": "GLM-5.3-Flash (320B) on an M5 Ultra Mac Studio with llama.cpp: 61 tok/s, 262K context",
-      "url": "https://www.reddit.com/r/ollama/comments/1x2y2ao/glm53flash_320b_on_an_m5_ultra_mac_studio_with/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-10-11T03:43:45+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1x2y2ao/glm53flash_320b_on_an_m5_ultra_mac_studio_with/\"> <img alt=\"GLM-5.3-Flash (320B) on an M5 Ultra Mac Studio with llama.cpp: 61 tok/s, 262K context\" src=\"https://external-preview.redd.it/xkf4DFGJJVQAcOm-gRv1XUfT76S6eJbOZ5vCHrldqoM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f656ffd07e1fc84f2c67c820634d95c13752753\" title=\"GLM-5.3-Flash (320B) on an M5 Ultra Mac Studio with llama.cpp: 61 tok/s, 262K context\" /> </a> </",
-      "extra": {},
-      "collected_at": "2026-10-11T21:20:01"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "FloorGen",
-      "url": "https://www.producthunt.com/products/floorgen",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Draw the house, or just ask. Free floor plans with AI </p> <p> <a href=\"https://www.producthunt.com/products/floorgen?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1275171?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-11T21:20:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Agibot",
-      "url": "https://www.producthunt.com/products/agibot",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Personal AI agent for your Mac using your own keys </p> <p> <a href=\"https://www.producthunt.com/products/agibot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1275891?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-11T21:20:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "HireKey",
-      "url": "https://www.producthunt.com/products/hirekey",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your recruiter-informed AI copilot for tech job search </p> <p> <a href=\"https://www.producthunt.com/products/hirekey?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1267423?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-11T21:20:03"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
       "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
@@ -2728,22 +2642,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Popcraft",
-      "url": "https://www.producthunt.com/products/popcraft",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Generate video, images & audio from any AI agent </p> <p> <a href=\"https://www.producthunt.com/products/popcraft?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1264339?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-18T19:35:21"
-    },
-    {
-      "source": "Product Hunt",
       "title": "MeetPaw",
       "url": "https://www.producthunt.com/products/meetpaw",
       "primary_category": "TOOL",
@@ -2771,7 +2669,93 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-18T19:35:21"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sun, 18 Oct 2026 04:33:49 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-18T21:59:14"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Source code of the Estonian online voting system",
+      "url": "https://github.com/valimised/ivxv",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 17 Oct 2026 03:18:39 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-18T21:59:14"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Kruk2/jasna",
+      "url": "https://github.com/Kruk2/jasna",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Video restoration tool",
+      "extra": {
+        "stars_today": "115 stars today"
+      },
+      "collected_at": "2026-10-18T21:59:16"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "extra": {
+        "stars_today": "155 stars today"
+      },
+      "collected_at": "2026-10-18T21:59:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "XBOX Nano Controller",
+      "url": "https://www.producthunt.com/products/microsoft-xbox-series-s",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Pocket-sized wireless gamepad with all 18 inputs </p> <p> <a href=\"https://www.producthunt.com/products/microsoft-xbox-series-s?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1283110?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-18T21:59:17"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tomo for ChatGPT",
+      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ask anything. Then play it, Duolingo-style. </p> <p> <a href=\"https://www.producthunt.com/products/tomo-for-chatgpt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1283357?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-18T21:59:17"
     }
   ],
-  "updated_at": "2026-10-18T19:35:24.509695+09:00"
+  "updated_at": "2026-10-18T21:59:20.864880+09:00"
 }
