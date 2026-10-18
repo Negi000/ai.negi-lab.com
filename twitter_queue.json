@@ -15275,5 +15275,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-10-19T02:31:14.076832+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-19-local-llm-hardware-selection-llmspeed-guide",
+    "title": "ローカルLLM用PCの選び方とLlmspeed比較 | RTXかMacか？買う前に速度を体感する方法",
+    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-selection-llmspeed-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #エンジニア",
+    "tweet_text": "ローカルLLM用PCを買う前に「Llmspeed」で推論速度を体感すべき。RTX 4090の爆速か、Mac Studioの大容量VRAMか。仕事で使うなら15 tokens/secが最低ライン。VRAM不足でメインメモリに落ちた瞬間に速度は1/10になります。失敗しないためのVRAM容量とメモリ帯域の選び方を実務目線でまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-19-local-llm-hardware-selection-llmspeed-guide.jpg",
+    "created_at": "2026-10-19T04:15:38.296724+09:00",
+    "posted": false
   }
 ]
