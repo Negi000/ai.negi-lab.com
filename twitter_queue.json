@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-10-19-claude-code-cursor-ai-coding-guide.jpg",
     "created_at": "2026-10-19T17:45:20.346000+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-19-headroom-llm-token-compression-guide",
+    "title": "headroom 使い方 トークン消費を最大95%削減するLLM圧縮プロキシの実力",
+    "url": "https://ai.negi-lab.com/posts/headroom-llm-token-compression-guide/",
+    "category": "TOOL",
+    "viral_tags": "#LLM #エンジニア",
+    "tweet_text": "LLMのAPIコストを物理的に削る「headroom」が実用的。JSONならトークンを最大95%削減、コーディングエージェントでも20%減。単なる要約ではなく、構造を保ったままLLMが読みやすい形式に変換する。RAGのコンテキスト溢れや、高額なAPI請求に悩む開発者は導入すべき。MCP対応なのでClaudeやCursorでも即戦力になる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-19-headroom-llm-token-compression-guide.jpg",
+    "created_at": "2026-10-19T21:32:41.608781+09:00",
+    "posted": false
   }
 ]
