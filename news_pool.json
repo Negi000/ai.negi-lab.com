@@ -2,37 +2,6 @@
   "items": [
     {
       "source": "Product Hunt",
-      "title": "guilds.run",
-      "url": "https://www.producthunt.com/products/guilds-run",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Create multi-agent workflows that you can trust </p> <p> <a href=\"https://www.producthunt.com/products/guilds-run?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1274741?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-13T03:37:20"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Knocket",
-      "url": "https://www.producthunt.com/products/knocket-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Chat with visitors from your website or link </p> <p> <a href=\"https://www.producthunt.com/products/knocket-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1258869?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-13T03:37:20"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Manifold MCP",
       "url": "https://www.producthunt.com/products/manifold-mcp",
       "primary_category": "TOOL",
@@ -2424,21 +2393,6 @@
       "collected_at": "2026-10-19T04:14:53"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-10-18T12:16:59+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/\"> <img alt=\"Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport\" src=\"https://external-preview.redd.it/Pft2o03LsPI0kYXdZtCeSS9_N3TbLTI_I2XWVr1THKo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9785244c37e65c8d88524e1b75af9a81263bc0f\" title=\"Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
-      "extra": {},
-      "collected_at": "2026-10-19T08:00:55"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
@@ -2690,7 +2644,55 @@
         "revenue_score": 6
       },
       "collected_at": "2026-10-20T03:33:20"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "Mon, 19 Oct 2026 19:28:34 +0000",
+      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "extra": {
+        "revenue_score": 12
+      },
+      "collected_at": "2026-10-20T05:08:37"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "buddylist",
+      "url": "https://www.producthunt.com/products/buddylist-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Chat with your coding agents like it's 2005 </p> <p> <a href=\"https://www.producthunt.com/products/buddylist-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1280488?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-20T05:08:38"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "walkai-talkai",
+      "url": "https://www.producthunt.com/products/walkai-talkai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Talk to your AI coding agent over a walkie-talkie </p> <p> <a href=\"https://www.producthunt.com/products/walkai-talkai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1283818?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-20T05:08:38"
     }
   ],
-  "updated_at": "2026-10-20T03:33:23.905452+09:00"
+  "updated_at": "2026-10-20T05:08:41.885407+09:00"
 }
