@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-17-korinotch-macbook-notch-command-center-review",
-    "title": "Korinotch MacBookのノッチを最強のコマンドセンターに変える方法",
-    "url": "https://ai.negi-lab.com/posts/korinotch-macbook-notch-command-center-review/",
-    "category": "TOOL",
-    "viral_tags": "#MacBook #生産性向上",
-    "tweet_text": "MacBookのノッチ、ただの邪魔者だと思って消してない？Korinotchを使えば「物理的なコマンドセンター」に変わる。\nファイルをドラッグして一時保存、API連携でログ表示、クリップボード管理。\n画面上のデッドスペースを、1pxも無駄にしない効率化オタク向け。クラムシェル派には不要だが、持ち運び勢は導入必須の0.1秒短縮ツール。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-17-korinotch-macbook-notch-command-center-review.jpg",
-    "created_at": "2026-10-17T21:43:19.799709+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-18-jma-journal-medical-ai-frontier-2024",
-    "title": "日本の医学AIは「精度競争」を終え、医師の責任とAIの判断をどう分離するかという「実効性」の検証フェーズに突入しました。",
-    "url": "https://ai.negi-lab.com/posts/jma-journal-medical-ai-frontier-2024/",
-    "category": "NEWS",
-    "viral_tags": "#医学AI #ローカルLLM",
-    "tweet_text": "日本の医学AIは「精度」から「社会実装」へ。JMA Journalの最新論文が示すのは、単なる診断AIではなく、日本の医療制度に即したRAGと説明責任の実装。GPT-4oのレスポンスより、医療現場が求めるのは情報の「根拠」と「鮮度」です。VRAM 24GB以上の環境でローカルLLMを回し、特化型モデルを模索する時期。開発者はHL7 FHIRの理解が必須になります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-18-jma-journal-medical-ai-frontier-2024.jpg",
-    "created_at": "2026-10-18T00:17:19.451395+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-18-deepseek-v4-1-flash-local-llm-gpu-guide",
     "title": "DeepSeek-V4.1-Flash-1017 比較レビュー：ローカルLLMでAIエージェントを動かすための最適ハードウェア選び",
     "url": "https://ai.negi-lab.com/posts/deepseek-v4-1-flash-local-llm-gpu-guide/",
