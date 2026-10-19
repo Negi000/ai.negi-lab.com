@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-10-19-headroom-llm-token-compression-guide.jpg",
     "created_at": "2026-10-19T21:32:41.608781+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-20-rtx-5090-vs-4090-local-llm-guide",
+    "title": "ローカルLLM用GPU比較｜RTX 5090を待つべきか4090を買うべきか？失敗しない選び方",
+    "url": "https://ai.negi-lab.com/posts/rtx-5090-vs-4090-local-llm-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX5090",
+    "tweet_text": "RTX 5090の盗難ニュースで供給不安が現実味を帯びてきた。ローカルLLM用に「5090待ち」を貫くのは、エンジニアとして機会損失かもしれない。\n\n実務でVRAM 24GBが必要なら、今すぐ4090か中古3090を確保するのが正解。\nVRAM不足は「遅い」ではなく「動かない」を意味する。予算よりまずVRAM容量。16GB以下は後で必ず後悔する。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-20-rtx-5090-vs-4090-local-llm-guide.jpg",
+    "created_at": "2026-10-20T03:33:50.866039+09:00",
+    "posted": false
   }
 ]
