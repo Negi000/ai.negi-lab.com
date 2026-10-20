@@ -1,155 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 13 Oct 2026 16:55:47 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-14T05:19:47"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Google Fitbit Edge",
-      "url": "https://www.producthunt.com/products/google-fit-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Google’s smartest fitness tracker ever with 7-day battery </p> <p> <a href=\"https://www.producthunt.com/products/google-fit-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1278016?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-14T05:19:57"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "LiquidAI/LFM2.5-24B-A2B",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x52kco/liquidailfm2524ba2b/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-10-13T17:14:08+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x52kco/liquidailfm2524ba2b/\"> <img alt=\"LiquidAI/LFM2.5-24B-A2B\" src=\"https://external-preview.redd.it/gzD3QRbVYy-qL_mBdyRbgWqaICmuAHCc3Yd1Og2Mfh8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef2ea32cb681b163cd22695f2f62f812241f9ab9\" title=\"LiquidAI/LFM2.5-24B-A2B\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Gguf's: <a href=\"https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-GGUF\">https://huggingface.co/LiquidAI/LFM2",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-10-14T05:20:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "\"New AI fake text generator may be too dangerous to release, say creators\" (2019 Guardian headline)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x52lsb/new_ai_fake_text_generator_may_be_too_dangerous/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-10-13T17:15:27+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm sure some here read this at the time and remember, but I recently found this hilarious Guardian article from 2019 through Wikipedia:</p> <p><a href=\"https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction\">https://www.theguardian.com/technology/2019/feb/14/elon-musk-backed-ai-writes-convincing-news-fiction</a></p> <p>Some choice quotes:</p> <p>&quot;OpenAI ... says its new AI model, called GPT2 is so good and the",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-10-14T05:20:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Is everyone in here buying up smart TVs now?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4wcnn/is_everyone_in_here_buying_up_smart_tvs_now/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-10-13T13:16:08+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x4wcnn/is_everyone_in_here_buying_up_smart_tvs_now/\"> <img alt=\"Is everyone in here buying up smart TVs now?\" src=\"https://preview.redd.it/pu6cutnui8vh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4366a1db5222483f8252174718105a765a5dd231\" title=\"Is everyone in here buying up smart TVs now?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Anthropic says we can run Gemma4 26b a4b with only 14 smart tvs. </p> </div><!",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-10-14T05:20:01"
-    },
-    {
-      "source": "HN AI Coding",
-      "title": "AI coding agents generate more code, but not more software",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Mon, 12 Oct 2026 17:14:01 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-14T06:45:30"
-    },
-    {
-      "source": "HN AI Coding",
-      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
-      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 12 Oct 2026 07:28:53 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-14T06:45:30"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 13 Oct 2026 20:36:44 +0000",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-14T06:45:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Muse Wonder",
-      "url": "https://www.producthunt.com/products/meta-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Meta’s most capable models for personal agents </p> <p> <a href=\"https://www.producthunt.com/products/meta-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1278066?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-14T06:45:40"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Fina Business",
-      "url": "https://www.producthunt.com/products/fina",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The flexible $20/mo QuickBooks alternative for founders </p> <p> <a href=\"https://www.producthunt.com/products/fina?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1254833?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-14T06:45:40"
-    },
-    {
       "source": "Product Hunt",
       "title": "MentionBird",
       "url": "https://www.producthunt.com/products/mentionbird",
@@ -1587,20 +1438,6 @@
       "collected_at": "2026-10-18T00:16:55"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-10-17T16:13:13+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/\"> <img alt=\"Linux creator says anti-AI rules are &quot;idiotic.&quot; (Absolute god-tier take.)\" src=\"https://preview.redd.it/nhlbvepgx1wh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1632cf2b934dd97fc4d2e98ca4bcf3d0f8fb19e\" title=\"Linux creator says anti-AI rules are &quot;idiotic.&quot; (Absolute god-tier take.)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"h",
-      "extra": {},
-      "collected_at": "2026-10-18T04:02:50"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Replit is no longer working with Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
@@ -2810,7 +2647,79 @@
         "revenue_score": 3
       },
       "collected_at": "2026-10-21T05:18:45"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 20 Oct 2026 17:48:29 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-21T08:47:07"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+      "url": "https://github.com/AbdullahAlhariri/penmentor",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 20 Oct 2026 15:10:54 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-21T08:47:07"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 20 Oct 2026 23:01:23 +0000",
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-10-21T08:47:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mintlify Autopilot",
+      "url": "https://www.producthunt.com/products/mintlify",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> An always-on agent that keeps your docs up to date </p> <p> <a href=\"https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1285769?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-21T08:47:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "yggy",
+      "url": "https://www.producthunt.com/products/yggy",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AI knowledge graph that builds itself </p> <p> <a href=\"https://www.producthunt.com/products/yggy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1277933?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-21T08:47:16"
     }
   ],
-  "updated_at": "2026-10-21T05:18:48.894238+09:00"
+  "updated_at": "2026-10-21T08:47:20.190959+09:00"
 }
