@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-10-20-ai-fraud-beneficial-ownership-us-regulation-crisis.jpg",
     "created_at": "2026-10-20T20:07:46.907586+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-21-local-llm-gpu-selection-24gb-vram-guide",
+    "title": "ローカルLLM用GPUの選び方：24GBの壁とNVIDIA Nemotronで変わる推奨スペック",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-selection-24gb-vram-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "ローカルLLMを仕事で使うなら「VRAM 24GB」が絶対的な境界線。NVIDIA Nemotron 70B等の最新モデルを実用精度で動かすには、RTX 4090か3090が最低限の投資になります。16GB以下で妥協すると、エージェント運用のコンテキスト不足で必ず後悔する。速度のRTXか、容量のMacか。失敗しない選び方をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-21-local-llm-gpu-selection-24gb-vram-guide.jpg",
+    "created_at": "2026-10-21T03:41:31.139076+09:00",
+    "posted": false
   }
 ]

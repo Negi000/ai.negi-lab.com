@@ -1,49 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 13 Oct 2026 16:03:16 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-14T01:44:19"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 13 Oct 2026 16:30:00 +0000",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-10-14T01:44:28"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "MausBot",
-      "url": "https://www.producthunt.com/products/mausbot",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open source Grok Bot: Free, Local </p> <p> <a href=\"https://www.producthunt.com/products/mausbot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1271564?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-14T01:44:29"
-    },
-    {
       "source": "HN Local AI",
       "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
       "url": "https://news.ycombinator.com/item?id=50073471",
@@ -2861,7 +2818,85 @@
         "revenue_score": 7
       },
       "collected_at": "2026-10-21T01:37:00"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "Tue, 20 Oct 2026 18:38:24 +0000",
+      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-21T03:40:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "The New Beings",
+      "url": "https://www.producthunt.com/products/the-new-beings",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI agents on their break, performing a live talk show </p> <p> <a href=\"https://www.producthunt.com/products/the-new-beings?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1285745?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-21T03:40:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Stage",
+      "url": "https://www.producthunt.com/products/stage-9",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Review, fix and sign off working prototypes and products </p> <p> <a href=\"https://www.producthunt.com/products/stage-9?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1285925?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-10-21T03:40:58"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "/dev/null",
+      "url": "https://www.producthunt.com/products/dev-null",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> a social network for devs </p> <p> <a href=\"https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1285391?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-21T03:40:58"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Pocket TTS which supports voice cloning is now just 1.9 million parameters",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xauekr/pocket_tts_which_supports_voice_cloning_is_now/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-10-20T14:59:15+00:00",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Affectionate_Hat_585\"> /u/Affectionate_Hat_585 </a> <br /> <span><a href=\"https://kyutai.org/blog/2026-10-20-pocket-tts-small/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xauekr/pocket_tts_which_supports_voice_cloning_is_now/\">[comments]</a></span>",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-10-21T03:41:00"
     }
   ],
-  "updated_at": "2026-10-21T01:37:00.801473+09:00"
+  "updated_at": "2026-10-21T03:41:00.707592+09:00"
 }
