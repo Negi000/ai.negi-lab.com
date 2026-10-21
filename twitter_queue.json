@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-20-faster-whisper-local-setup-guide",
-    "title": "Whisper 使い方 ローカル高速文字起こし入門",
-    "url": "https://ai.negi-lab.com/posts/faster-whisper-local-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#Whisper #ローカルLLM",
-    "tweet_text": "1時間の会議をたった3分で文字起こし。OpenAIのAPI代を節約したいなら、faster-whisperをローカルで回すのが正解です。VRAM 8GB以上のRTX環境なら、最強のlarge-v3モデルが爆速で動きます。機密情報を外部に投げたくないエンジニアの実務には、この「完全オフライン」構成が必須。環境構築からSRT出力まで、コピペで動くガイドを書きました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-20-faster-whisper-local-setup-guide.jpg",
-    "created_at": "2026-10-20T06:22:27.770935+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-20-ollama-open-webui-local-llm-setup-guide",
     "title": "OllamaとOpen WebUI 使い方：プライバシー重視のローカルLLM環境構築ガイド",
     "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup-guide/",
