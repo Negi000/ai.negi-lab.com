@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-10-22-qwen-3-8-flash-next-local-setup-guide.jpg",
     "created_at": "2026-10-22T08:59:30.399395+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-22-omnivoice-multilingual-tts-cloning-review",
+    "title": "k2-fsa/OmniVoice 使い方と実力レビュー：600言語対応の音声クローニングは実務で使えるか",
+    "url": "https://ai.negi-lab.com/posts/omnivoice-multilingual-tts-cloning-review/",
+    "category": "TOOL",
+    "viral_tags": "#音声合成 #ローカルLLM",
+    "tweet_text": "600言語対応の音声クローニング「OmniVoice」が凄い。数秒の自作サンプルで、一度も喋ったことがない言語を自分の声で喋らせる。\n\nElevenLabs等のクラウドAPIコストを削りつつ、完全オフラインで多言語TTSを構築したいエンジニアには最適。RTX 4060 TiクラスのVRAMがあれば爆速。k2-fsaエコシステムは今のうちに触っておくべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-10-22T13:20:10.285197+09:00",
+    "posted": false
   }
 ]
