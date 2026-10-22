@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-23-claude-google-workspace-integration-guide.jpg",
     "created_at": "2026-10-23T05:26:27.623899+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-23-python-langchain-rag-local-faiss-tutorial",
+    "title": "PythonとLangChainで自分専用のドキュメント検索RAGを作る方法",
+    "url": "https://ai.negi-lab.com/posts/python-langchain-rag-local-faiss-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#LangChain #RAG",
+    "tweet_text": "RAGの自作は「データの分割」が命。OpenAI APIとFAISSを組み合わせれば、月数百円で手元のPDFを即座に検索可能な知恵袋に変えられます。RTX 4090で検証しましたが、CPU環境でも十分に実用的。Difyなどのツールを使う前に、一度Pythonでパイプラインを組むと仕組みの理解が激変します。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-23-python-langchain-rag-local-faiss-tutorial.jpg",
+    "created_at": "2026-10-23T08:58:33.827023+09:00",
+    "posted": false
   }
 ]
