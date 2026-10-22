@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-22-claude-duet-anthropic-agent-release.jpg",
     "created_at": "2026-10-22T23:22:26.290769+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-23-qwen-27b-local-llm-gpu-guide",
+    "title": "Qwen 27Bをローカルで動かすGPU・Mac比較！失敗しないVRAM選びとおすすめ構成",
+    "url": "https://ai.negi-lab.com/posts/qwen-27b-local-llm-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "Qwen 2.5 27Bをローカルで動かすならVRAM 24GBが最低ライン。16GB以下のGPUで妥協すると、激しい量子化で知能が落ちるか、スワップで推論が極端に遅くなります。\n\n仕事で使うなら中古のRTX 3090か、メモリ32GB以上のMac Studioが現状の最適解。AIに投資するなら演算性能より先に「VRAM容量」を確保するのが失敗しない鉄則です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-23-qwen-27b-local-llm-gpu-guide.jpg",
+    "created_at": "2026-10-23T03:45:56.544281+09:00",
+    "posted": false
   }
 ]
