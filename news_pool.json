@@ -1,54 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Thu, 15 Oct 2026 04:30:00 +0000",
-      "summary": "Figma is also releasing its code layers feature in open beta.",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-15T17:11:29"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "OpenMuse",
-      "url": "https://www.producthunt.com/products/copilotkit",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Opensource, self hostable personal assistant for any harness </p> <p> <a href=\"https://www.producthunt.com/products/copilotkit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1259376?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-15T17:11:29"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Rushilo",
-      "url": "https://www.producthunt.com/products/rushilo",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Edit video by talking to Claude Code or Codex </p> <p> <a href=\"https://www.producthunt.com/products/rushilo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1280413?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-15T17:11:29"
-    },
-    {
       "source": "HN AI Coding",
       "title": "Ask HN: Why do people say \"I built it\" when we should say \"Claude built it\"?",
       "url": "https://news.ycombinator.com/item?id=50085114",
@@ -2396,21 +2348,6 @@
       "collected_at": "2026-10-22T01:55:01"
     },
     {
-      "source": "GitHub Trending",
-      "title": "k2-fsa/OmniVoice",
-      "url": "https://github.com/k2-fsa/OmniVoice",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "",
-      "summary": "High-Quality Voice Cloning TTS for 600+ Languages",
-      "extra": {
-        "stars_today": "204 stars today"
-      },
-      "collected_at": "2026-10-22T03:51:50"
-    },
-    {
       "source": "Google News",
       "title": "AIを「スーパーインテリジェンス」と呼ぶテック企業トップは誰？ 言ってないのは誰？（ギズモード・ジャパン） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83SHRtQ2ZaYW8zVkNMYUE3WU1WOHZIYUJwVWJUZ29tcGtYZlVJV0F3cXBSQVUtWjRWMWR4eW1Fa3A2bG9hYnhqbWNMWW5QWVRyU0dYZ1gtalR5Z05JckRSc1FFcHF6aVc3UWowSkVoOE5XRzcyUERIeVBOZlpfSVk?oc=5",
@@ -2592,7 +2529,68 @@
         "revenue_score": 1
       },
       "collected_at": "2026-10-22T08:58:59"
+    },
+    {
+      "source": "Google News",
+      "title": "Artificial Intelligence Chip市場トップ10企業 - pando.life",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nV0l2aU5fb0R3YTRqanhvU1BiUUVITDRBbUNhOEt2OEdoTll3ck9XUHpTSDB4YlF4MUVPNGlxbEhKcDlETG1xMGFB?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 22 Oct 2026 06:39:51 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nV0l2aU5fb0R3YTRqanhvU1BiUUVITDRBbUNhOEt2OEdoTll3ck9XUHpTSDB4YlF4MUVPNGlxbEhKcDlETG1xMGFB?oc=5\" target=\"_blank\">Artificial Intelligence Chip市場トップ10企業</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pando.life</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-22T17:32:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Sponkly",
+      "url": "https://www.producthunt.com/products/sponkly",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Live voice translation for chats, calls, meetings & YouTube </p> <p> <a href=\"https://www.producthunt.com/products/sponkly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1288519?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-22T17:32:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "CutBay",
+      "url": "https://www.producthunt.com/products/cutbay",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI Video Agent: Turn Anything into Videos via Chat </p> <p> <a href=\"https://www.producthunt.com/products/cutbay?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1275489?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-22T17:32:07"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "DeepCell",
+      "url": "https://www.producthunt.com/products/deepcell",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your deadline survival kit for office work </p> <p> <a href=\"https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1286749?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-22T17:32:07"
     }
   ],
-  "updated_at": "2026-10-22T13:19:38.840066+09:00"
+  "updated_at": "2026-10-22T17:32:10.783353+09:00"
 }
