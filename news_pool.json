@@ -1,66 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 15 Oct 2026 12:00:00 +0000",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-10-15T22:58:38"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Fwrd",
-      "url": "https://www.producthunt.com/products/fwrd",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Forward iPhone texts to Slack, Discord, or Telegram </p> <p> <a href=\"https://www.producthunt.com/products/fwrd?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1274337?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-15T22:58:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Backdrop",
-      "url": "https://www.producthunt.com/products/backdrop",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Build AI coworkers for any workflow, any industry </p> <p> <a href=\"https://www.producthunt.com/products/backdrop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1278526?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-15T22:58:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Talanoa",
-      "url": "https://www.producthunt.com/products/talanoa-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Email that feels like chat. </p> <p> <a href=\"https://www.producthunt.com/products/talanoa-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1267030?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-15T22:58:39"
-    },
-    {
       "source": "GitHub Trending",
       "title": "ahujasid/mcp-for-blender",
       "url": "https://github.com/ahujasid/mcp-for-blender",
@@ -2568,22 +2508,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Agentic CleanSlop",
-      "url": "https://www.producthunt.com/products/cleanslop",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Authenticate, scan and fix your app from your agent </p> <p> <a href=\"https://www.producthunt.com/products/cleanslop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1288764?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-22T20:23:47"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Voxelo 3.0",
       "url": "https://www.producthunt.com/products/voxelo-ai",
       "primary_category": "TOOL",
@@ -2596,7 +2520,95 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-22T20:23:47"
+    },
+    {
+      "source": "r/ollama",
+      "title": "We just released our first quants for Qwen3.8-27B. Would love to hear what you think",
+      "url": "https://www.reddit.com/r/ollama/comments/1xcgpsn/we_just_released_our_first_quants_for_qwen3827b/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "GUIDE"
+      ],
+      "published": "2026-10-22T12:04:52+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1xcgpsn/we_just_released_our_first_quants_for_qwen3827b/\"> <img alt=\"We just released our first quants for Qwen3.8-27B. Would love to hear what you think\" src=\"https://external-preview.redd.it/NwJTDQssNd8LiGP8lhzy5xPIWM-vSPpFeA3s7v2BubI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=034fd534e868f4077edd7821b4e10f1cdac2f3fc\" title=\"We just released our first quants for Qwen3.8-27B. Would love to hear what you think\" /> </a> </td",
+      "extra": {},
+      "collected_at": "2026-10-22T23:22:01"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Why is Ollama's harness so minimal?",
+      "url": "https://www.reddit.com/r/ollama/comments/1xcjl77/why_is_ollamas_harness_so_minimal/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-10-22T14:08:10+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I don't understand why it can do 1% of the things chatgpt can do. Open models are cool but not with such a limited harness</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/unflippedbit\"> /u/unflippedbit </a> <br /> <span><a href=\"https://www.reddit.com/r/ollama/comments/1xcjl77/why_is_ollamas_harness_so_minimal/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1xcjl77/why_is_ollamas_harness_so",
+      "extra": {},
+      "collected_at": "2026-10-22T23:22:01"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Thought for 8.6 Seconds...",
+      "url": "https://www.reddit.com/r/ollama/comments/1xcisj3/thought_for_86_seconds/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-10-22T13:36:51+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1xcisj3/thought_for_86_seconds/\"> <img alt=\"Thought for 8.6 Seconds...\" src=\"https://preview.redd.it/sjhv9xiqu0xh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=be6ef6311379c220d9cba3ed7b7fe9c2e85c1f8a\" title=\"Thought for 8.6 Seconds...\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/wildmonkeywrangler\"> /u/wildmonkeywrangler </a> <br /> <span><a href=\"https://i.redd.it/sjhv9xiqu0xh1.png\">[link",
+      "extra": {},
+      "collected_at": "2026-10-22T23:22:01"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "Thu, 22 Oct 2026 13:53:26 +0000",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-22T23:22:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Notif",
+      "url": "https://www.producthunt.com/products/notif-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI for your Apple Reminders </p> <p> <a href=\"https://www.producthunt.com/products/notif-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1287254?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-22T23:22:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Archivist",
+      "url": "https://www.producthunt.com/products/archivist",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> From messy filenames to shareable collections </p> <p> <a href=\"https://www.producthunt.com/products/archivist?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1288330?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-22T23:22:04"
     }
   ],
-  "updated_at": "2026-10-22T20:23:50.370612+09:00"
+  "updated_at": "2026-10-22T23:22:07.849382+09:00"
 }
