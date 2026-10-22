@@ -15247,5 +15247,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-10-22T17:33:08.822940+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-22-agentic-cleanslop-security-review-guide",
+    "title": "Agentic CleanSlop 使い方：AIエージェントによる脆弱性生成を未然に防ぐ",
+    "url": "https://ai.negi-lab.com/posts/agentic-cleanslop-security-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #セキュリティ",
+    "tweet_text": "AIエージェントに自律的なバグ修正を任せる際の「ガードレール」としてAgentic CleanSlopを検証。単なるスキャンではなく、認証情報を隠蔽したままエージェントにアプリを調査させるブリッジ機能が実務的。1スキャン数秒のレスポンスで、動作するだけのSlop（質の低いコード）を検知・修正できる。自律型エージェントを本番運用したいなら外せない。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-10-22T20:24:18.633646+09:00",
+    "posted": false
   }
 ]

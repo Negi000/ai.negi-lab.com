@@ -1,77 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Coding",
-      "title": "Ask HN: Why do people say \"I built it\" when we should say \"Claude built it\"?",
-      "url": "https://news.ycombinator.com/item?id=50085114",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 14 Oct 2026 10:09:06 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-15T20:03:00"
-    },
-    {
-      "source": "HN AI Coding",
-      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-      "url": "https://museumofages.org/w/vinci",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "Wed, 14 Oct 2026 10:00:24 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-15T20:03:00"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "Crosstalk-Solutions/unifi-toolkit",
-      "url": "https://github.com/Crosstalk-Solutions/unifi-toolkit",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A suite of tools for UniFi network management",
-      "extra": {
-        "stars_today": "48 stars today"
-      },
-      "collected_at": "2026-10-15T20:03:08"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Dreamscale Labs",
-      "url": "https://www.producthunt.com/products/dreamscale-labs",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Run the best robot AI models over the cloud </p> <p> <a href=\"https://www.producthunt.com/products/dreamscale-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1278586?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-15T20:03:09"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "SaidTrace",
-      "url": "https://www.producthunt.com/products/saidtrace",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Private voice memos. Your choice of AI. </p> <p> <a href=\"https://www.producthunt.com/products/saidtrace?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1268850?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-15T20:03:09"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
       "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
@@ -2590,7 +2519,84 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-22T17:32:07"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "extra": {
+        "stars_today": "96 stars today"
+      },
+      "collected_at": "2026-10-22T20:23:46"
+    },
+    {
+      "source": "Google News",
+      "title": "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00SEFGY18xTWNudmVZcUVQQ2JmczJZeDI1QThMMWNPZkRTeFhMMF96MjMwUXMtQ09WVGJiSms3cGxzazFlUHpMVFhPTmlGN0dJWVpycno3Q3hHOHZSOS1rMVNOQ1A5ZDJ4VEJtZnRLTlJ5R0lkVDA0alJfTE0?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 22 Oct 2026 10:37:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE00SEFGY18xTWNudmVZcUVQQ2JmczJZeDI1QThMMWNPZkRTeFhMMF96MjMwUXMtQ09WVGJiSms3cGxzazFlUHpMVFhPTmlGN0dJWVpycno3Q3hHOHZSOS1rMVNOQ1A5ZDJ4VEJtZnRLTlJ5R0lkVDA0alJfTE0?oc=5\" target=\"_blank\">ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-22T20:23:46"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Fastlane 2.0",
+      "url": "https://www.producthunt.com/products/fastlane-3",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create, launch and scale winning ads with AI </p> <p> <a href=\"https://www.producthunt.com/products/fastlane-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1280966?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-22T20:23:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Agentic CleanSlop",
+      "url": "https://www.producthunt.com/products/cleanslop",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Authenticate, scan and fix your app from your agent </p> <p> <a href=\"https://www.producthunt.com/products/cleanslop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1288764?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-22T20:23:47"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Voxelo 3.0",
+      "url": "https://www.producthunt.com/products/voxelo-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Phone video to photoreal 3D & JSON-LD in an hour </p> <p> <a href=\"https://www.producthunt.com/products/voxelo-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1286659?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-22T20:23:47"
     }
   ],
-  "updated_at": "2026-10-22T17:32:10.783353+09:00"
+  "updated_at": "2026-10-22T20:23:50.370612+09:00"
 }
