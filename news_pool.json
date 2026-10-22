@@ -1,53 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Meta launches an open-weight AI model that runs on Macs",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Thu, 15 Oct 2026 20:04:53 +0000",
-      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-16T05:11:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Atticus",
-      "url": "https://www.producthunt.com/products/atticus",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Hold a key, talk, and your Mac does what you asked </p> <p> <a href=\"https://www.producthunt.com/products/atticus?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1280688?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-16T05:11:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Nostaliga",
-      "url": "https://www.producthunt.com/products/nostaliga",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Rediscover the days behind your favorite songs </p> <p> <a href=\"https://www.producthunt.com/products/nostaliga?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1279394?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-16T05:11:23"
-    },
-    {
       "source": "Product Hunt",
       "title": "AI Sandboxes by Buddy",
       "url": "https://www.producthunt.com/products/buddy",
@@ -2540,22 +2493,6 @@
       "collected_at": "2026-10-23T01:54:51"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "10 Things you maybe didn't know you can do with Qwen 3.6 27B right now. (For Noobs)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7sq8e/10_things_you_maybe_didnt_know_you_can_do_with/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-10-16T21:35:36+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x7sq8e/10_things_you_maybe_didnt_know_you_can_do_with/\"> <img alt=\"10 Things you maybe didn't know you can do with Qwen 3.6 27B right now. (For Noobs)\" src=\"https://preview.redd.it/xi91phrjwvvh1.png?width=140&amp;height=117&amp;auto=webp&amp;s=e2bd9402e0e0ac1085dac3d6959844c8e153141c\" title=\"10 Things you maybe didn't know you can do with Qwen 3.6 27B right now. (For Noobs)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><",
-      "extra": {},
-      "collected_at": "2026-10-23T03:45:19"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
       "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
@@ -2601,7 +2538,71 @@
         "revenue_score": 3
       },
       "collected_at": "2026-10-23T03:45:28"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Thu, 22 Oct 2026 19:07:09 +0000",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-23T05:26:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "heal.dev",
+      "url": "https://www.producthunt.com/products/heal-dev",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Find bugs and vulnerabilities code review misses </p> <p> <a href=\"https://www.producthunt.com/products/heal-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1266852?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-10-23T05:26:02"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen4 and Kimi3.1 on Arena apperantly",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcj1wm/qwen4_and_kimi31_on_arena_apperantly/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-10-22T13:47:14+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Im so hyped for qwen4 flash </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/thatscoolbutno123\"> /u/thatscoolbutno123 </a> <br /> <span><a href=\"https://x.com/luminabench/status/2113217029675085963?s=46\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xcj1wm/qwen4_and_kimi31_on_arena_apperantly/\">[comments]</a></span>",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-10-23T05:26:03"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Repair shop receives eight GeForce RTX 5090 and RTX 4090 cards with melted 16-pin connectors in two days",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xckdep/repair_shop_receives_eight_geforce_rtx_5090_and/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-10-22T14:38:31+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xckdep/repair_shop_receives_eight_geforce_rtx_5090_and/\"> <img alt=\"Repair shop receives eight GeForce RTX 5090 and RTX 4090 cards with melted 16-pin connectors in two days\" src=\"https://external-preview.redd.it/Xwo7uXeHHrLmSvMqOihBsnF2I8YeJ0n0i_wR6jKBz9s.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ad96878a89cabd3692dabb264ba730cfacc8f5e\" title=\"Repair shop receives eight GeForce RTX 5090 and RTX 4090 cards with melte",
+      "extra": {
+        "revenue_score": 7
+      },
+      "collected_at": "2026-10-23T05:26:03"
     }
   ],
-  "updated_at": "2026-10-23T03:45:31.420117+09:00"
+  "updated_at": "2026-10-23T05:26:03.145033+09:00"
 }
