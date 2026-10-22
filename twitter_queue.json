@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-21-llama-cpp-gguf-python-setup-guide",
-    "title": "llama.cpp 使い方 入門！GGUF量子化モデルをPCで爆速動作させる手順",
-    "url": "https://ai.negi-lab.com/posts/llama-cpp-gguf-python-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "RTX 4090を2枚刺している私でも、llama.cppの最適化には毎回驚かされます。\n\nVRAM 12GBの安価なGPUやMacBook Airでも、Llama 3が実用速度で動く時代。Q4_K_M量子化なら精度を維持しつつメモリ消費を激減できます。\n\nAPI課金を気にせず、完全オフラインでAIをぶん回す環境を30分で作るガイドを書きました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-21-llama-cpp-gguf-python-setup-guide.jpg",
-    "created_at": "2026-10-21T08:47:44.697966+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-21-comfyui-node-based-image-generation-review",
     "title": "ComfyUI レビューと使い方：ノードベースで画像生成を自動化する実務的メリット",
     "url": "https://ai.negi-lab.com/posts/comfyui-node-based-image-generation-review/",
