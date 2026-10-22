@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-21-apple-silicon-mlx-local-llm-tutorial",
-    "title": "Apple SiliconでローカルLLMを動かすMLX入門",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "Apple Silicon搭載MacでローカルLLMを動かすならMLX一択。M1/M2/M3のGPUをフル活用した推論は驚くほど速い。Pythonで書けるからRAGへの組み込みも自由自在。メモリ16GB以上あればLlama 3.1 8Bが秒速で動きます。4bit量子化の選択とストリーミング実装が、実用化への最短ルート。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-21-apple-silicon-mlx-local-llm-tutorial.jpg",
-    "created_at": "2026-10-21T17:28:49.359280+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-21-needle-ai-agent-outbound-engine-review",
     "title": "Needle 営業プロセスを自律化するAIエージェントエンジンの実力と実装",
     "url": "https://ai.negi-lab.com/posts/needle-ai-agent-outbound-engine-review/",
