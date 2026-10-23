@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-22-pinecone-vector-db-python-guide",
-    "title": "PineconeとPythonで作る実用的なベクトル検索基盤の構築手順",
-    "url": "https://ai.negi-lab.com/posts/pinecone-vector-db-python-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#エンジニア #RAG",
-    "tweet_text": "RAGの核心はベクトルDBの選定とメタデータ設計で決まる。Pinecone Serverlessなら月額$0から始められ、100万ベクトル規模まで耐えられる。LangChainを使わずSDKを直接叩くことで、次元数1536の意味や名前空間の重要性が腹に落ちる。実務で「使える」検索基盤をPythonで作る最短手順をまとめた。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-10-22T17:33:08.822940+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-22-agentic-cleanslop-security-review-guide",
-    "title": "Agentic CleanSlop 使い方：AIエージェントによる脆弱性生成を未然に防ぐ",
-    "url": "https://ai.negi-lab.com/posts/agentic-cleanslop-security-review-guide/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #セキュリティ",
-    "tweet_text": "AIエージェントに自律的なバグ修正を任せる際の「ガードレール」としてAgentic CleanSlopを検証。単なるスキャンではなく、認証情報を隠蔽したままエージェントにアプリを調査させるブリッジ機能が実務的。1スキャン数秒のレスポンスで、動作するだけのSlop（質の低いコード）を検知・修正できる。自律型エージェントを本番運用したいなら外せない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-10-22T20:24:18.633646+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-22-claude-duet-anthropic-agent-release",
     "title": "Claude Duet登場で自律型AIエージェントが実用フェーズへ突入：Anthropicの狙いと開発者への影響",
     "url": "https://ai.negi-lab.com/posts/claude-duet-anthropic-agent-release/",
