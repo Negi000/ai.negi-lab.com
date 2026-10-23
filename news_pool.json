@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Memory Chess",
-      "url": "https://www.producthunt.com/products/memory-chess",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Study a chess position, then rebuild it from memory </p> <p> <a href=\"https://www.producthunt.com/products/memory-chess?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1280573?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-16T19:58:27"
-    },
-    {
       "source": "HN AI Companies",
       "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
       "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
@@ -2618,7 +2603,112 @@
         "revenue_score": 3
       },
       "collected_at": "2026-10-23T17:26:51"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Hello IT...",
+      "url": "https://www.reddit.com/r/ollama/comments/1xd3zgx/hello_it/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-10-23T04:11:06+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1xd3zgx/hello_it/\"> <img alt=\"Hello IT...\" src=\"https://preview.redd.it/e5gs1f5065xh1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=e9959a2dede76b71c47d41a8acec89c473e04d8c\" title=\"Hello IT...\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://youtu.be/AxTmJmMKiw8?si=QOW1SPOCpA0bL7h9&amp;t=478\">https://youtu.be/AxTmJmMKiw8?si=QOW1SPOCpA0bL7h9&amp;t=478</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a",
+      "extra": {},
+      "collected_at": "2026-10-23T20:13:01"
+    },
+    {
+      "source": "r/ollama",
+      "title": "New to Local AI. Needs help on running ollama from AMD GPU",
+      "url": "https://www.reddit.com/r/ollama/comments/1xd6acy/new_to_local_ai_needs_help_on_running_ollama_from/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-10-23T06:21:19+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone! I'm new to this Local AI and I'm trying to set up an AI using Ollama &amp; n8n deployed in Docker on Windows 11. I just want to know how to make ollama use my GPU VRAM instead of my system RAM. Also any tips for beginners or any djustment that I need to do?</p> <p>Here are my system specs:</p> <ul> <li><strong>CPU:</strong> AMD Ryzen 9 5950X</li> <li><strong>RAM:</strong> 32GB DDR4</li> <li><strong>GPU:</strong> AMD Radeon RX 9060 XT 16GB</li> </",
+      "extra": {},
+      "collected_at": "2026-10-23T20:13:01"
+    },
+    {
+      "source": "r/ollama",
+      "title": "I made an Offline Desktop Prompt/Snippet Generator and Manager app with Tauri, Vue and TailwindCSS",
+      "url": "https://www.reddit.com/r/ollama/comments/1xdb0y4/i_made_an_offline_desktop_promptsnippet_generator/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-10-23T11:06:47+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This uses Ollama as a basis for the snippets. I'll be adding TTS once I settle on the one I want to use. I want to add Speech to Text as well. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TutorialDoctor\"> /u/TutorialDoctor </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1xdaxps\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1xdb0y4/i_made_an_offline_desktop_promptsnippet_gener",
+      "extra": {},
+      "collected_at": "2026-10-23T20:13:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+      "extra": {
+        "stars_today": "93 stars today"
+      },
+      "collected_at": "2026-10-23T20:13:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "MOVO AI",
+      "url": "https://www.producthunt.com/products/movo-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The world's first long-form video agent for mobile </p> <p> <a href=\"https://www.producthunt.com/products/movo-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1255211?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-23T20:13:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Monish",
+      "url": "https://www.producthunt.com/products/monish",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your AI agents, live on your iPhone lock screen </p> <p> <a href=\"https://www.producthunt.com/products/monish?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1289239?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-23T20:13:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Gerty",
+      "url": "https://www.producthunt.com/products/gerty",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Private ChatGPT alternative that sets itself up on your Mac </p> <p> <a href=\"https://www.producthunt.com/products/gerty?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1289207?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-23T20:13:04"
     }
   ],
-  "updated_at": "2026-10-23T17:26:54.630246+09:00"
+  "updated_at": "2026-10-23T20:13:07.651723+09:00"
 }
