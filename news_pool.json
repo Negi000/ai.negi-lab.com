@@ -1,79 +1,6 @@
 {
   "items": [
     {
-      "source": "r/ollama",
-      "title": "TIL VRAM disappears before the model even loads 🫠 what we measured on 6 GB and 8 GB laptops with Ollama",
-      "url": "https://www.reddit.com/r/ollama/comments/1x8fbtq/til_vram_disappears_before_the_model_even_loads/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-10-17T17:00:55+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>tbh we sized models for small cards by weight file size and kept getting it wrong. These are the hidden costs we measured on real 6 GB and 8 GB Windows laptops running Ollama:</p> <p>- Vision projector:<br /> with a projector attached, Ollama holds back about the projector's size plus 1 GiB. Removing the projector was the difference between fitting and not fitting at 32K.</p> <p>- The display:<br /> when the same card drives the screen, 0.8 to 1.8 GB is already ",
-      "extra": {},
-      "collected_at": "2026-10-18T08:02:01"
-    },
-    {
-      "source": "r/ollama",
-      "title": "Offline voice assistant for Windows: local AI (Ollama)",
-      "url": "https://www.reddit.com/r/ollama/comments/1x8lqod/offline_voice_assistant_for_windows_local_ai/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-10-17T21:27:45+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CharlyEVAdev\"> /u/CharlyEVAdev </a> <br /> <span><a href=\"/r/SelfHostedAI/comments/1x8lqh9/offline_voice_assistant_for_windows_local_ai/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/ollama/comments/1x8lqod/offline_voice_assistant_for_windows_local_ai/\">[comments]</a></span>",
-      "extra": {},
-      "collected_at": "2026-10-18T08:02:01"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Sat, 17 Oct 2026 21:31:32 +0000",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-10-18T08:02:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Train with Pasta",
-      "url": "https://www.producthunt.com/products/train-with-pasta",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A personal trainer powered by Apple Intelligence </p> <p> <a href=\"https://www.producthunt.com/products/train-with-pasta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1279257?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-18T08:02:03"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "LooGo",
-      "url": "https://www.producthunt.com/products/loogo",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Find public restrooms fast </p> <p> <a href=\"https://www.producthunt.com/products/loogo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1276839?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-18T08:02:03"
-    },
-    {
       "source": "Product Hunt",
       "title": "Emochi",
       "url": "https://www.producthunt.com/products/emochi-2",
@@ -2446,20 +2373,6 @@
       "collected_at": "2026-10-24T17:02:24"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Vibecoding your own inference engine is easy they said",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdh57e/vibecoding_your_own_inference_engine_is_easy_they/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-10-23T15:26:47+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xdh57e/vibecoding_your_own_inference_engine_is_easy_they/\"> <img alt=\"Vibecoding your own inference engine is easy they said\" src=\"https://preview.redd.it/zr8qiu1ri8xh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4b8b9c5c4d9501ca434f66a4b168de902368f41\" title=\"Vibecoding your own inference engine is easy they said\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>guys, you better just clone llama.cpp I swear.<br /> ",
-      "extra": {},
-      "collected_at": "2026-10-24T19:31:27"
-    },
-    {
       "source": "Product Hunt",
       "title": "myPip",
       "url": "https://www.producthunt.com/products/mypip-2",
@@ -2625,7 +2538,38 @@
         "revenue_score": 6
       },
       "collected_at": "2026-10-25T02:32:48"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Sat, 24 Oct 2026 19:00:00 +0000",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-25T08:06:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "River Writer",
+      "url": "https://www.producthunt.com/products/river-writer",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A quiet Mac app for screenplays, stage plays and novels </p> <p> <a href=\"https://www.producthunt.com/products/river-writer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1289401?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-25T08:06:29"
     }
   ],
-  "updated_at": "2026-10-25T04:16:17.131000+09:00"
+  "updated_at": "2026-10-25T08:06:33.157389+09:00"
 }
