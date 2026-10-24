@@ -1,38 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Sat, 17 Oct 2026 18:48:08 +0000",
-      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-10-18T04:02:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Nvidia has officially confirmed that the 5090 is not discontinued and will continue shipping.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x88txd/nvidia_has_officially_confirmed_that_the_5090_is/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-10-17T12:18:00+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1x88txd/nvidia_has_officially_confirmed_that_the_5090_is/\"> <img alt=\"Nvidia has officially confirmed that the 5090 is not discontinued and will continue shipping.\" src=\"https://external-preview.redd.it/WOAsxB4KqN_tOhz8prnLIEEIfaenoRa4mjZH1tbas2o.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=078c3ad8dfae373f219ca58d13b0be241e71c065\" title=\"Nvidia has officially confirmed that the 5090 is not discontinued and will continue",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-10-18T04:03:01"
-    },
-    {
       "source": "r/ollama",
       "title": "TIL VRAM disappears before the model even loads 🫠 what we measured on 6 GB and 8 GB laptops with Ollama",
       "url": "https://www.reddit.com/r/ollama/comments/1x8fbtq/til_vram_disappears_before_the_model_even_loads/",
@@ -2644,19 +2612,6 @@
       "collected_at": "2026-10-25T00:39:32"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb9z8e/exclusive_bytedance_alibaba_tencent_place_over_35/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-10-21T01:24:31+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>China just ordered 3mil RTX 5500 Pro for $11.4k a pop. Probably for llm inference and AI video gen. I suppose this card is now out of reach for local llm.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ok_Warning2146\"> /u/Ok_Warning2146 </a> <br /> <span><a href=\"https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/\">[link]</a></span> &#32; <sp",
-      "extra": {},
-      "collected_at": "2026-10-25T02:32:46"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Block’s new voice model sounds eerily human",
       "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
@@ -2672,5 +2627,5 @@
       "collected_at": "2026-10-25T02:32:48"
     }
   ],
-  "updated_at": "2026-10-25T02:32:52.745627+09:00"
+  "updated_at": "2026-10-25T04:16:17.131000+09:00"
 }
