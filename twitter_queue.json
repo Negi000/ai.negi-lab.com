@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-24-1password-for-agents-security-review.jpg",
     "created_at": "2026-10-24T19:32:09.411451+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-24-openai-stops-live-internet-training-risks",
+    "title": "OpenAIの「Web学習停止」宣言がRAG開発に与える決定的な影響",
+    "url": "https://ai.negi-lab.com/posts/openai-stops-live-internet-training-risks/",
+    "category": "NEWS",
+    "viral_tags": "#OpenAI #RAG",
+    "tweet_text": "OpenAIがWeb学習の廃止を決定。データ汚染とモデル崩壊を避けるための「純化戦略」へ舵を切りました。\n\n今後はモデルに知識を期待せず、推論特化型エンジンとして扱うのが実務の鉄則。RAG（検索拡張生成）の実装はオプションではなく、開発者の必須技能になります。検索APIの選定がプロジェクトの成否を分ける分岐点です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-24-openai-stops-live-internet-training-risks.jpg",
+    "created_at": "2026-10-24T22:08:18.402769+09:00",
+    "posted": false
   }
 ]
