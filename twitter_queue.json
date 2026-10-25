@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-24-mlx-apple-silicon-local-llm-tutorial",
-    "title": "MLX 使い方 Apple Silicon MacでローカルLLMを爆速で動かす入門ガイド",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Silicon Macを最強のAIマシンに変える「MLX」が凄すぎる。Llama 3 8Bが秒間40トークン超えで爆走。API代0円、完全オフラインで機密情報も扱える。実務で使うならメモリ16GBは最低ライン、32GBあれば勝ち確。MacBook Airでも4bit量子化なら余裕で動く。仕事で使えるローカルLLM環境を30分で構築するガイドを書きました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-24-mlx-apple-silicon-local-llm-tutorial.jpg",
-    "created_at": "2026-10-24T17:02:56.362659+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-24-1password-for-agents-security-review",
-    "title": "1Password for Agents レビュー：AIエージェントに秘密を教えず仕事をさせる方法",
-    "url": "https://ai.negi-lab.com/posts/1password-for-agents-security-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #サイバーセキュリティ",
-    "tweet_text": "AIエージェントにGitHubやAWSのAPIキーを「生」で渡すのは、もう終わりにしましょう。1Password for Agentsを試しましたが、LLMに鍵を教えず、必要な時だけ認証を代行させる設計が秀逸。プロンプトインジェクション対策としてこれ以上の現実解はない。実務でエージェントを組むなら、Vault分離と監査ログは必須装備。セキュリティ事故でキャリアを棒に振る前に導入すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-24-1password-for-agents-security-review.jpg",
-    "created_at": "2026-10-24T19:32:09.411451+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-24-openai-stops-live-internet-training-risks",
     "title": "OpenAIの「Web学習停止」宣言がRAG開発に与える決定的な影響",
     "url": "https://ai.negi-lab.com/posts/openai-stops-live-internet-training-risks/",
