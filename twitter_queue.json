@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-24-huggingface-models-disappearing-local-llm-gpu-guide",
-    "title": "Hugging Faceのモデル消滅に備えるローカルLLM環境の選び方｜RTX 4090とMacを実務者が比較",
-    "url": "https://ai.negi-lab.com/posts/huggingface-models-disappearing-local-llm-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "Hugging Faceのモデル消失はもはや他人事じゃない。お気に入りモデルが404になる前にローカル環境を固めるのが正解。VRAM 16GBは最低ライン、実務なら24GBのRTX 4090か、メモリ64GB以上のMacが必須。ストレージもGen4の4TBは欲しい。消えてから後悔する前に、投資すべきハードウェアをまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-24-huggingface-models-disappearing-local-llm-gpu-guide.jpg",
-    "created_at": "2026-10-24T03:41:01.361390+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-24-baidu-unlimited-ocr-local-hardware-guide",
-    "title": "Unlimited-OCR 比較と選び方！ローカルLLM時代の最強ドキュメント解析環境",
-    "url": "https://ai.negi-lab.com/posts/baidu-unlimited-ocr-local-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "BaiduのUnlimited-OCRがGitHubで話題。長大なPDFを一発でMarkdown構造化できるのはRAG構築の救世主。実行にはVRAM 16GBが実質的な最低ラインです。RTX 4060 Ti 16GBなら実質7万円台から狙えるし、機密情報を外部APIに投げたくないエンジニアは今こそローカル環境を固める時期。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-24-baidu-unlimited-ocr-local-hardware-guide.jpg",
-    "created_at": "2026-10-24T05:14:07.774308+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-24-apple-silicon-mlx-llm-getting-started-guide",
     "title": "MLX 使い方 入門：Apple Silicon MacでLLMを爆速化する方法",
     "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-llm-getting-started-guide/",
