@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-25-ai-graveyard-openai-apple-failure-analysis.jpg",
     "created_at": "2026-10-25T22:34:53.066065+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-26-kitten-tts-2-sota-1-58bit-hardware-guide",
+    "title": "ローカルLLM用音声合成の決定版？Kitten-TTS 2を動かすためのPCスペック比較とおすすめ構成",
+    "url": "https://ai.negi-lab.com/posts/kitten-tts-2-sota-1-58bit-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #音声合成",
+    "tweet_text": "1.58-bit量子化の衝撃。Kitten-TTS 2は「CPUだけでSOTA級の音声合成」を可能にする。\nもはやTTSのために高価なGPUを占有する時代は終わるかもしれない。\n実務でAIエージェントを組むなら、VRAM容量よりもメモリ帯域が重要。\n失敗しないためのハード選定基準をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-10-26T02:51:08.695695+09:00",
+    "posted": false
   }
 ]
