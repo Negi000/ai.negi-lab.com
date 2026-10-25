@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-24-apple-silicon-mlx-llm-getting-started-guide",
-    "title": "MLX 使い方 入門：Apple Silicon MacでLLMを爆速化する方法",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-llm-getting-started-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "MacのGPU性能を腐らせていませんか？MLXを使えばLlama 3.1 8Bクラスがローカルで30〜40 tokens/sec超えの爆速で動きます。PyTorchより圧倒的にApple Siliconに最適化されており、メモリ16GBあれば十分実用レベル。エンジニアなら「動かしてみた」の先、自作アプリへの組み込みに挑戦すべきです。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-24-apple-silicon-mlx-llm-getting-started-guide.jpg",
-    "created_at": "2026-10-24T08:50:56.870317+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-24-dotmd-ai-agent-prompt-spec-review",
     "title": "DotMD 使い方とレビュー：AIエージェントの指示書をGitHubライクに管理する",
     "url": "https://ai.negi-lab.com/posts/dotmd-ai-agent-prompt-spec-review/",
