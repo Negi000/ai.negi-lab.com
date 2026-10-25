@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-10-25-ebook-treasure-chest-github-review-tutorial.jpg",
     "created_at": "2026-10-25T13:17:21.974796+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-25-mlx-apple-silicon-local-llm-tutorial",
+    "title": "Apple Siliconの性能を解放するMLXでローカルLLMを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple Silicon Macを所有していてMLXを触らないのは、RTX 4090を事務作業で使うくらい勿体ない。Llama 3.1 8Bが秒間30トークン以上で爆走する快感は、一度体験するとクラウドには戻れません。メモリ16GB以上なら今すぐPython環境を整えるべき。具体的なコードとハマりどころを実機検証ベースでまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-25-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-10-25T17:19:49.284768+09:00",
+    "posted": false
   }
 ]
