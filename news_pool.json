@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Emochi",
-      "url": "https://www.producthunt.com/products/emochi-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Voice journal to understand yourself through art and science </p> <p> <a href=\"https://www.producthunt.com/products/emochi-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1282248?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-18T13:07:42"
-    },
-    {
       "source": "HN Local AI",
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "url": "https://api-docs.deepseek.com/guides/search/",
@@ -2569,7 +2554,37 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-25T08:06:29"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-10-25T02:51:18+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>REA (Reserve Engineer Anything) was blocked by Claude one day later...</p> <p><a href=\"https://x.com/AbhinavXJ/status/2113590263373508704\">https://x.com/AbhinavXJ/status/2113590263373508704</a></p> <p>Time for the pebbles to own the weights</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kroggens\"> /u/kroggens </a> <br /> <span><a href=\"https://x.com/yacineMTB/status/2113965724435697732\">[link]</a></span> &#32; <span><a hre",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-10-25T13:17:00"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Kimi K3.1 removes cyberattack training data from open weight release",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "2026-10-24T16:05:18+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is due to China's new export restrictions primarily but also the growing caution around cybersecurity exploits popping up.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/zxyzyxz\"> /u/zxyzyxz </a> <br /> <span><a href=\"https://www.reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comment",
+      "extra": {
+        "revenue_score": 2
+      },
+      "collected_at": "2026-10-25T13:17:00"
     }
   ],
-  "updated_at": "2026-10-25T08:06:33.157389+09:00"
+  "updated_at": "2026-10-25T13:17:00.989824+09:00"
 }
