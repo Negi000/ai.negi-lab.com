@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-10-26T02:51:08.695695+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-26-local-llm-gpu-mac-comparison-guide",
+    "title": "ローカルLLM環境の選び方と比較｜OpenAI/Claudeの制限を回避して自由に開発するために買うべきPCスペック",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "OpenAIやAnthropicが特定タスクをブロック。自由な解析には「ローカルLLM」環境が必須。VRAM 16GBのRTX 4060 Tiか、24GBの4090、あるいはメモリ64GB以上のMacが判断基準です。APIの検閲や規約に怯えるより、ハードウェアに投資して重みを自分の手に戻すべき。仕事で使うなら今が買い時。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-26-local-llm-gpu-mac-comparison-guide.jpg",
+    "created_at": "2026-10-26T04:28:18.983447+09:00",
+    "posted": false
   }
 ]
