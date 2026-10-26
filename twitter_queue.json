@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-25-local-llm-gpu-buying-guide-rtx-vram",
-    "title": "ローカルLLM用GPUおすすめ比較と選び方：ByteDanceの巨額発注から考える「今、個人が買うべき」VRAM容量",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-rtx-vram/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX",
-    "tweet_text": "ByteDanceがNvidiaチップを350億ドル分も発注。この影響でVRAM 16GB以上の民生用GPUが今後さらに手に入りにくくなる可能性が高いです。ローカルLLMを仕事で使うならRTX 4060 Ti 16GBが最低ライン。8GBで妥協すると最新のQwenやLlamaで即座にメモリ不足に陥ります。今のうちにVRAM容量を基準に環境を整えるべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-25-local-llm-gpu-buying-guide-rtx-vram.jpg",
-    "created_at": "2026-10-25T02:33:14.093072+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-25-local-llm-hardware-buying-guide-rtx-mac",
-    "title": "ローカルLLM用PCおすすめ比較と選び方：自作エンジンよりllama.cppを活かすハードウェア投資術",
-    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-buying-guide-rtx-mac/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "ローカルLLM環境、初心者が「自前実装」に走るのは時間の無駄。llama.cppという完成された土台をどう回すかが実務の鍵。VRAM 16GBが最低ラインで、大規模モデルならApple Siliconの統一メモリ一択。RTX 4060 Ti 16GBかMac Studioか、迷う前にボトルネックを確認すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-25-local-llm-hardware-buying-guide-rtx-mac.jpg",
-    "created_at": "2026-10-25T04:16:41.964832+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-25-apple-silicon-mlx-local-llm-tutorial",
     "title": "Apple Siliconで爆速LLM環境を構築するMLX入門：Pythonで動かす手順",
     "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
