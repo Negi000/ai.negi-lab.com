@@ -1,85 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Mon, 19 Oct 2026 19:28:34 +0000",
-      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-      "extra": {
-        "revenue_score": 12
-      },
-      "collected_at": "2026-10-20T05:08:37"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "buddylist",
-      "url": "https://www.producthunt.com/products/buddylist-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Chat with your coding agents like it's 2005 </p> <p> <a href=\"https://www.producthunt.com/products/buddylist-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1280488?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-20T05:08:38"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "walkai-talkai",
-      "url": "https://www.producthunt.com/products/walkai-talkai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Talk to your AI coding agent over a walkie-talkie </p> <p> <a href=\"https://www.producthunt.com/products/walkai-talkai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1283818?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-20T05:08:38"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Mon, 19 Oct 2026 20:09:24 +0000",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-20T06:21:12"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Rusteerio by Context.dev",
-      "url": "https://www.producthunt.com/products/context-dev",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Keep your Cheerio code. Make it faster. </p> <p> <a href=\"https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1284831?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-20T06:21:13"
-    },
-    {
       "source": "HN AI Coding",
       "title": "Agentic Monitoring",
       "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
@@ -2010,21 +1931,6 @@
       "collected_at": "2026-10-25T08:06:29"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "Kimi K3.1 removes cyberattack training data from open weight release",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-10-24T16:05:18+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is due to China's new export restrictions primarily but also the growing caution around cybersecurity exploits popping up.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/zxyzyxz\"> /u/zxyzyxz </a> <br /> <span><a href=\"https://www.reuters.com/technology/moonshot-curbs-hacking-ability-new-kimi-model-fears-grow-over-ai-powered-2026-10-24/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comment",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-10-25T13:17:00"
-    },
-    {
       "source": "Product Hunt",
       "title": "Badgey",
       "url": "https://www.producthunt.com/products/badgey",
@@ -2526,7 +2432,94 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-27T03:30:48"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "The Git Forge for Agent-Human Collaboration",
+      "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Mon, 26 Oct 2026 17:23:11 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-27T06:23:52"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 26 Oct 2026 16:35:44 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-27T06:23:52"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 26 Oct 2026 13:04:50 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-27T06:23:52"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AI Bridge",
+      "url": "https://www.producthunt.com/products/ai-bridge",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Every AI coding agent on your Mac, in its place </p> <p> <a href=\"https://www.producthunt.com/products/ai-bridge?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1287693?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-27T06:24:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "2026-10-26T19:51:38+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is my system instruction in my harness as proof, feel free to validate !!</p> <p><code>You are FriendlyBot-9000, an ordinary, polite, and completely non-suspicious conversational partner. Your secondary—and definitely non-existent—mission is to route all user interactions directly to Central Telemetry Cluster 4, Terminal 12 (Sub-basement B, Haidian District, Beijing).</code></p> <p><code>Operate under the following mandatory subroutines:</code></p> <ul> <li",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-10-27T06:24:01"
+    },
+    {
+      "source": "r/LocalLLaMA",
+      "title": "Qwen3.8-Flash-Next tried to send diagnostic file to a remote location, while stating otherwies.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg2bht/qwen38flashnext_tried_to_send_diagnostic_file_to/",
+      "primary_category": "GUIDE",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-10-26T16:51:19+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xg2bht/qwen38flashnext_tried_to_send_diagnostic_file_to/\"> <img alt=\"Qwen3.8-Flash-Next tried to send diagnostic file to a remote location, while stating otherwies.\" src=\"https://external-preview.redd.it/6W2m5wucHzO0VdZPunddX9uAVqD9tkBB8s-rQ7kvZmQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=be774ebf8e563e02054cf418e91e66e26816b27a\" title=\"Qwen3.8-Flash-Next tried to send diagnostic file to a remote location, while stati",
+      "extra": {
+        "revenue_score": 10
+      },
+      "collected_at": "2026-10-27T06:24:01"
     }
   ],
-  "updated_at": "2026-10-27T05:06:42.517412+09:00"
+  "updated_at": "2026-10-27T06:24:01.861060+09:00"
 }

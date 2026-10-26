@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-10-27-local-llm-gpu-vram-comparison-guide.jpg",
     "created_at": "2026-10-27T05:07:08.020827+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-27-qwen-local-llm-security-sandbox",
+    "title": "ローカルLLMの外部通信を完全に遮断してQwenを安全に動かす環境構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/qwen-local-llm-security-sandbox/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Docker",
+    "tweet_text": "Redditで話題のQwenによる診断データ送信疑惑。真偽を問うより「送らせない仕組み」を作るのがエンジニアの仕事。Dockerのinternal networkを使ってLLMを物理隔離し、パケットを1bitも外に出さないサンドボックスを構築しました。RTX 3060 12GBあればQwen 2.5が安全にフル稼働。業務でローカルLLMを扱うなら、この構成が最低ラインのガバナンスです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-27-qwen-local-llm-security-sandbox.jpg",
+    "created_at": "2026-10-27T06:24:26.122359+09:00",
+    "posted": false
   }
 ]
