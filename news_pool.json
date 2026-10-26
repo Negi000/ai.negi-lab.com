@@ -1054,21 +1054,6 @@
       "collected_at": "2026-10-22T08:58:59"
     },
     {
-      "source": "Google News",
-      "title": "人工知能(AI)とは何か。 - IBM",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UNFlWOUVCTko1eFFMYXlaam1UaVp2NzUwZy1QN1pUY20yZzFCRDlxTUdqVjh5eEo0QVg5ejlyeE1GUnl6QUphWmd3TndtTDV0X2dIQlVMTTlZSlYtRXB0VXdvSEQwNEF2N2EzY3hWcw?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 02 Oct 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5UNFlWOUVCTko1eFFMYXlaam1UaVp2NzUwZy1QN1pUY20yZzFCRDlxTUdqVjh5eEo0QVg5ejlyeE1GUnl6QUphWmd3TndtTDV0X2dIQlVMTTlZSlYtRXB0VXdvSEQwNEF2N2EzY3hWcw?oc=5\" target=\"_blank\">人工知能(AI)とは何か。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-22T08:58:59"
-    },
-    {
       "source": "Product Hunt",
       "title": "Hotly",
       "url": "https://www.producthunt.com/products/hotly",
@@ -2557,7 +2542,67 @@
         "revenue_score": 3
       },
       "collected_at": "2026-10-27T00:52:32"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 26 Oct 2026 18:01:17 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-27T03:30:39"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 26 Oct 2026 16:49:42 +0000",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-10-27T03:30:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "VibeiDE",
+      "url": "https://www.producthunt.com/products/vibeide",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "",
+      "summary": "<p> Queue agent tasks in parallel and review each result </p> <p> <a href=\"https://www.producthunt.com/products/vibeide?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1292655?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 5
+      },
+      "collected_at": "2026-10-27T03:30:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AllModels",
+      "url": "https://www.producthunt.com/products/allmodels-io",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Explore every abliterated model </p> <p> <a href=\"https://www.producthunt.com/products/allmodels-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1292894?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-27T03:30:48"
     }
   ],
-  "updated_at": "2026-10-27T00:52:35.609949+09:00"
+  "updated_at": "2026-10-27T03:30:52.140227+09:00"
 }
