@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-10-28-qwen-cohere-debunked-gpu-guide.jpg",
     "created_at": "2026-10-28T04:36:40.118385+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-28-liquidai-lfm-1-7b-local-python-guide",
+    "title": "LFM-1.7BをPythonで動かしてエッジ環境向け超軽量AIを構築する方法",
+    "url": "https://ai.negi-lab.com/posts/liquidai-lfm-1-7b-local-python-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #LiquidAI",
+    "tweet_text": "1.7Bという超軽量級ながらLlama-3-8Bに迫る性能のLiquidAI「LFM-1.7B」が凄い。RTX 4090環境なら推論速度は100トークン/秒超、VRAM 2GB以下のノートPCでも余裕で動く。Transformerとは異なるLiquidアーキテクチャにより、長い入力でもメモリ消費が安定。エッジAIの実務導入における最強の選択肢になる。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-28-liquidai-lfm-1-7b-local-python-guide.jpg",
+    "created_at": "2026-10-28T06:08:28.569824+09:00",
+    "posted": false
   }
 ]
