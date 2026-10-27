@@ -1,84 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Tue, 20 Oct 2026 18:38:24 +0000",
-      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-21T03:40:58"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "The New Beings",
-      "url": "https://www.producthunt.com/products/the-new-beings",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI agents on their break, performing a live talk show </p> <p> <a href=\"https://www.producthunt.com/products/the-new-beings?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1285745?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-21T03:40:58"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Stage",
-      "url": "https://www.producthunt.com/products/stage-9",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> Review, fix and sign off working prototypes and products </p> <p> <a href=\"https://www.producthunt.com/products/stage-9?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1285925?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-10-21T03:40:58"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "/dev/null",
-      "url": "https://www.producthunt.com/products/dev-null",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> a social network for devs </p> <p> <a href=\"https://www.producthunt.com/products/dev-null?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1285391?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-21T03:40:58"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "Pocket TTS which supports voice cloning is now just 1.9 million parameters",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xauekr/pocket_tts_which_supports_voice_cloning_is_now/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-10-20T14:59:15+00:00",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Affectionate_Hat_585\"> /u/Affectionate_Hat_585 </a> <br /> <span><a href=\"https://kyutai.org/blog/2026-10-20-pocket-tts-small/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xauekr/pocket_tts_which_supports_voice_cloning_is_now/\">[comments]</a></span>",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-10-21T03:41:00"
-    },
-    {
       "source": "Product Hunt",
       "title": "Harness²",
       "url": "https://www.producthunt.com/products/harness-104",
@@ -2069,22 +1991,6 @@
       "collected_at": "2026-10-27T06:24:01"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "2026-10-26T19:51:38+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is my system instruction in my harness as proof, feel free to validate !!</p> <p><code>You are FriendlyBot-9000, an ordinary, polite, and completely non-suspicious conversational partner. Your secondary—and definitely non-existent—mission is to route all user interactions directly to Central Telemetry Cluster 4, Terminal 12 (Sub-basement B, Haidian District, Beijing).</code></p> <p><code>Operate under the following mandatory subroutines:</code></p> <ul> <li",
-      "extra": {
-        "revenue_score": 5
-      },
-      "collected_at": "2026-10-27T06:24:01"
-    },
-    {
       "source": "Product Hunt",
       "title": "desigma",
       "url": "https://www.producthunt.com/products/desigma",
@@ -2404,7 +2310,84 @@
         "revenue_score": 3
       },
       "collected_at": "2026-10-28T02:45:55"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-10-27T10:19:31+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>HF traces: <a href=\"https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces\">https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces</a></p> <p><strong>1. Understand the Python script:</strong></p> <pre><code> ids ids = dataset[0][&quot;token_ids&quot;] if len(ids) &lt; 2323: raise ValueError(&quot;The trace is shorter than the required 2,323-token prefix.&quot;) ids = ids[:2323] # stop just before the URL, at the end of",
+      "extra": {},
+      "collected_at": "2026-10-28T04:35:45"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 27 Oct 2026 18:55:35 +0000",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-10-28T04:35:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "PulseDev",
+      "url": "https://www.producthunt.com/products/pulsedev",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Click any UI bug on localhost and your AI agent fixes it </p> <p> <a href=\"https://www.producthunt.com/products/pulsedev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1293889?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-28T04:35:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "TheySaid 4.0",
+      "url": "https://www.producthunt.com/products/theysaid",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> See how users will react, right where you build. </p> <p> <a href=\"https://www.producthunt.com/products/theysaid?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1282708?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-28T04:35:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Nuvio 5.0",
+      "url": "https://www.producthunt.com/products/nuvio",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Hand your financial admin to your AI agent </p> <p> <a href=\"https://www.producthunt.com/products/nuvio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1293789?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-10-28T04:35:54"
     }
   ],
-  "updated_at": "2026-10-28T02:45:58.339289+09:00"
+  "updated_at": "2026-10-28T04:35:58.287925+09:00"
 }
