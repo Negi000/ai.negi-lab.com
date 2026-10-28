@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-27-vibeide-parallel-agent-workflow-review",
-    "title": "VibeiDE 並列エージェント実行による開発ワークフローの高速化",
-    "url": "https://ai.negi-lab.com/posts/vibeide-parallel-agent-workflow-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #業務効率化",
-    "tweet_text": "AIへの指示を1つずつ待つのはもう古い。VibeiDEはタスクをキューに入れ、複数のAIエージェントを並列実行して結果をザッピングレビューできる。\n\n10個の関数リファクタリングを同時に投げ、終わったものから差分を適用するワークフローは圧倒的に速い。待ち時間が消えるだけで開発体験は別物。\n\n大量のテスト生成やDoc追加をこなす中上級者は、API課金してでも試す価値あり。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-27-vibeide-parallel-agent-workflow-review.jpg",
-    "created_at": "2026-10-27T13:40:09.906535+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-27-nuplay-ai-workflow-self-improving-review",
     "title": "NuPlay 使い方と実務レビュー：自律改善型AIワークフローの真価を問う",
     "url": "https://ai.negi-lab.com/posts/nuplay-ai-workflow-self-improving-review/",
