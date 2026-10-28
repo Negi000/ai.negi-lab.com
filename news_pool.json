@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "AIを「スーパーインテリジェンス」と呼ぶテック企業トップは誰？ 言ってないのは誰？（ギズモード・ジャパン） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83SHRtQ2ZaYW8zVkNMYUE3WU1WOHZIYUJwVWJUZ29tcGtYZlVJV0F3cXBSQVUtWjRWMWR4eW1Fa3A2bG9hYnhqbWNMWW5QWVRyU0dYZ1gtalR5Z05JckRSc1FFcHF6aVc3UWowSkVoOE5XRzcyUERIeVBOZlpfSVk?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 14 Oct 2026 10:00:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE83SHRtQ2ZaYW8zVkNMYUE3WU1WOHZIYUJwVWJUZ29tcGtYZlVJV0F3cXBSQVUtWjRWMWR4eW1Fa3A2bG9hYnhqbWNMWW5QWVRyU0dYZ1gtalR5Z05JckRSc1FFcHF6aVc3UWowSkVoOE5XRzcyUERIeVBOZlpfSVk?oc=5\" target=\"_blank\">AIを「スーパーインテリジェンス」と呼ぶテック企業トップは誰？ 言ってないのは誰？（ギズモード・ジャパン）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo!ニュース</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-22T03:51:50"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "UseIt Studio",
-      "url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your AI design agent for real, editable project files. </p> <p> <a href=\"https://www.producthunt.com/products/useit-studio-from-idea-to-delivery?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1280279?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-22T03:51:51"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Koi",
-      "url": "https://www.producthunt.com/products/koi-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Every tool you need, in one Mac app </p> <p> <a href=\"https://www.producthunt.com/products/koi-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1287488?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-22T03:51:51"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude Duet",
       "url": "https://claude.com/product/claude-duet",
@@ -2225,19 +2179,6 @@
       "collected_at": "2026-10-28T14:13:19"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Dirt cheap GPUs coming next year",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "2026-10-28T04:34:41+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I think a turn of events are pointing towards a very likely crash in prices in the coming months. </p> <p>With a single gb300 rack being to serve all of Openrouter's traffic for DSV4.1 Flash(<a href=\"https://x.com/thdxr/status/2115165365630026178\">https://x.com/thdxr/status/2115165365630026178</a>) </p> <p>Half of data center buildouts already being cancelled/stalled. </p> <p>Neoclouds unable to finance debt for their compute, and being stuck in a 5 year deal wi",
-      "extra": {},
-      "collected_at": "2026-10-28T18:32:04"
-    },
-    {
       "source": "Product Hunt",
       "title": "Fraud Blocker",
       "url": "https://www.producthunt.com/products/fraud-blocker",
@@ -2437,7 +2378,65 @@
         "revenue_score": 3
       },
       "collected_at": "2026-10-29T03:09:19"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 28 Oct 2026 17:01:23 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-29T04:48:59"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Playing around with Ollama, local models & customized AI voice& faces",
+      "url": "https://www.reddit.com/r/ollama/comments/1xhu8ah/playing_around_with_ollama_local_models/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-10-28T17:15:56+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1xhu8ah/playing_around_with_ollama_local_models/\"> <img alt=\"Playing around with Ollama, local models &amp; customized AI voice&amp; faces\" src=\"https://preview.redd.it/botthtabr8yh1.jpeg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=453a8662aac3be51c8d04e0250271db6a71c2f12\" title=\"Playing around with Ollama, local models &amp; customized AI voice&amp; faces\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>H",
+      "extra": {},
+      "collected_at": "2026-10-29T04:49:02"
+    },
+    {
+      "source": "r/ollama",
+      "title": "Running a multi-agent pipeline on an 8 GB Android tablet with Ollama",
+      "url": "https://www.reddit.com/r/ollama/comments/1xhtceo/running_a_multiagent_pipeline_on_an_8_gb_android/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "GUIDE"
+      ],
+      "published": "2026-10-28T16:44:59+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1xhtceo/running_a_multiagent_pipeline_on_an_8_gb_android/\"> <img alt=\"Running a multi-agent pipeline on an 8 GB Android tablet with Ollama\" src=\"https://preview.redd.it/vk8vjshsl8yh1.jpeg?width=140&amp;height=87&amp;auto=webp&amp;s=0ddbd0a0ce13814d702719f3739264e9958fb13f\" title=\"Running a multi-agent pipeline on an 8 GB Android tablet with Ollama\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong><em>I</em></strong> <s",
+      "extra": {},
+      "collected_at": "2026-10-29T04:49:02"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Wed, 28 Oct 2026 19:19:58 +0000",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-10-29T04:49:03"
     }
   ],
-  "updated_at": "2026-10-29T03:09:22.383231+09:00"
+  "updated_at": "2026-10-29T04:49:07.717609+09:00"
 }
