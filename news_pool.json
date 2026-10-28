@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Blooio",
-      "url": "https://www.producthunt.com/products/blooio-imessages-api-that-scales",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Apple Messages for Business made easy </p> <p> <a href=\"https://www.producthunt.com/products/blooio-imessages-api-that-scales?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1278560?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-21T17:28:20"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "The Brains",
-      "url": "https://www.producthunt.com/products/the-brains",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Founders and investors as MCP servers, every answer cited </p> <p> <a href=\"https://www.producthunt.com/products/the-brains?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1286365?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-21T17:28:20"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Yarite",
-      "url": "https://www.producthunt.com/products/yarite",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A daily list of who to call. Nothing leaves your phone. </p> <p> <a href=\"https://www.producthunt.com/products/yarite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1280520?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-21T17:28:20"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Using Claude to reduce the attack surface of code",
       "url": "https://www.anthropic.com/research/attack-surface-reduction",
@@ -2406,20 +2361,63 @@
       "collected_at": "2026-10-28T14:13:19"
     },
     {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Dirt cheap GPUs coming next year",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-10-28T04:34:41+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I think a turn of events are pointing towards a very likely crash in prices in the coming months. </p> <p>With a single gb300 rack being to serve all of Openrouter's traffic for DSV4.1 Flash(<a href=\"https://x.com/thdxr/status/2115165365630026178\">https://x.com/thdxr/status/2115165365630026178</a>) </p> <p>Half of data center buildouts already being cancelled/stalled. </p> <p>Neoclouds unable to finance debt for their compute, and being stuck in a 5 year deal wi",
+      "extra": {},
+      "collected_at": "2026-10-28T18:32:04"
+    },
+    {
       "source": "Product Hunt",
-      "title": "SavorApp_AI",
-      "url": "https://www.producthunt.com/products/savor-3",
+      "title": "Hob",
+      "url": "https://www.producthunt.com/products/hob-3",
       "primary_category": "TOOL",
       "possible_categories": [
         "TOOL"
       ],
       "published": "",
-      "summary": "<p> Capture what matters and move your intentions forward </p> <p> <a href=\"https://www.producthunt.com/products/savor-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1248682?app_id=339\">Link</a> </p>",
+      "summary": "<p> Open-source, on device alternative to Claude and ChatGPT </p> <p> <a href=\"https://www.producthunt.com/products/hob-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1293579?app_id=339\">Link</a> </p>",
       "extra": {
         "revenue_score": 0
       },
-      "collected_at": "2026-10-28T14:13:20"
+      "collected_at": "2026-10-28T18:32:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Fraud Blocker",
+      "url": "https://www.producthunt.com/products/fraud-blocker",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> AI ad fraud protection for Google and Meta ads </p> <p> <a href=\"https://www.producthunt.com/products/fraud-blocker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1290434?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-28T18:32:12"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Congress Trades",
+      "url": "https://www.producthunt.com/products/alpha-vantage",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> See how Congress members trade, and if copying them pays off </p> <p> <a href=\"https://www.producthunt.com/products/alpha-vantage?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1295097?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-28T18:32:12"
     }
   ],
-  "updated_at": "2026-10-28T14:13:23.891884+09:00"
+  "updated_at": "2026-10-28T18:32:16.096037+09:00"
 }
