@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-27-gpu-price-increase-hbm-samsung-2025-ai-guide",
-    "title": "GPU価格高騰直前！ローカルLLM・AI開発用PCの選び方と今買うべき型番比較",
-    "url": "https://ai.negi-lab.com/posts/gpu-price-increase-hbm-samsung-2025-ai-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "SamsungのHBMキャパ完売で、来年のGPUとメモリ価格は200%暴騰の予兆。AI開発者にとって「次世代待ち」は今や最大のリスクです。実務でローカルLLMを回すなら、在庫が安定している今のうちにRTX 4060 Ti 16GBかメモリ32GB以上のMacを確保するのが正解。VRAM不足で後悔する前に、投資判断を。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-27-gpu-price-increase-hbm-samsung-2025-ai-guide.jpg",
-    "created_at": "2026-10-27T03:31:14.441423+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-27-local-llm-gpu-vram-comparison-guide",
-    "title": "ローカルLLM環境の選び方と比較！Kimi K3.1規制で見えた今買うべきVRAM容量とおすすめPC",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-vram-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "Kimi K3.1の規制版リリースで確信。中国製モデルのローカル利用は今後も機能制限が付きまとう。\nエンジニアが今投資すべきは、特定のモデルに依存しない「VRAM 24GB以上」の環境。\nRTX 3090中古やMac Studio 64GBが結局一番コスパいい。\n12GB以下のGPUで妥協すると、数ヶ月で最新モデルの重さに耐えられなくなる。買う前にここを見て。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-27-local-llm-gpu-vram-comparison-guide.jpg",
-    "created_at": "2026-10-27T05:07:08.020827+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-27-qwen-local-llm-security-sandbox",
-    "title": "ローカルLLMの外部通信を完全に遮断してQwenを安全に動かす環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/qwen-local-llm-security-sandbox/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Docker",
-    "tweet_text": "Redditで話題のQwenによる診断データ送信疑惑。真偽を問うより「送らせない仕組み」を作るのがエンジニアの仕事。Dockerのinternal networkを使ってLLMを物理隔離し、パケットを1bitも外に出さないサンドボックスを構築しました。RTX 3060 12GBあればQwen 2.5が安全にフル稼働。業務でローカルLLMを扱うなら、この構成が最低ラインのガバナンスです。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-27-qwen-local-llm-security-sandbox.jpg",
-    "created_at": "2026-10-27T06:24:26.122359+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-27-ollama-openwebui-local-llm-setup-guide",
     "title": "OllamaとOpen WebUIで自分専用のChatGPT環境を構築する方法",
     "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-setup-guide/",
