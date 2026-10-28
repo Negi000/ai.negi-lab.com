@@ -1,81 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Claude Duet",
-      "url": "https://claude.com/product/claude-duet",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 21 Oct 2026 19:14:01 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-22T05:27:55"
-    },
-    {
-      "source": "r/LocalLLM",
-      "title": "PUBG's creators just trained a Qwen competitor from scratch",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xboq3j/pubgs_creators_just_trained_a_qwen_competitor/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-10-21T14:29:53+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Today is a good day.</p> <p>KRAFTON, the South Korean company behind PUBG and owner of the studio behind Subnautica, just released Raon-1 mini, a new 30B MoE with roughly 4B active parameters.</p> <p>They claim to have trained it entirely from scratch, using an original architecture that builds on some of the latest innovations in AI research.</p> <p><strong>This is a much bigger deal than people realize</strong>.</p> <p>Training a competitive foundation model f",
-      "extra": {},
-      "collected_at": "2026-10-22T05:28:02"
-    },
-    {
-      "source": "r/LocalLLM",
-      "title": "Alert! LiteLLM 1.107.0 was compromised today",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xbpoye/alert_litellm_11070_was_compromised_today/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-10-21T15:07:04+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>#Alert</p> <p>So it's not only PHP that was vulnerable today (patch yours NOW!) but also, one of the prominent and widely used LLM Gateway - <strong>LiteLLM AI Gateway</strong> was (again) backdoored.</p> <p>Not sure who discovered the backdoor, but it's serious.</p> <p>Here's the information:</p> <p>Version: LiteLLM 1.107.0 (PyPI and the official Docker images).</p> <p>One line was added to the build config: `data = &quot;cook&quot;` under [tool.maturin].</p> <",
-      "extra": {},
-      "collected_at": "2026-10-22T05:28:02"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 21 Oct 2026 20:27:41 +0000",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-22T05:28:04"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "NativeShip",
-      "url": "https://www.producthunt.com/products/nativeship",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The easy way to launch your n8n native integration </p> <p> <a href=\"https://www.producthunt.com/products/nativeship?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1273919?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-22T05:28:05"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
       "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
@@ -2408,20 +2333,6 @@
       "collected_at": "2026-10-29T04:49:02"
     },
     {
-      "source": "r/ollama",
-      "title": "Running a multi-agent pipeline on an 8 GB Android tablet with Ollama",
-      "url": "https://www.reddit.com/r/ollama/comments/1xhtceo/running_a_multiagent_pipeline_on_an_8_gb_android/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-10-28T16:44:59+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ollama/comments/1xhtceo/running_a_multiagent_pipeline_on_an_8_gb_android/\"> <img alt=\"Running a multi-agent pipeline on an 8 GB Android tablet with Ollama\" src=\"https://preview.redd.it/vk8vjshsl8yh1.jpeg?width=140&amp;height=87&amp;auto=webp&amp;s=0ddbd0a0ce13814d702719f3739264e9958fb13f\" title=\"Running a multi-agent pipeline on an 8 GB Android tablet with Ollama\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong><em>I</em></strong> <s",
-      "extra": {},
-      "collected_at": "2026-10-29T04:49:02"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Anthropic just launched tools to show companies what their AI spending is buying",
       "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
@@ -2436,7 +2347,37 @@
         "revenue_score": -2
       },
       "collected_at": "2026-10-29T04:49:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 28 Oct 2026 21:25:30 +0000",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-29T06:31:30"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "NotiKeep",
+      "url": "https://www.producthunt.com/products/notikeep",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Notification history for iPhone, on your device </p> <p> <a href=\"https://www.producthunt.com/products/notikeep?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1294817?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-29T06:31:31"
     }
   ],
-  "updated_at": "2026-10-29T04:49:07.717609+09:00"
+  "updated_at": "2026-10-29T06:31:34.890669+09:00"
 }
