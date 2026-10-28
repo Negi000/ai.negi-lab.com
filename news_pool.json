@@ -1,65 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Using Claude to reduce the attack surface of code",
-      "url": "https://www.anthropic.com/research/attack-surface-reduction",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 21 Oct 2026 03:36:43 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-21T20:23:34"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "extra": {
-        "stars_today": "128 stars today"
-      },
-      "collected_at": "2026-10-21T20:23:43"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Flagsmith Experiments",
-      "url": "https://www.producthunt.com/products/flagsmith",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open-source A/B testing built on your feature flags </p> <p> <a href=\"https://www.producthunt.com/products/flagsmith?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1286674?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-21T20:23:44"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Mouse-1",
-      "url": "https://www.producthunt.com/products/mouse-1",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A decision model for your agent harness. </p> <p> <a href=\"https://www.producthunt.com/products/mouse-1?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1287281?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-21T20:23:44"
-    },
-    {
       "source": "Product Hunt",
       "title": "Notion Auto",
       "url": "https://www.producthunt.com/products/notion-99",
@@ -2375,21 +2316,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Hob",
-      "url": "https://www.producthunt.com/products/hob-3",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open-source, on device alternative to Claude and ChatGPT </p> <p> <a href=\"https://www.producthunt.com/products/hob-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1293579?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-28T18:32:12"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Fraud Blocker",
       "url": "https://www.producthunt.com/products/fraud-blocker",
       "primary_category": "TOOL",
@@ -2417,7 +2343,69 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-28T18:32:12"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "💫 Toolkit to help you get started with SDD or any other process!",
+      "extra": {
+        "stars_today": "386 stars today"
+      },
+      "collected_at": "2026-10-28T21:21:25"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "BotGauge",
+      "url": "https://www.producthunt.com/products/botgauge-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The Trust Layer for Your Agents </p> <p> <a href=\"https://www.producthunt.com/products/botgauge-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1281746?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-28T21:21:26"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "OpenLLM",
+      "url": "https://www.producthunt.com/products/openllm",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Take your AI tokens anywhere </p> <p> <a href=\"https://www.producthunt.com/products/openllm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1295475?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-28T21:21:26"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "App Store Screenshots",
+      "url": "https://www.producthunt.com/products/app-store-screenshots",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your coding agent designs your app store screenshots </p> <p> <a href=\"https://www.producthunt.com/products/app-store-screenshots?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1269164?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-10-28T21:21:26"
     }
   ],
-  "updated_at": "2026-10-28T18:32:16.096037+09:00"
+  "updated_at": "2026-10-28T21:21:29.675497+09:00"
 }
