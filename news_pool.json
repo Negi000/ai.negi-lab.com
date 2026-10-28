@@ -1,78 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 20 Oct 2026 17:48:29 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-21T08:47:07"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-      "url": "https://github.com/AbdullahAlhariri/penmentor",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 20 Oct 2026 15:10:54 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-21T08:47:07"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 20 Oct 2026 23:01:23 +0000",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "extra": {
-        "revenue_score": -2
-      },
-      "collected_at": "2026-10-21T08:47:15"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Mintlify Autopilot",
-      "url": "https://www.producthunt.com/products/mintlify",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> An always-on agent that keeps your docs up to date </p> <p> <a href=\"https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1285769?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-21T08:47:16"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "yggy",
-      "url": "https://www.producthunt.com/products/yggy",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The AI knowledge graph that builds itself </p> <p> <a href=\"https://www.producthunt.com/products/yggy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1277933?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-21T08:47:16"
-    },
-    {
       "source": "r/LocalLLM",
       "title": "Pardon my ignorance. But what do you do with an LLM?",
       "url": "https://www.reddit.com/r/LocalLLM/comments/1xbap8p/pardon_my_ignorance_but_what_do_you_do_with_an_llm/",
@@ -2404,23 +2332,92 @@
       "collected_at": "2026-10-28T06:08:02"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "LiquidAI/LFM3-1.7B · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy8s3/liquidailfm317b_hugging_face/",
-      "primary_category": "GUIDE",
+      "source": "HN AI Hot",
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 27 Oct 2026 20:50:42 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-28T09:25:22"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Tue, 27 Oct 2026 19:55:06 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-28T09:25:22"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 27 Oct 2026 23:34:27 +0000",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-28T09:25:31"
+    },
+    {
+      "source": "Google News",
+      "title": "ドナルド·トランプ米大統領は27日（現地時間）、「私たちは遅滞なくすべての関連公文書とすべての分野でAI（Artificial Intelligence·人工知能）用語を公式に禁止する」と明らかにした.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IOFM2WTJQcUFldVhMVHNIaUM4c2Qwd0lKMlhSam5lVzVzOEhyX3p1QnhRVE5xZFhmQktzdUwwNExHX2RfRERiUVdGcHpGdU0?oc=5",
+      "primary_category": "NEWS",
       "possible_categories": [
         "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
+        "NEWS"
       ],
-      "published": "2026-10-27T17:04:16+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xgy8s3/liquidailfm317b_hugging_face/\"> <img alt=\"LiquidAI/LFM3-1.7B · Hugging Face\" src=\"https://external-preview.redd.it/3UsYAM9HnZkajrb1eW23i3nsXJr4e2wsh4uklS-wrwc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0802ea4b66ab43e68bbc7a9e9e984c4625cbbd5f\" title=\"LiquidAI/LFM3-1.7B · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF\">https://huggingface.",
+      "published": "Tue, 27 Oct 2026 21:20:17 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IOFM2WTJQcUFldVhMVHNIaUM4c2Qwd0lKMlhSam5lVzVzOEhyX3p1QnhRVE5xZFhmQktzdUwwNExHX2RfRERiUVdGcHpGdU0?oc=5\" target=\"_blank\">ドナルド·トランプ米大統領は27日（現地時間）、「私たちは遅滞なくすべての関連公文書とすべての分野でAI（Artificial Intelligence·人工知能）用語を公式に禁止する」と明らかにした..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
       "extra": {
-        "revenue_score": 7
+        "revenue_score": 6
       },
-      "collected_at": "2026-10-28T06:08:02"
+      "collected_at": "2026-10-28T09:25:31"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "NINX",
+      "url": "https://www.producthunt.com/products/ninx-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Private On-device AI, connected tools, & creative workflows </p> <p> <a href=\"https://www.producthunt.com/products/ninx-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1202834?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-28T09:25:32"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Orbit",
+      "url": "https://www.producthunt.com/products/orbit-app-blocker",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Stop doomscrolling. Earn every app unlock. </p> <p> <a href=\"https://www.producthunt.com/products/orbit-app-blocker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1280377?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-28T09:25:32"
     }
   ],
-  "updated_at": "2026-10-28T06:08:02.241567+09:00"
+  "updated_at": "2026-10-28T09:25:35.365296+09:00"
 }
