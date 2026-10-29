@@ -15247,5 +15247,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-10-29T21:32:16.883195+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-30-claude-code-background-agent-vs-local-llm-guide",
+    "title": "Claude Codeのバックグラウンド送信仕様から考えるAI開発環境の選び方とおすすめハードウェア比較",
+    "url": "https://ai.negi-lab.com/posts/claude-code-background-agent-vs-local-llm-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #ClaudeCode",
+    "tweet_text": "Claude Codeの「裏でログを定期送信する」仕様、便利だけど仕事で使うならコストと透明性が怖い。結局、自分の手元でモデルを回せるRTX 4060 Ti 16GB以上の環境があるだけで、Cline使って「脱サブスク＆機密保持」が完結する。AI開発への投資は、中途半端なスペックが一番損。VRAM 16GBかMacメモリ36GBが実務の最低ラインですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-30-claude-code-background-agent-vs-local-llm-guide.jpg",
+    "created_at": "2026-10-30T03:16:10.079628+09:00",
+    "posted": false
   }
 ]

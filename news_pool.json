@@ -1,80 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Claude Duet",
-      "url": "https://claude.com/resources/articles/claude-duet",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 21 Oct 2026 19:40:18 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-23T01:54:42"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Thu, 22 Oct 2026 16:47:17 +0000",
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-23T01:54:50"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Whiteboard",
-      "url": "https://www.producthunt.com/products/whiteboard-5",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> the open-source IDE for thoughtful software design </p> <p> <a href=\"https://www.producthunt.com/products/whiteboard-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1285467?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-23T01:54:51"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Kugel Ear",
-      "url": "https://www.producthunt.com/products/kugelaudio",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Speech-to-text that only asks when it's unsure </p> <p> <a href=\"https://www.producthunt.com/products/kugelaudio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1287993?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-23T01:54:51"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Claire Mail",
-      "url": "https://www.producthunt.com/products/claire-mail",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Email, calendar and reminders, in one fast app </p> <p> <a href=\"https://www.producthunt.com/products/claire-mail?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1279533?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-23T01:54:51"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
       "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
@@ -2415,7 +2341,65 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-30T00:52:34"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 29 Oct 2026 14:57:55 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-30T03:15:19"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 29 Oct 2026 17:54:38 +0000",
+      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-30T03:15:27"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "IFTTT.ai",
+      "url": "https://www.producthunt.com/products/ifttt",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The easiest way to automate anything </p> <p> <a href=\"https://www.producthunt.com/products/ifttt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1296248?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-30T03:15:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Suno MCP",
+      "url": "https://www.producthunt.com/products/suno",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The music layerfor your AI stack </p> <p> <a href=\"https://www.producthunt.com/products/suno?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1296260?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-30T03:15:28"
     }
   ],
-  "updated_at": "2026-10-30T00:52:37.742844+09:00"
+  "updated_at": "2026-10-30T03:15:31.501954+09:00"
 }
