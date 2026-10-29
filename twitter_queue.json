@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-10-30-claude-code-background-agent-vs-local-llm-guide.jpg",
     "created_at": "2026-10-30T03:16:10.079628+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-30-qwen4-local-llm-gpu-mac-comparison-guide",
+    "title": "Qwen4発表目前！ローカルLLM用GPU・Mac選び方と比較：後悔しないVRAM容量の正解",
+    "url": "https://ai.negi-lab.com/posts/qwen4-local-llm-gpu-mac-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #Qwen4",
+    "tweet_text": "Qwen4が来週発表との情報。Qwen2.5の衝撃を考えると、ローカルLLM環境の再構築は急務です。結論、実務で使うならVRAM 24GBのRTX 4090か、Macならメモリ64GB以上が最低ライン。中途半端なスペックでQwen4の賢さを殺すのは勿体ない。買う前に見るべきVRAM容量の正解を実務目線でまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-30-qwen4-local-llm-gpu-mac-comparison-guide.jpg",
+    "created_at": "2026-10-30T04:48:55.831215+09:00",
+    "posted": false
   }
 ]

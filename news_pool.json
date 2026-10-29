@@ -2,37 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 22 Oct 2026 18:43:53 +0000",
-      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-23T03:45:27"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Dadan",
-      "url": "https://www.producthunt.com/products/dadan",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> One AI video workspace for recordings, meetings and guides </p> <p> <a href=\"https://www.producthunt.com/products/dadan?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1286573?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-23T03:45:28"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
       "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
       "primary_category": "NEWS",
@@ -2149,19 +2118,6 @@
       "collected_at": "2026-10-29T14:24:38"
     },
     {
-      "source": "HN AI Hot",
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Thu, 29 Oct 2026 03:33:42 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-29T18:48:40"
-    },
-    {
       "source": "r/LocalLLaMA Weekly",
       "title": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
@@ -2399,7 +2355,54 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-30T03:15:28"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "beenuar/AiSOC",
+      "url": "https://github.com/beenuar/AiSOC",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "extra": {
+        "stars_today": "318 stars today"
+      },
+      "collected_at": "2026-10-30T04:48:28"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Thu, 29 Oct 2026 19:14:36 +0000",
+      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-30T04:48:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Floot in ChatGPT",
+      "url": "https://www.producthunt.com/products/floot",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build and publish real apps without leaving ChatGPT </p> <p> <a href=\"https://www.producthunt.com/products/floot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1296361?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-30T04:48:28"
     }
   ],
-  "updated_at": "2026-10-30T03:15:31.501954+09:00"
+  "updated_at": "2026-10-30T04:48:32.267971+09:00"
 }
