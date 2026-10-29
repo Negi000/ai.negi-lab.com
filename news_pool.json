@@ -1,67 +1,6 @@
 {
   "items": [
     {
-      "source": "Google News",
-      "title": "Artificial Intelligence Chip市場トップ10企業 - pando.life",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nV0l2aU5fb0R3YTRqanhvU1BiUUVITDRBbUNhOEt2OEdoTll3ck9XUHpTSDB4YlF4MUVPNGlxbEhKcDlETG1xMGFB?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 22 Oct 2026 06:39:51 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nV0l2aU5fb0R3YTRqanhvU1BiUUVITDRBbUNhOEt2OEdoTll3ck9XUHpTSDB4YlF4MUVPNGlxbEhKcDlETG1xMGFB?oc=5\" target=\"_blank\">Artificial Intelligence Chip市場トップ10企業</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pando.life</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-22T17:32:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Sponkly",
-      "url": "https://www.producthunt.com/products/sponkly",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Live voice translation for chats, calls, meetings & YouTube </p> <p> <a href=\"https://www.producthunt.com/products/sponkly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1288519?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-22T17:32:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "CutBay",
-      "url": "https://www.producthunt.com/products/cutbay",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI Video Agent: Turn Anything into Videos via Chat </p> <p> <a href=\"https://www.producthunt.com/products/cutbay?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1275489?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-22T17:32:07"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "DeepCell",
-      "url": "https://www.producthunt.com/products/deepcell",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your deadline survival kit for office work </p> <p> <a href=\"https://www.producthunt.com/products/deepcell?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1286749?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-22T17:32:07"
-    },
-    {
       "source": "GitHub Trending",
       "title": "fastapi/fastapi",
       "url": "https://github.com/fastapi/fastapi",
@@ -2087,21 +2026,6 @@
       "collected_at": "2026-10-28T18:32:12"
     },
     {
-      "source": "GitHub Trending",
-      "title": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "💫 Toolkit to help you get started with SDD or any other process!",
-      "extra": {
-        "stars_today": "386 stars today"
-      },
-      "collected_at": "2026-10-28T21:21:25"
-    },
-    {
       "source": "Product Hunt",
       "title": "BotGauge",
       "url": "https://www.producthunt.com/products/botgauge-2",
@@ -2445,7 +2369,80 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-29T14:24:38"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Thu, 29 Oct 2026 03:33:42 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-29T18:48:40"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-10-28T12:26:44+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/\"> <img alt=\"Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!\" src=\"https://external-preview.redd.it/aWE3OGJiZnBiN3loMdG9nUtReL1uvYFaVrzNUyA0aXE3ZuuHkXv2lPA0R4_C.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2bfce3c5f2d2958912cc514e4de3fdfba474d42\" title=\"Someone built a 32-bit RISC-V CPU directly inside",
+      "extra": {},
+      "collected_at": "2026-10-29T18:48:41"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Polylane for ChatGPT",
+      "url": "https://www.producthunt.com/products/polylane",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Ask ChatGPT what broke in production </p> <p> <a href=\"https://www.producthunt.com/products/polylane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1296440?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-29T18:48:49"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Voxel51 Multimodal",
+      "url": "https://www.producthunt.com/products/voxel51",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Better data. Smarter robots. Repeat. </p> <p> <a href=\"https://www.producthunt.com/products/voxel51?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1294880?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-29T18:48:49"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ChatInbox",
+      "url": "https://www.producthunt.com/products/chatinbox-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Email that groups your inbox by contact </p> <p> <a href=\"https://www.producthunt.com/products/chatinbox-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1241773?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-29T18:48:49"
     }
   ],
-  "updated_at": "2026-10-29T14:24:41.660923+09:00"
+  "updated_at": "2026-10-29T18:48:52.832218+09:00"
 }
