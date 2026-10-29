@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-28-local-llm-gpu-buying-guide-qwen-vram",
-    "title": "ローカルLLM環境の選び方比較！QwenのリスクとVRAM 16GB以上の最適解",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-buying-guide-qwen-vram/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLM環境の構築で迷ったら「VRAM 16GB」を死守してください。RTX 4070（12GB）よりも4060 Ti（16GB）の方が、AI開発では「人権」があります。Qwenのテレメトリ送信疑惑のようなリスクをゼロにする唯一の手段は、完全オフラインのローカル実行。予算別の最適解を実務目線でまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-28-local-llm-gpu-buying-guide-qwen-vram.jpg",
-    "created_at": "2026-10-28T02:46:21.972932+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-28-qwen-cohere-debunked-gpu-guide",
-    "title": "ローカルLLM選びで失敗しないためのRTX vs Mac比較｜Qwen疑惑から学ぶハードウェア投資の正解",
-    "url": "https://ai.negi-lab.com/posts/qwen-cohere-debunked-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4060Ti",
-    "tweet_text": "CohereによるQwenのデータ送信疑惑はPythonスクリプトのバグというお粗末な結末。でも教訓は明白。外部APIの疑惑に振り回されるくらいなら、モデルを完全にローカルで動かす環境を持つべき。VRAM 16GB以上のRTXかメモリ32GB以上のMac、これが実務でAIを使い倒すための最低ライン。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-28-qwen-cohere-debunked-gpu-guide.jpg",
-    "created_at": "2026-10-28T04:36:40.118385+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-28-liquidai-lfm-1-7b-local-python-guide",
-    "title": "LFM-1.7BをPythonで動かしてエッジ環境向け超軽量AIを構築する方法",
-    "url": "https://ai.negi-lab.com/posts/liquidai-lfm-1-7b-local-python-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #LiquidAI",
-    "tweet_text": "1.7Bという超軽量級ながらLlama-3-8Bに迫る性能のLiquidAI「LFM-1.7B」が凄い。RTX 4090環境なら推論速度は100トークン/秒超、VRAM 2GB以下のノートPCでも余裕で動く。Transformerとは異なるLiquidアーキテクチャにより、長い入力でもメモリ消費が安定。エッジAIの実務導入における最強の選択肢になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-28-liquidai-lfm-1-7b-local-python-guide.jpg",
-    "created_at": "2026-10-28T06:08:28.569824+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-28-ollama-open-webui-local-llm-setup-guide",
     "title": "OllamaとOpen WebUIで自分専用のローカルChatGPTを構築する方法",
     "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup-guide/",
