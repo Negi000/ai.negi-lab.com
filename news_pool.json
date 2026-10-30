@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-      "url": "https://www.thisandthat.chat/enron/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 23 Oct 2026 12:02:53 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-24T03:40:24"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-      "url": "https://berget.ai/en/blog/per-request-co2-press-release",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 23 Oct 2026 06:41:11 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-24T03:40:24"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "AI compute is the new oil–and needs a new market",
-      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 22 Oct 2026 23:45:16 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-24T03:40:24"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Dots",
-      "url": "https://www.producthunt.com/products/dots-7",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A customizable workspace built into your Mac's notch </p> <p> <a href=\"https://www.producthunt.com/products/dots-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1289162?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-24T03:40:33"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
       "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
@@ -2285,21 +2231,6 @@
     },
     {
       "source": "HN AI Hot",
-      "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
-      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL"
-      ],
-      "published": "Fri, 30 Oct 2026 10:22:51 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-31T00:33:33"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
       "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
       "primary_category": "NEWS",
@@ -2417,7 +2348,65 @@
         "revenue_score": 0
       },
       "collected_at": "2026-10-31T02:52:12"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 29 Oct 2026 19:25:48 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-10-31T04:38:06"
+    },
+    {
+      "source": "Google News",
+      "title": "SKUTOPIA expands in Victoria, bringing AI-powered logistics infrastructure to Australian businesses - Invest Victoria",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWEw1dmVOcENEV2RPdUR3bEdlQl9DS0MzV3lBZE1wRWNxZ0JZanZWVEpTWmJtQlYwN0Q1bjBPdE01S3pCeTFVam9wWXJLODVIN1VRbUhUWVN0NVJHYlJfMXBkSjU1dDNRakRQeG9tTzFkRkJGSkxOTVE5WWtZeTBjNE0ydWxBSEJiaS1aSVVZeTlES1VNMVoySmhtQ0g2ek9HR3pOa1luNi1fZFpXOE9aZjVmblUyY0U5dDZDYkRzaXhRbi1FS2NZZ25nYVlYVUZzU0UwM0VTOVVBQllzWUQ2NC1DRUJaNWZobVEwNUdvRVBVTEZzRFE?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 30 Oct 2026 06:00:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWEw1dmVOcENEV2RPdUR3bEdlQl9DS0MzV3lBZE1wRWNxZ0JZanZWVEpTWmJtQlYwN0Q1bjBPdE01S3pCeTFVam9wWXJLODVIN1VRbUhUWVN0NVJHYlJfMXBkSjU1dDNRakRQeG9tTzFkRkJGSkxOTVE5WWtZeTBjNE0ydWxBSEJiaS1aSVVZeTlES1VNMVoySmhtQ0g2ek9HR3pOa1luNi1fZFpXOE9aZjVmblUyY0U5dDZDYkRzaXhRbi1FS2NZZ25nYVlYVUZzU0UwM0VTOVVBQllzWUQ2NC1DRUJaNWZobVEwNUdvRVBVTEZzRFE?oc=5\" target=\"_blank\">SKUTOPIA expands in Victoria, bringing AI-powered logistics infrastructure to Australian busines",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-31T04:38:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "StereoLift Live",
+      "url": "https://www.producthunt.com/products/stereolift-live",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> your desktop in real 3D, live on your Quest </p> <p> <a href=\"https://www.producthunt.com/products/stereolift-live?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1292499?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-31T04:38:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Teable Mobile",
+      "url": "https://www.producthunt.com/products/teable-4",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build the systems your team runs on, now from your phone </p> <p> <a href=\"https://www.producthunt.com/products/teable-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1294336?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-10-31T04:38:14"
     }
   ],
-  "updated_at": "2026-10-31T02:52:16.012856+09:00"
+  "updated_at": "2026-10-31T04:38:17.755450+09:00"
 }
