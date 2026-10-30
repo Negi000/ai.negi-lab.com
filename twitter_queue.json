@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-29-local-llama-gpu-buying-guide-2025-price-drop",
-    "title": "ローカルLLM用GPU比較｜来年の価格暴落説を待つべきか？今買うべき型番と選び方の鉄則",
-    "url": "https://ai.negi-lab.com/posts/local-llama-gpu-buying-guide-2025-price-drop/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "GPU価格暴落の噂があるが、AIエンジニアなら今すぐVRAM 16GB以上を確保すべき。結論、10万以下ならRTX 4060 Ti 16GB、ガチ勢なら3090/4090の24GB一択。VRAM 8GB/12GBで妥協すると、最新のLlama 3やQwenを動かせず数ヶ月で買い直す羽目になる。安くなるのを待つ時間は、スキルが停滞する最大の損失。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-29-local-llama-gpu-buying-guide-2025-price-drop.jpg",
-    "created_at": "2026-10-29T03:09:58.821078+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-29-local-llm-hardware-guide-8gb-limit",
-    "title": "ローカルLLM環境の選び方：8GBメモリでマルチエージェントは動くか？",
-    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-8gb-limit/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "8GBメモリのAndroidでローカルLLMを動かすのはロマンがあるが、実務でマルチエージェントを回すなら「動く」と「使える」の壁は高い。\n\n結論、VRAM 16GB以上のGPUかメモリ24GB以上のMacが最低ライン。8GB環境でスワップ地獄にハマる前に、まずは型落ちでもVRAM容量を優先すべき。AI開発の機材選びで失敗しないための基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-29-local-llm-hardware-guide-8gb-limit.jpg",
-    "created_at": "2026-10-29T04:49:41.472124+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-29-llamaindex-rag-local-pdf-implementation-guide",
-    "title": "LlamaIndexで作るRAG入門：手元のPDFを爆速で検索する実装ガイド",
-    "url": "https://ai.negi-lab.com/posts/llamaindex-rag-local-pdf-implementation-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#LlamaIndex #RAG",
-    "tweet_text": "RAGの実装はLlamaIndexを使えば30分でプロトタイプが動く。LangChainよりデータ処理に特化している分、コードが圧倒的にシンプルで実務向き。\n\n特にPDF検索は「チャンクの重なり」と「永続化」の設定だけで精度が激変する。RTX 4090を2枚挿してローカルLLMを検証し続けてきた結論として、まずはOpenAI APIで正解の挙動を掴むのが最短ルート。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-10-29-llamaindex-rag-local-pdf-implementation-guide.jpg",
-    "created_at": "2026-10-29T06:31:59.630147+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-29-llamacpp-gguf-llama3-setup-guide",
     "title": "llama.cppとGGUF量子化でLlama 3を爆速動作させる環境構築ガイド",
     "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-llama3-setup-guide/",
