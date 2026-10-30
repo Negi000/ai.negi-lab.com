@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-10-30T21:22:24.595286+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-31-claude-code-fake-extension-security-guide",
+    "title": "AIコーディングの罠！Claude Code偽拡張機能から身を守る安全な開発環境の選び方と比較",
+    "url": "https://ai.negi-lab.com/posts/claude-code-fake-extension-security-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #Cursor",
+    "tweet_text": "Claude Codeの偽拡張機能がCursorマーケットプレイスに出現。開発者のAPIキーやコードを盗むRATが含まれていました。対策は公式確認の徹底ですが、本質的には「機密情報をクラウドに送らない」ローカルLLM環境を持つのが最強の防衛策。VRAM 16GB以上のRTXか、32GB以上のMacがエンジニアの標準装備になりますね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-10-31T02:52:38.337511+09:00",
+    "posted": false
   }
 ]
