@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-11-01-local-llm-gpu-buying-guide-rtx-mac.jpg",
     "created_at": "2026-11-01T02:03:48.284613+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-01-claude-code-security-guide-hardware-comparison",
+    "title": "Claude Codeの偽拡張機能に注意！安全なAI開発環境の選び方と推奨GPU・Mac比較",
+    "url": "https://ai.negi-lab.com/posts/claude-code-security-guide-hardware-comparison/",
+    "category": "MONEY",
+    "viral_tags": "#ClaudeCode #ローカルLLM",
+    "tweet_text": "Claude Codeの偽VS Code拡張機能が拡散中。公式は「CLI」のみです。安易なインストールはソースコードやAPIキーの流出リスクあり。\n\n安全なAI開発環境を作るなら、公式CLIを使うか、VRAM 16GB以上のRTX環境でCline×ローカルLLMを回すのが正解。8GBメモリのMacやVRAM不足のGPUは、2025年の開発では「安物買い」になります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-11-01T03:43:24.314957+09:00",
+    "posted": false
   }
 ]
