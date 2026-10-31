@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-10-31T09:41:29.000038+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-31-langchain-deepagents-review-practical-guide",
+    "title": "langchain-ai/deepagents レビュー：LangGraphの複雑さを隠蔽する「実戦用エージェント基盤」の正体",
+    "url": "https://ai.negi-lab.com/posts/langchain-deepagents-review-practical-guide/",
+    "category": "TOOL",
+    "viral_tags": "#LangChain #AIエージェント",
+    "tweet_text": "GitHubで話題の「langchain-ai/deepagents」を検証。LangGraphを直接書く苦行から解放される、実戦用のエージェント基盤。\n複雑な思考ループや状態管理がプリセット済みで、開発工数を3割は削れる。\nただし適当に回すとGPT-4oのトークン代で数千円飛ぶ。\n「動く」の先にある「仕事で使える」エージェントを作りたい人向け。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-10-31T14:08:28.388445+09:00",
+    "posted": false
   }
 ]
