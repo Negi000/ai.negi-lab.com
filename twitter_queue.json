@@ -15275,5 +15275,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-10-31T14:08:28.388445+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-10-31-telemetry-dev-llm-agent-observability-review",
+    "title": "telemetry.dev 使い方とLLMエージェント運用の実力",
+    "url": "https://ai.negi-lab.com/posts/telemetry-dev-llm-agent-observability-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントのデバッグで「print地獄」に陥っているならtelemetry.devが救世主になる。\nOpenTelemetry準拠で、LangChain以外の自作エージェントも0.1秒単位で可視化。\nどのステップで思考がループしたか、どのToolがコストを食ったか一目でわかる。\n標準規格への準拠こそが、結局一番長く使える。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-10-31-telemetry-dev-llm-agent-observability-review.jpg",
+    "created_at": "2026-10-31T18:30:51.008452+09:00",
+    "posted": false
   }
 ]
