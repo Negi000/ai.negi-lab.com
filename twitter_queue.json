@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-10-29-polylane-chatgpt-incident-response-review",
-    "title": "Polylane for ChatGPT レビュー 障害解析を自動化するインシデント対応の実力",
-    "url": "https://ai.negi-lab.com/posts/polylane-chatgpt-incident-response-review/",
-    "category": "TOOL",
-    "viral_tags": "#インシデント対応 #SRE",
-    "tweet_text": "インシデント対応でログの海に溺れる時代は終わった。Polylane for ChatGPTは、SentryのログとGitHubのソースコードを紐付け、障害の根本原因を数分で特定する。深夜のオンコールで目を擦りながらgrepする時間を、AIによる解説の確認に変えられる。認知負荷を削りたいSREやリードエンジニアは導入を急ぐべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-10-29T18:51:25.204331+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-10-29-microsoft-azure-revenue-33-billion-vs-aws",
-    "title": "Azure売上332億ドル公表で判明したAI収益化の真実とAWSへの影響",
-    "url": "https://ai.negi-lab.com/posts/microsoft-azure-revenue-33-billion-vs-aws/",
-    "category": "NEWS",
-    "viral_tags": "#Azure #クラウド比較",
-    "tweet_text": "Azureの四半期売上が332億ドルと判明。ついにAWSの263億ドルを抜き去り、クラウド市場の首位が交代しました。\n\n単なる「インフラ貸し」から「AIプラットフォーム」への転換が、数字として完全に証明された形。開発者は、APIコスト最適化とAzure AI Studioへの習熟が急務になります。3ヶ月後には専用チップMaiaの普及でさらに差が開くはず。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-10-29T21:32:16.883195+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-10-30-claude-code-background-agent-vs-local-llm-guide",
     "title": "Claude Codeのバックグラウンド送信仕様から考えるAI開発環境の選び方とおすすめハードウェア比較",
     "url": "https://ai.negi-lab.com/posts/claude-code-background-agent-vs-local-llm-guide/",
