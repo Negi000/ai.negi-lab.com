@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-02-aisoc-local-llm-security-hardware-guide.jpg",
     "created_at": "2026-11-02T02:47:59.287532+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-02-local-llm-hardware-guide-sam-altman-response",
+    "title": "ローカルLLM環境の選び方と比較！Sam Altmanの「ローカル不要論」を実務視点で斬る",
+    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-sam-altman-response/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "Sam Altmanの「ローカル推論は資源の無駄」発言。マクロな効率は正論でも、実務家の判断は別です。API代を垂れ流すより、VRAM 16GBのRTX 4060 Tiや32GBメモリのMacに投資した方が、開発体験もコストも圧倒的に改善する。中途半端なスペックで妥協するのが一番の無駄遣い。買う前に見るべき基準をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-02-local-llm-hardware-guide-sam-altman-response.jpg",
+    "created_at": "2026-11-02T04:09:06.090637+09:00",
+    "posted": false
   }
 ]
