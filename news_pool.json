@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Moli by Lexmount",
-      "url": "https://www.producthunt.com/products/lexmount-browser",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The fastest headless browser for agents and harnesses </p> <p> <a href=\"https://www.producthunt.com/products/lexmount-browser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1278600?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-25T19:58:00"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Papermark Data Rooms",
-      "url": "https://www.producthunt.com/products/papermark-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Secure data rooms your AI agents can run. Live in < 60 sec. </p> <p> <a href=\"https://www.producthunt.com/products/papermark-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1291620?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-25T19:58:00"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "A 4B coding model that can generate 3D scenes",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeuo7t/a_4b_coding_model_that_can_generate_3d_scenes/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-10-25T06:10:59+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xeuo7t/a_4b_coding_model_that_can_generate_3d_scenes/\"> <img alt=\"A 4B coding model that can generate 3D scenes\" src=\"https://external-preview.redd.it/ZDR2bGwxMm8wa3hoMejSJ6JS7vRE7ZdUSeFa-rep7dK33QOgvgYi2Qf_18zQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=73c33d41d0370d6b511c5ef2a9c75206bd3609de\" title=\"A 4B coding model that can generate 3D scenes\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I’m sharing an earl",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-10-25T19:58:01"
-    },
-    {
       "source": "HN AI Companies",
       "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
       "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
@@ -2141,21 +2092,6 @@
     },
     {
       "source": "GitHub Trending",
-      "title": "bregman-arie/devops-exercises",
-      "url": "https://github.com/bregman-arie/devops-exercises",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
-      "extra": {
-        "stars_today": "341 stars today"
-      },
-      "collected_at": "2026-10-31T20:52:47"
-    },
-    {
-      "source": "GitHub Trending",
       "title": "hacksider/Deep-Live-Cam",
       "url": "https://github.com/hacksider/Deep-Live-Cam",
       "primary_category": "TOOL",
@@ -2435,7 +2371,113 @@
         "revenue_score": 0
       },
       "collected_at": "2026-11-01T19:20:44"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "kornia/kornia",
+      "url": "https://github.com/kornia/kornia",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "extra": {
+        "stars_today": "88 stars today"
+      },
+      "collected_at": "2026-11-01T21:52:04"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "FlashML-org/FreeToken",
+      "url": "https://github.com/FlashML-org/FreeToken",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "extra": {
+        "stars_today": "232 stars today"
+      },
+      "collected_at": "2026-11-01T21:52:04"
+    },
+    {
+      "source": "Google News",
+      "title": "TSMC Earnings: Higher Confidence in Artificial Intelligence Demand, but Guidance To Follow | モーニングスター - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS0hHa29ZOXJDd2RWUjRXNG1fazlvRkJhTVlocDdGMW9TaGZRSkJUUmEwOEFHa0xQLVd1TXFqLXh6YldnMnlTYnluQlhJd2lCZ1IzNFBLN1dwZlNQcmxlZzNUZWlSMHY1VklWR0pyM2xDWkttYTNuUkI2V3Y4dVhnbnY4dEdVR0FuTHBGaUZ2YjZsMHk4Xy1XaS1YMFdrWENKWkFkWS1icmpNVm14ck45NG92YkhMbTFZZmdv?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS0hHa29ZOXJDd2RWUjRXNG1fazlvRkJhTVlocDdGMW9TaGZRSkJUUmEwOEFHa0xQLVd1TXFqLXh6YldnMnlTYnluQlhJd2lCZ1IzNFBLN1dwZlNQcmxlZzNUZWlSMHY1VklWR0pyM2xDWkttYTNuUkI2V3Y4dVhnbnY4dEdVR0FuTHBGaUZ2YjZsMHk4Xy1XaS1YMFdrWENKWkFkWS1icmpNVm14ck45NG92YkhMbTFZZmdv?oc=5\" target=\"_blank\">TSMC Earnings: Higher Confidence in Artificial Intelligence Demand, but Guidance To Follow | モーニングスター</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-01T21:52:04"
+    },
+    {
+      "source": "Google News",
+      "title": "AIベンチマーク「Intelligence Index v5」発表、2つの新しいベンチマークと3つのアップグレード - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XdVdVdE80Y01VTUFCUFNmbmFiX0pwbFNUSGhqdFNjWEpiUGNTZnd1OWFJN2NVMi01dHUzc1RfNjU3MjB5VC01WW4tUWoxMzhOLV9scGlHdkpvVUM3SGpzRjE5b3Z0bDV0?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 29 Oct 2026 05:14:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XdVdVdE80Y01VTUFCUFNmbmFiX0pwbFNUSGhqdFNjWEpiUGNTZnd1OWFJN2NVMi01dHUzc1RfNjU3MjB5VC01WW4tUWoxMzhOLV9scGlHdkpvVUM3SGpzRjE5b3Z0bDV0?oc=5\" target=\"_blank\">AIベンチマーク「Intelligence Index v5」発表、2つの新しいベンチマークと3つのアップグレード</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GIGAZINE</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-01T21:52:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Raah.dev",
+      "url": "https://www.producthunt.com/products/raah-dev",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Track your revenue, analytics, and website performance </p> <p> <a href=\"https://www.producthunt.com/products/raah-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1295124?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-01T21:52:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "agentmash",
+      "url": "https://www.producthunt.com/products/agentmash",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> open-source multiplayer AI for teams' coding agents </p> <p> <a href=\"https://www.producthunt.com/products/agentmash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1299785?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-11-01T21:52:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ernd",
+      "url": "https://www.producthunt.com/products/ernd",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The credit card for the AI stack </p> <p> <a href=\"https://www.producthunt.com/products/ernd?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1299290?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-01T21:52:05"
     }
   ],
-  "updated_at": "2026-11-01T19:20:48.241520+09:00"
+  "updated_at": "2026-11-01T21:52:08.429351+09:00"
 }
