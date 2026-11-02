@@ -1,91 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "U.S. birth rate drops to record low, but older women are having more babies",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 26 Oct 2026 02:06:53 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-26T17:47:06"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
-      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 26 Oct 2026 01:03:39 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-26T17:47:06"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Sun, 25 Oct 2026 21:11:31 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-26T17:47:06"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "N8N Chat UI",
-      "url": "https://www.producthunt.com/products/n8n-chat-ui-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Beautiful, no-code, on-brand AI chat widgets for n8n </p> <p> <a href=\"https://www.producthunt.com/products/n8n-chat-ui-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1273287?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-26T17:47:15"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ManyAgents",
-      "url": "https://www.producthunt.com/products/manyagents",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Run a team of AI coding agents from one Mac window </p> <p> <a href=\"https://www.producthunt.com/products/manyagents?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1292599?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-26T17:47:15"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "CloudKnife",
-      "url": "https://www.producthunt.com/products/cloudknife",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Cut your cloud bill, not your performance </p> <p> <a href=\"https://www.producthunt.com/products/cloudknife?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1285083?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-26T17:47:15"
-    },
-    {
       "source": "Google News",
       "title": "The 38th Annual AAAI Conference on Artificial Intelligence レポート - NEC",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04ekdDajkyOVdwc2tlM2NHRzlJRmNNaGgwQzltXy1MMnVoZDIzS1EzSVhodldhNUE2eU5hdlRaMjFHOHJEWVBqTUowMFlIMmxEaGIxLTBFTGQxTHdk?oc=5",
@@ -2274,22 +2189,6 @@
       "collected_at": "2026-11-02T00:46:47"
     },
     {
-      "source": "Product Hunt",
-      "title": "Embage",
-      "url": "https://www.producthunt.com/products/embage",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Build agent for your customers, run workflows, analyzed. </p> <p> <a href=\"https://www.producthunt.com/products/embage?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1298096?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-11-02T00:46:50"
-    },
-    {
       "source": "HN Local AI",
       "title": "Mathematics has changed. Let's act like it",
       "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
@@ -2437,7 +2336,69 @@
         "revenue_score": 0
       },
       "collected_at": "2026-11-02T09:34:21"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "karpathy/nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "The best ChatGPT that $100 can buy.",
+      "extra": {
+        "stars_today": "325 stars today"
+      },
+      "collected_at": "2026-11-02T19:53:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Hyperresearch",
+      "url": "https://www.producthunt.com/products/hyperresearch",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Durable, verified agentic search </p> <p> <a href=\"https://www.producthunt.com/products/hyperresearch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1299009?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-11-02T19:53:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Display 1.0",
+      "url": "https://www.producthunt.com/products/display-dev",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Create docs and apps with any agent, in one workspace </p> <p> <a href=\"https://www.producthunt.com/products/display-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1298623?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-11-02T19:53:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Xmind 2027",
+      "url": "https://www.producthunt.com/products/xmind",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your mind map is now an AI thinking partner </p> <p> <a href=\"https://www.producthunt.com/products/xmind?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1300992?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-02T19:53:16"
     }
   ],
-  "updated_at": "2026-11-02T14:37:10.451487+09:00"
+  "updated_at": "2026-11-02T19:53:20.097641+09:00"
 }
