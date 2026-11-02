@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-01-claude-code-security-guide-hardware-comparison",
-    "title": "Claude Codeの偽拡張機能に注意！安全なAI開発環境の選び方と推奨GPU・Mac比較",
-    "url": "https://ai.negi-lab.com/posts/claude-code-security-guide-hardware-comparison/",
-    "category": "MONEY",
-    "viral_tags": "#ClaudeCode #ローカルLLM",
-    "tweet_text": "Claude Codeの偽VS Code拡張機能が拡散中。公式は「CLI」のみです。安易なインストールはソースコードやAPIキーの流出リスクあり。\n\n安全なAI開発環境を作るなら、公式CLIを使うか、VRAM 16GB以上のRTX環境でCline×ローカルLLMを回すのが正解。8GBメモリのMacやVRAM不足のGPUは、2025年の開発では「安物買い」になります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-11-01T03:43:24.314957+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-01-apple-silicon-mlx-local-llm-tutorial",
-    "title": "MLX 使い方 入門：Apple SiliconでローカルLLMを爆速で動かす実践ガイド",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "Apple Siliconのメモリ共有を最大活用できるMLXなら、Llama 3 8BがMacローカルで爆速動作。Python歴8年の私が試した結果、RTX 3060環境より取り回しが良い場面も。API代0円、プライバシー完全保護のAI環境はMacBook 16GB以上があれば30分で構築可能です。買う前にメモリ容量だけは死守して。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-11-01T05:25:03.240959+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-01-python-docker-ai-agent-sandbox-guide",
     "title": "PythonとDockerで作るAIエージェント用安全実行サンドボックス構築ガイド",
     "url": "https://ai.negi-lab.com/posts/python-docker-ai-agent-sandbox-guide/",
