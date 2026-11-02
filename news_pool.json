@@ -1,61 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "The Git Forge for Agent-Human Collaboration",
-      "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Mon, 26 Oct 2026 17:23:11 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-27T06:23:52"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 26 Oct 2026 16:35:44 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-27T06:23:52"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "Anthropic S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 26 Oct 2026 13:04:50 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-27T06:23:52"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "AI Bridge",
-      "url": "https://www.producthunt.com/products/ai-bridge",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Every AI coding agent on your Mac, in its place </p> <p> <a href=\"https://www.producthunt.com/products/ai-bridge?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1287693?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-27T06:24:01"
-    },
-    {
       "source": "Product Hunt",
       "title": "desigma",
       "url": "https://www.producthunt.com/products/desigma",
@@ -2312,22 +2257,6 @@
       "collected_at": "2026-11-03T00:03:32"
     },
     {
-      "source": "r/LocalLLaMA Weekly",
-      "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
-      "primary_category": "MONEY",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-11-02T16:42:32+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/\"> <img alt=\"Official Statement: Qwen Models Will Stick to Open Source to the End!\" src=\"https://preview.redd.it/cjcpaqzw98zh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c477e7e4bf17132d9a49bb526dc5f5eef68501ff\" title=\"Official Statement: Qwen Models Will Stick to Open Source to the End!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>There were some rumour",
-      "extra": {},
-      "collected_at": "2026-11-03T04:12:35"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
       "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
@@ -2386,7 +2315,64 @@
         "revenue_score": 0
       },
       "collected_at": "2026-11-03T04:12:38"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+      "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 02 Nov 2026 16:25:33 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-03T06:33:36"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "GPT-Rosalind-6 System Card Addendum",
+      "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 02 Nov 2026 14:44:02 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-03T06:33:36"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Mon, 02 Nov 2026 19:19:17 +0000",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-03T06:33:38"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "beacon.sh",
+      "url": "https://www.producthunt.com/products/asymptotelabs",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Open-source self-improving memory for AI coding agents </p> <p> <a href=\"https://www.producthunt.com/products/asymptotelabs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1292351?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-11-03T06:33:39"
     }
   ],
-  "updated_at": "2026-11-03T04:12:41.623114+09:00"
+  "updated_at": "2026-11-03T06:33:43.001633+09:00"
 }
