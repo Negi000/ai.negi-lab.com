@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-11-04-heretic-2-released-localllm-gpu-guide.jpg",
     "created_at": "2026-11-04T05:36:28.569106+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-04-apple-silicon-mlx-local-llm-tutorial",
+    "title": "MacでLLMを爆速化するMLX入門：Apple Siliconの真力を引き出す環境構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple Siliconの真価はMLXでこそ発揮される。Llama 3 8BがMacBookで秒間50トークン超えで動く時代。もはや推論に高額なクラウドGPUは不要です。重要なのはメモリ容量。32GB以上あれば、実務レベルのRAG環境がローカルで完結します。まずはmlx-lmを叩いて、この爆速レスポンスを体感してほしい。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-04-apple-silicon-mlx-local-llm-tutorial.jpg",
+    "created_at": "2026-11-04T07:13:04.971374+09:00",
+    "posted": false
   }
 ]
