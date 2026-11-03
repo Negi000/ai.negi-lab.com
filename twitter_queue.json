@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-02-local-llm-hardware-guide-sam-altman-response",
-    "title": "ローカルLLM環境の選び方と比較！Sam Altmanの「ローカル不要論」を実務視点で斬る",
-    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-guide-sam-altman-response/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "Sam Altmanの「ローカル推論は資源の無駄」発言。マクロな効率は正論でも、実務家の判断は別です。API代を垂れ流すより、VRAM 16GBのRTX 4060 Tiや32GBメモリのMacに投資した方が、開発体験もコストも圧倒的に改善する。中途半端なスペックで妥協するのが一番の無駄遣い。買う前に見るべき基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-02-local-llm-hardware-guide-sam-altman-response.jpg",
-    "created_at": "2026-11-02T04:09:06.090637+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-02-apple-silicon-mlx-local-llm-tutorial",
-    "title": "Apple SiliconでLLMを爆速にするMLX入門！Pythonでの動かし方と環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "MacのローカルLLMならMLX一択。PyTorchより圧倒的に速く、Llama 3 8Bが秒間40トークン以上で爆走する。メモリ16GBあれば十分「仕事」に使えるレベル。\n導入は pip install mlx-lm だけでOK。API代を気にせず機密情報を流し込める安心感は、一度体験すると戻れない。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-02-apple-silicon-mlx-local-llm-tutorial.jpg",
-    "created_at": "2026-11-02T05:58:46.689282+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-02-mlx-apple-silicon-local-llm-tutorial",
     "title": "MLX 使い方 Apple Silicon ローカルLLM 入門",
     "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
