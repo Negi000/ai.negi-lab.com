@@ -1,65 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 27 Oct 2026 15:28:26 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-28T02:45:45"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 27 Oct 2026 17:08:08 +0000",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-28T02:45:54"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ContextGem 1.0",
-      "url": "https://www.producthunt.com/products/contextgem",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Decision models join LLMs to extract data from documents </p> <p> <a href=\"https://www.producthunt.com/products/contextgem?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1294110?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-28T02:45:55"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Paddock",
-      "url": "https://www.producthunt.com/products/paddock-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Computers and sandboxes for your agents </p> <p> <a href=\"https://www.producthunt.com/products/paddock-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1294009?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-28T02:45:55"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
       "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
@@ -2443,7 +2384,54 @@
         "revenue_score": 0
       },
       "collected_at": "2026-11-04T01:50:37"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Heretic 2.0 released: Model modification for everyone",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "NEWS",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-11-01T13:16:24+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Dear fellow Llamas,</p> <p>after almost 5 months of development, I finally have the pleasure of announcing to you the immediate availability of the biggest Heretic release ever, <strong>Heretic 2.0: <a href=\"https://github.com/p-e-w/heretic\">https://github.com/p-e-w/heretic</a></strong></p> <p>Heretic is the leading software for removing censorship from language models. It now boasts 37k GitHub stars and more than 8,500 models on Hugging Face, with 88 million(!!",
+      "extra": {},
+      "collected_at": "2026-11-04T04:19:18"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 03 Nov 2026 18:42:16 +0000",
+      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-04T04:19:27"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "One Roof",
+      "url": "https://www.producthunt.com/products/one-roof",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A new way to build with agents. You stay in charge. </p> <p> <a href=\"https://www.producthunt.com/products/one-roof?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1302296?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-11-04T04:19:27"
     }
   ],
-  "updated_at": "2026-11-04T01:50:40.830621+09:00"
+  "updated_at": "2026-11-04T04:19:31.352304+09:00"
 }
