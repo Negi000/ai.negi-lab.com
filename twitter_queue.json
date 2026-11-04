@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-11-04-teamily-ai-multi-agent-workflow-review.jpg",
     "created_at": "2026-11-04T14:53:05.286773+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-04-nvidia-auto-ontology-knowledge-graph-rag-guide",
+    "title": "NVIDIA/auto-ontology 使い方：RAGの限界を突破するナレッジグラフ自動構築フレームワーク",
+    "url": "https://ai.negi-lab.com/posts/nvidia-auto-ontology-knowledge-graph-rag-guide/",
+    "category": "TOOL",
+    "viral_tags": "#ナレッジグラフ #RAG",
+    "tweet_text": "RAGの「なんとなく似た回答」に限界を感じているなら、NVIDIA/auto-ontologyを試すべき。非構造化データからナレッジグラフを自動生成し、決定論的な推論レイヤーを構築できる。RTX 4090環境で試したが、エンティティ間の関係性が明示されるためハルシネーション制御が格段に楽になる。精度重視のエージェント開発にはこれ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-04-nvidia-auto-ontology-knowledge-graph-rag-guide.jpg",
+    "created_at": "2026-11-04T22:57:44.495562+09:00",
+    "posted": false
   }
 ]
