@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-05-local-llm-coding-hardware-comparison-revolut.jpg",
     "created_at": "2026-11-05T05:55:17.279790+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-05-ollama-open-webui-local-llm-setup-guide",
+    "title": "OllamaとOpen WebUIで自分専用の「安全性・速度・機能」を兼ね備えた最強ローカルLLM環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "RTX 4090を2枚挿して分かったが、ローカルLLM環境は「Ollama + Open WebUI」が最終回答。\nChatGPT Plusの月$20を払う前に、VRAM 8GB以上のグラボかMac 16GB以上があるなら今すぐ試すべき。\n機密資料のPDFを放り込んでも外部に漏れない、自分だけの完全閉塞AI環境が30分で完成する。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-05-ollama-open-webui-local-llm-setup-guide.jpg",
+    "created_at": "2026-11-05T07:27:11.911664+09:00",
+    "posted": false
   }
 ]
