@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-11-05-siri-recaps-apple-intelligence-notification-summary.jpg",
     "created_at": "2026-11-05T01:53:11.131272+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-05-pr-agent-review-hardware-guide-rtx-vram",
+    "title": "AIによるPRレビュー「CodiumAI pr-agent」比較・選び方ガイド｜GitHub Copilotとの違いと推奨ハードウェア",
+    "url": "https://ai.negi-lab.com/posts/pr-agent-review-hardware-guide-rtx-vram/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #エンジニア",
+    "tweet_text": "AIにPRレビューを任せるpr-agent、GitHub Copilot超えの指摘を出すには「VRAM 16GB」が分岐点。8GBでは最新のコーディングモデルが入り切らず、レビューの質が劇的に落ちる。実務で使うならRTX 4060 Ti 16GBかApple Silicon 32GB以上。安易なスペック妥協は「AIが使えない」という誤解を生むだけ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-05-pr-agent-review-hardware-guide-rtx-vram.jpg",
+    "created_at": "2026-11-05T04:34:48.614401+09:00",
+    "posted": false
   }
 ]
