@@ -1,77 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 27 Oct 2026 20:50:42 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-28T09:25:22"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Tue, 27 Oct 2026 19:55:06 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-28T09:25:22"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 27 Oct 2026 23:34:27 +0000",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-28T09:25:31"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "NINX",
-      "url": "https://www.producthunt.com/products/ninx-2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Private On-device AI, connected tools, & creative workflows </p> <p> <a href=\"https://www.producthunt.com/products/ninx-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1202834?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-28T09:25:32"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Orbit",
-      "url": "https://www.producthunt.com/products/orbit-app-blocker",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Stop doomscrolling. Earn every app unlock. </p> <p> <a href=\"https://www.producthunt.com/products/orbit-app-blocker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1280377?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-28T09:25:32"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
       "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
@@ -2416,7 +2345,53 @@
         "revenue_score": 0
       },
       "collected_at": "2026-11-04T07:12:36"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 03 Nov 2026 22:41:03 +0000",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-04T10:13:51"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "BRCKS Chat",
+      "url": "https://www.producthunt.com/products/brcks",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The chat app for building sites. Nothing gets lost. </p> <p> <a href=\"https://www.producthunt.com/products/brcks?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1297315?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-04T10:13:52"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Synter Canvas",
+      "url": "https://www.producthunt.com/products/synter-canvas",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your AI agent runs ads across 30+ ad platforms </p> <p> <a href=\"https://www.producthunt.com/products/synter-canvas?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1286920?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-11-04T10:13:52"
     }
   ],
-  "updated_at": "2026-11-04T07:12:39.813923+09:00"
+  "updated_at": "2026-11-04T10:13:55.566627+09:00"
 }
