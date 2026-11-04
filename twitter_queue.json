@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-11-05-pr-agent-review-hardware-guide-rtx-vram.jpg",
     "created_at": "2026-11-05T04:34:48.614401+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-05-local-llm-coding-hardware-comparison-revolut",
+    "title": "ローカルLLMでClaude Codeを代替？コスト10分の1を実現するハードウェアの選び方と比較",
+    "url": "https://ai.negi-lab.com/posts/local-llm-coding-hardware-comparison-revolut/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #エンジニア",
+    "tweet_text": "英RevolutがClaudeから自社ホストAIへ移行し、コーディングコストを90%削減。この流れは個人開発者にも波及します。\n\n鍵は「VRAM 16GB」の確保。RTX 4060 Ti 16GBなら、API費用を抑えつつ爆速な開発環境が手に入ります。今買うべきGPUとMacの境界線を、実務目線で整理しました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-05-local-llm-coding-hardware-comparison-revolut.jpg",
+    "created_at": "2026-11-05T05:55:17.279790+09:00",
+    "posted": false
   }
 ]
