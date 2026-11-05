@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Claude Duet is the future of chatbot interaction",
-      "url": "https://fig.blue/posts/duet-is-the-future/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 29 Oct 2026 17:24:25 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-30T06:33:24"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 29 Oct 2026 20:08:31 +0000",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-30T06:33:33"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
       "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
@@ -2363,7 +2335,52 @@
         "revenue_score": 3
       },
       "collected_at": "2026-11-06T06:11:51"
+    },
+    {
+      "source": "r/LocalLLM",
+      "title": "QWEN 3.8 FN - 8bit FP quant - 96.32 tokens/s - Context of 95k - $1500 hardware",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xoeqod/qwen_38_fn_8bit_fp_quant_9632_tokenss_context_of/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY",
+        "TOOL",
+        "GUIDE"
+      ],
+      "published": "2026-11-05T09:53:27+00:00",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLM/comments/1xoeqod/qwen_38_fn_8bit_fp_quant_9632_tokenss_context_of/\"> <img alt=\"QWEN 3.8 FN - 8bit FP quant - 96.32 tokens/s - Context of 95k - $1500 hardware\" src=\"https://preview.redd.it/t5hsb39bjrzh1.jpeg?width=140&amp;height=105&amp;auto=webp&amp;s=582f29e971cef6d2fe3f20d268717c79ca7ae9fe\" title=\"QWEN 3.8 FN - 8bit FP quant - 96.32 tokens/s - Context of 95k - $1500 hardware\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Did som",
+      "extra": {},
+      "collected_at": "2026-11-06T07:34:01"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tao Browser",
+      "url": "https://www.producthunt.com/products/tao-browser",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Private browser with a separate login for every company </p> <p> <a href=\"https://www.producthunt.com/products/tao-browser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1302428?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-06T07:34:03"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Bambu Lab H3C",
+      "url": "https://www.producthunt.com/products/bambu-lab-h3c",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Print multi-material projects faster and easier </p> <p> <a href=\"https://www.producthunt.com/products/bambu-lab-h3c?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1303644?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-06T07:34:03"
     }
   ],
-  "updated_at": "2026-11-06T06:11:54.802283+09:00"
+  "updated_at": "2026-11-06T07:34:06.782820+09:00"
 }
