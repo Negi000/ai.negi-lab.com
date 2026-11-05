@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-05-box-nvidia-nemotron-agent-retrieval-system.jpg",
     "created_at": "2026-11-05T23:16:38.054750+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-06-qwen4-leak-local-llm-gpu-mac-comparison",
+    "title": "Qwen4リークで激震！120Bモデルを動かすローカルLLM環境の選び方とおすすめGPU・Mac比較",
+    "url": "https://ai.negi-lab.com/posts/qwen4-leak-local-llm-gpu-mac-comparison/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #Qwen4",
+    "tweet_text": "AlibabaのQwen4情報がリーク。120Bモデルの存在が判明し、ローカルLLM環境の「勝ち筋」が明確になりました。\nもはやVRAM 16GBは最低ライン。120Bを実用的に回すならMac Studioの128GB盛りか、RTX 4090の2枚挿しが必須です。\n「とりあえず動く」と「仕事で使える」の壁は厚い。失敗しない機材選びの基準をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-06-qwen4-leak-local-llm-gpu-mac-comparison.jpg",
+    "created_at": "2026-11-06T02:07:09.918724+09:00",
+    "posted": false
   }
 ]
