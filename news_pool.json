@@ -1,64 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 29 Oct 2026 14:57:55 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-30T03:15:19"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Thu, 29 Oct 2026 17:54:38 +0000",
-      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-30T03:15:27"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "IFTTT.ai",
-      "url": "https://www.producthunt.com/products/ifttt",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The easiest way to automate anything </p> <p> <a href=\"https://www.producthunt.com/products/ifttt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1296248?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-30T03:15:28"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Suno MCP",
-      "url": "https://www.producthunt.com/products/suno",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The music layerfor your AI stack </p> <p> <a href=\"https://www.producthunt.com/products/suno?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"http://www.producthunt.com/r/p/1296260?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-30T03:15:28"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Meta quietly launches an AI fashion app called Style Sketch",
       "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
@@ -1573,23 +1515,6 @@
       "collected_at": "2026-11-03T22:50:01"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-11-03T03:55:43+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/\"> <img alt=\"Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b\" src=\"https://external-preview.redd.it/rZinDhLetYEVHArY_maRo38c3OtJmbJ7LBLdHOON_YE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=25b2094ae8df9ad8a78e530a7616d0675f338935\" title=\"Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b\" /> </a> <",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-11-03T22:50:01"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
       "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
@@ -2363,7 +2288,78 @@
         "revenue_score": 3
       },
       "collected_at": "2026-11-06T02:06:42"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 05 Nov 2026 07:44:30 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-06T04:43:30"
+    },
+    {
+      "source": "r/LocalLLaMA Weekly",
+      "title": "Qwen3.8-27B has become unuseable recently",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently/",
+      "primary_category": "MONEY",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "2026-11-05T09:31:10+00:00",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>When it came out, I downloaded a Q4 quant of qwen3.8-27b and ran it using llama.cpp on my RTX 4090 and it was incredible. It could handle practically anything I threw at it, the most complex tasks and bugfixes. </p> <p>But lately it just keeps messing up and failing at the most basic of tasks or just straight up forgetting instructions. I'm telling you, they quantized it. They probably secretly nerfed it and made it worse so qwen4 looks better. And it got lazy t",
+      "extra": {},
+      "collected_at": "2026-11-06T04:43:30"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 05 Nov 2026 19:12:39 +0000",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-06T04:43:38"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AI Employees by Easy-Peasy.AI",
+      "url": "https://www.producthunt.com/products/easy-peasy-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Hire an AI team that splits the work and asks before sending </p> <p> <a href=\"https://www.producthunt.com/products/easy-peasy-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1303820?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-06T04:43:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Stitch.ai",
+      "url": "https://www.producthunt.com/products/stitch-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your AI workspace for mail, calendar, notes, tasks and more </p> <p> <a href=\"https://www.producthunt.com/products/stitch-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1302492?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-06T04:43:39"
     }
   ],
-  "updated_at": "2026-11-06T02:06:45.689106+09:00"
+  "updated_at": "2026-11-06T04:43:42.377286+09:00"
 }
