@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-04-mistral-large-4-le-chonk-local-llm-guide",
-    "title": "Mistral Large 4 (Le Chonk) 公開！最強ローカルLLMを動かすGPU選びとおすすめPC比較",
-    "url": "https://ai.negi-lab.com/posts/mistral-large-4-le-chonk-local-llm-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #MistralAI",
-    "tweet_text": "Mistral Large 4 (Le Chonk)をローカルで動かすなら、中途半端なスペックはゴミ箱行きです。4bit量子化でもVRAM 80GBが必要な怪物を仕事で使うなら、Mac Studio 192GBモデルが最短ルート。RTX 4090単体では歯が立ちません。ハード選びで失敗したくないエンジニア向けの判断基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-04-mistral-large-4-le-chonk-local-llm-guide.jpg",
-    "created_at": "2026-11-04T04:19:54.471350+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-04-heretic-2-released-localllm-gpu-guide",
-    "title": "ローカルLLM開発に必須？Heretic 2.0で検閲解除モデルを作るためのGPU比較と選び方",
-    "url": "https://ai.negi-lab.com/posts/heretic-2-released-localllm-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "Heretic 2.0の登場でローカルLLMの「検閲解除」が実用段階に入りました。Llama 3やGemmaの過剰なガードレールを自力で外せるのは、特定ドメインの開発者にとって革命的。ただしVRAM 16GBが最低ライン、70Bクラスを狙うなら48GB必須という「VRAMの壁」は依然として高い。失敗しないためのGPU選びを実体験ベースでまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-04-heretic-2-released-localllm-gpu-guide.jpg",
-    "created_at": "2026-11-04T05:36:28.569106+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-04-apple-silicon-mlx-local-llm-tutorial",
-    "title": "MacでLLMを爆速化するMLX入門：Apple Siliconの真力を引き出す環境構築ガイド",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Siliconの真価はMLXでこそ発揮される。Llama 3 8BがMacBookで秒間50トークン超えで動く時代。もはや推論に高額なクラウドGPUは不要です。重要なのはメモリ容量。32GB以上あれば、実務レベルのRAG環境がローカルで完結します。まずはmlx-lmを叩いて、この爆速レスポンスを体感してほしい。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-04-apple-silicon-mlx-local-llm-tutorial.jpg",
-    "created_at": "2026-11-04T07:13:04.971374+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-04-ai-agent-secure-sandbox-python-e2b",
     "title": "AIエージェントに「コードを書いて実行させる」機能を実装する際、自身のPC環境を破壊されないための安全なサンドボックスをPythonで構築します。",
     "url": "https://ai.negi-lab.com/posts/ai-agent-secure-sandbox-python-e2b/",
