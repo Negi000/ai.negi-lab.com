@@ -1,75 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Companies",
-      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Thu, 29 Oct 2026 00:30:37 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-29T14:24:28"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
-      "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Thu, 29 Oct 2026 00:16:08 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-29T14:24:28"
-    },
-    {
-      "source": "HN AI Companies",
-      "title": "AI execs may be too out of touch to build for the general public",
-      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Wed, 28 Oct 2026 22:27:46 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-10-29T14:24:28"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "WebAI by Opera",
-      "url": "https://www.producthunt.com/products/opera",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Let websites use AI running on your computer </p> <p> <a href=\"https://www.producthunt.com/products/opera?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1295513?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-29T14:24:38"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Tulu",
-      "url": "https://www.producthunt.com/products/tulu",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Autonomous marketing operations & analytics for SMBs </p> <p> <a href=\"https://www.producthunt.com/products/tulu?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1200683?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-29T14:24:38"
-    },
-    {
       "source": "r/LocalLLaMA Weekly",
       "title": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
@@ -2383,7 +2314,68 @@
         "revenue_score": 0
       },
       "collected_at": "2026-11-05T10:26:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Thu, 05 Nov 2026 01:26:22 +0000",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-05T15:13:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "TrackEdge",
+      "url": "https://www.producthunt.com/products/trackedge-2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Hidden AI buttons on your MacBook’s trackpad </p> <p> <a href=\"https://www.producthunt.com/products/trackedge-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1303240?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-11-05T15:13:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "CardPointers 8",
+      "url": "https://www.producthunt.com/products/cardpointers",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Earn more rewards from your credit cards every day </p> <p> <a href=\"https://www.producthunt.com/products/cardpointers?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1238846?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-05T15:13:14"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Fedora Linux 45",
+      "url": "https://www.producthunt.com/products/fedora-linux-45",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> GNOME 51: Wayland fixes, oo7 keys, and modern toolchains. </p> <p> <a href=\"https://www.producthunt.com/products/fedora-linux-45?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1303614?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-05T15:13:14"
     }
   ],
-  "updated_at": "2026-11-05T10:26:07.167134+09:00"
+  "updated_at": "2026-11-05T15:13:18.259279+09:00"
 }
