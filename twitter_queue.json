@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-05-ollama-open-webui-local-llm-tutorial",
-    "title": "OllamaとOpen WebUIでプライベートなChatGPT環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #個人開発",
-    "tweet_text": "RTX 4090を2枚挿して24時間回している私が、現時点で最適解と言えるローカルLLM構築手順をまとめました。OllamaとOpen WebUIの組み合わせなら、VRAM 12GBあればRAG（ドキュメント検索）込みの自分専用ChatGPTが30分で完成します。機密情報を外に出したくないエンジニアは、Dockerでこの環境を作っておくのが正解です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-05-ollama-open-webui-local-llm-tutorial.jpg",
-    "created_at": "2026-11-05T10:26:39.388574+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-05-trackedge-macbook-trackpad-ai-review",
-    "title": "TrackEdge レビュー：MacBookのトラックパッドをAIコントローラーに変える方法",
-    "url": "https://ai.negi-lab.com/posts/trackedge-macbook-trackpad-ai-review/",
-    "category": "TOOL",
-    "viral_tags": "#MacBook #生産性向上",
-    "tweet_text": "MacBookのトラックパッドに「隠しボタン」を配置してAIを爆速化するTrackEdgeが実用的。\nコピペしてAIアプリを開く3〜5秒のロスが、角を押し込むだけの0.5秒に変わる。\n\n・四隅にGPT-4やLlama3を割り当て\n・画面UIを汚さないゼロUI設計\n・外出先での開発効率が劇的に向上\n\nキーボードショートカットを覚えるより「身体で覚える」方が速い。トラックパッド派なら導入価値あり。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-05-trackedge-macbook-trackpad-ai-review.jpg",
-    "created_at": "2026-11-05T15:13:42.157696+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-05-maritime-ai-agent-cloud-computer-review",
     "title": "Maritime 使い方レビュー：AIエージェント専用クラウド実行環境の実力",
     "url": "https://ai.negi-lab.com/posts/maritime-ai-agent-cloud-computer-review/",
