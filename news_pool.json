@@ -1,51 +1,6 @@
 {
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 30 Oct 2026 17:47:12 +0000",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-10-31T02:52:12"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "SparkBots AI (Powered by Jev)",
-      "url": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Instantly extract key details and analyze any webpage or PDF </p> <p> <a href=\"https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1294142?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-31T02:52:12"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Vaani Developer Platform",
-      "url": "https://www.producthunt.com/products/vaani-developer-platfrom",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The only voice AI harness that you'll ever need </p> <p> <a href=\"https://www.producthunt.com/products/vaani-developer-platfrom?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1295420?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-31T02:52:12"
-    },
-    {
       "source": "HN AI Hot",
       "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
       "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
@@ -2466,7 +2421,78 @@
         "revenue_score": 6
       },
       "collected_at": "2026-11-07T01:36:45"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 06 Nov 2026 13:35:27 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-07T04:06:51"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 06 Nov 2026 09:13:30 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-07T04:06:51"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "Fri, 06 Nov 2026 18:44:38 +0000",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-07T04:06:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Magic Wonders",
+      "url": "https://www.producthunt.com/products/magic-wonders",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A smart wand to duel, control your home and create magic </p> <p> <a href=\"https://www.producthunt.com/products/magic-wonders?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1305877?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-07T04:06:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Native Tasks for Obsidian",
+      "url": "https://www.producthunt.com/products/native-tasks-for-obsidian",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A native Mac app for your Obsidian tasks </p> <p> <a href=\"https://www.producthunt.com/products/native-tasks-for-obsidian?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1298963?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-07T04:06:54"
     }
   ],
-  "updated_at": "2026-11-07T01:36:49.011036+09:00"
+  "updated_at": "2026-11-07T04:06:57.959531+09:00"
 }

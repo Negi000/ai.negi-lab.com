@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-11-06-palo-alto-networks-clutch-ai-agent-security-acquisition.jpg",
     "created_at": "2026-11-06T19:43:17.776770+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-07-claude-code-privacy-local-llm-guide",
+    "title": "Claude Codeのプライバシー問題とAIコーディング環境の選び方 失敗しないローカルLLM構成",
+    "url": "https://ai.negi-lab.com/posts/claude-code-privacy-local-llm-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #ClaudeCode",
+    "tweet_text": "Claude Codeが外部サイトへメアドを送信する仕様が話題だけど、これからは「クラウド依存のリスク」を真剣に考える時期。実務でAIコーディングを回すなら、VRAM 16GB以上のRTXかメモリ64GB以上のMacを確保して、ClineやAiderでローカルLLMを併用するのが一番安全。自由度とプライバシーはハードウェアへの投資で買える。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-07-claude-code-privacy-local-llm-guide.jpg",
+    "created_at": "2026-11-07T04:07:24.482405+09:00",
+    "posted": false
   }
 ]
