@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-04-nvidia-auto-ontology-knowledge-graph-rag-guide",
-    "title": "NVIDIA/auto-ontology 使い方：RAGの限界を突破するナレッジグラフ自動構築フレームワーク",
-    "url": "https://ai.negi-lab.com/posts/nvidia-auto-ontology-knowledge-graph-rag-guide/",
-    "category": "TOOL",
-    "viral_tags": "#ナレッジグラフ #RAG",
-    "tweet_text": "RAGの「なんとなく似た回答」に限界を感じているなら、NVIDIA/auto-ontologyを試すべき。非構造化データからナレッジグラフを自動生成し、決定論的な推論レイヤーを構築できる。RTX 4090環境で試したが、エンティティ間の関係性が明示されるためハルシネーション制御が格段に楽になる。精度重視のエージェント開発にはこれ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-04-nvidia-auto-ontology-knowledge-graph-rag-guide.jpg",
-    "created_at": "2026-11-04T22:57:44.495562+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-05-siri-recaps-apple-intelligence-notification-summary",
-    "title": "通知要約の概念を変えるSiri Recapsの実力とApple Intelligenceが狙うOSレイヤーのAI統合",
-    "url": "https://ai.negi-lab.com/posts/siri-recaps-apple-intelligence-notification-summary/",
-    "category": "NEWS",
-    "viral_tags": "#AppleIntelligence #iPhone16",
-    "tweet_text": "iPhoneの通知体験が激変する。Apple Intelligenceの「Siri Recaps」を検証。オンデバイスLLMが全通知を0.2秒で解析し、未読の山を瞬時に要約。\nクラウドにデータを送らない Private Cloud Compute の実装が実務利用の鍵。\n「通知を読む」から「要約で判断する」時代へ。開発者はApp Intents対応が急務です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-05-siri-recaps-apple-intelligence-notification-summary.jpg",
-    "created_at": "2026-11-05T01:53:11.131272+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-05-pr-agent-review-hardware-guide-rtx-vram",
     "title": "AIによるPRレビュー「CodiumAI pr-agent」比較・選び方ガイド｜GitHub Copilotとの違いと推奨ハードウェア",
     "url": "https://ai.negi-lab.com/posts/pr-agent-review-hardware-guide-rtx-vram/",
