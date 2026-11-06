@@ -15289,5 +15289,19 @@
     "image_path": "/images/posts/2026-11-06-wingmen-ai-agentic-outreach-review.jpg",
     "created_at": "2026-11-06T15:08:00.504588+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-06-palo-alto-networks-clutch-ai-agent-security-acquisition",
+    "title": "Palo Alto NetworksのClutch買収交渉から考えるAIエージェントの特権管理リスク",
+    "url": "https://ai.negi-lab.com/posts/palo-alto-networks-clutch-ai-agent-security-acquisition/",
+    "category": "NEWS",
+    "viral_tags": "#AIエージェント #サイバーセキュリティ",
+    "tweet_text": "Palo Alto NetworksがAIエージェント保護のClutchを約750億円で買収交渉中。直近評価額から6倍の跳ね上がり。\n\nAIブームは「生成」から「実行（エージェント）」へ移行し、最大のリスクはプロンプトインジェクションによる自律的な特権乱用になります。Administrator権限でエージェントを動かしている現場は、今すぐ最小権限への移行を。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-06-palo-alto-networks-clutch-ai-agent-security-acquisition.jpg",
+    "created_at": "2026-11-06T19:43:17.776770+09:00",
+    "posted": false
   }
 ]
