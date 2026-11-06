@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "GitHub Trending",
-      "title": "kirodotdev/KiroCrew",
-      "url": "https://github.com/kirodotdev/KiroCrew",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "A persistent workspace for development work that self-improves and continues beyond one session.",
-      "extra": {
-        "stars_today": "19 stars today"
-      },
-      "collected_at": "2026-10-30T21:21:59"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "MCP Server by XWiki",
-      "url": "https://www.producthunt.com/products/xwiki",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Give your AI your wiki's knowledge while keeping the control </p> <p> <a href=\"https://www.producthunt.com/products/xwiki?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1286355?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-10-30T21:22:00"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Nocto",
-      "url": "https://www.producthunt.com/products/nocto",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Your MacBook notch, finally useful </p> <p> <a href=\"https://www.producthunt.com/products/nocto?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1297697?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-10-30T21:22:00"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
       "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
@@ -2331,21 +2285,6 @@
       "collected_at": "2026-11-06T15:07:29"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 06 Nov 2026 06:28:32 +0000",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-11-06T19:42:58"
-    },
-    {
       "source": "Product Hunt",
       "title": "AgentTM",
       "url": "https://www.producthunt.com/products/agenttm",
@@ -2406,7 +2345,128 @@
         "revenue_score": 7
       },
       "collected_at": "2026-11-06T19:43:01"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "psf/requests",
+      "url": "https://github.com/psf/requests",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "A simple, yet elegant, HTTP library.",
+      "extra": {
+        "stars_today": "126 stars today"
+      },
+      "collected_at": "2026-11-06T22:55:33"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "extra": {
+        "stars_today": "16 stars today"
+      },
+      "collected_at": "2026-11-06T22:55:33"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "python-poetry/poetry",
+      "url": "https://github.com/python-poetry/poetry",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Python packaging and dependency management made easy",
+      "extra": {
+        "stars_today": "129 stars today"
+      },
+      "collected_at": "2026-11-06T22:55:33"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 06 Nov 2026 13:02:16 +0000",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-06T22:55:33"
+    },
+    {
+      "source": "Google News",
+      "title": "『Artificial』、アンドリュー・ガーフィールド出演のOpenAI映画が劇場公開へ - Sortir à Paris",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLXdzZ2l1LTMwNzNoeC1CZDN4UUxZdmdmRmtPMmZxdnl4aDJ3R1JFNVdlYmxtaHluc1RyeTBGaDJfd21IOGMxOGtjT0dlN0I3eERlNzJCVXY1RmpfV1M2Zl9xWmNmaDY4dUZRcXNmYWhZY1dGR3F4Y1M2c2pzQXpuMFdjb041R1p4ek9TQ0YtM2FBaFVpcURYSTNjWXYzTjc3Z0hDSmRWRTJFX0xQNWlBVHVsTEdvWFJsV0pUWDdCTVgzMjNvalB2TnhkTzV6MFFKUDl0WHVvTUdzTU1wNk9tRTQxdHRsUmFyZzR5Mmt6Zl9BTHpZMTFqeUw2Qks?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 05 Nov 2026 05:20:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPLXdzZ2l1LTMwNzNoeC1CZDN4UUxZdmdmRmtPMmZxdnl4aDJ3R1JFNVdlYmxtaHluc1RyeTBGaDJfd21IOGMxOGtjT0dlN0I3eERlNzJCVXY1RmpfV1M2Zl9xWmNmaDY4dUZRcXNmYWhZY1dGR3F4Y1M2c2pzQXpuMFdjb041R1p4ek9TQ0YtM2FBaFVpcURYSTNjWXYzTjc3Z0hDSmRWRTJFX0xQNWlBVHVsTEdvWFJsV0pUWDdCTVgzMjNvalB2TnhkTzV6MFFKUDl0WHVvTUdzTU1wNk9tRTQxdHRsUmFyZzR5Mmt6Zl9BTHpZMTFqeUw2Qks?oc=5\" target=\"_blank\">『Artificial』、アンドリュー・ガーフィールド出演のOpenAI映画が劇場公開へ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sortir",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-06T22:55:33"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tobira Site Agent",
+      "url": "https://www.producthunt.com/products/tobira-ai",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn your website into an AI agent that sells to AI agents </p> <p> <a href=\"https://www.producthunt.com/products/tobira-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1291263?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-11-06T22:55:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "EdgeBar",
+      "url": "https://www.producthunt.com/products/edgebar",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Control your Mac’s volume and brightness from the trackpad </p> <p> <a href=\"https://www.producthunt.com/products/edgebar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1301588?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-06T22:55:34"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Turnstone",
+      "url": "https://www.producthunt.com/products/turnstone",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Grok Bot alternative that runs on your AI, completely free </p> <p> <a href=\"https://www.producthunt.com/products/turnstone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1227308?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-06T22:55:34"
     }
   ],
-  "updated_at": "2026-11-06T19:43:01.143695+09:00"
+  "updated_at": "2026-11-06T22:55:37.446933+09:00"
 }
