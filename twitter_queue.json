@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-05-pr-agent-review-hardware-guide-rtx-vram",
-    "title": "AIによるPRレビュー「CodiumAI pr-agent」比較・選び方ガイド｜GitHub Copilotとの違いと推奨ハードウェア",
-    "url": "https://ai.negi-lab.com/posts/pr-agent-review-hardware-guide-rtx-vram/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "AIにPRレビューを任せるpr-agent、GitHub Copilot超えの指摘を出すには「VRAM 16GB」が分岐点。8GBでは最新のコーディングモデルが入り切らず、レビューの質が劇的に落ちる。実務で使うならRTX 4060 Ti 16GBかApple Silicon 32GB以上。安易なスペック妥協は「AIが使えない」という誤解を生むだけ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-05-pr-agent-review-hardware-guide-rtx-vram.jpg",
-    "created_at": "2026-11-05T04:34:48.614401+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-05-local-llm-coding-hardware-comparison-revolut",
-    "title": "ローカルLLMでClaude Codeを代替？コスト10分の1を実現するハードウェアの選び方と比較",
-    "url": "https://ai.negi-lab.com/posts/local-llm-coding-hardware-comparison-revolut/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "英RevolutがClaudeから自社ホストAIへ移行し、コーディングコストを90%削減。この流れは個人開発者にも波及します。\n\n鍵は「VRAM 16GB」の確保。RTX 4060 Ti 16GBなら、API費用を抑えつつ爆速な開発環境が手に入ります。今買うべきGPUとMacの境界線を、実務目線で整理しました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-05-local-llm-coding-hardware-comparison-revolut.jpg",
-    "created_at": "2026-11-05T05:55:17.279790+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-05-ollama-open-webui-local-llm-setup-guide",
-    "title": "OllamaとOpen WebUIで自分専用の「安全性・速度・機能」を兼ね備えた最強ローカルLLM環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "RTX 4090を2枚挿して分かったが、ローカルLLM環境は「Ollama + Open WebUI」が最終回答。\nChatGPT Plusの月$20を払う前に、VRAM 8GB以上のグラボかMac 16GB以上があるなら今すぐ試すべき。\n機密資料のPDFを放り込んでも外部に漏れない、自分だけの完全閉塞AI環境が30分で完成する。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-05-ollama-open-webui-local-llm-setup-guide.jpg",
-    "created_at": "2026-11-05T07:27:11.911664+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-05-ollama-open-webui-local-llm-tutorial",
     "title": "OllamaとOpen WebUIでプライベートなChatGPT環境を構築する方法",
     "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-tutorial/",
