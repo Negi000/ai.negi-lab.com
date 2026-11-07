@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-08-gpt-6-cyber-hardware-guide-rtx-mac.jpg",
     "created_at": "2026-11-08T02:38:41.923279+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-08-kimi-k3-1-pro-open-weights-hardware-guide",
+    "title": "Kimi-K3.1-Proオープン化！ローカルLLMで動かすVRAM容量とRTX/Mac選び方比較ガイド",
+    "url": "https://ai.negi-lab.com/posts/kimi-k3-1-pro-open-weights-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "Kimi-K3.1-Proのオープン化でローカルLLM環境の「基準」が変わった。DeepSeek-R1級の推論を私物PCで回すならVRAM 48GBが仕事の最低ライン。RTX 4090 2枚挿しかMac Studio 128GBか。16GBで妥協すると推論の待ち時間で開発リズムが死ぬ。今買うなら「メモリ帯域」と「統一メモリ」を最優先すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-08-kimi-k3-1-pro-open-weights-hardware-guide.jpg",
+    "created_at": "2026-11-08T04:01:05.369775+09:00",
+    "posted": false
   }
 ]
