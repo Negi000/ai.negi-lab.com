@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-06-local-llm-gpu-vram-guide-qwen",
-    "title": "ローカルLLM用GPU・Macの選び方：QwenやLlamaで失敗しないVRAM容量とおすすめモデル比較",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-vram-guide-qwen/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLMで「モデルが劣化して使い物にならない」と感じる原因の多くは、VRAM不足による低ビット量子化の罠です。Qwen2.5-32Bを仕事で使うなら、最低でもVRAM 24GBがないと知能と速度を両立できません。目先の安さで16GBモデルを買うと、結局API利用に戻るハメになります。買う前に見るべきスペックの境界線をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-06-local-llm-gpu-vram-guide-qwen.jpg",
-    "created_at": "2026-11-06T04:44:11.875409+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-06-ollama-open-webui-local-llm-setup-guide",
-    "title": "Ollama + Open WebUI 使い方ガイド：完全プライベートなAI環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "RTX 4090を2枚挿してわかったが、ローカルLLM環境は「Ollama + Open WebUI」の組み合わせが実務最強。Dockerで立てれば履歴管理もRAGもChatGPT感覚で使える。外部に1バイトもデータを送らずに機密ログ解析やコード生成ができる安心感は、API課金勢には戻れない快適さ。VRAM 12GB以上あるなら今すぐ構築すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-06-ollama-open-webui-local-llm-setup-guide.jpg",
-    "created_at": "2026-11-06T06:12:15.396691+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-06-mlx-apple-silicon-local-llm-tutorial-guide",
     "title": "MLX入門：MacのGPUを100%使い切ってローカルLLMを爆速にする方法",
     "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial-guide/",
