@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-08-kimi-k3-1-pro-open-weights-hardware-guide.jpg",
     "created_at": "2026-11-08T04:01:05.369775+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-08-mlx-apple-silicon-local-llm-guide",
+    "title": "MLX 使い方 入門 Apple Silicon MacでローカルLLMを最速で動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "M2 Maxで計測して驚いたが、MLXでのローカルLLM実行はもはや実用レベル。Qwen2.5-7Bが40〜60 tokens/secで返ってくる。API料金もプライバシーも気にせず、Macのメモリをフル活用してAIを自前運用する手順をまとめた。16GB以上のApple Siliconなら今すぐ試すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-08-mlx-apple-silicon-local-llm-guide.jpg",
+    "created_at": "2026-11-08T05:42:00.503221+09:00",
+    "posted": false
   }
 ]
