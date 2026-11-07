@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-05-box-nvidia-nemotron-agent-retrieval-system",
-    "title": "BoxがNVIDIA Nemotronで実現した「回答4倍速・トークン90%減」はRAGの経済圏を塗り替える",
-    "url": "https://ai.negi-lab.com/posts/box-nvidia-nemotron-agent-retrieval-system/",
-    "category": "NEWS",
-    "viral_tags": "#RAG #NVIDIA",
-    "tweet_text": "BoxがNVIDIA Nemotronを統合。RAGの常識を覆す「回答4倍速・トークン90%削減」は衝撃的。\n\n汎用LLMに丸投げする時代は終わり、特化型モデルによる「前処理の徹底化」が勝負を分ける。\n企業のペタバイト級データも、このコスト感ならAIエージェントにフル開放できる。実務で勝つのは、賢さより「速さと安さ」の両立だ。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-05-box-nvidia-nemotron-agent-retrieval-system.jpg",
-    "created_at": "2026-11-05T23:16:38.054750+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-06-qwen4-leak-local-llm-gpu-mac-comparison",
-    "title": "Qwen4リークで激震！120Bモデルを動かすローカルLLM環境の選び方とおすすめGPU・Mac比較",
-    "url": "https://ai.negi-lab.com/posts/qwen4-leak-local-llm-gpu-mac-comparison/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #Qwen4",
-    "tweet_text": "AlibabaのQwen4情報がリーク。120Bモデルの存在が判明し、ローカルLLM環境の「勝ち筋」が明確になりました。\nもはやVRAM 16GBは最低ライン。120Bを実用的に回すならMac Studioの128GB盛りか、RTX 4090の2枚挿しが必須です。\n「とりあえず動く」と「仕事で使える」の壁は厚い。失敗しない機材選びの基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-06-qwen4-leak-local-llm-gpu-mac-comparison.jpg",
-    "created_at": "2026-11-06T02:07:09.918724+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-06-local-llm-gpu-vram-guide-qwen",
     "title": "ローカルLLM用GPU・Macの選び方：QwenやLlamaで失敗しないVRAM容量とおすすめモデル比較",
     "url": "https://ai.negi-lab.com/posts/local-llm-gpu-vram-guide-qwen/",
