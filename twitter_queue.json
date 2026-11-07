@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-11-07-nousresearch-arete-27b-local-setup-guide.jpg",
     "created_at": "2026-11-07T06:57:28.682518+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-07-python-langchain-rag-chroma-local-tutorial",
+    "title": "PythonでRAG入門！LangChainとChromaで作るローカル文書検索",
+    "url": "https://ai.negi-lab.com/posts/python-langchain-rag-chroma-local-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#RAG #LangChain",
+    "tweet_text": "RAGはモデルの賢さより「検索の精度」で決まる。LangChainとChromaを使えば、手元のPDFを即座にAIの知識にできる。実務でChunkingに失敗して精度が出ない人を山ほど見てきたから、今回は「なぜその設定にするか」を徹底解説。API版で基礎を固めたら、RTX 4060 Ti 16GB辺りで完全ローカル化を目指すのが今の王道。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-07-python-langchain-rag-chroma-local-tutorial.jpg",
+    "created_at": "2026-11-07T09:51:48.690550+09:00",
+    "posted": false
   }
 ]
