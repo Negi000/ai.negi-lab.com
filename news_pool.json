@@ -2,37 +2,6 @@
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 02 Nov 2026 22:14:50 +0000",
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-03T07:52:18"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Agent Inbox",
-      "url": "https://www.producthunt.com/products/agent-inbox",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Give your agent an email address, Slack and Telegram handle </p> <p> <a href=\"https://www.producthunt.com/products/agent-inbox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1300411?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-11-03T07:52:18"
-    },
-    {
-      "source": "TechCrunch AI",
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
       "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "primary_category": "NEWS",
@@ -1497,23 +1466,6 @@
       "collected_at": "2026-11-07T06:57:01"
     },
     {
-      "source": "r/LocalLLaMA",
-      "title": "We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "GUIDE"
-      ],
-      "published": "2026-11-06T20:12:07+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/\"> <img alt=\"We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)\" src=\"https://preview.redd.it/qqc2oz7yu10i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bdb33cd959d0110df89216ac9961c9f883ce67b0\" title=\"We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-11-07T06:57:02"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
@@ -2486,7 +2438,63 @@
         "revenue_score": 0
       },
       "collected_at": "2026-11-10T07:07:22"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 09 Nov 2026 20:04:55 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-10T08:32:31"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 09 Nov 2026 18:24:38 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-10T08:32:31"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 09 Nov 2026 23:28:37 +0000",
+      "summary": "The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-10T08:32:39"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "If You Read This",
+      "url": "https://www.producthunt.com/products/if-you-read-this",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A daily check-in app that works like a dead man's switch </p> <p> <a href=\"https://www.producthunt.com/products/if-you-read-this?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1306884?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-10T08:32:40"
     }
   ],
-  "updated_at": "2026-11-10T07:07:25.552315+09:00"
+  "updated_at": "2026-11-10T08:32:43.576440+09:00"
 }
