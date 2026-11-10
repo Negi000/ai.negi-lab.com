@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-11-local-llm-hardware-selection-guide-rtx-mac.jpg",
     "created_at": "2026-11-11T04:30:22.396357+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-11-glm-5-5-local-llm-gpu-guide",
+    "title": "32B登場！GLM-5.5をローカルで動かすためのGPU選びとVRAM別おすすめ構成",
+    "url": "https://ai.negi-lab.com/posts/glm-5-5-local-llm-gpu-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "GLM-5.5の32Bモデル登場はローカルLLM界隈にとって大きな転換点。VRAM 24GBあれば実務レベルの中規模モデルが手元で爆速。安易に12GB以下のGPUを買うと、来年の主流モデルが動かせず後悔するリスク大。32Bを4bit量子化で回せるRTX 4090か、巨大モデル狙いのMac Studioか。今こそ開発環境の投資基準を再定義すべき時ですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-11-glm-5-5-local-llm-gpu-guide.jpg",
+    "created_at": "2026-11-11T05:59:41.078070+09:00",
+    "posted": false
   }
 ]
