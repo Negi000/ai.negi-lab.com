@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-09-arcjet-ai-security-models-review",
-    "title": "Arcjet AI security models レビュー：AIエージェントの漏洩リスクを数ミリ秒で遮断する実務解",
-    "url": "https://ai.negi-lab.com/posts/arcjet-ai-security-models-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #個人開発",
-    "tweet_text": "AIエージェントに環境変数や秘密鍵を「うっかり」外部送信させるリスク、もう無視できません。ArcjetはWasmベースの専用モデルで、プロンプトインジェクションを数ミリ秒で遮断します。LLMでガードレールを作るより圧倒的に速く、実務で使えるレベル。自作エージェントを本番デプロイするなら、この「防御レイヤー」は必須。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-09-arcjet-ai-security-models-review.jpg",
-    "created_at": "2026-11-09T20:19:23.439503+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-10-automattic-spacefast-vibe-coding-platform-launch",
     "title": "Automatticの新プラットフォームSpacefastがVibe Codingを実務レベルへ引き上げる",
     "url": "https://ai.negi-lab.com/posts/automattic-spacefast-vibe-coding-platform-launch/",
