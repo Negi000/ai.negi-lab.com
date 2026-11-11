@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-10-goldman-sachs-claude-code-local-llm-guide",
-    "title": "Claude Codeの選び方と比較｜ゴールドマン・サックスが使用制限した理由から考えるローカルLLM環境の最適解",
-    "url": "https://ai.negi-lab.com/posts/goldman-sachs-claude-code-local-llm-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #ClaudeCode",
-    "tweet_text": "ゴールドマン・サックスがClaude Codeを制限。理由は性能不足ではなく「機密情報」のリスクです。業務でAIを使うなら、クラウド依存はもう限界。VRAM 16GB以上のRTX 40シリーズか、メモリ64GB以上のMacで「ローカルLLM環境」を作るのが、2025年のエンジニアの生存戦略。サブスク代を払うより、ハードに投資して資産を守るべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-10-goldman-sachs-claude-code-local-llm-guide.jpg",
-    "created_at": "2026-11-10T04:31:01.680523+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-10-local-llm-agent-gpu-comparison-qwen2vl",
-    "title": "ローカルLLMでPC操作が現実的に。Qwen2-VLを動かすVRAM別おすすめGPUと比較",
-    "url": "https://ai.negi-lab.com/posts/local-llm-agent-gpu-comparison-qwen2vl/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLMがMSペイントを操作して絵を描く時代。Qwen2-VL×Open WebUIの進化で「AIエージェント」が実用域に入った。\nただしVRAM 8GB勢は完全に置いていかれる。16GBが最低ライン、24GBがスタートライン。\n仕事で使うならRTX 4060 Ti 16GBか4090への投資は必須。妥協すると検証時間のロスで結局高くつく。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-10-local-llm-agent-gpu-comparison-qwen2vl.jpg",
-    "created_at": "2026-11-10T07:07:46.954580+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-10-apple-silicon-mlx-local-llm-tutorial-guide",
     "title": "MLX入門：Apple SiliconでローカルLLMを爆速動作させる環境構築ガイド",
     "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial-guide/",
