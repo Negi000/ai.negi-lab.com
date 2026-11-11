@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-12-local-llm-gpu-buying-guide-qwen-rtx.jpg",
     "created_at": "2026-11-12T06:32:51.183405+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-12-qwen-32b-unsloth-dynamic-gguf-setup-guide",
+    "title": "Qwen2.5-32BをVRAM24GBで常用するUnsloth Dynamic GGUF導入ガイド",
+    "url": "https://ai.negi-lab.com/posts/qwen-32b-unsloth-dynamic-gguf-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Qwen",
+    "tweet_text": "VRAM 24GB勢は今すぐQwen2.5-32BのUnsloth Dynamic GGUFを試すべき。従来の量子化より賢く、かつRTX 3090/4090なら1枚でGPT-4o級の日本語能力が爆速で手に入る。\n仕事で使えるローカル環境の作り方を実機検証ベースでまとめた。設定一つで速度が10倍変わる「落とし穴」も解説。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-12-qwen-32b-unsloth-dynamic-gguf-setup-guide.jpg",
+    "created_at": "2026-11-12T08:20:28.582098+09:00",
+    "posted": false
   }
 ]
