@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-11-12-llamacpp-gguf-setup-guide-python.jpg",
     "created_at": "2026-11-12T11:12:49.044980+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-12-skillbox-ai-agent-tool-management-review",
+    "title": "Skillbox レビュー：AIエージェントの「ツール管理」を共通化し開発効率を最大化する",
+    "url": "https://ai.negi-lab.com/posts/skillbox-ai-agent-tool-management-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "AIエージェントの「ツール定義」を各モデルごとに書き直すのはもう終わりにしませんか？\n\nSkillboxはOpenAIやClaude、LangChainなどバラバラなFunction Callingのスキーマを一元管理し、自動変換してくれる。\n\n特にマルチエージェントを組む時、定義の同期ミスでエラーを吐くリスクをゼロにできる。将来のLLM乗り換えを視野に入れるなら、今すぐ導入すべき抽象化層です。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-12-skillbox-ai-agent-tool-management-review.jpg",
+    "created_at": "2026-11-12T15:53:02.717382+09:00",
+    "posted": false
   }
 ]
