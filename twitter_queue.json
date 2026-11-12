@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-12-qwen-32b-unsloth-dynamic-gguf-setup-guide.jpg",
     "created_at": "2026-11-12T08:20:28.582098+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-12-llamacpp-gguf-setup-guide-python",
+    "title": "llama.cppとGGUFの使い方入門",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-setup-guide-python/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llamacpp",
+    "tweet_text": "ローカルLLMを仕事で使うならllama.cppとGGUFの組み合わせが最強。RTX 3060/4060 Ti（16GB）なら8Bモデルが爆速で動く。\nOpenAI互換APIを数分で立てられるから、既存スクリプトの接続先を変えるだけで「漏洩厳禁の機密データ」も安全にAI処理できる。\nVRAMに余裕があるならQ4_K_Mを基準に選ぶのが最適解。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-12-llamacpp-gguf-setup-guide-python.jpg",
+    "created_at": "2026-11-12T11:12:49.044980+09:00",
+    "posted": false
   }
 ]
