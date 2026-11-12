@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-11-local-llm-hardware-selection-guide-rtx-mac",
-    "title": "ローカルLLM選び方比較：検閲なしモデルを動かすRTX/Mac推奨スペックと注意点",
-    "url": "https://ai.negi-lab.com/posts/local-llm-hardware-selection-guide-rtx-mac/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "ローカルLLMを実務で使うなら、VRAM 8GBの壁に泣く前に16GB以上のRTXか、32GB以上のMacを選んでください。検閲なしモデルを動かすなら、スペック不足は知能の低下に直結します。コスパならRTX 4060 Ti 16GB、ガチなら4090かMac Studio一択。買う前にチェックすべき急所をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-11-local-llm-hardware-selection-guide-rtx-mac.jpg",
-    "created_at": "2026-11-11T04:30:22.396357+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-11-glm-5-5-local-llm-gpu-guide",
-    "title": "32B登場！GLM-5.5をローカルで動かすためのGPU選びとVRAM別おすすめ構成",
-    "url": "https://ai.negi-lab.com/posts/glm-5-5-local-llm-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "GLM-5.5の32Bモデル登場はローカルLLM界隈にとって大きな転換点。VRAM 24GBあれば実務レベルの中規模モデルが手元で爆速。安易に12GB以下のGPUを買うと、来年の主流モデルが動かせず後悔するリスク大。32Bを4bit量子化で回せるRTX 4090か、巨大モデル狙いのMac Studioか。今こそ開発環境の投資基準を再定義すべき時ですね。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-11-glm-5-5-local-llm-gpu-guide.jpg",
-    "created_at": "2026-11-11T05:59:41.078070+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-11-ollama-openwebui-local-llm-setup-guide",
-    "title": "OllamaとOpen WebUIで自分専用のローカルChatGPT環境を構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-setup-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "VRAM 8GB以上のPCがあるなら、今すぐOllamaとOpen WebUIを入れるべき。データの外部流出ゼロ、月額課金もなし。\nDocker経由なら数コマンドでChatGPT同等のUIが手に入ります。\nLlama 3.1 8BならRTX 3060でも爆速。RAG機能で自前PDFを食わせるのが実務では最強の運用方法。\n買うべきGPUの判断基準もまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-11-ollama-openwebui-local-llm-setup-guide.jpg",
-    "created_at": "2026-11-11T07:09:48.547875+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-11-claude-code-cursor-ai-coding-setup-guide",
     "title": "Claude CodeとCursorを併用したAIコーディング環境構築と実践ガイド",
     "url": "https://ai.negi-lab.com/posts/claude-code-cursor-ai-coding-setup-guide/",
