@@ -1,52 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "AgentTM",
-      "url": "https://www.producthunt.com/products/agenttm",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Time-travel debugging for AI coding agents </p> <p> <a href=\"https://www.producthunt.com/products/agenttm?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1303143?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-11-06T19:42:59"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Shipnoted",
-      "url": "https://www.producthunt.com/products/shipnoted",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Changelog + feedback board for closing the loop on your git </p> <p> <a href=\"https://www.producthunt.com/products/shipnoted?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1305770?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-06T19:42:59"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Chronos DB",
-      "url": "https://www.producthunt.com/products/chronos-db",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> The database for the autonomous AI era. </p> <p> <a href=\"https://www.producthunt.com/products/chronos-db?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1304353?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-06T19:42:59"
-    },
-    {
       "source": "GitHub Trending",
       "title": "python-poetry/poetry",
       "url": "https://github.com/python-poetry/poetry",
@@ -2447,22 +2401,6 @@
       "collected_at": "2026-11-13T06:33:44"
     },
     {
-      "source": "Product Hunt",
-      "title": "Omnigraph",
-      "url": "https://www.producthunt.com/products/omnigraph",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Open source graph database for your AI agents </p> <p> <a href=\"https://www.producthunt.com/products/omnigraph?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1298575?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-11-13T06:33:44"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Gemini 4 Hydrogen and Orchestrator",
       "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
@@ -2647,7 +2585,124 @@
         "revenue_score": 0
       },
       "collected_at": "2026-11-13T15:11:50"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude Is Down",
+      "url": "https://status.claude.com/history",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 13 Nov 2026 10:20:09 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-13T19:49:51"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "Fri, 13 Nov 2026 10:18:13 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-13T19:49:51"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "extra": {
+        "stars_today": "60 stars today"
+      },
+      "collected_at": "2026-11-13T19:49:53"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "Tencent-Hunyuan/Hy-MT2",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "",
+      "extra": {
+        "stars_today": "49 stars today"
+      },
+      "collected_at": "2026-11-13T19:49:53"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "avenoxai/avenoxbeyin",
+      "url": "https://github.com/avenoxai/avenoxbeyin",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "",
+      "summary": "Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md",
+      "extra": {
+        "stars_today": "46 stars today"
+      },
+      "collected_at": "2026-11-13T19:49:53"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "StockRip",
+      "url": "https://www.producthunt.com/products/stockrip",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Trading cards, literally digital cards with tokenized stocks </p> <p> <a href=\"https://www.producthunt.com/products/stockrip?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1314942?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-13T19:49:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Replicate",
+      "url": "https://www.producthunt.com/products/replicate-10",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn Webflow/Framer app into a Claude/Codex project for free </p> <p> <a href=\"https://www.producthunt.com/products/replicate-10?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1314761?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-13T19:49:54"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "GAtrends",
+      "url": "https://www.producthunt.com/products/gatrends",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Spike alerts for your keywords in Telegram, Claude, ChatGPT </p> <p> <a href=\"https://www.producthunt.com/products/gatrends?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1314471?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-13T19:49:54"
     }
   ],
-  "updated_at": "2026-11-13T15:11:53.637633+09:00"
+  "updated_at": "2026-11-13T19:49:57.385936+09:00"
 }
