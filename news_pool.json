@@ -1,77 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 06 Nov 2026 13:35:27 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-11-07T04:06:51"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "AI for scientific discovery: How researchers use Claude",
-      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 06 Nov 2026 09:13:30 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-11-07T04:06:51"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "Fri, 06 Nov 2026 18:44:38 +0000",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-07T04:06:53"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Magic Wonders",
-      "url": "https://www.producthunt.com/products/magic-wonders",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A smart wand to duel, control your home and create magic </p> <p> <a href=\"https://www.producthunt.com/products/magic-wonders?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1305877?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-07T04:06:54"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Native Tasks for Obsidian",
-      "url": "https://www.producthunt.com/products/native-tasks-for-obsidian",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A native Mac app for your Obsidian tasks </p> <p> <a href=\"https://www.producthunt.com/products/native-tasks-for-obsidian?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1298963?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-07T04:06:54"
-    },
-    {
       "source": "Product Hunt",
       "title": "pwned.coffee",
       "url": "https://www.producthunt.com/products/pwned-coffee",
@@ -2670,7 +2599,77 @@
         "revenue_score": 3
       },
       "collected_at": "2026-11-14T01:57:53"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Gnomon. Git for Postgres data, built for agents",
+      "url": "https://github.com/bitsinfra/gnomon",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Fri, 13 Nov 2026 17:09:52 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-14T04:25:03"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+      "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 13 Nov 2026 15:52:04 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-14T04:25:03"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
+      "url": "https://news.ycombinator.com/item?id=50484421",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 13 Nov 2026 14:53:32 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-14T04:25:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Fri, 13 Nov 2026 18:40:30 +0000",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-11-14T04:25:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "qorqbot",
+      "url": "https://www.producthunt.com/products/qorqbot",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Proactive agent for business work </p> <p> <a href=\"https://www.producthunt.com/products/qorqbot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1284660?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-11-14T04:25:06"
     }
   ],
-  "updated_at": "2026-11-14T01:57:57.127430+09:00"
+  "updated_at": "2026-11-14T04:25:09.702777+09:00"
 }
