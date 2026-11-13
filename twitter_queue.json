@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-11-14-nvidia-gpu-comparison-local-llm-buying-guide.jpg",
     "created_at": "2026-11-14T05:58:58.515071+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-14-llamacpp-v1-stable-release-guide",
+    "title": "llama.cpp v1.0 使い方：安定版でローカルLLMサーバーを最速構築する方法",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-v1-stable-release-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #エンジニア",
+    "tweet_text": "llama.cpp v1.0がついにリリース。これまで破壊的変更に悩まされてきた開発者にとって、APIの安定化は最大の朗報です。RTX 4090 2枚挿し環境で検証しましたが、推論速度の安定性とOpenAI互換サーバーの完成度が一段上がっています。VRAM 8GBあればLlama 3.1 8Bが秒速で動く時代。ローカルLLMを実務に組み込むなら今がベストタイミングです。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-14-llamacpp-v1-stable-release-guide.jpg",
+    "created_at": "2026-11-14T07:24:26.732220+09:00",
+    "posted": false
   }
 ]
