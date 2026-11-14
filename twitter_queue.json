@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-13-llamacpp-gguf-local-llm-guide-for-beginners",
-    "title": "llama.cpp 使い方 入門 | GGUF量子化モデルをローカルで動かす方法",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-guide-for-beginners/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llamacpp",
-    "tweet_text": "ローカルLLMを最速で動かすなら、やはりllama.cppの直ビルドが正解。\nRTX 4060 Ti 16GBなら、Llama 3.1 8Bが50トークン/秒を超えて爆速で返ってくる。\nVRAM不足に悩む前に、GGUFの量子化とGPUオフロード設定を見直すべき。\n実務で「使える」速度を出すためのビルド手順とPython実装をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-13-llamacpp-gguf-local-llm-guide-for-beginners.jpg",
-    "created_at": "2026-11-13T10:46:31.881419+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-13-omnigraph-graph-database-ai-agent-review",
     "title": "Omnigraph 使い方とAIエージェントの記憶基盤としての実力をレビュー",
     "url": "https://ai.negi-lab.com/posts/omnigraph-graph-database-ai-agent-review/",
