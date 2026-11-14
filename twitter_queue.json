@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-13-nvidia-jensen-huang-resigns-gpu-buying-guide",
-    "title": "Nvidiaジェンセン退任でどうなる？ローカルLLM向けGPU選び方と今買うべきRTX比較",
-    "url": "https://ai.negi-lab.com/posts/nvidia-jensen-huang-resigns-gpu-buying-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "Nvidiaジェンセン氏退任。でも現場の結論は不変です。ローカルLLM環境を作るならVRAM 16GBが「人権」の最低ライン。4070(12GB)より4060 Ti 16GBを選ぶのが実務者の鉄則。経営体制の移行で次世代機の供給が不安定になる前に、現行のRTX 40シリーズで環境を固定するのが今は正解かもしれません。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-13-nvidia-jensen-huang-resigns-gpu-buying-guide.jpg",
-    "created_at": "2026-11-13T04:44:02.890961+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-13-local-llm-gpu-mac-comparison-guide-2025",
-    "title": "Nvidiaの将来に揺らぎ？2025年版ローカルLLM用GPU・Mac選び方と失敗しない比較ガイド",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-guide-2025/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "ローカルLLM用にGPUを買うなら「VRAM 16GB」が最低ライン。RTX 4060 Ti 16GBなら10万円以下、速度重視ならRTX 4090 24GB、長文コンテキストならMacBook Pro 64GBが最適解です。12GBモデルを中途半端に買うのが一番後悔します。Claude CodeやCursorを爆速にするための判断基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-13-local-llm-gpu-mac-comparison-guide-2025.jpg",
-    "created_at": "2026-11-13T06:34:12.796849+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-13-apple-silicon-mlx-local-llm-tutorial",
     "title": "MLX 使い方 入門 Apple SiliconでローカルLLMを動かす方法",
     "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
