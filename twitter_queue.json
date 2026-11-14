@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-11-15-nvidia-skillevaluator-ai-agent-gpu-guide.jpg",
     "created_at": "2026-11-15T04:27:05.104675+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-15-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLX 使い方 入門 Apple SiliconでローカルLLMを動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "MacでローカルLLMを動かすならMLX一択。M2 Max環境で試したが、PyTorch経由よりメモリ効率が良くトークン生成速度も1.5倍近く速い。Llama 3 8Bなら4bit量子化で5GB程度のVRAM消費に収まる。Pythonエンジニアなら既存コードに組み込みやすいのも利点。8GBメモリだと正直キツいが、16GBあれば十分「実用」の域に達する。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-11-15T06:07:52.953953+09:00",
+    "posted": false
   }
 ]
