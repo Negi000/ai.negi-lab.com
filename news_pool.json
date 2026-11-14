@@ -1,68 +1,6 @@
 {
   "items": [
     {
-      "source": "GitHub Trending",
-      "title": "mbillow/localthings",
-      "url": "https://github.com/mbillow/localthings",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-      "extra": {
-        "stars_today": "184 stars today"
-      },
-      "collected_at": "2026-11-07T21:39:44"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Google Omni 1.2 Flash",
-      "url": "https://www.producthunt.com/products/google-omni-1-2-flash",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Gemini Omni 1.2 Flash: 15s AI video at $0.07 per second </p> <p> <a href=\"https://www.producthunt.com/products/google-omni-1-2-flash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1305716?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-07T21:39:45"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "LiveReview",
-      "url": "https://www.producthunt.com/products/livereview",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "",
-      "summary": "<p> Free, Risk-Aware Code Review: Auto Approve Low-Risk Changes </p> <p> <a href=\"https://www.producthunt.com/products/livereview?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1293330?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-11-07T21:39:45"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Instagram Edits for Desktop",
-      "url": "https://www.producthunt.com/products/instagram",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Instagram's free desktop video editor with AI agents </p> <p> <a href=\"https://www.producthunt.com/products/instagram?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1306062?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-11-07T21:39:45"
-    },
-    {
       "source": "Product Hunt",
       "title": "Quest",
       "url": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
@@ -2671,22 +2609,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "HiringNow",
-      "url": "https://www.producthunt.com/products/hiringnow",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI job agent that finds & apply for jobs before anyone else. </p> <p> <a href=\"https://www.producthunt.com/products/hiringnow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1301510?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-11-14T19:07:28"
-    },
-    {
-      "source": "Product Hunt",
       "title": "FreeFlow Dictation",
       "url": "https://www.producthunt.com/products/freeflow-dictation",
       "primary_category": "TOOL",
@@ -2715,7 +2637,140 @@
         "revenue_score": 0
       },
       "collected_at": "2026-11-14T19:07:28"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Sat, 14 Nov 2026 02:28:29 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-14T22:10:25"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Llama.cpp hits v1.0 with a native app for macOS",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "Sat, 14 Nov 2026 02:05:37 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-14T22:10:25"
+    },
+    {
+      "source": "HN Local AI",
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Sat, 14 Nov 2026 00:06:04 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-14T22:10:25"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "",
+      "extra": {
+        "stars_today": "94 stars today"
+      },
+      "collected_at": "2026-11-14T22:10:27"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "",
+      "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "extra": {
+        "stars_today": "127 stars today"
+      },
+      "collected_at": "2026-11-14T22:10:27"
+    },
+    {
+      "source": "GitHub Trending",
+      "title": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "extra": {
+        "stars_today": "168 stars today"
+      },
+      "collected_at": "2026-11-14T22:10:27"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "AnyoneHiring.today",
+      "url": "https://www.producthunt.com/products/anyonehiring-today",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A world map of jobs. “Anywhere” is now a plan. </p> <p> <a href=\"https://www.producthunt.com/products/anyonehiring-today?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1312552?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-14T22:10:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Blender 5.3",
+      "url": "https://www.producthunt.com/products/blender",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> 3D Gaussian splats, now native to Blender </p> <p> <a href=\"https://www.producthunt.com/products/blender?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1314882?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-14T22:10:28"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "MAP & GO!",
+      "url": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> See your day on the map </p> <p> <a href=\"https://www.producthunt.com/products/expert-chase-deleted-1107920?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1288376?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-14T22:10:28"
     }
   ],
-  "updated_at": "2026-11-14T19:07:31.564009+09:00"
+  "updated_at": "2026-11-14T22:10:31.531804+09:00"
 }
