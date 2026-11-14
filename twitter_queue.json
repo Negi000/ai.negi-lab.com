@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-12-foxpit-ai-agent-team-review",
-    "title": "Foxpit 複数のAIモデルを一つのチームとして指揮し開発を自動化するCLI",
-    "url": "https://ai.negi-lab.com/posts/foxpit-ai-agent-team-review/",
-    "category": "TOOL",
-    "viral_tags": "#AIエージェント #エンジニア",
-    "tweet_text": "Claude 3.5とCodexを一つのチームとして動かす「Foxpit」が面白い。\n単一モデルの限界を、役割分担と自律的なフィードバックループで突破する設計。\n1つの指示で設計・実装・テストまで完結する。\nAPIコストは嵩むが、複雑なリファクタリングを自律実行させたいなら現状これ一択。\nVRAM 24GBあればローカルモデルをチームに混ぜてコスト削減も狙える。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-12-foxpit-ai-agent-team-review.jpg",
-    "created_at": "2026-11-12T19:54:55.320409+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-12-nvidias-jensen-huangs-resignation-ai-impact",
     "title": "NVIDIAジェンスン・ファン氏が電撃辞任。AI開発者が直面するGPU供給停止リスクと代替戦略",
     "url": "https://ai.negi-lab.com/posts/nvidias-jensen-huangs-resignation-ai-impact/",
