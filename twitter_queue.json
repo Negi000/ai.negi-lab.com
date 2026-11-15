@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-14-system-prompt-leaks-ai-gpu-mac-guide",
-    "title": "ローカルLLMとAIコーディング環境の選び方！システムプロンプト流出から見えた最適なGPUとMacのスペック比較",
-    "url": "https://ai.negi-lab.com/posts/system-prompt-leaks-ai-gpu-mac-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #AIエージェント",
-    "tweet_text": "GitHubで公開された大手AIのシステムプロンプト集を読み解くと、モデルがいかに膨大な指示で制御されているか分かります。\n\nこれ、ローカルLLMで再現しようとするとVRAM 16GB以下は人権がないレベル。仕事でAIコーディングやエージェントを使い倒すなら、RTX 4090かメモリ64GB以上のMacが投資の最低ライン。中途半端なスペックで消耗するのはもう終わりにしましょう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-14-system-prompt-leaks-ai-gpu-mac-guide.jpg",
-    "created_at": "2026-11-14T04:25:33.155038+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-14-nvidia-gpu-comparison-local-llm-buying-guide",
-    "title": "ローカルLLM用GPUおすすめ比較！Nvidiaの変革期にRTXかMacか選ぶ基準",
-    "url": "https://ai.negi-lab.com/posts/nvidia-gpu-comparison-local-llm-buying-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #GPU選び",
-    "tweet_text": "Nvidia内部の動揺が話題ですが、ローカルLLM開発者の結論は一つ。「VRAMこそが正義」です。RTX 4090の24GBか、4060 Tiの16GBか。あるいはApple Siliconの統一メモリか。Llama 3.1やQwen 2.5を業務で回すならVRAM 8GBはもう選択肢に入りません。今、楽天やAmazonで狙うべき具体的な型番と、失敗しないための電源容量・サイズの基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-14-nvidia-gpu-comparison-local-llm-buying-guide.jpg",
-    "created_at": "2026-11-14T05:58:58.515071+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-14-llamacpp-v1-stable-release-guide",
-    "title": "llama.cpp v1.0 使い方：安定版でローカルLLMサーバーを最速構築する方法",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-v1-stable-release-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #エンジニア",
-    "tweet_text": "llama.cpp v1.0がついにリリース。これまで破壊的変更に悩まされてきた開発者にとって、APIの安定化は最大の朗報です。RTX 4090 2枚挿し環境で検証しましたが、推論速度の安定性とOpenAI互換サーバーの完成度が一段上がっています。VRAM 8GBあればLlama 3.1 8Bが秒速で動く時代。ローカルLLMを実務に組み込むなら今がベストタイミングです。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-14-llamacpp-v1-stable-release-guide.jpg",
-    "created_at": "2026-11-14T07:24:26.732220+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-14-llama-cpp-gguf-python-local-llm-guide",
     "title": "llama.cppとGGUF量子化でローカルLLMを爆速かつ低コストに動かす方法",
     "url": "https://ai.negi-lab.com/posts/llama-cpp-gguf-python-local-llm-guide/",
