@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-11-15-claude-bughunter-review-security-skills.jpg",
     "created_at": "2026-11-15T14:58:39.889391+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-15-andrewyng-openworker-agent-review",
+    "title": "andrewyng/openworker 使い方と実務活用の検証",
+    "url": "https://ai.negi-lab.com/posts/andrewyng-openworker-agent-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #Python",
+    "tweet_text": "Andrew Ng氏のopenworkerを検証。LangChainの重厚長大さに疲れたエンジニアには最高の「薄い」エージェント基盤。\nモデルのツール呼び出しを隠蔽せず、デバッグの透明性が極めて高い。\n反復ループを自分で制御したい実務派向け。\nVRAM 16GB以上のローカルLLMかClaude 3.5 Sonnetでの運用が現実的。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-15-andrewyng-openworker-agent-review.jpg",
+    "created_at": "2026-11-15T19:41:56.579714+09:00",
+    "posted": false
   }
 ]
