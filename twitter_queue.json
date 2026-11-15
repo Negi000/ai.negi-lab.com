@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-16-ffmpeg-skill-mcp-guide-gpu-specs.jpg",
     "created_at": "2026-11-16T03:40:06.607438+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-16-claude-code-parallel-workers-hardware-guide",
+    "title": "Claude Code並列ワーカー導入で変わる開発環境とおすすめハードウェア比較",
+    "url": "https://ai.negi-lab.com/posts/claude-code-parallel-workers-hardware-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ClaudeCode #AI開発",
+    "tweet_text": "Claude Codeの並列ワーカー導入でAI開発は「指示待ち」から「チーム運営」へ。\n大規模コードを複数学習させつつ、レビューと実装を同時並行で回すにはVRAM 16GB以上が実質的な境界線です。\nメモリ32GB以下の環境だと、並列化の恩恵を受ける前にスワップで詰まる。\nAPIコストを抑えるなら、RTX 4060 Ti 16GBでローカルLLMを併用するのが現状の正解ですね。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-16-claude-code-parallel-workers-hardware-guide.jpg",
+    "created_at": "2026-11-16T04:56:19.043547+09:00",
+    "posted": false
   }
 ]
