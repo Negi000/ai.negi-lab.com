@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-11-16-claude-code-parallel-workers-hardware-guide.jpg",
     "created_at": "2026-11-16T04:56:19.043547+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-16-ollama-openwebui-local-llm-tutorial",
+    "title": "OllamaとOpen WebUIで自分専用のプライベートChatGPTを構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "ローカルLLM環境、まだLM Studioで止まってませんか？実務で使うならOllama + Open WebUIの組み合わせが最強です。VRAM 12GB以上のRTXか、16GB以上のMacがあれば、完全にクローズドな環境でRAGもマルチユーザー管理も自由自在。Dockerを使えば構築は30分で終わります。機密情報をAIに入れたいなら、この構成一択。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-16-ollama-openwebui-local-llm-tutorial.jpg",
+    "created_at": "2026-11-16T06:29:57.822724+09:00",
+    "posted": false
   }
 ]
