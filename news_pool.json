@@ -2,82 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Sat, 07 Nov 2026 20:45:32 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-11-08T09:24:48"
-    },
-    {
-      "source": "Google News",
-      "title": "サム・アルトマン、イーロン・マスク、「Artificial」、そして人類の未来（前編）｜Fair Game by Vanity Fair - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84cVppUFBNbGxZa1FTcHF4bW5aZjNDNjY1R0dsSGltUUtiZ3BGcHRlQm9ETUpnYmlIWHVEcmRwbXE0bm9lcEtEVG1kaVpWcENMakhNc3BoWkFPWEp4YXc?oc=5",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Tue, 03 Nov 2026 22:25:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE84cVppUFBNbGxZa1FTcHF4bW5aZjNDNjY1R0dsSGltUUtiZ3BGcHRlQm9ETUpnYmlIWHVEcmRwbXE0bm9lcEtEVG1kaVpWcENMakhNc3BoWkFPWEp4YXc?oc=5\" target=\"_blank\">サム・アルトマン、イーロン・マスク、「Artificial」、そして人類の未来（前編）｜Fair Game by Vanity Fair</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo ファイナンス</font>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-08T09:24:57"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "kayet",
-      "url": "https://www.producthunt.com/products/kayet",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> the minimalistic text editor for macOS </p> <p> <a href=\"https://www.producthunt.com/products/kayet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1303008?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-08T09:24:57"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "The Stylome bot is useless spam and should be removed",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "2026-11-07T22:24:14+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've recently been seeing comments everywhere from the Stylome bot, which is also a mod in this sub. Every time it pops up to declare a comment was AI written I've gone in to check its confidence level, and it's always low.</p> <p>I decided to do a few tests myself and have Gemini rewrite some of my comments, Stylome said they were all human written with equally low confidence.</p> <p>What is the point of this bot? Why are we allowing a private company to take o",
-      "extra": {
-        "revenue_score": 2
-      },
-      "collected_at": "2026-11-08T09:25:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "2026-11-07T16:25:06+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/\"> <img alt=\"llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp\" src=\"https://external-preview.redd.it/gWxcQlTgQBsDYl_TgL_7AP9RdCiV1zKUUXncQZMyVos.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=776b5d8fa664304ba8043e634ef1eb36710df13b\" title=\"llama_moe_cache: run missed experts on CPU, add tuning script by a",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-11-08T09:25:01"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "Goodbye Claude, Hello Pi",
       "url": "https://caleb.software/posts/claude-to-pi.html",
       "primary_category": "NEWS",
@@ -2855,7 +2779,67 @@
         "revenue_score": 3
       },
       "collected_at": "2026-11-15T06:07:28"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Sun, 15 Nov 2026 00:08:07 +0000",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "extra": {
+        "revenue_score": 1
+      },
+      "collected_at": "2026-11-15T09:58:18"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tabletop by Google Labs",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Build interactive group experiences with AI. </p> <p> <a href=\"https://www.producthunt.com/products/google-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1315230?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-15T09:58:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "ScreenGo",
+      "url": "https://www.producthunt.com/products/screengo",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> screen recorder for Mac with auto zooms and virtual webcam </p> <p> <a href=\"https://www.producthunt.com/products/screengo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1310240?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-15T09:58:19"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "VB Notes",
+      "url": "https://www.producthunt.com/products/vb-notes",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Markdown notes in your own folder, searched by meaning </p> <p> <a href=\"https://www.producthunt.com/products/vb-notes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1305491?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-15T09:58:19"
     }
   ],
-  "updated_at": "2026-11-15T06:07:31.542435+09:00"
+  "updated_at": "2026-11-15T09:58:22.645919+09:00"
 }
