@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-11-16-ollama-openwebui-local-llm-tutorial.jpg",
     "created_at": "2026-11-16T06:29:57.822724+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-16-ollama-openwebui-local-llm-guide",
+    "title": "OllamaとOpen WebUIで自分専用の機密保持ローカルLLMを構築する方法",
+    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Ollama",
+    "tweet_text": "VRAM 16GBのPCがあるなら、今すぐOllama + Open WebUIでローカルLLMを立てるべき。社外秘のPDFをいくら読み込ませても、外部へのデータ流出は物理的にゼロ。月額20ドルの節約以上に、心理的ハードルなく「自分専用の知能」を構築できる価値がデカい。Docker一発でRAG環境まで揃うのはもはやチート。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-16-ollama-openwebui-local-llm-guide.jpg",
+    "created_at": "2026-11-16T09:56:19.500986+09:00",
+    "posted": false
   }
 ]
