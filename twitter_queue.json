@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-15-nvidia-skillevaluator-ai-agent-gpu-guide",
-    "title": "NVIDIA SkillEvaluatorでAIエージェント開発を加速するおすすめGPUと開発環境の選び方",
-    "url": "https://ai.negi-lab.com/posts/nvidia-skillevaluator-ai-agent-gpu-guide/",
-    "category": "MONEY",
-    "viral_tags": "#AIエージェント #RTX4090",
-    "tweet_text": "AIエージェントの「なんとなく動く」を卒業する時が来ました。NVIDIAが公開したSkillEvaluatorは、スキルの評価を自動化・定量化する強力な武器。ただし、合成データ生成とライブ評価を回すにはVRAM 16GB以上が必須条件。4060 Ti 16GBが最低ライン、4090なら開発効率が別次元に変わります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-15-nvidia-skillevaluator-ai-agent-gpu-guide.jpg",
-    "created_at": "2026-11-15T04:27:05.104675+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-15-mlx-apple-silicon-local-llm-tutorial",
-    "title": "MLX 使い方 入門 Apple SiliconでローカルLLMを動かす方法",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "MacでローカルLLMを動かすならMLX一択。M2 Max環境で試したが、PyTorch経由よりメモリ効率が良くトークン生成速度も1.5倍近く速い。Llama 3 8Bなら4bit量子化で5GB程度のVRAM消費に収まる。Pythonエンジニアなら既存コードに組み込みやすいのも利点。8GBメモリだと正直キツいが、16GBあれば十分「実用」の域に達する。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-11-15T06:07:52.953953+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-15-llamacpp-gguf-python-setup-guide",
     "title": "llama.cppとGGUFでローカルLLMを動かす方法",
     "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-python-setup-guide/",
