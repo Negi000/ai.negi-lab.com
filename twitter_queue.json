@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-17-us-ai-chip-export-controls-cloud-compute-remote-access.jpg",
     "created_at": "2026-11-17T00:11:02.541472+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-17-local-llama-gpu-comparison-rtx-vs-mac",
+    "title": "ローカルLLM構築ガイド｜RTX 4090かApple Siliconか？VRAM容量別おすすめ比較",
+    "url": "https://ai.negi-lab.com/posts/local-llama-gpu-comparison-rtx-vs-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #RTX4090",
+    "tweet_text": "ローカルLLM用にGPUを買うなら「VRAM 16GB」が生存ライン。RTX 4060 Ti 16GBなら6万円台でLlama 3が快適に動く環境が手に入る。\n速度のRTXか、大容量メモリのMacか。実務で20案件以上こなした結論として、開発者ならCUDAが使えるNVIDIA一択。8GBモデルを買うのだけは、後悔するから絶対にやめておきましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-17-local-llama-gpu-comparison-rtx-vs-mac.jpg",
+    "created_at": "2026-11-17T04:17:43.430712+09:00",
+    "posted": false
   }
 ]

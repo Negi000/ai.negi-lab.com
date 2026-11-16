@@ -1,99 +1,6 @@
 {
   "items": [
     {
-      "source": "Product Hunt",
-      "title": "Pawse.ai",
-      "url": "https://www.producthunt.com/products/pawse-ai",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Sound engineered for dogs, not humans </p> <p> <a href=\"https://www.producthunt.com/products/pawse-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1301600?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-10T00:33:56"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "KIKUmap",
-      "url": "https://www.producthunt.com/products/kikumap",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A mind map for your Claude and ChatGPT chats </p> <p> <a href=\"https://www.producthunt.com/products/kikumap?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1305867?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-10T00:33:56"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Dageno AI 2.0",
-      "url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> See why AI recommends your competitors instead of you </p> <p> <a href=\"https://www.producthunt.com/products/agent-powered-geo-by-dageno?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1302788?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-11-10T00:33:56"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "meituan-longcat/LongCat-2.5 · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "GUIDE"
-      ],
-      "published": "2026-11-09T14:14:17+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/\"> <img alt=\"meituan-longcat/LongCat-2.5 · Hugging Face\" src=\"https://external-preview.redd.it/MDGXsoqDSdbwZkIuvj-fI1gHLszoN927cZZsWyM3Lok.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=20a6afb7ddb7734e47006db971924f47f065dccd\" title=\"meituan-longcat/LongCat-2.5 · Hugging Face\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A 1.6T multimodal model.</p> </div><!-- SC_ON --> &",
-      "extra": {
-        "revenue_score": 4
-      },
-      "collected_at": "2026-11-10T00:34:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "GUIDE"
-      ],
-      "published": "2026-11-09T06:42:07+00:00",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/\"> <img alt=\"L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry\" src=\"https://preview.redd.it/zniwks369j0i1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=d8795d12211d899f502132174291fab7d22d04e8\" title=\"L11 N8147 is a neuron that will make Qwen-3.5-",
-      "extra": {
-        "revenue_score": 7
-      },
-      "collected_at": "2026-11-10T00:34:01"
-    },
-    {
-      "source": "r/LocalLLaMA",
-      "title": "New Gemma Models",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrpcke/new_gemma_models/",
-      "primary_category": "GUIDE",
-      "possible_categories": [
-        "MONEY",
-        "NEWS"
-      ],
-      "published": "2026-11-09T11:32:08+00:00",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Are there any (insider) infos to upcoming Gemma Models? Gemma 4 is for my usecase really good and I am looking forward if they will release any new even better models most likely named Gemma 5? Currently using Gemma 4 31b nvfp4 on 3x rtx pro 6000, quality is is really good only hoping for the newer models to be even faster with tps</p> <p>Update:<br /> no, this is not a troll post. We are a currently fast growing startup in Europe and we dont need the best llm f",
-      "extra": {
-        "revenue_score": 8
-      },
-      "collected_at": "2026-11-10T00:34:01"
-    },
-    {
       "source": "HN AI Hot",
       "title": "Claude Fable 5.2 and Mythos 5.2",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
@@ -2750,21 +2657,6 @@
       "collected_at": "2026-11-17T00:10:35"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 16 Nov 2026 15:02:34 +0000",
-      "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-17T00:10:35"
-    },
-    {
       "source": "Product Hunt",
       "title": "OffiAI",
       "url": "https://www.producthunt.com/products/offiai",
@@ -2793,7 +2685,68 @@
         "revenue_score": 0
       },
       "collected_at": "2026-11-17T00:10:35"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Mon, 16 Nov 2026 19:12:02 +0000",
+      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "extra": {
+        "revenue_score": 1
+      },
+      "collected_at": "2026-11-17T04:17:13"
+    },
+    {
+      "source": "Google News",
+      "title": "Google Cloud Partner of the Year 「Artificial Intelligence: Workplace AI Transformation - Japan」を受賞 ～生成 AIによる業務変革の実績と、優れた支援体制が評価 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sLTJnYXBrNUt2UVBadGdJMFpraG5scE1TZ0VobGlzZVVickhaWmRYT3NsVmNkV2szdFViaTRkSml2RTFyNmhNaUZ3MEFaaHc?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "NEWS"
+      ],
+      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sLTJnYXBrNUt2UVBadGdJMFpraG5scE1TZ0VobGlzZVVickhaWmRYT3NsVmNkV2szdFViaTRkSml2RTFyNmhNaUZ3MEFaaHc?oc=5\" target=\"_blank\">Google Cloud Partner of the Year 「Artificial Intelligence: Workplace AI Transformation - Japan」を受賞 ～生成 AIによる業務変革の実績と、優れた支援体制が評価</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newscast.jp</font>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-11-17T04:17:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "OpenBot",
+      "url": "https://www.producthunt.com/products/copilotkit",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Grok Bot alternative: self-host, fully customize, any stack </p> <p> <a href=\"https://www.producthunt.com/products/copilotkit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1232008?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-17T04:17:13"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "readywhen",
+      "url": "https://www.producthunt.com/products/readywhen",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your personal assistant that lives in email around the clock </p> <p> <a href=\"https://www.producthunt.com/products/readywhen?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1309589?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-17T04:17:13"
     }
   ],
-  "updated_at": "2026-11-17T00:10:39.159456+09:00"
+  "updated_at": "2026-11-17T04:17:17.378765+09:00"
 }
