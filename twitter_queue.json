@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-11-16-ollama-openwebui-local-llm-guide.jpg",
     "created_at": "2026-11-16T09:56:19.500986+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-16-ai-infra-book-llm-performance-analysis",
+    "title": "ai-infra-book レビュー：LLM推論の限界を計算で導き出すAIインフラの聖書",
+    "url": "https://ai.negi-lab.com/posts/ai-infra-book-llm-performance-analysis/",
+    "category": "TOOL",
+    "viral_tags": "#AIインフラ #ローカルLLM",
+    "tweet_text": "H100やRTX 4090の限界性能を「算数」で導き出すai-infra-bookが凄すぎる。なぜLlama-3の推論がその速度で止まるのか、VRAM帯域とFLOPsの物理制約から数式で証明してくれる。AIインフラ担当者や自作サーバー勢は、勘でGPUを買う前にこの「量化分析」を読むべき。エンジニア向けの聖書と言える密度。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-16-ai-infra-book-llm-performance-analysis.jpg",
+    "created_at": "2026-11-16T14:58:34.516859+09:00",
+    "posted": false
   }
 ]
