@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-17-local-llama-gpu-comparison-rtx-vs-mac.jpg",
     "created_at": "2026-11-17T04:17:43.430712+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-17-local-llm-gpu-mac-comparison-guide",
+    "title": "ローカルLLM用GPU・Macおすすめ比較！AI開発者が買う前に見るべき失敗しない選び方",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #自作PC",
+    "tweet_text": "ローカルLLM環境で「VRAM 8GB」を選ぶのは、今のAI開発では最も避けたい失敗。\nLlama 3や画像生成を実務で回すなら、最低でも16GBは必須。\nコスパならRTX 4060 Ti 16GB、ガチなら中古3090か4090の24GB。\nMac派はメモリ32GB以上を選ばないと、せっかくの統一メモリが泣きを見ます。\n後悔する前にチェックすべき構成をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-17-local-llm-gpu-mac-comparison-guide.jpg",
+    "created_at": "2026-11-17T06:49:18.733193+09:00",
+    "posted": false
   }
 ]
