@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-18-claude-code-ai-coding-pc-specs-comparison.jpg",
     "created_at": "2026-11-18T05:40:31.472783+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-18-mac-mini-m4-local-llm-memory-guide",
+    "title": "Mac miniでローカルLLMを始めるならメモリ何GBが正解か？M4世代の選び方と失敗しないスペック比較",
+    "url": "https://ai.negi-lab.com/posts/mac-mini-m4-local-llm-memory-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #Macmini",
+    "tweet_text": "Mac miniでローカルLLMを始めるなら、メモリ16GBは「動くだけ」で終わります。\n\n実務でQwen 2.5やLlama 3.1をストレスなく回すなら24GBが最低ライン。DeepSeekなど重いモデルやRAGまで視野に入れるなら48GBか64GBが正解です。\n\nM4世代はメモリ帯域も優秀ですが、後から増設不可な点だけは要注意。買う前に見るべき判断基準をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-18-mac-mini-m4-local-llm-memory-guide.jpg",
+    "created_at": "2026-11-18T07:37:30.539727+09:00",
+    "posted": false
   }
 ]
