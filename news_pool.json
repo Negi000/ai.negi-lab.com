@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 09 Nov 2026 20:04:55 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-11-10T08:32:31"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 09 Nov 2026 18:24:38 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-11-10T08:32:31"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Mon, 09 Nov 2026 23:28:37 +0000",
-      "summary": "The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-10T08:32:39"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "If You Read This",
-      "url": "https://www.producthunt.com/products/if-you-read-this",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> A daily check-in app that works like a dead man's switch </p> <p> <a href=\"https://www.producthunt.com/products/if-you-read-this?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1306884?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-10T08:32:40"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Anthropic reportedly plans to move forward with IPO plans",
       "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
@@ -2723,7 +2667,67 @@
         "revenue_score": 6
       },
       "collected_at": "2026-11-17T08:29:23"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 16 Nov 2026 23:32:32 +0000",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-11-17T09:39:44"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Punchcutter",
+      "url": "https://www.producthunt.com/products/punchcutter",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Turn a sentence or your handwriting into a real font family </p> <p> <a href=\"https://www.producthunt.com/products/punchcutter?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1317334?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-17T09:39:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "LexiCAD",
+      "url": "https://www.producthunt.com/products/lexicad",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Describe a part in plain language to get a CAD design </p> <p> <a href=\"https://www.producthunt.com/products/lexicad?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1318136?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-17T09:39:45"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Cal.com v7",
+      "url": "https://www.producthunt.com/products/cal",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Cal.com now has events, discover, an assistant + more </p> <p> <a href=\"https://www.producthunt.com/products/cal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1317659?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-17T09:39:45"
     }
   ],
-  "updated_at": "2026-11-17T08:29:27.276156+09:00"
+  "updated_at": "2026-11-17T09:39:48.344317+09:00"
 }
