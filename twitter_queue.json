@@ -15109,20 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-16-ffmpeg-skill-mcp-guide-gpu-specs",
-    "title": "Claude Codeで動画編集を自動化するffmpeg-skill導入ガイド：おすすめPCスペックとVRAMの選び方",
-    "url": "https://ai.negi-lab.com/posts/ffmpeg-skill-mcp-guide-gpu-specs/",
-    "category": "MONEY",
-    "viral_tags": "#ClaudeCode #動画編集",
-    "tweet_text": "Claude CodeやCursorから動画編集を自動化する「ffmpeg-skill」が熱い。42種のツールをAIが自律的に使いこなす。\n\n快適に動かすならVRAM 12GB以上のRTXか、統一メモリ32GB以上のMacが必須条件。8GB以下だとAI推論とエンコードが競合して落ちる。\n\nAPI代を無駄にしないためにも、動画AI時代はハードウェアへの投資が最大の節約になる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-16-ffmpeg-skill-mcp-guide-gpu-specs.jpg",
-    "created_at": "2026-11-16T03:40:06.607438+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-16-claude-code-parallel-workers-hardware-guide",
     "title": "Claude Code並列ワーカー導入で変わる開発環境とおすすめハードウェア比較",
     "url": "https://ai.negi-lab.com/posts/claude-code-parallel-workers-hardware-guide/",
