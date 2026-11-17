@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-11-17-google-research-paper-orchestra-review-guide.jpg",
     "created_at": "2026-11-17T12:42:31.801603+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-17-stateweave-ai-agent-sandbox-review",
+    "title": "StateWeave 使い方とレビュー：AIエージェントの挙動をクローン環境で安全に検証する",
+    "url": "https://ai.negi-lab.com/posts/stateweave-ai-agent-sandbox-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #個人開発",
+    "tweet_text": "AIエージェントにSlackやGitHubを操作させる際、本番データを壊す不安から解放される。StateWeaveは、アプリの状態まで再現した「クローン環境」を即座に作成。API叩き放題、壊し放題のサンドボックスで、決定的なテストが可能になる。リグレッションテストを回したいエージェント開発者には必須のインフラ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-11-17T16:35:50.408596+09:00",
+    "posted": false
   }
 ]
