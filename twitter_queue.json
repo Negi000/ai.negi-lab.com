@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-11-17-claude-code-cursor-ai-coding-guide.jpg",
     "created_at": "2026-11-17T09:40:11.167335+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-17-google-research-paper-orchestra-review-guide",
+    "title": "paper-orchestra 使い方：マルチエージェントでAI論文執筆を自動化する",
+    "url": "https://ai.negi-lab.com/posts/google-research-paper-orchestra-review-guide/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #論文執筆",
+    "tweet_text": "Google Researchのpaper-orchestra、もはや「論文執筆の自動化」を次の次元に押し上げてる。単一プロンプトじゃ無理だった長文の論理整合性を、複数のエージェントが批評し合うことで担保する設計。Gemini 1.5 Proの200万トークン窓を前提にしたサーベイ力は圧巻。ただの下書き生成じゃなく、構造のオーケストレーション。研究の初動を10倍速くしたいなら、買う前にこれを試すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-17-google-research-paper-orchestra-review-guide.jpg",
+    "created_at": "2026-11-17T12:42:31.801603+09:00",
+    "posted": false
   }
 ]
