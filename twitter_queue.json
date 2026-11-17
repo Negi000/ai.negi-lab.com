@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-16-ollama-openwebui-local-llm-guide",
-    "title": "OllamaとOpen WebUIで自分専用の機密保持ローカルLLMを構築する方法",
-    "url": "https://ai.negi-lab.com/posts/ollama-openwebui-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Ollama",
-    "tweet_text": "VRAM 16GBのPCがあるなら、今すぐOllama + Open WebUIでローカルLLMを立てるべき。社外秘のPDFをいくら読み込ませても、外部へのデータ流出は物理的にゼロ。月額20ドルの節約以上に、心理的ハードルなく「自分専用の知能」を構築できる価値がデカい。Docker一発でRAG環境まで揃うのはもはやチート。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-16-ollama-openwebui-local-llm-guide.jpg",
-    "created_at": "2026-11-16T09:56:19.500986+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-16-ai-infra-book-llm-performance-analysis",
-    "title": "ai-infra-book レビュー：LLM推論の限界を計算で導き出すAIインフラの聖書",
-    "url": "https://ai.negi-lab.com/posts/ai-infra-book-llm-performance-analysis/",
-    "category": "TOOL",
-    "viral_tags": "#AIインフラ #ローカルLLM",
-    "tweet_text": "H100やRTX 4090の限界性能を「算数」で導き出すai-infra-bookが凄すぎる。なぜLlama-3の推論がその速度で止まるのか、VRAM帯域とFLOPsの物理制約から数式で証明してくれる。AIインフラ担当者や自作サーバー勢は、勘でGPUを買う前にこの「量化分析」を読むべき。エンジニア向けの聖書と言える密度。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-16-ai-infra-book-llm-performance-analysis.jpg",
-    "created_at": "2026-11-16T14:58:34.516859+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-16-blomma-for-organizations-skill-mapping-review",
     "title": "Blomma for Organizations 組織のスキル密度をAIで可視化しスケールさせる実務ガイド",
     "url": "https://ai.negi-lab.com/posts/blomma-for-organizations-skill-mapping-review/",
