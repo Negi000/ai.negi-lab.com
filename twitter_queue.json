@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-11-18-mac-mini-m4-local-llm-memory-guide.jpg",
     "created_at": "2026-11-18T07:37:30.539727+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-18-apple-silicon-mlx-local-llm-tutorial",
+    "title": "Apple Siliconの性能を限界まで引き出すMLX入門",
+    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "MacBookのGPU性能、眠らせていませんか？MLXを使えばLlama 3.1が驚くほど爆速で動きます。RTX 4090を2枚挿す私でも、Mac Studio + MLXの静音と低電力での推論速度には目を見張るものがある。仕事で使うならメモリは最低16GB、理想は32GB以上。Unified Memoryを直接叩く快感をぜひ。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-18-apple-silicon-mlx-local-llm-tutorial.jpg",
+    "created_at": "2026-11-18T08:46:01.376712+09:00",
+    "posted": false
   }
 ]
