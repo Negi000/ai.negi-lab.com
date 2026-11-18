@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-17-local-llama-gpu-comparison-rtx-vs-mac",
-    "title": "ローカルLLM構築ガイド｜RTX 4090かApple Siliconか？VRAM容量別おすすめ比較",
-    "url": "https://ai.negi-lab.com/posts/local-llama-gpu-comparison-rtx-vs-mac/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "ローカルLLM用にGPUを買うなら「VRAM 16GB」が生存ライン。RTX 4060 Ti 16GBなら6万円台でLlama 3が快適に動く環境が手に入る。\n速度のRTXか、大容量メモリのMacか。実務で20案件以上こなした結論として、開発者ならCUDAが使えるNVIDIA一択。8GBモデルを買うのだけは、後悔するから絶対にやめておきましょう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-17-local-llama-gpu-comparison-rtx-vs-mac.jpg",
-    "created_at": "2026-11-17T04:17:43.430712+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-17-local-llm-gpu-mac-comparison-guide",
-    "title": "ローカルLLM用GPU・Macおすすめ比較！AI開発者が買う前に見るべき失敗しない選び方",
-    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #自作PC",
-    "tweet_text": "ローカルLLM環境で「VRAM 8GB」を選ぶのは、今のAI開発では最も避けたい失敗。\nLlama 3や画像生成を実務で回すなら、最低でも16GBは必須。\nコスパならRTX 4060 Ti 16GB、ガチなら中古3090か4090の24GB。\nMac派はメモリ32GB以上を選ばないと、せっかくの統一メモリが泣きを見ます。\n後悔する前にチェックすべき構成をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-17-local-llm-gpu-mac-comparison-guide.jpg",
-    "created_at": "2026-11-17T06:49:18.733193+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-17-llamacpp-gguf-local-llm-beginner-guide",
-    "title": "llama.cpp 使い方 入門 | 低スペックPCで最新AIを動かす方法",
-    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-beginner-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #llamacpp",
-    "tweet_text": "ローカルLLMを動かすならllama.cpp一択。Pythonの依存関係で消耗するのはもう終わり。RTX 4090を2枚挿す私でも、手軽な検証にはGGUFのQ4_K_M量子化を愛用しています。VRAM 8GB〜16GBあれば最新のLlama 3が爆速で動く。API料金を気にせず自分のPCでAIを飼い慣らす実戦ガイドを書きました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-17-llamacpp-gguf-local-llm-beginner-guide.jpg",
-    "created_at": "2026-11-17T08:29:53.365368+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-17-claude-code-cursor-ai-coding-guide",
     "title": "Claude CodeとCursorを併用したAIコーディング環境構築と実践ガイド",
     "url": "https://ai.negi-lab.com/posts/claude-code-cursor-ai-coding-guide/",
