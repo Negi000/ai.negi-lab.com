@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-11-19-mlx-apple-silicon-local-llm-tutorial.jpg",
     "created_at": "2026-11-19T07:17:43.391276+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-19-claude-code-cursor-integrated-workflow-guide",
+    "title": "Claude CodeとCursorを併用して爆速でAPI連携ツールを開発する方法",
+    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-integrated-workflow-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ClaudeCode #Cursor",
+    "tweet_text": "Claude CodeとCursorの併用が結論。Cursorを「司令塔」として設計を見つつ、Claude Codeを「実行部隊」にして環境構築やテストを全自動化する。API Tier 2以上は必須だが、デバッグの試行錯誤が消える快感は異常。月$50払ってでも開発時間を3倍速にしたいエンジニアは今すぐ導入すべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-19-claude-code-cursor-integrated-workflow-guide.jpg",
+    "created_at": "2026-11-19T08:17:34.474826+09:00",
+    "posted": false
   }
 ]
