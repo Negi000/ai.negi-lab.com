@@ -1,66 +1,6 @@
 {
   "items": [
     {
-      "source": "GitHub Trending",
-      "title": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
-      "extra": {
-        "stars_today": "364 stars today"
-      },
-      "collected_at": "2026-11-11T19:43:22"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "sgl-project/sglang-omni",
-      "url": "https://github.com/sgl-project/sglang-omni",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "High Performance Serving Runtime For Interactive Super Intelligence System",
-      "extra": {
-        "stars_today": "19 stars today"
-      },
-      "collected_at": "2026-11-11T19:43:22"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ScroogeFrog AI",
-      "url": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> AI ad fraud detection that protects your marketing budget </p> <p> <a href=\"https://www.producthunt.com/products/scroogefrog-ai-antifraud?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1285122?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-11T19:43:23"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Seedream 5.5 by ByteDance",
-      "url": "https://www.producthunt.com/products/seedream-4-0",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> ByteDance's AI image model built for 100-round editing </p> <p> <a href=\"https://www.producthunt.com/products/seedream-4-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1310088?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-11T19:43:23"
-    },
-    {
       "source": "Product Hunt",
       "title": "Mitra MCP",
       "url": "https://www.producthunt.com/products/mitra-5",
@@ -2363,22 +2303,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "RankSpot",
-      "url": "https://www.producthunt.com/products/rankspot",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Pay-as-you-go SEO and AI Search execution layer for agents </p> <p> <a href=\"https://www.producthunt.com/products/rankspot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1316291?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-11-18T00:40:19"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Link.bio",
       "url": "https://www.producthunt.com/products/link-bio",
       "primary_category": "TOOL",
@@ -2585,7 +2509,80 @@
         "revenue_score": 0
       },
       "collected_at": "2026-11-18T15:58:13"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 18 Nov 2026 04:14:04 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-18T20:29:04"
+    },
+    {
+      "source": "HN AI Hot",
+      "title": "Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Wed, 18 Nov 2026 03:47:43 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-18T20:29:04"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mermaid Flow",
+      "url": "https://www.producthunt.com/products/mermaid-chart",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The visual builder for agentic workflows </p> <p> <a href=\"https://www.producthunt.com/products/mermaid-chart?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1313286?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-11-18T20:29:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Waldo by Wherobots",
+      "url": "https://www.producthunt.com/products/waldo-by-wherobots",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> The AI agent that accelerates engineering with spatial data </p> <p> <a href=\"https://www.producthunt.com/products/waldo-by-wherobots?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1305594?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 6
+      },
+      "collected_at": "2026-11-18T20:29:16"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Toone",
+      "url": "https://www.producthunt.com/products/toone",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Grokbot meets n8n/zapier </p> <p> <a href=\"https://www.producthunt.com/products/toone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1259097?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-18T20:29:16"
     }
   ],
-  "updated_at": "2026-11-18T15:58:17.001807+09:00"
+  "updated_at": "2026-11-18T20:29:19.694824+09:00"
 }
