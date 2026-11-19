@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-11-20-anthropic-ipo-ai-hardware-guide-rtx-mac.jpg",
     "created_at": "2026-11-20T05:17:17.330112+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-20-mlx-apple-silicon-local-llm-tutorial",
+    "title": "MLXの使い方入門 Apple Silicon MacでローカルLLMを爆速で動かす方法",
+    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "Apple Silicon搭載Macを最強のAI端末に変える。MLXならLlama 3やQwenが秒間20トークン以上で爆速動作します。\n\nメモリ16GB以上あれば、4-bit量子化した8Bモデルが驚くほど滑らかに動く。\nllama.cppより最適化が効くApple純正フレームワークの威力を、まずはPython 10行程度のコードで体感してほしい。\nプライバシー重視のローカルLLM環境、構築は30分で終わります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-20-mlx-apple-silicon-local-llm-tutorial.jpg",
+    "created_at": "2026-11-20T07:25:28.728685+09:00",
+    "posted": false
   }
 ]
