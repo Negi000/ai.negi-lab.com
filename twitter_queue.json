@@ -15261,5 +15261,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-11-20T02:59:26.229340+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-20-anthropic-ipo-ai-hardware-guide-rtx-mac",
+    "title": "Anthropic上場で加速するClaude開発環境。失敗しないGPU・Mac選びとAIツール比較",
+    "url": "https://ai.negi-lab.com/posts/anthropic-ipo-ai-hardware-guide-rtx-mac/",
+    "category": "MONEY",
+    "viral_tags": "#ClaudeCode #ローカルLLM",
+    "tweet_text": "Anthropicの2兆ドル上場でClaudeの覇権が確定。開発者が今すぐ見直すべきは「メモリ容量」です。Claude CodeやCursorを軸にするなら、Macは32GB、RTXなら16GB（4060 Ti等）が2026年の最低ライン。VRAM不足は開発効率を致命的に下げます。後悔する前に物理メモリの壁を突破しましょう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-20-anthropic-ipo-ai-hardware-guide-rtx-mac.jpg",
+    "created_at": "2026-11-20T05:17:17.330112+09:00",
+    "posted": false
   }
 ]
