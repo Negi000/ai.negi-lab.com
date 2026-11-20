@@ -1,78 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 13 Nov 2026 12:10:24 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-11-13T23:09:54"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 13 Nov 2026 05:10:27 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-11-13T23:09:54"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Burnstate",
-      "url": "https://www.producthunt.com/products/burnstate",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Claude Code, Codex & Cursor limits, paced in your menu bar </p> <p> <a href=\"https://www.producthunt.com/products/burnstate?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1311191?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-11-13T23:09:56"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Hoverine",
-      "url": "https://www.producthunt.com/products/hoverine",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Rive animation templates you can drop into your app </p> <p> <a href=\"https://www.producthunt.com/products/hoverine?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1314493?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-13T23:09:56"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Templify AI",
-      "url": "https://www.producthunt.com/products/templify",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Powerful content editor for people who aren’t editors </p> <p> <a href=\"https://www.producthunt.com/products/templify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1293281?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-13T23:09:56"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
       "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
@@ -2263,22 +2191,6 @@
       "collected_at": "2026-11-20T11:13:38"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Fri, 20 Nov 2026 00:56:01 +0000",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "extra": {
-        "revenue_score": 6
-      },
-      "collected_at": "2026-11-20T11:13:49"
-    },
-    {
       "source": "Product Hunt",
       "title": "Room AI",
       "url": "https://www.producthunt.com/products/room-ai-2",
@@ -2377,7 +2289,93 @@
         "revenue_score": 0
       },
       "collected_at": "2026-11-20T20:22:00"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "If you stop writing code, you also get worse at reviewing it",
+      "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "GUIDE"
+      ],
+      "published": "Fri, 20 Nov 2026 12:41:38 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-21T00:02:03"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "An FBI agent called a Claude user about his chats",
+      "url": "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Thu, 19 Nov 2026 22:36:51 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-21T00:02:03"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY"
+      ],
+      "published": "Fri, 20 Nov 2026 14:55:44 +0000",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to [&#8230;]",
+      "extra": {
+        "revenue_score": 1
+      },
+      "collected_at": "2026-11-21T00:02:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Compass OS",
+      "url": "https://www.producthunt.com/products/compassos-dev",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Your career, ready before you need it </p> <p> <a href=\"https://www.producthunt.com/products/compassos-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1296743?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-21T00:02:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "tripps",
+      "url": "https://www.producthunt.com/products/tripps",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Plan a group trip with one link, no account needed </p> <p> <a href=\"https://www.producthunt.com/products/tripps?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1320740?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-21T00:02:15"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Tamekoshi",
+      "url": "https://www.producthunt.com/products/tamekoshi",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A Tamagotchi-style AI companion that does real work </p> <p> <a href=\"https://www.producthunt.com/products/tamekoshi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1322934?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-21T00:02:15"
     }
   ],
-  "updated_at": "2026-11-20T20:22:03.436755+09:00"
+  "updated_at": "2026-11-21T00:02:18.864729+09:00"
 }
