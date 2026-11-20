@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-11-21-python-rag-chromadb-openai-tutorial.jpg",
     "created_at": "2026-11-21T06:57:24.694845+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-21-llamacpp-gguf-local-llm-setup-guide",
+    "title": "llama.cppとGGUFでローカルLLMを爆速で動かす環境構築ガイド",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-llm-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llama_cpp",
+    "tweet_text": "ローカルLLMを実務で使うなら、llama.cppとGGUFの組み合わせが最強の安定解。VRAM 8GB〜16GBあれば、Llama 3.1 8Bが爆速で動く。API課金も機密漏洩も気にせず、自宅サーバーやMacでLLMを飼い慣らす。まずは環境構築での「GPU認識」の壁を突破して、自由な推論環境を手に入れよう。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-21-llamacpp-gguf-local-llm-setup-guide.jpg",
+    "created_at": "2026-11-21T07:58:51.555442+09:00",
+    "posted": false
   }
 ]
