@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "source": "HN Local AI",
-      "title": "Gnomon. Git for Postgres data, built for agents",
-      "url": "https://github.com/bitsinfra/gnomon",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 13 Nov 2026 17:09:52 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-11-14T04:25:03"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
-      "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 13 Nov 2026 15:52:04 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-11-14T04:25:03"
-    },
-    {
-      "source": "HN Local AI",
-      "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
-      "url": "https://news.ycombinator.com/item?id=50484421",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 13 Nov 2026 14:53:32 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-11-14T04:25:03"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-11-14T04:25:05"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "qorqbot",
-      "url": "https://www.producthunt.com/products/qorqbot",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Proactive agent for business work </p> <p> <a href=\"https://www.producthunt.com/products/qorqbot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1284660?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 3
-      },
-      "collected_at": "2026-11-14T04:25:06"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "AI agent startup LangChain hits $3B valuation",
       "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
@@ -2390,7 +2320,54 @@
         "revenue_score": 0
       },
       "collected_at": "2026-11-21T02:33:43"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 20 Nov 2026 19:32:08 +0000",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too.",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-21T04:49:01"
+    },
+    {
+      "source": "Google News",
+      "title": "比研 オンライン・フォーラム Comment on “Main Provisions and Legal Issues of the Korean Framework Act on Artificial Intelligence” No.2026-2 - 早稲田大学",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JNm9FdGhGQ1V1bnJoclIwQWg1QWpDczBkd0hGUFNYcU9vcTNNMTYtdE9mb09fS1E5cnUycHd1Wk1hY0dpVTJiX1JWUS12WTVxX1Jka0pnVVYtVmZqU0lMZ2dSaVUxRlRwOG5QOUp6SjY?oc=5",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS",
+        "TOOL"
+      ],
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9JNm9FdGhGQ1V1bnJoclIwQWg1QWpDczBkd0hGUFNYcU9vcTNNMTYtdE9mb09fS1E5cnUycHd1Wk1hY0dpVTJiX1JWUS12WTVxX1Jka0pnVVYtVmZqU0lMZ2dSaVUxRlRwOG5QOUp6SjY?oc=5\" target=\"_blank\">比研 オンライン・フォーラム Comment on “Main Provisions and Legal Issues of the Korean Framework Act on Artificial Intelligence” No.2026-2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">早稲田大学</font>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-21T04:49:02"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "tinytldr",
+      "url": "https://www.producthunt.com/products/tinytldr",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Templates for your agents </p> <p> <a href=\"https://www.producthunt.com/products/tinytldr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1312415?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-11-21T04:49:02"
     }
   ],
-  "updated_at": "2026-11-21T02:33:46.636832+09:00"
+  "updated_at": "2026-11-21T04:49:05.471390+09:00"
 }

@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-21-ai-coding-environment-hardware-guide-rtx-mac.jpg",
     "created_at": "2026-11-21T02:34:12.021001+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-21-gemini-4-neon-mei-top-coding-ai-hardware",
+    "title": "Gemini 4 Neonがコーディング性能で首位獲得。エンジニアが今選ぶべきAIモデルと最適ハードウェア比較・選び方",
+    "url": "https://ai.negi-lab.com/posts/gemini-4-neon-mei-top-coding-ai-hardware/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #エンジニア",
+    "tweet_text": "コーディング特化指標のMEIでGemini 4 Neonが首位。Claude 3.5 Sonnetを超える数値が出た。\n実務で使うならAPI（Gemini）＋ローカル（RTX 4090）の併用が結論。APIコストを抑えつつ、長大なコンテキストはクラウドに投げる使い分けが賢い。\nVRAM 24GB以下のGPUを買うと後悔するから、今投資するならRTX 4090かMac Studio 128GBの2択。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-21-gemini-4-neon-mei-top-coding-ai-hardware.jpg",
+    "created_at": "2026-11-21T04:49:34.213946+09:00",
+    "posted": false
   }
 ]
