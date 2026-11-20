@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-19-whisper-stt-microphone-guide-for-engineers",
-    "title": "Whisper文字起こし用マイクおすすめ比較と選び方！RTX/Mac実務で失敗しないマイク選定",
-    "url": "https://ai.negi-lab.com/posts/whisper-stt-microphone-guide-for-engineers/",
-    "category": "MONEY",
-    "viral_tags": "#Whisper #業務効率化",
-    "tweet_text": "Whisper文字起こしの精度が上がらない原因、実はマイクかもしれません。RTX 4090等のファン騒音下では、高感度なコンデンサー型より「単一指向性ダイナミック型」が正解。SHURE MV7+やRODE Wireless PROなら、ハルシネーションを物理的に抑えられます。手動修正の時間を買うと思えば、2〜4万円の投資は数ヶ月で回収可能です。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-19-whisper-stt-microphone-guide-for-engineers.jpg",
-    "created_at": "2026-11-19T05:15:02.461261+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-19-mlx-apple-silicon-local-llm-tutorial",
-    "title": "MLX入門 Apple SiliconでローカルLLMを動かす方法",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Siliconの真価はMLXでこそ発揮される。Llama 3.1 8Bを4bit量子化すれば、MacBookで30〜50 tokens/secの爆速推論が可能。API課金もデータ流出も気にせず、オフラインで自分専用AIが動く快感。メモリ16GB以上あれば今すぐ試すべき。環境構築からストリーミング出力の実装まで30分で完結します。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-19-mlx-apple-silicon-local-llm-tutorial.jpg",
-    "created_at": "2026-11-19T07:17:43.391276+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-19-claude-code-cursor-integrated-workflow-guide",
-    "title": "Claude CodeとCursorを併用して爆速でAPI連携ツールを開発する方法",
-    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-integrated-workflow-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ClaudeCode #Cursor",
-    "tweet_text": "Claude CodeとCursorの併用が結論。Cursorを「司令塔」として設計を見つつ、Claude Codeを「実行部隊」にして環境構築やテストを全自動化する。API Tier 2以上は必須だが、デバッグの試行錯誤が消える快感は異常。月$50払ってでも開発時間を3倍速にしたいエンジニアは今すぐ導入すべき。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-19-claude-code-cursor-integrated-workflow-guide.jpg",
-    "created_at": "2026-11-19T08:17:34.474826+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-19-s-space-ai-agent-team-workspace-review",
     "title": "S.Space チーム専用AIエージェント共有ワークスペースの実践的活用と評価",
     "url": "https://ai.negi-lab.com/posts/s-space-ai-agent-team-workspace-review/",
