@@ -1,93 +1,6 @@
 {
   "items": [
     {
-      "source": "HN AI Hot",
-      "title": "Claude Is Down",
-      "url": "https://status.claude.com/history",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "NEWS"
-      ],
-      "published": "Fri, 13 Nov 2026 10:20:09 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-11-13T19:49:51"
-    },
-    {
-      "source": "HN AI Hot",
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Fri, 13 Nov 2026 10:18:13 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-11-13T19:49:51"
-    },
-    {
-      "source": "GitHub Trending",
-      "title": "Tencent-Hunyuan/Hy-MT2",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-MT2",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "",
-      "extra": {
-        "stars_today": "49 stars today"
-      },
-      "collected_at": "2026-11-13T19:49:53"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "StockRip",
-      "url": "https://www.producthunt.com/products/stockrip",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Trading cards, literally digital cards with tokenized stocks </p> <p> <a href=\"https://www.producthunt.com/products/stockrip?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1314942?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-13T19:49:54"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Replicate",
-      "url": "https://www.producthunt.com/products/replicate-10",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Turn Webflow/Framer app into a Claude/Codex project for free </p> <p> <a href=\"https://www.producthunt.com/products/replicate-10?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1314761?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-13T19:49:54"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "GAtrends",
-      "url": "https://www.producthunt.com/products/gatrends",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Spike alerts for your keywords in Telegram, Claude, ChatGPT </p> <p> <a href=\"https://www.producthunt.com/products/gatrends?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1314471?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-13T19:49:54"
-    },
-    {
       "source": "HN Local AI",
       "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
       "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
@@ -2193,21 +2106,6 @@
     },
     {
       "source": "Product Hunt",
-      "title": "Spellar for Chrome",
-      "url": "https://www.producthunt.com/products/spellar",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Free, no-bot meeting notes with memory, now in your browser </p> <p> <a href=\"https://www.producthunt.com/products/spellar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1318828?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-20T02:58:57"
-    },
-    {
-      "source": "Product Hunt",
       "title": "Verse Engine by Ctruh",
       "url": "https://www.producthunt.com/products/verse-engine-by-ctruh",
       "primary_category": "TOOL",
@@ -2394,7 +2292,92 @@
         "revenue_score": 0
       },
       "collected_at": "2026-11-20T11:13:50"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Fri, 20 Nov 2026 10:01:41 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-20T20:21:48"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
+      "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 19 Nov 2026 22:56:59 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-20T20:21:48"
+    },
+    {
+      "source": "HN AI Companies",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Thu, 19 Nov 2026 18:47:16 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-20T20:21:48"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Badya",
+      "url": "https://www.producthunt.com/products/badya-ai-language-immersion",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Learn languages from real content with an agentic AI tutor </p> <p> <a href=\"https://www.producthunt.com/products/badya-ai-language-immersion?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1313803?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 3
+      },
+      "collected_at": "2026-11-20T20:22:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Kuc-kuc",
+      "url": "https://www.producthunt.com/products/kuc-kuc",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> A knock on the door when dangerous weather comes </p> <p> <a href=\"https://www.producthunt.com/products/kuc-kuc?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1315726?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-20T20:22:00"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Direct by Instagram",
+      "url": "https://www.producthunt.com/products/instagram",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Instagram DMs, without the feed or Instagram account </p> <p> <a href=\"https://www.producthunt.com/products/instagram?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1322498?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-20T20:22:00"
     }
   ],
-  "updated_at": "2026-11-20T15:51:31.984721+09:00"
+  "updated_at": "2026-11-20T20:22:03.436755+09:00"
 }
