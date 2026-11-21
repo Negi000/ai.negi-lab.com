@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-11-22-claude-physics-black-hole-gpu-guide.jpg",
     "created_at": "2026-11-22T03:55:38.667847+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-22-claude-3-5-fable-ai-hardware-guide-vram",
+    "title": "Claude 3.5制作を加速させるAIハード選び！RTX・Mac・VRAM容量の最適解を比較",
+    "url": "https://ai.negi-lab.com/posts/claude-3-5-fable-ai-hardware-guide-vram/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #生成AI",
+    "tweet_text": "Claude 3.5で物語を自動生成する「Fable」級の制作を個人でやるなら、VRAM 8GB環境はもう卒業。現時点の最適解はRTX 4060 Ti 16GBか、メモリ36GB以上のMacBook Proです。生成AIは「モデルがメモリに乗るか」が全て。12GB以下のGPUで妥協すると、数ヶ月後に必ず後悔します。投資すべき優先順位をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-22-claude-3-5-fable-ai-hardware-guide-vram.jpg",
+    "created_at": "2026-11-22T05:39:45.497157+09:00",
+    "posted": false
   }
 ]
