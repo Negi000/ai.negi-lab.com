@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-20-anthropic-ipo-ai-hardware-guide-rtx-mac",
-    "title": "Anthropic上場で加速するClaude開発環境。失敗しないGPU・Mac選びとAIツール比較",
-    "url": "https://ai.negi-lab.com/posts/anthropic-ipo-ai-hardware-guide-rtx-mac/",
-    "category": "MONEY",
-    "viral_tags": "#ClaudeCode #ローカルLLM",
-    "tweet_text": "Anthropicの2兆ドル上場でClaudeの覇権が確定。開発者が今すぐ見直すべきは「メモリ容量」です。Claude CodeやCursorを軸にするなら、Macは32GB、RTXなら16GB（4060 Ti等）が2026年の最低ライン。VRAM不足は開発効率を致命的に下げます。後悔する前に物理メモリの壁を突破しましょう。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-20-anthropic-ipo-ai-hardware-guide-rtx-mac.jpg",
-    "created_at": "2026-11-20T05:17:17.330112+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-20-mlx-apple-silicon-local-llm-tutorial",
-    "title": "MLXの使い方入門 Apple Silicon MacでローカルLLMを爆速で動かす方法",
-    "url": "https://ai.negi-lab.com/posts/mlx-apple-silicon-local-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #AppleSilicon",
-    "tweet_text": "Apple Silicon搭載Macを最強のAI端末に変える。MLXならLlama 3やQwenが秒間20トークン以上で爆速動作します。\n\nメモリ16GB以上あれば、4-bit量子化した8Bモデルが驚くほど滑らかに動く。\nllama.cppより最適化が効くApple純正フレームワークの威力を、まずはPython 10行程度のコードで体感してほしい。\nプライバシー重視のローカルLLM環境、構築は30分で終わります。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-20-mlx-apple-silicon-local-llm-tutorial.jpg",
-    "created_at": "2026-11-20T07:25:28.728685+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-20-claude-code-cursor-ai-coding-workflow",
     "title": "Claude CodeとCursorを併用して爆速で開発環境を構築する方法",
     "url": "https://ai.negi-lab.com/posts/claude-code-cursor-ai-coding-workflow/",
