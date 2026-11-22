@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-11-22-apple-silicon-mlx-local-llm-guide.jpg",
     "created_at": "2026-11-22T10:09:19.396451+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-22-ai-context-flow-mcp-memory-sync-review",
+    "title": "AI Context Flow MCP レビュー：エージェント間の記憶の断絶を解消する共有メモリの実用性",
+    "url": "https://ai.negi-lab.com/posts/ai-context-flow-mcp-memory-sync-review/",
+    "category": "TOOL",
+    "viral_tags": "#MCP #Cursor",
+    "tweet_text": "AIエージェント間の「記憶の断絶」に悩む人はAI Context Flow MCPを試すべき。Claudeで決めた仕様をCursorが即座に理解する共有メモリ層を構築。100件の記憶検索も0.1秒以下。VRAM消費もほぼゼロ。複数ツールを横断して開発するなら、手動のコピペ作業を排除できるこの環境構築に30分投資する価値あり。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-22-ai-context-flow-mcp-memory-sync-review.jpg",
+    "created_at": "2026-11-22T15:16:35.693288+09:00",
+    "posted": false
   }
 ]
