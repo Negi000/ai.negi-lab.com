@@ -15233,5 +15233,19 @@
     "image_path": "/images/posts/2026-11-23-engineering-manager-ai-pc-comparison.jpg",
     "created_at": "2026-11-23T04:16:40.371657+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-23-ai-development-subscription-hardware-guide-2025",
+    "title": "ローカルLLMとAIサブスクの選び方：個人開発者がVRAMと月額費用で失敗しないための比較ガイド",
+    "url": "https://ai.negi-lab.com/posts/ai-development-subscription-hardware-guide-2025/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #個人開発",
+    "tweet_text": "AI開発で「とりあえずVRAM 8GB」を買うのは、最も避けるべき失敗です。Llama 3.1等の実務検証には最低16GBが必要。\n\n月3万円の収益を狙うなら、Cursorへの課金を最優先し、浮いた予算でRTX 4060 Ti 16GBを確保するのが最短ルート。Macならメモリ36GB以上が実務の境界線。ここをケチると、開発効率が数倍変わります。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-11-23T05:49:53.282023+09:00",
+    "posted": false
   }
 ]
