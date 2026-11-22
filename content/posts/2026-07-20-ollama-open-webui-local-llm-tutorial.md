@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OllamaとOpen WebUIを連携させ、完全にオフラインで動作する「プライベートChatGPT環境」を構築します。"
 date: 2026-07-20T00:00:00+09:00
 slug: "ollama-open-webui-local-llm-tutorial"

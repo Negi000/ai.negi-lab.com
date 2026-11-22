@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OllamaとOpen WebUIで自分専用の機密情報漏洩ゼロなChatGPT環境を構築する方法"
 date: 2026-08-10T00:00:00+09:00
 slug: "ollama-open-webui-local-llm-tutorial"

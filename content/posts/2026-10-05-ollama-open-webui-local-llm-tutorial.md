@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OllamaとOpen WebUIの入門：起動とモデル接続を切り分ける"
 date: 2026-10-05T00:00:00+09:00
 slug: "ollama-open-webui-local-llm-tutorial"

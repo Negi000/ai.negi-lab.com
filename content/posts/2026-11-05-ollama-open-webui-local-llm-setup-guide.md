@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OllamaとOpen WebUIで自分専用の「安全性・速度・機能」を兼ね備えた最強ローカルLLM環境を構築する方法"
 date: 2026-11-05T00:00:00+09:00
 slug: "ollama-open-webui-local-llm-setup-guide"

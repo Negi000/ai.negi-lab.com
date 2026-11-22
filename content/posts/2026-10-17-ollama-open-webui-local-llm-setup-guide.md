@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OllamaとOpen WebUIで自分専用のChatGPTを爆速で構築する方法"
 date: 2026-10-17T00:00:00+09:00
 slug: "ollama-open-webui-local-llm-setup-guide"
