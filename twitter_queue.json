@@ -15261,5 +15261,19 @@
     "image_path": "/images/posts/2026-11-22-ollama-openwebui-local-llm-guide.jpg",
     "created_at": "2026-11-22T07:04:00.653301+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-22-apple-silicon-mlx-local-llm-guide",
+    "title": "MLX 使い方 入門 Apple SiliconでローカルLLMを爆速にする方法",
+    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #MLX",
+    "tweet_text": "MacでローカルLLMを動かすなら、もはやllama.cppではなくMLX一択です。Appleシリコンに最適化されたこのフレームワークを使えば、Llama-3-8BクラスがM2/M3のMacBook Airでも快適に動作します。統合メモリを100%活かしきるための環境構築からPythonでの実装まで、私が実務で使っているコードを全公開。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-22-apple-silicon-mlx-local-llm-guide.jpg",
+    "created_at": "2026-11-22T10:09:19.396451+09:00",
+    "posted": false
   }
 ]
