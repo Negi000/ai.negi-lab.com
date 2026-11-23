@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-22-apple-silicon-mlx-local-llm-guide",
-    "title": "MLX 使い方 入門 Apple SiliconでローカルLLMを爆速にする方法",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "MacでローカルLLMを動かすなら、もはやllama.cppではなくMLX一択です。Appleシリコンに最適化されたこのフレームワークを使えば、Llama-3-8BクラスがM2/M3のMacBook Airでも快適に動作します。統合メモリを100%活かしきるための環境構築からPythonでの実装まで、私が実務で使っているコードを全公開。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-22-apple-silicon-mlx-local-llm-guide.jpg",
-    "created_at": "2026-11-22T10:09:19.396451+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-22-ai-context-flow-mcp-memory-sync-review",
-    "title": "AI Context Flow MCP レビュー：エージェント間の記憶の断絶を解消する共有メモリの実用性",
-    "url": "https://ai.negi-lab.com/posts/ai-context-flow-mcp-memory-sync-review/",
-    "category": "TOOL",
-    "viral_tags": "#MCP #Cursor",
-    "tweet_text": "AIエージェント間の「記憶の断絶」に悩む人はAI Context Flow MCPを試すべき。Claudeで決めた仕様をCursorが即座に理解する共有メモリ層を構築。100件の記憶検索も0.1秒以下。VRAM消費もほぼゼロ。複数ツールを横断して開発するなら、手動のコピペ作業を排除できるこの環境構築に30分投資する価値あり。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-22-ai-context-flow-mcp-memory-sync-review.jpg",
-    "created_at": "2026-11-22T15:16:35.693288+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-22-meshlive-offline-video-call-review",
     "title": "MeshLive 使い方とオフライン通信の限界",
     "url": "https://ai.negi-lab.com/posts/meshlive-offline-video-call-review/",
