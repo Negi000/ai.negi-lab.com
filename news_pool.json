@@ -2,65 +2,6 @@
   "items": [
     {
       "source": "HN AI Hot",
-      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "TOOL"
-      ],
-      "published": "Tue, 17 Nov 2026 01:35:16 +0000",
-      "summary": "",
-      "extra": {},
-      "collected_at": "2026-11-18T00:40:15"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY"
-      ],
-      "published": "Tue, 17 Nov 2026 15:00:00 +0000",
-      "summary": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is betting that a specialized travel-planning agent can [&#8230;]",
-      "extra": {
-        "revenue_score": 1
-      },
-      "collected_at": "2026-11-18T00:40:18"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "ROOTKey Platform",
-      "url": "https://www.producthunt.com/products/rootkey-platform",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> See what changed in your data. Restore what you can prove. </p> <p> <a href=\"https://www.producthunt.com/products/rootkey-platform?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1304366?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-18T00:40:19"
-    },
-    {
-      "source": "Product Hunt",
-      "title": "Link.bio",
-      "url": "https://www.producthunt.com/products/link-bio",
-      "primary_category": "TOOL",
-      "possible_categories": [
-        "TOOL"
-      ],
-      "published": "",
-      "summary": "<p> Paste your link, we build your page that your AI runs </p> <p> <a href=\"https://www.producthunt.com/products/link-bio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1310525?app_id=339\">Link</a> </p>",
-      "extra": {
-        "revenue_score": 0
-      },
-      "collected_at": "2026-11-18T00:40:19"
-    },
-    {
-      "source": "HN AI Hot",
       "title": "GPT‑6.2 Astra and Sol",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
       "primary_category": "NEWS",
@@ -1761,24 +1702,6 @@
       "collected_at": "2026-11-24T05:53:41"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "primary_category": "NEWS",
-      "possible_categories": [
-        "MONEY",
-        "NEWS",
-        "TOOL",
-        "GUIDE"
-      ],
-      "published": "Mon, 23 Nov 2026 22:05:50 +0000",
-      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "extra": {
-        "revenue_score": 8
-      },
-      "collected_at": "2026-11-24T08:38:14"
-    },
-    {
       "source": "Product Hunt",
       "title": "Open Source Solana Wallet",
       "url": "https://www.producthunt.com/products/open-source-solana-wallet",
@@ -2004,7 +1927,77 @@
         "revenue_score": 3
       },
       "collected_at": "2026-11-24T22:31:50"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+      "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 24 Nov 2026 17:07:41 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-25T04:56:53"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Claude Ship",
+      "url": "https://claude.com/resources/articles/introducing-claude-ship",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Mon, 23 Nov 2026 20:14:18 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-25T04:56:53"
+    },
+    {
+      "source": "HN AI Coding",
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "url": "https://github.com/mjwsolo/localcode",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "MONEY",
+        "TOOL"
+      ],
+      "published": "Sun, 22 Nov 2026 22:18:48 +0000",
+      "summary": "",
+      "extra": {},
+      "collected_at": "2026-11-25T04:56:53"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "primary_category": "NEWS",
+      "possible_categories": [
+        "NEWS"
+      ],
+      "published": "Tue, 24 Nov 2026 18:30:42 +0000",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "extra": {
+        "revenue_score": -2
+      },
+      "collected_at": "2026-11-25T04:57:05"
+    },
+    {
+      "source": "Product Hunt",
+      "title": "Mystonie",
+      "url": "https://www.producthunt.com/products/mystonie",
+      "primary_category": "TOOL",
+      "possible_categories": [
+        "TOOL"
+      ],
+      "published": "",
+      "summary": "<p> Log movies, shows, books & games — turn finishes into art </p> <p> <a href=\"https://www.producthunt.com/products/mystonie?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1328492?app_id=339\">Link</a> </p>",
+      "extra": {
+        "revenue_score": 0
+      },
+      "collected_at": "2026-11-25T04:57:06"
     }
   ],
-  "updated_at": "2026-11-24T22:31:53.808607+09:00"
+  "updated_at": "2026-11-25T04:57:09.590162+09:00"
 }
