@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-25-local-llm-agent-hardware-guide-rtx-mac.jpg",
     "created_at": "2026-11-25T07:09:16.998342+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-25-llama-cpp-gguf-python-local-llm-guide",
+    "title": "llama.cppとGGUF量子化でローカルLLMを構築する方法",
+    "url": "https://ai.negi-lab.com/posts/llama-cpp-gguf-python-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #Python",
+    "tweet_text": "ローカルLLMを動かすならllama.cpp＋GGUFが最強の選択肢。RTX 4090なら秒速60トークン、VRAM 8GBの並スペックでもQ4量子化ならLlama 3がサクサク動く。\n\nAPI料金を気にせず、完全オフラインで機密情報を扱える環境は一度作ると戻れません。環境構築でハマりやすいCUDAビルドのコツと、Pythonでストリーミング実装する具体コードをまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-25-llama-cpp-gguf-python-local-llm-guide.jpg",
+    "created_at": "2026-11-25T08:37:41.083431+09:00",
+    "posted": false
   }
 ]
