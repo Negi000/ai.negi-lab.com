@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "llama.cppとGGUF量子化でローカルLLMを構築する方法"
 date: 2026-11-25T00:00:00+09:00
 slug: "llama-cpp-gguf-python-local-llm-guide"
