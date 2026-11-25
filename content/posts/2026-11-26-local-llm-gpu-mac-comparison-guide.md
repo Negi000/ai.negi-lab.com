@@ -1,7 +1,8 @@
 ---
 title: "ローカルLLM環境の選び方！Geminiの回答拒否から考える業務で失敗しないGPU・Mac比較"
 date: 2026-11-26T00:00:00+09:00
-slug: "local-llm-gpu-mac-comparison-guide"
+slug: "local-llm-gpu-mac-comparison-guide-draft-2026-11-26"
+draft: true
 description: "クラウドAIの過剰なガードレールは、パブリックドメインすら拒否する実務上のリスクである。開発者が検閲や制限を回避し、安定した業務環境を作るならVRAM 1..."
 cover:
   image: "/images/og-default.png"
