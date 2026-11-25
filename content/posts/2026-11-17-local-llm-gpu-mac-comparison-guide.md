@@ -1,7 +1,8 @@
 ---
 title: "ローカルLLM用GPU・Macおすすめ比較！AI開発者が買う前に見るべき失敗しない選び方"
 date: 2026-11-17T00:00:00+09:00
-slug: "local-llm-gpu-mac-comparison-guide"
+slug: "local-llm-gpu-mac-comparison-guide-draft-2026-11-17"
+draft: true
 description: "AI開発・ローカルLLM運用なら「VRAM 16GB以上のRTX」または「メモリ32GB以上のMac」が最低ラインです。。コスパ重視ならRTX 4060 ..."
 cover:
   image: "/images/posts/2026-11-17-local-llm-gpu-mac-comparison-guide.jpg"
