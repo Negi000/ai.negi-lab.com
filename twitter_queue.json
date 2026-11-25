@@ -15233,5 +15233,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-11-26T01:58:34.814666+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-26-local-llm-gpu-mac-comparison-guide",
+    "title": "ローカルLLM環境の選び方！Geminiの回答拒否から考える業務で失敗しないGPU・Mac比較",
+    "url": "https://ai.negi-lab.com/posts/local-llm-gpu-mac-comparison-guide/",
+    "category": "MONEY",
+    "viral_tags": "#ローカルLLM #エンジニア",
+    "tweet_text": "クラウドAIの「過剰なガードレール」問題。Geminiがパブリックドメインの歌詞すら拒否した件は、開発者がローカルLLM環境を持つべき決定的な理由になります。VRAM 16GB以上のGPUがあれば、検閲なしのLlamaやQwenを0.3秒で叩ける。仕事でAIを使うなら、サブスクより先に足元のハードウェアを固めるべき。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/og-default.png",
+    "created_at": "2026-11-26T03:59:32.029206+09:00",
+    "posted": false
   }
 ]
