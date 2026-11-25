@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-24-local-llm-agent-gpu-vram-guide-worker755",
-    "title": "ローカルLLMエージェント開発の正解は？worker755から学ぶGPUとメモリの選び方比較",
-    "url": "https://ai.negi-lab.com/posts/local-llm-agent-gpu-vram-guide-worker755/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #AIエージェント",
-    "tweet_text": "AIエージェントをローカルで動かすなら、推論速度より「VRAM容量」が命。worker755でLLMの思考プロセスを追うと、指示の重さとメモリ消費の激しさが痛いほど分かります。2025年の開発環境はRTX 4090 24GBがゴール。予算重視でもRTX 4060 Ti 16GBは死守すべき。VRAM 8GBで妥協すると、開発効率で確実に後悔します。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-24-local-llm-agent-gpu-vram-guide-worker755.jpg",
-    "created_at": "2026-11-24T05:54:12.123993+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-24-llm-assisted-reverse-engineering-hardware-guide",
-    "title": "LLMでリバースエンジニアリングを高速化する：実務で使えるRTX・Macの選び方と最新AIツール比較",
-    "url": "https://ai.negi-lab.com/posts/llm-assisted-reverse-engineering-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #リバースエンジニアリング",
-    "tweet_text": "リバースエンジニアリングにLLMを使うなら、VRAM 24GBのRTX 4090か、メモリ64GB以上のMacが必須。逆コンパイル結果は長大で、16GB以下の環境では「文脈の欠落」で推論精度がガタ落ちします。0.3秒の速度より、数万行を一度に飲み込めるVRAM容量。実務で後悔しないためのハードウェア選定基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-11-24T08:38:42.676389+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-24-ollama-open-webui-local-llm-setup-guide",
     "title": "OllamaとOpen WebUIで自分専用のローカルLLM環境を構築する方法",
     "url": "https://ai.negi-lab.com/posts/ollama-open-webui-local-llm-setup-guide/",
