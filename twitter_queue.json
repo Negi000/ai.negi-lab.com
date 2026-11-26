@@ -15247,5 +15247,19 @@
     "image_path": "/images/posts/2026-11-26-coderabbit-verify-ai-agent-testing-review.jpg",
     "created_at": "2026-11-26T12:29:31.958588+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-26-claude-code-cursor-workflow-guide",
+    "title": "Claude CodeとCursorを併用して爆速でプロダクトを開発する環境を構築する方法",
+    "url": "https://ai.negi-lab.com/posts/claude-code-cursor-workflow-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ClaudeCode #Cursor",
+    "tweet_text": "Claude CodeとCursorを併用した開発が異次元。Cursorで設計してClaude Codeに「テストが通るまで修正しろ」と投げれば、デバッグ作業が消滅する。API Tier 2以上は必須だが、数千円で有能なジュニアエンジニアを雇う感覚に近い。RTX 4090を回すより、今はAPIを叩く方がプロダクトは早く完成する。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-26-claude-code-cursor-workflow-guide.jpg",
+    "created_at": "2026-11-26T16:54:40.373193+09:00",
+    "posted": false
   }
 ]
