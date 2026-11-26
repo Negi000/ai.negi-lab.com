@@ -15109,48 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-25-localcode-mac-ai-agent-hardware-guide",
-    "title": "Localcode比較レビュー。MacでローカルAIコーディングを始めるための推奨スペックと選び方",
-    "url": "https://ai.negi-lab.com/posts/localcode-mac-ai-agent-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #Localcode",
-    "tweet_text": "LocalcodeをMacで試した結果、AIエージェントの「砂場」としては最高だけどメモリ食いは予想以上。16GBだとブラウザ併用で即スワップ。実務で自律コーディングさせるならM4 Mac miniの32GB/64GBモデルがコスパ最強の投資。APIコスト削るならRTX 4060 Ti 16GBでローカルLLM運用が正解。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-25-localcode-mac-ai-agent-hardware-guide.jpg",
-    "created_at": "2026-11-25T04:57:35.379537+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-25-local-llm-agent-hardware-guide-rtx-mac",
-    "title": "ローカルLLM環境の選び方と比較｜AIエージェントの囲い込みを回避するRTX・Mac購入ガイド",
-    "url": "https://ai.negi-lab.com/posts/local-llm-agent-hardware-guide-rtx-mac/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #個人開発",
-    "tweet_text": "AIエージェントはユーザーではなく「親会社の利益」のために動く。Claude CodeやCopilotの便利さに隠れたロックインを回避するには、ローカルLLMを回せるハードへの投資が不可欠です。VRAM 16GB以上のRTX、またはメモリ32GB以上のMac。この「足切りライン」を知らずにPCを買うと、AI開発の現場では半年でゴミになります。実務で使える機材選びの基準をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-25-local-llm-agent-hardware-guide-rtx-mac.jpg",
-    "created_at": "2026-11-25T07:09:16.998342+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-25-llama-cpp-gguf-python-local-llm-guide",
-    "title": "llama.cppとGGUF量子化でローカルLLMを構築する方法",
-    "url": "https://ai.negi-lab.com/posts/llama-cpp-gguf-python-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #Python",
-    "tweet_text": "ローカルLLMを動かすならllama.cpp＋GGUFが最強の選択肢。RTX 4090なら秒速60トークン、VRAM 8GBの並スペックでもQ4量子化ならLlama 3がサクサク動く。\n\nAPI料金を気にせず、完全オフラインで機密情報を扱える環境は一度作ると戻れません。環境構築でハマりやすいCUDAビルドのコツと、Pythonでストリーミング実装する具体コードをまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-25-llama-cpp-gguf-python-local-llm-guide.jpg",
-    "created_at": "2026-11-25T08:37:41.083431+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-25-llamacpp-gguf-quantization-setup-guide",
     "title": "llama.cpp 使い方 入門！低スペックPCでLLMを爆速にするGGUF量子化ガイド",
     "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-quantization-setup-guide/",
