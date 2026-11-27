@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-26-apple-silicon-mlx-llm-tutorial",
-    "title": "MLX 使い方 入門 Apple SiliconでLLMを高速に動かす方法",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-llm-tutorial/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "M2/M3 Macを持て余してませんか？Apple公式のMLXを使えば、Llama 3.1 8Bが驚くほど高速に動きます。メモリ32GBなら推論速度も実用レベル。PythonエンジニアがローカルLLMを実務に組み込むなら、ブラックボックスなツールよりMLXが正解です。環境構築からストリーミング実装までガイドにまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-11-26T09:51:58.960154+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-26-coderabbit-verify-ai-agent-testing-review",
-    "title": "CodeRabbit Verify 実行環境を自動テストするAIエージェントの実力",
-    "url": "https://ai.negi-lab.com/posts/coderabbit-verify-ai-agent-testing-review/",
-    "category": "TOOL",
-    "viral_tags": "#CodeRabbit #自動テスト",
-    "tweet_text": "PR作成時にAIが勝手にアプリを起動して動的テストを完結させる「CodeRabbit Verify」が凄まじい。\n\n静的解析じゃ絶対に見抜けない「ボタンが重なって押せない」「API連携のランタイムエラー」を、AIエージェントがブラウザを操作して検出しにくる。\n\nE2Eテストを書く工数がゼロになるわけじゃないが、人間が手動でやる「動作確認」はこれで完全に代替できる段階に来てる。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-26-coderabbit-verify-ai-agent-testing-review.jpg",
-    "created_at": "2026-11-26T12:29:31.958588+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-26-claude-code-cursor-workflow-guide",
     "title": "Claude CodeとCursorを併用して爆速でプロダクトを開発する環境を構築する方法",
     "url": "https://ai.negi-lab.com/posts/claude-code-cursor-workflow-guide/",
