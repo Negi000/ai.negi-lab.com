@@ -15275,5 +15275,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-11-27T08:15:28.778233+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-27-llamacpp-gguf-local-setup-guide",
+    "title": "llama.cpp 使い方 入門 量子化モデル GGUF をローカルで動かす方法",
+    "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-setup-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #llamacpp",
+    "tweet_text": "RTX 4090を2枚挿して分かったが、ローカルLLMはllama.cppが最強の選択肢。Llama 3.1 8Bなら12GBのVRAMがあれば秒速数十トークンで爆速動作する。Ollamaもいいが、実務で細かく制御するならPythonからGGUFを叩くのが一番。量子化はQ4_K_Mが精度と速度の黄金比。買う前に自分のVRAM容量だけは死守して。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-27-llamacpp-gguf-local-setup-guide.jpg",
+    "created_at": "2026-11-27T09:57:41.623926+09:00",
+    "posted": false
   }
 ]
