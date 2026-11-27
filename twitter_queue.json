@@ -15289,5 +15289,19 @@
     "image_path": "/images/og-default.png",
     "created_at": "2026-11-27T12:36:20.651036+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-27-extraorbital-ai-agent-infrastructure-review",
+    "title": "ExtraOrbital AIエージェント専用の即席インフラ構築",
+    "url": "https://ai.negi-lab.com/posts/extraorbital-ai-agent-infrastructure-review/",
+    "category": "TOOL",
+    "viral_tags": "#AIエージェント #個人開発",
+    "tweet_text": "AIエージェント開発の「配管工事」に疲れた人へ。ExtraOrbitalは、数行のコードでDB、S3、APIキー環境を即時プロビジョニングする。\n実務で試すと、リソース割り当てから書き込みまで約0.8秒。\nPOCの爆速化には最高だが、データの永続性やベンダーロックインには注意が必要。\nまずは「使い捨ての実行環境」と割り切って導入するのが正解。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-27-extraorbital-ai-agent-infrastructure-review.jpg",
+    "created_at": "2026-11-27T16:55:24.504344+09:00",
+    "posted": false
   }
 ]
