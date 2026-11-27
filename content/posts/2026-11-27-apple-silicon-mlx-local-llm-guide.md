@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "MLX入門 Apple SiliconでローカルLLMを爆速で動かす方法"
 date: 2026-11-27T00:00:00+09:00
 slug: "apple-silicon-mlx-local-llm-guide"
