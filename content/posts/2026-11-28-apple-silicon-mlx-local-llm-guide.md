@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "MacのGPUを限界まで使い切るMLXでローカルLLMを動かす入門"
 date: 2026-11-28T00:00:00+09:00
 slug: "apple-silicon-mlx-local-llm-guide"
