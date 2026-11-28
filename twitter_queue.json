@@ -15275,5 +15275,19 @@
     "image_path": "/images/posts/2026-11-28-ollama-openwebui-local-llm-guide.jpg",
     "created_at": "2026-11-28T07:54:23.770918+09:00",
     "posted": false
+  },
+  {
+    "article_id": "2026-11-28-apple-silicon-mlx-local-llm-guide",
+    "title": "MacのGPUを限界まで使い切るMLXでローカルLLMを動かす入門",
+    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-guide/",
+    "category": "GUIDE",
+    "viral_tags": "#ローカルLLM #AppleSilicon",
+    "tweet_text": "MacのGPUを眠らせておくのは勿体ない。MLXを使えば、メモリ16GBのMacBookでも秒間50トークン超えで最新LLMが動きます。\n\nAPI代は0円。プライバシーも完全保護。実務で使うならGUIツールより、Pythonからmlx-lmを叩くのが結局一番の近道です。統合メモリを活かして、自分だけのオフラインAI環境を構築する手順をまとめました。",
+    "hook_text": null,
+    "summary_text": null,
+    "question_text": null,
+    "image_path": "/images/posts/2026-11-28-apple-silicon-mlx-local-llm-guide.jpg",
+    "created_at": "2026-11-28T09:22:57.466893+09:00",
+    "posted": false
   }
 ]
