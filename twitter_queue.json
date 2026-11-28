@@ -15109,34 +15109,6 @@
     "posted": true
   },
   {
-    "article_id": "2026-11-27-gpt-6-protein-design-hardware-guide",
-    "title": "GPT-6時代の開発PCおすすめ比較｜RTX 4090かMac Studioか選ぶ基準",
-    "url": "https://ai.negi-lab.com/posts/gpt-6-protein-design-hardware-guide/",
-    "category": "MONEY",
-    "viral_tags": "#ローカルLLM #RTX4090",
-    "tweet_text": "GPT-6がタンパク質設計まで可能にする推論力を示した今、開発PC選びの基準が変わりました。API派もローカル派も「VRAM 24GB」か「Macメモリ64GB以上」が仕事の最低ライン。中途半端なスペックで推論待ちをする時間は、月額料金より高くつきます。今、楽天やAmazonで狙うべき具体的な型番をまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/posts/2026-11-27-gpt-6-protein-design-hardware-guide.jpg",
-    "created_at": "2026-11-27T06:11:52.084453+09:00",
-    "posted": false
-  },
-  {
-    "article_id": "2026-11-27-apple-silicon-mlx-local-llm-guide",
-    "title": "MLX入門 Apple SiliconでローカルLLMを爆速で動かす方法",
-    "url": "https://ai.negi-lab.com/posts/apple-silicon-mlx-local-llm-guide/",
-    "category": "GUIDE",
-    "viral_tags": "#ローカルLLM #MLX",
-    "tweet_text": "Apple SiliconのGPUを眠らせておくのはもったいない。MLXを使えば、Llama 3等の最新LLMがMac上で爆速で動きます。\n\nRTX 4090を2枚挿しで運用する私でも、Macの「静かで速い」推論環境には驚かされます。特に32GB以上のメモリ搭載機なら、API課金なしで開発し放題。\n\nPythonでローカルLLMを制御する最短ルートをまとめました。",
-    "hook_text": null,
-    "summary_text": null,
-    "question_text": null,
-    "image_path": "/images/og-default.png",
-    "created_at": "2026-11-27T08:15:28.778233+09:00",
-    "posted": false
-  },
-  {
     "article_id": "2026-11-27-llamacpp-gguf-local-setup-guide",
     "title": "llama.cpp 使い方 入門 量子化モデル GGUF をローカルで動かす方法",
     "url": "https://ai.negi-lab.com/posts/llamacpp-gguf-local-setup-guide/",
